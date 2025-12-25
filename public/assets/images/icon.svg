@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="toolsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e5007d"/>
+      <stop offset="100%" style="stop-color:#ff1493"/>
+    </linearGradient>
+  </defs>
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="#37404c"/>
+  <!-- Wrench -->
+  <path d="M28 72L42 58L52 68L38 82C35 85 30 85 27 82C24 79 24 74 28 72Z" fill="url(#toolsGradient)"/>
+  <path d="M45 55L58 42C54 37 54 29 59 24C64 19 72 19 77 24L67 34L69 42L77 44L87 34C87 44 82 52 74 54C66 56 59 54 54 49L42 61L45 55Z" fill="url(#toolsGradient)"/>
+  <!-- Gear -->
+  <circle cx="30" cy="32" r="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <rect x="28" y="20" width="4" height="5" fill="#ffffff"/>
+  <rect x="28" y="39" width="4" height="5" fill="#ffffff"/>
+  <rect x="18" y="30" width="5" height="4" fill="#ffffff"/>
+  <rect x="37" y="30" width="5" height="4" fill="#ffffff"/>
+</svg>
