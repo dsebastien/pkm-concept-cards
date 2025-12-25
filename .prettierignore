@@ -1,0 +1,7 @@
+dist
+node_modules
+CHANGELOG.md
+public
+.claude/
+package.json
+package-lock.json
