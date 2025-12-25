@@ -97,6 +97,12 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
         }
     }, [isOpen])
 
+    useEffect(() => {
+        if (isOpen && modalRef.current && concept) {
+            modalRef.current.scrollTop = 0
+        }
+    }, [isOpen, concept])
+
     if (!isOpen || !concept) return null
 
     const handleBackdropClick = (e: React.MouseEvent) => {
@@ -212,7 +218,7 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                         <button
                                             key={conceptId}
                                             onClick={() => onNavigateToConcept(relatedConcept)}
-                                            className='bg-secondary/10 hover:bg-secondary/20 text-secondary border-secondary/20 flex items-center gap-2 rounded-full border px-3 py-1.5 text-sm transition-colors'
+                                            className='bg-secondary/10 hover:bg-secondary/20 text-secondary border-secondary/20 flex cursor-pointer items-center gap-2 rounded-full border px-3 py-1.5 text-sm transition-colors'
                                         >
                                             <ConceptIcon
                                                 icon={relatedConcept.icon}
