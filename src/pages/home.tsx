@@ -137,7 +137,10 @@ const HomePage: React.FC = () => {
             }
 
             // Tags filter
-            if (selectedTags.length > 0 && !selectedTags.some((tag) => concept.tags.includes(tag))) {
+            if (
+                selectedTags.length > 0 &&
+                !selectedTags.some((tag) => concept.tags.includes(tag))
+            ) {
                 return false
             }
 
@@ -267,7 +270,7 @@ const HomePage: React.FC = () => {
 
                 {/* Results count */}
                 <div className='text-primary/60 mb-6 text-sm'>
-                    Showing {sortedConcepts.length} of {totalConcepts} concepts
+                    Showing {sortedConcepts.length} of {totalConcepts} entries
                     {searchQuery && ` matching "${searchQuery}"`}
                 </div>
 
