@@ -1,0 +1,18 @@
+{
+    "id": "asynchronous-communication",
+    "name": "Asynchronous Communication",
+    "summary": "Communication that doesn't require immediate response, allowing for thoughtful replies.",
+    "explanation": "Asynchronous Communication allows participants to respond on their own schedule rather than in real-time. Email, recorded videos, and written documents are asynchronous; meetings and calls are synchronous. Async communication benefits deep thinkers who need time to process, enables global collaboration across time zones, creates written records, and respects focus time. The tradeoff is slower back-and-forth and potential for miscommunication without immediate clarification. Effective async requires clarity and context upfront.",
+    "tags": ["communication", "remote-work", "productivity"],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["Async communication", "Async-first"],
+    "relatedConcepts": ["deep-work", "context-switching", "writing-is-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Deep+Thinking+in+a+Fast+World+-+The+Case+for+Asynchronous+Communication+(Article)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

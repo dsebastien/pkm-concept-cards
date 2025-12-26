@@ -1,0 +1,18 @@
+{
+    "id": "verba-volant-scripta-manent",
+    "name": "Verba Volant, Scripta Manent",
+    "summary": "Spoken words fly away, written words remain - the permanence of writing.",
+    "explanation": "This Latin proverb means 'spoken words fly away, written words remain.' It captures the fundamental difference between oral and written communication: speech is ephemeral while writing persists. This has implications for accountability (be careful what you write), knowledge preservation (write important things down), and communication strategy (use writing for what needs to last). In PKM, this principle underlies the value of externalizing knowledge - what's only in your head will eventually be lost.",
+    "tags": ["communication", "writing", "principles"],
+    "category": "Principles",
+    "icon": "FaPenNib",
+    "featured": false,
+    "aliases": ["Words fly away", "Writing remains"],
+    "relatedConcepts": ["writing-is-thinking", "second-brain", "knowledge-management"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.05+Quotes/Verba+volant,+scripta+manent"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

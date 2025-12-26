@@ -1,0 +1,18 @@
+{
+    "id": "billboard-principle",
+    "name": "Billboard Principle",
+    "summary": "Design communication to be understood in seconds, like a billboard seen while driving.",
+    "explanation": "The Billboard Principle states that key messages should be understandable at a glance, like a billboard you pass on the highway. You have only seconds to communicate the essential point. This applies to slide titles, email subject lines, headlines, and any communication competing for attention. If your message requires careful study to understand, it will likely be ignored. Distill to the essence, use clear language, and make the main point immediately obvious.",
+    "tags": ["communication", "design", "principles"],
+    "category": "Principles",
+    "icon": "FaImage",
+    "featured": false,
+    "aliases": ["Billboard test", "Glance test"],
+    "relatedConcepts": ["high-concept-ideas", "signal-to-noise-ratio", "essentialism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Billboard+principle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

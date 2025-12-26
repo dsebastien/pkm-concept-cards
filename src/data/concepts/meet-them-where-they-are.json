@@ -1,0 +1,18 @@
+{
+    "id": "meet-them-where-they-are",
+    "name": "Meet Them Where They Are",
+    "summary": "Adapt your communication to the audience's current knowledge, context, and emotional state.",
+    "explanation": "Meeting people where they are means adjusting your message to match your audience's current understanding, concerns, and readiness rather than where you want them to be. This applies to knowledge level (don't assume expertise), emotional state (acknowledge feelings before logic), and context (address immediate concerns first). Effective teachers, leaders, and communicators start from the audience's position and guide them forward, rather than expecting them to jump to the communicator's level.",
+    "tags": ["communication", "teaching", "principles"],
+    "category": "Principles",
+    "icon": "FaHandshake",
+    "featured": false,
+    "aliases": ["Start where they are", "Audience awareness"],
+    "relatedConcepts": ["empathy-canvas", "overlapping-realities", "buyer-persona"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Meet+them+where+they+are+at"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

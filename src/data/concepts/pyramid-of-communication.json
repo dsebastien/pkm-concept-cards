@@ -1,0 +1,28 @@
+{
+    "id": "pyramid-of-communication",
+    "name": "Pyramid of Communication",
+    "summary": "A hierarchical structure for presenting information from conclusion to supporting details.",
+    "explanation": "The Pyramid of Communication (or Pyramid Principle, developed by Barbara Minto at McKinsey) structures communication with the main conclusion at the top, supported by key arguments below, and detailed evidence at the base. This inverts the natural tendency to build up to a conclusion. By stating the answer first, you respect the audience's time and let them choose how deep to go. It's especially effective in business writing where readers are busy and may not read everything.",
+    "tags": ["communication", "writing", "frameworks"],
+    "category": "Frameworks",
+    "icon": "FaCaretUp",
+    "featured": false,
+    "aliases": ["Pyramid principle", "BLUF", "Bottom line up front"],
+    "relatedConcepts": [
+        "billboard-principle",
+        "hook-context-main-points",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Pyramid+of+communication"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Pyramid Principle",
+            "url": "https://amzn.to/4bYcbYz",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

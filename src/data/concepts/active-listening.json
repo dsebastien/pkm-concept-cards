@@ -1,0 +1,16 @@
+{
+    "id": "active-listening",
+    "name": "Active Listening",
+    "summary": "Fully concentrating on what is being said rather than passively hearing.",
+    "explanation": "Active Listening is a communication technique requiring full concentration, understanding, responding, and remembering what's being said. It involves paying attention, showing you're listening (nodding, eye contact), providing feedback (paraphrasing, asking questions), deferring judgment, and responding appropriately. Unlike passive hearing, active listening is hard work that builds trust, reduces misunderstandings, and helps speakers feel valued. It's especially important in difficult conversations, coaching, and leadership.",
+    "tags": ["communication", "techniques", "listening"],
+    "category": "Techniques",
+    "icon": "FaHeadphones",
+    "featured": false,
+    "aliases": ["Attentive listening", "Engaged listening"],
+    "relatedConcepts": ["undivided-attention", "empathy-canvas", "structured-feedback"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

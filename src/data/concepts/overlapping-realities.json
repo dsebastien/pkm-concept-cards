@@ -1,0 +1,18 @@
+{
+    "id": "overlapping-realities",
+    "name": "Overlapping Realities",
+    "summary": "Each person experiences a different version of reality based on their unique perspective.",
+    "explanation": "Overlapping Realities recognizes that each person perceives and interprets the world through their unique lens of experiences, beliefs, and mental models. In any interaction, people operate from different 'realities' that only partially overlap. Miscommunication often stems from assuming others share your reality. Effective communication requires acknowledging these differences, seeking to understand others' perspectives, and finding common ground where realities overlap. This is especially important in diverse teams and cross-cultural contexts.",
+    "tags": ["communication", "psychology", "perspective"],
+    "category": "Concepts",
+    "icon": "FaCircle",
+    "featured": false,
+    "aliases": ["Subjective reality", "Different perspectives"],
+    "relatedConcepts": ["empathy-canvas", "mental-models", "perceptual-set"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Overlapping+realities"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

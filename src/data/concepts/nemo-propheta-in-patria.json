@@ -1,0 +1,18 @@
+{
+    "id": "nemo-propheta-in-patria",
+    "name": "Nemo Propheta in Patria",
+    "summary": "No one is a prophet in their own land - expertise is often more valued by outsiders.",
+    "explanation": "Nemo Propheta in Patria (No prophet is accepted in his own country) describes how people often undervalue the expertise of those closest to them while respecting the same expertise from outsiders. Your colleagues may dismiss ideas that an external consultant would be praised for. This happens because familiarity breeds assumptions about capabilities, and we associate expertise with distance and novelty. Understanding this bias helps in positioning ideas and recognizing when you might be undervaluing local knowledge.",
+    "tags": ["communication", "psychology", "principles"],
+    "category": "Concepts",
+    "icon": "FaUserTie",
+    "featured": false,
+    "aliases": ["No prophet in his own land", "Prophet in own country"],
+    "relatedConcepts": ["subject-matter-expert", "social-proof", "familiarity-bias"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.04+Expressions/Nemo+propheta+in+patria"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

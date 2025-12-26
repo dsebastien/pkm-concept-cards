@@ -1,0 +1,18 @@
+{
+    "id": "structured-feedback",
+    "name": "Structured Feedback",
+    "summary": "A systematic approach to giving feedback that is specific, actionable, and constructive.",
+    "explanation": "Structured Feedback uses frameworks to make feedback clear, specific, and actionable rather than vague or personal. Common structures include SBI (Situation-Behavior-Impact), describing what happened, what was observed, and the effect. Good feedback focuses on behaviors (changeable) not personality (fixed), provides specific examples, and suggests paths forward. Structure prevents feedback from becoming personal attacks or unhelpful generalizations, making it easier to give, receive, and act upon.",
+    "tags": ["communication", "feedback", "techniques"],
+    "category": "Techniques",
+    "icon": "FaComments",
+    "featured": false,
+    "aliases": ["SBI feedback", "Constructive feedback"],
+    "relatedConcepts": ["continuous-improvement", "growth-mindset", "collaboration"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+to+give+structured+feedback"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

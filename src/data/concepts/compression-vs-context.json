@@ -1,0 +1,22 @@
+{
+    "id": "compression-vs-context",
+    "name": "Compression vs Context Tension",
+    "summary": "The tradeoff between brevity and providing enough background for understanding.",
+    "explanation": "Every communication faces tension between compression (being concise) and context (providing background). Highly compressed messages are efficient for experts but confusing for newcomers. Context-rich messages are accessible but time-consuming. The right balance depends on audience knowledge and communication medium. Effective communicators calibrate this tradeoff, providing enough context for understanding while respecting attention limits. Progressive disclosure - starting compressed with context available on demand - can bridge this tension.",
+    "tags": ["communication", "writing", "principles"],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Brevity vs clarity", "Concision tradeoff"],
+    "relatedConcepts": [
+        "progressive-summarization",
+        "signal-to-noise-ratio",
+        "billboard-principle"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Natural+tension+between+compression+and+context"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
