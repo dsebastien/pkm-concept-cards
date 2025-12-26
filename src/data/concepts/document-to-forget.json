@@ -1,0 +1,18 @@
+{
+    "id": "document-to-forget",
+    "name": "Document to Forget",
+    "summary": "The purpose of documentation is to free your mind from remembering—once properly recorded, information can be safely forgotten.",
+    "explanation": "Document to Forget is a principle that reframes the purpose of documentation and note-taking. Rather than documenting to remember, we document so we can forget—freeing mental capacity for more important thinking.\n\n**The Core Insight**:\n\nOnce something has been properly documented in a trusted system with a Single Source of Truth (SSOT), we can usually forget about it altogether. We know we can find it later if and when needed.\n\n**Why This Matters**:\n\n1. **Mental freedom**: Your brain is for having ideas, not holding them\n2. **Reduced cognitive load**: Stop carrying information in your head\n3. **Lower anxiety**: Trust that important things won't be lost\n4. **Better focus**: Attention isn't split between doing and remembering\n5. **Reliable retrieval**: A documented system is more reliable than memory\n\n**Requirements for This to Work**:\n\n- **Trusted system**: You must trust your documentation system\n- **Single Source of Truth**: One authoritative location for each type of information\n- **Good organization**: Information must be findable\n- **Regular use**: The system must be a habit\n\n**Practical Applications**:\n\n- **Meeting notes**: Document decisions so you don't have to remember them\n- **Processes**: Write them down once, forget the details\n- **Ideas**: Capture immediately, process later\n- **Reference material**: Store it properly, don't memorize it\n- **Commitments**: Record them in a task system, clear your mind\n\n**Connection to GTD**:\n\nThis principle underlies David Allen's Getting Things Done methodology—capture everything externally so your mind is clear for focused work.\n\n**The Paradox**:\n\nBy documenting to forget, you actually remember more. The externalized memory is more reliable than biological memory, and you can retrieve it exactly when needed.",
+    "tags": ["documentation", "pkm", "memory", "cognitive-load", "productivity", "note-taking"],
+    "category": "Principles",
+    "icon": "FaPenNib",
+    "featured": false,
+    "aliases": ["Write to Forget", "Externalize to Forget"],
+    "relatedConcepts": ["ssot", "gtd", "capture-habit", "second-brain", "cognitive-load"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Document+to+forget,+not+to+remember"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

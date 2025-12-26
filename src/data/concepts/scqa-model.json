@@ -1,0 +1,18 @@
+{
+    "id": "scqa-model",
+    "name": "SCQA Model",
+    "summary": "A storytelling framework using Situation, Complication, Question, and Answer to structure compelling narratives.",
+    "explanation": "The SCQA Model is a storytelling and communication framework that helps structure messages in a way that naturally engages the audience. It's particularly effective for business communication, presentations, and persuasive writing.\n\n**The Four Elements**:\n\n1. **Situation**: Set the stage by describing the current state or context\n   - What's the background?\n   - What does the audience already know or agree with?\n   - Establish common ground\n\n2. **Complication**: Introduce the problem, challenge, or change\n   - What's wrong or changing?\n   - Poke the pain point\n   - Create tension that needs resolution\n\n3. **Question**: Articulate what needs to be resolved\n   - What should we do about it?\n   - Build intrigue\n   - This is often implicit—the audience naturally asks it\n\n4. **Answer**: Provide the solution or recommendation\n   - Dangle and then deliver the solution\n   - This is your main message or call to action\n\n**Why It Works**:\n\n- **Natural flow**: Mirrors how humans naturally process information\n- **Engagement**: The complication creates tension that demands resolution\n- **Clarity**: Forces you to be clear about problem and solution\n- **Persuasion**: Leads the audience to want your answer\n\n**Example**:\n\n- **S**: Your team spends 10 hours weekly on manual reporting\n- **C**: This leaves no time for strategic analysis, and competitors are pulling ahead\n- **Q**: How can we free up time for high-value work?\n- **A**: Automate reporting with our dashboard tool\n\n**Applications**:\n\n- Executive summaries\n- Sales pitches\n- Problem-solving presentations\n- Blog post introductions\n- Email communication\n\nThe model comes from Barbara Minto's Pyramid Principle and is widely used in consulting and business writing.",
+    "tags": ["storytelling", "communication", "writing", "frameworks", "business", "presentations"],
+    "category": "Frameworks",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["SCQA Framework", "Situation Complication Question Answer"],
+    "relatedConcepts": ["abt-storytelling", "pyramid-of-communication", "hook-context-main-points"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/SCQA+Storytelling+model"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

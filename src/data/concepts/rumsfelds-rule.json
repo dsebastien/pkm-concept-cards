@@ -1,0 +1,23 @@
+{
+    "id": "rumsfelds-rule",
+    "name": "Rumsfeld's Rule",
+    "summary": "You go to war with the army you have, not the army you might want—a principle about working with current resources rather than waiting for ideal conditions.",
+    "explanation": "Rumsfeld's Rule originates from Donald Rumsfeld's statement: 'You go to war with the army you have, not the army you might want or wish to have at a later time.'\n\nWhile originally about military readiness, this principle applies broadly to life and work:\n\n**Core Message**:\n\n- Start with what you have right now\n- Don't wait for perfect conditions or resources\n- Work within your current constraints\n- Take action with available tools, skills, and circumstances\n\n**Why This Matters**:\n\n1. **Perfect conditions never arrive**: If you wait until everything is ideal, you'll wait forever\n2. **Action creates momentum**: Starting with what you have often reveals resources you didn't know you had\n3. **Learning through doing**: You can only improve your 'army' by engaging, not by waiting\n4. **Opportunity cost**: While you wait for better resources, opportunities pass\n\n**Practical Applications**:\n\n- **Starting a business**: Launch with your current skills and budget rather than waiting for more funding or expertise\n- **Creative projects**: Use available tools rather than waiting for better equipment\n- **Career moves**: Apply for roles with your current qualifications rather than endlessly preparing\n- **Learning**: Start practicing with beginner resources rather than waiting for the 'perfect' course\n\n**Balance Required**:\n\nThis doesn't mean rushing in unprepared. It means:\n- Doing reasonable preparation, then acting\n- Accepting that 'good enough' resources are sufficient to start\n- Iterating and improving as you go\n- Recognizing when waiting becomes an excuse for inaction\n\nThe principle complements 'Start Before You're Ready'—both emphasize action over endless preparation.",
+    "tags": ["action", "starting", "pragmatism", "decision-making", "resources"],
+    "category": "Principles",
+    "icon": "FaArrowRight",
+    "featured": false,
+    "aliases": ["Go With What You Have", "Work With Available Resources"],
+    "relatedConcepts": [
+        "start-before-you-are-ready",
+        "bias-for-action",
+        "minimum-viable-product",
+        "good-enough"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Rumsfeld's+Rule"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

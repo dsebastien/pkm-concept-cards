@@ -1,0 +1,24 @@
+{
+    "id": "capture-on-the-run",
+    "name": "Capture on the Run",
+    "summary": "The practice of being always ready to capture ideas and thoughts whenever and wherever they arise, not just at your desk.",
+    "explanation": "Capture on the Run is the practice of capturing ideas, thoughts, and insights in the moment they occur—regardless of where you are or what you're doing. It recognizes that valuable thoughts don't wait for convenient times.\n\n**The Reality of Ideas**:\n\nIdeas and thoughts come and go unpredictably. They're not constrained to specific times or places:\n- In the shower\n- While commuting\n- During conversations\n- While exercising\n- In the middle of the night\n- During unrelated activities\n\nIf you wait to write them down 'properly' later, they often vanish.\n\n**Being Ready to Capture**:\n\nTo capture on the run effectively, you need:\n\n1. **Ubiquitous capture tools**: Phone apps, pocket notebooks, voice memos—something always accessible\n2. **Low friction**: The capture method must be faster than the thought fades\n3. **Permission to be messy**: On-the-run captures are rough drafts, not polished notes\n4. **Habitual awareness**: Training yourself to recognize capture-worthy moments\n\n**Practical Tools**:\n\n- **Smartphone apps**: Quick capture to your notes system\n- **Voice memos**: When typing isn't possible\n- **Pocket notebooks**: Analog backup that never runs out of battery\n- **Wearable devices**: Quick voice capture\n- **Send-to-self**: Email or message yourself\n\n**The Processing Step**:\n\nCaptures on the run are temporary holding places. They need regular processing:\n- Review captured items daily or weekly\n- Expand rough notes while memory is fresh\n- Route items to appropriate places in your system\n- Delete what's no longer relevant\n\n**Why It Matters**:\n\nYour best ideas often come when you're not actively trying to think. Capturing on the run ensures these serendipitous insights aren't lost. It's the foundation of a reliable capture habit.",
+    "tags": ["capture", "note-taking", "ideas", "productivity", "pkm", "habits"],
+    "category": "Techniques",
+    "icon": "FaPenNib",
+    "featured": false,
+    "aliases": ["Writing on the Run", "Mobile Capture", "Ubiquitous Capture"],
+    "relatedConcepts": [
+        "capture-habit",
+        "capture-system",
+        "fleeting-notes",
+        "inbox-zero",
+        "brain-dumps"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Writing+on+the+run"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

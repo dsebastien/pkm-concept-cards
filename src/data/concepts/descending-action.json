@@ -1,0 +1,24 @@
+{
+    "id": "descending-action",
+    "name": "Descending Action",
+    "summary": "The phase of a story after the climax where tension decreases, consequences unfold, and meaningful takeaways emerge.",
+    "explanation": "Descending Action (also called Falling Action) is the phase of a narrative that occurs after the climax. While the climax represents the peak of tension and conflict, descending action guides the audience through the aftermath toward resolution.\n\n**Position in Story Structure** (Freytag's Pyramid):\n\n1. Exposition (setup)\n2. Rising Action (building tension)\n3. Climax (peak moment)\n4. **Descending Action** (aftermath)\n5. Resolution/Denouement (conclusion)\n\n**What Happens During Descending Action**:\n\n- **Consequences unfold**: The effects of the climax become clear\n- **Loose ends tie up**: Subplots and secondary conflicts resolve\n- **Reflection occurs**: Characters (and audience) process what happened\n- **Meaning emerges**: The significance of events becomes apparent\n- **Tension releases**: The audience begins to relax\n\n**Why It Matters**:\n\n- **Provides closure**: Audiences need time to process the climax\n- **Delivers takeaways**: This is where lessons and themes crystallize\n- **Prevents abruptness**: Cutting straight from climax to end feels jarring\n- **Emotional landing**: Guides the audience to the intended emotional end state\n\n**In Non-Fiction Writing**:\n\nFor articles and essays, descending action is where you:\n- Summarize implications\n- Offer actionable insights\n- Connect back to the reader's life\n- Provide a satisfying conclusion\n\n**Common Mistakes**:\n\n- Rushing through descending action (too abrupt)\n- Making it too long (loses momentum)\n- Introducing new conflicts (confuses the arc)\n- Skipping reflection (misses the meaning)\n\nThe best descending action leaves the audience with both closure and something to think about.",
+    "tags": ["storytelling", "writing", "narrative", "structure", "content-creation"],
+    "category": "Techniques",
+    "icon": "FaArrowRight",
+    "featured": false,
+    "aliases": ["Falling Action", "Post-Climax", "Story Resolution"],
+    "relatedConcepts": ["story-arcs", "rate-of-revelation", "abt-storytelling"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Descending+Action"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Freytag's Pyramid - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dramatic_structure",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": "stoic-virtues",
+    "name": "Stoic Virtues",
+    "summary": "The four cardinal virtues of Stoicism—Wisdom, Justice, Courage, and Moderation—considered the foundation of a good life.",
+    "explanation": "The Stoic Virtues are four cardinal virtues that the Stoics considered essential for living a good life (eudaimonia). They believed that virtue is the only true good and that these four virtues encompass all aspects of moral excellence.\n\n**The Four Cardinal Virtues**:\n\n1. **Wisdom (Sophia/Prudentia)**\n   - The ability to navigate complex situations with good judgment\n   - Understanding what is truly valuable and what is not\n   - Knowing what is within our control and what isn't\n   - Making decisions aligned with nature and reason\n\n2. **Justice (Dikaiosyne/Iustitia)**\n   - Treating others fairly and with dignity\n   - Fulfilling our duties to community and society\n   - Acting with integrity in relationships\n   - Giving others what they are due\n\n3. **Courage (Andreia/Fortitudo)**\n   - Not just physical bravery, but moral courage\n   - Facing difficulties and fears without being overwhelmed\n   - Persisting in what is right despite obstacles\n   - Speaking truth even when unpopular\n\n4. **Moderation (Sophrosyne/Temperantia)**\n   - Self-control and discipline\n   - Avoiding excess in all things\n   - Mastery over desires and impulses\n   - Finding balance and the 'golden mean'\n\n**How They Work Together**:\n\n- Wisdom guides us to know what is right\n- Justice ensures we act rightly toward others\n- Courage gives us strength to act despite fear\n- Moderation keeps our actions balanced\n\n**Practical Application**:\n\nWhen facing any situation, ask:\n- What would wisdom suggest? (What's the wise course?)\n- What does justice require? (What's fair to others?)\n- What does courage demand? (What am I afraid to do that's right?)\n- What does moderation advise? (Am I being excessive or deficient?)\n\nThese virtues are interconnected—you cannot truly have one without the others. They form the core of Stoic ethics and character development.",
+    "tags": ["stoicism", "philosophy", "virtue", "ethics", "character", "values"],
+    "category": "Frameworks",
+    "icon": "FaPray",
+    "featured": false,
+    "aliases": ["Four Cardinal Virtues", "Stoic Values", "Cardinal Virtues"],
+    "relatedConcepts": [
+        "stoicism",
+        "summum-bonum",
+        "dichotomy-of-control",
+        "personal-value-system"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Stoic+values"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Cardinal Virtues - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cardinal_virtues",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

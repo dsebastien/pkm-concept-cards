@@ -1,0 +1,23 @@
+{
+    "id": "7-11-4-rule",
+    "name": "7-11-4 Rule",
+    "summary": "A marketing principle stating that a buyer needs 7 hours of interaction across 11 touchpoints in 4 different locations before making a purchase.",
+    "explanation": "The 7-11-4 Rule is a marketing and sales framework that quantifies the level of exposure and engagement typically required before a prospect becomes a customer. It emphasizes that purchasing decisions rarely happen after a single interaction.\n\n**The Three Numbers**:\n\n- **7 Hours**: A potential buyer needs approximately 7 hours of total interaction time with your content, brand, or message before they're ready to buy\n- **11 Touchpoints**: These 7 hours should be spread across at least 11 separate interactions or touchpoints\n- **4 Locations**: The touchpoints should occur across at least 4 different channels or platforms\n\n**Why This Matters**:\n\n1. **Trust takes time**: People need repeated exposure to build trust and familiarity with a brand or product\n2. **Multi-channel presence**: Being visible in multiple places reinforces credibility\n3. **Different content types**: Various touchpoints allow you to address different concerns and learning styles\n4. **Top of mind**: Regular touchpoints keep you present when the buying decision is made\n\n**Practical Applications**:\n\n- **Content strategy**: Create enough diverse content to provide 7+ hours of value\n- **Channel diversity**: Be present on multiple platforms (blog, social media, email, video, podcast)\n- **Nurture sequences**: Design marketing funnels with multiple touchpoints\n- **Patience**: Understand that conversion takes time—don't expect instant results\n\n**Types of Touchpoints**:\n\n- Blog posts and articles\n- Social media posts\n- Email newsletters\n- Videos and webinars\n- Podcast episodes\n- Case studies\n- Free resources and downloads\n- Comments and engagement\n\nThis rule helps marketers set realistic expectations and design comprehensive strategies rather than relying on single-shot campaigns.",
+    "tags": ["marketing", "sales", "business", "content-strategy", "customer-acquisition"],
+    "category": "Principles",
+    "icon": "FaStore",
+    "featured": false,
+    "aliases": ["Seven Eleven Four Rule", "Marketing Touchpoints Rule"],
+    "relatedConcepts": [
+        "content-pillars",
+        "buyer-persona",
+        "viral-loop",
+        "audience-acquisition-flywheel"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/7-11-4+rule"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

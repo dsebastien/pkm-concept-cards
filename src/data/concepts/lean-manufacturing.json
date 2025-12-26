@@ -1,0 +1,24 @@
+{
+    "id": "lean-manufacturing",
+    "name": "Lean Manufacturing",
+    "summary": "A systematic method for eliminating waste within a manufacturing system while maximizing value for customers.",
+    "explanation": "Lean Manufacturing is a production philosophy and systematic approach focused on minimizing waste while maximizing value creation. Originally developed by Toyota (as the Toyota Production System), it has become a foundational methodology across industries.\n\n**Core Philosophy**:\n\nCreate more value for customers with fewer resources by systematically identifying and eliminating waste.\n\n**The Seven Types of Waste (Muda)**:\n\n1. **Transport**: Unnecessary movement of materials\n2. **Inventory**: Excess products or materials not being processed\n3. **Motion**: Unnecessary movement by people\n4. **Waiting**: Idle time waiting for the next step\n5. **Overproduction**: Making more than needed\n6. **Over-processing**: More work than required\n7. **Defects**: Effort involved in inspecting and fixing errors\n\n**Key Principles**:\n\n1. **Define value** from the customer's perspective\n2. **Map the value stream** to identify all steps\n3. **Create flow** by eliminating interruptions\n4. **Establish pull** systems (produce only what's needed)\n5. **Pursue perfection** through continuous improvement\n\n**Core Practices**:\n\n- **Kaizen**: Continuous incremental improvement\n- **Just-in-Time**: Produce only what's needed, when it's needed\n- **Kanban**: Visual system to manage workflow\n- **5S**: Sort, Set in order, Shine, Standardize, Sustain\n- **Poka-yoke**: Error-proofing mechanisms\n\n**Beyond Manufacturing**:\n\nLean principles have been applied to:\n- Software development (Lean Software Development)\n- Startups (Lean Startup)\n- Healthcare, services, and knowledge work\n- Personal productivity\n\n**Connection to Quality**:\n\nLean is closely related to Total Quality Management and Six Sigma. The emphasis on eliminating waste naturally leads to higher quality, as defects are a form of waste.",
+    "tags": ["manufacturing", "efficiency", "quality", "processes", "toyota", "waste-elimination"],
+    "category": "Frameworks",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["Lean Production", "Toyota Production System", "TPS"],
+    "relatedConcepts": ["kaizen", "continuous-improvement", "kanban", "minimum-viable-product"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Lean+manufacturing"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Lean Manufacturing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lean_manufacturing",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

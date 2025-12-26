@@ -1,0 +1,18 @@
+{
+    "id": "20-percent-rule",
+    "name": "20% Rule",
+    "summary": "An investment strategy recommending that roughly 20% of a portfolio be allocated to alternative investments uncorrelated with the stock market.",
+    "explanation": "The 20% Rule is an investment diversification strategy that aims to reduce portfolio risk by allocating approximately 20% of investments into alternative asset classes that have little to no correlation with traditional stock market investments.\n\n**Core Principle**: By including assets that don't move in sync with the stock market, you can reduce overall portfolio volatility and protect against market downturns. When stocks decline, uncorrelated assets may hold steady or even increase in value.\n\n**Types of Alternative Investments**:\n\n- **Private real estate**: Direct property ownership or private REITs\n- **Commodities**: Gold, silver, oil, agricultural products\n- **Private equity**: Investments in private companies\n- **Hedge funds**: Various alternative strategies\n- **Collectibles**: Art, wine, rare items\n- **Cryptocurrency**: Digital assets (though increasingly correlated with tech stocks)\n- **Infrastructure**: Roads, bridges, utilities\n\n**When to Apply This Rule**:\n\n- During periods of high uncertainty and market volatility\n- In high inflation environments (many alternatives hedge against inflation)\n- When stock valuations seem stretched\n- As part of long-term portfolio construction\n\n**Benefits**:\n\n- Reduced portfolio volatility\n- Protection during market downturns\n- Potential inflation hedge\n- Access to different return streams\n\n**Considerations**:\n\n- Alternative investments often have lower liquidity\n- May have higher fees\n- Require more due diligence\n- Some alternatives have minimum investment requirements\n- The 20% figure is a guideline, not a strict rule\n\nThis rule complements traditional diversification across stocks and bonds by adding a third dimension of truly uncorrelated assets.",
+    "tags": ["investing", "diversification", "finance", "risk-management", "portfolio"],
+    "category": "Principles",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Twenty Percent Rule", "Alternative Investment Rule"],
+    "relatedConcepts": ["pareto-principle", "compound-growth"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/20%25+rule"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

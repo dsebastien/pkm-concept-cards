@@ -1,0 +1,34 @@
+{
+    "id": "jobs-to-be-done",
+    "name": "Jobs To Be Done",
+    "summary": "A framework for understanding customer needs by focusing on the 'job' they're trying to accomplish, not the product they're buying.",
+    "explanation": "Jobs To Be Done (JTBD) is a theory of consumer action that focuses on understanding why customers 'hire' products or services to accomplish specific jobs in their lives. It shifts the focus from demographics and product features to the underlying progress customers are trying to make.\n\n**Core Concept**:\n\nCustomers don't buy products—they hire them to do a job. A 'job' is the progress a person is trying to make in a particular circumstance.\n\n**The Famous Milkshake Example**:\n\nClayton Christensen found that people 'hired' milkshakes for different jobs:\n- Morning commuters: Hired for a long, engaging breakfast that wouldn't make a mess\n- Afternoon parents: Hired to placate children as a treat\n\nSame product, different jobs—requiring different improvements.\n\n**The JTBD Framework**:\n\n1. **Job Statement**: \"When I [situation], I want to [motivation], so I can [expected outcome]\"\n2. **Functional aspects**: The practical task to accomplish\n3. **Emotional aspects**: How the customer wants to feel\n4. **Social aspects**: How the customer wants to be perceived\n\n**Key Principles**:\n\n- Jobs are stable over time (even as solutions change)\n- People have jobs, not demographics\n- Competition is defined by the job, not the product category\n- Understanding the job reveals non-obvious competitors\n\n**Applications**:\n\n- **Product development**: Design for the job, not assumed features\n- **Marketing**: Speak to the job being done\n- **Innovation**: Find jobs that are underserved\n- **Competitive analysis**: Identify all solutions competing for the same job\n\n**Questions to Uncover Jobs**:\n\n- What progress is the customer trying to make?\n- What are the circumstances of their struggle?\n- What obstacles are in their way?\n- What tradeoffs are they currently making?\n\nJTBD was popularized by Clayton Christensen and is foundational to outcome-driven innovation.",
+    "tags": ["product", "ux", "innovation", "business", "customer-research", "frameworks"],
+    "category": "Frameworks",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["JTBD", "Jobs-to-be-Done Framework", "Outcome-Driven Innovation"],
+    "relatedConcepts": [
+        "buyer-persona",
+        "design-thinking",
+        "ideal-customer-profile",
+        "product-market-fit"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Jobs+To+Be+Done+(JTBD)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Jobs to be Done - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jobs_to_be_done",
+            "type": "website"
+        },
+        {
+            "title": "Competing Against Luck by Clayton Christensen",
+            "url": "https://www.christenseninstitute.org/books/competing-against-luck/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

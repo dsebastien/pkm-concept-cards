@@ -1,0 +1,24 @@
+{
+    "id": "five-minute-rule",
+    "name": "Five-Minute Rule",
+    "summary": "A productivity technique where you commit to working on a dreaded task for just 5 minutes, often creating enough momentum to continue.",
+    "explanation": "The Five-Minute Rule is a simple but powerful technique for overcoming procrastination. The hardest part of any task is often just getting started—once you begin, continuing becomes much easier.\n\n**How It Works**:\n\n1. **Set a timer** for exactly 5 minutes\n2. **Start working** on the task you've been putting off\n3. **After 5 minutes**, give yourself permission to stop if you want\n4. **Most often**, you'll find yourself continuing because you've built momentum\n\n**Why It's Effective**:\n\n- **Lowers the barrier**: 5 minutes feels manageable, even for dreaded tasks\n- **Bypasses resistance**: Your brain doesn't fight a tiny commitment\n- **Creates momentum**: Starting is the hardest part; once moving, inertia works for you\n- **Reveals task reality**: Often the task is less painful than anticipated\n- **Builds evidence**: Each success proves you can start difficult things\n\n**Psychology Behind It**:\n\n- **Zeigarnik Effect**: Once started, uncompleted tasks create mental tension that motivates completion\n- **Activation energy**: Like a chemical reaction, tasks need initial energy to start, then proceed more easily\n- **Commitment consistency**: Having started, we're psychologically motivated to continue\n\n**When to Use It**:\n\n- Tasks you've been avoiding for days or weeks\n- Work that feels overwhelming\n- Projects where you don't know where to begin\n- Any activity where starting feels harder than doing\n\n**Comparison with Two-Minute Rule**:\n\n- **Two-Minute Rule** (GTD): If a task takes less than 2 minutes, do it now\n- **Five-Minute Rule**: Work on any task for at least 5 minutes to build momentum\n\nBoth address procrastination but from different angles—the Two-Minute Rule eliminates small tasks, while the Five-Minute Rule starts big ones.",
+    "tags": ["productivity", "procrastination", "motivation", "habits", "momentum", "starting"],
+    "category": "Techniques",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["5-Minute Rule", "Just Five Minutes"],
+    "relatedConcepts": [
+        "two-minute-rule",
+        "zeigarnik-effect",
+        "overcoming-inertia",
+        "bias-for-action",
+        "atomic-tasks"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/The+5-Minute+rule"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

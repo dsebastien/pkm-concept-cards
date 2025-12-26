@@ -1,0 +1,24 @@
+{
+    "id": "dichotomy-of-control",
+    "name": "Dichotomy of Control",
+    "summary": "The Stoic principle of distinguishing between what is within our control and what is not, focusing energy only on the former.",
+    "explanation": "The Dichotomy of Control is a foundational Stoic principle, articulated most clearly by Epictetus in his Enchiridion: 'Some things are within our power, while others are not.'\n\n**What Is Within Our Control**:\n\n- Our judgments and opinions\n- Our impulses and desires\n- Our choices and decisions\n- Our reactions to events\n- Our effort and attention\n- Our character and values\n\n**What Is Outside Our Control**:\n\n- Other people's actions and opinions\n- External events and circumstances\n- Our reputation and how others perceive us\n- The outcomes of our efforts (results)\n- Our body (health, aging, death)\n- The past\n\n**The Practice**:\n\n1. **Identify**: When facing a situation, ask 'Is this within my control?'\n2. **Accept**: What's outside control should be accepted, not resisted\n3. **Focus**: Direct energy toward what you can influence\n4. **Release**: Let go of anxiety about what you cannot change\n\n**Why It Matters**:\n\n- **Reduces anxiety**: Most worry concerns things outside our control\n- **Increases effectiveness**: Energy goes to productive action, not futile resistance\n- **Builds resilience**: External events lose their power to disturb us\n- **Improves decisions**: Focus shifts from outcomes (uncontrollable) to actions (controllable)\n\n**Common Misunderstandings**:\n\n- It's not about passivity—you still take action on what you control\n- It's not about not caring—you care about outcomes but don't stake your peace on them\n- The line isn't always clear—some things are partially in our control\n\n**The Stoic Archer** metaphor illustrates this: You control your aim, your preparation, and releasing the arrow. You don't control the wind, the target moving, or the final result.\n\nThis principle underlies the Serenity Prayer and cognitive behavioral therapy's distinction between thoughts (controllable) and circumstances (often not).",
+    "tags": ["stoicism", "philosophy", "control", "mindset", "acceptance", "resilience"],
+    "category": "Principles",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Stoic Control", "Circle of Control", "What I Can Control"],
+    "relatedConcepts": ["stoicism", "stoic-archer", "locus-of-control", "acceptance"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Dichotomy+of+control"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Dichotomy of Control - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dichotomy_of_control",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

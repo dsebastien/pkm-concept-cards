@@ -1,0 +1,24 @@
+{
+    "id": "story-arcs",
+    "name": "Story Arcs",
+    "summary": "Universal narrative patterns that describe the emotional trajectory of stories, from 'Rags to Riches' to 'Man in a Hole.'",
+    "explanation": "Story Arcs are fundamental narrative patterns that describe the emotional journey of a story's protagonist. Research by Kurt Vonnegut and later computational analysis has identified that most stories follow a small number of universal patterns.\n\n**The Six Universal Story Arcs**:\n\n1. **Rags to Riches** (Rise)\n   - Steady rise from misfortune to success\n   - Examples: Cinderella (first half), most success stories\n   - Emotional trajectory: Low → High\n\n2. **Riches to Rags** (Fall)\n   - Decline from good fortune to misfortune\n   - Examples: Tragedies, cautionary tales\n   - Emotional trajectory: High → Low\n\n3. **Man in a Hole** (Fall then Rise)\n   - Character falls into trouble, then climbs out\n   - Most popular pattern—audiences love recovery stories\n   - Examples: Most adventure stories, redemption arcs\n   - Emotional trajectory: Mid → Low → High\n\n4. **Icarus** (Rise then Fall)\n   - Character rises high then falls dramatically\n   - Named after the Greek myth\n   - Examples: Rise and fall of empires, hubris stories\n   - Emotional trajectory: Low → High → Low\n\n5. **Cinderella** (Rise, Fall, Rise)\n   - Complex arc with setback before final triumph\n   - Creates maximum emotional engagement\n   - Examples: Most romantic comedies, hero's journey\n   - Emotional trajectory: Low → High → Low → High\n\n6. **Oedipus** (Fall, Rise, Fall)\n   - Initial trouble, apparent recovery, then final tragedy\n   - Creates dramatic irony and pathos\n   - Examples: Greek tragedies, noir stories\n   - Emotional trajectory: High → Low → High → Low\n\n**Why This Matters**:\n\n- **The shape matters more than the origin**: Where a story ends relative to where it started determines its emotional impact\n- **End on a high note**: Stories that finish higher than they started are remembered more positively (recency bias)\n- **Suffering reveals character**: Putting characters through hardship shows who they really are\n\nUnderstanding these patterns helps writers craft emotionally resonant stories and helps readers recognize the narrative structures they encounter.",
+    "tags": ["storytelling", "writing", "narrative", "patterns", "creativity"],
+    "category": "Frameworks",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Universal Stories", "Narrative Arcs", "Story Shapes", "Vonnegut Story Shapes"],
+    "relatedConcepts": ["abt-storytelling", "rate-of-revelation", "descending-action"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Universal+stories"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Kurt Vonnegut on the Shapes of Stories",
+            "url": "https://www.youtube.com/watch?v=oP3c1h8v2ZQ",
+            "type": "video"
+        }
+    ],
+    "tutorials": []
+}
