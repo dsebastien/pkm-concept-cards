@@ -6,7 +6,7 @@
     "tags": ["ai", "productivity", "technology", "tools"],
     "category": "AI",
     "icon": "FaRobot",
-    "featured": true,
+    "featured": false,
     "aliases": ["AI agents", "LLM assistants"],
     "relatedConcepts": ["ai-master-prompt", "prompt-engineering", "tools-for-thought"],
     "relatedNotes": [

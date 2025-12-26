@@ -6,7 +6,7 @@
     "tags": ["concepts", "focus", "performance", "productivity", "psychology"],
     "category": "Concepts",
     "icon": "FaWater",
-    "featured": true,
+    "featured": false,
     "aliases": ["Flow", "In the zone", "Optimal experience", "Peak state"],
     "relatedConcepts": [
         "attention",

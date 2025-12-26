@@ -1,0 +1,24 @@
+{
+    "id": "codec",
+    "name": "C.O.D.E.C",
+    "summary": "Capture, Organise, Deconstruct, Emerge, Create - a knowledge management workflow.",
+    "explanation": "C.O.D.E.C is a PKM framework that extends beyond basic capture and organization. It consists of five stages: Capture relevant content from various sources, Organise your knowledge to make it searchable and easily retrievable, Deconstruct the content into atomic notes (using methods like Zettelkasten), Emerge innovative ideas while exploring content and connections, and Create valuable content more easily with accumulated knowledge. Unlike similar frameworks, C.O.D.E.C emphasizes the emergence of new ideas through exploration and the creative output phase.",
+    "tags": ["pkm", "knowledge-management", "frameworks", "workflows"],
+    "category": "Frameworks",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["C.O.D.E.C", "CODEC Framework"],
+    "relatedConcepts": [
+        "capture-system",
+        "atomic-notes",
+        "zettelkasten",
+        "knowledge-ingestion",
+        "code-method"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/C.O.D.E.C"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

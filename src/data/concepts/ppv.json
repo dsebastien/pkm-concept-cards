@@ -1,0 +1,30 @@
+{
+    "id": "ppv",
+    "name": "Pillars Pipelines and Vaults (PPV)",
+    "summary": "A Life Operating System designed by August Bradley for focus, alignment, and knowledge resurfacing.",
+    "explanation": "Pillars Pipelines and Vaults (PPV) is a comprehensive Life Operating System designed by August Bradley. It helps with three key areas: Focus (doing what matters most), Alignment (staying aligned with life goals from hour-by-hour to year-by-year), and Resurfacing in context (bringing relevant information when needed). The system has three components: Pillars represent life areas and goals, Pipelines handle the action part including values, projects, tasks, outcomes, and review cycles (weekly, monthly, quarterly, annual), and Vaults store knowledge, media, courses, notes, ideas, and tools. All three parts apply equally to growth, personal life, and work life.",
+    "tags": ["pkm", "life-design", "productivity", "systems", "personal-organization"],
+    "category": "Systems",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["PPV", "Pillars Pipelines Vaults", "August Bradley System"],
+    "relatedConcepts": [
+        "lifeos",
+        "life-design",
+        "periodic-reviews",
+        "goal-setting",
+        "second-brain"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Pillars+Pipelines+and+Vaults+(PPV)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": [
+        {
+            "title": "PPV Life OS by August Bradley",
+            "url": "https://www.youtube.com/@augustbradley",
+            "type": "video"
+        }
+    ]
+}

@@ -6,7 +6,7 @@
     "tags": ["capture", "digital-notes", "organization", "productivity", "systems"],
     "category": "Systems",
     "icon": "FaBrain",
-    "featured": true,
+    "featured": false,
     "aliases": ["BASB", "Building a Second Brain"],
     "relatedConcepts": [
         "capture-system",

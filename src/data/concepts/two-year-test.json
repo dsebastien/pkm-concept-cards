@@ -1,0 +1,18 @@
+{
+    "id": "two-year-test",
+    "name": "Two-Year Test",
+    "summary": "Teach what you would have found valuable two years ago.",
+    "explanation": "The Two-Year Test is a framework from Ship 30 for 30 that guides what content to create and teach. It has two complementary parts: First, teach what you would have found valuable two years ago - you have knowledge and experience that past-you desperately needed. Second, document what you're learning now to become the person you will be in two years. This creates a virtuous cycle where you help others while solidifying your own learning. It removes the impostor syndrome of 'who am I to teach?' by recognizing you don't need to be an expert - you just need to be a few steps ahead of your audience.",
+    "tags": ["teaching", "writing", "learning", "personal-development", "content-creation"],
+    "category": "Frameworks",
+    "icon": "FaCalendarAlt",
+    "featured": false,
+    "aliases": ["2 Year Test", "Two Year Rule"],
+    "relatedConcepts": ["learning-curve", "atomic-essays", "impostor-syndrome", "meta-learning"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Two-year+test"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

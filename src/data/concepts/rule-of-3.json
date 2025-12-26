@@ -1,0 +1,18 @@
+{
+    "id": "rule-of-3",
+    "name": "The Rule of 3",
+    "summary": "When you distill any topic into 3 things, you've got a memorable framework.",
+    "explanation": "The Rule of 3, shared by Nicolas Cole, is a communication and content creation framework. The principle is simple: when you distill any topic into 3 things, you create a memorable framework. Three makes anything memorable because our brains naturally group and remember things in threes. Examples are everywhere: 'Life, liberty, and the pursuit of happiness', 'Bacon, lettuce, and tomato', 'The 3 little pigs'. Use this rule when writing, presenting, or explaining ideas to make them stick. Structure your content around three main points, three steps, or three key takeaways for maximum impact.",
+    "tags": ["writing", "communication", "frameworks", "content-creation", "memory"],
+    "category": "Frameworks",
+    "icon": "FaListOl",
+    "featured": false,
+    "aliases": ["Rule of Three", "Power of Three"],
+    "relatedConcepts": ["chunking", "atomic-essays", "high-concept-ideas"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/The+Rule+of+3+(framework)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

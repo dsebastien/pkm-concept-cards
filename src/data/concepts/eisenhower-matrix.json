@@ -6,7 +6,7 @@
     "tags": ["decision-making", "frameworks", "prioritization", "productivity"],
     "category": "Frameworks",
     "icon": "FaThLarge",
-    "featured": true,
+    "featured": false,
     "aliases": ["Eisenhower Box", "Priority matrix", "Urgent-Important Matrix"],
     "relatedConcepts": [
         "decision-making",

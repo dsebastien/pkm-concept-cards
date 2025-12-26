@@ -6,7 +6,7 @@
     "tags": ["concepts", "knowledge-sharing", "pkm", "publishing", "sharing", "writing"],
     "category": "Concepts",
     "icon": "FaSeedling",
-    "featured": true,
+    "featured": false,
     "aliases": ["Knowledge garden", "Learning garden", "Public notes"],
     "relatedConcepts": [
         "connected-notes",

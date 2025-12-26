@@ -6,7 +6,7 @@
     "tags": ["career", "clarity", "personal-growth", "purpose"],
     "category": "Clarity",
     "icon": "FaYinYang",
-    "featured": true,
+    "featured": false,
     "aliases": ["Life purpose", "Reason for being"],
     "relatedConcepts": [
         "career-design",

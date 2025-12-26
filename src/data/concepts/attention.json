@@ -6,7 +6,7 @@
     "tags": ["attention", "cognition", "focus", "brain", "productivity"],
     "category": "Concepts",
     "icon": "FaEye",
-    "featured": true,
+    "featured": false,
     "aliases": ["Focus", "Concentration", "Mental focus"],
     "relatedConcepts": [
         "directed-attention",

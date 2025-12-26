@@ -6,7 +6,7 @@
     "tags": ["clarity", "design-thinking", "personal-growth", "planning"],
     "category": "Clarity",
     "icon": "FaDraftingCompass",
-    "featured": true,
+    "featured": false,
     "aliases": ["Designing your life"],
     "relatedConcepts": [
         "career-design",

@@ -6,7 +6,7 @@
     "tags": ["core-concept", "note-taking", "organization", "pkm"],
     "category": "Core Concepts",
     "icon": "FaFileAlt",
-    "featured": true,
+    "featured": false,
     "aliases": ["Note types", "Note taxonomy"],
     "relatedConcepts": [
         "atomic-notes",

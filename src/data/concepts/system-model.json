@@ -1,0 +1,23 @@
+{
+    "id": "system-model",
+    "name": "SySTEM Model",
+    "summary": "A decision-making framework: Sensing, Thinking, Experimenting, and Modeling together.",
+    "explanation": "The SySTEM Model is a decision-making and thinking framework with five components. 'Sy' means together - bringing more perspectives and contexts to make informed decisions. Sensing involves recognizing that something is missing from the current context and sitting with that feeling without rushing to a solution. Thinking honors what you sense by giving space to consider other possibilities. Experimenting involves running experiments that include normally omitted context, rather than just appearing to take action. Modeling is the culmination - developing new mental models that can improve systems or your ability to navigate them. This framework encourages deliberate, thoughtful decision-making over hasty reactions.",
+    "tags": ["decision-making", "thinking", "mental-models", "frameworks"],
+    "category": "Frameworks",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["SySTEM", "SySTEM Framework"],
+    "relatedConcepts": [
+        "mental-models",
+        "first-principles",
+        "systems-thinking",
+        "critical-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/SySTEM+Model"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

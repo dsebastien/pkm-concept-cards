@@ -6,7 +6,7 @@
     "tags": ["atomic-notes", "knowledge-management", "linking", "methods", "note-taking"],
     "category": "Methods",
     "icon": "FaLink",
-    "featured": true,
+    "featured": false,
     "aliases": ["Card index", "Slip-box", "Zettelkasten system"],
     "relatedConcepts": [
         "atomic-notes",

@@ -6,7 +6,7 @@
     "tags": ["methods", "organization", "productivity", "structure"],
     "category": "Methods",
     "icon": "FaFolderOpen",
-    "featured": true,
+    "featured": false,
     "aliases": ["Projects Areas Resources Archives"],
     "relatedConcepts": ["folder-structure", "johnny-decimal", "lift-principle", "second-brain"],
     "relatedNotes": [

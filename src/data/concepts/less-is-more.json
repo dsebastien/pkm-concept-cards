@@ -1,0 +1,24 @@
+{
+    "id": "less-is-more",
+    "name": "Less is More",
+    "summary": "The principle that simplicity and restraint lead to better outcomes than excess.",
+    "explanation": "Less is More is a timeless principle stating that simplicity, restraint, and reduction often produce better results than addition and excess. Freeing ourselves from desire is a shortcut to happiness. In productivity, having fewer tools and fewer commitments enables deeper focus. In PKM, fewer but well-maintained notes beat thousands of orphaned ones. In design, minimalism often communicates more effectively. This principle counters our natural tendency to add rather than subtract. When facing complexity, ask: what can I remove? The answer often leads to freedom, clarity, and better outcomes.",
+    "tags": ["minimalism", "simplicity", "principles", "freedom", "essentialism"],
+    "category": "Principles",
+    "icon": "FaMinus",
+    "featured": false,
+    "aliases": ["Minimalism", "Simplicity"],
+    "relatedConcepts": ["essentialism", "digital-minimalism", "focus", "information-overload"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.04+Expressions/Less+is+more"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Essentialism by Greg McKeown",
+            "url": "https://amzn.to/3BzVt5C",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}
