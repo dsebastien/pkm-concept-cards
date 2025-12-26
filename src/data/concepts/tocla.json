@@ -1,0 +1,23 @@
+{
+    "id": "tocla",
+    "name": "TOCLA Approach",
+    "summary": "Turn one idea into five content pieces: Teach, Observe, Contrarian, Listicle, Analyze.",
+    "explanation": "TOCLA is a content creation framework that helps you multiply your output from a single idea. One idea can generate five distinct pieces of content: Teach (explain how to do something), Observe (share observations and insights), Contrarian (present an opposing or unconventional view), Listicle (break into a numbered list), and Analyze (deep-dive examination). This approach maximizes content output while maintaining consistency around your core themes. It's particularly useful for content creators who want to maintain a regular publishing schedule without constantly needing new ideas.",
+    "tags": ["content-creation", "frameworks", "writing", "productivity"],
+    "category": "Frameworks",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["TOCLA", "TOCLA Framework"],
+    "relatedConcepts": [
+        "content-pillars",
+        "pillar-pieces",
+        "atomic-essays",
+        "audience-acquisition-flywheel"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/TOCLA+approach+to+content+creation"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

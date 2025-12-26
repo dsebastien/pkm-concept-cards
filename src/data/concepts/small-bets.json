@@ -1,0 +1,35 @@
+{
+    "id": "small-bets",
+    "name": "Small and Riskless Bets",
+    "summary": "Making many small, low-risk experiments instead of betting everything on one big project.",
+    "explanation": "Small and Riskless Bets is an entrepreneurship approach that favors making many small experiments over investing heavily in one big project. Building something big right away is risky: it takes longer, costs more, is more complex, makes you less agile, and failing hurts a lot. Due to the Sunk Cost Fallacy, it's harder to let go of failing projects once you've invested heavily. With small bets, you invest little time and money while moving fast. You can be bold and try many more things in much less time, quickly sensing what works. This approach is recommended by successful entrepreneurs like Sahil Lavingia and Pieter Levels. Having multiple ongoing projects reduces the big void that comes when a single project fails.",
+    "tags": [
+        "entrepreneurship",
+        "risk-management",
+        "strategy",
+        "solopreneurship",
+        "experimentation"
+    ],
+    "category": "Techniques",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Small Bets", "Riskless Bets", "Micro-experiments"],
+    "relatedConcepts": [
+        "calm-business",
+        "minimum-viable-product",
+        "portfolio-thinking",
+        "sunk-cost-fallacy"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Small+and+riskless+bets"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Minimalist Entrepreneur by Sahil Lavingia",
+            "url": "https://amzn.to/3ZzKqTW",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "rate-of-revelation",
+    "name": "Rate of Revelation",
+    "summary": "The pace at which you reveal new information - keep it high to maintain engagement.",
+    "explanation": "Rate of Revelation is a content creation concept referring to the pace at which you reveal new information to your audience. This pace should be as high as possible - it's what keeps readers interested and engaged. Pack a ton of information in each paragraph or minute of content. Avoid filler, padding, and slow build-ups. Every sentence should deliver value or advance the narrative. A high rate of revelation respects your audience's time and keeps them hooked, reducing drop-off and increasing the chance they'll consume your content to the end.",
+    "tags": ["content-creation", "writing", "storytelling", "engagement"],
+    "category": "Techniques",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Information Density", "Revelation Pace"],
+    "relatedConcepts": ["atomic-essays", "curiosity-gap", "hook-context-main-points"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Rate+of+Revelation"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

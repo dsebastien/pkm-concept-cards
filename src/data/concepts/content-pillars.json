@@ -1,0 +1,23 @@
+{
+    "id": "content-pillars",
+    "name": "Content Pillars",
+    "summary": "Core themes that form the foundation of a content strategy.",
+    "explanation": "Content pillars are the foundation of a successful content strategy. They represent the core themes or topics that you consistently focus on, providing structure and direction to your overall content. By identifying your key content pillars, you can ensure that your content is relevant, engaging, and aligned with your target audience's interests and needs. Without a clear understanding of your content pillars, it can be easy to create content that is scattered, unfocused, and ultimately ineffective. That's why you need to take the time to carefully define them. Typically, creators have 3-5 content pillars that they rotate through.",
+    "tags": ["content-creation", "strategy", "writing", "content-marketing"],
+    "category": "Concepts",
+    "icon": "FaColumns",
+    "featured": false,
+    "aliases": ["Content Themes", "Core Topics"],
+    "relatedConcepts": [
+        "pillar-pieces",
+        "tocla",
+        "audience-acquisition-flywheel",
+        "triangle-of-purpose"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Content+pillars"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

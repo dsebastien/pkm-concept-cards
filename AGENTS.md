@@ -377,6 +377,43 @@ If two concepts are related but distinct:
 
 These are distinct concepts with different steps and philosophies, so both should exist with cross-references.
 
+## Adding Concepts from MoCs (Maps of Content)
+
+When tasked with reviewing MoCs to add new concepts, use sub-agents to parallelize the work for efficiency.
+
+### Workflow for Bulk Concept Addition
+
+1. **Read MoC files** from the notes repository (`/home/dsebastien/notesSeb/30 Areas/34 Maps/34.01 MoCs/`)
+2. **Identify potential concepts** from the notes listed in each MoC
+3. **Check for duplicates** against existing concepts (see Duplicate Prevention section)
+4. **For each new concept to add**, spawn a sub-agent to:
+    - Read the source note from the notes repository
+    - Verify the note has sufficient content for a concept card
+    - Create the concept JSON file with proper structure
+    - Verify the related notes URL path exists
+
+### Sub-Agent Usage Pattern
+
+When adding multiple concepts, use parallel sub-agents:
+
+```
+For each concept to add:
+  - Spawn sub-agent with subagent_type="general-purpose"
+  - Task: "Research and create concept JSON for [concept-name]:
+    1. Read note at [path]
+    2. Create concept JSON at /home/dsebastien/wks/pkm-concept-cards/src/data/concepts/[id].json
+    3. Follow the schema in AGENTS.md
+    4. Verify relatedNotes URL path exists"
+```
+
+### Post-Processing After Sub-Agents Complete
+
+After all sub-agents finish:
+
+1. Add any new icons to `concept-icon.tsx` if needed
+2. Update existing concepts with cross-references to new concepts
+3. Run `npm run build` to verify all changes work
+
 ## Troubleshooting
 
 ### Build fails with type errors

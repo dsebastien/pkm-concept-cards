@@ -1,0 +1,18 @@
+{
+    "id": "triangle-of-purpose",
+    "name": "Triangle of Purpose",
+    "summary": "Three questions to define purpose: Who is your audience? Why must this exist? What's in it for you?",
+    "explanation": "The Triangle of Purpose is a framework for defining the purpose of any project, product, or content. It consists of three essential questions: Who is your target audience? (What audience do you want to create for?), Why does your project/product need to exist? (What makes your thing something that your audience must have?), and What's in it for you? (What will financially and/or energetically sustain you?). All three corners must be addressed for a sustainable endeavor. Missing any corner leads to problems: no audience means no impact, no purpose means no differentiation, and no personal benefit means burnout.",
+    "tags": ["entrepreneurship", "content-creation", "purpose", "strategy", "frameworks"],
+    "category": "Frameworks",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Purpose Triangle", "Three Questions of Purpose"],
+    "relatedConcepts": ["ikigai", "human-market-fit", "buyer-persona", "ideal-customer-profile"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Triangle+of+purpose"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "types-of-rest",
+    "name": "Types of Rest",
+    "summary": "Seven types of rest we all need: physical, mental, emotional, social, creative, spiritual, sensory.",
+    "explanation": "Rest is not just about sleep. There are seven types of rest we all need for complete recovery: Physical rest (more sleep, naps, deep breaths, relaxation, stretching), Mental rest (music, meditation, silence), Emotional rest (offloading emotional baggage, talking to a good listener, therapy), Social rest (catching up with an old friend, or taking a break from socializing), Creative rest (reading a book, taking a walk in nature), Spiritual rest (doing things that give you a sense of purpose or meaning), and Sensory rest (turning off devices and screens, finding the quiet). Understanding which type of rest you need helps you recover more effectively.",
+    "tags": ["health", "rest", "wellbeing", "mental-health", "productivity"],
+    "category": "Concepts",
+    "icon": "FaBed",
+    "featured": false,
+    "aliases": ["Seven Types of Rest", "Rest Categories"],
+    "relatedConcepts": ["sleep-debt", "burnout", "work-life-balance", "mindfulness"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Types+of+rest+we+all+need"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

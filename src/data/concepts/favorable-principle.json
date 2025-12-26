@@ -1,0 +1,24 @@
+{
+    "id": "favorable-principle",
+    "name": "Favorable Principle",
+    "summary": "Pay attention to opportunities and give yourself a chance to pursue your dreams.",
+    "explanation": "The Favorable Principle, inspired by Paulo Coelho's philosophy, encourages paying attention to opportunities in life and following them. Give yourself a chance to attain the success you deserve. When you really want something, the universe conspires in your favor. It's by pursuing opportunities that you will have a chance to realize your dreams. Have faith in your life and destiny. Embrace new paths and remember it's never too late to explore a new direction. Decisions are only the first step - they open doors, but you still have to walk through them to reach your destination.",
+    "tags": ["personal-development", "success", "opportunities", "dreams", "mindset"],
+    "category": "Principles",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": ["Favorable Universe", "Universe Conspires"],
+    "relatedConcepts": ["luck-surface-area", "serendipity", "growth-mindset", "bias-for-action"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Favorable+principle"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Alchemist by Paulo Coelho",
+            "url": "https://amzn.to/3ZzKqTW",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

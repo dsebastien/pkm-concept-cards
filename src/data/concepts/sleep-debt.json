@@ -1,0 +1,18 @@
+{
+    "id": "sleep-debt",
+    "name": "Sleep Debt",
+    "summary": "The cumulative cost of inadequate sleep that must eventually be repaid.",
+    "explanation": "Sleep debt is the accumulated deficit from not getting enough sleep. It's very taxing - when the sleep debt collectors come, you always have to pay dearly. Each hour of sleep you steal costs you way more in return through reduced cognitive function, impaired decision-making, and decreased productivity. You're doing yourself a disservice whenever you don't respect your body and mind. Both need rest to function properly. Recharging is not an option, it's a basic human need. Spending hours awake but in a lingering, unproductive state is of no use. Better to rest properly and return refreshed.",
+    "tags": ["health", "sleep", "rest", "wellbeing", "productivity"],
+    "category": "Concepts",
+    "icon": "FaMoon",
+    "featured": false,
+    "aliases": ["Sleep Deficit", "Accumulated Fatigue"],
+    "relatedConcepts": ["burnout", "types-of-rest", "mens-sana", "cognitive-load"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sleep+debt"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

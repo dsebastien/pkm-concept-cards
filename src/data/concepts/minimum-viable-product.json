@@ -9,10 +9,12 @@
     "featured": false,
     "aliases": ["MVP", "Minimum viable version"],
     "relatedConcepts": [
+        "business-model-canvas",
         "embrace-imperfection",
         "product-market-fit",
         "iteration",
         "seek-feedback-not-perfection",
+        "small-bets",
         "small-wins",
         "start-before-you-are-ready"
     ],

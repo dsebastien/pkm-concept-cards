@@ -10,8 +10,10 @@
     "aliases": ["Pillar content", "Cornerstone content", "Flagship content"],
     "relatedConcepts": [
         "atomic-essays",
+        "content-pillars",
         "digital-garden",
         "evergreen-notes",
+        "tocla",
         "writing-is-thinking"
     ],
     "relatedNotes": [

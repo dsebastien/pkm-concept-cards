@@ -1,0 +1,18 @@
+{
+    "id": "mens-sana",
+    "name": "Mens Sana in Corpore Sano",
+    "summary": "A healthy mind in a healthy body - the connection between physical and mental health.",
+    "explanation": "Mens Sana in Corpore Sano is a Latin phrase meaning 'a healthy mind in a healthy body'. It expresses the understanding that physical and mental health are deeply interconnected. Physical exercise is essential for mental health and well-being. Taking care of your body through exercise, nutrition, and rest directly impacts cognitive function, emotional regulation, and overall mental clarity. For knowledge workers, this means that productivity and creativity depend not just on mental practices but on physical health. Neglecting the body ultimately harms the mind.",
+    "tags": ["health", "wellbeing", "mental-health", "productivity", "philosophy"],
+    "category": "Principles",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": ["Healthy Mind Healthy Body", "Mind-Body Connection"],
+    "relatedConcepts": ["burnout", "work-life-balance", "morning-routine", "mindfulness"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.04+Expressions/Mens+sana+in+corpore+sano"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

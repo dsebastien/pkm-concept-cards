@@ -1,0 +1,18 @@
+{
+    "id": "yagri",
+    "name": "You Aren't Gonna Read It (YAGRI)",
+    "summary": "A reminder to filter out noise and accept that most content won't be read.",
+    "explanation": "YAGRI (You Aren't Gonna Read It) is a content curation principle inspired by YAGNI (You Aren't Gonna Need It) from software development. We're constantly bombarded with information from all directions. If we don't learn to ignore most of it, we risk wasting time consuming random things that don't move the needle forward. YAGRI is a reminder that you will probably not read it, and it's probably best to just ignore it. Use this principle to filter content unless you know for a fact it's going to be useful. It's fine to read things out of curiosity occasionally, but focus on truly valuable and actionable content you can use in the short term.",
+    "tags": ["content-curation", "reading", "learning", "information-management", "productivity"],
+    "category": "Principles",
+    "icon": "FaFilter",
+    "featured": false,
+    "aliases": ["YAGRI", "You Aren't Gonna Read It"],
+    "relatedConcepts": ["content-curation", "information-overload", "yagni", "law-of-staleness"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/You+Aren't+Gonna+Read+It+(YAGRI)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

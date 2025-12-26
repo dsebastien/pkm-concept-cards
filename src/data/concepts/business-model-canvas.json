@@ -1,0 +1,29 @@
+{
+    "id": "business-model-canvas",
+    "name": "Business Model Canvas",
+    "summary": "A strategic template for developing new or documenting existing business models.",
+    "explanation": "The Business Model Canvas, created by Alex Osterwalder, is a strategic management template for thinking about all important aspects of a business. It consists of nine building blocks: Customer Segments, Value Propositions, Channels, Customer Relationships, Revenue Streams, Key Resources, Key Activities, Key Partnerships, and Cost Structure. The canvas is useful for mapping existing business models, designing new ones, and managing a portfolio of business models. It provides a shared language for describing, visualizing, assessing, and changing business models.",
+    "tags": ["entrepreneurship", "business", "frameworks", "strategy", "planning"],
+    "category": "Frameworks",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": ["BMC", "Osterwalder Canvas"],
+    "relatedConcepts": [
+        "minimum-viable-product",
+        "product-market-fit",
+        "human-market-fit",
+        "design-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Business+Model+Canvas"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Business Model Generation",
+            "url": "https://www.strategyzer.com/canvas/business-model-canvas",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

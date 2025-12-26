@@ -1,0 +1,24 @@
+{
+    "id": "scatter-focus",
+    "name": "Scatter Focus",
+    "summary": "Intentionally letting your mind wander to generate ideas and make plans.",
+    "explanation": "Scatter Focus is the intentional practice of letting your mind wander, as opposed to directed focus or deep work. 'Not all those who wander are lost' - scatter focus lets the mind come up with ideas and make plans naturally. Research shows that during scatter focus, we think about the past (12%), the present (28%), the future (48%), and other things. This future-oriented thinking is valuable for planning, creativity, and connecting disparate ideas. Scatter focus complements deep work: while hyperfocus is for execution, scatter focus is for ideation. Building in regular periods of mind-wandering can boost creativity and problem-solving.",
+    "tags": ["focus", "creativity", "thinking", "mindfulness", "productivity"],
+    "category": "Techniques",
+    "icon": "FaRandom",
+    "featured": false,
+    "aliases": ["Mind Wandering", "Diffuse Thinking"],
+    "relatedConcepts": ["deep-work", "flow-state", "focus", "brainstorming", "serendipity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Scatter+focus"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Hyperfocus by Chris Bailey",
+            "url": "https://amzn.to/3ZzKqTW",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

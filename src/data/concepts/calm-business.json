@@ -1,0 +1,36 @@
+{
+    "id": "calm-business",
+    "name": "Calm Business",
+    "summary": "A business that supports your lifestyle rather than forcing you to sacrifice it for growth.",
+    "explanation": "A Calm Business is one that adapts to let you live happily, supporting your lifestyle instead of forcing you to change. Unlike the 'grow fast or die hard' startup model focused on funding, unicorns, and exponential growth, a calm business prioritizes passion, creativity, and personal well-being over hours and deliverables. It simplifies life and removes constraints. A calm business is about flow, momentum, and enjoying small wins rather than pressure and office politics. It can be very successful with minimal overhead and better profit margins. The trade-off is earning less money but having a richer life - trading stress for joy, constraints for convenience, and speed for pleasure.",
+    "tags": ["entrepreneurship", "solopreneurship", "lifestyle", "work-life-balance", "business"],
+    "category": "Concepts",
+    "icon": "FaHome",
+    "featured": false,
+    "aliases": ["Lifestyle Business", "Slow Business"],
+    "relatedConcepts": [
+        "work-life-balance",
+        "small-bets",
+        "zebras-vs-unicorns",
+        "essentialism",
+        "less-is-more"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Calm+business"
+    ],
+    "articles": [
+        {
+            "title": "Calm businesses are a viable path too",
+            "url": "https://www.dsebastien.net/developassions-newsletter-calm-business/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Company of One by Paul Jarvis",
+            "url": "https://amzn.to/3ZzKqTW",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}
