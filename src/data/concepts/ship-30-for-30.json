@@ -1,0 +1,42 @@
+{
+    "id": "ship-30-for-30",
+    "name": "Ship 30 for 30",
+    "summary": "A cohort-based writing challenge where participants publish one atomic essay per day for 30 consecutive days.",
+    "explanation": "Ship 30 for 30 is a cohort-based writing program founded by Dickie Bush and Nicolas Cole that challenges participants to write and publish one atomic essay every day for 30 days. The program is built on the premise that consistency beats perfection - by committing to daily public writing, participants overcome perfectionism, build a writing habit, and develop their unique voice.\n\nThe methodology emphasizes several key principles: starting with atomic essays (250-500 word focused pieces), writing in public to create accountability, treating each day as a 'ship' that must leave the harbor regardless of conditions, and learning through iteration rather than waiting to be ready. Participants typically use platforms like Twitter/X to publish their essays, making the writing practice immediately visible.\n\nShip 30 for 30 has spawned influential concepts like the Two-Year Test (teach what you wish you knew two years ago), the Endless Idea Generator framework, and the atomic essay format itself. The program demonstrates that writing online is one of the highest-leverage activities for personal and professional growth - it clarifies thinking, builds an audience, and creates serendipitous opportunities.\n\nThe 30-day challenge format creates a forcing function that pushes writers past initial resistance. Many participants find that the first week is the hardest, but by the end of 30 days, daily writing has become a habit. The cohort model provides community support, feedback, and accountability, making it easier to maintain the streak.",
+    "tags": [
+        "writing",
+        "content-creation",
+        "publishing",
+        "habits",
+        "accountability",
+        "cohort-learning",
+        "online-writing"
+    ],
+    "category": "Methods",
+    "icon": "FaRocket",
+    "featured": false,
+    "aliases": ["Ship30for30", "Ship30", "30 for 30 Writing Challenge"],
+    "relatedConcepts": [
+        "atomic-essays",
+        "two-year-test",
+        "writing-is-thinking",
+        "digital-garden",
+        "forcing-function"
+    ],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Ship 30 for 30 - Official Website",
+            "url": "https://www.ship30for30.com/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "The Art and Business of Online Writing",
+            "url": "https://www.amazon.com/Art-Business-Online-Writing-Capturing/dp/0998203491",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

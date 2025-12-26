@@ -1,0 +1,38 @@
+{
+    "id": "touch-typing",
+    "name": "Touch Typing",
+    "summary": "A typing technique where typists use muscle memory to locate keys without looking at the keyboard, enabling faster and more accurate text input.",
+    "explanation": "Touch typing is the ability to type without looking at the keyboard, using muscle memory to locate keys. This technique enables typists to focus entirely on the screen or their thoughts rather than the physical act of typing.\n\n**The Home Row Position:**\n\nThe foundation of touch typing is the home row - the middle row of letter keys. Fingers rest on specific keys:\n- Left hand: A, S, D, F (with index finger on F)\n- Right hand: J, K, L, ; (with index finger on J)\n- Thumbs rest on the space bar\n\nThe F and J keys typically have small bumps to help locate the home position by touch.\n\n**Finger Assignments:**\n\nEach finger is responsible for specific keys:\n- Index fingers reach to adjacent columns\n- Middle and ring fingers handle their columns\n- Pinky fingers manage outer keys including Shift, Enter, and punctuation\n\n**Benefits of Touch Typing:**\n\n- **Speed**: Proficient touch typists can reach 60-100+ words per minute\n- **Accuracy**: Reduced errors compared to hunt-and-peck typing\n- **Reduced fatigue**: Less physical strain from looking up and down\n- **Flow state**: Enables uninterrupted thinking while writing\n- **Ergonomics**: Promotes better posture by keeping eyes on the screen\n\n**Learning Touch Typing:**\n\n1. Start with the home row and practice finger placement\n2. Gradually add keys from adjacent rows\n3. Practice regularly with typing tutors or exercises\n4. Focus on accuracy before speed\n5. Resist the urge to look at the keyboard\n\n**Applications for Knowledge Work:**\n\nTouch typing is essential for knowledge workers, writers, programmers, and anyone who works extensively with text. It removes the keyboard as a bottleneck between thoughts and written output, making it a foundational skill for productivity.\n\n**Practice Resources:**\n\nMany free websites and applications help develop touch typing skills through structured lessons and practice exercises, including TypingClub, Keybr, and MonkeyType.",
+    "tags": ["productivity", "typing", "skills", "ergonomics", "writing", "efficiency"],
+    "category": "Techniques",
+    "icon": "FaKeyboard",
+    "featured": false,
+    "aliases": ["Blind Typing", "Touch Type"],
+    "relatedConcepts": ["text-expanders", "flow-state"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Touch typing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Touch_typing",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": [
+        {
+            "title": "TypingClub - Free Touch Typing Course",
+            "url": "https://www.typingclub.com/",
+            "type": "website"
+        },
+        {
+            "title": "Keybr - Typing Practice",
+            "url": "https://www.keybr.com/",
+            "type": "website"
+        },
+        {
+            "title": "MonkeyType - Minimalist Typing Test",
+            "url": "https://monkeytype.com/",
+            "type": "website"
+        }
+    ]
+}

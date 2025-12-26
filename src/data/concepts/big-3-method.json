@@ -1,0 +1,18 @@
+{
+    "id": "big-3-method",
+    "name": "Big 3 Method",
+    "summary": "A daily prioritization technique where you identify the three most important tasks to accomplish each day.",
+    "explanation": "The Big 3 Method is a simple but powerful daily planning technique that helps you channel your attention and boost productivity. At the start of each day (or the evening before), you identify at most three significant goals or tasks that you want to accomplish. These become your \"Big 3\" for the day.\n\nThe beauty of this approach lies in its constraint. By limiting yourself to three priorities, you force yourself to think critically about what truly matters. This prevents the common trap of creating overwhelming to-do lists that lead to paralysis or scattered focus. The rule of three aligns well with cognitive research suggesting that three items is an optimal number for memory and attention.\n\nTo implement the Big 3 Method effectively:\n\n1. Each morning (or the previous evening), write down your three most important tasks\n2. Focus your energy and attention on completing these tasks first\n3. Use techniques like Laser Focus to work through each task with full concentration\n4. Celebrate completing even one of your Big 3 - that represents meaningful progress\n\nThe psychological benefit is significant: even if you only complete one of your Big 3, you should feel satisfied knowing you accomplished something truly important. This reframes productivity from \"checking off many small tasks\" to \"making meaningful progress on what matters most.\"\n\nThe Big 3 Method works well in combination with other prioritization techniques like the Most Important Task (MIT) approach and the Highlight of the Day concept.",
+    "tags": ["productivity", "prioritization", "focus", "daily-planning"],
+    "category": "Methods",
+    "icon": "FaListOl",
+    "featured": false,
+    "aliases": ["Set your Big 3 for the day", "Big 3", "Daily Big 3"],
+    "relatedConcepts": ["most-important-task", "highlight-of-the-day", "laser-focus"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Set+your+Big+3+for+the+day"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

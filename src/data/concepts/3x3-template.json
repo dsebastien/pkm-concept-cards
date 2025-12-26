@@ -1,0 +1,31 @@
+{
+    "id": "3x3-template",
+    "name": "3x3 Template",
+    "summary": "A structured writing framework that organizes content into three components: defining the 'what', outlining 'how' in 3 steps, and explaining 'why' with 3 reasons.",
+    "explanation": "The 3x3 Template is a writing and planning framework popularized by Dickie Bush that provides a simple yet powerful structure for organizing ideas and content. It leverages the rule of three to create clear, memorable, and persuasive communication.\n\n**The Three Components:**\n\n1. **Define the 'What'** - Start by clearly establishing what you're discussing. This sets the context and ensures your audience understands the topic or concept you're addressing.\n\n2. **Outline 'How' in 3 Steps** - Present your methodology, process, or approach in exactly three steps. This constraint forces clarity and makes the content actionable and easy to follow.\n\n3. **Explain 'Why' with 3 Reasons** - Provide three compelling reasons or justifications for why this matters. This builds the case for your content and motivates the reader to take action.\n\n**Why It Works:**\n\nThe 3x3 Template is effective because:\n- **Cognitive ease**: The rule of three is a fundamental principle in communication - our brains find patterns of three inherently satisfying and memorable\n- **Forced clarity**: The constraint of three forces you to distill ideas to their essence, eliminating fluff\n- **Complete structure**: It addresses the essential questions (what, how, why) that any good explanation should cover\n\n**Use Cases:**\n\nThis template is particularly useful for:\n- Writing blog posts and articles\n- Creating social media content\n- Preparing presentations\n- Drafting emails and proposals\n- Working with LLMs to generate stronger first drafts faster\n- Teaching and explaining complex concepts\n\n**Example Application:**\n\nTopic: Morning Routine\n- **What**: A morning routine is a set of intentional activities performed each morning\n- **How**: (1) Wake at consistent time, (2) Avoid phone for first hour, (3) Include movement and reflection\n- **Why**: (1) Increases productivity, (2) Reduces decision fatigue, (3) Sets positive tone for the day",
+    "tags": [
+        "writing",
+        "templates",
+        "frameworks",
+        "productivity",
+        "content-creation",
+        "communication"
+    ],
+    "category": "Frameworks",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["3x3 Framework", "3x3 Writing Template", "Three by Three Template"],
+    "relatedConcepts": ["rule-of-3", "progressive-summarization", "brain-dumps"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/3x3+Template"
+    ],
+    "articles": [
+        {
+            "title": "Dickie Bush on Twitter/X",
+            "url": "https://twitter.com/dickiebush",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

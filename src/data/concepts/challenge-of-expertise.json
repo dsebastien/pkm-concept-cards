@@ -1,0 +1,23 @@
+{
+    "id": "challenge-of-expertise",
+    "name": "Challenge of Expertise",
+    "summary": "The paradox where gaining expertise makes it harder to teach beginners because experts forget what it was like to not know.",
+    "explanation": "The challenge of expertise is a paradox in learning and teaching: as we gain expertise, we know more and more about less and less. We keep learning, but we also realize how much there is still to discover. More problematically, we forget what it was like to be a beginner.\n\n**The core problem:**\n\nExperts have so much context available to them that they fail to understand the difficulties newcomers face. They skip over foundational concepts that seem obvious to them but are mysterious to beginners. They use jargon without realizing it's unfamiliar. They make leaps in logic that only work if you already understand the intermediate steps.\n\nThis is closely related to the curse of knowledge - once you know something, it's difficult to imagine not knowing it.\n\n**Strategies to overcome this challenge:**\n\n**Avoid excessive jargon**\nUse plain language whenever possible. When technical terms are necessary, define them clearly.\n\n**Simplify appropriately**\nFind the right level of simplification - enough to be accessible, but not so much that you lose accuracy or important nuances.\n\n**Tell stories**\nShare your mental models and context through narratives. Stories help others understand not just the what, but the why and how.\n\n**Use visualizations**\nDiagrams, illustrations, and visual metaphors help bridge gaps in understanding. They can convey complex relationships that words struggle to express.\n\n**Remember your journey**\nActively recall your own struggles as a beginner. What confused you? What breakthrough moments did you have? Use these memories to empathize with learners.\n\n**Get feedback from beginners**\nTest your explanations with actual beginners. Their questions reveal your blind spots.",
+    "tags": ["expertise", "teaching", "learning", "communication", "knowledge-sharing"],
+    "category": "Principles",
+    "icon": "FaGraduationCap",
+    "featured": false,
+    "aliases": ["Expert's Blind Spot", "Expertise Paradox"],
+    "relatedConcepts": [
+        "curse-of-knowledge",
+        "four-stages-of-competence",
+        "feynman-technique",
+        "knowledge-staircase"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Challenge+of+expertise"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

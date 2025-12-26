@@ -1,0 +1,30 @@
+{
+    "id": "personal-organization-principles",
+    "name": "Personal Organization System Principles",
+    "summary": "Five key principles for building effective personal organization systems: safety, holistic design, life integration, simplicity, and agility.",
+    "explanation": "A solid personal organization system can propel you forward by creating leverage. There are five key principles that make such a system effective:\n\n**1. It should feel safe to use**\nYour system needs to be reliable. You must be able to trust it completely. It should simplify your life, allow you to forget more, and let you focus on important work. Your information should be safe, available, and secure.\n\n**2. It should be holistic**\nEverything should be in your system, whether you use a single app or multiple tools, analog, digital, or a mix. Think about the system as a whole - for the whole to be reliable, every part must be solid. Your system doesn't need to be perfect; it just needs to be useful, efficient, effortless, maintainable, and hassle-free. It should not be a source of stress.\n\n**3. It should be fully integrated in your life**\nYour system should be present and assist you at all times. No more random doom scrolling or mindless consumption. Build a system that helps channel everything through a clearly-designed funnel. Integrate it into both personal and professional life - if you build a system and don't leverage it, there's no point.\n\n**4. It should be simple**\nThe structure should be lean. Complexity is the enemy and should only be introduced when benefits outweigh drawbacks. The more complex and rigid a system is, the less emergence and serendipity there can be. Complexity hinders focus and productivity. Enforce simple rules and remove friction.\n\n**5. Prefer agility over rigid plans**\nRigid plans reduce motivation and kill creativity. Design your system to be flexible and adaptable, allowing for evolution as your needs change.",
+    "tags": [
+        "personal-organization",
+        "systems-thinking",
+        "productivity",
+        "principles",
+        "best-practices"
+    ],
+    "category": "Principles",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["Organization System Principles", "PKM System Principles"],
+    "relatedConcepts": [
+        "pkms",
+        "systems-thinking",
+        "kiss-principle",
+        "choose-your-hard",
+        "graceful-degradation-pkm"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Key+principles+of+a+good+Personal+Organization+System"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

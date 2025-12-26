@@ -1,0 +1,18 @@
+{
+    "id": "work-in-progress",
+    "name": "Work In Progress (WIP)",
+    "summary": "Ongoing work that should be limited to maintain productivity and avoid system overload.",
+    "explanation": "Work in Progress (WIP) refers to all the tasks, projects, and commitments that are currently active but not yet completed. Understanding and managing WIP is crucial for maintaining productivity and avoiding the mental overhead that comes from having too many open loops.\n\nThe key insight is that to remain productive and avoid system trashing, we need to keep the amount of WIP as limited as possible. Each active piece of work requires mental context, creates switching costs, and competes for our limited attention.\n\n**Why Limiting WIP Matters**:\n\n- **Cognitive load**: Every open task occupies mental space, even when we're not actively working on it\n- **Context switching costs**: Moving between multiple active projects wastes time and energy\n- **Quality degradation**: Spreading attention thin leads to lower quality output\n- **Completion delays**: Paradoxically, more WIP often means fewer things actually get finished\n- **Stress and overwhelm**: Too much WIP creates a constant feeling of being behind\n\n**How to Manage WIP**:\n\n- Use Kanban boards to visualize and limit work in progress\n- Set explicit WIP limits for different types of work\n- Finish current work before starting new tasks\n- Regularly review and prune inactive projects\n- Learn to say no to new commitments when at capacity\n\nThe relationship between WIP and throughput is counterintuitive: reducing the amount of work in progress often increases the rate at which work gets completed.",
+    "tags": ["productivity", "workflow", "kanban", "focus", "time-management"],
+    "category": "Techniques",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["WIP", "Work In Progress"],
+    "relatedConcepts": ["kanban", "limit-work-in-progress", "system-trashing"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Work+In+Progress+(WIP)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

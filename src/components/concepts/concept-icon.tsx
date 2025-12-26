@@ -70,7 +70,12 @@ import {
     FaShieldAlt,
     FaUserCog,
     FaCode,
-    FaCoins
+    FaCoins,
+    FaKeyboard,
+    FaRocket,
+    FaComments,
+    FaGift,
+    FaTasks
 } from 'react-icons/fa'
 import { SiObsidian, SiSubstack, SiBluesky } from 'react-icons/si'
 import { FaXTwitter, FaThreads } from 'react-icons/fa6'
@@ -148,6 +153,11 @@ const iconMap: Record<string, IconType> = {
     FaUserCog,
     FaCode,
     FaCoins,
+    FaKeyboard,
+    FaRocket,
+    FaComments,
+    FaGift,
+    FaTasks,
     SiObsidian,
     SiSubstack,
     SiBluesky,
@@ -228,6 +238,11 @@ const iconColors: Record<string, string> = {
     FaUserCog: 'text-blue-400',
     FaCode: 'text-green-400',
     FaCoins: 'text-yellow-500',
+    FaKeyboard: 'text-gray-400',
+    FaRocket: 'text-orange-500',
+    FaComments: 'text-blue-400',
+    FaGift: 'text-pink-400',
+    FaTasks: 'text-teal-400',
     SiObsidian: 'text-purple-400',
     SiSubstack: 'text-orange-400',
     SiBluesky: 'text-sky-400',

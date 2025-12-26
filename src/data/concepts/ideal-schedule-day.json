@@ -1,0 +1,29 @@
+{
+    "id": "ideal-schedule-day",
+    "name": "Ideal Schedule for the Day",
+    "summary": "A time management practice of designing an optimal daily schedule to guide time allocation, while accepting that disruptions will occur.",
+    "explanation": "Creating an ideal schedule for the day is a useful but optional time management practice. It involves envisioning the best-case scenario for how you'd spend your day, serving as a guide for efficient time use.\n\n**Prerequisites:**\n\nBefore creating a daily ideal schedule, you need:\n- Clarity about your Most Important Task of the Day (MITD)\n- An up-to-date, prioritized todo list for the day\n\n**The reality of daily schedules:**\n\nThis practice is considered optional because unexpected events and disruptions will often prevent you from following your ideal schedule perfectly. This doesn't make planning useless, but it does diminish the value of overly detailed daily schedules.\n\n**Alternative approach:**\n\nRather than detailed daily scheduling, consider preparing a generic ideal schedule for the week. This weekly schedule isn't tied to specific ongoing tasks but rather reflects your current priorities and regular commitments. It provides structure without the rigidity of daily planning.\n\n**When daily scheduling works best:**\n\n- Days with critical deadlines\n- When you need maximum focus on a specific project\n- During periods of low disruption\n- When coordinating with others' schedules\n\n**The key insight:**\n\nThe value of an ideal daily schedule is not in following it perfectly, but in the clarity it provides about priorities and the framework it offers for making real-time decisions about how to spend your time.",
+    "tags": [
+        "time-management",
+        "planning",
+        "productivity",
+        "personal-organization",
+        "prioritization"
+    ],
+    "category": "Techniques",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Daily Schedule Template", "Ideal Day Planning"],
+    "relatedConcepts": [
+        "time-blocking",
+        "most-important-task",
+        "ideal-schedule-week",
+        "moscow-method"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Ideal+schedule+for+the+day"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "positive-routines",
+    "name": "Positive Routines",
+    "summary": "Beneficial habitual practices that automate parts of daily life, reducing decision fatigue and supporting overall well-being.",
+    "explanation": "Positive routines are structured, recurring practices that contribute to well-being by automating parts of our lives. They reduce the burden on our daily decision-making ability, freeing mental energy for more important tasks.\n\nThe power of routines lies in their ability to transform beneficial behaviors into automatic habits. When actions become routine, they no longer require willpower or conscious decision-making to execute. This conservation of mental energy is crucial because decision fatigue is real - every choice we make depletes our cognitive resources.\n\n**Benefits of positive routines:**\n\n- **Reduced decision fatigue**: By automating recurring decisions (what to eat, when to exercise, how to start your day), you preserve mental energy for important choices\n- **Increased consistency**: Routines make it easier to maintain beneficial behaviors over time\n- **Lower stress**: Knowing what comes next reduces anxiety and uncertainty\n- **Better time management**: Routines create structure that helps prevent time waste\n- **Compound effects**: Small daily practices accumulate into significant long-term benefits\n\n**Examples of positive routines:**\n\n- Morning routines that set the tone for productive days\n- Evening routines that promote quality sleep\n- Exercise routines that maintain physical health\n- Review routines that keep knowledge systems maintained\n- Reflection routines that support mental well-being\n\nThe key is to design routines that align with your values and goals, then protect the time and space needed to maintain them consistently.",
+    "tags": ["routines", "habits", "well-being", "productivity", "decision-making", "systems"],
+    "category": "Principles",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Routine Systems", "Beneficial Routines"],
+    "relatedConcepts": [
+        "morning-routine",
+        "evening-routine",
+        "decision-fatigue",
+        "habit-stacking",
+        "systems-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Having+positive+routines+(systems)+is+great+for+well-being"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

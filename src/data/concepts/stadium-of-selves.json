@@ -1,0 +1,18 @@
+{
+    "id": "stadium-of-selves",
+    "name": "Stadium of Selves",
+    "summary": "A mental model for viewing your life as a gathering space where all versions of yourself - past, present, and future - coexist and communicate.",
+    "explanation": "The Stadium of Selves is a powerful metaphor for self-reflection and personal knowledge management. It invites you to imagine a vast stadium where every version of yourself sits in the stands: your younger self with fresh enthusiasm, your current self with accumulated experience, and your future self representing your aspirations. Each word you write, each note you capture, echoes through this stadium, reaching across time to inform, inspire, and connect all these versions of you.\n\nThis concept transforms how you approach note-taking and journaling. Rather than writing only for your present self, you write for the entire stadium. Your younger self may need encouragement or validation; your future self may need context or warnings; your current self bridges the gap between them. The stadium acknowledges that some lessons need to be learned repeatedly, as each version of ourselves sometimes needs to experience things firsthand to truly understand.\n\nPractically, when facing challenges or making decisions, the Stadium of Selves suggests asking three reflective questions: What does my past self need to hear? How would my future self want me to respond? What insights should I capture for my future self? This temporal wisdom exchange allows knowledge to compound meaningfully across your various selves, making your PKM system not just an information repository but a collaborative thinking space where each version of you adds unique value.",
+    "tags": ["journaling", "mental-models", "reflection", "self-awareness", "writing", "pkm"],
+    "category": "Frameworks",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": ["Stadium metaphor", "Temporal self dialogue"],
+    "relatedConcepts": ["morning-pages", "journaling", "reflective-thinking", "evergreen-notes"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Stadium+of+selves"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

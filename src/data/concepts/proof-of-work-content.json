@@ -1,0 +1,23 @@
+{
+    "id": "proof-of-work-content",
+    "name": "Proof of Work (Content Creation)",
+    "summary": "Each piece of content you create serves as evidence of your knowledge, experience, and expertise in a given domain.",
+    "explanation": "Proof of Work in content creation is the principle that every article, tutorial, or piece of content you publish acts as tangible evidence of your expertise and experience. Unlike credentials or titles, published content demonstrates that you have actually done the homework on a topic.\n\nThe concept borrows from cryptographic proofs used in cryptocurrencies, but applies to building professional credibility. Each piece you write showcases your knowledge of a specific subject or problem space, proving you have engaged deeply with the material.\n\nThe power of Proof of Work lies in its compounding nature:\n\n- A single article establishes initial credibility\n- Multiple pieces on a topic multiply the effect\n- Over time, your body of work speaks for itself\n- The effects amplify as your content is discovered and shared\n\nThis principle encourages consistent content creation over time. Rather than waiting for perfect conditions or complete expertise, start publishing and building your proof of work portfolio early. Articles remain discoverable for years, continuously working to establish your expertise and attract opportunities.\n\nProof of Work content serves multiple purposes:\n\n- Demonstrates competence to potential clients or employers\n- Attracts like-minded individuals to your network\n- Forces you to clarify your own thinking through writing\n- Creates a searchable archive of your intellectual journey\n\nThe key is consistency and accumulation - each piece adds to your credibility capital.",
+    "tags": ["content-creation", "credibility", "expertise", "writing", "personal-branding"],
+    "category": "Principles",
+    "icon": "FaBookOpen",
+    "featured": false,
+    "aliases": ["PoW for Content", "Content as Proof of Work"],
+    "relatedConcepts": [
+        "building-in-public",
+        "compound-growth",
+        "digital-garden",
+        "writing-is-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Proof+of+Work+(PoW)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,34 @@
+{
+    "id": "four-way-test",
+    "name": "The Four-Way Test",
+    "summary": "A non-partisan ethical framework developed by Rotary International to guide decision-making in business and personal life.",
+    "explanation": "The Four-Way Test is an ethical guide created by Herbert J. Taylor in 1932 during the Great Depression while he was trying to save a nearly bankrupt company, Club Aluminum. The test consists of four questions to be asked about the things we think, say, or do:\n\n1. Is it the TRUTH?\n2. Is it FAIR to all concerned?\n3. Will it build GOODWILL and BETTER FRIENDSHIPS?\n4. Will it be BENEFICIAL to all concerned?\n\nTaylor developed this test to establish ethical standards for his employees and business dealings. The simplicity and universality of these questions made them applicable across cultures, religions, and professions. Rotary International adopted the test in 1943 and it has since become one of the organization's most widely recognized elements.\n\nThe test is designed to be applied sequentially - if an action fails any of the four questions, it should be reconsidered. The framework emphasizes that ethical behavior in business and personal life should create mutual benefit rather than advantage for one party at the expense of others. It promotes transparency (truth), equity (fairness), positive relationships (goodwill), and mutual benefit (beneficial to all).\n\nThe Four-Way Test is particularly valuable as a quick mental checklist before making decisions, speaking, or taking action. Its brevity makes it easy to memorize and apply in real-time situations, while its comprehensiveness covers the key dimensions of ethical behavior: honesty, justice, social harmony, and utility.",
+    "tags": [
+        "ethics",
+        "decision-making",
+        "principles",
+        "business-ethics",
+        "leadership",
+        "integrity"
+    ],
+    "category": "Principles",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Four Way Test", "Rotary Four-Way Test", "Herbert Taylor's Four-Way Test"],
+    "relatedConcepts": ["stoicism", "stoic-virtues"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Four-Way Test - Rotary International",
+            "url": "https://www.rotary.org/en/guiding-principles",
+            "type": "website"
+        },
+        {
+            "title": "The Four-Way Test - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Four-Way_Test",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

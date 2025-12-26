@@ -1,0 +1,24 @@
+{
+    "id": "text-expanders",
+    "name": "Text Expanders",
+    "summary": "Productivity applications that replace specific character sequences with longer text snippets, dramatically speeding up repetitive typing tasks.",
+    "explanation": "Text expanders are applications that increase writing productivity by replacing specific character sequences with predefined text. For instance, typing ':site' could automatically expand to 'https://dsebastien.net'. These replacements can range from simple shortcuts to entire paragraphs or templates.\n\n**How they work:**\n\nYou define trigger sequences (short abbreviations) and their corresponding expansions (the full text you want). When you type the trigger, the text expander automatically replaces it with the expansion.\n\n**Common use cases:**\n\n- **Email signatures**: Type ':sig' to insert your full signature\n- **Frequently used URLs**: Replace ':newsletter' with your newsletter URL\n- **Standard responses**: Expand ':thanks' into a thank-you message\n- **Code snippets**: Type ':log' to insert a logging statement\n- **Personal information**: Expand ':addr' to your full address\n- **Dates and timestamps**: Use ':today' for the current date\n- **Templates**: Insert structured templates for common documents\n\n**Benefits:**\n\n- **Time savings**: Reduce repetitive typing significantly\n- **Consistency**: Ensure the same text is used every time\n- **Error reduction**: Avoid typos in frequently used text\n- **Focus preservation**: Keep writing flow uninterrupted\n\n**Popular tools:**\n\n- Espanso (open source, cross-platform)\n- TextExpander (macOS, Windows)\n- Alfred (macOS, with snippet feature)\n- AutoHotkey (Windows)\n\nText expanders are particularly valuable for knowledge workers, developers, support staff, and anyone who types similar content repeatedly.",
+    "tags": ["productivity", "tools", "writing", "automation", "efficiency"],
+    "category": "Tools",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["Text Expansion", "Snippet Expanders"],
+    "relatedConcepts": ["templates", "automating-processes", "productivity-systems"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Text+expanders"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Espanso - Cross-platform Text Expander",
+            "url": "https://espanso.org/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

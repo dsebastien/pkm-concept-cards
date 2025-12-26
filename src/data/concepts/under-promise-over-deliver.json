@@ -1,0 +1,18 @@
+{
+    "id": "under-promise-over-deliver",
+    "name": "Under-Promise and Over-Deliver",
+    "summary": "Set conservative expectations and then exceed them to build trust and leave positive impressions.",
+    "explanation": "Under-promise and over-deliver is a principle for managing expectations in professional and personal relationships. The core idea is simple: commit to less than you know you can achieve, then deliver more than promised. This approach creates positive surprise and builds lasting trust.\n\nAs Larry Page famously said: 'Always deliver more than expected.'\n\n**Why This Works**:\n\nThis principle works because of psychological contrast. When expectations are set low and reality exceeds them, the gap creates delight. Conversely, promising big and delivering less creates disappointment, even if the actual delivery was objectively good.\n\nWhen you consistently exceed expectations, you build a reputation for reliability and excellence. People remember how you made them feel, and exceeding expectations creates positive emotional associations.\n\n**Practical Applications**:\n\n- Add buffer time to project estimates\n- Include unexpected bonuses or features\n- Complete work ahead of schedule\n- Provide more thorough documentation than required\n- Follow up proactively rather than waiting to be asked\n\n**Important Caveats**:\n\nThe principle requires honest self-assessment of your capabilities and genuine intent to exceed expectations, not manipulation. It's about being conservative in commitments while being generous in delivery.\n\nOver time, this approach compounds into strong professional relationships and an excellent reputation. The key is consistency - occasional over-delivery is nice, but habitual over-delivery builds trust.",
+    "tags": ["professional", "expectations", "client-relations", "reputation", "trust"],
+    "category": "Principles",
+    "icon": "FaGift",
+    "featured": false,
+    "aliases": ["Underpromise and overdeliver", "Exceed expectations"],
+    "relatedConcepts": ["engineering-credibility"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Under-promise+and+over-deliver"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

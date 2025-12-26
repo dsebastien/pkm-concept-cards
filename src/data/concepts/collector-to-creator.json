@@ -1,0 +1,24 @@
+{
+    "id": "collector-to-creator",
+    "name": "From Collector to Creator",
+    "summary": "The transformative journey from passively collecting information to actively creating original work, using PKM as a bridge between consumption and creation.",
+    "explanation": "From Collector to Creator describes the essential transformation in personal knowledge management: moving from passive information collection to active creation of original work. Many people get stuck in collector mode, accumulating resources without ever synthesizing them into something new.\n\n**The four pillars of this transformation:**\n\nThis framework, developed by Anne-Laure Le Cunff, outlines four stages:\n\n**1. Cognition**\nDevelop metacognitive awareness - thinking about how you think. Build a toolkit for understanding your own cognitive processes, biases, and learning patterns.\n\n**2. Collection**\nLearn to take productive notes that go beyond passive highlighting. Extract meaning from what you consume through contextual tagging and active engagement with ideas.\n\n**3. Connection**\nPractice networked thinking - linking ideas together, finding unexpected relationships, and allowing 'idea sex' to generate novel combinations. Mind mapping and digital gardens are tools for this stage.\n\n**4. Creation**\nTransform connected notes into original output. Move from notes to outline to finished work. This is where the value of all previous stages is realized.\n\n**Why this matters:**\n\nWithout creation, knowledge management becomes digital hoarding. The goal isn't to have the largest collection of notes - it's to produce work that wouldn't exist without your unique synthesis and perspective.\n\n**Signs you're stuck in collector mode:**\n- Saving articles you never read\n- Taking notes you never revisit\n- Building systems but producing nothing\n- Feeling productive while consuming but never shipping\n\nThe antidote is to prioritize creation from the start, using collection as a means to that end rather than an end in itself.",
+    "tags": ["pkm", "creativity", "content-creation", "learning", "productivity", "note-taking"],
+    "category": "Frameworks",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Collector to Creator", "4Cs of Creativity"],
+    "relatedConcepts": [
+        "collectors-fallacy",
+        "building-in-public",
+        "atomic-essays",
+        "digital-garden",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/From+collector+to+creator"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

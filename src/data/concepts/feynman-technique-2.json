@@ -1,0 +1,30 @@
+{
+    "id": "feynman-technique-2",
+    "name": "Feynman Technique 2.0",
+    "summary": "An enhanced version of the Feynman Technique that adds structured course design, teaching considerations, and deeper simplification strategies.",
+    "explanation": "The Feynman Technique 2.0, introduced by Chris Meyer, is an evolution of the original Feynman Technique. It includes improvements and recommendations to take the learning-through-teaching approach further.\n\n**Step 1: Study (Enhanced)**\n\nBeyond writing down your knowledge and making links, actively rearrange the knowledge as you go. Think of the teaching step while exploring your current knowledge - this helps organize information logically for later explanation.\n\nKey practices:\n- Start from first principles and explain the most important points first\n- Organize content as a course with modules from beginner to expert level\n- Prepare material to explain concepts from different angles\n- Determine learning objectives for each module\n- List your key assumptions\n- Have specific goals in mind for evaluation\n\n**Step 2: Teach (Enhanced)**\n\nDon't underestimate teaching's challenge - it requires more than just understanding the subject.\n\nConsider your students:\n- How motivated are they to learn?\n- What is their starting point?\n- How much must you simplify?\n- How far do you want to bring them?\n\nTeaching practices:\n- Structure lessons like good stories using storytelling fundamentals\n- Grab and maintain attention\n- Balance theory and practice (e.g., 25% theory, 75% practice)\n- Don't share too much in a single session - past a point, it becomes noise\n\n**Step 3: Identify Knowledge Gaps (Enhanced)**\n\nSeparate gaps in your understanding from gaps in your teaching skills/style. Go beyond identifying gaps:\n- Think of what you can learn or do next\n- Identify your next goals\n- Reach out to experts to help you go further\n\n**Step 4: Simplify (Enhanced)**\n\nWhile simplifying, review your modules to ensure material is relevant, simple enough, and well organized.\n\nAdditional depth:\n- Add questions and multiple-choice quizzes for reflection\n- Write essays on the subject to deepen understanding",
+    "tags": ["learning", "teaching", "methods", "education", "knowledge-management"],
+    "category": "Methods",
+    "icon": "FaGraduationCap",
+    "featured": false,
+    "aliases": ["Enhanced Feynman Technique", "Feynman Method 2.0"],
+    "relatedConcepts": [
+        "feynman-technique",
+        "first-principles",
+        "active-recall",
+        "elaboration",
+        "teach-timeless-lessons"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Feynman+technique+2.0"
+    ],
+    "articles": [
+        {
+            "title": "The Feynman Technique - The Mind Collection",
+            "url": "https://themindcollection.com/the-feynman-technique/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

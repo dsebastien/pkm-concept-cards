@@ -1,0 +1,16 @@
+{
+    "id": "pie-writing",
+    "name": "PIE Writing",
+    "summary": "A paragraph structure technique using Point, Illustration, and Explanation to create clear, well-organized paragraphs.",
+    "explanation": "PIE Writing is a paragraph development technique that helps writers create focused, coherent paragraphs. The acronym stands for Point, Illustration, and Explanation - three essential components that work together to convey ideas effectively.\n\n**Point (P)**\n\nThe Point is your topic sentence or main claim. It states what the paragraph is about and what you want to prove or explain. A strong point should be:\n- Clear and specific\n- Arguable or interesting (not just a fact everyone knows)\n- Directly related to your overall thesis or purpose\n\n**Illustration (I)**\n\nThe Illustration provides evidence or examples that support your point. This can include:\n- Quotes from sources or experts\n- Statistics and data\n- Specific examples or anecdotes\n- Research findings\n- Personal observations or experiences\n\nGood illustrations are concrete and relevant. They give your reader something tangible to consider.\n\n**Explanation (E)**\n\nThe Explanation connects the illustration back to your point. This is where you:\n- Analyze the evidence you presented\n- Explain why it matters\n- Show how it supports your main claim\n- Make the connection explicit for readers\n\nThe explanation is often the most neglected part but arguably the most important. Without it, readers are left to draw their own conclusions about why your evidence matters.\n\n**Why PIE Works**\n\nPIE writing prevents common paragraph problems:\n- **Underdeveloped paragraphs**: Having all three elements ensures sufficient depth\n- **Disconnected ideas**: The structure forces logical connections\n- **Unclear reasoning**: Explicit explanations prevent assumption gaps\n- **Evidence dumps**: You must explain each piece of evidence you introduce\n\n**Variations and Flexibility**\n\nWhile PIE provides a solid structure, effective writing often requires flexibility:\n- Multiple illustrations can support one point (PIIE, PIIIE)\n- Some paragraphs may need extended explanations\n- Academic writing may require longer analysis sections\n- Creative writing might embed these elements more subtly\n\nPIE is particularly useful for academic essays, argumentative writing, analytical paragraphs, and any writing where you need to support claims with evidence.",
+    "tags": ["writing", "paragraph-structure", "academic-writing", "communication", "techniques"],
+    "category": "Techniques",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": ["PIE Paragraph", "PIE Method", "Point Illustration Explanation"],
+    "relatedConcepts": ["billboard-principle", "scqa-model"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

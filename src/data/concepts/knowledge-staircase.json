@@ -1,0 +1,24 @@
+{
+    "id": "knowledge-staircase",
+    "name": "Knowledge Staircase",
+    "summary": "A metaphor for learning and teaching that visualizes everyone at different levels of expertise, able to help those just below them and learn from those above.",
+    "explanation": "The knowledge staircase is a powerful metaphor for understanding learning and teaching dynamics. It visualizes knowledge as a staircase where everyone occupies a certain step - some are a bit above you, others below, some much further along, and some just starting.\n\n**Key insights from this metaphor:**\n\n**You can always help someone**\nNo matter where you are on the staircase, there's always someone a step or two below who can benefit from your knowledge. You don't need to be an expert to teach - you just need to be one step ahead.\n\n**Proximity matters for teaching**\nPeople just a few steps above you often make better teachers than those at the very top. They remember what it was like to be where you are, understand your struggles, and can explain things in terms you relate to.\n\n**Reciprocity works both ways**\nWhen you reach out to those further up the staircase, they're often willing to help because they understand your position. They've been there themselves and can point you in the right direction.\n\n**Everyone is both student and teacher**\nAt any moment, you're simultaneously learning from those above and potentially teaching those below. This dual role is natural and valuable.\n\n**Practical applications:**\n\n- Don't wait until you're an expert to share knowledge\n- Seek mentors who are just a few steps ahead, not just at the top\n- Pay it forward by helping those just starting their journey\n- Document your learning to help others at your previous level",
+    "tags": ["learning", "teaching", "knowledge-sharing", "mentorship", "mental-models"],
+    "category": "Principles",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Staircase of Knowledge", "Learning Ladder"],
+    "relatedConcepts": [
+        "circle-of-learning",
+        "feynman-technique",
+        "curse-of-knowledge",
+        "helpers-high",
+        "pay-it-forward"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowledge+is+like+a+staircase"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

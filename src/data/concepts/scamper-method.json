@@ -1,0 +1,46 @@
+{
+    "id": "scamper-method",
+    "name": "SCAMPER Method",
+    "summary": "A creative thinking technique using seven action prompts to generate new ideas by transforming existing concepts.",
+    "explanation": "SCAMPER is a structured brainstorming technique that uses seven action verbs as prompts to transform existing products, services, or ideas into something new. The acronym stands for: Substitute (replace components, materials, or people), Combine (merge ideas, functions, or features), Adapt (adjust or modify for a different purpose), Modify/Magnify (change size, shape, or attributes; exaggerate features), Put to other uses (repurpose for different applications), Eliminate (remove elements or simplify), and Reverse/Rearrange (change order, flip perspectives, or reorganize). Originally developed by Bob Eberle in the 1970s based on Alex Osborn's brainstorming checklist, SCAMPER provides a systematic approach to creative problem-solving. Unlike unstructured brainstorming, it guides thinking through specific transformational lenses, making it particularly effective when you feel stuck or need to explore all possible modifications to an existing concept. Each prompt forces you to consider changes you might otherwise overlook, resulting in more comprehensive ideation sessions.",
+    "tags": [
+        "brainstorming",
+        "creativity",
+        "ideation",
+        "innovation",
+        "problem-solving",
+        "techniques"
+    ],
+    "category": "Techniques",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["SCAMPER", "SCAMPER Technique", "SCAMPER Checklist"],
+    "relatedConcepts": [
+        "brainstorming",
+        "lateral-thinking",
+        "divergent-thinking",
+        "six-thinking-hats",
+        "first-principles-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "SCAMPER - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/SCAMPER",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "SCAMPER: Creative Games and Activities for Imagination Development by Bob Eberle",
+            "url": "https://www.amazon.com/Scamper-Creative-Activities-Imagination-Development/dp/1593633467",
+            "type": "book"
+        },
+        {
+            "title": "Applied Imagination by Alex Osborn",
+            "url": "https://www.amazon.com/Applied-Imagination-Principles-Procedures-Problem-Solving/dp/0023895209",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

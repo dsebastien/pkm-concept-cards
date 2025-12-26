@@ -1,0 +1,18 @@
+{
+    "id": "abcd-framework",
+    "name": "ABCD Framework",
+    "summary": "A structured feedback framework using four key questions: Awesome, Boring, Confusing, and Didn't believe.",
+    "explanation": "The ABCD Framework is a simple yet powerful method for giving and receiving constructive feedback, developed by Mary Robinette Kowal. It provides a structured approach that ensures feedback is both comprehensive and actionable.\n\n**The Four Questions**:\n\n- **A - What's Awesome?**: Identify what works well. This isn't just about being nice - understanding strengths helps the creator know what to keep and build upon. It also sets a positive tone for the feedback session.\n\n- **B - What's Boring?**: Highlight areas where attention wanes or engagement drops. This could be sections that drag, unnecessary details, or moments where the pace slows down too much.\n\n- **C - What's Confusing?**: Point out anything unclear, ambiguous, or hard to follow. This helps identify gaps in logic, missing context, or explanations that need improvement.\n\n- **D - What Didn't you believe?**: Flag elements that feel implausible, inconsistent, or break the reader/viewer's suspension of disbelief. This could apply to character motivations, technical claims, or logical arguments.\n\n**When to Use This Framework**:\n\n- Creative writing workshops (originally developed for critiquing fiction)\n- Presentations and pitches\n- Content reviews (blog posts, videos, educational materials)\n- Product feedback and user experience reviews\n- Team retrospectives\n\n**Benefits**:\n\n- Balanced feedback covering both positive and constructive elements\n- Easy to remember with the ABCD acronym\n- Non-threatening approach that starts with positives\n- Specific and actionable categories\n- Universal applicability across creative and professional work",
+    "tags": ["feedback", "communication", "collaboration", "framework", "writing", "creativity"],
+    "category": "Frameworks",
+    "icon": "FaComments",
+    "featured": false,
+    "aliases": ["ABCD Feedback Method", "Kowal Feedback Framework"],
+    "relatedConcepts": [],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/ABCD+Framework"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

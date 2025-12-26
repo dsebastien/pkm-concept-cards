@@ -1,0 +1,54 @@
+{
+    "id": "cogito-ergo-sum",
+    "name": "Cogito Ergo Sum",
+    "summary": "Descartes' foundational philosophical proposition meaning 'I think, therefore I am,' establishing the certainty of one's own existence through the act of thinking.",
+    "explanation": "Cogito ergo sum (Latin: 'I think, therefore I am'; French: 'Je pense, donc je suis') is a philosophical proposition formulated by Rene Descartes in his work 'Discourse on the Method' (1637) and later in 'Meditations on First Philosophy' (1641).\n\n**The Method of Doubt:**\n\nDescartes arrived at this conclusion through his method of radical doubt (methodic skepticism). He systematically questioned everything that could possibly be doubted - sensory experiences, the external world, even mathematical truths. He imagined an 'evil demon' that could deceive him about everything.\n\n**The Indubitable Foundation:**\n\nHowever, Descartes realized that the very act of doubting proves the existence of a thinking entity doing the doubting. Even if he were being deceived about everything else, the fact that he was thinking (or doubting) proved that he must exist as a thinking thing. This became the first principle of his philosophy - an indubitable foundation upon which all other knowledge could be built.\n\n**Philosophical Significance:**\n\n- **Epistemological foundation**: It establishes a starting point for knowledge that cannot be doubted\n- **Mind-body dualism**: It emphasizes the primacy of mind (res cogitans) over matter (res extensa)\n- **Rationalism**: It demonstrates that reason alone, without sensory experience, can establish certain truths\n- **Self-awareness**: It highlights the reflexive nature of consciousness - the mind's ability to know itself\n\n**Common Misconceptions:**\n\nThe phrase is often misunderstood as 'I think, therefore I exist' implying a causal relationship. However, Descartes meant it as a simultaneous recognition: the act of thinking and the existence of the thinker are inseparable and co-present.\n\n**Applications in Knowledge Work:**\n\n- **Critical examination**: Question assumptions before building upon them\n- **First principles thinking**: Identify foundational truths that cannot be reasonably doubted\n- **Self-reflection**: Recognize that your capacity to think and doubt is itself evidence of your agency\n- **Intellectual humility**: Acknowledge the limits of certainty while maintaining core convictions",
+    "tags": [
+        "philosophy",
+        "epistemology",
+        "Descartes",
+        "rationalism",
+        "thinking",
+        "consciousness",
+        "Latin",
+        "first-principles"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "I think therefore I am",
+        "Je pense donc je suis",
+        "Cartesian cogito",
+        "The Cogito"
+    ],
+    "relatedConcepts": ["first-principles", "critical-thinking", "epoche", "reflective-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.04+Expressions/Cogito+ergo+sum"
+    ],
+    "articles": [
+        {
+            "title": "Cogito, ergo sum - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cogito,_ergo_sum",
+            "type": "website"
+        },
+        {
+            "title": "Descartes' Epistemology - Stanford Encyclopedia of Philosophy",
+            "url": "https://plato.stanford.edu/entries/descartes-epistemology/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Discourse on the Method - Rene Descartes",
+            "url": "https://www.gutenberg.org/ebooks/59",
+            "type": "book"
+        },
+        {
+            "title": "Meditations on First Philosophy - Rene Descartes",
+            "url": "https://www.gutenberg.org/ebooks/59",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

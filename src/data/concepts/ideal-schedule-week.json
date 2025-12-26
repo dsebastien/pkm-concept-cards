@@ -1,0 +1,31 @@
+{
+    "id": "ideal-schedule-week",
+    "name": "Ideal Schedule for the Week",
+    "summary": "A time management technique of designing a realistic yet optimistic weekly template that reflects your priorities and creates intentional time allocation.",
+    "explanation": "Defining an ideal schedule for the week is a valuable personal organization and time management technique. The goal is to have a clear vision of how you'd like to spend your time - realistic based on current constraints, but also optimistic, representing the best-case scenario.\n\n**Core principles:**\n\n**Intentionality over productivity**\nAn ideal schedule is NOT about using every minute productively. It's about intentionality and equilibrium - using directed attention to work toward internal goals instead of letting others decide for you. The aim is to spend time intentionally to avoid later regrets.\n\n**Life balance**\nBalance action, rest, and fun. Include work, leisure, family time, and personal care. It's about living fully, respecting your body, your family, and following your dreams.\n\n**How to create your ideal weekly schedule:**\n\n1. **Clarify priorities**: Have a prioritized list of projects/goals (personal and professional combined)\n\n2. **List all activities**: Include goals, obligations, and regular activities (exercise, family, rest, hobbies)\n\n3. **Calculate available time**: Count hours from wake to sleep across the week\n\n4. **Allocate time**: Distribute hours across all items - this forces realistic choices\n\n5. **Create time blocks**: Start with fixed obligations, then add focused work when energy is highest, followed by exercise, rest, or leisure\n\n6. **Reality check**: Project yourself through the schedule - if it feels exhausting, it probably is\n\n**Key insights:**\n\n- You'll rarely follow it perfectly - that's fine\n- Its purpose is to inform decisions, not dictate every moment\n- Don't spend weeks creating it - half a day maximum\n- Update it at least yearly as life changes\n- Print it or add as recurring calendar events\n\n**The equilibrium principle:**\n\nIf you allocate everything to one goal, nothing remains for the rest. If you skip rest, you'll burn out. If you only do leisure, you won't progress. Finding equilibrium is the key.",
+    "tags": [
+        "time-management",
+        "time-blocking",
+        "planning",
+        "productivity",
+        "personal-organization",
+        "work-life-balance"
+    ],
+    "category": "Techniques",
+    "icon": "FaStream",
+    "featured": true,
+    "aliases": ["Weekly Schedule Template", "Ideal Week Planning"],
+    "relatedConcepts": [
+        "time-blocking",
+        "ideal-schedule-day",
+        "zen-productivity",
+        "work-life-balance",
+        "directed-attention"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Ideal+schedule+for+the+week"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

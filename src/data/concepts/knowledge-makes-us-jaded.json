@@ -1,0 +1,23 @@
+{
+    "id": "knowledge-makes-us-jaded",
+    "name": "Knowledge Makes Us Jaded",
+    "summary": "The phenomenon where accumulated knowledge reveals flaws, shortcomings, and gaps that we cannot unsee, making us critical of work that once seemed impressive.",
+    "explanation": "Knowledge makes us jaded because it unveils too many details - and we can't unsee them. As we gain expertise in a field, we begin to notice things that were previously invisible to us:\n\n**What knowledge reveals:**\n\n- **The flaws**: Mistakes and errors that beginners overlook\n- **The shortcomings**: Where something falls short of best practices\n- **The negative aspects**: Downsides and trade-offs that aren't obvious at first\n- **The missing parts**: What's been left out or ignored\n- **The knowledge gaps**: Where the creator's understanding was incomplete\n- **The errors**: Technical mistakes or misconceptions\n\n**Why this happens:**\n\nThis is closely related to the curse of knowledge and the four stages of competence. As we move from unconscious incompetence to conscious competence (and beyond), we develop an increasingly refined eye for quality. What once seemed impressive now appears amateurish because we can see all the ways it could be better.\n\n**The double-edged sword:**\n\nThis jadedness has both positive and negative effects:\n\n**Positive:**\n- Higher standards for your own work\n- Better ability to evaluate and improve\n- Deeper appreciation for truly excellent work\n\n**Negative:**\n- Difficulty appreciating beginner work\n- Harder to enjoy content as a casual consumer\n- Risk of becoming overly critical or dismissive\n- Can discourage sharing your own work (never feels 'good enough')\n\n**Managing jadedness:**\n\nRecognize that your standards have evolved and that work you now see as flawed may still be valuable to those earlier on the knowledge staircase. Use your critical eye constructively rather than destructively.",
+    "tags": ["knowledge", "expertise", "learning", "psychology", "critical-thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Expert's Jadedness", "Knowledge Disillusionment"],
+    "relatedConcepts": [
+        "curse-of-knowledge",
+        "four-stages-of-competence",
+        "knowledge-staircase",
+        "challenge-of-expertise"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowledge+makes+us+jaded"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

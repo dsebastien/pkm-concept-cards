@@ -1,0 +1,31 @@
+{
+    "id": "kaizen-group",
+    "name": "Kaizen Group",
+    "summary": "A team of people dedicated to applying continuous improvement principles to products, processes, or organizations.",
+    "explanation": "A Kaizen group is a dedicated team of workers who focus on the continuous improvement of a product, process, company, or any system they are responsible for. These groups apply Kaizen principles and approaches systematically, identifying areas for improvement and implementing incremental changes over time.\n\nUnlike one-time improvement initiatives, Kaizen groups operate on an ongoing basis, meeting regularly to analyze current processes, identify inefficiencies or problems, brainstorm solutions, and implement small but meaningful changes. The philosophy is rooted in the belief that everyone in an organization has valuable insights about how to improve their work.\n\nKaizen groups are closely related to quality circles, which emerged from Japanese manufacturing practices in the 1980s. While quality circles typically focus on quality-related issues, Kaizen groups may have a broader mandate covering any aspect of continuous improvement including productivity, safety, cost reduction, and employee satisfaction.\n\nKey characteristics of effective Kaizen groups include: regular meeting schedules, cross-functional participation when appropriate, management support, clear documentation of improvements, and celebration of small wins. The groups empower employees to take ownership of their work environment and drive positive change from within.",
+    "tags": [
+        "kaizen",
+        "continuous-improvement",
+        "teamwork",
+        "quality",
+        "collaboration",
+        "problem-solving"
+    ],
+    "category": "Techniques",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": ["Continuous Improvement Team", "Kaizen Team"],
+    "relatedConcepts": ["kaizen", "quality-circle", "continuous-improvement"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Kaizen+group"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Kaizen",
+            "url": "https://en.wikipedia.org/wiki/Kaizen",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

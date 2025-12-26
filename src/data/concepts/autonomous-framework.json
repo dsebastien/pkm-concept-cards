@@ -1,0 +1,18 @@
+{
+    "id": "autonomous-framework",
+    "name": "Autonomous Framework",
+    "summary": "A personal work philosophy focused on maximizing autonomy by minimizing distractions and maximizing ownership, options, and leverage.",
+    "explanation": "The Autonomous Framework is a guiding philosophy for structuring your work life to maximize personal autonomy and effectiveness. It operates on two core principles: minimizing what drains your autonomy while maximizing what builds it.\n\n**Minimize**:\n\n- Phone calls you don't want to take\n- Meetings you don't need to be in\n- Work for work's sake (busywork)\n- Distractions of all kinds\n\n**Maximize**:\n\n- Taking ownership of your work and outcomes\n- Creating options for yourself\n- Building leverage through skills, systems, and relationships\n- Long-term relationships that compound over time\n- Deep, asynchronous, and remote work\n\nThis framework recognizes that true productivity comes not from doing more, but from having the freedom to choose what deserves your attention. By systematically reducing obligations that don't align with your goals and investing in activities that compound over time, you create a self-reinforcing cycle of increasing autonomy.\n\nDeep work and async communication allow for uninterrupted focus, while building leverage through skills, systems, and relationships creates optionality for future decisions.\n\nThe framework is particularly relevant for knowledge workers and remote professionals who want to design their work around their life, rather than the other way around. It's about intentionally crafting the conditions that allow you to do your best work while maintaining control over your time and energy.",
+    "tags": ["autonomy", "productivity", "work", "focus", "remote-work", "leverage"],
+    "category": "Frameworks",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Work Autonomy Framework", "Autonomous Work"],
+    "relatedConcepts": ["deep-work", "essentialism", "focus"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Autonomous+framework"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "epoche",
+    "name": "Epoché",
+    "summary": "A Greek philosophical concept meaning the suspension of judgment, creating a fixed reference point in time for evaluation.",
+    "explanation": "Epoché (Greek: εποχή) is a term meaning 'stop' or 'interruption.' In philosophy, it refers to the suspension of judgment - the deliberate act of withholding belief or disbelief about a claim or situation.\n\n**The concept of frozen judgment:**\n\nThe relationship with 'epoch' comes from the idea that this suspension designates a specific moment or period - a fixed point in time that serves as an anchor. We freeze our judgment at a specific point in time, and that point serves as a reference for future evaluation.\n\n**Historical origins:**\n\nThe concept originates from ancient Greek skepticism, particularly associated with Pyrrho and later Sextus Empiricus. It was later adopted and adapted by Edmund Husserl in phenomenology, where it became central to the phenomenological method.\n\n**Practical applications:**\n\n- **Decision making**: Pause judgment until you have sufficient information\n- **Learning**: Suspend preconceptions to truly understand new ideas\n- **Conflict resolution**: Hold off judgment to understand all perspectives\n- **Self-reflection**: Create reference points to evaluate your own growth\n- **Knowledge management**: Capture ideas without immediately categorizing or judging them\n\n**In PKM context:**\n\nEpoché can be applied when capturing fleeting notes - recording ideas without immediately judging their worth or categorizing them. This allows for more open capture and prevents premature dismissal of potentially valuable insights.",
+    "tags": ["philosophy", "judgment", "time", "thinking", "decision-making", "phenomenology"],
+    "category": "Principles",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Epoche", "Suspension of Judgment", "Phenomenological Reduction"],
+    "relatedConcepts": ["fleeting-notes", "first-principles", "critical-thinking", "stoicism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Épochè+(εποχή)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

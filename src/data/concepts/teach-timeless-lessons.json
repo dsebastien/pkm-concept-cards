@@ -1,0 +1,18 @@
+{
+    "id": "teach-timeless-lessons",
+    "name": "Teach Timeless Lessons",
+    "summary": "A teaching principle that prioritizes concepts, principles, and ideas that age well over time-sensitive information with limited longevity.",
+    "explanation": "When teaching others, focus on timeless lessons - concepts, principles, and ideas that age well. This approach maximizes the long-term value of both your teaching efforts and your students' learning investment.\n\n**Why timeless content matters:**\n\nSome information is only useful for a short duration - specific tool versions, current trends, or temporary solutions. This time-sensitive knowledge quickly becomes outdated and loses value. In contrast, first principles and stable concepts remain valuable over long periods and have much more intrinsic value.\n\n**Examples of timeless vs. time-sensitive content:**\n\n**Timeless:**\n- First principles and fundamental concepts\n- Mental models and thinking frameworks\n- Core principles of a discipline\n- Human psychology and behavior patterns\n- Problem-solving approaches\n- Communication and storytelling fundamentals\n\n**Time-sensitive:**\n- Specific software versions or features\n- Current market trends\n- Tool-specific tutorials\n- News and current events\n- Temporary workarounds\n\n**Benefits of teaching timeless lessons:**\n\n- Your teaching remains relevant for years, not months\n- Students can apply lessons across changing contexts\n- Foundational knowledge enables adaptation to new tools and trends\n- Content can be reused and referenced long-term\n- You build lasting expertise rather than fleeting familiarity\n\nThis doesn't mean time-sensitive information has no value - it's often necessary for practical application. But the foundation should be timeless principles that help learners understand the 'why' behind the 'how.'",
+    "tags": ["teaching", "education", "knowledge", "principles", "content-creation", "learning"],
+    "category": "Principles",
+    "icon": "FaGraduationCap",
+    "featured": false,
+    "aliases": ["Timeless Teaching", "Evergreen Content"],
+    "relatedConcepts": ["first-principles", "lindy-effect", "evergreen-notes", "feynman-technique"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Teach+timeless+lessons"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
