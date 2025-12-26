@@ -1,0 +1,36 @@
+{
+    "id": "thieves-pre-reading",
+    "name": "THIEVES Pre-Reading Strategy",
+    "summary": "A structured skimming technique using an acronym to preview texts before deep reading, improving comprehension and retention.",
+    "explanation": "THIEVES is a pre-reading strategy that helps readers preview and prepare for reading non-fiction texts. By systematically scanning specific elements of a text before reading in detail, you build a mental framework that improves comprehension and retention.\n\nThe acronym stands for:\n\n**T - Title**: Examine the title. What does it tell you about the content? What do you already know about this topic? What questions does it raise?\n\n**H - Headings**: Scan all headings and subheadings. These form the skeleton of the content and reveal its structure. Turn headings into questions to guide your reading.\n\n**I - Introduction**: Read the introduction or first paragraph carefully. This typically states the main purpose, thesis, or central idea of the text.\n\n**E - Every first sentence**: Read the first sentence of each paragraph or section. Topic sentences often contain the main idea of that section, giving you a high-level overview.\n\n**V - Visuals and Vocabulary**: Examine charts, graphs, diagrams, photos, and their captions. Note bold or italicized vocabulary terms—these often signal key concepts.\n\n**E - End-of-chapter questions**: If present, review these questions before reading. They tell you what the author considers most important and what you should focus on.\n\n**S - Summary**: If available, read the summary or conclusion first. This reveals where the text is heading and helps you understand how the pieces fit together.\n\n**Benefits of THIEVES**:\n- Activates prior knowledge before reading\n- Creates a mental roadmap of the content\n- Helps identify main ideas and structure\n- Improves reading comprehension and retention\n- Reduces the feeling of being overwhelmed by long texts\n- Makes subsequent detailed reading more efficient\n\nThis technique is particularly valuable for academic reading, textbooks, research papers, and any dense non-fiction material.",
+    "tags": [
+        "reading",
+        "learning",
+        "study-skills",
+        "comprehension",
+        "active-reading",
+        "note-taking"
+    ],
+    "category": "Techniques",
+    "icon": "FaBookOpen",
+    "featured": false,
+    "aliases": ["THIEVES Strategy", "THIEVES Method", "Pre-Reading Strategy"],
+    "relatedConcepts": [
+        "active-reading",
+        "active-recall",
+        "progressive-summarization",
+        "literature-notes"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Thieves+as+a+pre-reading+strategy"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "THIEVES Pre-Reading Strategy - Video",
+            "url": "https://www.youtube.com/watch?v=nTMUD5eZtuE",
+            "type": "video"
+        }
+    ],
+    "tutorials": []
+}

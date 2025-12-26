@@ -1,0 +1,29 @@
+{
+    "id": "dark-triad",
+    "name": "Dark Triad",
+    "summary": "A personality constellation encompassing three socially aversive traits: narcissism, psychopathy, and Machiavellianism.",
+    "explanation": "The Dark Triad is a psychological concept that refers to three distinct but related personality traits that are considered socially aversive or 'dark.' These traits, while not necessarily pathological, can lead to harmful interpersonal behaviors.\n\n**The Three Traits**:\n\n1. **Narcissism**: Characterized by grandiosity, pride, egotism, and a lack of empathy. Narcissistic individuals have an inflated sense of their own importance, a deep need for admiration, and often lack consideration for others' feelings.\n\n2. **Psychopathy**: Marked by callousness, cynicism, and disregard for other people. Psychopathic traits include lack of remorse, shallow emotions, impulsivity, and antisocial behaviors. Unlike clinical psychopathy, subclinical levels can be found in the general population.\n\n3. **Machiavellianism**: Named after Niccolò Machiavelli, this trait involves duplicity, manipulation, and a willingness to exploit others for personal gain. Machiavellian individuals have a cold, calculated mindset and prioritize their own interests above ethical considerations.\n\n**Key Characteristics**:\n\n- All three traits share a common core of callousness and manipulation\n- They tend to correlate with short-term mating strategies and risk-taking\n- Individuals high in these traits often have initial social success but poor long-term relationships\n- These traits exist on a spectrum—most people have some elements to varying degrees\n\n**Why It Matters**:\n\n- **Self-awareness**: Understanding these traits helps recognize them in yourself and others\n- **Protection**: Awareness helps identify and protect against manipulation\n- **Leadership contexts**: Research shows dark triad traits are overrepresented in leadership positions\n- **Relationships**: Recognizing these patterns can help avoid toxic relationships\n\nWhile often viewed negatively, some research suggests moderate levels of these traits may confer advantages in certain contexts, such as competitive business environments or leadership roles—though typically at the cost of others.",
+    "tags": ["psychology", "personality", "behavior", "manipulation", "self-awareness"],
+    "category": "Principles",
+    "icon": "FaTheaterMasks",
+    "featured": false,
+    "aliases": ["Dark Triad Personality", "Dark Personality Traits"],
+    "relatedConcepts": ["emotional-intelligence", "shadow-side"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Dark+triad"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Dark Triad Test",
+            "url": "https://www.idrlabs.com/dark-triad/test.php",
+            "type": "website"
+        },
+        {
+            "title": "Dark triad - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dark_triad",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "skeuomorphism",
+    "name": "Skeuomorphism",
+    "summary": "A design approach where digital elements mimic their real-world counterparts, making interfaces more intuitive and familiar.",
+    "explanation": "Skeuomorphism is a design principle where digital or modern objects incorporate ornamental elements that reference features from their physical or analog predecessors, even when those features no longer serve a functional purpose.\n\n**Core Principle**: People adapt more easily to things that resemble real-world objects they already understand. By making digital interfaces look like familiar physical objects, designers reduce the learning curve and make technology more accessible.\n\n**Examples in Design**:\n\n- **Digital calendars** that look like paper calendars with torn page edges\n- **Note-taking apps** with paper textures and lined backgrounds\n- **Calculator apps** styled like physical calculators\n- **E-book readers** with page-turning animations and paper textures\n- **Audio apps** with knobs, switches, and VU meters resembling physical equipment\n- **Trash can icons** that look like actual waste baskets\n- **Save icons** depicting floppy disks (a physical format many users have never seen)\n\n**Benefits**:\n\n- **Intuitive interfaces**: Users instantly understand how to interact with familiar-looking elements\n- **Reduced learning curve**: New technology feels less intimidating\n- **Emotional connection**: Physical metaphors can create warmth and nostalgia\n- **Increased conversion**: In sales/marketing, products designed to resemble physical objects often perform better\n\n**Criticisms and Evolution**:\n\n- Can create visual clutter and distraction\n- May limit design innovation\n- Physical metaphors eventually become outdated\n- Has largely been replaced by flat design and minimalism in modern interfaces\n\nApple's iOS was famous for skeuomorphic design until iOS 7 (2013), when it shifted to flat design. However, skeuomorphic elements persist selectively in many interfaces where they aid understanding, demonstrating that the principle remains valuable when applied thoughtfully.",
+    "tags": ["design", "ux", "psychology", "interfaces", "usability", "metaphor"],
+    "category": "Principles",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Skeuomorph Design", "Skeuomorphic Design"],
+    "relatedConcepts": ["perceptual-set", "cognitive-load", "mental-models"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Skeuomorphism"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Skeuomorphism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Skeuomorph",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "hidden-time-cost",
+    "name": "Hidden Time Cost",
+    "summary": "The true cost of a purchase includes not just the price paid, but the time and energy required to use, consume, or maintain it.",
+    "explanation": "Hidden time cost is the principle that the price tag of a purchase doesn't tell the whole story. Beyond the monetary cost, every purchase comes with an implicit commitment of time and energy to actually derive value from it.\n\n**The full cost equation**: A $10 book might take 30-40 hours to read. A cheap video game might consume hundreds of hours. A 'free' online course might require weeks of dedication. The actual cost is money + time + energy.\n\n**Why this matters**:\n\n1. **Informed decisions**: Understanding hidden time costs helps you make better purchasing decisions. That sale item isn't a bargain if you'll never have time to use it.\n\n2. **Avoiding accumulation**: Many people accumulate books, courses, tools, and subscriptions faster than they can consume them. This creates guilt, clutter, and wasted money.\n\n3. **Opportunity cost**: Time spent consuming one thing is time not available for something else. A 60-hour video game means 60 hours not spent on other activities.\n\n4. **Value assessment**: Sometimes a more expensive option that saves time is actually cheaper when you account for hidden time costs. A $100 course that's concise might be more valuable than a free one that's poorly organized.\n\n**Practical applications**:\n\n- Before buying, ask: 'Do I have the time to get value from this?'\n- Calculate the 'true hourly cost' by dividing price by hours needed\n- Apply this to content consumption, tools, subscriptions, and physical goods\n- Consider whether the time investment aligns with your priorities\n- Be especially careful with 'cheap' or 'free' items that may have high hidden time costs\n\nThis concept applies beyond shopping to any commitment: meetings, relationships, projects, and hobbies all have hidden time costs that should be consciously evaluated.",
+    "tags": ["time", "money", "decisions", "opportunity-cost", "consumption", "priorities"],
+    "category": "Principles",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["True Cost of Consumption", "Time Cost of Ownership"],
+    "relatedConcepts": [
+        "opportunity-cost",
+        "essentialism",
+        "four-thousand-weeks",
+        "collectors-fallacy"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Factor+in+the+time+and+energy+required+to+get+value+out+of+what+you+buy"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
