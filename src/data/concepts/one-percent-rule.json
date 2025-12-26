@@ -1,0 +1,24 @@
+{
+    "id": "one-percent-rule",
+    "name": "1% Rule",
+    "summary": "In any Internet community, 1% of people create content, 9% contribute, and 90% lurk - aspire to be in the top 10%.",
+    "explanation": "The 1% Rule (also known as the 90-9-1 principle or participation inequality) describes the typical distribution of participation in online communities:\n\n- **1% create**: These are the content creators, the ones who start discussions, write posts, create videos, or build something new.\n\n- **9% contribute**: These users engage with existing content - commenting, editing, rating, or sharing.\n\n- **90% lurk**: The vast majority consume content passively without visible participation.\n\nThis pattern appears consistently across platforms from Wikipedia to YouTube to forums.\n\n**Why it matters:**\n\n1. **Community building**: If you're building a community, expect most members to be silent. That's normal, not a problem.\n\n2. **Personal challenge**: Aspire to be in the top 10%! Moving from lurker to contributor to creator compounds your learning, builds your reputation, and creates opportunities.\n\n3. **Value creation**: The 1% create disproportionate value. Becoming a creator puts you in a position of influence.\n\n4. **Network effects**: Contribution is how you benefit most from communities - both learning and networking happen through engagement.",
+    "tags": ["internet", "community", "content-creation", "participation", "principles"],
+    "category": "Principles",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["90-9-1 Rule", "Participation Inequality", "1-9-90 Rule"],
+    "relatedConcepts": ["building-in-public", "audience-acquisition-flywheel", "content-curation"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/1%25+rule"
+    ],
+    "articles": [
+        {
+            "title": "1% Rule (Internet culture) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture)",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

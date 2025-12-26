@@ -1,0 +1,36 @@
+{
+    "id": "analog-to-digital-workflow",
+    "name": "Analog to Digital Workflow",
+    "summary": "A structured process for transitioning paper notes, documents, and physical information into organized digital systems.",
+    "explanation": "Transitioning from analog to digital information management requires a structured approach. Here's a comprehensive process:\n\n**Step 1: Assess your analog materials**\nCreate an inventory of physical notebooks, paper notes, and other analog sources. Categorize them by type (notes, documents, highlights) and prioritize what will add most value when digitized.\n\n**Step 2: Choose your digital platforms**\nSelect minimal tools for different information types. Use as few platforms as possible to increase the chance of connecting ideas. Consider: cloud storage for documents, a PKM tool like Obsidian for notes, and dedicated apps for specific needs.\n\n**Step 3: Define an organization system**\nEstablish a consistent structure across tools. Methods like PARA or Johnny Decimal provide frameworks for knowing where to store and find information.\n\n**Step 4: Ensure backup and recovery**\nSet up automated backups, piece-by-piece restoration capability, disaster recovery plans, and migration strategies to avoid vendor lock-in.\n\n**Step 5: Digitize systematically**\nScan documents to PDF, take pictures of notes and use OCR/AI to convert to text, recreate valuable diagrams digitally.\n\n**Step 6: Add metadata**\nAs you digitize, add categories, tags, and metadata to enable future connections and findability.\n\n**Step 7: Include in regular workflows**\nMake analog-to-digital transition part of periodic reviews and regular routines rather than a one-time event.\n\n**Step 8: Leverage digital features**\nExplore connections, use AI tools, build your knowledge graph, and continuously refine your approach.",
+    "tags": [
+        "pkm",
+        "analog",
+        "digital",
+        "workflow",
+        "organization",
+        "productivity",
+        "knowledge-management"
+    ],
+    "category": "Methods",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Analog to Digital Transition",
+        "Paper to Digital Workflow",
+        "Digitization Process"
+    ],
+    "relatedConcepts": [
+        "capture-system",
+        "para-method",
+        "johnny-decimal",
+        "periodic-reviews",
+        "knowledge-graph"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Process+for+transitioning+information+from+analog+to+digital"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "highlight-of-the-day",
+    "name": "Highlight of the Day",
+    "summary": "The single most important task or activity for your day; completing or making significant progress on it should be enough to feel good about your day.",
+    "explanation": "The Highlight of the Day is your Most Important Task (MITD) - the one thing that, if you accomplish it, will make your day feel successful. This concept was coined in the book 'Make Time' by Jake Knapp and John Zeratsky.\n\nThe key insight is simple: instead of trying to do everything, identify just ONE major thing you want to dedicate your energy to. This could be:\n\n- Work-related tasks\n- Leisure activities\n- Necessary chores\n- Obligations or commitments\n- Personal projects\n\nWhat matters is that there's just one primary focus. If you manage to make progress on that single highlight, you can be proud at the end of the day.\n\nThis approach combats the overwhelm of endless to-do lists and provides a clear success criterion. Rather than feeling scattered across many incomplete tasks, you concentrate your efforts on what truly matters today.\n\nPractically, define your highlight each morning (or the night before). Write it down. Protect time for it. When distractions arise, ask yourself: 'Will this help me achieve my highlight?' If not, it can wait.",
+    "tags": ["prioritization", "focus", "productivity", "task-management", "progress"],
+    "category": "Techniques",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Daily Highlight", "One Thing"],
+    "relatedConcepts": ["most-important-task", "deep-work", "time-blocking", "focus"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Highlight+of+the+day"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Make Time",
+            "url": "https://maketime.blog/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

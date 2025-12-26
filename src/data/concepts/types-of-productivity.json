@@ -1,0 +1,23 @@
+{
+    "id": "types-of-productivity",
+    "name": "Types of Productivity",
+    "summary": "A holistic framework identifying four types of productivity: task, intellectual, emotional, and social.",
+    "explanation": "Tiago Forte identified four types of productivity, expanding our understanding beyond just getting tasks done:\n\n**1. Task Productivity (Efficiency)**\nThe traditional view of productivity - completing tasks, checking off to-dos, and getting things done. This is what most productivity systems focus on.\n\n**2. Intellectual Productivity (Learning)**\nHow effectively you acquire, process, and apply new knowledge. This includes reading, studying, synthesizing ideas, and developing expertise.\n\n**3. Emotional Productivity (Well-being)**\nYour ability to manage emotions, maintain mental health, and cultivate inner peace. Without emotional productivity, the other types suffer.\n\n**4. Social Productivity (Relationships)**\nHow effectively you build and maintain relationships, collaborate with others, and contribute to communities.\n\nThinking about productivity holistically helps you:\n\n- **Balance your efforts** across different life domains\n- **Respect the interconnections** between types (emotional well-being affects task productivity)\n- **Avoid burnout** from over-optimizing just one dimension\n- **Measure success more completely** than task completion alone\n\nTrue productivity isn't just about doing more - it's about thriving across all dimensions of life.",
+    "tags": ["productivity", "well-being", "learning", "relationships", "holistic"],
+    "category": "Frameworks",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Four Types of Productivity", "Holistic Productivity"],
+    "relatedConcepts": [
+        "work-life-balance",
+        "work-life-integration",
+        "emotional-intelligence",
+        "lifeos"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Types+of+productivity"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

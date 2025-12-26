@@ -1,0 +1,18 @@
+{
+    "id": "task-weights",
+    "name": "Task Weights",
+    "summary": "Assigning abstract weight values to tasks to understand their relative size compared to other items in a backlog.",
+    "explanation": "Task Weights is a prioritization and estimation technique where you assign a weight value to each task to understand its relative size compared to other items. The weight value is abstract but must be comparable across tasks.\n\nA popular approach is using the Fibonacci Sequence (1, 2, 3, 5, 8, 13, 21...) for task weights. This sequence works well because:\n\n- It provides a logical, natural progression\n- It covers various possible task sizes\n- The gaps between numbers grow larger, reflecting the increasing uncertainty in larger estimates\n- It discourages false precision (you can't say something is 'exactly 4' - you must choose 3 or 5)\n\nTypically, teams use numbers up to 21 (representing roughly a month of focused work for the largest items).\n\nUsing task weights helps with:\n- **Sprint planning**: Understanding how much work fits in a time period\n- **Priority comparison**: Identifying which tasks offer the best value-to-effort ratio\n- **Capacity planning**: Estimating team velocity over time\n- **Risk assessment**: Larger weights often indicate higher uncertainty\n\nThis technique is commonly used in Agile/Scrum methodologies and is also known as 'story points' or 'effort estimation'.",
+    "tags": ["prioritization", "estimation", "project-management", "backlog", "productivity"],
+    "category": "Techniques",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Story Points", "Effort Estimation", "Relative Estimation"],
+    "relatedConcepts": ["effort-vs-impact", "work-breakdown-structure", "kanban"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Task+Weights"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

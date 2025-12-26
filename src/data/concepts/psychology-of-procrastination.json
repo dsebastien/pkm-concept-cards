@@ -1,0 +1,30 @@
+{
+    "id": "psychology-of-procrastination",
+    "name": "Psychology of Procrastination",
+    "summary": "Understanding the psychological patterns and causes behind why we procrastinate, from perfectionism to overwhelm.",
+    "explanation": "Procrastination isn't just laziness - it has distinct psychological patterns. Understanding these patterns helps us develop targeted solutions.\n\n**1. Perfectionist's Fear**\nThe subconscious fear of failure causes us to delay tasks to avoid facing potential failure.\n- *Symptom*: Wasting time on minor details, endless revisions\n- *Solution*: Visualize positive completion, accept that perfection is a myth, focus on best effort\n\n**2. Dreamer's Lack of Action**\nHighly creative with great ideas but unable to execute. No goal-setting after ideation.\n- *Symptom*: Aimless approach, lack of decision-making\n- *Solution*: Create timelines and set milestones after generating ideas\n\n**3. Overwhelmed Avoider**\nTask complexity causes motivation loss and avoidance.\n- *Symptom*: Not doing what we should, feeling paralyzed\n- *Solution*: Break tasks into smaller, manageable pieces\n\n**4. Busy Bee Without Prioritization**\nToo many tasks without acknowledging their relative importance.\n- *Symptom*: Working constantly but achieving little\n- *Solution*: Use prioritization frameworks like the Eisenhower Matrix\n\n**5. Distraction-Prone**\nOur brains can't focus indefinitely, making distractions another form of procrastination.\n- *Symptom*: Opening random websites, constant context-switching\n- *Solution*: Control environment, take regular breaks (e.g., Pomodoro technique)",
+    "tags": [
+        "psychology",
+        "procrastination",
+        "productivity",
+        "personal-development",
+        "self-awareness"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Why We Procrastinate", "Procrastination Patterns"],
+    "relatedConcepts": [
+        "pattern-of-procrastination",
+        "perfectionism",
+        "procrastination-in-disguise",
+        "eisenhower-matrix",
+        "pomodoro-technique"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Psychology+of+procrastination"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

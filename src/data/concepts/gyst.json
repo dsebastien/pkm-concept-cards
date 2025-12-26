@@ -1,0 +1,18 @@
+{
+    "id": "gyst",
+    "name": "GYST (Get Your Shit Together)",
+    "summary": "A productivity reset framework for when you're overwhelmed and need to regain control of your work and life.",
+    "explanation": "GYST - Get Your Shit Together - is a practical approach to resetting when you feel overwhelmed, scattered, or out of control. Coined by Tiago Forte, it's both a mindset and a set of actions.\n\nThe GYST approach involves:\n\n1. **Acknowledge the chaos**: Recognize that you've lost control and need to reset. This isn't failure - it happens to everyone.\n\n2. **Stop adding**: Pause new commitments and inputs temporarily.\n\n3. **Clear the decks**: Process your inboxes, capture loose ends, and get everything out of your head into a trusted system.\n\n4. **Prioritize ruthlessly**: Identify what truly matters right now. Everything else can wait.\n\n5. **Take one small action**: Start with the smallest possible step to rebuild momentum.\n\nGYST days or sessions are when you deliberately step back from regular work to organize, clean up, and reset your systems. Some people schedule these regularly (weekly or monthly), while others trigger them when feeling overwhelmed.\n\nThe power of GYST is in its honesty - sometimes you just need to admit things have gotten away from you and take action to regain control.",
+    "tags": ["productivity", "organization", "reset", "overwhelm", "mindset"],
+    "category": "Methods",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["Get Your Shit Together", "Productivity Reset"],
+    "relatedConcepts": ["inbox-zero", "gtd", "periodic-reviews", "open-loops"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Get+Your+Shit+Together+(GYST)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,31 @@
+{
+    "id": "personal-control-system",
+    "name": "Personal Control System",
+    "summary": "A meta-system for controlling your productivity systems through continuous review, improvement, and self-regulation practices.",
+    "explanation": "A Personal Control System (PCS) is a meta-system focused on controlling and continuously improving all your other personal systems. It's the 'operating system' for your life that ensures everything else runs smoothly.\n\nA PCS typically includes:\n\n**Review Mechanisms**\n- Periodic reviews (daily, weekly, monthly, yearly)\n- Looking back (realizations, lessons learned)\n- Looking forward (planning, goal-setting)\n\n**Behavioral Components**\n- Routines (morning, evening, work)\n- Habits (atomic habits, habit stacking)\n- Rituals (meaningful repeated actions)\n- Practices (skills you deliberately maintain)\n\n**Self-Regulation Elements**\n- Meditation and mindfulness\n- Focus and attention training\n- Self-control development\n- Exercises and physical practices\n\nThe key insight is that having great productivity systems isn't enough - you need a system to manage those systems. Without a PCS, your other systems gradually degrade, become outdated, or get abandoned.\n\nA well-designed PCS ensures you regularly:\n- Assess what's working and what isn't\n- Make adjustments before small issues become big problems\n- Stay aligned with your evolving goals and priorities",
+    "tags": [
+        "systems",
+        "productivity",
+        "self-regulation",
+        "personal-organization",
+        "continuous-improvement"
+    ],
+    "category": "Systems",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["PCS", "Life Control System"],
+    "relatedConcepts": [
+        "periodic-reviews",
+        "lifeos",
+        "habit-stacking",
+        "morning-routine",
+        "evening-routine",
+        "continuous-improvement"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Control+System+(PCS)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

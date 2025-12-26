@@ -1,0 +1,24 @@
+{
+    "id": "intellectual-capital",
+    "name": "Intellectual Capital",
+    "summary": "Your accumulated knowledge, insights, and wisdom treated as valuable long-term capital that requires protection and stewardship.",
+    "explanation": "Your knowledge base isn't just a collection of notes - it's your intellectual capital. This represents:\n\n- The core of your own thinking and realizations\n- Your evolving worldview and perspective\n- The concepts that shape your understanding: first principles and mental models\n- Your accumulated wisdom over years or decades\n\n**Why viewing knowledge as capital matters:**\n\n**Capital requires stewardship**: You wouldn't entrust financial investments to unstable institutions. Your intellectual capital deserves the same protection.\n\n**Capital compounds over time**: Like financial investments, intellectual capital grows through compound returns. Ideas connect, insights deepen, understanding expands - but only if the foundation remains intact.\n\n**Capital demands long-term thinking**: Every choice about tools, formats, and systems should consider decades, not months.\n\n**Protecting your intellectual capital:**\n\n- Choose tools based on data ownership over convenience\n- Use open formats that outlive specific applications\n- Avoid platforms with misaligned business models\n- Design for graceful degradation\n- Think in terms of decades, not years\n\nWhen evaluating decisions about your knowledge system, ask: 'Would I make this choice with my financial capital?' If you wouldn't trust your money to a platform that could disappear overnight or lock you in with proprietary formats, don't trust your intellectual capital to it either.",
+    "tags": ["pkm", "knowledge-management", "personal-development", "thinking", "long-term"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Knowledge Capital", "Mental Capital"],
+    "relatedConcepts": [
+        "pkm",
+        "file-over-app",
+        "graceful-degradation-pkm",
+        "compound-growth",
+        "time-horizons"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Intellectual+Capital"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

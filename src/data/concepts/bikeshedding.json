@@ -1,0 +1,29 @@
+{
+    "id": "bikeshedding",
+    "name": "Bikeshedding",
+    "summary": "The tendency to spend disproportionate time on trivial matters while leaving important issues unattended.",
+    "explanation": "Bikeshedding, also known as Parkinson's Law of Triviality, describes our tendency to devote excessive time and energy to minor, easy-to-understand issues while neglecting more complex, important ones.\n\nThe term comes from a story where a committee reviewing plans for a nuclear power plant spent most of their time debating what color to paint the bike shed, because everyone felt qualified to have an opinion on paint colors but not on nuclear engineering.\n\nWhy does bikeshedding happen?\n\n1. **Comfort with the familiar**: Trivial matters are easier to understand and discuss.\n\n2. **Desire to contribute**: People want to feel useful, so they focus on areas where they can have input.\n\n3. **Avoidance of complexity**: Difficult decisions are mentally taxing, so we unconsciously defer them.\n\n4. **Procrastination in disguise**: Discussing minor details feels productive but avoids real work.\n\nTo combat bikeshedding:\n- Set time limits for discussions on minor issues\n- Explicitly prioritize agenda items by importance\n- Recognize when you're avoiding harder decisions\n- Ask 'Does this decision really matter?' before deep-diving\n\nBeing aware of this tendency is the first step to avoiding it.",
+    "tags": ["productivity", "time-management", "procrastination", "decision-making", "psychology"],
+    "category": "Principles",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["Parkinson's Law of Triviality", "Law of Triviality"],
+    "relatedConcepts": [
+        "parkinson-law",
+        "procrastination-in-disguise",
+        "pattern-of-procrastination",
+        "focus"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Bikeshedding"
+    ],
+    "articles": [
+        {
+            "title": "Bikeshedding - The Decision Lab",
+            "url": "https://thedecisionlab.com/biases/bikeshedding",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

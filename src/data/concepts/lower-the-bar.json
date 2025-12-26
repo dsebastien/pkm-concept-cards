@@ -1,0 +1,24 @@
+{
+    "id": "lower-the-bar",
+    "name": "Lower the Bar",
+    "summary": "Set the bar lower at the day-to-day work level to overcome overwhelm and make consistent progress toward big goals.",
+    "explanation": "If you want to make progress, you need to set the bar lower when you get down to daily work. Setting the bar too high tends to be overwhelming, leading to doubt, fear, procrastination, and ultimately inaction. This trap kills many people's ability to make tangible progress.\n\nIn contrast, atomic tasks are by definition meaningful and achievable in a short period of time.\n\nConsider writing a book - it can feel daunting. But it's a process that unfolds over time. That big objective can be decomposed into many small but meaningful steps: brainstorming, outlining, writing sections, editing chapters, and so on. This is essentially a Work Breakdown Structure (WBS).\n\nLowering the bar makes complex goals approachable:\n\n- **Instead of writing a book**, work on paragraphs and sections\n- **Instead of getting fit**, do one pushup today\n- **Instead of learning a language**, learn three words\n\nSmall wins keep you motivated and make it easier to celebrate progress. When you remove the burden of the big hairy goal, motivation is generally not an issue anymore. All you need is to show up again and again.\n\nThe journey to achieving your biggest dreams begins with a single, manageable step.",
+    "tags": ["productivity", "goals", "task-management", "procrastination", "motivation"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Set the Bar Lower", "Lower Standards to Progress"],
+    "relatedConcepts": [
+        "atomic-tasks",
+        "start-small",
+        "work-breakdown-structure",
+        "small-wins",
+        "perfectionism"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/To+make+progress,+set+the+bar+lower"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

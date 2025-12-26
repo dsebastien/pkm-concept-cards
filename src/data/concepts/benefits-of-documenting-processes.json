@@ -1,0 +1,18 @@
+{
+    "id": "benefits-of-documenting-processes",
+    "name": "Benefits of Documenting Processes",
+    "summary": "Process documentation makes workflows easier to discover, understand, delegate, automate, review, evaluate, and improve.",
+    "explanation": "Documenting processes is a foundational practice for personal and organizational effectiveness. When processes are written down clearly, they become:\n\n- **Easier to discover**: Team members and future you can find and understand existing workflows without relying on tribal knowledge or memory.\n\n- **Easier to understand**: Clear documentation removes ambiguity and ensures everyone follows the same steps consistently.\n\n- **Easier to delegate**: When processes are documented, you can hand off tasks to others with confidence that they'll be executed correctly.\n\n- **Easier to automate**: Well-documented processes reveal patterns and repetitive steps that are prime candidates for automation.\n\n- **Easier to review**: Documentation allows for systematic review and quality checks of how work gets done.\n\n- **Easier to evaluate**: You can measure and assess the effectiveness of documented processes more objectively.\n\n- **Easier to improve**: With a clear baseline, you can identify bottlenecks, inefficiencies, and opportunities for optimization.\n\nThe act of documenting itself often reveals inefficiencies and prompts improvements. Start with your most critical or frequently-used processes, and build your documentation library over time.",
+    "tags": ["processes", "documentation", "efficiency", "delegation", "improvement"],
+    "category": "Principles",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": ["Process Documentation Benefits"],
+    "relatedConcepts": ["automating-processes", "document-to-forget", "continuous-improvement"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Benefits+of+documenting+processes"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

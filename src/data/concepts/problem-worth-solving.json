@@ -1,0 +1,23 @@
+{
+    "id": "problem-worth-solving",
+    "name": "Problem Worth Solving",
+    "summary": "The strategic skill of identifying which problems deserve your attention and which ones are best left ignored.",
+    "explanation": "Not every problem requires a solution. Some problems are best ignored rather than solved. This principle is about developing the wisdom to distinguish between problems that warrant your time and energy versus those that don't.\n\nSuccessful people choose their battles wisely. They understand that:\n\n1. **Time and energy are finite**: Every problem you tackle takes resources away from other opportunities.\n\n2. **Some problems resolve themselves**: Given time, certain issues naturally fade or become irrelevant.\n\n3. **Not all problems are yours to solve**: Learning to say 'no' or delegate is crucial.\n\n4. **The Pareto Principle applies**: A small subset of problems, if solved, will yield the majority of benefits.\n\nBefore diving into problem-solving mode, ask yourself:\n- What happens if I do nothing?\n- Is this problem within my control or influence?\n- What's the cost of solving this versus the cost of ignoring it?\n- Will this matter in a week? A month? A year?\n\nThis filtering mechanism helps you focus on high-impact work rather than getting lost in an endless stream of issues that demand attention but don't deserve it.",
+    "tags": ["prioritization", "problem-solving", "decision-making", "focus", "simplicity"],
+    "category": "Principles",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Choose Your Battles", "Problem Selection"],
+    "relatedConcepts": [
+        "pareto-principle",
+        "essentialism",
+        "high-leverage-tasks",
+        "opportunity-cost"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Figure+out+which+problems+are+worth+solving+and+which+ones+you+can+ignore"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

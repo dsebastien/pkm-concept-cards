@@ -1,0 +1,24 @@
+{
+    "id": "energy-first-time-second",
+    "name": "Energy First, Time Second",
+    "summary": "Energy management is more important than time management; focus on maintaining and recharging your energy before optimizing your schedule.",
+    "explanation": "Energy First, Time Second is a prioritization principle that challenges the conventional focus on time management. The core insight is that managing your energy is more fundamental than managing your time.\n\nWhen you prioritize energy management:\n\n1. **Recharge properly**: Ensure you get adequate rest, nutrition, and recovery time before trying to optimize your schedule.\n\n2. **Match tasks to energy levels**: Schedule demanding work during your peak energy periods, and routine tasks during lower-energy times.\n\n3. **Protect your energy**: Avoid activities, people, or situations that drain you unnecessarily.\n\n4. **Build sustainable habits**: Create routines that replenish rather than deplete your reserves.\n\nOnly after establishing good energy management practices should you focus on time management techniques. No amount of scheduling optimization will help if you're running on empty. Sustainable productivity comes from the inside out.",
+    "tags": ["energy", "time", "prioritization", "productivity", "self-care"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Energy Management First", "Manage Energy Not Time"],
+    "relatedConcepts": ["mental-energy", "time-blocking", "morning-routine", "evening-routine"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Energy+first,+time+second"
+    ],
+    "articles": [
+        {
+            "title": "Manage Your Energy, Not Your Time",
+            "url": "https://www.charlottegrysolle.com/manage-your-energy-not-your-time/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

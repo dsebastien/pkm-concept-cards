@@ -1,0 +1,23 @@
+{
+    "id": "pauling-principle",
+    "name": "Pauling Principle",
+    "summary": "The best way to have a good idea is to have a lot of ideas and throw away the bad ones.",
+    "explanation": "The Pauling Principle, attributed to Nobel Prize-winning chemist Linus Pauling, captures a fundamental truth about creativity and innovation: quality comes from quantity.\n\n**The insight is counterintuitive:**\n\nMost people try to have one great idea. Pauling's approach is different - generate many ideas first, then filter ruthlessly.\n\n**Why this works:**\n\n1. **Removes pressure**: When you're not trying to have the perfect idea, creativity flows more freely.\n\n2. **Increases surface area**: More ideas mean more chances of finding a great one.\n\n3. **Allows combination**: Good ideas often emerge from combining or iterating on mediocre ones.\n\n4. **Builds skill**: The practice of generating ideas improves your ideation ability over time.\n\n5. **Reduces attachment**: When you have many ideas, you're less precious about any single one.\n\n**Practical application:**\n\n- Brainstorm without judgment first\n- Aim for quantity before quality\n- Set idea quotas (e.g., 'I'll generate 20 ideas before evaluating any')\n- Create safe spaces for 'bad' ideas\n- Evaluate and filter only after generation is complete\n\nThis principle aligns with brainstorming best practices and the design thinking philosophy of divergent-then-convergent thinking.",
+    "tags": ["ideation", "creativity", "principles", "innovation", "brainstorming"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Linus Pauling Principle", "Quantity Leads to Quality"],
+    "relatedConcepts": [
+        "brainstorming",
+        "divergent-thinking",
+        "convergent-thinking",
+        "twelve-favorite-problems"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/The+Pauling+Principle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

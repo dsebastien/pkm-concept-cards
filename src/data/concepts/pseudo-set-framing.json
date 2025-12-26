@@ -1,0 +1,18 @@
+{
+    "id": "pseudo-set-framing",
+    "name": "Pseudo-Set Framing",
+    "summary": "Creating a set or sequence of tasks increases a person's likelihood of following through to completion.",
+    "explanation": "Pseudo-Set Framing is a psychological principle that reveals how presenting tasks as part of a set dramatically increases completion rates. When people see tasks as connected parts of a whole, they're more motivated to finish.\n\nThis works because:\n\n1. **Completion drive**: Humans have an innate desire to complete sets. An incomplete set creates psychological tension (similar to the Zeigarnik effect).\n\n2. **Progress visibility**: Seeing progress toward a goal (e.g., '3 of 5 steps completed') motivates continued effort.\n\n3. **Reduced decision fatigue**: When the next step is already defined as part of a set, there's less friction to continue.\n\n**Practical Applications:**\n\n- **Sales**: Two-step checkouts, percentage trackers showing progress\n- **Onboarding**: Breaking complex processes into numbered steps\n- **Learning**: Structuring courses as sequential modules\n- **Personal productivity**: Organizing work into defined project phases\n- **Habit formation**: Creating morning/evening routine checklists\n\nTo leverage this principle, frame your tasks as parts of a coherent set rather than isolated items. Even arbitrary groupings can increase completion rates simply by creating the perception of a set to be completed.",
+    "tags": ["psychology", "productivity", "motivation", "onboarding", "behavior"],
+    "category": "Principles",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Set Completion Effect", "Task Grouping"],
+    "relatedConcepts": ["zeigarnik-effect", "chunking", "gamification", "habit-stacking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pseudo-Set+Framing"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
