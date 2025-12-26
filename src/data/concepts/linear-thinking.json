@@ -1,0 +1,18 @@
+{
+    "id": "linear-thinking",
+    "name": "Linear Thinking",
+    "summary": "Sequential, step-by-step reasoning that follows a straight logical path.",
+    "explanation": "Linear Thinking is sequential, logical reasoning that moves step-by-step from premise to conclusion. While valuable for structured problem-solving and analysis, linear thinking can miss non-linear relationships, feedback loops, and emergent properties. Real-world systems are often non-linear. Complementing linear thinking with systems thinking, lateral thinking, and radiant thinking helps capture complexity that sequential analysis might miss. The best thinkers move fluidly between linear and non-linear modes.",
+    "tags": ["thinking", "analysis", "cognition"],
+    "category": "Thinking",
+    "icon": "FaArrowRight",
+    "featured": false,
+    "aliases": ["Sequential thinking", "Step-by-step reasoning"],
+    "relatedConcepts": ["radiant-thinking", "systems-thinking", "lateral-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Linear+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

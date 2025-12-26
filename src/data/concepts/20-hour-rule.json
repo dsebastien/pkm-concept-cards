@@ -1,0 +1,24 @@
+{
+    "id": "20-hour-rule",
+    "name": "20-Hour Rule",
+    "summary": "With focused practice, you can become reasonably good at most skills in just 20 hours.",
+    "explanation": "The 20-Hour Rule, popularized by Josh Kaufman, counters the discouraging 10,000-hour narrative by showing that basic proficiency in most skills requires only about 20 hours of focused, deliberate practice. This is roughly 45 minutes a day for a month. The key is practicing intelligently: deconstruct the skill, focus on the most important elements, remove barriers to practice, and commit to at least 20 hours. This makes skill acquisition accessible and demystifies the learning process.",
+    "tags": ["learning", "skills", "productivity"],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["20 hours rule", "Basic proficiency rule"],
+    "relatedConcepts": ["10000-hour-rule", "meta-learning", "just-in-time-learning"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/20-hour+rule"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The First 20 Hours",
+            "url": "https://amzn.to/3VjK8rE",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

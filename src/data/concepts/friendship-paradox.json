@@ -1,0 +1,18 @@
+{
+    "id": "friendship-paradox",
+    "name": "Friendship Paradox",
+    "summary": "On average, your friends have more friends than you do.",
+    "explanation": "The Friendship Paradox is a sociological phenomenon where most people have fewer friends than their friends have, on average. This occurs because people with many connections are more likely to be in your social circle. It has implications for social media (seeing people who seem more popular/successful) and information spread (well-connected nodes are reached first). Understanding this paradox helps calibrate expectations and recognize that social comparison is inherently skewed.",
+    "tags": ["psychology", "social", "networks"],
+    "category": "Concepts",
+    "icon": "FaUserFriends",
+    "featured": false,
+    "aliases": ["Social network paradox"],
+    "relatedConcepts": ["social-proof", "survivorship-bias", "comparison"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Frienship+paradox"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "signal-to-noise-ratio",
+    "name": "Signal to Noise Ratio",
+    "summary": "The ratio of useful information to irrelevant or distracting information.",
+    "explanation": "Signal to Noise Ratio (SNR) measures the proportion of valuable information (signal) versus irrelevant clutter (noise). In the information age, noise is everywhere - endless notifications, clickbait, shallow content. High SNR sources deliver concentrated value; low SNR sources waste time and attention. Curating inputs, using progressive summarization, and building quality filters increases SNR in your information diet. Better to read one excellent book than scroll through hundreds of mediocre posts.",
+    "tags": ["information-management", "productivity", "focus"],
+    "category": "Concepts",
+    "icon": "FaSignal",
+    "featured": false,
+    "aliases": ["SNR", "Information quality"],
+    "relatedConcepts": ["information-overload", "content-curation", "essentialism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Signal+to+noise+ratio"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "kano-model",
+    "name": "Kano Model",
+    "summary": "A framework for prioritizing features based on customer satisfaction and functionality.",
+    "explanation": "The Kano Model classifies features into five categories based on how they affect satisfaction: Must-haves (expected, cause dissatisfaction if absent), Performance (more is better), Delighters (unexpected but pleasing), Indifferent (no impact), and Reverse (cause dissatisfaction if present). This helps prioritize what to build or focus on. In PKM, it helps evaluate which features of a system truly matter: some are essential (quick capture), some scale with quality (search), and some are delightful surprises (unexpected connections). Focus on must-haves first, then performance features.",
+    "tags": ["frameworks", "prioritization", "product"],
+    "category": "Frameworks",
+    "icon": "FaChartBar",
+    "featured": false,
+    "aliases": ["Kano analysis", "Customer satisfaction model"],
+    "relatedConcepts": ["essentialism", "moscow-method", "pareto-principle"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Kano+model"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "bus-factor",
+    "name": "Bus Factor",
+    "summary": "The number of team members who would need to be unavailable before a project stalls.",
+    "explanation": "Bus Factor measures knowledge concentration risk: how many people would need to be 'hit by a bus' before a project couldn't continue? A bus factor of 1 means a single person leaving would halt progress - a critical vulnerability. Increasing bus factor requires documentation, knowledge sharing, and cross-training. For personal knowledge work, consider your own bus factor: Is your knowledge accessible to future you or collaborators? Good PKM practices increase your personal bus factor by externalizing knowledge.",
+    "tags": ["risk-management", "teams", "knowledge-management"],
+    "category": "Concepts",
+    "icon": "FaBus",
+    "featured": false,
+    "aliases": ["Truck factor", "Knowledge concentration risk"],
+    "relatedConcepts": ["ssot", "documentation", "knowledge-management"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Bus+factor"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

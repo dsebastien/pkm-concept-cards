@@ -1,0 +1,18 @@
+{
+    "id": "matthew-effect",
+    "name": "Matthew Effect",
+    "summary": "The rich get richer phenomenon where early advantages compound over time.",
+    "explanation": "The Matthew Effect (named from the biblical 'to those who have, more will be given') describes cumulative advantage: early success leads to more opportunities, which leads to more success. In science, highly cited papers get more citations. In business, market leaders attract more resources. In learning, those with strong foundations learn faster. Understanding this helps appreciate the importance of early investments in skills and reputation, and the systemic advantages that compound over time.",
+    "tags": ["psychology", "systems", "principles"],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Matthew principle", "Rich get richer", "Cumulative advantage"],
+    "relatedConcepts": ["compound-growth", "flywheels", "lindy-effect"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Matthew+Principle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

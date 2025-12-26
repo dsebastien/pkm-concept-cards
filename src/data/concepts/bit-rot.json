@@ -1,0 +1,18 @@
+{
+    "id": "bit-rot",
+    "name": "Bit Rot",
+    "summary": "The gradual degradation of software or data over time even without changes.",
+    "explanation": "Bit Rot describes how software or data degrades over time even without being modified. Dependencies update, environments change, formats become obsolete, and what worked yesterday may fail tomorrow. In PKM, bit rot manifests as broken links, outdated information, orphaned notes, and systems that no longer match how you think. Combating bit rot requires periodic maintenance, robust formats (like plain text), and treating your knowledge base as a living system rather than a static archive.",
+    "tags": ["software", "maintenance", "information"],
+    "category": "Concepts",
+    "icon": "FaSkull",
+    "featured": false,
+    "aliases": ["Software rot", "Data decay"],
+    "relatedConcepts": ["technical-debt", "law-of-staleness", "file-over-app"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Bit+rot"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

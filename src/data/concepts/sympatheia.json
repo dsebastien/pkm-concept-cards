@@ -1,0 +1,18 @@
+{
+    "id": "sympatheia",
+    "name": "Sympatheia",
+    "summary": "The Stoic concept of universal interconnectedness and mutual sympathy of all things.",
+    "explanation": "Sympatheia is the Stoic concept that all things in the universe are connected and mutually sympathetic. What affects one part affects the whole. This cosmological view encourages seeing individual actions in context of the larger world and recognizing our connections to others. In knowledge management, sympatheia suggests that ideas aren't isolated - they connect across domains and disciplines. Building connected knowledge mirrors the interconnected nature of reality itself.",
+    "tags": ["philosophy", "stoicism", "systems"],
+    "category": "Concepts",
+    "icon": "FaGlobeAmericas",
+    "featured": false,
+    "aliases": ["Universal connection", "Stoic interconnectedness"],
+    "relatedConcepts": ["systems-thinking", "knowledge-connectivity", "stoic-archer"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sympatheia"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

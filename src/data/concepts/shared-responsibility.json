@@ -1,0 +1,18 @@
+{
+    "id": "shared-responsibility",
+    "name": "Shared Responsibility",
+    "summary": "Distributing ownership and accountability across team members rather than concentrating it.",
+    "explanation": "Shared Responsibility distributes ownership across a team rather than concentrating it in individuals. It increases bus factor, enables diverse perspectives, and builds collective capability. However, it requires clear communication about who owns what to avoid diffusion of responsibility where no one acts. Effective shared responsibility combines collective ownership with clear individual accountabilities. In PKM, shared systems require explicit agreements about contribution, maintenance, and quality standards.",
+    "tags": ["teams", "collaboration", "ownership"],
+    "category": "Concepts",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": ["Distributed ownership", "Collective responsibility"],
+    "relatedConcepts": ["raci-matrix", "bus-factor", "collaboration"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Shared+responsibility"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

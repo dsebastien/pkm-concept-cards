@@ -1,0 +1,18 @@
+{
+    "id": "time-timer",
+    "name": "Time Timer",
+    "summary": "A visual timer that displays remaining time as a shrinking colored disk.",
+    "explanation": "A Time Timer is a visual timer that shows the passage of time as a shrinking colored disk, making abstract time concrete and visible. Unlike digital timers that just show numbers, the visual representation helps those with time blindness understand how much time remains at a glance. It's particularly useful for time-boxed work sessions, transitions between tasks, and maintaining focus. The visual cue creates gentle urgency without the stress of watching numbers count down, supporting techniques like Pomodoro and time-blocking.",
+    "tags": ["productivity", "tools", "time-management"],
+    "category": "Tools",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["Visual timer", "Countdown timer"],
+    "relatedConcepts": ["pomodoro-technique", "time-blocking", "timeboxing", "time-blindness"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+Timer"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "default-alive-business",
+    "name": "Default Alive Business",
+    "summary": "A business that will survive on its current trajectory without additional funding.",
+    "explanation": "A Default Alive business is one that, on its current revenue and expense trajectory, will become profitable before running out of money. The opposite is Default Dead - requiring additional investment to survive. Paul Graham coined this distinction to help founders assess their true situation. For creators and entrepreneurs, being default alive provides freedom and reduces pressure. It means making sustainable choices from the start rather than gambling on future investment or explosive growth.",
+    "tags": ["business", "entrepreneurship", "sustainability"],
+    "category": "Concepts",
+    "icon": "FaHeartbeat",
+    "featured": false,
+    "aliases": ["Sustainable startup", "Bootstrapped business"],
+    "relatedConcepts": ["monthly-recurring-revenue", "lifetime-value", "essentialism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Default+alive+business"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

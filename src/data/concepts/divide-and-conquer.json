@@ -1,0 +1,18 @@
+{
+    "id": "divide-and-conquer",
+    "name": "Divide and Conquer",
+    "summary": "Breaking a complex problem into smaller, manageable sub-problems.",
+    "explanation": "Divide and Conquer is a problem-solving strategy that breaks complex problems into smaller sub-problems, solves each independently, then combines solutions. This works because smaller problems are easier to understand, can be tackled in parallel, and reduce cognitive overwhelm. In PKM, it applies to learning (break topics into concepts), writing (break essays into sections), and organizing (break systems into components). When stuck, ask: 'What smaller pieces can I break this into?'",
+    "tags": ["problem-solving", "thinking", "techniques"],
+    "category": "Techniques",
+    "icon": "FaCut",
+    "featured": false,
+    "aliases": ["Problem decomposition", "Breaking down problems"],
+    "relatedConcepts": ["work-breakdown-structure", "atomic-notes", "chunking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Divide+and+conquer"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

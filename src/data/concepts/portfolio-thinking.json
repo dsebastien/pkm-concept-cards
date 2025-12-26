@@ -1,0 +1,18 @@
+{
+    "id": "portfolio-thinking",
+    "name": "Portfolio Thinking",
+    "summary": "Managing a diverse collection of projects, skills, or investments for balanced growth and risk.",
+    "explanation": "Portfolio Thinking applies investment principles to careers, projects, and skills. Instead of betting everything on one path, you maintain a portfolio: some safe, established work; some experimental projects; some skill-building activities. This balances stability with growth potential and reduces risk. For knowledge workers, a portfolio might include core work, side projects, learning investments, and creative experiments. The portfolio evolves over time as experiments succeed or fail.",
+    "tags": ["strategy", "career", "risk-management"],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Career portfolio", "Project portfolio"],
+    "relatedConcepts": ["life-design", "ikigai", "small-wins"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Portfolio+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

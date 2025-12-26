@@ -1,0 +1,18 @@
+{
+    "id": "folders-as-silos",
+    "name": "Folders as Silos",
+    "summary": "How traditional folder structures create information isolation and limit knowledge connections.",
+    "explanation": "Folders as Silos describes how traditional hierarchical folder structures isolate information by forcing each file into exactly one location. A note about 'productivity tips for writers' must choose between a 'productivity' folder or a 'writing' folder, but can't exist in both. This limitation prevents organic knowledge connections and leads to lost context. Modern PKM approaches use links, tags, and search to break free from folder silos, allowing information to be connected across multiple contexts without duplication.",
+    "tags": ["knowledge-management", "organization", "problems", "structure"],
+    "category": "Concepts",
+    "icon": "FaFolderOpen",
+    "featured": false,
+    "aliases": ["Folder limitations", "Hierarchical silos"],
+    "relatedConcepts": ["personal-information-silos", "backlinks", "tagging", "connected-notes"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Folders+as+Silos"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "mbsr",
+    "name": "Mindfulness-Based Stress Reduction (MBSR)",
+    "summary": "An 8-week program using mindfulness meditation to reduce stress and improve wellbeing.",
+    "explanation": "Mindfulness-Based Stress Reduction (MBSR) is an evidence-based program developed by Jon Kabat-Zinn at UMass Medical School. It teaches mindfulness meditation, body awareness, and yoga to reduce stress and improve mental health. The program typically runs 8 weeks with daily practice. For knowledge workers, MBSR provides tools to manage the chronic stress of information overload, constant demands, and cognitive work. It builds the attention skills essential for deep work and creative thinking.",
+    "tags": ["mindfulness", "wellbeing", "techniques"],
+    "category": "Techniques",
+    "icon": "FaSpa",
+    "featured": false,
+    "aliases": ["MBSR", "Mindfulness stress reduction"],
+    "relatedConcepts": ["mindfulness", "focus", "cognitive-defusion"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Mindfulness+based+stress+reduction+(MBSR)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

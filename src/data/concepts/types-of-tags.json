@@ -1,0 +1,24 @@
+{
+    "id": "types-of-tags",
+    "name": "Types of Tags",
+    "summary": "Different tag categories used to classify and retrieve information effectively.",
+    "explanation": "Tags can be categorized into different types based on their purpose: Content tags describe what a note is about (topics, subjects), Temporal tags capture time context (seasons, life stages, project phases), Status tags indicate state (draft, review, published), Type tags classify note format (meeting, idea, reference), and Action tags prompt behavior (to-read, to-process). Understanding these categories helps you design a more intentional tagging system that serves multiple retrieval purposes rather than just one dimension of organization.",
+    "tags": ["knowledge-management", "metadata", "organization", "tagging"],
+    "category": "Concepts",
+    "icon": "FaTags",
+    "featured": false,
+    "aliases": ["Tag categories", "Tag taxonomy"],
+    "relatedConcepts": ["tagging", "temporal-tags", "metadata", "organization"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Types+of+tags"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "shadow-side",
+    "name": "Shadow Side",
+    "summary": "The hidden, often unconscious aspects of personality we don't readily acknowledge.",
+    "explanation": "The Shadow Side, from Jungian psychology, refers to the unconscious parts of our personality that the conscious ego doesn't identify with - often traits we consider negative or unacceptable. Shadow work involves recognizing and integrating these hidden aspects rather than projecting them onto others or suppressing them. In personal development and PKM, journaling about reactions and patterns can reveal shadow material, leading to greater self-awareness and wholeness.",
+    "tags": ["psychology", "self-awareness", "philosophy"],
+    "category": "Concepts",
+    "icon": "FaMoon",
+    "featured": false,
+    "aliases": ["Shadow self", "Jung's shadow"],
+    "relatedConcepts": ["metacognition", "journaling", "emotional-intelligence"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Shadow+Side"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

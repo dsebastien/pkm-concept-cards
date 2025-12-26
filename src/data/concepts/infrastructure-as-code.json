@@ -1,0 +1,18 @@
+{
+    "id": "infrastructure-as-code",
+    "name": "Infrastructure as Code (IaC)",
+    "summary": "Managing and provisioning infrastructure through code rather than manual processes.",
+    "explanation": "Infrastructure as Code (IaC) is the practice of managing computing infrastructure through machine-readable configuration files rather than manual processes. This enables version control, reproducibility, and automation of infrastructure changes. The principle extends beyond DevOps: treating systems as code means they can be documented, tested, and evolved systematically. In PKM, similar thinking applies to templates, workflows, and automation - codifying processes for consistency and improvement.",
+    "tags": ["devops", "software", "automation"],
+    "category": "Concepts",
+    "icon": "FaServer",
+    "featured": false,
+    "aliases": ["IaC", "Programmable infrastructure"],
+    "relatedConcepts": ["templates", "systems-thinking", "automation"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Infrastructure+as+Code+(IaC)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

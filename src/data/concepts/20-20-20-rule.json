@@ -1,0 +1,18 @@
+{
+    "id": "20-20-20-rule",
+    "name": "20-20-20 Rule",
+    "summary": "Every 20 minutes, look at something 20 feet away for 20 seconds to reduce eye strain.",
+    "explanation": "The 20-20-20 Rule is a simple technique to prevent digital eye strain and computer vision syndrome. Every 20 minutes, take a 20-second break and focus your eyes on something at least 20 feet away. This relaxes the eye muscles that tense up during close-up screen work. For knowledge workers who spend hours reading and writing, this rule helps maintain eye health and reduce headaches, blurred vision, and fatigue. Consider setting a timer or using apps that remind you to take these micro-breaks.",
+    "tags": ["health", "productivity", "techniques", "wellbeing"],
+    "category": "Techniques",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": ["20/20/20 rule", "Eye break rule"],
+    "relatedConcepts": ["pomodoro-technique", "deep-work", "focus"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/20-20-20+rule"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

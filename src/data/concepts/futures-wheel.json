@@ -1,0 +1,18 @@
+{
+    "id": "futures-wheel",
+    "name": "Futures Wheel",
+    "summary": "A visual brainstorming tool for exploring the cascading consequences of a change or decision.",
+    "explanation": "The Futures Wheel is a structured brainstorming method for identifying potential consequences of trends or decisions. You place the central change in the middle, then radiate first-order consequences, then second-order consequences from each of those, and so on. This reveals indirect effects that might otherwise be missed. For strategic thinking and decision-making, it helps anticipate unintended consequences and identify opportunities. It's particularly valuable when considering major life or system changes.",
+    "tags": ["thinking", "frameworks", "planning", "strategy"],
+    "category": "Frameworks",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Consequence wheel", "Future wheel"],
+    "relatedConcepts": ["systems-thinking", "concept-maps", "second-order-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Futures+Wheel"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

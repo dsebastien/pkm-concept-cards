@@ -1,0 +1,18 @@
+{
+    "id": "gates-law",
+    "name": "Gates' Law",
+    "summary": "Most people overestimate what they can do in one year and underestimate what they can do in ten years.",
+    "explanation": "Gates' Law (often attributed to Bill Gates) states that people consistently overestimate what they can achieve in one year but underestimate what they can achieve in ten years. This relates to our difficulty understanding compound growth - small daily improvements feel insignificant but accumulate dramatically over decades. The law argues for patience with long-term investments while being realistic about short-term progress. It supports consistent effort over heroic sprints.",
+    "tags": ["productivity", "mental-models", "principles"],
+    "category": "Principles",
+    "icon": "FaCalendarAlt",
+    "featured": false,
+    "aliases": ["Bill Gates quote", "Long-term thinking"],
+    "relatedConcepts": ["compound-growth", "amaras-law", "hofstadter-law"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Gates%27+Law"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

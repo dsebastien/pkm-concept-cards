@@ -1,0 +1,18 @@
+{
+    "id": "perceptual-set",
+    "name": "Perceptual Set",
+    "summary": "How expectations, experiences, and context influence what we perceive.",
+    "explanation": "Perceptual Set describes how our expectations, past experiences, and current context shape what we notice and how we interpret information. We tend to see what we expect to see. In PKM, this means you might miss valuable connections because you're not looking for them, or misinterpret information to fit existing beliefs. Awareness of perceptual set helps you question assumptions, look for contradicting evidence, and remain open to unexpected insights. Diverse reading and cross-disciplinary thinking help break rigid perceptual sets.",
+    "tags": ["psychology", "thinking", "cognitive-biases"],
+    "category": "Cognitive Biases",
+    "icon": "FaGlasses",
+    "featured": false,
+    "aliases": ["Mental set", "Expectation bias"],
+    "relatedConcepts": ["confirmation-bias", "mental-models", "first-principles"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Perceptual+Set"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

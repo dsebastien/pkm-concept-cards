@@ -1,0 +1,18 @@
+{
+    "id": "pattern-of-procrastination",
+    "name": "Pattern of Procrastination (PoP)",
+    "summary": "A framework for understanding the recurring patterns and triggers behind procrastination.",
+    "explanation": "The Pattern of Procrastination (PoP) framework helps identify and understand your personal procrastination triggers. Rather than treating procrastination as a character flaw, it examines the patterns: What types of tasks do you avoid? When does procrastination peak? What emotions precede it? By mapping your procrastination patterns, you can design targeted interventions - breaking tasks into smaller pieces, addressing emotional blocks, or restructuring your environment. Understanding your PoP transforms procrastination from an enemy into diagnostic information.",
+    "tags": ["productivity", "psychology", "self-awareness"],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["PoP", "Procrastination patterns"],
+    "relatedConcepts": ["pre-commitment", "time-blocking", "analysis-paralysis"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pattern+of+Procrastination+(PoP)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

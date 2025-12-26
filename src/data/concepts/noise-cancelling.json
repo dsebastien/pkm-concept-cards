@@ -1,0 +1,18 @@
+{
+    "id": "noise-cancelling",
+    "name": "Noise Cancelling",
+    "summary": "Strategies and tools for managing auditory distractions to improve focus and productivity.",
+    "explanation": "Noise Cancelling encompasses both technological solutions (noise-cancelling headphones) and environmental strategies for managing auditory distractions. Open offices, household sounds, and urban noise fragment attention and impair deep work. Solutions include physical noise cancellation, using ambient sounds or music to mask distractions, choosing quiet work times, and communicating boundaries. For knowledge workers, investing in a quiet work environment - whether through technology, location choice, or scheduling - directly improves the quality of thinking and output.",
+    "tags": ["productivity", "focus", "environment", "tools"],
+    "category": "Techniques",
+    "icon": "FaHeadphones",
+    "featured": false,
+    "aliases": ["Sound management", "Auditory focus"],
+    "relatedConcepts": ["deep-work", "focus", "flow-state", "context-switching"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Noise+cancelling"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

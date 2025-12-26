@@ -1,0 +1,18 @@
+{
+    "id": "work-breakdown-structure",
+    "name": "Work Breakdown Structure (WBS)",
+    "summary": "A hierarchical decomposition of a project into smaller, manageable components.",
+    "explanation": "A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of project work. Starting from the final deliverable, you break down work into progressively smaller chunks until each is clearly definable, estimable, and assignable. This reveals hidden complexity, prevents overlooked tasks, and enables realistic planning. In personal knowledge work, WBS thinking helps tackle large projects by decomposing them into atomic, actionable tasks. It transforms overwhelming projects into clear action steps.",
+    "tags": ["project-management", "planning", "productivity"],
+    "category": "Methods",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": ["WBS", "Project decomposition"],
+    "relatedConcepts": ["atomic-tasks", "gtd", "goal-setting"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Work+Breakdown+Structure+(WBS)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "financial-independence",
+    "name": "Financial Independence",
+    "summary": "Having enough income from assets to cover living expenses without needing to work.",
+    "explanation": "Financial Independence (FI) is achieved when investment income or passive income covers living expenses, making work optional rather than necessary. Part of the FIRE (Financial Independence, Retire Early) movement, it emphasizes high savings rates, frugal living, and investment. For knowledge workers, FI isn't necessarily about early retirement but about freedom - the ability to choose work based on interest rather than necessity, take risks, and pursue long-term projects without financial pressure.",
+    "tags": ["finance", "lifestyle", "goals"],
+    "category": "Concepts",
+    "icon": "FaPiggyBank",
+    "featured": false,
+    "aliases": ["FI", "FIRE", "Financial freedom"],
+    "relatedConcepts": ["ikigai", "life-design", "essentialism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Financial+independence"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "ace-framework",
+    "name": "ACE Framework",
+    "summary": "Action, Context, Experience - a framework for structuring decisions and learning.",
+    "explanation": "The ACE Framework structures decision-making and learning around three elements: Action (what you do), Context (the circumstances surrounding the action), and Experience (the outcome and what you learned). By documenting all three, you build a database of situated knowledge - understanding not just what works, but under what conditions and with what results. This is more valuable than abstract rules because it captures the nuance of real situations.",
+    "tags": ["frameworks", "decision-making", "learning"],
+    "category": "Frameworks",
+    "icon": "FaPlayCircle",
+    "featured": false,
+    "aliases": ["ACE", "Action Context Experience"],
+    "relatedConcepts": ["circle-of-learning", "reflection", "meta-learning"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/ACE+Framework"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

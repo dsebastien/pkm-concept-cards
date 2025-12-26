@@ -1,0 +1,18 @@
+{
+    "id": "knowledge-capture-framework",
+    "name": "Knowledge Capture Framework",
+    "summary": "A systematic approach to identifying, documenting, and preserving important knowledge.",
+    "explanation": "A Knowledge Capture Framework provides systematic methods for identifying what knowledge is worth preserving and how to document it effectively. This includes determining capture triggers (when to capture), capture methods (how to record), and storage practices (where to put it). A good framework prevents valuable insights from being lost while avoiding over-capture that leads to information hoarding. It balances thoroughness with sustainability, ensuring capture becomes a helpful habit rather than a burden.",
+    "tags": ["knowledge-management", "frameworks", "capture"],
+    "category": "Frameworks",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": ["Capture system framework", "Knowledge documentation"],
+    "relatedConcepts": ["capture-system", "capture-habit", "progressive-summarization"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowledge+Capture+Framework"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

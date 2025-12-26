@@ -1,0 +1,18 @@
+{
+    "id": "north-star-metric",
+    "name": "North Star Metric",
+    "summary": "The single metric that best captures the core value your product delivers to customers.",
+    "explanation": "A North Star Metric (NSM) is the one number that best measures the value your product or work delivers. Unlike vanity metrics (page views, followers), an NSM reflects genuine value creation. For Airbnb, it's nights booked; for Slack, it's messages sent within teams. For a content creator, it might be subscribers who regularly engage. Having a clear NSM aligns decisions and prevents chasing metrics that don't matter. It answers: 'If this number grows, are we truly succeeding?'",
+    "tags": ["business", "metrics", "strategy"],
+    "category": "Concepts",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": ["NSM", "Key metric", "One metric that matters"],
+    "relatedConcepts": ["essentialism", "focus", "goal-setting"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/North+Star+metrics"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "instant-gratification",
+    "name": "Instant Gratification Syndrome",
+    "summary": "The tendency to prefer immediate rewards over larger delayed rewards.",
+    "explanation": "Instant Gratification Syndrome describes our natural preference for immediate rewards even when waiting would yield better outcomes. In the digital age, constant notifications, social media likes, and easy entertainment train our brains to expect quick dopamine hits. This undermines PKM practices that require delayed payoff - building a Zettelkasten, developing expertise, or writing for future retrieval. Combating instant gratification involves creating immediate rewards for long-term activities and understanding that the best results come from compound effort over time.",
+    "tags": ["psychology", "productivity", "habits"],
+    "category": "Concepts",
+    "icon": "FaBolt",
+    "featured": false,
+    "aliases": ["Instant gratification", "Immediate reward bias"],
+    "relatedConcepts": ["delayed-gratification", "compound-growth", "hedonic-treadmill"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Instant+gratification+syndrome"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

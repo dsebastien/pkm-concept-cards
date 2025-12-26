@@ -1,0 +1,24 @@
+{
+    "id": "minimum-viable-product",
+    "name": "Minimum Viable Product (MVP)",
+    "summary": "The simplest version of a product that can be released to test a hypothesis with real users.",
+    "explanation": "A Minimum Viable Product is the smallest version of a product that allows you to collect validated learning about customers with minimum effort. Rather than building complete solutions based on assumptions, MVPs test core hypotheses quickly. The goal isn't a 'bad' product but a focused one - just enough to learn whether your solution addresses a real need. For knowledge workers and creators, MVP thinking applies to content, courses, and systems: start with the essential core, get feedback, then iterate.",
+    "tags": ["business", "product", "strategy", "lean"],
+    "category": "Concepts",
+    "icon": "FaRocket",
+    "featured": false,
+    "aliases": ["MVP", "Minimum viable version"],
+    "relatedConcepts": ["product-market-fit", "iteration", "small-wins"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Minimum+Viable+Product+(MVP)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Lean Startup",
+            "url": "https://amzn.to/4bXcbYz",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

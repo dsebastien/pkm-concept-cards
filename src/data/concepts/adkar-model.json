@@ -1,0 +1,18 @@
+{
+    "id": "adkar-model",
+    "name": "ADKAR Model",
+    "summary": "A change management framework: Awareness, Desire, Knowledge, Ability, Reinforcement.",
+    "explanation": "ADKAR is a goal-oriented change management model that breaks successful change into five sequential outcomes: Awareness of the need for change, Desire to participate and support it, Knowledge of how to change, Ability to implement the required skills and behaviors, and Reinforcement to sustain the change. Each stage must be achieved before progressing. For personal change like adopting a new PKM system, ADKAR helps diagnose where you're stuck - do you lack awareness of benefits, desire to change, knowledge of methods, ability to execute, or systems to reinforce the new habits?",
+    "tags": ["change-management", "frameworks", "psychology"],
+    "category": "Frameworks",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["ADKAR", "Prosci ADKAR"],
+    "relatedConcepts": ["habit-stacking", "continuous-improvement", "growth-mindset"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Adkar+model"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

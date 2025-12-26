@@ -1,0 +1,18 @@
+{
+    "id": "curiosity-gap",
+    "name": "Curiosity Gap",
+    "summary": "A content technique that creates intrigue by hinting at valuable information without fully revealing it.",
+    "explanation": "The Curiosity Gap is a content hook technique that creates a gap between what readers know and what they want to know. By hinting at valuable information without immediately revealing it, you create psychological tension that drives engagement. Headlines like 'The one habit that transformed my productivity' create curiosity about what that habit is. Used ethically, it draws people into valuable content. Used manipulatively, it becomes clickbait. The key is ensuring the payoff matches the promise.",
+    "tags": ["content", "marketing", "psychology"],
+    "category": "Concepts",
+    "icon": "FaQuestionCircle",
+    "featured": false,
+    "aliases": ["Information gap", "Curiosity hook"],
+    "relatedConcepts": ["content-curation", "pillar-pieces", "atomic-essays"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Curiosity+gap"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

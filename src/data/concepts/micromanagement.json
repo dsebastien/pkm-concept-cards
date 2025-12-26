@@ -1,0 +1,18 @@
+{
+    "id": "micromanagement",
+    "name": "Micromanagement",
+    "summary": "Excessive control over details and decisions that should be delegated.",
+    "explanation": "Micromanagement is the practice of excessively controlling, observing, or directing the work of others, even in areas where they have competence. It stems from lack of trust, fear of failure, or inability to delegate. Micromanagement demotivates employees, stifles innovation, and creates bottlenecks. The antidote is outcome-based management: define desired results and provide autonomy in how to achieve them. For personal work, self-micromanagement (obsessing over minor details) can be equally counterproductive.",
+    "tags": ["leadership", "management", "productivity"],
+    "category": "Concepts",
+    "icon": "FaMicroscope",
+    "featured": false,
+    "aliases": ["Over-management", "Control freak management"],
+    "relatedConcepts": ["essentialism", "perfectionism", "analysis-paralysis"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Micromanagement"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

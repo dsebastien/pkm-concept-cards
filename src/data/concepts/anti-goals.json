@@ -1,0 +1,18 @@
+{
+    "id": "anti-goals",
+    "name": "Anti-Goals",
+    "summary": "Explicitly defining what you want to avoid, not just what you want to achieve.",
+    "explanation": "Anti-Goals invert traditional goal-setting by defining what you explicitly want to avoid. Instead of only pursuing positive outcomes, you identify negative states to prevent. This clarifies boundaries and prevents success in one area from creating misery in another. 'I want to build a successful business' plus 'I will not sacrifice family time or health' creates fuller guidance than the goal alone. Anti-goals act as guardrails, ensuring pursuit of goals doesn't lead somewhere you don't want to be.",
+    "tags": ["goal-setting", "planning", "decision-making"],
+    "category": "Techniques",
+    "icon": "FaBan",
+    "featured": false,
+    "aliases": ["Negative goals", "What to avoid"],
+    "relatedConcepts": ["goal-setting", "smart-goals", "essentialism", "personal-manifesto"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Anti-goals"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

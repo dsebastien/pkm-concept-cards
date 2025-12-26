@@ -1,0 +1,23 @@
+{
+    "id": "cognitive-reappraisal",
+    "name": "Cognitive Reappraisal",
+    "summary": "Reframing a situation to change its emotional impact.",
+    "explanation": "Cognitive Reappraisal is an emotion regulation strategy that involves changing how you think about a situation to alter its emotional impact. Instead of feeling overwhelmed by a large project, you might reframe it as an opportunity to learn. Rather than seeing a critique as an attack, view it as valuable feedback. This technique doesn't deny emotions but transforms their source. For knowledge workers, reappraisal helps manage the frustration of information overload, the anxiety of not knowing everything, and the stress of constant learning demands.",
+    "tags": ["psychology", "techniques", "emotional-intelligence"],
+    "category": "Techniques",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": ["Reframing", "Cognitive restructuring"],
+    "relatedConcepts": [
+        "cognitive-defusion",
+        "emotional-intelligence",
+        "mindfulness",
+        "growth-mindset"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Cognitive+reappraisal"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

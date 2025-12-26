@@ -1,0 +1,18 @@
+{
+    "id": "lgtm",
+    "name": "Looks Good To Me (LGTM)",
+    "summary": "A code review approval indicating the reviewer finds no issues with proposed changes.",
+    "explanation": "LGTM (Looks Good To Me) is a common shorthand in code reviews signaling approval of proposed changes. It indicates the reviewer has examined the code and found it acceptable for merging. The term has expanded beyond software to general review contexts. For knowledge workers, LGTM represents a lightweight approval process - quick validation that maintains flow while ensuring quality control. It balances thoroughness with efficiency in collaborative work.",
+    "tags": ["software", "collaboration", "communication"],
+    "category": "Concepts",
+    "icon": "FaThumbsUp",
+    "featured": false,
+    "aliases": ["LGTM", "Code review approval"],
+    "relatedConcepts": ["pull-request", "collaboration", "feedback"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Looks+Good+To+Me+(LGTM)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

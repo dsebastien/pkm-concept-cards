@@ -1,0 +1,18 @@
+{
+    "id": "writing-data-flywheel",
+    "name": "Writing Data Flywheel",
+    "summary": "A compound effect where writing generates data that improves future writing.",
+    "explanation": "The Writing Data Flywheel describes how consistent writing creates compounding returns: you write → receive feedback and data → understand your audience better → create more resonant content → grow audience → get more feedback. Each piece of writing provides signals about what resonates, which topics need exploration, and where your unique value lies. Over time, this flywheel accelerates as accumulated data makes each new piece more targeted and effective. The key is consistency and paying attention to what the data reveals.",
+    "tags": ["content", "growth", "writing"],
+    "category": "Concepts",
+    "icon": "FaRedoAlt",
+    "featured": false,
+    "aliases": ["Content flywheel", "Writing compound effect"],
+    "relatedConcepts": ["flywheels", "compound-growth", "audience-acquisition-flywheel"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Writing+Data+Flywheel"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

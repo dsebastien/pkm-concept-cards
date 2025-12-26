@@ -1,0 +1,18 @@
+{
+    "id": "icymi",
+    "name": "In Case You Missed It (ICYMI)",
+    "summary": "A content curation format for resurfacing valuable content that may have been missed.",
+    "explanation": "In Case You Missed It (ICYMI) is a content format that resurfaces older but still-relevant content, links, or ideas for audiences who may have missed them the first time. It acknowledges that not everyone sees everything when first published. ICYMI segments in newsletters, social posts, or internal communications maximize the value of good content by giving it multiple chances to reach people. For creators, it's a sustainable way to provide value without constantly creating new content.",
+    "tags": ["content", "curation", "marketing"],
+    "category": "Techniques",
+    "icon": "FaHistory",
+    "featured": false,
+    "aliases": ["ICYMI", "Content resurfacing"],
+    "relatedConcepts": ["content-curation", "evergreen-notes", "pillar-pieces"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/In+Case+You+Missed+It+(ICYMI)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

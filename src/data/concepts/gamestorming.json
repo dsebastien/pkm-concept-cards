@@ -1,0 +1,24 @@
+{
+    "id": "gamestorming",
+    "name": "Gamestorming",
+    "summary": "Using game-like activities and structures to facilitate creative collaboration and problem-solving.",
+    "explanation": "Gamestorming refers to using game mechanics, structures, and activities to facilitate meetings, brainstorming sessions, and creative problem-solving. Games create a safe space for experimentation, encourage participation, and structure thinking in novel ways. Techniques include dot voting, affinity mapping, and visualization exercises. For knowledge workers, gamestorming methods can break through creative blocks, facilitate group decision-making, and make collaborative thinking more engaging and productive.",
+    "tags": ["creativity", "collaboration", "techniques"],
+    "category": "Techniques",
+    "icon": "FaGamepad",
+    "featured": false,
+    "aliases": ["Serious games", "Creative games"],
+    "relatedConcepts": ["brainstorming", "design-thinking", "six-thinking-hats"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Gamestorming"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers",
+            "url": "https://amzn.to/4b2e8hC",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

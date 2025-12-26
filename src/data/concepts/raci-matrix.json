@@ -1,0 +1,18 @@
+{
+    "id": "raci-matrix",
+    "name": "RACI Matrix",
+    "summary": "A responsibility assignment matrix: Responsible, Accountable, Consulted, Informed.",
+    "explanation": "The RACI Matrix is a tool for clarifying roles and responsibilities in projects or processes. For each task, you identify who is: Responsible (does the work), Accountable (ultimately answerable), Consulted (provides input), and Informed (kept updated). This prevents confusion, duplication, and dropped balls. Even for personal projects, RACI thinking helps clarify your own accountability. When multiple people are involved - family, colleagues, collaborators - a RACI matrix ensures everyone knows their role and reduces friction.",
+    "tags": ["frameworks", "project-management", "collaboration"],
+    "category": "Frameworks",
+    "icon": "FaUsersCog",
+    "featured": false,
+    "aliases": ["RACI chart", "Responsibility matrix", "RACI model"],
+    "relatedConcepts": ["gtd", "kanban", "systems-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/RACI+Matrix"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "bundling-unbundling",
+    "name": "Bundling vs Unbundling",
+    "summary": "Strategic decisions about combining or separating products and services.",
+    "explanation": "Bundling combines multiple products or features into one package, while unbundling separates them into individual offerings. Bundling creates convenience and perceived value (cable TV packages). Unbundling creates focus and specialized value (streaming services). Markets cycle between these strategies. For creators, bundling might mean offering a complete course suite; unbundling means selling individual lessons. Understanding this cycle helps identify opportunities and position offerings strategically.",
+    "tags": ["business", "product", "strategy"],
+    "category": "Concepts",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Bundle strategy", "Unbundling strategy"],
+    "relatedConcepts": ["tiered-pricing", "productized-services", "minimum-viable-product"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Bundling+vs+Unbundling+products"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "subscription-business-model",
+    "name": "Subscription Business Model",
+    "summary": "A revenue model where customers pay recurring fees for ongoing access to a product or service.",
+    "explanation": "The Subscription Business Model generates recurring revenue through regular payments (monthly, yearly) rather than one-time purchases. This creates predictable income, encourages ongoing value delivery, and builds long-term customer relationships. For creators, subscriptions (newsletters, memberships, communities) provide stability and incentivize continuous improvement. The challenge is maintaining value that justifies ongoing payment and managing churn (customers who cancel).",
+    "tags": ["business", "revenue", "models"],
+    "category": "Concepts",
+    "icon": "FaRedoAlt",
+    "featured": false,
+    "aliases": ["Subscription model", "Recurring revenue model"],
+    "relatedConcepts": ["monthly-recurring-revenue", "lifetime-value", "tiered-pricing"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Subscription+business+model"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "knowledge-connectivity",
+    "name": "Knowledge Connectivity",
+    "summary": "The practice of linking and connecting pieces of knowledge to create a networked understanding.",
+    "explanation": "Knowledge Connectivity is the practice of deliberately linking ideas, notes, and concepts to form a network of understanding. Isolated facts have limited value, but connected knowledge creates insight and enables creative thinking. This is achieved through explicit links, backlinks, tags, and Maps of Content. The more connected your knowledge base, the more likely you are to discover unexpected relationships and generate new ideas. It's the foundation of Zettelkasten and other networked note-taking approaches.",
+    "tags": ["knowledge-management", "linking", "principles"],
+    "category": "Principles",
+    "icon": "FaLink",
+    "featured": false,
+    "aliases": ["Connected knowledge", "Knowledge linking"],
+    "relatedConcepts": ["backlinks", "connected-notes", "knowledge-graph", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowledge+connectivity"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "How to Take Smart Notes",
+            "url": "https://amzn.to/3H1NxUW",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "empathy-canvas",
+    "name": "Empathy Canvas",
+    "summary": "A design thinking tool for understanding users' thoughts, feelings, and experiences.",
+    "explanation": "The Empathy Canvas (or Empathy Map) is a collaborative tool used in design thinking to develop deeper understanding of users or stakeholders. It typically maps what someone Says, Thinks, Does, and Feels, along with their Pains and Gains. By systematically considering these dimensions, you move beyond assumptions to genuine understanding. In PKM, creating an empathy canvas for your 'future self' helps design systems that will actually work for you, considering not just logical needs but emotional and practical realities.",
+    "tags": ["design-thinking", "frameworks", "tools"],
+    "category": "Frameworks",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": ["Empathy map", "User empathy canvas"],
+    "relatedConcepts": ["design-thinking", "life-design", "ikigai"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Empathy+Canvas"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

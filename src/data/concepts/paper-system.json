@@ -1,0 +1,18 @@
+{
+    "id": "paper-system",
+    "name": "Paper System",
+    "summary": "Analog organization systems using physical paper for note-taking and knowledge management.",
+    "explanation": "Paper Systems are analog approaches to personal knowledge management using physical notebooks, index cards, and file systems. Examples include the original Zettelkasten (slip boxes), commonplace books, bullet journals, and index card methods. While digital tools offer powerful search and linking, paper systems provide tactile engagement, freedom from distraction, and the cognitive benefits of handwriting. Many knowledge workers use hybrid approaches, combining paper for capture and thinking with digital for storage and retrieval.",
+    "tags": ["analog", "note-taking", "systems"],
+    "category": "Systems",
+    "icon": "FaStickyNote",
+    "featured": false,
+    "aliases": ["Analog PKM", "Physical note systems"],
+    "relatedConcepts": ["zettelkasten", "bullet-journal", "capture-system", "commonplace-books"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Paper+system"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "circle-of-learning",
+    "name": "The Circle of Learning",
+    "summary": "A cyclical framework describing how learning progresses through experience, reflection, conceptualization, and experimentation.",
+    "explanation": "The Circle of Learning (often associated with Kolb's experiential learning cycle) describes learning as a continuous cycle: Concrete Experience (doing), Reflective Observation (reviewing), Abstract Conceptualization (concluding), and Active Experimentation (planning). Effective learning requires moving through all four stages. In PKM, this means not just collecting information but actively engaging with it, reflecting on its meaning, integrating it with existing knowledge, and applying it to real situations. Each rotation through the cycle deepens understanding.",
+    "tags": ["education", "frameworks", "learning", "meta-learning"],
+    "category": "Frameworks",
+    "icon": "FaSyncAlt",
+    "featured": false,
+    "aliases": ["Learning cycle", "Kolb's learning cycle", "Experiential learning cycle"],
+    "relatedConcepts": ["meta-learning", "active-recall", "elaboration", "interleaving"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+Circle+of+Learning"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

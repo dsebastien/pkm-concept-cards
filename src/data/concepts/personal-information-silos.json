@@ -1,0 +1,24 @@
+{
+    "id": "personal-information-silos",
+    "name": "Personal Information Silos",
+    "summary": "Information trapped in disconnected systems that cannot communicate with each other.",
+    "explanation": "Personal Information Silos occur when your knowledge and data are scattered across multiple disconnected systems - notes in one app, bookmarks in another, emails in a third. These silos prevent information from connecting and compounding. You can't link ideas across systems, leading to fragmented thinking and lost insights. The solution is to consolidate information into a single source of truth or use interoperability tools. Recognizing silos is the first step toward building a more integrated personal knowledge management system.",
+    "tags": ["knowledge-management", "organization", "problems"],
+    "category": "Concepts",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Information silos", "Data silos", "Knowledge silos"],
+    "relatedConcepts": ["ssot", "second-brain", "pkm", "file-over-app"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Information+Silos"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Building a Second Brain",
+            "url": "https://amzn.to/3W0Gsic",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

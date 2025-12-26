@@ -1,0 +1,23 @@
+{
+    "id": "mint-method",
+    "name": "Most Impactful Next Task (MINT)",
+    "summary": "A prioritization method focusing on identifying and completing the single most impactful task.",
+    "explanation": "MINT (Most Impactful Next Task) is a prioritization framework that asks: 'What is the one task that, if completed, would have the biggest positive impact right now?' Unlike methods that organize all tasks, MINT focuses attention on finding and executing the single most valuable action. This prevents getting lost in busy work and ensures your limited energy goes toward high-leverage activities. It's particularly useful when overwhelmed - instead of analyzing everything, just identify and do the MINT.",
+    "tags": ["prioritization", "productivity", "methods"],
+    "category": "Methods",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": ["MINT", "Most Important Next Task"],
+    "relatedConcepts": [
+        "most-important-task",
+        "eisenhower-matrix",
+        "essentialism",
+        "pareto-principle"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Most+Impactful+Next+Task+(MINT)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

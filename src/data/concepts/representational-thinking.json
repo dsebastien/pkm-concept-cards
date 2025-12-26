@@ -1,0 +1,18 @@
+{
+    "id": "representational-thinking",
+    "name": "Representational Thinking",
+    "summary": "Creating mental or external representations to understand and manipulate complex ideas.",
+    "explanation": "Representational Thinking involves creating models, diagrams, metaphors, or other representations to understand and work with complex ideas. External representations (sketches, maps, diagrams) extend working memory and enable manipulation of ideas that would be difficult to hold mentally. Good representations make abstract concepts concrete and relationships visible. Mind maps, concept maps, and visual models are tools of representational thinking that enhance understanding and communication.",
+    "tags": ["thinking", "visualization", "cognition"],
+    "category": "Thinking",
+    "icon": "FaImage",
+    "featured": false,
+    "aliases": ["Visual thinking", "Model-based thinking"],
+    "relatedConcepts": ["visual-thinking", "concept-maps", "mental-models"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Representational+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

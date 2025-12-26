@@ -1,0 +1,18 @@
+{
+    "id": "price-anchoring",
+    "name": "Price Anchoring",
+    "summary": "A pricing psychology technique where the first price shown influences perception of subsequent prices.",
+    "explanation": "Price Anchoring is a cognitive bias used in pricing strategy where the first price a customer sees serves as a reference point (anchor) for evaluating all subsequent prices. A high anchor makes other prices seem reasonable by comparison. This is why premium options are often shown first, or why 'was $200, now $99' is effective. Understanding anchoring helps both in pricing your own products and recognizing when you're being influenced by anchors in purchasing decisions.",
+    "tags": ["business", "pricing", "psychology"],
+    "category": "Concepts",
+    "icon": "FaAnchor",
+    "featured": false,
+    "aliases": ["Anchor pricing", "Reference price"],
+    "relatedConcepts": ["anchoring-bias", "tiered-pricing", "loss-aversion"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Price+Anchoring"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

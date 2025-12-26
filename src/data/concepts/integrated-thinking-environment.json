@@ -1,0 +1,18 @@
+{
+    "id": "integrated-thinking-environment",
+    "name": "Integrated Thinking Environment (ITE)",
+    "summary": "A unified digital workspace designed to support all aspects of knowledge work and thinking.",
+    "explanation": "An Integrated Thinking Environment (ITE) is a concept paralleling IDEs (Integrated Development Environments) in software. It's a unified workspace that integrates note-taking, writing, task management, reference management, and thinking tools. Rather than switching between disconnected apps, an ITE provides seamless workflows from capture to creation. Tools like Obsidian, Notion, or Roam can function as ITEs when configured holistically. The goal is reducing friction between thinking and producing.",
+    "tags": ["tools", "productivity", "knowledge-management"],
+    "category": "Concepts",
+    "icon": "FaDesktop",
+    "featured": false,
+    "aliases": ["ITE", "Thinking workspace"],
+    "relatedConcepts": ["tools-for-thought", "obsidian", "second-brain"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Integrated+Thinking+Environment+(ITE)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

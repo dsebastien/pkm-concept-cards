@@ -1,0 +1,18 @@
+{
+    "id": "today-i-learned",
+    "name": "Today I Learned (TIL)",
+    "summary": "A daily practice of documenting and sharing small learnings.",
+    "explanation": "Today I Learned (TIL) is a content format and learning practice where you document something new you learned each day. TILs are typically short, focused, and shareable. They serve multiple purposes: reinforcing learning through writing, building a personal knowledge base over time, and sharing value with others. TIL repositories have become popular among developers but apply to any field. The constraint of 'one thing' per day makes it sustainable while accumulating significant knowledge over time.",
+    "tags": ["learning", "content", "habits"],
+    "category": "Techniques",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["TIL", "Daily learning"],
+    "relatedConcepts": ["daily-notes", "learning-in-public", "fleeting-notes"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Today+I+Learned+(TIL)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

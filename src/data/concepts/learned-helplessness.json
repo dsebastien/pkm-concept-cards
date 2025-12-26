@@ -1,0 +1,18 @@
+{
+    "id": "learned-helplessness",
+    "name": "Learned Helplessness",
+    "summary": "A psychological state where repeated failures lead to giving up even when success becomes possible.",
+    "explanation": "Learned Helplessness is a psychological phenomenon where individuals who have experienced repeated failures or lack of control stop trying, even when circumstances change and success becomes achievable. Discovered by Martin Seligman, it explains why people might not adopt better PKM practices even after failed attempts - they've 'learned' that organizing knowledge doesn't work for them. Overcoming it requires small wins, recognizing that past failures don't predict future results, and understanding that skills improve with practice.",
+    "tags": ["psychology", "mindset", "learning"],
+    "category": "Concepts",
+    "icon": "FaSadTear",
+    "featured": false,
+    "aliases": ["Giving up", "Resignation"],
+    "relatedConcepts": ["growth-mindset", "small-wins", "impostor-syndrome"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Learned+helplessness"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

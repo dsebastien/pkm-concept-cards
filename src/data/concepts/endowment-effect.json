@@ -1,0 +1,18 @@
+{
+    "id": "endowment-effect",
+    "name": "Endowment Effect",
+    "summary": "Overvaluing things simply because we own them.",
+    "explanation": "The Endowment Effect describes our tendency to value things more highly simply because we own them. Studies show people demand more to give up an item than they would pay to acquire it. This affects everything from selling houses (overpricing) to keeping unused items (hoarding). In PKM, endowment effect can make us reluctant to delete or refactor notes we've created, even when they're outdated or redundant. Recognizing this bias helps make more rational decisions about what to keep.",
+    "tags": ["cognitive-biases", "psychology", "decision-making"],
+    "category": "Cognitive Biases",
+    "icon": "FaGem",
+    "featured": false,
+    "aliases": ["Ownership bias", "Possession effect"],
+    "relatedConcepts": ["loss-aversion", "status-quo-bias", "sunk-cost-fallacy"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Endowment+effect"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

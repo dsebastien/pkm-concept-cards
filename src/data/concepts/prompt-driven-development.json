@@ -1,0 +1,18 @@
+{
+    "id": "prompt-driven-development",
+    "name": "Prompt-Driven Development (PDD)",
+    "summary": "Using AI prompts as the primary interface for software development tasks.",
+    "explanation": "Prompt-Driven Development (PDD) is an emerging approach where developers primarily interact with AI systems through prompts to generate, modify, and debug code. Instead of writing code directly, developers describe intent and iterate through prompts. This shifts the developer role toward problem definition, quality review, and system architecture. PDD raises new challenges around prompt engineering, AI reliability, and code ownership. Understanding PDD helps navigate the evolving landscape of AI-assisted development.",
+    "tags": ["ai", "software", "development"],
+    "category": "Concepts",
+    "icon": "FaRobot",
+    "featured": false,
+    "aliases": ["PDD", "AI-assisted development"],
+    "relatedConcepts": ["prompt-engineering", "ai-assistants", "context-engineering"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Prompt-driven+development+(PDD)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "swag",
+    "name": "Scientific Wild-Ass Guess (SWAG)",
+    "summary": "An educated estimate based on experience and intuition rather than rigorous analysis.",
+    "explanation": "SWAG (Scientific Wild-Ass Guess) is a humorous term for an estimate based on experience and intuition rather than detailed calculation. It acknowledges that sometimes we need to make decisions with incomplete information. A good SWAG uses available knowledge creatively to approximate unknown values. In planning and estimation, SWAGs serve as starting points for refinement. The 'scientific' part emphasizes using whatever relevant knowledge exists, even when precise data isn't available.",
+    "tags": ["planning", "estimation", "decision-making"],
+    "category": "Concepts",
+    "icon": "FaDice",
+    "featured": false,
+    "aliases": ["SWAG estimate", "Educated guess"],
+    "relatedConcepts": ["planning-fallacy", "hofstadter-law", "decision-fatigue"],
+    "relatedNotes": ["https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/SWAG"],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "inquiry-based-thinking",
+    "name": "Inquiry-Based Thinking",
+    "summary": "A thinking approach driven by asking questions rather than seeking answers.",
+    "explanation": "Inquiry-Based Thinking prioritizes questions over answers. Instead of rushing to conclusions, you dwell in questions, letting them guide exploration. Good questions open up thinking; premature answers close it down. This approach values curiosity, embraces uncertainty, and recognizes that the quality of your questions determines the quality of your understanding. In PKM, cultivating questions (like Feynman's 12 Favorite Problems) can be more valuable than collecting answers.",
+    "tags": ["thinking", "learning", "curiosity"],
+    "category": "Thinking",
+    "icon": "FaQuestion",
+    "featured": false,
+    "aliases": ["Question-driven thinking", "Inquiry approach"],
+    "relatedConcepts": ["twelve-favorite-problems", "critical-thinking", "first-principles"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Inquiry-based+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

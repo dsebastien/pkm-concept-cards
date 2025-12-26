@@ -1,0 +1,18 @@
+{
+    "id": "system-trashing",
+    "name": "System Trashing",
+    "summary": "When a system is overloaded and spends more time managing itself than doing useful work.",
+    "explanation": "System Trashing occurs when a system becomes so overloaded that it spends more resources managing overhead than doing productive work. In computers, it happens when memory swapping dominates processing. In humans, it's when managing tasks, emails, and obligations consumes more energy than actual work. Signs include constant task-switching, endless organizing without producing, and feeling busy while accomplishing little. The solution is reducing inputs, simplifying systems, and focusing on throughput rather than capacity.",
+    "tags": ["systems-thinking", "productivity", "overload"],
+    "category": "Concepts",
+    "icon": "FaExclamationCircle",
+    "featured": false,
+    "aliases": ["Thrashing", "System overload"],
+    "relatedConcepts": ["information-overload", "context-switching", "essentialism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/System+trashing"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

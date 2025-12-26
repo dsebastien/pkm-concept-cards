@@ -1,0 +1,18 @@
+{
+    "id": "concept-network",
+    "name": "Concept Network",
+    "summary": "A network of interconnected concepts that form the structure of understanding in a knowledge base.",
+    "explanation": "A Concept Network is the web of relationships between ideas in your knowledge base. Unlike a simple list or hierarchy, it represents how concepts relate to, support, contradict, or extend each other. Each concept is a node; each link is an edge representing a relationship. This network structure mirrors how human memory works - through associations rather than folders. Building a rich concept network helps with recall, creative thinking, and developing nuanced understanding of complex topics.",
+    "tags": ["knowledge-management", "mental-models", "structure"],
+    "category": "Concepts",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Knowledge network", "Idea network"],
+    "relatedConcepts": ["knowledge-graph", "personal-knowledge-graph", "connected-notes", "moc"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Concept+Network"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

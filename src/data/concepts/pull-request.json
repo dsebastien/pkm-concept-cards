@@ -1,0 +1,18 @@
+{
+    "id": "pull-request",
+    "name": "Pull Request (PR)",
+    "summary": "A code review mechanism proposing changes for discussion before merging into main code.",
+    "explanation": "A Pull Request (PR) is a development practice where proposed code changes are submitted for review and discussion before being merged into the main codebase. PRs enable code review, knowledge sharing, and quality control. They create documented decision points and learning opportunities. The PR mindset applies to knowledge work: rather than making changes in isolation, create checkpoints for review and reflection. Even personal PRs (reviewing your own work before finalizing) can improve quality.",
+    "tags": ["software", "collaboration", "processes"],
+    "category": "Concepts",
+    "icon": "FaCodeBranch",
+    "featured": false,
+    "aliases": ["PR", "Merge request"],
+    "relatedConcepts": ["continuous-improvement", "collaboration", "feedback"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pull+Request+(PR)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

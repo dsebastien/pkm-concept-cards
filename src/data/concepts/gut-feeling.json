@@ -1,0 +1,24 @@
+{
+    "id": "gut-feeling",
+    "name": "Gut Feeling",
+    "summary": "Intuitive knowledge that emerges from experience without conscious reasoning.",
+    "explanation": "Gut feeling or intuition is rapid, unconscious pattern recognition based on accumulated experience. Experts often make excellent split-second decisions through intuition that they can't fully explain. However, intuition is only reliable in domains where you have genuine experience and where patterns are consistent. For knowledge workers, intuition complements analysis - it's a useful signal but should be tested against evidence, especially in unfamiliar domains where intuition may be unreliable.",
+    "tags": ["decision-making", "psychology", "expertise"],
+    "category": "Concepts",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": ["Intuition", "Instinct"],
+    "relatedConcepts": ["mental-models", "subject-matter-expert", "metacognition"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Gut+feeling+intuition"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow",
+            "url": "https://amzn.to/4ciGtDM",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

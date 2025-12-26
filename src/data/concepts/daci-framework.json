@@ -1,0 +1,18 @@
+{
+    "id": "daci-framework",
+    "name": "DACI Framework",
+    "summary": "Driver, Approver, Contributors, Informed - a decision-making accountability framework.",
+    "explanation": "DACI is a decision-making framework defining four roles: Driver (owns the decision process), Approver (has final say), Contributors (provide input), and Informed (need to know the outcome). Similar to RACI but focused specifically on decisions rather than ongoing responsibilities. Clear DACI assignments prevent decision paralysis, ensure accountability, and streamline the path from discussion to action. It's particularly useful for group decisions where unclear ownership leads to stalling.",
+    "tags": ["frameworks", "decision-making", "collaboration"],
+    "category": "Frameworks",
+    "icon": "FaUsersCog",
+    "featured": false,
+    "aliases": ["DACI", "Decision framework"],
+    "relatedConcepts": ["raci-matrix", "shared-responsibility", "decision-fatigue"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/DACI+Framework"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

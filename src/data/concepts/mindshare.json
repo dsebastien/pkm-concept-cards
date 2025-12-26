@@ -1,0 +1,18 @@
+{
+    "id": "mindshare",
+    "name": "Mindshare",
+    "summary": "The amount of attention or awareness a brand or idea occupies in people's minds.",
+    "explanation": "Mindshare refers to how much space a brand, idea, or person occupies in the collective consciousness of a target audience. High mindshare means being top-of-mind when relevant needs arise. For creators, building mindshare requires consistent presence, memorable positioning, and genuine value delivery over time. It's about being remembered and thought of first. Mindshare is built through repeated valuable interactions, not single viral moments. It compounds with time and consistency.",
+    "tags": ["marketing", "branding", "attention"],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Mind share", "Mental market share"],
+    "relatedConcepts": ["audience-acquisition-flywheel", "social-capital", "compound-growth"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Mindshare"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
