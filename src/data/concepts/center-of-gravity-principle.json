@@ -1,0 +1,18 @@
+{
+    "id": "center-of-gravity-principle",
+    "name": "Center of Gravity Principle",
+    "summary": "A place where things you want to hang on to naturally find their way towards.",
+    "explanation": "The Center of Gravity Principle describes the phenomenon where certain systems or tools naturally become the primary repository for accumulated information. Just as physical objects are drawn toward a gravitational center, your ideas, notes, and captured information tend to gravitate toward specific locations in your knowledge system. In personal knowledge management, note-taking applications and cloud filesystems often serve this function because they can accommodate diverse types of information. Recognizing your center of gravity helps you design more effective capture and organization systems. Rather than fighting against natural tendencies, you can intentionally cultivate and strengthen your gravitational center, ensuring it remains accessible, searchable, and well-organized. This principle complements the idea of having a place for everything and everything in its place - once you identify where things naturally accumulate, you can optimize that space for retrieval and use.",
+    "tags": ["organization", "pkm", "capture", "systems", "principles"],
+    "category": "Principles",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Gravitational center", "Knowledge gravity"],
+    "relatedConcepts": ["capture-system", "mise-en-place", "pkm"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Center+of+gravity+principle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,33 @@
+{
+    "id": "one-big-text-file",
+    "name": "One Big Text File (OBTF)",
+    "summary": "A minimalist note-taking approach where all notes, thoughts, and ideas are stored in a single continuously growing text file.",
+    "explanation": "One Big Text File (OBTF) is a radically simple note-taking method that rejects complex organizational systems in favor of storing everything in a single plain text file. The approach embraces the philosophy that the simplest tools often produce the best results.\n\nThe core principle is straightforward: every note, thought, idea, task, or piece of information goes into one file, typically with timestamps or date headers to maintain chronological order. Proponents argue this eliminates the cognitive overhead of deciding where to file information, removes the friction of creating new files, and makes searching effortless since everything is in one place.\n\nTypical OBTF implementations include: (1) A daily journal format with date headers separating entries, (2) A continuous stream of timestamped thoughts and notes, (3) A hybrid approach with minimal section markers for different types of content.\n\nAdvantages of OBTF include: extreme simplicity with zero organizational decisions, instant capture with no friction, universal compatibility as plain text works everywhere, future-proof format that will remain readable indefinitely, and powerful full-text search across all content.\n\nLimitations include: can become unwieldy at very large sizes (though modern text editors handle millions of lines), lacks the benefits of linked thinking found in Zettelkasten or wiki-style systems, and may not suit project-based or heavily structured work.\n\nOBTF represents the opposite end of the complexity spectrum from systems like Zettelkasten or PARA, proving that effective personal knowledge management doesn't require sophisticated tools or elaborate organizational schemes. It's particularly well-suited for daily journaling, quick capture, and those who find structured systems more hindrance than help.",
+    "tags": ["note-taking", "minimalism", "plain-text", "journaling", "simplicity", "productivity"],
+    "category": "Methods",
+    "icon": "FaStickyNote",
+    "featured": false,
+    "aliases": ["OBTF", "Single Text File", "One File System", "Plain Text Everything"],
+    "relatedConcepts": ["atomic-notes", "fleeting-notes"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "One Big Text File - The simple way to keep notes",
+            "url": "https://danlucraft.com/blog/2008/04/plain-text-organizer/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "My Big Concatenated Text File - Jeff Huang",
+            "url": "https://jeffhuang.com/productivity_text_file/",
+            "type": "website"
+        },
+        {
+            "title": "The Plain Text Life",
+            "url": "https://plaintextproject.online/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

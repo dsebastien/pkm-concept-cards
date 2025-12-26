@@ -1,0 +1,28 @@
+{
+    "id": "rrr-method",
+    "name": "Remark, Relate, Reference (RRR)",
+    "summary": "A three-step method for capturing and connecting information while maintaining source attribution.",
+    "explanation": "The RRR method is a structured approach to note-taking that ensures comprehensive knowledge capture through three distinct steps. First, Remark: capture your immediate thoughts, observations, and reactions to new information - what stands out, what surprises you, or what questions arise. Second, Relate: connect the new information to existing knowledge by identifying links to other concepts, personal experiences, or prior notes in your knowledge base. Third, Reference: properly cite and link to the original source, ensuring you can always trace ideas back to their origin. This method is particularly effective because it combines active engagement (remarking), knowledge integration (relating), and academic rigor (referencing). Unlike passive highlighting, RRR forces you to process information at multiple levels, improving both comprehension and retention. The method works well with Zettelkasten-style note systems and tools like Obsidian, where linking and referencing are first-class features.",
+    "tags": ["note-taking", "knowledge-management", "capture", "linking", "methods"],
+    "category": "Methods",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["RRR Method", "Remark Relate Reference"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "connected-notes",
+        "literature-notes",
+        "progressive-summarization",
+        "zettelkasten"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "RRR Method - University of Portsmouth",
+            "url": "https://www.port.ac.uk/student-life/help-and-advice/study-skills/reading-and-note-taking/note-taking-techniques/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}
