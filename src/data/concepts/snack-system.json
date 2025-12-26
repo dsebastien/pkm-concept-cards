@@ -1,0 +1,37 @@
+{
+    "id": "snack-system",
+    "name": "SN(A)CK System",
+    "summary": "A PKM system inspired by Zettelkasten that simplifies the thinking process from inputs through processing to outputs, with creation as the key to learning.",
+    "explanation": "The SN(A)CK System is a Personal Knowledge Management system created by Theo Koppen. It's inspired by the Zettelkasten method and attempts to simplify the thinking process from inputs and processing to outputs and creation. The core idea behind it is that creation is the key to learning.\n\nThe acronym stands for:\n\n**S - Sources**: The inputs of the system, including all the content you consume and learn from.\n\n**N - Notes**: Everything you capture from your sources, including highlights, your own insights, and observations.\n\n**(A) - Atomic Creation**: The results of processing the input notes. This involves extracting concepts, ideas, and knowledge, adding your own thoughts, and dissecting ideas using divergent and convergent thinking. This step produces atomic notes.\n\n**C - Creation**: The outputs you produce using your notes and atomic creations, such as essays, articles, or other creative works.\n\n**K - Knowledge**: The glue that connects all parts of the process. Knowledge notes cluster highlights, atomic notes, and creations together. They represent an 'interests landscape' of things you're curious about and interested in.\n\nKnowledge nodes can take various forms: Maps of Content (MoCs), topics represented by tags, concepts, mental models, and frameworks. The system creates a clear path from consuming information to producing valuable outputs.",
+    "tags": [
+        "pkm",
+        "knowledge-management",
+        "systems",
+        "zettelkasten",
+        "note-taking",
+        "productivity"
+    ],
+    "category": "Systems",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["SNACK System", "SN(A)CK"],
+    "relatedConcepts": ["zettelkasten", "atomic-notes", "moc", "fleeting-notes", "permanent-notes"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/SN(A)CK+System"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Tana Template: SN(A)CK System by Theo Koppen",
+            "url": "https://tana.inc/articles/tana-template-sn-a-ck-system-atomic-creation-by-theo-koppen",
+            "type": "website"
+        }
+    ],
+    "tutorials": [
+        {
+            "title": "SN(A)CK System Explanation Video",
+            "url": "https://www.youtube.com/watch?v=lkYPlN82LRc",
+            "type": "video"
+        }
+    ]
+}

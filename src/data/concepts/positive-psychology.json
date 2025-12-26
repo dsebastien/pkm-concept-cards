@@ -1,0 +1,30 @@
+{
+    "id": "positive-psychology",
+    "name": "Positive Psychology",
+    "summary": "A field of psychology research that aims to understand how positivity can enable individuals, communities, and organizations to thrive.",
+    "explanation": "Positive psychology is a relatively recent field of psychology founded by Martin Seligman in the late 1990s. Rather than focusing on treating mental illness, it studies what makes life worth living and how to build on the virtues of positivity.\n\nThe approach isn't about ignoring negative emotions or experiences, but about understanding and leveraging positive ones. It helps people foster positive emotions, make better decisions even during stressful events, and find strength to overcome challenges.\n\nResearch has shown that positive psychology practices can increase well-being, reduce symptoms of depression and anxiety, and improve both physical and mental health. Key practices include gratitude journaling, acts of kindness, meditation, and making peace with the past.\n\nWhen in a positive mood, people are more likely to be curious, creative, motivated, resilient, and open to new ideas. They tend to see the bigger picture, make better decisions, and be more connected and engaged. This creates a virtuous cycle where positive emotions lead to better outcomes, which reinforce positivity.\n\nPositive psychology encompasses practices aimed at cultivating happiness and meaning in life, recognizing that well-being is not just the absence of problems but the presence of positive experiences and emotions.",
+    "tags": ["psychology", "positivity", "well-being", "mental-health", "mindset", "happiness"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Positive Psychology Research"],
+    "relatedConcepts": [
+        "gratitude",
+        "mindfulness",
+        "make-peace-with-the-past",
+        "growth-mindset",
+        "cognitive-reappraisal"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Positive+psychology"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Authentic Happiness - Martin Seligman",
+            "url": "https://www.authentichappiness.sas.upenn.edu/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

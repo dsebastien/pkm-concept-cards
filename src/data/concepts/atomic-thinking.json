@@ -1,0 +1,37 @@
+{
+    "id": "atomic-thinking",
+    "name": "Atomic Thinking",
+    "summary": "A PKM system focused on breaking down information into atomic units, combining first principles with systematic note-taking to generate new ideas.",
+    "explanation": "Atomic Thinking is a Personal Knowledge Management system developed and promoted by Eliott Meunier. It focuses on how to effectively manage information throughout its lifecycle: from selecting sources to capturing, organizing, and leveraging information to make new ideas emerge.\n\nThe system is built on the principle that by starting from first principles, creating atomic notes, and thinking in systems, we can combine ideas and elaborate them to form more complex ones.\n\nThe Atomic Thinking process involves multiple steps:\n\n**Select**: Carefully picking the right content to consume. Quality inputs lead to quality outputs.\n\n**Capture**: Taking notes, capturing highlights, ideas, knowledge, and concepts in a trusted system.\n\n**Deconstruct**: Identifying and extracting underlying concepts. This involves starting from first principles and extracting atomic ideas - the smallest useful units of knowledge.\n\n**Emergence**: Ordering and assembling ideas to develop new ones. Through connection and combination, novel insights emerge from existing knowledge.\n\n**Improve**: Continuously enhancing the overall quality of your knowledge base.\n\n**Organize**: Becoming more effective and efficient by maintaining a solid organization system.\n\nThe approach shares similarities with the Zettelkasten method in its emphasis on atomic notes and emergent connections, but provides a more structured framework for the entire knowledge lifecycle.",
+    "tags": [
+        "pkm",
+        "note-taking",
+        "knowledge-management",
+        "systems",
+        "first-principles",
+        "emergence"
+    ],
+    "category": "Systems",
+    "icon": "FaAtom",
+    "featured": false,
+    "aliases": ["Atomic Thinking System"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "first-principles",
+        "zettelkasten",
+        "knowledge-management",
+        "emergence"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Atomic+Thinking"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Atomic Thinking Official Website (French)",
+            "url": "https://fr.atomicthinking.fr/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

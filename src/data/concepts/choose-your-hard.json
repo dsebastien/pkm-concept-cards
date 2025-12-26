@@ -1,0 +1,31 @@
+{
+    "id": "choose-your-hard",
+    "name": "Choose Your Hard",
+    "summary": "A systems design principle about using friction strategically to make undesirable behaviors difficult and desirable behaviors easy.",
+    "explanation": "Choose Your Hard is a principle in systems design that recognizes friction as a powerful tool for shaping behavior. By strategically adding or removing friction, you can guide yourself toward desired actions and away from undesirable ones.\n\nThe principle works in two directions:\n\n**Adding friction** to behaviors you want to avoid makes them harder to execute. For example, if you want to focus better, leaving your phone in another room adds friction to the action of checking it. The extra effort required (getting up, walking to the other room) creates a natural barrier that reduces the likelihood of distraction.\n\n**Removing friction** from behaviors you want to encourage makes them easier and more likely to happen. If you want to capture knowledge more frequently, making the capture process seamless and quick increases the chances you'll actually do it.\n\nThe key insight is that you always face some form of difficulty - either the difficulty of doing the right thing or the difficulty of dealing with consequences of not doing it. By choosing where to place the friction, you're essentially choosing which type of hard you'll encounter.\n\nThis principle is closely related to concepts like forcing functions and environment design. It's particularly powerful in habit formation and productivity systems, where small adjustments to friction can lead to significant behavioral changes over time.\n\nThe wisdom lies in being intentional: make the wrong things hard and the right things easy.",
+    "tags": [
+        "systems-design",
+        "friction",
+        "productivity",
+        "habits",
+        "behavior-design",
+        "decision-making"
+    ],
+    "category": "Principles",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["Strategic Friction", "Friction Design"],
+    "relatedConcepts": [
+        "forcing-function",
+        "habit-stacking",
+        "environment-design",
+        "systems-thinking",
+        "nudge-theory"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Choose+your+hard"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
