@@ -8,7 +8,14 @@
     "icon": "FaScroll",
     "featured": true,
     "aliases": ["Life manifesto", "Personal declaration"],
-    "relatedConcepts": ["goal-setting", "ikigai", "life-design", "periodic-reviews"],
+    "relatedConcepts": [
+        "goal-setting",
+        "ikigai",
+        "life-design",
+        "periodic-reviews",
+        "personal-value-system",
+        "values-and-beliefs"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Manifesto"
     ],

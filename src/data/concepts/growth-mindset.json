@@ -8,7 +8,15 @@
     "icon": "FaSeedling",
     "featured": false,
     "aliases": ["Learning mindset"],
-    "relatedConcepts": ["continuous-improvement", "learning", "metacognition"],
+    "relatedConcepts": [
+        "continuous-improvement",
+        "embrace-imperfection",
+        "learning",
+        "metacognition",
+        "who-knows-anyway",
+        "belief-system-defenses",
+        "values-and-beliefs"
+    ],
     "relatedNotes": [],
     "articles": [],
     "references": [

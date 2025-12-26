@@ -9,11 +9,15 @@
     "featured": false,
     "aliases": ["Overthinking", "Decision paralysis"],
     "relatedConcepts": [
+        "bias-for-action",
         "choice-overload",
         "decision-fatigue",
+        "embrace-imperfection",
+        "overcoming-inertia",
         "paradox-of-choice",
         "perfectionism",
-        "shiny-object-syndrome"
+        "shiny-object-syndrome",
+        "start-before-you-are-ready"
     ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Analysis+paralysis"

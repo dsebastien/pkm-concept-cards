@@ -1,0 +1,23 @@
+{
+    "id": "fighting-recency-bias",
+    "name": "Fighting Recency Bias",
+    "summary": "Strategies to counteract the tendency to overweight recent information in decisions.",
+    "explanation": "Fighting Recency Bias involves deliberate strategies to counteract our natural tendency to give disproportionate weight to recent events or information. A key technique is to avoid starting something immediately just because you're excited about it. Instead, wait for a period (such as a month) to see if you're still excited - this cooling-off period helps distinguish genuine long-term interest from momentary enthusiasm driven by recency. This practice is particularly valuable in PKM for evaluating new tools, methods, or ideas. By building in intentional delays before committing to new directions, we can make more balanced decisions that account for historical patterns and long-term value rather than being swayed by the latest trends.",
+    "tags": ["biases", "cognition", "decision-making", "psychology", "self-discipline"],
+    "category": "Cognitive Biases",
+    "icon": "FaHourglass",
+    "featured": false,
+    "aliases": ["Cooling-off period", "Wait before deciding"],
+    "relatedConcepts": [
+        "recency-bias",
+        "delayed-gratification",
+        "test-of-time",
+        "shiny-object-syndrome"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Fighting+against+recency+bias"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -8,7 +8,15 @@
     "icon": "FaClock",
     "featured": false,
     "aliases": ["Visual timer", "Countdown timer"],
-    "relatedConcepts": ["pomodoro-technique", "time-blocking", "timeboxing", "time-blindness"],
+    "relatedConcepts": [
+        "adhd",
+        "attention",
+        "pomodoro-technique",
+        "sustained-attention",
+        "time-blocking",
+        "timeboxing",
+        "time-blindness"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+Timer"
     ],

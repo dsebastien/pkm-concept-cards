@@ -1,0 +1,18 @@
+{
+    "id": "dopamine",
+    "name": "Dopamine",
+    "summary": "A neurotransmitter that sets the threshold for motivation and goal pursuit, acting as a limited currency for action.",
+    "explanation": "Dopamine is a neurotransmitter that plays a crucial role in motivation and goal-directed behavior. It sets the threshold for us to pursue specific goals, functioning like a currency that we spend with each action we take. All of our actions, including procrastination, deplete our dopamine reserves. Once depleted, we lose our motivation to act. This is why it is essential to choose our actions wisely and to prioritize rest and recovery. Understanding dopamine helps explain why we sometimes feel unmotivated and highlights the importance of managing our energy and focus for sustained productivity.",
+    "tags": ["neuroscience", "motivation", "health", "productivity"],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": ["intrinsic-motivation", "extrinsic-motivation", "flow-state", "burnout"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Dopamine"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

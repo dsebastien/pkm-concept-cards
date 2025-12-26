@@ -1,0 +1,22 @@
+{
+    "id": "lippitt-knoster-change-model",
+    "name": "Lippitt-Knoster Change Model",
+    "summary": "A framework showing that successful change requires vision, skills, incentives, resources, and an action plan working together.",
+    "explanation": "The Lippitt-Knoster Change Model (also known as the Vision Skills Incentives Resources Action Plan model) illustrates the essential components needed for successful change. When all five elements are present - Vision, Skills, Incentives, Resources, and Action Plan - the result is successful change. However, when any element is missing, specific problems arise: Without Vision, there is Confusion; Without Skills, there is Anxiety; Without Incentives, there is Resistance; Without Resources, there is Frustration; Without an Action Plan, there is a Treadmill effect (activity without progress). This framework helps diagnose why change initiatives fail and what elements need to be addressed.",
+    "tags": ["change-management", "frameworks", "leadership", "productivity"],
+    "category": "Frameworks",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "VSIRP Model",
+        "Change Management Model",
+        "Vision Skills Incentives Resources Action Plan"
+    ],
+    "relatedConcepts": ["goal-setting", "systems-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Vision+skills+incentives+resources+action+plan"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

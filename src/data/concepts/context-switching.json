@@ -9,12 +9,14 @@
     "featured": false,
     "aliases": ["Attention switching", "Mental switching cost", "Task switching"],
     "relatedConcepts": [
+        "attention",
         "cognitive-load",
         "deep-work",
-        "flow",
+        "flow-state",
         "focus",
         "mental-context",
-        "multitasking"
+        "multitasking",
+        "stimulated-attention"
     ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Context+switching"

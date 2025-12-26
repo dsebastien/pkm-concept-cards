@@ -8,7 +8,14 @@
     "icon": "FaBrain",
     "featured": false,
     "aliases": ["Thought fusion", "Mental fusion"],
-    "relatedConcepts": ["cognitive-defusion", "mindfulness", "growth-mindset", "impostor-syndrome"],
+    "relatedConcepts": [
+        "cognitive-defusion",
+        "mindfulness",
+        "growth-mindset",
+        "impostor-syndrome",
+        "belief-in-belief",
+        "belief-system-defenses"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Cognitive+fusion"
     ],

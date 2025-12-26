@@ -1,0 +1,18 @@
+{
+    "id": "personal-value-system",
+    "name": "Personal Value System",
+    "summary": "The collection of your core values that guides your decisions, behavior, and life direction.",
+    "explanation": "Your Personal Value System is the grouped collection of your core values that determines who you are and who you want to become. Identifying your values helps you find your purpose, guide your decisions and behavior, choose a career path that deeply aligns with your identity, and increase your intrinsic motivation and confidence. Understanding your values requires deep self-knowledge - knowing what you deeply care about, what you stand for, and the person you aspire to be. It's fundamentally about finding your Why.",
+    "tags": ["clarity", "personal-growth", "purpose", "values"],
+    "category": "Clarity",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Value System", "Core Values"],
+    "relatedConcepts": ["ikigai", "intrinsic-motivation", "life-design", "personal-manifesto"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Value+System"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

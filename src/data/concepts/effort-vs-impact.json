@@ -1,0 +1,18 @@
+{
+    "id": "effort-vs-impact",
+    "name": "Effort vs Impact",
+    "summary": "A prioritization matrix that evaluates tasks based on their effort requirements and potential impact.",
+    "explanation": "Effort vs Impact is a simple but powerful prioritization framework that evaluates tasks along two dimensions: the effort required and the potential impact. This creates four quadrants: High Impact + Low Effort tasks should be done immediately (quick wins); High Impact + High Effort tasks are your AAA priorities (strategic investments); Low Impact + Low Effort tasks can be done later or delegated; Low Impact + High Effort tasks should typically be avoided entirely. This framework helps you focus your energy on activities that provide the greatest return, similar to but simpler than the Eisenhower Matrix.",
+    "tags": ["decision-making", "frameworks", "prioritization", "productivity"],
+    "category": "Frameworks",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Impact-Effort Matrix", "Value vs Effort"],
+    "relatedConcepts": ["decision-fatigue", "eisenhower-matrix", "pareto-principle"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Effort+vs+Impact"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

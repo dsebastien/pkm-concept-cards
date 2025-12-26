@@ -1,0 +1,24 @@
+{
+    "id": "vision-grid",
+    "name": "Vision Grid",
+    "summary": "A structured framework for documenting and analyzing your vision for the future.",
+    "explanation": "A Vision Grid is a structured technique proposed by Margaret Moore in 'Organize Your Mind, Organize Your Life' to document and analyze a vision for your future. It includes: a compelling vision statement of your ideal state, identification of values and motivators, gap analysis between current state and vision, recognition of strengths to leverage, anticipation of challenges, development of strategies, identification of support systems, confidence assessment (1-10 scale), commitment evaluation, and definition of first steps. Unlike a Vision Board which is primarily visual, a Vision Grid provides a comprehensive analytical framework for turning aspirations into actionable plans.",
+    "tags": ["clarity", "frameworks", "goal-setting", "life-design", "planning"],
+    "category": "Frameworks",
+    "icon": "FaTh",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": ["goal-setting", "life-design", "smart-goals", "vision-board"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Vision+grid"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Organize Your Mind, Organize Your Life by Margaret Moore",
+            "url": "https://www.amazon.com/Organize-Your-Mind-Life-Surprising/dp/0373892446",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

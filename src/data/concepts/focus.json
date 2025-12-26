@@ -8,7 +8,17 @@
     "icon": "FaBullseye",
     "featured": false,
     "aliases": ["Attention", "Concentration"],
-    "relatedConcepts": ["cognitive-load", "context-switching", "deep-work", "flow"],
+    "relatedConcepts": [
+        "attention",
+        "attention-types",
+        "cognitive-load",
+        "context-switching",
+        "deep-work",
+        "directed-attention",
+        "flow-state",
+        "laser-focus",
+        "stimulated-attention"
+    ],
     "relatedNotes": ["https://notes.dsebastien.net/30+Areas/34+Maps/34.01+MoCs/Focus+(MoC)"],
     "articles": [],
     "references": [],

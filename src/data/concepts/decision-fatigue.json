@@ -8,7 +8,13 @@
     "icon": "FaBatteryQuarter",
     "featured": false,
     "aliases": ["Ego depletion"],
-    "relatedConcepts": ["cognitive-load", "habits", "mise-en-place", "templates"],
+    "relatedConcepts": [
+        "cognitive-load",
+        "effort-vs-impact",
+        "habits",
+        "mise-en-place",
+        "templates"
+    ],
     "relatedNotes": [],
     "articles": [],
     "references": [],

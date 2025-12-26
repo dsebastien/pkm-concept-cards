@@ -8,7 +8,12 @@
     "icon": "FaBrain",
     "featured": false,
     "aliases": ["Frameworks", "Thinking tools"],
-    "relatedConcepts": ["critical-thinking", "first-principles", "systems-thinking"],
+    "relatedConcepts": [
+        "critical-thinking",
+        "first-principles",
+        "systems-thinking",
+        "belief-in-belief"
+    ],
     "relatedNotes": [],
     "articles": [],
     "references": [],

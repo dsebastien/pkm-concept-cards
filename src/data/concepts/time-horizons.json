@@ -8,7 +8,14 @@
     "icon": "FaHourglassStart",
     "featured": false,
     "aliases": ["Planning horizons", "Time scales"],
-    "relatedConcepts": ["goal-setting", "gtd", "lifeos", "periodic-reviews"],
+    "relatedConcepts": [
+        "big-hairy-audacious-goals",
+        "goal-setting",
+        "gtd",
+        "lifeos",
+        "periodic-reviews",
+        "reverse-goal-setting"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+Horizons"
     ],

@@ -1,0 +1,24 @@
+{
+    "id": "vision-board",
+    "name": "Vision Board",
+    "summary": "A visual representation tool to define and manifest a hazy direction for your future.",
+    "explanation": "A Vision Board is a visualization tool used to define a hazy direction for your future. It typically involves creating a collage of images, words, and affirmations that represent your goals, dreams, and desired life outcomes. The power of vision boards lies in keeping your aspirations visible and top-of-mind, leveraging the psychological principle that visualization can help manifest goals. While similar to a Vision Grid, a vision board tends to be more visual and creative, whereas a vision grid is more structured and analytical.",
+    "tags": ["clarity", "goal-setting", "life-design", "visualization"],
+    "category": "Techniques",
+    "icon": "FaImages",
+    "featured": false,
+    "aliases": ["Dream Board", "Goal Board"],
+    "relatedConcepts": ["goal-setting", "life-design", "vision-grid"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Vision+board"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Scientific Reason Why Vision Boards Work",
+            "url": "https://www.huffpost.com/entry/the-scientific-reason-why_b_6392274",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

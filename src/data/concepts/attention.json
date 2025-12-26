@@ -1,0 +1,26 @@
+{
+    "id": "attention",
+    "name": "Attention",
+    "summary": "The cognitive process of selectively focusing on relevant information while ignoring distractions.",
+    "explanation": "Attention is a fundamental cognitive resource that begins with orientation, continues with sustained focus, and depends on our ability to handle distractions. It is a limited resource that requires conscious management. Attention can be categorized into two main types: directed attention (goal-directed, driven by internal objectives) and stimulated attention (stimulus-driven, triggered by external factors). Understanding how attention works is crucial for knowledge workers who need to manage their cognitive resources effectively. The ideal state of attention is Flow, where one is fully immersed in a task. Cognitive sciences study directed attention to help us understand our functioning, while marketing studies stimulated attention to influence behavior.",
+    "tags": ["attention", "cognition", "focus", "brain", "productivity"],
+    "category": "Concepts",
+    "icon": "FaEye",
+    "featured": true,
+    "aliases": ["Focus", "Concentration", "Mental focus"],
+    "relatedConcepts": [
+        "directed-attention",
+        "stimulated-attention",
+        "attention-types",
+        "sustained-attention",
+        "flow-state",
+        "focus",
+        "deep-work"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Attention"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

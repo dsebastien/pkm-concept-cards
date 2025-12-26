@@ -1,0 +1,34 @@
+{
+    "id": "einstellung-effect",
+    "name": "Einstellung Effect",
+    "summary": "The tendency to apply familiar solutions even when better alternatives exist.",
+    "explanation": "The Einstellung Effect is a cognitive bias where our experience causes us to develop a mechanized state of mind. As our expertise grows for a specific topic, we tend to automate problem-solving approaches, becoming predisposed to solve problems in familiar ways even when better methods exist. This rigidity in thinking leads to inefficiency and hinders innovation. The term was coined by Abraham Luchins in 1942 during his water jar experiments, where subjects continued applying complex solutions when simpler ones were available. The effect causes us to hit a 'local maxima' in problem-solving - we find a solution that works but miss potentially optimal ones. To counter this effect, we should practice mindfulness, remain open-minded, and foster creativity by stepping back from initial solutions to consider alternatives.",
+    "tags": ["biases", "cognition", "psychology", "problem-solving", "creativity", "thinking"],
+    "category": "Cognitive Biases",
+    "icon": "FaLock",
+    "featured": false,
+    "aliases": ["Mental set", "Mechanized state of mind"],
+    "relatedConcepts": [
+        "first-principles",
+        "divergent-thinking",
+        "unlearning",
+        "analysis-paralysis"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Einstellung+effect"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Einstellung Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Einstellung_effect",
+            "type": "website"
+        },
+        {
+            "title": "Einstellung Effect Explained - Exaptive",
+            "url": "https://www.exaptive.com/blog/einstellung-effect-0",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

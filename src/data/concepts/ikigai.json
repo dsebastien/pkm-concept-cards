@@ -8,7 +8,14 @@
     "icon": "FaYinYang",
     "featured": true,
     "aliases": ["Life purpose", "Reason for being"],
-    "relatedConcepts": ["career-design", "goal-setting", "life-design", "personal-manifesto"],
+    "relatedConcepts": [
+        "career-design",
+        "goal-setting",
+        "life-design",
+        "personal-manifesto",
+        "personal-value-system",
+        "values-and-beliefs"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/What+is+your+Ikigai"
     ],

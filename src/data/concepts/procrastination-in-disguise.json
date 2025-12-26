@@ -1,0 +1,24 @@
+{
+    "id": "procrastination-in-disguise",
+    "name": "Procrastination in Disguise",
+    "summary": "Activities that feel productive but actually delay meaningful work on important goals.",
+    "explanation": "Procrastination in disguise refers to activities that feel or seem productive on the surface but are actually forms of procrastination. They take our attention, focus, and time away all too easily while giving us a false sense of accomplishment. Common examples include: reading articles not directly relevant to current work, watching tutorial videos without applying the knowledge, testing new tools instead of using existing ones, and learning about new methods when current methods are sufficient. These activities are perfectly fine when they directly help you achieve your goals right now. However, when they serve as an escape from the actual work that needs to be done, they become procrastination in disguise. Recognizing this pattern is the first step to overcoming it.",
+    "tags": ["productivity", "procrastination", "focus", "attention", "time-management"],
+    "category": "Concepts",
+    "icon": "FaMask",
+    "featured": false,
+    "aliases": ["Productive procrastination", "Pseudo-productivity", "Busy work"],
+    "relatedConcepts": [
+        "shiny-object-syndrome",
+        "focus",
+        "deep-work",
+        "collectors-fallacy",
+        "most-important-task"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Procrastination+in+disguise"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

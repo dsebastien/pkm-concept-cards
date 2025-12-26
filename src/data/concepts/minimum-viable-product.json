@@ -8,7 +8,14 @@
     "icon": "FaRocket",
     "featured": false,
     "aliases": ["MVP", "Minimum viable version"],
-    "relatedConcepts": ["product-market-fit", "iteration", "small-wins"],
+    "relatedConcepts": [
+        "embrace-imperfection",
+        "product-market-fit",
+        "iteration",
+        "seek-feedback-not-perfection",
+        "small-wins",
+        "start-before-you-are-ready"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Minimum+Viable+Product+(MVP)"
     ],

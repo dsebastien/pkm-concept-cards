@@ -1,0 +1,24 @@
+{
+    "id": "unconscious-bias-training",
+    "name": "Unconscious Bias Training",
+    "summary": "Educational programs designed to help people recognize and reduce implicit biases.",
+    "explanation": "Unconscious Bias Training refers to educational programs designed to expose people to their unconscious biases and provide tools to reduce the impact of these biases on their behavior and decisions. Unconscious biases are social stereotypes about certain groups of people that individuals form outside of their conscious awareness. These implicit biases affect how we perceive, evaluate, and interact with others. The training typically involves awareness exercises, perspective-taking activities, and strategies for interrupting automatic thought patterns. While the effectiveness of such training is debated, the underlying concept highlights the importance of self-awareness and deliberate effort to counteract automatic cognitive shortcuts that may lead to unfair or suboptimal decisions.",
+    "tags": ["biases", "cognition", "psychology", "personal-development", "self-awareness"],
+    "category": "Cognitive Biases",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": ["Implicit bias training", "Diversity training"],
+    "relatedConcepts": ["confirmation-bias", "belief-system-defenses", "metacognition"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Unconscious+bias+training"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Unconscious Bias Training - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Unconscious_bias_training",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -8,7 +8,14 @@
     "icon": "FaCheck",
     "featured": false,
     "aliases": ["Belief bias"],
-    "relatedConcepts": ["critical-thinking", "dunning-kruger-effect", "narrative-fallacy"],
+    "relatedConcepts": [
+        "critical-thinking",
+        "dunning-kruger-effect",
+        "narrative-fallacy",
+        "belief-system-defenses",
+        "belief-in-belief",
+        "values-and-beliefs"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Confirmation+bias"
     ],

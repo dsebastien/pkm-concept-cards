@@ -8,7 +8,13 @@
     "icon": "FaHeart",
     "featured": false,
     "aliases": ["Internal motivation"],
-    "relatedConcepts": ["deep-work", "extrinsic-motivation", "flow"],
+    "relatedConcepts": [
+        "deep-work",
+        "dopamine",
+        "extrinsic-motivation",
+        "flow",
+        "personal-value-system"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Intrinsic+motivation"
     ],

@@ -8,7 +8,12 @@
     "icon": "FaClock",
     "featured": false,
     "aliases": ["Availability heuristic"],
-    "relatedConcepts": ["confirmation-bias", "lindy-effect", "test-of-time"],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "lindy-effect",
+        "test-of-time",
+        "fighting-recency-bias"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Recency+bias"
     ],

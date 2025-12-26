@@ -8,7 +8,12 @@
     "icon": "FaBook",
     "featured": false,
     "aliases": ["Story bias"],
-    "relatedConcepts": ["coherence-bias", "confirmation-bias", "critical-thinking"],
+    "relatedConcepts": [
+        "coherence-bias",
+        "confirmation-bias",
+        "critical-thinking",
+        "belief-system-defenses"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Narrative+fallacy"
     ],

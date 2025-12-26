@@ -9,11 +9,15 @@
     "featured": false,
     "aliases": ["Focus momentum", "Flow momentum"],
     "relatedConcepts": [
+        "adhd",
+        "attention",
         "context-switching",
         "deep-work",
+        "directed-attention",
         "flow-state",
         "focus",
-        "pomodoro-technique"
+        "pomodoro-technique",
+        "sustained-attention"
     ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Attention+momentum"

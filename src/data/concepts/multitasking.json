@@ -9,9 +9,11 @@
     "featured": false,
     "aliases": ["Task-switching", "Multi-tasking"],
     "relatedConcepts": [
+        "attention",
         "context-switching",
         "deep-work",
         "focus",
+        "laser-focus",
         "pomodoro-technique",
         "time-blocking"
     ],

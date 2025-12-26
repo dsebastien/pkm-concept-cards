@@ -1,0 +1,24 @@
+{
+    "id": "belief-in-belief",
+    "name": "Belief in Belief",
+    "summary": "A cognitive situation where your stated beliefs conflict with your actual actions and expectations.",
+    "explanation": "Belief in Belief describes a situation where the model of the world you claim to believe in is at odds with the model that actually explains your actions and drives your anticipation of experience. In other words, you might profess to believe something, but your behavior and expectations reveal a different underlying belief. This concept is important for self-awareness and personal growth, as it highlights the gap between what we say we believe and what our actions demonstrate we truly believe. Recognizing this disconnect can help us align our stated values with our actual behavior, leading to greater authenticity and more consistent decision-making.",
+    "tags": ["beliefs", "mental-models", "cognition", "self-awareness", "psychology"],
+    "category": "Thinking",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": ["confirmation-bias", "mental-models", "cognitive-fusion"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Belief+in+belief"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Belief in Belief - LessWrong",
+            "url": "https://www.lesswrong.com/tag/belief-in-belief",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

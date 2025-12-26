@@ -1,0 +1,24 @@
+{
+    "id": "belief-system-defenses",
+    "name": "Belief System Defenses",
+    "summary": "The subconscious or conscious creation of narratives to protect our beliefs and self-image.",
+    "explanation": "Belief System Defenses refer to the psychological mechanisms we use, subconsciously or consciously, to create narratives that defend our choices and preserve our self-image. These defenses protect our existing belief system from being challenged or changed. This is why it can be difficult to be truly open to feedback - our minds automatically resist information that threatens our established worldview or sense of self. Understanding this tendency is crucial for personal growth, as it helps us recognize when we're being defensive rather than genuinely evaluating new information. In PKM, being aware of belief system defenses encourages us to actively seek and honestly consider contradictory perspectives.",
+    "tags": ["biases", "cognition", "psychology", "feedback", "self-awareness", "identity"],
+    "category": "Cognitive Biases",
+    "icon": "FaShieldAlt",
+    "featured": false,
+    "aliases": ["Self-protective narratives", "Defensive thinking"],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "narrative-fallacy",
+        "coherence-bias",
+        "belief-in-belief",
+        "values-and-beliefs"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Belief+System+Defenses"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

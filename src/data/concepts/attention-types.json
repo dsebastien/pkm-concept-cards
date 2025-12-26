@@ -1,0 +1,24 @@
+{
+    "id": "attention-types",
+    "name": "Attention Types",
+    "summary": "The two fundamental categories of attention: directed (goal-driven) and stimulated (stimulus-driven).",
+    "explanation": "There are two main types of attention that influence how we engage with the world. Directed attention is goal-driven, arising from internal motivations and personal objectives. Stimulated attention is stimulus-driven, triggered by external factors vying for our focus. Understanding these types helps us recognize when we're in control of our attention versus when external forces are capturing it. In the modern attention economy, this awareness is crucial for maintaining productivity and well-being. Knowledge workers benefit from maximizing directed attention while minimizing unwanted stimulated attention that leads to distraction and time waste.",
+    "tags": ["attention", "cognition", "focus", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": ["Types of attention", "Attention categories"],
+    "relatedConcepts": [
+        "attention",
+        "directed-attention",
+        "stimulated-attention",
+        "focus",
+        "sustained-attention"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Attention+types"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "career-design",
+    "name": "Career Design",
+    "summary": "The intentional process of designing and shaping your professional path to align with your values and goals.",
+    "explanation": "Career Design is the intentional process of shaping your professional path rather than letting it happen by chance. It applies design thinking principles to your career, encouraging you to explore multiple possibilities, prototype through small experiments, and iterate based on what you learn. Career Design involves understanding your values, skills, and interests, identifying career possibilities that align with your vision, and creating actionable plans to move toward your ideal professional life. It's closely connected to Life Design and finding your Ikigai.",
+    "tags": ["career", "clarity", "life-design", "personal-growth", "planning"],
+    "category": "Clarity",
+    "icon": "FaBriefcase",
+    "featured": false,
+    "aliases": ["Professional Development", "Career Planning"],
+    "relatedConcepts": ["ikigai", "life-design", "personal-value-system"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Career+Design"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

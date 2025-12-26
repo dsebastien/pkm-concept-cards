@@ -1,0 +1,26 @@
+{
+    "id": "minimum-viable-productivity-toolkit",
+    "name": "Minimum Viable Productivity Toolkit",
+    "summary": "A core set of essential productivity practices that form the foundation of an effective productivity system.",
+    "explanation": "The Minimum Viable Productivity Toolkit represents the essential practices needed for effective personal productivity. Rather than adopting every productivity technique available, focus on these core elements: Journaling through daily notes for reflection and planning; GTD principles including clear short, medium, and long-term goals and Inbox Zero; Prioritization using the Eisenhower Matrix; Focus on the Most Important Task of the Day; Making time for priorities; Periodic reviews for continuous improvement; Mindfulness practice; and Healthy routines covering sleep, rest, hydration, and exercise. This minimalist approach prevents overwhelm while ensuring the fundamentals are covered.",
+    "tags": ["productivity", "time-management", "focus", "systems"],
+    "category": "Systems",
+    "icon": "FaToolbox",
+    "featured": false,
+    "aliases": ["MVPT", "Essential Productivity Stack"],
+    "relatedConcepts": [
+        "gtd",
+        "eisenhower-matrix",
+        "most-important-task",
+        "periodic-reviews",
+        "inbox-zero",
+        "journaling",
+        "mindfulness"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Minimum+Viable+Productivity+Toolkit"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

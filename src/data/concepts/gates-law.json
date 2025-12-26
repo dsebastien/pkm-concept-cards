@@ -8,7 +8,12 @@
     "icon": "FaCalendarAlt",
     "featured": false,
     "aliases": ["Bill Gates quote", "Long-term thinking"],
-    "relatedConcepts": ["compound-growth", "amaras-law", "hofstadter-law"],
+    "relatedConcepts": [
+        "amaras-law",
+        "big-hairy-audacious-goals",
+        "compound-growth",
+        "hofstadter-law"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Gates%27+Law"
     ],

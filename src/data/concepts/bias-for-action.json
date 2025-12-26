@@ -1,0 +1,18 @@
+{
+    "id": "bias-for-action",
+    "name": "Bias for Action",
+    "summary": "A preference for taking action rather than overanalyzing or waiting for perfect conditions.",
+    "explanation": "Bias for Action is the tendency to favor doing something over doing nothing, even when the outcome is uncertain. It is particularly important for entrepreneurs and knowledge workers who can easily fall into analysis paralysis. Spending too much time analyzing options delays progress and prevents learning from real-world feedback. Action, no matter how imperfect, moves us forward. It helps us change the world, gather feedback, learn, improve, and adjust course. The Latin phrase 'Acta non verba' (deeds, not words) captures this principle: words alone do not make a difference; actions do. Action beats intention every time.",
+    "tags": ["productivity", "entrepreneurship", "progress", "action"],
+    "category": "Principles",
+    "icon": "FaRunning",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": ["analysis-paralysis", "perfectionism", "flow-state", "acta-non-verba"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Bias+for+action"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

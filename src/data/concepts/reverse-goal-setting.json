@@ -1,0 +1,29 @@
+{
+    "id": "reverse-goal-setting",
+    "name": "Reverse Goal Setting",
+    "summary": "A technique of working backwards from ambitious goals by imagining who you need to become to achieve them.",
+    "explanation": "Reverse Goal Setting is a technique for tackling ambitious, long-term goals by working backwards from the end state. Instead of starting from where you are, you start from the end goal and imagine what and who it takes to achieve it. First, identify who would be the ideal person to achieve that goal and what they would need: skills, knowledge, characteristics, and assets. Then evaluate your current level for each requirement on a 1-10 scale to understand the gap. Next, identify drivers (resources that help) and barriers (constraints that hinder). Finally, create a plan starting from the end goal and working backwards to the present, with clearer steps as you get closer to 'now'. This approach transforms overwhelming goals into achievable roadmaps.",
+    "tags": ["clarity", "goal-setting", "planning", "productivity", "techniques"],
+    "category": "Techniques",
+    "icon": "FaRetweet",
+    "featured": false,
+    "aliases": ["Backward Goal Planning", "Goals Reverse Engineering"],
+    "relatedConcepts": [
+        "big-hairy-audacious-goals",
+        "goal-setting",
+        "smart-goals",
+        "time-horizons"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Reverse+Goal+setting"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": [
+        {
+            "title": "Reverse Goal Setting by Justin Sung",
+            "url": "https://www.youtube.com/watch?v=bq1x659j8mA",
+            "type": "video"
+        }
+    ]
+}

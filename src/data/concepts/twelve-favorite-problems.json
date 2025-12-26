@@ -8,7 +8,13 @@
     "icon": "FaQuestion",
     "featured": true,
     "aliases": ["Favorite questions", "Guiding questions"],
-    "relatedConcepts": ["connected-notes", "curiosity", "learning", "serendipity"],
+    "relatedConcepts": [
+        "big-hairy-audacious-goals",
+        "connected-notes",
+        "curiosity",
+        "learning",
+        "serendipity"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/12+favorite+questions+or+problems"
     ],

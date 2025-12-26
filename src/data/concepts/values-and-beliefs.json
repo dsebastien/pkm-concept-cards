@@ -1,0 +1,30 @@
+{
+    "id": "values-and-beliefs",
+    "name": "Values and Beliefs",
+    "summary": "Values determine why we think and act, while beliefs dictate how we think and act.",
+    "explanation": "Values and Beliefs represent two interconnected but distinct aspects of our mental framework. Our values determine our actions - they are the fundamental reasons why we think the things we think and do the things we do. Values represent what we consider important and meaningful. Beliefs, on the other hand, dictate how we think and do things. They are the rules, assumptions, and mental models we follow to live by our values, whether consciously or unconsciously. Understanding this distinction is powerful for personal development: by examining our beliefs, we can assess whether they truly serve our values or if they are limiting us. When our beliefs align with our values, we experience greater authenticity and coherence in our lives.",
+    "tags": [
+        "beliefs",
+        "values",
+        "personal-development",
+        "psychology",
+        "self-awareness",
+        "decision-making"
+    ],
+    "category": "Thinking",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Values are the why and beliefs are the how"],
+    "relatedConcepts": [
+        "belief-in-belief",
+        "belief-system-defenses",
+        "personal-manifesto",
+        "ikigai"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Values+are+the+why+and+beliefs+are+the+how"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

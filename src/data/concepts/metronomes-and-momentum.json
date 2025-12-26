@@ -1,0 +1,31 @@
+{
+    "id": "metronomes-and-momentum",
+    "name": "Metronomes and Momentum",
+    "summary": "The principle that regularity and consistency, like a metronome, build momentum that compounds over time.",
+    "explanation": "Like metronomes that produce sound at regular intervals helping musicians maintain pace, regularity and consistency in our work create powerful momentum. Metronomes are stable and predictable - they never skip a beat, never slow down, and never go off track. These qualities of regularity and consistency are incredibly powerful to develop. They imply predictability and reliability, which increases confidence and trust from others. More importantly, regularity and consistency help create momentum. As more gets done, delivered, or published, results add up and add weight to everything you do afterward. If you have written one essay, only that essay vouches for your skills. If you have written a hundred in a hundred days, it tells a very different story. The great thing about momentum is that even if you stop for a while, it will remain and only slow down progressively, just like an object in motion.",
+    "tags": ["productivity", "consistency", "momentum", "progress", "habits"],
+    "category": "Principles",
+    "icon": "FaRegClock",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "compound-growth",
+        "small-wins",
+        "continuous-improvement",
+        "habit-stacking",
+        "virtuous-circle",
+        "flywheels"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Metronomes+and+momentum"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Wikipedia: Trust (social science)",
+            "url": "https://en.wikipedia.org/wiki/Trust_(social_science)",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

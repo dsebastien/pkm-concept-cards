@@ -8,7 +8,12 @@
     "icon": "FaComments",
     "featured": false,
     "aliases": ["SBI feedback", "Constructive feedback"],
-    "relatedConcepts": ["continuous-improvement", "growth-mindset", "collaboration"],
+    "relatedConcepts": [
+        "continuous-improvement",
+        "growth-mindset",
+        "collaboration",
+        "seek-feedback-not-perfection"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+to+give+structured+feedback"
     ],

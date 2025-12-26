@@ -8,7 +8,17 @@
     "icon": "FaEye",
     "featured": false,
     "aliases": ["Concentration", "Focused attention"],
-    "relatedConcepts": ["deep-work", "flow-state", "focus", "pomodoro-technique"],
+    "relatedConcepts": [
+        "adhd",
+        "attention",
+        "attention-types",
+        "deep-work",
+        "directed-attention",
+        "flow-state",
+        "focus",
+        "laser-focus",
+        "pomodoro-technique"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sustained+Attention"
     ],

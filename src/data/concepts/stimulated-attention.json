@@ -1,0 +1,25 @@
+{
+    "id": "stimulated-attention",
+    "name": "Stimulated Attention",
+    "summary": "Reactive attention captured by external stimuli, often leading to distraction and time waste.",
+    "explanation": "Stimulated attention is when our attention is taken or stolen away from us, leading us to waste our time. For instance, when we receive phone notifications, we tend to look at them, which may lead us to check applications and get into totally different activities. This type of attention steals our time rather than helping us achieve our goals. We live in the attention economy where our time is a currency, which is why we must always be aware of stimulated attention and instead cultivate directed attention. One of the main goals of modern marketing is to capture our attention and influence us to buy products or services. Understanding this helps us design systems and environments that protect our focus.",
+    "tags": ["attention", "cognition", "distraction", "attention-economy", "productivity"],
+    "category": "Concepts",
+    "icon": "FaBell",
+    "featured": false,
+    "aliases": ["Stimulus-driven attention", "Bottom-up attention", "Reactive attention"],
+    "relatedConcepts": [
+        "attention",
+        "attention-types",
+        "directed-attention",
+        "focus",
+        "context-switching",
+        "shiny-object-syndrome"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Stimulated+attention"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

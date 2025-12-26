@@ -8,7 +8,12 @@
     "icon": "FaEraser",
     "featured": false,
     "aliases": ["Mental model updating", "Relearning"],
-    "relatedConcepts": ["continuous-improvement", "evergreen-notes", "growth-mindset", "learning"],
+    "relatedConcepts": [
+        "continuous-improvement",
+        "evergreen-notes",
+        "growth-mindset",
+        "einstellung-effect"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Unlearning+things+is+as+important+as+learning+new+ones"
     ],

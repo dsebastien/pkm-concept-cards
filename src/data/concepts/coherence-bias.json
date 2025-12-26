@@ -8,7 +8,12 @@
     "icon": "FaPuzzlePiece",
     "featured": false,
     "aliases": ["Narrative coherence", "Story bias"],
-    "relatedConcepts": ["narrative-fallacy", "confirmation-bias", "hindsight-bias"],
+    "relatedConcepts": [
+        "narrative-fallacy",
+        "confirmation-bias",
+        "hindsight-bias",
+        "belief-system-defenses"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Coherence+bias"
     ],

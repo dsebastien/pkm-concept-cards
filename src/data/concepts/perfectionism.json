@@ -9,12 +9,17 @@
     "featured": false,
     "aliases": ["Perfect is the enemy of good", "Perfectionist tendencies"],
     "relatedConcepts": [
+        "acta-non-verba",
         "analysis-paralysis",
+        "bias-for-action",
         "burnout",
         "continuous-improvement",
+        "embrace-imperfection",
         "emotional-burnout",
         "impostor-syndrome",
-        "shiny-object-syndrome"
+        "seek-feedback-not-perfection",
+        "shiny-object-syndrome",
+        "start-before-you-are-ready"
     ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/34+Maps/34.01+MoCs/Perfectionism+(MoC)"
