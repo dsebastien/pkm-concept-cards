@@ -1,0 +1,29 @@
+{
+    "id": "past-performance-fallacy",
+    "name": "Past Performance Fallacy",
+    "summary": "The principle that historical results and past successes do not guarantee or reliably predict future outcomes.",
+    "explanation": "The Past Performance Fallacy refers to the cognitive error of assuming that because something performed well in the past, it will continue to do so in the future. This principle originated as a standard legal disclaimer in the financial industry, where investment firms are required to warn clients that 'past results do not guarantee future performance.' However, its wisdom extends far beyond investing into nearly every domain of life.\n\nAt its core, this principle acknowledges that the conditions which led to past success may not persist into the future. Markets change, competitors adapt, technologies evolve, and circumstances shift in unpredictable ways. What worked yesterday may become obsolete tomorrow. A winning strategy in one context may fail completely in another.\n\nIn investing, this fallacy manifests when people chase 'hot' stocks or funds based solely on their recent returns, ignoring fundamentals like valuation, market conditions, and risk factors. The same applies to career decisions (joining a company because it was successful), business strategy (continuing tactics that once worked), and personal life (expecting relationships or situations to remain unchanged).\n\nSeveral cognitive biases reinforce this fallacy. Recency bias causes us to overweight recent events, making us believe that current trends will continue indefinitely. Survivorship bias leads us to focus on winners while ignoring the many failures, creating a distorted picture of success rates. Hindsight bias makes past outcomes seem more predictable than they were, giving us false confidence in our ability to predict future results.\n\nTo apply this wisdom effectively, one should make decisions based on fundamentals rather than track records alone. In investing, this means analyzing business models, competitive advantages, and valuations. In career choices, it means evaluating company culture, growth potential, and industry trends. In life decisions, it means understanding the underlying factors that drive outcomes rather than assuming patterns will repeat.\n\nThe key is not to ignore past performance entirely, but to understand why something succeeded and whether those conditions still apply. Use historical data as one input among many, not as the sole basis for decisions. Always ask: 'What would need to be true for this success to continue?' and 'What has changed that might alter the outcome?'",
+    "tags": [
+        "investing",
+        "decision-making",
+        "cognitive-bias",
+        "risk",
+        "finance",
+        "critical-thinking"
+    ],
+    "category": "Principles",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Past Results Don't Guarantee Future Performance",
+        "Historical Performance Disclaimer",
+        "Past Performance Disclaimer"
+    ],
+    "relatedConcepts": ["recency-bias", "survivorship-bias", "hindsight-bias"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.04+Expressions/Past+results+do+not+guarantee+future+performance"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

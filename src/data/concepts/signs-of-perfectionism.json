@@ -1,0 +1,36 @@
+{
+    "id": "signs-of-perfectionism",
+    "name": "Signs of Perfectionism",
+    "summary": "Recognizing the warning signs that perfectionism is holding you back from progress and success.",
+    "explanation": "Perfectionism can manifest in various ways, often subtle enough to go unnoticed until they significantly impact your productivity, life, and success. Common signs include chronic procrastination, as the fear of imperfection leads to task avoidance. You may find yourself unable to complete important projects or tasks because you set unrealistically high standards, whether consciously or not. This leads to disappointment, frustration, and in severe cases, burnout. The inability to celebrate achievements, no matter how significant, is another telltale sign, as you might tend to focus on what could have been better instead of appreciating what has been accomplished. These perfectionist tendencies are often rooted in insecurities, low self-esteem, and impostor syndrome. They may develop from childhood criticism, fear of judgment, or the pressure to remain 'invisible' by doing everything perfectly. This exhausting pursuit of control and approval can push you forward in life, but at great personal cost. Recognizing these signs is the first step towards breaking free from this 'illness' and embracing a healthier relationship with progress and achievement.",
+    "tags": ["perfectionism", "self-awareness", "productivity", "mental-health", "psychology"],
+    "category": "Concepts",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": [
+        "Perfectionism Warning Signs",
+        "When Perfectionism Holds You Back",
+        "Signs that perfectionism is holding you back"
+    ],
+    "relatedConcepts": [
+        "perfectionism",
+        "impostor-syndrome",
+        "burnout",
+        "embrace-imperfection",
+        "emotional-burnout",
+        "analysis-paralysis",
+        "small-wins"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Signs+that+perfectionism+is+holding+you+back"
+    ],
+    "articles": [
+        {
+            "title": "Overcoming Perfectionism - How to Break Free from the Enemy of Progress",
+            "url": "https://www.dsebastien.net/overcoming-perfectionism-how-to-break-free-from-the-enemy-of-progress/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

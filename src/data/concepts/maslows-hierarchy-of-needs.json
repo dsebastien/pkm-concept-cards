@@ -1,0 +1,30 @@
+{
+    "id": "maslows-hierarchy-of-needs",
+    "name": "Maslow's Hierarchy of Needs",
+    "summary": "A psychological theory organizing human needs into a five-tier pyramid, from basic survival needs to self-actualization, where lower-level needs must be satisfied before higher ones can be pursued.",
+    "explanation": "Maslow's Hierarchy of Needs is a motivational theory in psychology proposed by Abraham Maslow in his 1943 paper 'A Theory of Human Motivation' published in Psychological Review. The theory organizes human needs into a hierarchical pyramid with five levels.\n\nThe five levels from bottom to top are:\n\n1. **Physiological needs**: The most basic requirements for human survival - food, water, shelter, sleep, and warmth. These take absolute priority over all other needs.\n\n2. **Safety needs**: Once physiological needs are met, people seek security and stability - personal safety, employment, resources, health, and property.\n\n3. **Love and belonging**: Social needs including friendship, intimacy, family, and a sense of connection with others.\n\n4. **Esteem**: The need for respect, self-esteem, status, recognition, strength, and freedom.\n\n5. **Self-actualization**: The highest level, representing the desire to become the best version of oneself and realize one's full potential.\n\nThe fundamental principle is that lower-level needs must be substantially satisfied before a person can focus on higher-level needs. For example, if you don't have food or shelter, you'll focus on obtaining those before worrying about self-esteem or personal growth.\n\nThis framework has been widely applied in psychology, education, business management, and personal development to understand human motivation and behavior.",
+    "tags": [
+        "psychology",
+        "motivation",
+        "personal-development",
+        "human-needs",
+        "self-actualization"
+    ],
+    "category": "Frameworks",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Maslow's Pyramid", "Hierarchy of Needs"],
+    "relatedConcepts": ["intrinsic-motivation", "extrinsic-motivation", "ikigai"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Maslow's+Hierarchy+of+needs"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Maslow's hierarchy of needs - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

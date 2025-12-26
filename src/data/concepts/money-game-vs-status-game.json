@@ -1,0 +1,24 @@
+{
+    "id": "money-game-vs-status-game",
+    "name": "Money Game vs Status Game",
+    "summary": "A distinction between pursuing wealth (a positive-sum game that can benefit everyone) versus pursuing status (a zero-sum game where gains come at others' expense).",
+    "explanation": "The Money Game vs Status Game concept highlights a fundamental difference between two pursuits that often drive human behavior. Status is a zero-sum game: when you gain status, you rise relative to others, but you don't lift them along with you. Someone has to lose for you to win. In contrast, wealth creation is a positive-sum game. When you create genuine value and wealth, you can benefit others while also benefiting yourself. For example, creating an educational course helps students grow their skills while generating income for the creator. Both parties win.\n\nThis insight encourages focusing on wealth creation through value generation rather than status-seeking through comparison and competition. By choosing the money game over the status game, you can build sustainable success without the need to tear others down. This mindset shift can lead to more collaborative approaches to business and career development, where the goal is to expand the pie rather than fight over a fixed one.",
+    "tags": ["wealth", "status", "mindset", "game-theory", "philosophy", "career"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Wealth Game vs Status Game", "Positive-Sum vs Zero-Sum Games"],
+    "relatedConcepts": ["zero-sum-game", "financial-independence"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Money+game+vs+status+game"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Almanack of Naval Ravikant",
+            "url": "https://www.navalmanack.com/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

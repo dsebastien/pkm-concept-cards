@@ -406,6 +406,33 @@ For each concept to add:
     4. Verify relatedNotes URL path exists"
 ```
 
+### Handling Light Source Content
+
+**IMPORTANT**: When a source note has minimal content (e.g., just a sentence or two), **do NOT skip the concept**. Instead, generate appropriate content:
+
+1. **Use the source note as a starting point** - Extract the core idea even if brief
+2. **Generate a comprehensive explanation** - Use your knowledge to expand on the concept:
+    - What is it?
+    - How does it work?
+    - Why is it useful?
+    - When should it be applied?
+3. **Research the concept** - If the concept is well-known (e.g., "Quality Circle", "Leitner System"), use your training knowledge to provide accurate, detailed information
+4. **Add relevant references** - Include Wikipedia links, authoritative sources, or seminal books/papers when applicable
+5. **Still link the source note** - Even if thin, include it in `relatedNotes` as the original reference
+
+**Example**: A source note might only say:
+
+> "A quality circle is a group of workers who meet to solve problems."
+
+The generated concept should expand this to include: composition (3-5 members), leadership structure, historical context (1980s), goals (improve performance, quality, motivation), and relationship to Kaizen.
+
+**When to truly skip a concept**:
+
+- The note is just a quote with no actionable concept
+- It's a duplicate of an existing concept
+- It's a person's name or book title without conceptual content
+- It's an article reference rather than a concept
+
 ### Post-Processing After Sub-Agents Complete
 
 After all sub-agents finish:

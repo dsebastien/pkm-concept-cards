@@ -1,0 +1,35 @@
+{
+    "id": "four-stages-of-competence",
+    "name": "Four Stages of Competence",
+    "summary": "A learning model describing the psychological states from unconscious incompetence to unconscious competence.",
+    "explanation": "The Four Stages of Competence is a popular psychological learning model that describes the progression we go through when acquiring any new skill. The stages are: (1) Unconscious incompetence - we don't know what we don't know, our view is narrow, and our intuition is often wrong; (2) Conscious incompetence - we begin to realize how much we have yet to learn, and progress requires experimentation and embracing failure; (3) Conscious competence - we can perform tasks independently but still need focused effort and have knowledge gaps; (4) Unconscious competence - the skill becomes second nature, feeling intuitive and effortless. Understanding these stages helps set realistic expectations during learning and explains why initial confidence may be misplaced. This model has a close relationship with the Dunning-Kruger effect, as both deal with self-awareness of one's abilities at different skill levels.",
+    "tags": ["learning", "psychology", "skill-development", "self-improvement", "expertise"],
+    "category": "Concepts",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Conscious competence learning model", "Competence hierarchy"],
+    "relatedConcepts": [
+        "dunning-kruger-effect",
+        "learning-curve",
+        "meta-learning",
+        "growth-mindset"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Four+stages+of+competence"
+    ],
+    "articles": [
+        {
+            "title": "Four stages of competence - The Mind Collection",
+            "url": "https://themindcollection.com/four-stages-of-competence",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Four stages of competence - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Four_stages_of_competence",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

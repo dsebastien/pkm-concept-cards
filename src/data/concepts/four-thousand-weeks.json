@@ -1,0 +1,24 @@
+{
+    "id": "four-thousand-weeks",
+    "name": "Four Thousand Weeks",
+    "summary": "The realization that an average human lifespan of ~80 years translates to only about 4,000 weeks, putting our finite time in stark perspective.",
+    "explanation": "Assuming an average lifespan of approximately 80 years, we each have about 4,000 weeks to live. This simple mathematical reframing transforms an abstract concept of mortality into something tangible and urgent. When viewed through this lens, each week becomes precious and finite, challenging us to be more intentional about how we spend our time.\n\nThis perspective encourages us to make those weeks count by focusing on what truly matters to us. It serves as a powerful antidote to procrastination and the tendency to defer meaningful pursuits indefinitely. The concept reminds us that life is too short to waste time waiting for other people's approval on how we live it.\n\nRather than viewing this as morbid or depressing, the 4,000 weeks framework can be liberating. It helps cut through the noise of trivial concerns and societal expectations, enabling us to prioritize authentic goals and relationships. By accepting our temporal limitations, we paradoxically become more present and engaged with life.",
+    "tags": ["time-management", "mindfulness", "life", "perspective", "mortality", "productivity"],
+    "category": "Principles",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["4000 Weeks", "We only have 4000 weeks", "4,000 Weeks"],
+    "relatedConcepts": ["memento-mori", "essentialism", "time-blocking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/We+only+have+4000+weeks"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Four Thousand Weeks: Time Management for Mortals",
+            "url": "https://www.oliverburkeman.com/books",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

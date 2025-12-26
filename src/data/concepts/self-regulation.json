@@ -1,0 +1,24 @@
+{
+    "id": "self-regulation",
+    "name": "Self-Regulation",
+    "summary": "The ability to control our own behavior and emotional responses, including calming ourselves when upset and adapting to changes.",
+    "explanation": "Self-regulation is the ability to control our own behavior and emotional responses. It encompasses knowing how to calm ourselves down when we get upset, being able to adjust to changes, and handling frustration and outbursts effectively.\n\nThis skill involves several key components:\n\n**Emotional Control**: The capacity to manage and modulate emotional reactions, preventing them from overwhelming us or leading to impulsive actions.\n\n**Impulse Control**: The ability to pause before acting, allowing us to choose thoughtful responses rather than reacting automatically.\n\n**Adaptability**: Being flexible in the face of change, adjusting our expectations and behaviors when circumstances shift.\n\n**Frustration Tolerance**: Managing feelings of frustration without letting them derail our goals or damage relationships.\n\nSelf-regulation is a foundational skill for personal development and well-being. While it's particularly important for children to develop, it remains crucial throughout life. Adults with strong self-regulation skills tend to have better relationships, achieve their goals more consistently, and experience greater overall well-being.\n\nDeveloping self-regulation takes practice. Strategies include mindfulness practices, identifying emotional triggers, creating pause rituals before reacting, and gradually building tolerance for discomfort. The effort invested in strengthening self-regulation pays dividends across all areas of life.",
+    "tags": [
+        "psychology",
+        "emotional-intelligence",
+        "self-control",
+        "personal-development",
+        "well-being"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Emotional Self-Regulation", "Self-Control", "Emotional Regulation"],
+    "relatedConcepts": ["self-discipline", "emotional-intelligence", "mindfulness"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Self-regulation"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

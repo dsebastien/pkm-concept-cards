@@ -8,7 +8,7 @@
     "icon": "FaChartLine",
     "featured": false,
     "aliases": ["Memory decay"],
-    "relatedConcepts": ["learning", "pkm", "spaced-repetition"],
+    "relatedConcepts": ["learning", "leitner-system", "pkm", "spaced-repetition"],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Forgetting+curve"
     ],

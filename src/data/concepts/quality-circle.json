@@ -1,0 +1,24 @@
+{
+    "id": "quality-circle",
+    "name": "Quality Circle",
+    "summary": "A small group of workers who meet regularly to identify, analyze, and solve work-related problems.",
+    "explanation": "A quality circle is a group of workers who do the same or similar work, meeting regularly to identify, analyze, and solve work-related problems. These groups are typically composed of 3-5 persons, with a maximum of 12 members. The group is usually led by a supervisor or manager who facilitates discussions and helps guide the problem-solving process.\n\nThe primary purpose of quality circles is threefold: to improve organizational performance, to enhance the quality of outputs, and to motivate employees by giving them ownership over their work processes. When the group develops solutions, they present them to management and, whenever possible, implement the improvements themselves.\n\nQuality circles were most popular during the 1980s, particularly in manufacturing industries influenced by Japanese management practices. While they may not be as prominently labeled today, the concept continues to exist in the form of Kaizen groups and similar continuous improvement focus groups that emphasize employee-driven problem solving and incremental enhancements.",
+    "tags": ["continuous-improvement", "teamwork", "quality", "management", "problem-solving"],
+    "category": "Methods",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": ["Quality Control Circle"],
+    "relatedConcepts": ["kaizen", "continuous-improvement"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Quality+circle"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Quality circle",
+            "url": "https://en.wikipedia.org/wiki/Quality_circle",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

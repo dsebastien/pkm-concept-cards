@@ -1,0 +1,24 @@
+{
+    "id": "seek-sense-share",
+    "name": "Seek, Sense, Share",
+    "summary": "Harold Jarche's Personal Knowledge Management framework centered on exploring new ideas, making sense of discoveries, and sharing learnings.",
+    "explanation": "Seek, Sense, Share is a PKM framework developed by Harold Jarche that describes the continuous cycle of learning and knowledge work. The framework consists of three interconnected phases: Seek involves exploring new ideas, gathering information, and staying curious about the world; Sense is about making meaning from what you discover, connecting ideas, and developing understanding; Share focuses on contributing your learnings back to your network and community. This framework emphasizes that knowledge work is inherently social and that the most effective learning happens when you actively engage with information and share your insights with others. By continuously cycling through these three phases, knowledge workers can stay relevant, build expertise, and contribute value to their professional networks.",
+    "tags": ["pkm", "knowledge-management", "learning", "sharing", "framework", "sensemaking"],
+    "category": "Frameworks",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["SSS Framework", "Jarche's PKM Model"],
+    "relatedConcepts": ["pkm", "knowledge-management", "second-brain", "learning-in-public"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Seek,+Sense,+Share"
+    ],
+    "articles": [
+        {
+            "title": "Seek Sense Share - Harold Jarche",
+            "url": "https://jarche.com/pkm/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

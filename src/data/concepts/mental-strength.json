@@ -1,0 +1,23 @@
+{
+    "id": "mental-strength",
+    "name": "Mental Strength",
+    "summary": "Building resilience and achieving goals by doing hard things when it's time, whether motivated or not.",
+    "explanation": "Mental strength is the capacity to face challenges head-on regardless of how you feel in the moment. Unlike what many believe, motivation is not a prerequisite for action - it is a result of it. Mental strength comes from doing hard things when it's time, whether you feel motivated or not. Instead of avoiding difficult work, rush toward it. Every time you fight the urge to procrastinate and push through resistance, you build mental strength. You can only reap the benefits of any endeavor if you do the work, whether it feels good or not. This creates a positive feedback loop: action generates motivation, which makes subsequent action easier, further strengthening your mental resilience. Building mental strength is not about waiting for the right moment or the right feeling - it's about showing up and doing what needs to be done, consistently.",
+    "tags": ["mindset", "discipline", "resilience", "motivation", "self-improvement"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Mental Toughness", "Mental Resilience"],
+    "relatedConcepts": [
+        "self-discipline",
+        "growth-mindset",
+        "overcoming-inertia",
+        "bias-for-action"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+to+build+mental+strength"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

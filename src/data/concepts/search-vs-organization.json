@@ -1,0 +1,24 @@
+{
+    "id": "search-vs-organization",
+    "name": "Search vs Organization",
+    "summary": "The trade-off between relying on search capabilities to find information versus maintaining a structured organizational system.",
+    "explanation": "In personal knowledge management, there are two fundamental approaches to retrieving information: relying on search or maintaining an organizational structure. Some people prefer to use search as their primary method for finding what they need, rather than investing effort in complex folder hierarchies or classification systems.\n\nThe effectiveness of a search-first approach depends on several factors: what you're searching for (specific terms work better than vague concepts), the quantity of information in your system (larger collections may yield too many results), and the quality of the search engine (full-text search, fuzzy matching, and metadata indexing all improve results).\n\nTags represent an interesting middle ground in this debate. While tags make search more efficient by adding structured metadata, they are themselves a form of organization that requires consistent effort to maintain. This reveals that the dichotomy is not absolute - most effective systems combine elements of both approaches.\n\nThe key insight is that neither approach is universally superior. The optimal balance depends on your personal workflow, the nature of your content, the tools available, and how much time you're willing to invest in organization versus how much friction you'll accept when searching.",
+    "tags": ["pkm", "information-management", "organization", "search", "retrieval", "findability"],
+    "category": "Principles",
+    "icon": "FaSearch",
+    "featured": false,
+    "aliases": ["Search versus Organization", "Search-first vs Organization-first"],
+    "relatedConcepts": [
+        "tagging",
+        "folders-as-silos",
+        "information-management",
+        "johnny-decimal",
+        "personal-information-management"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Search+vs+organization"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

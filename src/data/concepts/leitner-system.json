@@ -1,0 +1,36 @@
+{
+    "id": "leitner-system",
+    "name": "Leitner System",
+    "summary": "A flashcard-based spaced repetition method that sorts cards into boxes based on mastery level.",
+    "explanation": "The Leitner System is a popular spaced repetition method using flashcards, created by German science journalist Sebastian Leitner in 1972. The system organizes flashcards into groups (boxes) based on how well the learner knows each one. When studying, learners review cards one by one, attempting to recall the answer. If they succeed, the card moves to the next box with a longer review interval. If they fail, the card returns to the previous box for more frequent review. Cards in the first box are those the learner has just learned or struggles with most, while cards in the last box are well-mastered. For example, with three boxes, cards might be reviewed daily in box 1, every 3 days in box 2, and every 5 days in box 3. The main advantage is efficiency: by focusing review time on difficult cards that remain in early boxes, learners reduce total study time while maximizing retention.",
+    "tags": ["learning", "memorization", "flashcards", "spaced-repetition", "techniques", "memory"],
+    "category": "Techniques",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Leitner box method", "Leitner flashcard system"],
+    "relatedConcepts": [
+        "spaced-repetition",
+        "forgetting-curve",
+        "active-recall",
+        "spacing-effect",
+        "desirable-difficulties"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Leitner+system"
+    ],
+    "articles": [
+        {
+            "title": "How to Use the Leitner System for Studying",
+            "url": "https://www.pocketprep.com/posts/how-to-use-the-leitner-system-for-studying",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Leitner System - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Leitner_system",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

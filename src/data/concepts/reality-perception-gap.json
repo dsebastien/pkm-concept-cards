@@ -1,0 +1,25 @@
+{
+    "id": "reality-perception-gap",
+    "name": "Reality-Perception Gap",
+    "summary": "Problems arise from conflicts between our expectations and our inherently incomplete, biased perception of reality.",
+    "explanation": "The Reality-Perception Gap is a mental model that illuminates why we experience problems in life. It consists of four key insights: First, we carry preconceived ideas about what reality should be like - expectations, wishes, and assumptions formed by our experiences, culture, and beliefs. Second, our perception of reality is fundamentally flawed - it is approximative, incomplete, and colored by cognitive biases. Third, reality itself is neutral - it simply IS, neither good nor bad, existing independently of our judgments. Fourth, and most crucially, when there is a conflict between our ideas/wishes and our perceived reality, we believe there is a problem. But the true problem exists only in our mind, in the gap between expectation and perception.\n\nThis concept connects deeply with Stoic philosophy, which teaches us to accept reality as it is rather than as we wish it to be. The Stoics understood that suffering comes not from events themselves but from our judgments about them. Similarly, cognitive reappraisal - a modern psychological technique - works precisely because it addresses this gap: by changing how we think about a situation (our perception and expectations), we change its emotional impact.\n\nFor knowledge workers and anyone dealing with complex challenges, this mental model is liberating. It shifts the locus of control inward. Instead of fighting reality or being frustrated when things don't match our expectations, we can: examine our assumptions, acknowledge the limitations of our perception, and recognize that many 'problems' dissolve when we adjust our mental framework rather than waiting for external circumstances to change.",
+    "tags": [
+        "mental-models",
+        "perception",
+        "problem-solving",
+        "psychology",
+        "mindset",
+        "philosophy"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Reality vs Perception", "Perception Gap", "Expectation-Reality Gap"],
+    "relatedConcepts": ["mental-models", "cognitive-reappraisal", "stoicism", "cognitive-defusion"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Useful+mental+model+for+thinking+about+problems"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
