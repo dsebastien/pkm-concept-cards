@@ -1,0 +1,24 @@
+{
+    "id": "process-vs-state-knowledge",
+    "name": "Process vs State Knowledge",
+    "summary": "Distinguishing between knowing how things work (process) versus knowing what the current state is.",
+    "explanation": "Process and state knowledge represent two fundamental types of understanding. Process Knowledge is knowing how things work - the steps, actions, and procedures to make something happen. Examples include a blacksmith knowing how to swing a hammer or documented SOPs for sending newsletters. State Knowledge is knowing what the current state of something is - the configuration, environment, or conditions. Examples include a blacksmith sensing when iron reaches the right temperature or documentation of system configurations. Both types can be tacit (intuitive, hard to articulate) or explicit (documented, transferable). For knowledge management, distinguishing between these types is crucial when designing systems: are you trying to document procedures (process), capture current configurations (state), or extract expertise about perceiving states correctly?",
+    "tags": ["knowledge-management", "learning", "systems-thinking", "pkm"],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": ["Procedural vs declarative knowledge"],
+    "relatedConcepts": [
+        "dikw-pyramid",
+        "knowledge-management",
+        "meta-learning",
+        "tacit-knowledge",
+        "explicit-knowledge"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Process+knowledge+vs+state+knowledge"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

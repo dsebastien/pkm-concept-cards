@@ -1,0 +1,30 @@
+{
+    "id": "explicit-knowledge",
+    "name": "Explicit Knowledge",
+    "summary": "Knowledge that can be easily articulated, documented, and transferred through formal language.",
+    "explanation": "Explicit knowledge is knowledge that can be readily articulated, codified, stored, and transferred through formal, systematic language. It includes facts, procedures, rules, and information that can be written down in documents, databases, or manuals. Examples include recipes, mathematical formulas, technical specifications, and standard operating procedures. Explicit knowledge contrasts with tacit knowledge, which is difficult to express. The SECI model (Socialization, Externalization, Combination, Internalization) by Nonaka and Takeuchi describes how knowledge transforms between tacit and explicit forms. For PKM, explicit knowledge is what we capture in notes, documents, and knowledge bases. The challenge is that not all valuable knowledge can be made explicit - some insights resist formalization. Effective knowledge management involves both capturing explicit knowledge and creating conditions for tacit knowledge transfer.",
+    "tags": ["knowledge-management", "documentation", "learning", "information"],
+    "category": "Concepts",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": ["Codified knowledge", "Formal knowledge"],
+    "relatedConcepts": [
+        "tacit-knowledge",
+        "process-vs-state-knowledge",
+        "dikw-pyramid",
+        "knowledge-management",
+        "documentation"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Explicit+knowledge"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Knowledge-Creating Company - Nonaka & Takeuchi",
+            "url": "https://amzn.to/3BQvKpM",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

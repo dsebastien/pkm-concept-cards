@@ -1,0 +1,24 @@
+{
+    "id": "logotherapy",
+    "name": "Logotherapy",
+    "summary": "A psychotherapy approach centered on finding meaning as the primary motivational force in life.",
+    "explanation": "Logotherapy is a school of psychotherapy developed by Viktor Frankl that describes the search for life's meaning as the central human motivational force. The term comes from the Greek 'logos' (meaning) and therapy. Unlike Freud's will to pleasure or Adler's will to power, Frankl proposed the 'will to meaning' as humanity's primary drive. Frankl developed these ideas partly from his experiences surviving Nazi concentration camps, documented in 'Man's Search for Meaning.' Logotherapy is part of existential and humanistic psychology, emphasizing that even in suffering, humans can find purpose. For knowledge workers, logotherapy connects to defining personal values, finding purpose in work, and using tools like the Twelve Favorite Problems to orient toward meaningful pursuits.",
+    "tags": ["psychology", "meaning", "philosophy", "personal-growth"],
+    "category": "Concepts",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Meaning therapy", "Frankl's therapy"],
+    "relatedConcepts": ["ikigai", "life-design", "twelve-favorite-problems", "personal-manifesto"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Logotherapy"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Man's Search for Meaning - Viktor Frankl",
+            "url": "https://amzn.to/3ZQvKpM",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

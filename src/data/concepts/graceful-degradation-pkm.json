@@ -1,0 +1,18 @@
+{
+    "id": "graceful-degradation-pkm",
+    "name": "Graceful Degradation in PKM",
+    "summary": "Designing knowledge systems that maintain core value even when tools change or features disappear.",
+    "explanation": "Graceful degradation means your knowledge system doesn't break catastrophically when tools change - it loses some convenience but maintains its core value. The opposite is catastrophic failure where losing a specific tool or feature makes your entire system unusable. Core principles include: Content over container (value exists in content, not how it's displayed by a specific tool), Simple foundations with optional enhancements (plain Markdown as foundation, plugins as removable enhancements), Readable without special software (notes understandable in any text editor), and Links over automation (manual links are permanent, automated queries depend on specific tools). A system degrades gracefully if notes are readable in plain text editors, content makes sense without metadata, links are explicit not generated, and core organization doesn't depend on specific plugins. This principle protects your knowledge for decades rather than locking you into fragile tool dependencies.",
+    "tags": ["pkm", "systems-design", "resilience", "file-over-app", "knowledge-management"],
+    "category": "Principles",
+    "icon": "FaShieldAlt",
+    "featured": false,
+    "aliases": ["PKM resilience", "Degradation-resistant systems"],
+    "relatedConcepts": ["file-over-app", "markdown", "atomic-notes", "pkm", "technical-debt"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Building+graceful+degradation+into+your+PKM+system"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -8,7 +8,15 @@
     "icon": "FaBrain",
     "featured": false,
     "aliases": ["MI Theory", "Gardner's Multiple Intelligences"],
-    "relatedConcepts": ["dual-coding-theory", "growth-mindset", "meta-learning", "visual-thinking"],
+    "relatedConcepts": [
+        "dual-coding-theory",
+        "growth-mindset",
+        "meta-learning",
+        "visual-thinking",
+        "spatial-intelligence",
+        "emotional-intelligence",
+        "intellectual-quotient"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Theory+of+Multiple+Intelligences"
     ],

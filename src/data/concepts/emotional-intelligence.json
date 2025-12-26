@@ -8,9 +8,17 @@
     "icon": "FaHeart",
     "featured": false,
     "aliases": ["EQ", "Emotional quotient"],
-    "relatedConcepts": ["gratitude-journal", "journaling", "mindfulness", "reflective-thinking"],
+    "relatedConcepts": [
+        "gratitude-journal",
+        "journaling",
+        "mindfulness",
+        "reflective-thinking",
+        "intellectual-quotient",
+        "multiple-intelligences"
+    ],
     "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Emotional+intelligence"
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Emotional+intelligence",
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Emotional+Quotient+(EQ)"
     ],
     "articles": [],
     "references": [],

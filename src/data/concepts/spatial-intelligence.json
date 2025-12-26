@@ -1,0 +1,31 @@
+{
+    "id": "spatial-intelligence",
+    "name": "Spatial Intelligence",
+    "summary": "The cognitive ability to think in three dimensions, visualize objects, and mentally manipulate spatial information.",
+    "explanation": "Spatial intelligence is the cognitive ability to think in three dimensions, visualize objects and spaces, and mentally manipulate visual and spatial information. It encompasses visual perception (recognizing patterns and relationships), mental manipulation (rotating objects in space), spatial memory (remembering locations and building mental maps), and spatial reasoning (understanding how objects relate in space). People with strong spatial intelligence excel in visual arts, architecture, STEM fields, navigation, and strategic thinking. For knowledge work, spatial intelligence enables visualization of complex systems, spatial problem-solving, creating effective diagrams and visualizations, and organizing information both physically and digitally. It forms the cognitive foundation for visual thinking approaches like mind maps, concept maps, canvas tools, and graph visualizations. According to Howard Gardner's Theory of Multiple Intelligences, spatial intelligence is one of several distinct cognitive abilities that can be developed through practice.",
+    "tags": ["cognition", "psychology", "intelligence", "visual-thinking", "learning"],
+    "category": "Concepts",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Visual-Spatial Intelligence", "Picture Smart"],
+    "relatedConcepts": [
+        "visual-thinking",
+        "dual-coding-theory",
+        "mind-maps",
+        "multiple-intelligences",
+        "obsidian-canvas",
+        "concept-maps"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Spatial+Intelligence"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Frames of Mind: The Theory of Multiple Intelligences",
+            "url": "https://amzn.to/4gRzKqT",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -8,7 +8,14 @@
     "icon": "FaClock",
     "featured": false,
     "aliases": ["Five Minute Journal"],
-    "relatedConcepts": ["daily-notes", "journaling", "morning-pages", "periodic-reviews"],
+    "relatedConcepts": [
+        "1-1-1-method",
+        "daily-notes",
+        "journaling",
+        "journaling-prompts",
+        "morning-pages",
+        "periodic-reviews"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/5+Minute+Journal"
     ],

@@ -1,0 +1,18 @@
+{
+    "id": "journal-elements",
+    "name": "Elements of a Journal",
+    "summary": "The structural components of a journaling system: daily, weekly, monthly, quarterly, yearly notes.",
+    "explanation": "A complete journaling system can include multiple elements at different time scales. Daily notes (mandatory) are where most of the capture action happens - your primary workspace for thoughts, tasks, and reflections. Weekly notes (optional but highly recommended) provide a broader view and help with planning. Monthly notes (optional) offer an even wider perspective. Quarterly notes (optional) are useful for reviewing progress on larger goals. Yearly notes (optional but highly recommended) enable reflection on the year as a whole and setting direction for the next. Not all elements are necessary - start with daily notes and add others as your practice matures.",
+    "tags": ["journaling", "pkm", "periodic-reviews", "productivity", "structure"],
+    "category": "Concepts",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Journal Structure", "Journaling Components"],
+    "relatedConcepts": ["journaling", "daily-notes", "periodic-reviews", "periodic-journaling"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Elements+of+a+journal"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

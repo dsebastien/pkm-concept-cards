@@ -1,0 +1,24 @@
+{
+    "id": "work-life-fit",
+    "name": "Work-Life Fit",
+    "summary": "Finding your personal harmony between work demands and life goals rather than seeking perfect balance.",
+    "explanation": "Work-life fit is an alternative to the traditional concept of work-life balance, recognizing that the 'right' balance is deeply personal and varies by individual, life stage, and circumstances. Finding harmony between work and life is critical for happiness and stability, but what that looks like differs for everyone. Being a workaholic might be perfectly fine if it fits a lifestyle that fulfills you - perhaps you have great aspirations that consume your heart and soul and require all your time and energy. The key is intentionality: finding your very own work-life fit rather than conforming to someone else's definition of balance. This approach acknowledges that work and life aren't always in opposition and that integration may be more realistic than strict separation.",
+    "tags": ["work-life-balance", "personal-growth", "productivity", "life-design"],
+    "category": "Concepts",
+    "icon": "FaPuzzlePiece",
+    "featured": false,
+    "aliases": ["Personal balance", "Life-work harmony"],
+    "relatedConcepts": [
+        "work-life-balance",
+        "work-life-integration",
+        "life-design",
+        "ikigai",
+        "zen-productivity"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Work+life+fit"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

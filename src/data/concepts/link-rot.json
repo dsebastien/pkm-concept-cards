@@ -1,0 +1,18 @@
+{
+    "id": "link-rot",
+    "name": "Link Rot",
+    "summary": "The gradual decay of hyperlinks as web pages move, change, or disappear over time.",
+    "explanation": "Link rot (also known as link decay or reference rot) is a common information disease where hyperlinks become broken or obsolete over time. As websites are redesigned, pages are moved, domains expire, or content is removed, the links pointing to those resources stop working. This is a significant challenge for knowledge management and digital preservation. Studies suggest that a substantial percentage of web links become broken within just a few years. For PKM practitioners, link rot threatens the integrity of curated resources and external references. Mitigation strategies include using archive services (like the Wayback Machine), preferring stable URLs, maintaining local copies of critical content, and regularly auditing links in your knowledge base.",
+    "tags": ["information-management", "pkm", "web", "preservation"],
+    "category": "Concepts",
+    "icon": "FaLink",
+    "featured": false,
+    "aliases": ["Link decay", "Reference rot", "URL rot"],
+    "relatedConcepts": ["bit-rot", "information-diseases", "worn", "file-over-app"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Link+rot"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

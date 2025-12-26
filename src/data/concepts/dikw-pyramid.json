@@ -8,7 +8,14 @@
     "icon": "FaPyramid",
     "featured": false,
     "aliases": ["Data-Information-Knowledge-Wisdom", "Knowledge hierarchy"],
-    "relatedConcepts": ["information-management", "knowledge-management", "learning", "pkm"],
+    "relatedConcepts": [
+        "information-management",
+        "knowledge-management",
+        "learning",
+        "pkm",
+        "tacit-knowledge",
+        "explicit-knowledge"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/DIKW+Pyramid"
     ],

@@ -1,0 +1,29 @@
+{
+    "id": "sturgeons-law",
+    "name": "Sturgeon's Law",
+    "summary": "The adage that 90% of everything is crap, applicable to content, ideas, and creative works.",
+    "explanation": "Sturgeon's Law, coined by science fiction author Theodore Sturgeon, states that '90% of everything is crap.' Originally a defense of science fiction against critics who dismissed the genre based on its worst examples, the principle applies broadly to all fields. For knowledge workers, Sturgeon's Law is a reminder that most content, ideas, and information encountered will be low quality. This underscores the importance of curation, critical thinking, and developing good filters for what deserves attention. Rather than being cynical, the law encourages focusing energy on finding and creating the valuable 10%. In PKM, it justifies being selective about what to capture and emphasizes quality over quantity.",
+    "tags": ["principles", "content-curation", "critical-thinking", "laws"],
+    "category": "Principles",
+    "icon": "FaFilter",
+    "featured": false,
+    "aliases": ["Sturgeon's Revelation", "90% rule"],
+    "relatedConcepts": [
+        "content-curation",
+        "signal-to-noise-ratio",
+        "information-overload",
+        "essentialism"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sturgeon's+Law"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Sturgeon's Law - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sturgeon%27s_law",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

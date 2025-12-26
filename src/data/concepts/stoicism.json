@@ -1,0 +1,24 @@
+{
+    "id": "stoicism",
+    "name": "Stoicism",
+    "summary": "An ancient philosophy teaching virtue, patience, and focusing on what you can control.",
+    "explanation": "Stoicism is an ancient Greek philosophy founded in Athens around 300 BCE that teaches the development of self-control and fortitude to overcome destructive emotions. The essence of Stoicism is to live a virtuous life through patience, readiness for opportunity without greed, acting with decorum toward others, and not burning with desire for material worth or reputation. Key Stoic practices include the dichotomy of control (focusing only on what you can control), negative visualization (imagining loss to appreciate what you have), and voluntary discomfort (building resilience). Modern Stoicism has seen a revival as a practical philosophy for dealing with stress, uncertainty, and the pace of modern life. For knowledge workers, Stoic principles help manage information overload, maintain focus, and find contentment amid chaos.",
+    "tags": ["philosophy", "mindfulness", "personal-growth", "psychology"],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Stoic philosophy"],
+    "relatedConcepts": ["memento-mori", "mindfulness", "cognitive-reappraisal", "gratitude"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+essence+of+Stoicism"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Meditations - Marcus Aurelius",
+            "url": "https://amzn.to/4gYxQpL",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

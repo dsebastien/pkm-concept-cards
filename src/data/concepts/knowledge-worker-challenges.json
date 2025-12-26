@@ -1,0 +1,26 @@
+{
+    "id": "knowledge-worker-challenges",
+    "name": "Knowledge Worker Challenges",
+    "summary": "The common problems knowledge workers face: information overload, cognitive load, context switching, and knowledge retrieval.",
+    "explanation": "Knowledge workers face a unique set of challenges that PKM systems are designed to address. Information overload: too much information, too many sources, too much noise that's hard to filter. Cognitive load: too many roles, tasks, projects, and responsibilities making it hard to focus or prioritize. Mental contexts: each task is associated with tons of information that's hard to build and easy to lose. Context switching: moving between mental contexts is costly and exhausting, draining energy and requiring time to refocus. Knowledge retention and retrieval: our brains are unreliable, and what matters most is being able to find what you need when you need it. AI context management adds another layer as we now need to manage context for AI assistants too. These challenges are why knowledge workers especially need personal systems for capturing, organizing, and retrieving information.",
+    "tags": ["knowledge-work", "productivity", "information-overload", "challenges"],
+    "category": "Concepts",
+    "icon": "FaUserCog",
+    "featured": false,
+    "aliases": ["Problems of knowledge work", "Knowledge work difficulties"],
+    "relatedConcepts": [
+        "knowledge-workers",
+        "information-overload",
+        "cognitive-load",
+        "context-switching",
+        "mental-context",
+        "pkm"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Challenges+of+knowledge+workers",
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+problems+Knowledge+Workers+face"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

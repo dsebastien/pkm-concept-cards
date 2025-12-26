@@ -1,0 +1,23 @@
+{
+    "id": "reductio-ad-absurdum",
+    "name": "Reductio ad Absurdum",
+    "summary": "A logical argument that establishes a claim by showing the opposite leads to absurd conclusions.",
+    "explanation": "Reductio ad absurdum (Latin for 'reduction to absurdity') is a form of argument that establishes a claim by showing that the opposite scenario would lead to absurd or contradictory conclusions. Also known as proof by contradiction, it works by assuming the opposite of what you want to prove, then demonstrating that this assumption leads to an impossibility or absurdity. This powerful logical tool is used in mathematics, philosophy, and everyday reasoning. For knowledge workers and critical thinkers, understanding this technique helps in constructing persuasive arguments, identifying flawed reasoning, and testing the validity of ideas. If following an idea to its logical conclusion produces absurd results, the original premise is likely flawed.",
+    "tags": ["logic", "critical-thinking", "reasoning", "philosophy"],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Proof by contradiction", "Argumentum ad absurdum"],
+    "relatedConcepts": [
+        "critical-thinking",
+        "analytical-thinking",
+        "first-principles",
+        "linear-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.04+Expressions/Reductio+ad+absurdum"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

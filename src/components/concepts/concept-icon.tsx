@@ -62,7 +62,13 @@ import {
     FaMinus,
     FaMoon,
     FaBed,
-    FaColumns
+    FaColumns,
+    FaNewspaper,
+    FaExchangeAlt,
+    FaEye,
+    FaTheaterMasks,
+    FaShieldAlt,
+    FaUserCog
 } from 'react-icons/fa'
 import { SiObsidian, SiSubstack, SiBluesky } from 'react-icons/si'
 import { FaXTwitter, FaThreads } from 'react-icons/fa6'
@@ -132,6 +138,12 @@ const iconMap: Record<string, IconType> = {
     FaMoon,
     FaBed,
     FaColumns,
+    FaNewspaper,
+    FaExchangeAlt,
+    FaEye,
+    FaTheaterMasks,
+    FaShieldAlt,
+    FaUserCog,
     SiObsidian,
     SiSubstack,
     SiBluesky,
@@ -204,6 +216,12 @@ const iconColors: Record<string, string> = {
     FaMoon: 'text-indigo-400',
     FaBed: 'text-blue-400',
     FaColumns: 'text-teal-400',
+    FaNewspaper: 'text-gray-400',
+    FaExchangeAlt: 'text-blue-400',
+    FaEye: 'text-cyan-400',
+    FaTheaterMasks: 'text-purple-400',
+    FaShieldAlt: 'text-green-400',
+    FaUserCog: 'text-blue-400',
     SiObsidian: 'text-purple-400',
     SiSubstack: 'text-orange-400',
     SiBluesky: 'text-sky-400',

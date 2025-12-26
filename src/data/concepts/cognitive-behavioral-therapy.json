@@ -1,0 +1,29 @@
+{
+    "id": "cognitive-behavioral-therapy",
+    "name": "Cognitive Behavioral Therapy (CBT)",
+    "summary": "A psychological treatment that helps change unhelpful thinking patterns and behaviors.",
+    "explanation": "Cognitive Behavioral Therapy (CBT) is a form of psychological treatment proven effective for depression, anxiety, addiction, eating disorders, and other mental health challenges. Research shows CBT to be as effective or better than other forms of therapy and medications. The treatment centers on the individual and relies on collaboration between therapist and patient. CBT involves efforts to change thinking patterns through various strategies, with exercises and 'homework' to help patients learn to modify their own thinking, problematic emotions, and behaviors. The emphasis is on what's happening in the person's current life rather than what led to their difficulties. For knowledge workers, CBT principles like cognitive defusion and cognitive reappraisal are valuable tools for managing stress, overcoming negative thought patterns, and building mental resilience.",
+    "tags": ["psychology", "mental-health", "therapy", "personal-growth"],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["CBT"],
+    "relatedConcepts": [
+        "cognitive-defusion",
+        "cognitive-fusion",
+        "cognitive-reappraisal",
+        "mindfulness"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Cognitive+Behavioral+Therapy+(CBT)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "CBT Guidelines - American Psychological Association",
+            "url": "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

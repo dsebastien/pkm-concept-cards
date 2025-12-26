@@ -1,0 +1,24 @@
+{
+    "id": "personal-information-management",
+    "name": "Personal Information Management (PIM)",
+    "summary": "The practice of organizing and managing information within your personal sphere of life.",
+    "explanation": "Personal Information Management (PIM) encompasses the organization and management of all information relating to your personal life. Unlike PKM which focuses on knowledge, PIM deals with the broader spectrum of personal data. Key areas include: Intentions (life goals, vision, projects, milestones), Productivity (calendar, time blocking, tasks, processes), Control (planning, periodic reviews), Behaviors (routines, habits, rituals, practices), Information (ideas, knowledge, contacts, articles), and Files/Documents (photos, documents, emails, bookmarks, etc.). A well-designed PIM system creates a Personal Space of Information (PSI) containing various Personal Information Collections (PICs). PIM is foundational to PKM and helps manage the information overload of modern life by providing structure for both digital and analog personal data.",
+    "tags": ["information-management", "productivity", "organization", "personal-systems"],
+    "category": "Systems",
+    "icon": "FaDatabase",
+    "featured": false,
+    "aliases": ["PIM"],
+    "relatedConcepts": [
+        "pkm",
+        "information-management",
+        "gtd",
+        "para-method",
+        "personal-information-silos"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Information+Management+(PIM)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

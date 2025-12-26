@@ -1,0 +1,18 @@
+{
+    "id": "living-on-default",
+    "name": "Living on Default",
+    "summary": "The tendency to take the path of least resistance rather than actively choosing what aligns with your potential.",
+    "explanation": "Living on default describes the common pattern of defaulting to whatever is most convenient rather than actively choosing what we truly want or can achieve. We take what's available to us, not necessarily what we can actually get. We settle for the path of least resistance, opting for what's easy rather than what aligns with our desires or potential. This manifests in careers we fell into rather than chose, relationships of convenience, habits that formed unconsciously, and tools we use because they're there. The antidote is intentional living: regularly examining our defaults and asking whether they serve us. Personal Knowledge Management is partly a response to living on default - creating systems for intentional capture, organization, and use of information rather than letting it scatter randomly.",
+    "tags": ["personal-growth", "life-design", "decision-making", "intentionality"],
+    "category": "Concepts",
+    "icon": "FaRandom",
+    "featured": false,
+    "aliases": ["Default living", "Path of least resistance"],
+    "relatedConcepts": ["life-design", "decision-fatigue", "analysis-paralysis", "status-quo-bias"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Living+on+default"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

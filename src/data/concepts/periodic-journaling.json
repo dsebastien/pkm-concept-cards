@@ -1,0 +1,24 @@
+{
+    "id": "periodic-journaling",
+    "name": "Periodic Journaling",
+    "summary": "Regular, scheduled journaling practice at daily, weekly, or other intervals.",
+    "explanation": "Periodic Journaling is a form of journaling that happens on a regular schedule - typically daily, but can also be weekly, monthly, quarterly, or yearly. Unlike sporadic journaling when the mood strikes, periodic journaling creates a consistent practice that becomes a supporting system for productivity. It helps track work to be done and work completed, creates a reliable rhythm for reflection, and builds the habit through regularity. The key is finding a frequency that works for you and sticking to it. Many find that daily journaling provides the most benefit, but even weekly journaling is valuable.",
+    "tags": ["journaling", "habits", "productivity", "routines", "pkm"],
+    "category": "Techniques",
+    "icon": "FaCalendarAlt",
+    "featured": false,
+    "aliases": ["Regular Journaling", "Scheduled Journaling"],
+    "relatedConcepts": [
+        "journaling",
+        "daily-notes",
+        "periodic-reviews",
+        "interstitial-journaling",
+        "journal-elements"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Periodic+journaling"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

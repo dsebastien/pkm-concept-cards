@@ -1,0 +1,23 @@
+{
+    "id": "t-shaped-skills",
+    "name": "T-Shaped Skills",
+    "summary": "Having deep expertise in one area combined with broad knowledge across multiple fields.",
+    "explanation": "T-shaped skills describe a professional profile where someone has deep expertise in one specialty (the vertical bar of the T) combined with broad knowledge across multiple disciplines (the horizontal bar). This contrasts with I-shaped specialists who only have depth, or generalists who only have breadth. The T-shape enables professionals to excel in their core domain while effectively collaborating with experts from other fields, bridging communication gaps, and making unexpected connections. For knowledge workers, developing T-shaped skills means maintaining mastery in a primary area while continuously exploring adjacent fields. This approach creates career flexibility, enhances problem-solving through cross-pollination of ideas, and positions individuals as valuable connectors within organizations.",
+    "tags": ["learning", "career", "skills", "expertise", "personal-growth"],
+    "category": "Concepts",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["T Shape", "T-shaped knowledge", "T-shaped professional"],
+    "relatedConcepts": [
+        "polymath",
+        "cross-pollination-of-ideas",
+        "meta-learning",
+        "growth-mindset"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/T+Shape"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

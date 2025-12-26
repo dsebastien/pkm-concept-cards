@@ -1,0 +1,18 @@
+{
+    "id": "information-diseases",
+    "name": "Information Diseases",
+    "summary": "Pathologies that affect information systems causing data loss, inaccessibility, or degradation.",
+    "explanation": "Information diseases are pathologies that plague information systems and personal knowledge bases over time. These include: Bit rot (data degradation from storage decay), Link rot (broken hyperlinks as web resources disappear), Opaque formats (proprietary formats that become unreadable), WORN - Write Once Read Never (captured information that's never accessed again), and SaaS bankruptcy (losing access when cloud services shut down). Understanding these diseases is crucial for information preservation and PKM longevity. Mitigation strategies include using open formats, maintaining local backups, regularly auditing links, periodic reviews of captured content, and avoiding over-reliance on single cloud providers. The file-over-app philosophy addresses several of these concerns by prioritizing portable, open formats.",
+    "tags": ["information-management", "preservation", "pkm", "risks"],
+    "category": "Concepts",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": ["Information pathologies"],
+    "relatedConcepts": ["bit-rot", "link-rot", "worn", "file-over-app"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Information+diseases"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "sharpness-of-thinking",
+    "name": "Sharpness of Thinking",
+    "summary": "The ability to see concepts clearly, reason precisely, and connect ideas in novel ways.",
+    "explanation": "Sharpness of thinking is the ability to see concepts clearly without confusion, reason precisely about complex ideas, connect ideas in novel and accurate ways, distinguish signal from noise, ask penetrating questions, and understand underlying mechanisms rather than just surface conclusions. It's the opposite of vague, fuzzy thinking where you have only approximate understanding. Sharp thinking develops through deep engagement (spending time with ideas, not settling for surface understanding), active processing (writing to think, explaining in your own words, creating atomic notes), critical examination (questioning assumptions, seeking counterarguments), and sustained time investment. A good PKM system builds sharpness by atomizing concepts for precise thinking, forcing you to explain ideas in your own words, creating connections that reveal relationships, and enabling repeated engagement over time. Sharpness is a meta-skill that improves decision-making, argumentation, insight generation, and communication.",
+    "tags": ["thinking", "learning", "knowledge-work", "cognition", "pkm"],
+    "category": "Concepts",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Sharp thinking", "Mental clarity", "Precision of thought"],
+    "relatedConcepts": [
+        "critical-thinking",
+        "analytical-thinking",
+        "feynman-technique",
+        "atomic-notes",
+        "progressive-summarization",
+        "writing-is-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sharpness+of+Thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

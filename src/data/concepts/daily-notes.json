@@ -8,7 +8,14 @@
     "icon": "FaCalendarDay",
     "featured": false,
     "aliases": ["Day notes", "Journal entries"],
-    "relatedConcepts": ["capture-system", "journaling", "periodic-reviews", "templates"],
+    "relatedConcepts": [
+        "capture-system",
+        "journal-elements",
+        "journaling",
+        "periodic-journaling",
+        "periodic-reviews",
+        "templates"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/What+Are+Daily+Notes+Useful+For"
     ],

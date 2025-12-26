@@ -1,0 +1,25 @@
+{
+    "id": "benefits-of-journaling",
+    "name": "Benefits of Journaling",
+    "summary": "The many advantages of regular journaling for clarity, productivity, and personal growth.",
+    "explanation": "Journaling provides numerous benefits for personal organization and mental clarity. It addresses common problems like days blurring together, losing track of accomplishments, nagging thoughts that distract mid-task, and context switching fatigue. Beyond that, journaling creates a place where you can be fully honest with yourself, capture important life events and experiences, get everything out of your head (thoughts, ideas, projects, plans, tasks), organize your day, keep track of open loops, and track habits and progress. It helps you look at the past more objectively, feel more grateful, reduce noise and increase signal in your life, focus on what matters, and improves your writing skills - which matters because writing is thinking.",
+    "tags": ["journaling", "productivity", "personal-development", "mental-health", "habits"],
+    "category": "Concepts",
+    "icon": "FaClipboardList",
+    "featured": false,
+    "aliases": ["Why Journal", "Journaling Benefits"],
+    "relatedConcepts": [
+        "journaling",
+        "interstitial-journaling",
+        "morning-pages",
+        "daily-notes",
+        "open-loops",
+        "writing-is-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Benefits+of+journaling"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

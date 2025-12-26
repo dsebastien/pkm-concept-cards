@@ -1,0 +1,23 @@
+{
+    "id": "1-1-1-method",
+    "name": "1-1-1 Method",
+    "summary": "A simple evening journaling practice: 1 win, 1 challenge, 1 gratitude.",
+    "explanation": "The 1-1-1 Method is a simple daily journaling practice created by Sahil Bloom. Every evening, write down three things: 1 win for the day (something you accomplished or that went well), 1 challenge, problem, point of tension, stress, or anxiety (acknowledging difficulties), and 1 thing you're grateful for (cultivating gratitude). It's a simple 5-minute practice that provides an incredible return in the form of clarity and peace of mind. The simplicity makes it sustainable - unlike elaborate journaling systems that often get abandoned.",
+    "tags": ["journaling", "habits", "gratitude", "reflection", "productivity"],
+    "category": "Techniques",
+    "icon": "FaPenNib",
+    "featured": false,
+    "aliases": ["1-1-1 Journaling", "One-One-One Method"],
+    "relatedConcepts": [
+        "five-minute-journal",
+        "gratitude-journal",
+        "journaling",
+        "evening-routine"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/1-1-1+Method"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
