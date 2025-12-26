@@ -354,3 +354,66 @@ Ensure you're not focused on an input field when pressing `/`.
 ### Icons not displaying
 
 Check that the icon name is correctly spelled and added to the `iconMap` in `concept-icon.tsx`.
+
+## Related Notes URLs
+
+The `relatedNotes` field links concepts to the public notes website at `https://notes.dsebastien.net/`. **URLs must be verified against the actual file locations in the notes repository.**
+
+### Notes Repository Location
+
+The source notes are located at: `/home/dsebastien/notesSeb/`
+
+### URL Construction Rules
+
+1. **Base URL**: `https://notes.dsebastien.net/`
+2. **Path mapping**: The file path from the notes repository maps to the URL with:
+    - Spaces replaced with `+`
+    - The `.md` extension removed
+    - The path starting from `30 Areas/...`
+
+### Common Note Locations
+
+Notes can be in different folders depending on their type:
+
+| Folder                                         | Description                | Example Path                                               |
+| ---------------------------------------------- | -------------------------- | ---------------------------------------------------------- |
+| `32 Literature notes/32.02 Content/`           | Literature/reference notes | `32+Literature+notes/32.02+Content/Note+Name`              |
+| `32 Literature notes/32.04 Expressions/`       | Expressions and sayings    | `32+Literature+notes/32.04+Expressions/Expression+Name`    |
+| `32 Literature notes/32.05 Quotes/`            | Quotes                     | `32+Literature+notes/32.05+Quotes/Quote+Name`              |
+| `33 Permanent notes/33.02 Content/`            | Permanent/evergreen notes  | `33+Permanent+notes/33.02+Content/Note+Name`               |
+| `33 Permanent notes/33.04 Creations/Articles/` | Published articles         | `33+Permanent+notes/33.04+Creations/Articles/Article+Name` |
+
+### Verification Process
+
+**IMPORTANT**: Always verify the actual file path before adding a `relatedNotes` URL:
+
+```bash
+# Find a note by name
+find /home/dsebastien/notesSeb/30\ Areas -type f -name "*Note Name*" 2>/dev/null | grep -v ".smart-env"
+
+# Example: Finding "Billboard principle"
+find /home/dsebastien/notesSeb/30\ Areas -type f -name "*Billboard*" 2>/dev/null | grep -v ".smart-env"
+# Output: /home/dsebastien/notesSeb/30 Areas/32 Literature notes/32.02 Content/Billboard principle.md
+# URL: https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Billboard+principle
+```
+
+### When Note Doesn't Exist
+
+If a note cannot be found in the repository:
+
+- Set `relatedNotes` to an empty array: `"relatedNotes": []`
+- Do NOT guess or assume the path
+
+### Example Conversion
+
+File path:
+
+```
+/home/dsebastien/notesSeb/30 Areas/32 Literature notes/32.04 Expressions/Nemo propheta in patria.md
+```
+
+Becomes URL:
+
+```
+https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.04+Expressions/Nemo+propheta+in+patria
+```
