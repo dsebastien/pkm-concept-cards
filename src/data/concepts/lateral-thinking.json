@@ -1,0 +1,29 @@
+{
+    "id": "lateral-thinking",
+    "name": "Lateral Thinking",
+    "summary": "Problem-solving from indirect, creative angles rather than direct logical steps.",
+    "explanation": "Lateral Thinking, coined by Edward de Bono, is a problem-solving approach that seeks solutions through indirect, creative angles rather than direct, logical steps. While vertical thinking digs deeper in the same hole, lateral thinking digs new holes. Techniques include random entry (starting from random stimuli), provocation (deliberately absurd statements), and challenging assumptions. Lateral thinking complements analytical thinking and is essential for innovation and creative problem-solving.",
+    "tags": ["creativity", "methods", "problem-solving", "thinking"],
+    "category": "Thinking",
+    "icon": "FaArrowsAlt",
+    "featured": false,
+    "aliases": ["Creative thinking"],
+    "relatedConcepts": [
+        "brainstorming",
+        "divergent-thinking",
+        "first-principles",
+        "six-thinking-hats"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Lateral+thinking"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Lateral Thinking by Edward de Bono",
+            "url": "https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

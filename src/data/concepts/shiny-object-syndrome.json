@@ -1,0 +1,18 @@
+{
+    "id": "shiny-object-syndrome",
+    "name": "Shiny Object Syndrome",
+    "summary": "The tendency to chase new tools and methods instead of mastering current ones.",
+    "explanation": "Shiny Object Syndrome is the tendency to constantly chase new tools, methods, or systems instead of mastering and consistently using what you have. In PKM, it manifests as tool-hopping - endlessly switching between note-taking apps, always convinced the next tool will solve all problems. This prevents developing deep fluency with any system. The antidote is commitment: pick a good-enough tool and stick with it long enough to develop real proficiency before evaluating alternatives.",
+    "tags": ["habits", "pitfalls", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaGem",
+    "featured": false,
+    "aliases": ["Bright shiny object", "Tool hopping"],
+    "relatedConcepts": ["collectors-fallacy", "continuous-improvement", "tools-for-thought"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Shiny+object+syndrome"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

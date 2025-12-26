@@ -1,0 +1,18 @@
+{
+    "id": "brainstorming",
+    "name": "Brainstorming",
+    "summary": "A creative ideation technique generating many ideas by suspending judgment.",
+    "explanation": "Brainstorming is a creative technique for generating a large number of ideas by suspending judgment and encouraging free association. Key principles include: defer judgment (no criticism during ideation), encourage wild ideas, build on others' ideas, and go for quantity. The goal is to generate as many ideas as possible before evaluating them. Brainstorming can be individual or group-based. In PKM, brain dumps and freewriting are forms of solo brainstorming.",
+    "tags": ["creativity", "problem-solving", "techniques", "thinking"],
+    "category": "Techniques",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Ideation"],
+    "relatedConcepts": ["brain-dumps", "divergent-thinking", "mind-maps", "six-thinking-hats"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Brainstorming"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

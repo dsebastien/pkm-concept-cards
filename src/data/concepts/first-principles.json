@@ -1,0 +1,18 @@
+{
+    "id": "first-principles",
+    "name": "First Principles Thinking",
+    "summary": "Breaking down problems to fundamental truths and building up from there.",
+    "explanation": "First Principles thinking is a problem-solving approach that breaks down complex problems to their most fundamental truths, then builds up from there. Instead of reasoning by analogy (what others do), you identify the core elements and construct new solutions. This approach, famously used by Elon Musk, helps escape conventional thinking and find innovative solutions. By starting from first principles, creating atomic notes, and thinking in systems, you can combine ideas to form more complex ones.",
+    "tags": ["mental-models", "problem-solving", "techniques", "thinking"],
+    "category": "Thinking",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Fundamental thinking"],
+    "relatedConcepts": ["critical-thinking", "mental-models", "systems-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/First+principle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

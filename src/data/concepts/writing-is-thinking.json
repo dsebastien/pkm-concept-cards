@@ -1,0 +1,30 @@
+{
+    "id": "writing-is-thinking",
+    "name": "Writing Is Thinking",
+    "summary": "Writing clarifies thoughts - the act of writing is itself a form of thinking.",
+    "explanation": "The principle that 'Writing Is Thinking' recognizes that the best way to clarify our thoughts is to write them down. Writing isn't just recording pre-formed ideas - it's the process through which ideas become clear. This is why the Feynman technique advises writing down everything you know about a topic: it reveals gaps in understanding and knowledge, making them visible and tangible. As Horace Walpole said: 'I never understand anything until I have written about it.' Writing is not downstream of thinking - it IS thinking.",
+    "tags": ["learning", "pkm", "principles", "thinking", "writing"],
+    "category": "Principles",
+    "icon": "FaEdit",
+    "featured": true,
+    "aliases": ["Write to think", "Writing as thinking"],
+    "relatedConcepts": [
+        "feynman-technique",
+        "journaling",
+        "learning",
+        "note-making",
+        "permanent-notes"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Writing+is+thinking"
+    ],
+    "articles": [
+        {
+            "title": "On The Importance Of Writing",
+            "url": "https://www.dsebastien.net/on-the-importance-of-writing/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

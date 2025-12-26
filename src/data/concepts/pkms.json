@@ -1,0 +1,30 @@
+{
+    "id": "pkms",
+    "name": "PKM System",
+    "summary": "A complete personal knowledge management system combining tools, processes, and practices.",
+    "explanation": "A PKM System (PKMS) is a complete personal knowledge management system that combines tools, processes, and practices for managing personal information and knowledge. Elements include: capture mechanisms, organization structure, note types, linking practices, review processes, and output workflows. The right way to think about a PKM system is as an integral part of everything you do. It should be one you can actually trust with important memories, ideas, insights, information, knowledge, and wisdom.",
+    "tags": ["core-concept", "knowledge-management", "organization", "systems"],
+    "category": "Systems",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": ["PKM setup", "Personal Knowledge Management System"],
+    "relatedConcepts": ["obsidian", "pkm", "tools-for-thought", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Knowledge+Management+System+(PKMS)"
+    ],
+    "articles": [
+        {
+            "title": "The Complete Knowledge Management System Checklist",
+            "url": "https://www.dsebastien.net/the-complete-knowledge-management-system-checklist/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://obsidianstarterkit.com",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

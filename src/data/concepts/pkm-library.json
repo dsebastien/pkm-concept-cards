@@ -1,0 +1,35 @@
+{
+    "id": "pkm-library",
+    "name": "PKM Library",
+    "summary": "A curated collection of PKM resources, tools, communities, and experts.",
+    "explanation": "The Personal Knowledge Management Library (PKM Library) is a massive curated collection of PKM resources, tools, communities, experts, courses, books, videos, podcasts, and more. Created by Sébastien Dubois, it serves as a comprehensive reference for anyone building or improving their PKM practice. Includes a PKM Tools Database for comparing different note-taking applications.",
+    "tags": ["curation", "knowledge-management", "products", "resources"],
+    "category": "Products",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": ["Personal Knowledge Management Library"],
+    "relatedConcepts": ["learning", "pkm", "tools-for-thought"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Knowledge+Management+Library+(PKM+Library)"
+    ],
+    "articles": [
+        {
+            "title": "Introducing the Personal Knowledge Management Library",
+            "url": "https://www.dsebastien.net/2022-02-12-personal-knowledge-management-library/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Get the PKM Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Free PKM Tools Database",
+            "url": "https://www.dsebastien.net/free-pkm-tools-database",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

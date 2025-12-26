@@ -1,0 +1,24 @@
+{
+    "id": "fleeting-notes",
+    "name": "Fleeting Notes",
+    "summary": "Quick, temporary captures of thoughts and ideas for later processing.",
+    "explanation": "Fleeting notes are raw, unpolished notes where you temporarily store thoughts, ideas, facts, and questions when you don't have time to do more. They're like writing on the corner of a piece of paper - the quality doesn't matter much, only that you can understand what you meant later. Fleeting notes are transient by nature and you should avoid accumulating them. They need to be regularly reviewed (ideally daily) and either removed or turned into literature or permanent notes. The goal is to maintain Inbox Zero for fleeting notes to avoid feeling overwhelmed.",
+    "tags": ["capture", "note-taking", "techniques", "zettelkasten"],
+    "category": "Note Types",
+    "icon": "FaStickyNote",
+    "featured": false,
+    "aliases": ["Inbox notes", "Quick notes", "Scratch notes"],
+    "relatedConcepts": [
+        "capture-system",
+        "inbox-zero",
+        "literature-notes",
+        "permanent-notes",
+        "zettelkasten"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Fleeting+notes"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

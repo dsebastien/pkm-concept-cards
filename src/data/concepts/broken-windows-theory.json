@@ -1,0 +1,18 @@
+{
+    "id": "broken-windows-theory",
+    "name": "Broken Windows Theory",
+    "summary": "Small signs of disorder lead to more disorder if not addressed.",
+    "explanation": "Broken Windows Theory suggests that visible signs of disorder and neglect (like broken windows) encourage further disorder and more serious problems. In PKM, this means that a messy, disorganized knowledge base tends to become messier over time. Maintaining basic order and addressing small issues promptly prevents degradation. However, don't let perfectionism prevent you from using your system - some messiness is acceptable. Balance maintenance with actual use.",
+    "tags": ["maintenance", "organization", "principles", "psychology"],
+    "category": "Principles",
+    "icon": "FaWindowClose",
+    "featured": false,
+    "aliases": ["Broken windows"],
+    "relatedConcepts": ["boy-scout-rule", "continuous-improvement", "organization"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Broken+windows+theory"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

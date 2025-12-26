@@ -1,0 +1,18 @@
+{
+    "id": "pomodoro-technique",
+    "name": "Pomodoro Technique",
+    "summary": "A time management method using focused work intervals with breaks.",
+    "explanation": "The Pomodoro Technique, developed by Francesco Cirillo, is a time management method using 25-minute focused work intervals (pomodoros) separated by 5-minute breaks, with longer breaks after every four pomodoros. The technique helps maintain focus, prevent burnout, and make work more measurable. The timer creates urgency and commitment. Knowing a break is coming makes it easier to resist distractions. The technique is named after the tomato-shaped kitchen timer Cirillo used as a student.",
+    "tags": ["focus", "productivity", "techniques", "time-management"],
+    "category": "Productivity",
+    "icon": "FaStopwatch",
+    "featured": false,
+    "aliases": ["Pomodoro", "Tomato timer"],
+    "relatedConcepts": ["deep-work", "focus", "productivity", "time-blocking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pomodoro+technique"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

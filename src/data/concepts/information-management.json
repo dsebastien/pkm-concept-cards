@@ -1,0 +1,32 @@
+{
+    "id": "information-management",
+    "name": "Information Management",
+    "summary": "The systematic organization, storage, and retrieval of information.",
+    "explanation": "Information Management (IM) is the systematic collection, organization, storage, and retrieval of information. It's broader than PKM - encompassing all information handling, not just personal knowledge. Good IM means knowing where to store information, how to organize it, and how to find it when needed. It includes file systems, email management, digital assets, and documentation. IM provides the infrastructure that PKM builds upon. Without solid IM, PKM efforts are undermined by information chaos.",
+    "tags": [
+        "core-concept",
+        "fundamentals",
+        "information-management",
+        "organization",
+        "productivity",
+        "systems"
+    ],
+    "category": "Concepts",
+    "icon": "FaFolderOpen",
+    "featured": false,
+    "aliases": ["IM", "Information organization"],
+    "relatedConcepts": [
+        "file-framework",
+        "knowledge-management",
+        "lift-principle",
+        "organization",
+        "para-method",
+        "pkm"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Information+Management+(IM)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

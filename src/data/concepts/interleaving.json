@@ -1,0 +1,24 @@
+{
+    "id": "interleaving",
+    "name": "Interleaving",
+    "summary": "Mixing different topics or problem types during study sessions.",
+    "explanation": "Interleaving is the practice of mixing different topics, subjects, or problem types during study sessions rather than focusing on one thing at a time (blocking). While it feels harder in the moment, interleaving improves long-term learning and the ability to transfer knowledge to new situations. It forces your brain to continually retrieve different strategies, strengthening discrimination and flexible application of knowledge.",
+    "tags": ["education", "learning", "memory", "techniques"],
+    "category": "Techniques",
+    "icon": "FaRandom",
+    "featured": false,
+    "aliases": ["Interleaved practice", "Mixed practice"],
+    "relatedConcepts": ["active-recall", "learning", "spaced-repetition"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Interleaving+books"
+    ],
+    "articles": [
+        {
+            "title": "Interleaving Books",
+            "url": "https://www.dsebastien.net/interleaving-books-3/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

@@ -36,7 +36,10 @@ pkm-concept-cards/
             concept-icon.tsx
          ui/              # Reusable UI components
       data/
-         concepts.json    # Concepts data file
+         concepts/        # Individual concept JSON files
+            concept-id.json  # One file per concept (e.g., atomic-notes.json)
+         categories.json  # Categories list
+         index.ts         # Concept loader module
          resources.json   # Footer resources links
          socials.json     # Social media links
       types/
@@ -54,6 +57,7 @@ pkm-concept-cards/
           images/         # Static images
    scripts/
       generate-sitemap.ts # Sitemap generator
+      split-concepts.ts   # Utility to split concepts.json into individual files
    .github/
       workflows/          # CI/CD workflows
    package.json
@@ -61,9 +65,9 @@ pkm-concept-cards/
 
 ## Adding a New Concept
 
-To add a new concept to the website, edit `/src/data/concepts.json`:
+To add a new concept to the website, create a new JSON file in `/src/data/concepts/`:
 
-1. Add a new object to the `concepts` array with the following structure:
+1. Create a new file named `{concept-id}.json` (e.g., `my-new-concept.json`) with the following structure:
 
 ```json
 {
@@ -130,20 +134,16 @@ Each reference in `articles`, `references`, or `tutorials` has:
 - `url` - Link URL
 - `type` - One of: `book`, `paper`, `website`, `video`, `podcast`, `other`
 
-2. If the concept uses a new category, add it to the `categories` array:
+2. If the concept uses a new category, add it to `/src/data/categories.json`:
 
 ```json
-"categories": [
-    "All",
-    "Methods",
-    "Systems",
-    "Principles",
-    "Techniques",
-    "Tools",
-    "Frameworks",
-    "New Category"
-]
+["All", "Methods", "Systems", "Principles", "Techniques", "Tools", "Frameworks", "New Category"]
 ```
+
+**Important:** The filename (without `.json`) must match the `id` field in the concept. This ID is used for:
+
+- URL routing (e.g., `/#/concept/my-new-concept`)
+- Related concepts linking (via `relatedConcepts` field)
 
 ## Categories
 
@@ -210,12 +210,12 @@ If no `icon` is specified or the icon name is not found, the component falls bac
 
 ## Modifying Categories
 
-Categories are defined in `/src/data/concepts.json` in the `categories` array. The first category should always be "All" which shows all concepts.
+Categories are defined in `/src/data/categories.json`. The first category should always be "All" which shows all concepts.
 
 To add a new category:
 
-1. Add it to the `categories` array
-2. Assign concepts to it by setting their `category` field
+1. Add it to the `categories.json` array
+2. Assign concepts to it by setting their `category` field in their respective concept file
 3. Add a fallback emoji in `/src/components/concepts/concept-icon.tsx` (in the `categoryFallbacks` object)
 
 ## Styling
@@ -345,7 +345,7 @@ Tailwind CSS v4 uses JIT compilation. Try restarting the dev server.
 
 ### New concept not appearing
 
-Verify the JSON is valid and the concept has all required fields. Check browser console for errors.
+Verify the JSON file is valid and the concept has all required fields. Ensure the filename matches the `id` field. Check browser console for errors.
 
 ### Command palette not opening
 

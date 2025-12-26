@@ -1,0 +1,31 @@
+{
+    "id": "context-switching",
+    "name": "Context Switching",
+    "summary": "The mental cost of shifting attention between different tasks.",
+    "explanation": "Context Switching is the cognitive cost of shifting attention from one task or context to another. Each switch requires mental effort to disengage from the current context, recall the new context's state, and re-engage. Studies show significant productivity loss from frequent switching - some estimate 20-40% of productive time is lost to context switches. This is why deep work requires extended uninterrupted periods. PKM systems should support quick context restoration through notes that capture mental state and next steps.",
+    "tags": ["attention", "cognition", "focus", "problems", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": ["Attention switching", "Mental switching cost", "Task switching"],
+    "relatedConcepts": [
+        "cognitive-load",
+        "deep-work",
+        "flow",
+        "focus",
+        "mental-context",
+        "multitasking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Context+switching"
+    ],
+    "articles": [
+        {
+            "title": "Saving and restoring mental contexts to improve mental health and productivity",
+            "url": "https://www.dsebastien.net/2022-09-01-saving-and-restoring-mental-contexts-to-improve-mental-health-and-productivity/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "readwise",
+    "name": "Readwise",
+    "summary": "A service for capturing and reviewing highlights from various sources.",
+    "explanation": "Readwise is a service that aggregates highlights from various sources (Kindle, web articles, PDFs, podcasts) and helps you review them using spaced repetition. It can sync highlights to note-taking apps like Obsidian through the official Readwise plugin. This makes it an excellent content curation solution for capturing literature notes and building your knowledge base from what you read across different platforms.",
+    "tags": ["highlights", "productivity", "reading", "tools"],
+    "category": "Tools",
+    "icon": "FaHighlighter",
+    "featured": false,
+    "aliases": ["Readwise Reader"],
+    "relatedConcepts": ["literature-notes", "obsidian", "progressive-summarization"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Readwise"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Readwise Website",
+            "url": "https://readwise.io",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

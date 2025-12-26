@@ -1,0 +1,22 @@
+{
+    "id": "knowii-community",
+    "name": "Knowii Community",
+    "summary": "A knowledge management community for learning, growth, and connection.",
+    "explanation": "The Knowii Community is a comprehensive knowledge ecosystem for leaders, knowledge workers, solopreneurs, and content creators who want to break free from information overload. Benefits include structured learning paths, implementation resources, accountability systems, direct expert support, exclusive events and workshops, and premium content access. Membership tiers include Explorer (free), Knowledge Builder, and Knowledge Master with increasing benefits and access.",
+    "tags": ["community", "learning", "products", "support"],
+    "category": "Products",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": ["Knowii"],
+    "relatedConcepts": ["knowledge-management", "learning", "pkm"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Join the Knowii Community",
+            "url": "https://www.dsebastien.net/join-the-knowii-community-and-fix-your-information-overload-problem/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

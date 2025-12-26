@@ -1,0 +1,24 @@
+{
+    "id": "deep-work",
+    "name": "Deep Work",
+    "summary": "Focused, distraction-free work on cognitively demanding tasks.",
+    "explanation": "Deep Work, a concept popularized by Cal Newport, refers to focused, distraction-free work on cognitively demanding tasks that push your cognitive capabilities. It's the opposite of shallow work (logistical tasks, email, meetings). Deep work produces rare and valuable results and is increasingly important in the knowledge economy. Strategies include: time blocking, eliminating distractions, building deep work rituals, and embracing boredom. PKM supports deep work by externalizing information so you can focus on thinking rather than remembering.",
+    "tags": ["concepts", "focus", "productivity", "work"],
+    "category": "Productivity",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Focused work"],
+    "relatedConcepts": ["context-switching", "flow", "productivity", "time-blocking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Deep+work"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "top-of-mind-note",
+    "name": "Top of Mind Note",
+    "summary": "A note tracking current priorities, projects, and focus areas.",
+    "explanation": "A Top of Mind Note is a special note that tracks your current priorities, active projects, key questions, and focus areas. It serves as a dashboard showing what's most important right now and what deserves your attention. This note is reviewed and updated regularly, helping maintain clarity on priorities amid the noise of daily work. It's a practical implementation of keeping important things visible and not buried in your system.",
+    "tags": ["journaling", "organization", "productivity", "techniques"],
+    "category": "Techniques",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": ["Focus note", "Priority note"],
+    "relatedConcepts": ["daily-notes", "moc", "periodic-reviews"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Top+of+mind+note"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

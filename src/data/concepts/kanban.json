@@ -1,0 +1,18 @@
+{
+    "id": "kanban",
+    "name": "Kanban",
+    "summary": "A visual workflow management method using boards and cards.",
+    "explanation": "Kanban is a visual workflow management method that uses boards with columns representing stages (e.g., To Do, In Progress, Done) and cards representing tasks. Originally developed for manufacturing, it's now widely used for personal productivity and project management. Kanban provides visual clarity on work status, limits work in progress, and helps identify bottlenecks. Many PKM tools including Obsidian support Kanban boards for task and project management.",
+    "tags": ["methods", "productivity", "project-management", "visualization"],
+    "category": "Methods",
+    "icon": "FaColumns",
+    "featured": false,
+    "aliases": ["Kanban board"],
+    "relatedConcepts": ["gtd", "productivity", "project-management"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Kanban+plugin+for+Obsidian"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

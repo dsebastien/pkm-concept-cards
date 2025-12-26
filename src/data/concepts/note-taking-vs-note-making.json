@@ -1,0 +1,22 @@
+{
+    "id": "note-taking-vs-note-making",
+    "name": "Note-taking vs Note-making",
+    "summary": "The distinction between capturing external information and creating your own knowledge.",
+    "explanation": "Note-taking is about capturing information from the outside world - lectures, books, articles, conversations. Note-making is about expressing yourself - your thoughts, ideas, interpretations, and creations. Both are complementary and valuable. Note-taking is all about capturing information, while note-making is about expressing ourselves. When you are learning, note-taking helps capture what matters. When you are expressing yourself, note-making is the way. Understanding this distinction helps you approach each appropriately.",
+    "tags": ["concepts", "knowledge-management", "note-taking", "techniques"],
+    "category": "Concepts",
+    "icon": "FaPencilAlt",
+    "featured": false,
+    "aliases": ["Taking notes vs making notes"],
+    "relatedConcepts": ["literature-notes", "permanent-notes", "writing"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Tips to get started with note-taking",
+            "url": "https://www.dsebastien.net/tips-to-get-started-with-note-taking/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

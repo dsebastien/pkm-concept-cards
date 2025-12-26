@@ -1,0 +1,16 @@
+{
+    "id": "mental-models",
+    "name": "Mental Models",
+    "summary": "Frameworks for understanding how things work in the world.",
+    "explanation": "Mental models are frameworks, concepts, and worldviews that help you understand how things work and make better decisions. Examples include: Pareto Principle (80/20 rule), Inversion (thinking backwards), Occam's Razor (simpler explanations are better), and Circle of Competence. Learn and memorize first principles and mental models - they're the building blocks of clear thinking. Knowledge is emergent - it lies in the connections we make between ideas, which is why mental models are so useful to develop and acquire.",
+    "tags": ["decision-making", "frameworks", "learning", "thinking"],
+    "category": "Thinking",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Frameworks", "Thinking tools"],
+    "relatedConcepts": ["critical-thinking", "first-principles", "systems-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

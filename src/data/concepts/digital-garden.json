@@ -1,0 +1,30 @@
+{
+    "id": "digital-garden",
+    "name": "Digital Garden",
+    "summary": "An online space for cultivating and sharing evolving thoughts publicly.",
+    "explanation": "A Digital Garden is an online space at the intersection of a notebook and a blog, where gardeners share seeds of thoughts to be cultivated in public. Unlike traditional blogs with polished, final posts, digital gardens embrace the idea that notes are never final - you can always return to improve, enrich, or change them. Ideas are not set in stone, so notes shouldn't be either. This opposes the old model of fixed documents with final versions. Notes should be considered evergreen, growing and evolving over time.",
+    "tags": ["concepts", "knowledge-sharing", "pkm", "publishing", "sharing", "writing"],
+    "category": "Concepts",
+    "icon": "FaSeedling",
+    "featured": true,
+    "aliases": ["Knowledge garden", "Learning garden", "Public notes"],
+    "relatedConcepts": [
+        "connected-notes",
+        "evergreen-notes",
+        "learning-in-public",
+        "obsidian-publish",
+        "pkm"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Digital+garden"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "A Brief History of Digital Gardens by Maggie Appleton",
+            "url": "https://maggieappleton.com/garden-history/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

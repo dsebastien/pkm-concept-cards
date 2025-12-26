@@ -1,0 +1,24 @@
+{
+    "id": "permanent-notes",
+    "name": "Permanent Notes",
+    "summary": "Your own thoughts, ideas, and interpretations - the most valuable notes in your system.",
+    "explanation": "Permanent notes are the most important part of the Zettelkasten method. They represent your own thoughts, ideas, interpretations, and quotes - your own knowledge base. Permanent notes should be well-written, using full and clear sentences, easy to understand by your future self without additional context. They should be atomic (focused on one idea), 100% yours (even if inspired by others), and connected to other notes. Writing permanent notes means writing what you know, what you think, and what you care about. Over time, these interconnected permanent notes form your Web of Knowledge.",
+    "tags": ["knowledge-management", "note-taking", "writing", "zettelkasten"],
+    "category": "Note Types",
+    "icon": "FaGem",
+    "featured": false,
+    "aliases": ["Evergreen notes", "Main notes"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "evergreen-notes",
+        "fleeting-notes",
+        "literature-notes",
+        "zettelkasten"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Permanent+notes"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

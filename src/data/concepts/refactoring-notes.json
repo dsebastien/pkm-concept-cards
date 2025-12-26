@@ -1,0 +1,21 @@
+{
+    "id": "refactoring-notes",
+    "name": "Refactoring Notes",
+    "summary": "Restructuring and improving notes without changing their essential meaning.",
+    "explanation": "Refactoring Notes, borrowed from software development, is the practice of restructuring and improving notes without changing their essential meaning or content. This includes: splitting large notes into atomic ones, merging redundant notes, improving clarity, adding links, updating outdated information, and reorganizing structure. Like code refactoring, note refactoring improves maintainability and usefulness. The Boy Scout Rule encourages small refactorings during regular use.",
+    "tags": ["improvement", "knowledge-management", "maintenance", "techniques"],
+    "category": "Techniques",
+    "icon": "FaWrench",
+    "featured": false,
+    "aliases": ["Note improvement", "Note restructuring"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "boy-scout-rule",
+        "continuous-improvement",
+        "evergreen-notes"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "abcde-method",
+    "name": "ABCDE Method",
+    "summary": "A prioritization system categorizing tasks by importance and action type.",
+    "explanation": "The ABCDE method is a prioritization and task management system where tasks are categorized as: A, B, or C for high, medium, or low priority respectively; D for delegate; and E for eliminate. This simple framework helps quickly triage tasks and focus on what truly matters. By explicitly identifying tasks to delegate or eliminate, you reduce cognitive load and ensure important work gets done first.",
+    "tags": ["methods", "prioritization", "productivity", "task-management"],
+    "category": "Methods",
+    "icon": "FaListOl",
+    "featured": false,
+    "aliases": ["ABCDE prioritization"],
+    "relatedConcepts": ["eisenhower-matrix", "gtd", "moscow-method"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/ABCDE+method"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

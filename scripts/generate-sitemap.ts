@@ -4,7 +4,7 @@
  * Includes the homepage and all concept detail pages.
  */
 
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs'
+import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'fs'
 import { dirname, join } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -27,15 +27,11 @@ interface Concept {
     icon?: string
     featured: boolean
     aliases?: string[]
+    relatedConcepts?: string[]
     relatedNotes?: string[]
     articles?: Reference[]
     references?: Reference[]
     tutorials?: Reference[]
-}
-
-interface ConceptsData {
-    concepts: Concept[]
-    categories: string[]
 }
 
 interface SitemapUrl {
@@ -45,9 +41,13 @@ interface SitemapUrl {
     priority: string
 }
 
-// Read concepts data
-const conceptsJsonPath = join(__dirname, '../src/data/concepts.json')
-const conceptsData: ConceptsData = JSON.parse(readFileSync(conceptsJsonPath, 'utf-8'))
+// Load all concepts from individual files
+const conceptsDir = join(__dirname, '../src/data/concepts')
+const conceptFiles = readdirSync(conceptsDir).filter((f) => f.endsWith('.json'))
+const concepts: Concept[] = conceptFiles.map((file) => {
+    const filePath = join(conceptsDir, file)
+    return JSON.parse(readFileSync(filePath, 'utf-8'))
+})
 
 // Get current date in YYYY-MM-DD format
 const today = new Date().toISOString().split('T')[0]
@@ -65,7 +65,7 @@ function generateSitemap(): string {
     })
 
     // Add each concept page
-    for (const concept of conceptsData.concepts) {
+    for (const concept of concepts) {
         urls.push({
             loc: `${BASE_URL}/#/concept/${concept.id}`,
             lastmod: today,
@@ -108,8 +108,8 @@ function writeSitemap(): void {
     writeFileSync(sitemapPath, sitemap)
     console.log(`✓ Sitemap generated: ${sitemapPath}`)
     console.log(`  - Homepage: 1 URL`)
-    console.log(`  - Concepts: ${conceptsData.concepts.length} URLs`)
-    console.log(`  - Total: ${conceptsData.concepts.length + 1} URLs`)
+    console.log(`  - Concepts: ${concepts.length} URLs`)
+    console.log(`  - Total: ${concepts.length + 1} URLs`)
 }
 
 writeSitemap()

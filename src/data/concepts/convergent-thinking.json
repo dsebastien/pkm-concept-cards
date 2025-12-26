@@ -1,0 +1,23 @@
+{
+    "id": "convergent-thinking",
+    "name": "Convergent Thinking",
+    "summary": "Narrowing multiple possibilities to find the single best solution.",
+    "explanation": "Convergent Thinking is the cognitive process of narrowing down multiple possibilities to find the single best solution through logical evaluation and analysis. It's the 'focusing in' phase where you apply criteria, make judgments, and select from options generated during divergent thinking. Convergent thinking is analytical and systematic. Effective problem-solving requires balancing divergent exploration with convergent evaluation.",
+    "tags": ["analysis", "cognition", "problem-solving", "thinking"],
+    "category": "Thinking",
+    "icon": "FaCompressArrowsAlt",
+    "featured": false,
+    "aliases": ["Analytical selection"],
+    "relatedConcepts": [
+        "analytical-thinking",
+        "critical-thinking",
+        "decision-making",
+        "divergent-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Convergent+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

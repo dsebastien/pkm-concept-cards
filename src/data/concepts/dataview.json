@@ -1,0 +1,18 @@
+{
+    "id": "dataview",
+    "name": "Dataview",
+    "summary": "A query engine for treating Obsidian notes as a database.",
+    "explanation": "Dataview is an Obsidian plugin that allows you to query your notes as if they were a database. Using a query language, you can create dynamic views, lists, tables, and task trackers from note metadata. This transforms a static vault into a dynamic knowledge system. Use cases include: creating project dashboards, listing all notes with specific tags, tracking reading lists, and generating dynamic MOCs. Dataview makes notes searchable and actionable in powerful ways.",
+    "tags": ["obsidian", "plugins", "productivity", "tools"],
+    "category": "Tools",
+    "icon": "FaDatabase",
+    "featured": false,
+    "aliases": ["Dataview plugin"],
+    "relatedConcepts": ["metadata", "moc", "obsidian", "tagging"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Dataview+plugin+for+Obsidian"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

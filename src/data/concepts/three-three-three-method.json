@@ -1,0 +1,18 @@
+{
+    "id": "three-three-three-method",
+    "name": "3-3-3 Method",
+    "summary": "A daily structure: 3 hours on one project, 3 shorter tasks, 3 maintenance activities.",
+    "explanation": "The 3-3-3 Method is a daily productivity structure: spend 3 hours on your most important project (deep work), complete 3 shorter tasks (30 minutes or less each), and handle 3 maintenance activities (email, admin, etc.). This creates balanced days that advance significant work while handling necessary smaller tasks. The structure prevents both extremes - neither neglecting deep work for busywork nor ignoring essential maintenance while chasing big projects.",
+    "tags": ["focus", "methods", "productivity", "time-management"],
+    "category": "Methods",
+    "icon": "FaListOl",
+    "featured": false,
+    "aliases": ["3/3/3 method", "333 method"],
+    "relatedConcepts": ["deep-work", "most-important-task", "task-batching", "time-blocking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/3-3-3+Method"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

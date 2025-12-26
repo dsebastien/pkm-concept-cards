@@ -1,0 +1,24 @@
+{
+    "id": "fourth-place",
+    "name": "Fourth Place",
+    "summary": "A thinking space beyond home, work, and social environments.",
+    "explanation": "The Fourth Place concept extends Ray Oldenburg's 'Third Place' theory. While home is the first place, work the second, and social gathering spots the third, the fourth place is a dedicated thinking space. In the knowledge economy, this is often a personal knowledge system like Obsidian - a command center for thought where you can think deeply without the distractions of other environments. Your PKM system becomes your fourth place: a sanctuary for focused intellectual work.",
+    "tags": ["concepts", "philosophy", "pkm", "productivity", "thinking"],
+    "category": "Concepts",
+    "icon": "FaHome",
+    "featured": false,
+    "aliases": ["Knowledge headquarters", "Thinking space"],
+    "relatedConcepts": ["deep-work", "focus", "obsidian", "pkm", "tools-for-thought"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Fourth+place"
+    ],
+    "articles": [
+        {
+            "title": "You need a Fourth Place - A place to think",
+            "url": "https://www.dsebastien.net/you-need-a-fourth-place-a-place-to-think/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "meta-learning",
+    "name": "Meta-Learning",
+    "summary": "Learning how to learn - understanding and optimizing your learning process.",
+    "explanation": "Meta-Learning is the practice of learning how to learn - understanding your own learning process and optimizing it. It involves knowing which strategies work best for different types of material, recognizing when you're not understanding, and adjusting approaches accordingly. Meta-learning is the missing link in education that schools often don't teach. Developing meta-learning skills accelerates all other learning. PKM systems support meta-learning by making the learning process visible and reflectable.",
+    "tags": ["cognition", "education", "learning", "techniques"],
+    "category": "Techniques",
+    "icon": "FaGraduationCap",
+    "featured": false,
+    "aliases": ["Learning to learn"],
+    "relatedConcepts": ["active-recall", "learning", "metacognition", "spaced-repetition"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Meta+learning,+the+missing+link+in+education"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

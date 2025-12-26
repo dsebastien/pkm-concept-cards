@@ -1,0 +1,29 @@
+{
+    "id": "km-for-beginners",
+    "name": "Knowledge Management for Beginners",
+    "summary": "A comprehensive course covering PKM fundamentals, concepts, and implementation.",
+    "explanation": "Knowledge Management for Beginners is a comprehensive video course by Sébastien Dubois that teaches PKM fundamentals. Modules cover: the problems we face (information overload, cognitive load), knowledge management overview, getting started with tools, the PKM process, PKM concepts (atomic notes, Zettelkasten, PARA, etc.), recommendations, building your system, and going further with AI. Available at knowledge-management-for-beginners.com.",
+    "tags": ["courses", "knowledge-management", "learning", "products"],
+    "category": "Products",
+    "icon": "FaGraduationCap",
+    "featured": true,
+    "aliases": ["KM for Beginners", "PKM Course"],
+    "relatedConcepts": ["atomic-notes", "para-method", "pkm", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowledge+Management+for+Beginners+-+Course+Resources"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowledge Management for Beginners Website",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "website"
+        },
+        {
+            "title": "Get the Course",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

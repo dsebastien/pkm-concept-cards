@@ -1,0 +1,26 @@
+{
+    "id": "cognitive-load",
+    "name": "Cognitive Load",
+    "summary": "The mental effort required to process information or complete tasks.",
+    "explanation": "Cognitive Load refers to the amount of mental effort required to process information or complete tasks. Our working memory has limited capacity, and when cognitive load exceeds this capacity, learning and performance suffer. Three types exist: intrinsic (inherent complexity), extraneous (caused by poor design), and germane (productive effort for learning). PKM systems should minimize extraneous cognitive load through good organization, templates, and consistent patterns, freeing mental resources for actual thinking.",
+    "tags": ["cognition", "concepts", "learning", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Cognitive burden", "Mental load"],
+    "relatedConcepts": [
+        "brain-dumps",
+        "chunking",
+        "context-switching",
+        "decision-fatigue",
+        "mental-energy",
+        "pkm",
+        "working-memory"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Cognitive+load"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

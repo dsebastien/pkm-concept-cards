@@ -1,0 +1,18 @@
+{
+    "id": "evening-routine",
+    "name": "Evening Routine",
+    "summary": "A structured sequence of activities to end your day and prepare for tomorrow.",
+    "explanation": "An Evening Routine is a structured sequence of activities performed at the end of each day. Good evening routines promote quality rest and set up the next day for success. Common elements include: reviewing the day, capturing loose thoughts, planning tomorrow, unwinding activities, and sleep preparation. Evening routines help close open loops, process the day's experiences, and transition from work mode to rest mode, enabling better sleep and recovery.",
+    "tags": ["habits", "productivity", "routines", "wellbeing"],
+    "category": "Techniques",
+    "icon": "FaMoon",
+    "featured": false,
+    "aliases": ["End-of-day routine", "PM routine"],
+    "relatedConcepts": ["habits", "journaling", "morning-routine", "periodic-reviews"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Evening+Routine"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

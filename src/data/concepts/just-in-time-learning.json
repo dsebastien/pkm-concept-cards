@@ -1,0 +1,18 @@
+{
+    "id": "just-in-time-learning",
+    "name": "Just-in-Time Learning",
+    "summary": "Learning what you need precisely when you need it.",
+    "explanation": "Just-in-Time Learning is the practice of acquiring knowledge exactly when you need it rather than studying in advance 'just in case.' Instead of front-loading learning, you learn on demand as needs arise. This approach is efficient (no wasted learning), relevant (immediate application), and motivating (clear purpose). PKM systems support just-in-time learning by providing quick access to reference material when needed. The key is knowing where to find information, not memorizing everything.",
+    "tags": ["education", "learning", "productivity", "techniques"],
+    "category": "Techniques",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["JIT learning", "On-demand learning"],
+    "relatedConcepts": ["forgetting-curve", "learning", "pkm", "reference-notes"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Learning+just+in+time+vs+just+in+case"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

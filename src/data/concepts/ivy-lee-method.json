@@ -1,0 +1,18 @@
+{
+    "id": "ivy-lee-method",
+    "name": "Ivy Lee Method",
+    "summary": "A simple productivity method: list 6 tasks, rank by priority, complete in order.",
+    "explanation": "The Ivy Lee Method is a simple productivity technique from 1918. At the end of each day: write down six tasks for tomorrow, prioritize them in order of importance, and the next day work through them in order, not moving to the next until the current one is complete. Unfinished tasks move to tomorrow's list. The power is in its simplicity - forced prioritization, single-tasking, and carrying forward unfinished work. Sometimes the simplest methods are most effective.",
+    "tags": ["methods", "prioritization", "productivity", "simple"],
+    "category": "Methods",
+    "icon": "FaListOl",
+    "featured": false,
+    "aliases": ["Lee method", "Six tasks method"],
+    "relatedConcepts": ["gtd", "most-important-task", "time-blocking", "two-minute-rule"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Ivy+Lee's+advice+for+productivity"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "worn",
+    "name": "Write Once Read Never",
+    "summary": "Information that is captured but never accessed again.",
+    "explanation": "WORN (Write Once Read Never) describes information that is captured or written but never accessed or used again. It's an information pathology common in PKM: notes taken during meetings that are never reviewed, highlights in books that are never processed, bookmarks that are never revisited. WORN is wasteful because it consumes capture effort without providing value. Solutions include regular reviews to process captures, progressive summarization to surface key content, and honest assessment of what you'll actually use.",
+    "tags": ["information", "note-taking", "problems", "productivity"],
+    "category": "Concepts",
+    "icon": "FaFileExcel",
+    "featured": false,
+    "aliases": ["Write Once, Read Never"],
+    "relatedConcepts": [
+        "collectors-fallacy",
+        "periodic-reviews",
+        "processing-notes",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Write+Once+Read+Never+(WORN)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

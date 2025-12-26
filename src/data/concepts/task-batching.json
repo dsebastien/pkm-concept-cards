@@ -1,0 +1,16 @@
+{
+    "id": "task-batching",
+    "name": "Task Batching",
+    "summary": "Grouping similar tasks together to reduce context switching.",
+    "explanation": "Task Batching is the practice of grouping similar tasks together and completing them in dedicated time blocks. Instead of handling emails throughout the day, batch all email processing into specific times. Instead of making phone calls as they come up, designate a calling block. Batching reduces context switching costs, enables deeper focus, and improves efficiency. The mental setup required for a task type is done once rather than repeatedly.",
+    "tags": ["focus", "productivity", "techniques", "time-management"],
+    "category": "Techniques",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Batch processing", "Task grouping"],
+    "relatedConcepts": ["context-switching", "deep-work", "productivity", "time-blocking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

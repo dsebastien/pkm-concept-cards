@@ -1,0 +1,16 @@
+{
+    "id": "swot-analysis",
+    "name": "SWOT Analysis",
+    "summary": "Strategic framework analyzing Strengths, Weaknesses, Opportunities, and Threats.",
+    "explanation": "SWOT Analysis is a strategic planning framework that evaluates Strengths (internal positives), Weaknesses (internal negatives), Opportunities (external positives), and Threats (external negatives). It provides a structured way to assess situations, make decisions, and develop strategies. SWOT can be applied to personal planning, career decisions, project evaluation, and understanding competitive landscapes. It's a simple but powerful tool for systematic analysis.",
+    "tags": ["analysis", "frameworks", "planning", "strategy"],
+    "category": "Frameworks",
+    "icon": "FaThLarge",
+    "featured": false,
+    "aliases": ["SWOT"],
+    "relatedConcepts": ["analytical-thinking", "decision-making", "planning"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

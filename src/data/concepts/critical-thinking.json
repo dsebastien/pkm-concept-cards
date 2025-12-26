@@ -1,0 +1,23 @@
+{
+    "id": "critical-thinking",
+    "name": "Critical Thinking",
+    "summary": "Disciplined analysis and evaluation of information to form well-reasoned judgments.",
+    "explanation": "Critical Thinking is the disciplined process of analyzing, evaluating, and synthesizing information to form well-reasoned judgments. It involves questioning assumptions, recognizing biases and fallacies, considering alternative perspectives, and evaluating evidence quality. Critical thinking skills help separate reliable information from misinformation, make better decisions, and avoid cognitive traps. For PKM, critical thinking is essential when capturing and connecting information.",
+    "tags": ["analysis", "cognition", "education", "thinking"],
+    "category": "Thinking",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Critical analysis"],
+    "relatedConcepts": [
+        "analytical-thinking",
+        "confirmation-bias",
+        "first-principles",
+        "metacognition"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Critical+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

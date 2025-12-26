@@ -1,0 +1,23 @@
+{
+    "id": "design-thinking",
+    "name": "Design Thinking",
+    "summary": "A user-centered creative problem-solving approach.",
+    "explanation": "Design Thinking is a human-centered approach to innovation and problem-solving developed at Stanford's d.school. The process typically includes five phases: Empathize (understand the user), Define (frame the problem), Ideate (generate ideas), Prototype (create solutions), and Test (gather feedback). It emphasizes understanding user needs, challenging assumptions, redefining problems, and creating innovative solutions through iterative prototyping. Design thinking principles can be applied to designing PKM systems.",
+    "tags": ["creativity", "methods", "problem-solving", "thinking"],
+    "category": "Methods",
+    "icon": "FaPencilRuler",
+    "featured": false,
+    "aliases": ["Human-centered design"],
+    "relatedConcepts": [
+        "brainstorming",
+        "convergent-thinking",
+        "divergent-thinking",
+        "first-principles"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Design+Thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

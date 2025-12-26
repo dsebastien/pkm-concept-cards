@@ -1,0 +1,18 @@
+{
+    "id": "five-minute-journal",
+    "name": "5 Minute Journal",
+    "summary": "A quick daily reflection format for building journaling habits.",
+    "explanation": "The 5 Minute Journal is a structured, quick daily reflection format designed to build journaling habits with minimal time investment. It typically includes morning prompts (gratitude, daily goals, affirmations) and evening prompts (highlights, lessons learned). The simplicity and brevity make it accessible for beginners and sustainable long-term. It's an effective entry point into journaling practices.",
+    "tags": ["habits", "journaling", "productivity", "techniques"],
+    "category": "Journaling",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["Five Minute Journal"],
+    "relatedConcepts": ["daily-notes", "journaling", "morning-pages", "periodic-reviews"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/5+Minute+Journal"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

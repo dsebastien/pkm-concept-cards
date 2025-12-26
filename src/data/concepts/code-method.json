@@ -1,0 +1,21 @@
+{
+    "id": "code-method",
+    "name": "CODE Method",
+    "summary": "Capture, Organize, Distill, Express - a knowledge management workflow.",
+    "explanation": "The CODE Method from Tiago Forte's Building a Second Brain framework describes the four stages of personal knowledge management: Capture (save valuable information), Organize (store it for actionability), Distill (extract the essence), and Express (share and create from your knowledge). This workflow transforms passive consumption into active knowledge creation. Each stage has specific practices and the full cycle ensures knowledge doesn't just accumulate but becomes useful.",
+    "tags": ["knowledge-management", "methods", "productivity", "workflows"],
+    "category": "Methods",
+    "icon": "FaCode",
+    "featured": false,
+    "aliases": ["Capture Organize Distill Express"],
+    "relatedConcepts": [
+        "capture-system",
+        "knowledge-ingestion",
+        "progressive-summarization",
+        "second-brain"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

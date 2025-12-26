@@ -1,0 +1,24 @@
+{
+    "id": "paradox-of-choice",
+    "name": "Paradox of Choice",
+    "summary": "Having too many options leads to anxiety and decision paralysis.",
+    "explanation": "The Paradox of Choice describes how having too many options, rather than increasing satisfaction, often leads to anxiety, decision paralysis, and reduced satisfaction with whatever is chosen. More choices mean more opportunity cost awareness, more comparison, and more regret potential. In PKM, this manifests as overwhelm when facing too many tools, methods, or organizational structures. The antidote is deliberately limiting options and making irreversible choices that eliminate alternatives.",
+    "tags": ["concepts", "decision-making", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaRandom",
+    "featured": false,
+    "aliases": ["Choice overload", "Overchoice"],
+    "relatedConcepts": ["decision-fatigue", "kiss", "shiny-object-syndrome"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+Paradox+of+choice"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Paradox of Choice by Barry Schwartz",
+            "url": "https://www.amazon.com/Paradox-Choice-More-Less-Revised/dp/0062449923",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "anchoring-bias",
+    "name": "Anchoring Bias",
+    "summary": "Over-relying on the first piece of information encountered.",
+    "explanation": "Anchoring Bias is the tendency to rely too heavily on the first piece of information encountered (the 'anchor') when making decisions. Subsequent judgments are made by adjusting from the anchor, but adjustments are typically insufficient. Initial prices, first impressions, and early information disproportionately influence final conclusions. Awareness of anchoring helps in negotiations, research, and decision-making by prompting consideration of whether initial information is unduly influencing conclusions.",
+    "tags": ["biases", "cognition", "decision-making", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaAnchor",
+    "featured": false,
+    "aliases": ["Anchoring effect", "Focalism"],
+    "relatedConcepts": ["confirmation-bias", "critical-thinking", "decision-making"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Anchoring"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

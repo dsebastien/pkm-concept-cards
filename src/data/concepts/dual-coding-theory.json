@@ -1,0 +1,18 @@
+{
+    "id": "dual-coding-theory",
+    "name": "Dual Coding Theory",
+    "summary": "The theory that cognition processes verbal and visual information through separate systems.",
+    "explanation": "Dual Coding Theory explains how human cognition processes verbal and visual information through separate but interconnected systems. When information is encoded both verbally and visually, it creates stronger memory traces and improves recall. This is why visual thinking, mind maps, and combining text with images are powerful learning strategies. The theory supports using multiple modalities in note-taking and knowledge management.",
+    "tags": ["cognition", "learning", "psychology", "theory"],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Dual coding"],
+    "relatedConcepts": ["concept-maps", "learning", "mind-maps", "visual-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Dual+Coding+Theory"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

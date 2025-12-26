@@ -1,0 +1,18 @@
+{
+    "id": "cross-pollination-of-ideas",
+    "name": "Cross-Pollination of Ideas",
+    "summary": "Connecting ideas from different domains leads to new insights.",
+    "explanation": "Cross-pollination of ideas is the principle that ideas thrive when connected across different domains and fields. Connecting concepts from disparate areas leads to new insights, knowledge, and wisdom. Innovation often happens at the intersection of disciplines. This principle argues against siloing knowledge by category or domain. Creating atomic notes and avoiding isolation of ideas facilitates cross-pollination. Your best insights may come from unexpected connections between unrelated areas.",
+    "tags": ["connections", "creativity", "innovation", "thinking"],
+    "category": "Concepts",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": ["Idea cross-pollination", "Interdisciplinary thinking"],
+    "relatedConcepts": ["atomic-notes", "connected-notes", "lateral-thinking", "serendipity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Cross-pollination+of+ideas"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

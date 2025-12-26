@@ -1,0 +1,18 @@
+{
+    "id": "pre-commitment",
+    "name": "Pre-Commitment",
+    "summary": "Making decisions in advance to avoid using willpower in the moment.",
+    "explanation": "Pre-commitment is a strategy to avoid using decision-making power and willpower needlessly. Pre-commitments help move toward goals by removing barriers to starting activities. Instead of relying on in-the-moment willpower, pre-commitments adapt or take advantage of the environment to make decision-making effortless, effectively making it easy to do hard things. Examples include scheduling workouts in advance, removing temptations from your environment, or using commitment devices like website blockers.",
+    "tags": ["decision-making", "habits", "productivity", "psychology"],
+    "category": "Techniques",
+    "icon": "FaLock",
+    "featured": false,
+    "aliases": ["Commitment device", "Pre-commitment device"],
+    "relatedConcepts": ["decision-fatigue", "forcing-function", "habits", "willpower"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pre-commitment"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "chunking",
+    "name": "Chunking",
+    "summary": "Grouping information into meaningful units to enhance memory and comprehension.",
+    "explanation": "Chunking is the cognitive process of grouping individual pieces of information into larger, meaningful units (chunks) to enhance memory and comprehension. Phone numbers are chunked into groups of digits; complex skills are chunked into component sub-skills. In PKM, chunking helps organize information - grouping related notes, creating hierarchies, and building conceptual frameworks. Atomic notes can be chunked together through links and MoCs to form larger understanding.",
+    "tags": ["cognition", "learning", "memory", "organization"],
+    "category": "Techniques",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Information chunking"],
+    "relatedConcepts": ["atomic-notes", "cognitive-load", "moc", "organization"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Chunking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

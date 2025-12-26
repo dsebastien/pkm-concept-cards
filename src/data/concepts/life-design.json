@@ -1,0 +1,30 @@
+{
+    "id": "life-design",
+    "name": "Life Design",
+    "summary": "Applying design thinking principles to intentionally create your ideal life.",
+    "explanation": "Life Design applies design thinking principles to the challenge of creating a meaningful, fulfilling life. Rather than letting life happen to you, you actively prototype, iterate, and design your path. Key practices include: defining what 'a well-lived life' means to you, generating multiple possible futures, prototyping through small experiments, and iterating based on what you learn. Life Design treats life as a design problem to be solved creatively, not a problem to be optimized.",
+    "tags": ["clarity", "design-thinking", "personal-growth", "planning"],
+    "category": "Clarity",
+    "icon": "FaDraftingCompass",
+    "featured": true,
+    "aliases": ["Designing your life"],
+    "relatedConcepts": [
+        "design-thinking",
+        "goal-setting",
+        "ikigai",
+        "lifeos",
+        "personal-manifesto"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Life+Design"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Designing Your Life by Bill Burnett & Dave Evans",
+            "url": "https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

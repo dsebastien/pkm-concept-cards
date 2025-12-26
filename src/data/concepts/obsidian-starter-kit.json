@@ -1,0 +1,35 @@
+{
+    "id": "obsidian-starter-kit",
+    "name": "Obsidian Starter Kit",
+    "summary": "A comprehensive Obsidian vault template with systems, templates, and best practices.",
+    "explanation": "The Obsidian Starter Kit (OSK) is a comprehensive Obsidian vault template created by Sébastien Dubois that includes pre-configured systems, templates, folder structure, and documentation for building an effective PKM system. It incorporates best practices from Zettelkasten, PARA, Johnny Decimal, and other methodologies. Systems include: Journaling, Zettelkasten, Learning, Content Curation, Maps, People, Meeting Notes, Health, and more. Available at obsidianstarterkit.com.",
+    "tags": ["obsidian", "products", "systems", "templates"],
+    "category": "Products",
+    "icon": "FaRocket",
+    "featured": true,
+    "aliases": ["OSK"],
+    "relatedConcepts": ["obsidian", "para-method", "pkms", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.04+Creations/Products/Obsidian+Starter+Kit/Obsidian+Starter+Kit"
+    ],
+    "articles": [
+        {
+            "title": "Introducing the Obsidian Starter Kit",
+            "url": "https://www.dsebastien.net/2022-04-12-obsidian-starter-kit/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit Website",
+            "url": "https://obsidianstarterkit.com",
+            "type": "website"
+        },
+        {
+            "title": "Get the Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "obsidian-canvas",
+    "name": "Obsidian Canvas",
+    "summary": "An infinite visual workspace for spatial thinking and idea arrangement.",
+    "explanation": "Obsidian Canvas is an infinite visual workspace in Obsidian for spatial thinking, idea arrangement, and visual connection of notes. It allows you to place notes, images, PDFs, and other content on a 2D canvas and draw connections between them. Canvas supports visual thinking, brainstorming, project planning, and exploring relationships between ideas spatially. It bridges traditional note-taking with visual/spatial thinking approaches like mind mapping.",
+    "tags": ["obsidian", "thinking", "tools", "visualization"],
+    "category": "Tools",
+    "icon": "FaPalette",
+    "featured": false,
+    "aliases": ["Canvas", "Visual workspace"],
+    "relatedConcepts": ["concept-maps", "mind-maps", "obsidian", "visual-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Obsidian+Canvas"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

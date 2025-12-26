@@ -1,0 +1,18 @@
+{
+    "id": "time-blocking",
+    "name": "Time Blocking",
+    "summary": "Scheduling specific blocks of time for different tasks or activities.",
+    "explanation": "Time blocking is a time management method where you divide your day into blocks of time, each dedicated to a specific task or type of work. Instead of working from a to-do list and switching as needed, you assign tasks to specific time slots. Benefits include: reduced context switching, clearer priorities, better focus, and more realistic planning. Variations include day theming (dedicating entire days to types of work) and task batching (grouping similar tasks together).",
+    "tags": ["planning", "productivity", "techniques", "time-management"],
+    "category": "Productivity",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["Calendar blocking", "Time boxing"],
+    "relatedConcepts": ["context-switching", "deep-work", "pomodoro-technique", "productivity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+blocking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

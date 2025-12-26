@@ -1,0 +1,18 @@
+{
+    "id": "extrinsic-motivation",
+    "name": "Extrinsic Motivation",
+    "summary": "Motivation driven by external factors like rewards, pressure, and consequences.",
+    "explanation": "Extrinsic motivation is driven by external factors such as rewards, recognition, deadlines, or avoiding negative consequences. While useful for some tasks, over-reliance on extrinsic motivation can undermine intrinsic interest and creativity. Understanding the balance between intrinsic and extrinsic motivation helps design effective personal systems. For PKM, building habits that eventually become intrinsically rewarding leads to sustainable practice.",
+    "tags": ["concepts", "motivation", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaMedal",
+    "featured": false,
+    "aliases": ["External motivation"],
+    "relatedConcepts": ["habits", "intrinsic-motivation", "productivity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Extrinsic+motivation"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

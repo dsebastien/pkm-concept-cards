@@ -1,0 +1,34 @@
+{
+    "id": "literature-notes",
+    "name": "Literature Notes",
+    "summary": "Notes capturing ideas from external sources like books, articles, and videos.",
+    "explanation": "Literature notes are where you store notes about everything that inspires you - verbatim quotes, information about people, interesting tweets, book notes, fascinating articles, etc. They represent your inspiration, not your own content. Taking literature notes requires more time and effort than fleeting notes because they're here to stay. The goal is to capture the essence of what inspires you, ideally in your own words, representing your own interpretation. Build the habit of capturing what you find interesting, but be mindful of the Collector's Fallacy.",
+    "tags": ["capture", "note-taking", "reading", "zettelkasten"],
+    "category": "Note Types",
+    "icon": "FaBookOpen",
+    "featured": false,
+    "aliases": ["Reference notes", "Source notes"],
+    "relatedConcepts": [
+        "fleeting-notes",
+        "permanent-notes",
+        "progressive-summarization",
+        "zettelkasten"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Literature+notes"
+    ],
+    "articles": [
+        {
+            "title": "How to capture book notes and turn those into smart notes",
+            "url": "https://www.dsebastien.net/2022-02-17-how-to-capture-book-notes-and-create-smart-notes/",
+            "type": "website"
+        },
+        {
+            "title": "Why you should take notes while reading non-fiction books",
+            "url": "https://www.dsebastien.net/2022-02-08-why-you-should-take-notes-while-reading",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "intrinsic-motivation",
+    "name": "Intrinsic Motivation",
+    "summary": "Internal drive from enjoyment and satisfaction rather than external rewards.",
+    "explanation": "Intrinsic motivation is the internal drive that comes from enjoyment, curiosity, satisfaction, and personal engagement rather than external rewards like money or recognition. Activities driven by intrinsic motivation are sustainable and fulfilling. For PKM to be effective long-term, it should tap into intrinsic motivation - genuine curiosity, the joy of learning, and the satisfaction of creating connections. Understanding your intrinsic motivators helps design systems you'll actually use.",
+    "tags": ["concepts", "motivation", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": ["Internal motivation"],
+    "relatedConcepts": ["deep-work", "extrinsic-motivation", "flow"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Intrinsic+motivation"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "kaizen",
+    "name": "Kaizen",
+    "summary": "The Japanese philosophy of continuous incremental improvement.",
+    "explanation": "Kaizen is the Japanese philosophy of continuous improvement through small, incremental changes. Rather than seeking dramatic transformations, kaizen focuses on making things slightly better every day. The improvements compound over time. In PKM, kaizen means regularly refining your system - improving a template, adding useful tags, cleaning up outdated notes. The Boy Scout Rule embodies kaizen: leave things better than you found them. Sustainable progress beats sporadic overhauls.",
+    "tags": ["improvement", "philosophy", "principles", "productivity"],
+    "category": "Principles",
+    "icon": "FaArrowUp",
+    "featured": false,
+    "aliases": ["Continuous improvement", "Incremental improvement"],
+    "relatedConcepts": [
+        "boy-scout-rule",
+        "compound-growth",
+        "continuous-improvement",
+        "periodic-reviews"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Kaizen"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

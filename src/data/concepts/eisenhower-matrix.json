@@ -1,0 +1,26 @@
+{
+    "id": "eisenhower-matrix",
+    "name": "Eisenhower Matrix",
+    "summary": "A prioritization framework using urgency and importance to categorize tasks.",
+    "explanation": "The Eisenhower Matrix (also called Urgent-Important Matrix) is a prioritization framework that categorizes tasks along two dimensions: urgency and importance. This creates four quadrants: Q1 (Urgent & Important) - do immediately; Q2 (Not Urgent & Important) - schedule time for; Q3 (Urgent & Not Important) - delegate if possible; Q4 (Not Urgent & Not Important) - eliminate. The key insight is spending more time in Q2 (strategic, important work) reduces time spent in Q1 (crisis mode).",
+    "tags": ["decision-making", "frameworks", "prioritization", "productivity"],
+    "category": "Frameworks",
+    "icon": "FaThLarge",
+    "featured": true,
+    "aliases": ["Eisenhower Box", "Priority matrix", "Urgent-Important Matrix"],
+    "relatedConcepts": [
+        "decision-making",
+        "gtd",
+        "moscow-method",
+        "pareto-principle",
+        "prioritization",
+        "productivity",
+        "time-blocking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Eisenhower+Matrix"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

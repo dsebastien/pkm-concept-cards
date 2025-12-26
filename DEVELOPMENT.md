@@ -91,7 +91,10 @@ pkm-concept-cards/
 │   │   ├── concepts/       # Concept-specific components
 │   │   └── ui/             # Reusable UI components
 │   ├── data/
-│   │   ├── concepts.json   # PKM concepts data
+│   │   ├── concepts/       # Individual concept JSON files
+│   │   │   └── *.json      # One file per concept (e.g., atomic-notes.json)
+│   │   ├── categories.json # Categories list
+│   │   ├── index.ts        # Concept loader module
 │   │   ├── resources.json  # Footer resource links
 │   │   └── socials.json    # Social media links
 │   ├── types/
@@ -107,7 +110,8 @@ pkm-concept-cards/
 ├── public/
 │   └── assets/             # Static assets (images, icons)
 ├── scripts/
-│   └── generate-sitemap.ts # Sitemap generation script
+│   ├── generate-sitemap.ts # Sitemap generation script
+│   └── split-concepts.ts   # Utility to split concepts into files
 ├── dist/                   # Production build output
 └── .github/
     └── workflows/          # CI/CD workflows
@@ -117,8 +121,8 @@ pkm-concept-cards/
 
 ### Adding a New Concept
 
-1. Open `/src/data/concepts.json`
-2. Add a new object to the `concepts` array:
+1. Create a new file in `/src/data/concepts/` named `{concept-id}.json`
+2. Add the concept object:
 
 ```json
 {
@@ -131,6 +135,7 @@ pkm-concept-cards/
     "featured": false,
     "icon": "FaBrain",
     "aliases": ["Alternative Name"],
+    "relatedConcepts": ["other-concept-id"],
     "references": [
         {
             "title": "Reference Title",
@@ -141,12 +146,14 @@ pkm-concept-cards/
 }
 ```
 
+**Important:** The filename (without `.json`) must match the `id` field.
+
 3. Run `npm run build` to verify the JSON is valid
 4. Test with `npm run dev`
 
 ### Adding a New Category
 
-1. Add the category to the `categories` array in `/src/data/concepts.json`
+1. Add the category to `/src/data/categories.json`
 2. Add a fallback emoji in `/src/components/concepts/concept-icon.tsx` (in `categoryFallbacks`)
 
 ### Adding New Icons
@@ -201,7 +208,7 @@ The deployment process (defined in `.github/workflows/deploy.yml`):
 
 - Run `npm run tsc` for detailed TypeScript errors
 - Run `npm run lint` for linting issues
-- Ensure `concepts.json` is valid JSON
+- Ensure all concept JSON files are valid JSON
 
 ### Styles Not Updating
 

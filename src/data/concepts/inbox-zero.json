@@ -1,0 +1,25 @@
+{
+    "id": "inbox-zero",
+    "name": "Inbox Zero",
+    "summary": "Keeping inboxes empty by processing items to appropriate destinations.",
+    "explanation": "Inbox Zero is the practice of regularly processing inboxes to empty (or near-empty). The key insight is that inboxes are for receiving, not storing. Each item should be processed to a destination: deleted, delegated, done immediately (if quick), deferred (with a reminder), or filed. The goal isn't zero emails but zero unprocessed items. This principle applies beyond email to any inbox: notes inbox, task inbox, physical inbox. Unprocessed inboxes create stress and hide important items.",
+    "tags": ["email", "organization", "principles", "productivity"],
+    "category": "Principles",
+    "icon": "FaInbox",
+    "featured": false,
+    "aliases": ["Empty inbox", "Inbox management", "Zero Inbox"],
+    "relatedConcepts": [
+        "capture-system",
+        "fleeting-notes",
+        "gtd",
+        "open-loops",
+        "processing",
+        "processing-notes"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Inbox+Zero+principle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

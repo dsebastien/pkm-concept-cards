@@ -1,0 +1,18 @@
+{
+    "id": "morning-routine",
+    "name": "Morning Routine",
+    "summary": "A structured sequence of activities to start your day intentionally.",
+    "explanation": "A Morning Routine is a structured sequence of activities performed at the start of each day. Good morning routines set the tone for productive, intentional days. Common elements include: exercise, meditation, journaling, planning, and learning. The key is consistency - doing the same things in the same order reduces decision fatigue and creates momentum. Morning routines leverage willpower when it's highest and establish patterns that carry through the day.",
+    "tags": ["habits", "productivity", "routines", "wellbeing"],
+    "category": "Techniques",
+    "icon": "FaSun",
+    "featured": false,
+    "aliases": ["AM routine", "Start-of-day routine"],
+    "relatedConcepts": ["evening-routine", "habits", "journaling", "time-blocking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Morning+Routine"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

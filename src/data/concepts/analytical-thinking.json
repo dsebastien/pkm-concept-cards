@@ -1,0 +1,23 @@
+{
+    "id": "analytical-thinking",
+    "name": "Analytical Thinking",
+    "summary": "Systematic process of breaking down complex problems into components.",
+    "explanation": "Analytical Thinking is a systematic process of breaking down complex problems into smaller, manageable components, examining relationships between parts, and drawing logical conclusions. It involves gathering data, identifying patterns, evaluating evidence, and constructing reasoned arguments. Analytical thinking is essential for understanding complex systems, troubleshooting problems, and making informed decisions. It complements creative thinking in a complete problem-solving toolkit.",
+    "tags": ["analysis", "cognition", "problem-solving", "thinking"],
+    "category": "Thinking",
+    "icon": "FaChartBar",
+    "featured": false,
+    "aliases": ["Logical analysis"],
+    "relatedConcepts": [
+        "convergent-thinking",
+        "critical-thinking",
+        "first-principles",
+        "systems-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Analytical+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

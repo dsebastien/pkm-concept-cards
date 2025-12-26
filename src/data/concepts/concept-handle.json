@@ -1,0 +1,18 @@
+{
+    "id": "concept-handle",
+    "name": "Concept Handle",
+    "summary": "A memorable phrase describing a complex or abstract idea.",
+    "explanation": "A Concept Handle is a memorable phrase or term that describes a complex and/or abstract idea, making it easier to think about and communicate. Concept handles help amplify vague ideas by creating valuable mental models. Examples include 'Overton window,' 'Prisoner's dilemma,' and 'Lindy effect.' Good concept handles make complex ideas portable and memorable. Creating your own concept handles for insights you develop helps crystallize and share your thinking.",
+    "tags": ["communication", "concepts", "mental-models", "thinking"],
+    "category": "Concepts",
+    "icon": "FaTag",
+    "featured": false,
+    "aliases": ["Idea label", "Mental handle"],
+    "relatedConcepts": ["atomic-notes", "first-principles", "mental-models"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Concept+Handle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

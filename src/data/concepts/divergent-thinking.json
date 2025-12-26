@@ -1,0 +1,23 @@
+{
+    "id": "divergent-thinking",
+    "name": "Divergent Thinking",
+    "summary": "Generating multiple possible solutions by exploring many different directions.",
+    "explanation": "Divergent Thinking is the cognitive process of generating multiple possible solutions or ideas by exploring many different directions and possibilities. It's the 'thinking outside the box' phase where quantity matters more than quality, and judgment is suspended. Divergent thinking is essential for creativity and innovation. It's typically followed by convergent thinking to evaluate and select the best ideas. Both modes are necessary for effective problem-solving.",
+    "tags": ["cognition", "creativity", "problem-solving", "thinking"],
+    "category": "Thinking",
+    "icon": "FaExpandArrowsAlt",
+    "featured": false,
+    "aliases": ["Creative exploration"],
+    "relatedConcepts": [
+        "brainstorming",
+        "convergent-thinking",
+        "lateral-thinking",
+        "six-thinking-hats"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Divergent+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,23 @@
+{
+    "id": "processing-notes",
+    "name": "Processing Notes",
+    "summary": "The workflow of transforming raw captures into organized, connected knowledge.",
+    "explanation": "Processing Notes refers to the workflow of transforming raw captures (fleeting notes, highlights, quick thoughts) into organized, connected knowledge (literature notes, permanent notes). This is where the real work of PKM happens - not just capturing but actively working with information. Processing includes: reviewing captures, extracting key ideas, writing in your own words, creating connections, and filing appropriately. Regular processing prevents backlogs and ensures captures become usable knowledge.",
+    "tags": ["knowledge-management", "processes", "techniques", "workflows"],
+    "category": "Processes",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["Note processing", "Processing workflow"],
+    "relatedConcepts": [
+        "fleeting-notes",
+        "inbox-zero",
+        "permanent-notes",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Processing+by+elimination"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

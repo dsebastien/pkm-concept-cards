@@ -1,0 +1,24 @@
+{
+    "id": "mental-context",
+    "name": "Mental Context",
+    "summary": "The cognitive state and loaded information needed for a specific task.",
+    "explanation": "Mental Context refers to the cognitive state, loaded information, and mental setup required to work effectively on a specific task or project. Loading a mental context takes time as you recall relevant information, understand current state, and get into the right mindset. Context switching destroys this loaded context. PKM helps preserve mental context through documentation - capturing the current state, next steps, and relevant information so it can be quickly restored after interruptions.",
+    "tags": ["cognition", "concepts", "focus", "productivity"],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Cognitive context", "Working context"],
+    "relatedConcepts": ["cognitive-load", "context-switching", "deep-work", "flow"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Mental+context"
+    ],
+    "articles": [
+        {
+            "title": "Saving and restoring mental contexts to improve mental health and productivity",
+            "url": "https://www.dsebastien.net/2022-09-01-saving-and-restoring-mental-contexts-to-improve-mental-health-and-productivity/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

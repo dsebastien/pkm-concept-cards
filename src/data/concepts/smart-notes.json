@@ -1,0 +1,30 @@
+{
+    "id": "smart-notes",
+    "name": "Smart Notes",
+    "summary": "Notes designed for reuse, connection, and long-term value.",
+    "explanation": "Smart notes are notes designed to be reusable, well-connected, and provide long-term value - as opposed to 'dumb notes' that are written once and never revisited. Smart notes are building blocks - created once, used forever. They follow principles like atomicity, clear writing, proper linking, and standalone comprehensibility. Reusing previous notes and connecting those with other ones is a key aspect of creating smart notes. The concept is central to the How to Take Smart Notes methodology by Sönke Ahrens.",
+    "tags": ["concepts", "knowledge-management", "methods", "note-taking"],
+    "category": "Concepts",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Intelligent notes"],
+    "relatedConcepts": ["atomic-notes", "connected-notes", "permanent-notes", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Smart+notes"
+    ],
+    "articles": [
+        {
+            "title": "How to capture book notes and turn those into smart notes",
+            "url": "https://www.dsebastien.net/2022-02-17-how-to-capture-book-notes-and-create-smart-notes/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "How to Take Smart Notes",
+            "url": "https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

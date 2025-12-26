@@ -1,0 +1,18 @@
+{
+    "id": "dry-principle",
+    "name": "Don't Repeat Yourself (DRY)",
+    "summary": "The principle of avoiding information duplication.",
+    "explanation": "Don't Repeat Yourself (DRY) is a principle aimed at reducing repetition of information. In knowledge management, it means avoiding duplicating information across multiple notes or locations. However, DRY is a guideline, not an absolute rule - repeating yourself in a knowledge base is sometimes okay. There are different ways to present the same ideas, different points of view to explore, many layers of reality and shades of gray. The key is being intentional about duplication rather than letting it happen accidentally.",
+    "tags": ["best-practices", "organization", "principles"],
+    "category": "Principles",
+    "icon": "FaCopy",
+    "featured": false,
+    "aliases": ["DRY"],
+    "relatedConcepts": ["lift-principle", "organization", "ssot"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Don't+Repeat+Yourself+(DRY)+principle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "habit-stacking",
+    "name": "Habit Stacking",
+    "summary": "Linking new habits to existing ones to leverage established neural pathways.",
+    "explanation": "Habit Stacking, popularized by James Clear in Atomic Habits, is the practice of linking a new habit to an existing one to leverage established neural pathways and create natural triggers. The formula is: 'After I [CURRENT HABIT], I will [NEW HABIT].' By attaching new behaviors to existing routines, you reduce the friction of habit formation. This technique is particularly useful for integrating PKM practices into daily life.",
+    "tags": ["habits", "productivity", "psychology", "techniques"],
+    "category": "Techniques",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Habit chaining"],
+    "relatedConcepts": ["daily-notes", "journaling", "productivity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Habit+Stacking"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Atomic Habits by James Clear",
+            "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

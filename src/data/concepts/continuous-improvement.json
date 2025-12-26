@@ -1,0 +1,18 @@
+{
+    "id": "continuous-improvement",
+    "name": "Continuous Improvement",
+    "summary": "Ongoing, incremental improvement of processes, systems, and performance.",
+    "explanation": "Continuous Improvement (Kaizen in Japanese) is the philosophy and practice of making ongoing, incremental improvements to processes, products, and systems. Rather than seeking dramatic transformation, focus on small, consistent enhancements that compound over time. For PKM, this means regularly refining your system based on what works, updating notes as understanding grows, and iterating on processes. Perfection isn't the goal - steady progress is.",
+    "tags": ["improvement", "principles", "processes", "productivity"],
+    "category": "Principles",
+    "icon": "FaArrowUp",
+    "featured": false,
+    "aliases": ["Iterative improvement", "Kaizen"],
+    "relatedConcepts": ["boy-scout-rule", "compound-growth", "evergreen-notes", "periodic-reviews"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Continuous+Improvement"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

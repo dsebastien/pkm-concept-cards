@@ -1,0 +1,18 @@
+{
+    "id": "learning-curve",
+    "name": "Learning Curve",
+    "summary": "The rate of improvement in performing a task as experience accumulates.",
+    "explanation": "The Learning Curve represents how proficiency increases with experience over time. Initially, progress is often slow as fundamentals are mastered, then accelerates during the 'steep' part of the curve, and eventually plateaus as mastery is approached. Understanding learning curves helps set realistic expectations - early struggle is normal and doesn't indicate inability. PKM accelerates learning curves by preserving insights and enabling faster retrieval of relevant knowledge.",
+    "tags": ["concepts", "education", "learning", "psychology"],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Experience curve"],
+    "relatedConcepts": ["forgetting-curve", "growth-mindset", "spaced-repetition"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Learning+curve"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

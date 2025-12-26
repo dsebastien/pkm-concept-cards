@@ -1,0 +1,29 @@
+{
+    "id": "six-thinking-hats",
+    "name": "Six Thinking Hats",
+    "summary": "A parallel thinking method using different colored hats to represent thinking modes.",
+    "explanation": "The Six Thinking Hats is a parallel thinking method developed by Edward de Bono in 1985 that structures thinking and discussion by having participants adopt different thinking modes represented by colored hats. White Hat (facts), Red Hat (emotions), Black Hat (critical judgment), Yellow Hat (positive benefits), Green Hat (creativity), and Blue Hat (process control). Instead of everyone thinking in different directions simultaneously, all participants 'wear' the same hat at the same time, focusing collectively on one type of thinking before moving to the next. This reduces conflict, improves decision quality, and makes discussions more productive.",
+    "tags": ["collaboration", "decision-making", "methods", "thinking"],
+    "category": "Methods",
+    "icon": "FaHatWizard",
+    "featured": false,
+    "aliases": ["6 Thinking Hats", "De Bono's Hats"],
+    "relatedConcepts": [
+        "brainstorming",
+        "critical-thinking",
+        "divergent-thinking",
+        "lateral-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Six+Thinking+Hats+method"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Six Thinking Hats by Edward de Bono",
+            "url": "https://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

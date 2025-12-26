@@ -1,0 +1,29 @@
+{
+    "id": "daily-notes",
+    "name": "Daily Notes",
+    "summary": "Time-stamped notes created each day for journaling and capture.",
+    "explanation": "Daily notes are chronological notes created each day that serve multiple purposes: journaling, capturing thoughts and ideas, tracking tasks, and providing context for when things happened. They act as an excellent capture system because they're always available, automatically organized by time, and don't require decisions about where to file information. Daily notes can be the seeds that grow into atomic notes, and connecting your notes with time helps with retrieval and provides historical context. They're the perfect entry point into growing a Knowledge Management practice.",
+    "tags": ["capture", "journaling", "productivity", "techniques"],
+    "category": "Journaling",
+    "icon": "FaCalendarDay",
+    "featured": false,
+    "aliases": ["Day notes", "Journal entries"],
+    "relatedConcepts": ["capture-system", "journaling", "periodic-reviews", "templates"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/What+Are+Daily+Notes+Useful+For"
+    ],
+    "articles": [
+        {
+            "title": "How I use daily notes",
+            "url": "https://www.dsebastien.net/how-i-use-daily-notes/",
+            "type": "website"
+        },
+        {
+            "title": "How to Structure Your Daily Notes in Obsidian",
+            "url": "https://www.dsebastien.net/my-daily-note-template-in-obsidian/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

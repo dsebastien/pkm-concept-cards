@@ -131,10 +131,10 @@ git push origin feature/your-feature-name
 
 To contribute new PKM concepts:
 
-1. Edit `/src/data/concepts.json`
-2. Add a new concept object with all required fields (see AGENTS.md for structure)
+1. Create a new file in `/src/data/concepts/` named `{concept-id}.json`
+2. Add a concept object with all required fields (see AGENTS.md for structure)
 3. Ensure the concept has:
-    - A unique `id` (lowercase, hyphenated)
+    - A unique `id` (lowercase, hyphenated) matching the filename
     - A clear, concise `summary`
     - A thorough `explanation`
     - Relevant `tags`

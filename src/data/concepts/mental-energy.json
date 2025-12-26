@@ -1,0 +1,18 @@
+{
+    "id": "mental-energy",
+    "name": "Mental Energy",
+    "summary": "The cognitive resources available for thinking, deciding, and creating.",
+    "explanation": "Mental Energy refers to the finite cognitive resources available for focused thinking, decision-making, creativity, and willpower. Like physical energy, mental energy depletes with use and requires recovery. Decision fatigue, cognitive load, and sustained focus all consume mental energy. PKM helps conserve mental energy by externalizing information (reducing memory load), providing structure (reducing decisions), and enabling efficient retrieval (reducing search effort). Managing mental energy is key to productivity.",
+    "tags": ["cognition", "productivity", "psychology", "wellbeing"],
+    "category": "Concepts",
+    "icon": "FaBolt",
+    "featured": false,
+    "aliases": ["Cognitive energy", "Willpower"],
+    "relatedConcepts": ["cognitive-load", "decision-fatigue", "deep-work", "focus"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Mental+energy"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

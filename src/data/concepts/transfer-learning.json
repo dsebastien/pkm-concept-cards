@@ -1,0 +1,18 @@
+{
+    "id": "transfer-learning",
+    "name": "Transfer Learning",
+    "summary": "Applying knowledge from one domain to accelerate learning in another.",
+    "explanation": "Transfer Learning is the ability to apply knowledge, skills, and patterns from one domain to accelerate learning in another. When diving into a new field or topic, recognizing familiar patterns helps learn faster. A programmer learning a new language leverages existing programming concepts; a musician learning a new instrument applies music theory. Building a rich knowledge base enables more transfer learning opportunities. Connected notes make cross-domain patterns more visible.",
+    "tags": ["cognition", "education", "learning", "techniques"],
+    "category": "Techniques",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": ["Cross-domain learning", "Knowledge transfer"],
+    "relatedConcepts": ["connected-notes", "first-principles", "learning", "mental-models"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Transfer+learning"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

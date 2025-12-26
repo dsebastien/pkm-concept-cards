@@ -1,0 +1,18 @@
+{
+    "id": "zeigarnik-effect",
+    "name": "Zeigarnik Effect",
+    "summary": "The tendency to remember uncompleted tasks better than completed ones.",
+    "explanation": "The Zeigarnik Effect is the psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones. Open loops occupy mental space until resolved. This is why open tasks create cognitive load and why the GTD practice of capturing everything helps - once a task is written down and captured in a trusted system, the mind can let go of holding onto it. Closing loops through completion or capture frees mental resources.",
+    "tags": ["cognition", "concepts", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaCircle",
+    "featured": false,
+    "aliases": ["Zeigarnik"],
+    "relatedConcepts": ["capture-system", "cognitive-load", "gtd", "open-loops"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Zeigarnik+effect"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

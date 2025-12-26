@@ -1,0 +1,42 @@
+{
+    "id": "zettelkasten",
+    "name": "Zettelkasten Method",
+    "summary": "A note-taking and knowledge management method based on interconnected atomic notes.",
+    "explanation": "The Zettelkasten method, developed by German sociologist Niklas Luhmann, is a knowledge management system based on creating small, atomic notes that are interconnected through links. Using his Zettelkasten (which means 'slip box' in German), Luhmann managed to publish more than 70 books and hundreds of articles. The method is both a structure (composed of an Inbox, Literature notes archive, and Permanent notes archive) and a process for capturing, exploring, storing, and organizing ideas. It puts focus on connecting ideas rather than accumulating isolated pieces of information, helping to build a deep Web of Knowledge that aids in research, writing, and idea development.",
+    "tags": ["atomic-notes", "knowledge-management", "linking", "methods", "note-taking"],
+    "category": "Methods",
+    "icon": "FaLink",
+    "featured": true,
+    "aliases": ["Card index", "Slip-box", "Zettelkasten system"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "connected-notes",
+        "fleeting-notes",
+        "literature-notes",
+        "permanent-notes",
+        "second-brain"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Zettelkasten+method"
+    ],
+    "articles": [
+        {
+            "title": "Boost Your Creativity With The Zettelkasten Method",
+            "url": "https://www.dsebastien.net/2022-05-01-zettelkasten-method/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "How to Take Smart Notes",
+            "url": "https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502",
+            "type": "book"
+        },
+        {
+            "title": "zettelkasten.de",
+            "url": "https://zettelkasten.de",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

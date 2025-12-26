@@ -1,0 +1,30 @@
+{
+    "id": "moc",
+    "name": "Map of Content (MoC)",
+    "summary": "Curated navigation hubs that organize and connect related notes.",
+    "explanation": "A Map of Content (MoC), concept introduced by Nick Milo, is a note containing links to other notes - a meta note that serves as an index for a specific topic, question, perspective, or area of interest. While each note can only be stored in a single folder, many MoCs can link to the same note, making MoCs like 'folders on steroids.' If links are roads, tags are road signs, folders are houses, then MoCs are maps. They help locate content across the knowledge base, aggregate and connect ideas, keep the knowledge base manageable as it scales, and add context to links. You can even create a 'MoC of MoCs' to express ideas at the intersection of multiple topics.",
+    "tags": ["knowledge-management", "linking", "navigation", "organization"],
+    "category": "Techniques",
+    "icon": "FaMap",
+    "featured": false,
+    "aliases": ["Index Note", "Maps of Content", "MoCs"],
+    "relatedConcepts": ["connected-notes", "folder-structure", "knowledge-graph", "tagging"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Map+of+Content+(MoC)"
+    ],
+    "articles": [
+        {
+            "title": "Maps of Content (MoCs) for better Knowledge Graphs",
+            "url": "https://dsebastien.net/blog/2022-05-15-maps-of-content",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "A Case for MOCs - Obsidian Forum",
+            "url": "https://forum.obsidian.md/t/a-case-for-mocs/2418",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

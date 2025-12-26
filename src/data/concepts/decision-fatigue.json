@@ -1,0 +1,16 @@
+{
+    "id": "decision-fatigue",
+    "name": "Decision Fatigue",
+    "summary": "The deteriorating quality of decisions after making many decisions.",
+    "explanation": "Decision Fatigue is the phenomenon where the quality of decisions deteriorates after a long session of decision-making. Each decision depletes a finite pool of mental resources, leading to poorer choices, impulsivity, or decision avoidance later in the day. PKM helps combat decision fatigue by reducing daily decisions through templates, established workflows, consistent conventions, and by capturing decisions so they don't need to be remade. Automate and systematize where possible.",
+    "tags": ["cognition", "concepts", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaBatteryQuarter",
+    "featured": false,
+    "aliases": ["Ego depletion"],
+    "relatedConcepts": ["cognitive-load", "habits", "mise-en-place", "templates"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

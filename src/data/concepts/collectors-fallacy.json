@@ -1,0 +1,18 @@
+{
+    "id": "collectors-fallacy",
+    "name": "Collector's Fallacy",
+    "summary": "The trap of collecting information without processing or using it.",
+    "explanation": "The Collector's Fallacy is the tendency to collect information, resources, and notes without actually processing, understanding, or using them. Just because you can capture everything doesn't mean you should. Hoarding information without purpose leads to feeling overwhelmed and won't help you reach your goals. The challenge is knowing which knowledge is worth acquiring. Be intentional - unless your goal is to have fun, avoid hoarding information without purpose. You Aren't Gonna Read It (YAGRI).",
+    "tags": ["knowledge-management", "pitfalls", "psychology", "warnings"],
+    "category": "Concepts",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": ["Digital hoarding", "Information hoarding"],
+    "relatedConcepts": ["capture-system", "information-overload", "knowledge-ingestion"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Collector's+fallacy"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

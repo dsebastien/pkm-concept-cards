@@ -1,0 +1,18 @@
+{
+    "id": "pareto-principle",
+    "name": "Pareto Principle",
+    "summary": "80% of effects come from 20% of causes - focus on high-impact activities.",
+    "explanation": "The Pareto Principle, also known as the 80/20 rule, states that roughly 80% of effects come from 20% of causes. A small portion of inputs typically produces the majority of outputs. In productivity, 20% of your efforts likely produce 80% of your results. In PKM, a small percentage of your notes may provide most of your value. This principle helps prioritize: identify and focus on the vital few rather than the trivial many. Don't try to capture everything - focus on what matters most.",
+    "tags": ["decision-making", "frameworks", "principles", "productivity"],
+    "category": "Principles",
+    "icon": "FaChartPie",
+    "featured": false,
+    "aliases": ["80/20 Rule", "Pareto distribution"],
+    "relatedConcepts": ["eisenhower-matrix", "focus", "prioritization"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pareto+distribution"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

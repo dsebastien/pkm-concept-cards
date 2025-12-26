@@ -1,0 +1,18 @@
+{
+    "id": "forcing-function",
+    "name": "Forcing Function",
+    "summary": "Constraints or mechanisms that compel specific behaviors or outcomes.",
+    "explanation": "A Forcing Function is any mechanism, commitment, or constraint that compels you to take action or behave in a certain way. Examples include: deadlines (forcing completion), public commitments (forcing follow-through), and physical environment design (forcing behaviors). In PKM, periodic reviews are forcing functions for processing notes. The power of forcing functions is that they remove the need for willpower - the structure itself drives the behavior.",
+    "tags": ["habits", "principles", "productivity", "systems"],
+    "category": "Principles",
+    "icon": "FaCompressArrowsAlt",
+    "featured": false,
+    "aliases": ["Behavior forcing", "Commitment device"],
+    "relatedConcepts": ["accountability", "habits", "periodic-reviews", "systems-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Forcing+function"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

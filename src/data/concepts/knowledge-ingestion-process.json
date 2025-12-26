@@ -1,0 +1,23 @@
+{
+    "id": "knowledge-ingestion-process",
+    "name": "Knowledge Ingestion Process",
+    "summary": "The systematic workflow for processing consumed content into your knowledge system.",
+    "explanation": "The Knowledge Ingestion Process is your systematic workflow for transforming consumed content (books, articles, podcasts, videos, conversations) into useful knowledge in your PKM system. It typically includes: capturing highlights and reactions, processing captures during review periods, distilling key insights, writing notes in your own words, connecting to existing knowledge, and filing appropriately. Without a defined ingestion process, content consumption doesn't translate into usable knowledge.",
+    "tags": ["capture", "knowledge-management", "processes", "workflows"],
+    "category": "Processes",
+    "icon": "FaInbox",
+    "featured": false,
+    "aliases": ["Content ingestion", "Knowledge processing workflow"],
+    "relatedConcepts": [
+        "code-method",
+        "periodic-reviews",
+        "processing-notes",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowledge+Ingestion+Process"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "status-quo-bias",
+    "name": "Status Quo Bias",
+    "summary": "Preference for the current state of affairs over change.",
+    "explanation": "Status Quo Bias is the preference for maintaining the current state of affairs rather than changing, even when change would be beneficial. The default option is favored simply because it's the default. This explains resistance to switching tools, updating processes, or revising notes even when improvements are possible. While some stability is valuable, being aware of status quo bias helps evaluate whether current practices truly serve you or are just comfortable habits.",
+    "tags": ["biases", "change", "decision-making", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaEquals",
+    "featured": false,
+    "aliases": ["Default bias", "Inertia"],
+    "relatedConcepts": ["continuous-improvement", "decision-making", "loss-aversion"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "gigo",
+    "name": "Garbage In, Garbage Out",
+    "summary": "The quality of output depends on the quality of input.",
+    "explanation": "Garbage In, Garbage Out (GIGO) is the principle that the quality of output is determined by the quality of input. If you consume low-quality information, your knowledge base and thinking will suffer. If you capture without filtering, your system becomes cluttered with noise. This principle emphasizes the importance of careful curation - selecting high-quality sources, filtering what you consume, and being intentional about what enters your PKM system. Quality over quantity.",
+    "tags": ["curation", "information-management", "principles", "quality"],
+    "category": "Principles",
+    "icon": "FaRecycle",
+    "featured": false,
+    "aliases": ["GIGO", "Quality input"],
+    "relatedConcepts": ["capture-system", "collectors-fallacy", "curation"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

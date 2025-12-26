@@ -1,0 +1,18 @@
+{
+    "id": "yearly-notes",
+    "name": "Yearly Notes",
+    "summary": "Annual reviews for big-picture reflection and long-term planning.",
+    "explanation": "Yearly Notes are comprehensive annual reviews for big-picture reflection and long-term planning. They involve reviewing the entire year's achievements, failures, and lessons; assessing progress on major life goals; and setting intentions for the coming year. Yearly reviews provide perspective that's impossible to gain from shorter time frames. They help identify patterns, celebrate growth, and realign with core values and priorities.",
+    "tags": ["journaling", "productivity", "reviews", "strategy"],
+    "category": "Journaling",
+    "icon": "FaCalendarCheck",
+    "featured": false,
+    "aliases": ["Annual review notes", "Year in review"],
+    "relatedConcepts": ["goal-setting", "periodic-reviews", "quarterly-notes", "reflection"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Periodic+reviews"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

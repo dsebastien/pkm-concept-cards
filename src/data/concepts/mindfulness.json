@@ -1,0 +1,18 @@
+{
+    "id": "mindfulness",
+    "name": "Mindfulness",
+    "summary": "Present-moment awareness of thoughts, feelings, and environment without judgment.",
+    "explanation": "Mindfulness is the practice of present-moment awareness - paying attention to thoughts, feelings, bodily sensations, and environment without judgment. Mindfulness improves focus, reduces stress, enhances decision-making, and supports emotional regulation. For PKM, mindfulness helps with intentional consumption (rather than mindless scrolling), recognizing what truly resonates, and being present while learning. Mindful note-taking involves fully engaging with content rather than passive capture.",
+    "tags": ["attention", "practices", "psychology", "wellbeing"],
+    "category": "Concepts",
+    "icon": "FaLeaf",
+    "featured": false,
+    "aliases": ["Meditation", "Present awareness"],
+    "relatedConcepts": ["emotional-intelligence", "flow", "focus", "journaling"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Mindfulness"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

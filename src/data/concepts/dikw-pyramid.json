@@ -1,0 +1,18 @@
+{
+    "id": "dikw-pyramid",
+    "name": "DIKW Pyramid",
+    "summary": "A hierarchy showing the progression from Data to Information to Knowledge to Wisdom.",
+    "explanation": "The DIKW Pyramid represents the progression from raw data to ultimate wisdom. Data is raw facts and figures without context. Information is data organized and given meaning. Knowledge is information integrated with understanding, enabling application. Wisdom is the application of knowledge with judgment and ethics. PKM is fundamentally about climbing this pyramid - transforming the information we consume into actionable knowledge and, ultimately, wisdom that guides good decisions.",
+    "tags": ["concepts", "frameworks", "knowledge-management", "learning", "theory"],
+    "category": "Frameworks",
+    "icon": "FaPyramid",
+    "featured": false,
+    "aliases": ["Data-Information-Knowledge-Wisdom", "Knowledge hierarchy"],
+    "relatedConcepts": ["information-management", "knowledge-management", "learning", "pkm"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/DIKW+Pyramid"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

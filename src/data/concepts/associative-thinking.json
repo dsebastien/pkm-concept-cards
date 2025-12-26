@@ -1,0 +1,16 @@
+{
+    "id": "associative-thinking",
+    "name": "Associative Thinking",
+    "summary": "Connecting ideas through relationships and similarities.",
+    "explanation": "Associative Thinking is the cognitive process of connecting ideas, concepts, and memories through relationships, similarities, and connections. The brain naturally works through associations - one thought triggers related thoughts. PKM tools that emphasize linking and backlinks leverage associative thinking. Mind maps, connected notes, and knowledge graphs all support natural associative exploration. Creative insights often emerge from unexpected associations between seemingly unrelated ideas.",
+    "tags": ["cognition", "concepts", "creativity", "thinking"],
+    "category": "Thinking",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Connection thinking"],
+    "relatedConcepts": ["brainstorming", "connected-notes", "knowledge-graph", "lateral-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

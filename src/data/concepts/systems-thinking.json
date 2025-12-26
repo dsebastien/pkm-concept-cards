@@ -1,0 +1,30 @@
+{
+    "id": "systems-thinking",
+    "name": "Systems Thinking",
+    "summary": "Understanding how components interact within complex wholes.",
+    "explanation": "Systems Thinking is an approach that views problems as parts of larger, interconnected systems rather than isolated events. It focuses on understanding relationships, feedback loops, and emergent behaviors. In PKM, systems thinking means understanding how your notes, tools, processes, and habits all interact. Changes in one area ripple through the system. Good PKM design considers the whole system, not just individual components. Systems thinking prevents optimizing parts while degrading the whole.",
+    "tags": ["complexity", "concepts", "frameworks", "mental-models", "thinking"],
+    "category": "Thinking",
+    "icon": "FaCogs",
+    "featured": true,
+    "aliases": ["Holistic thinking", "Systemic thinking"],
+    "relatedConcepts": [
+        "critical-thinking",
+        "first-principles",
+        "lifeos",
+        "mental-models",
+        "virtuous-circle"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Systems+thinking"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking in Systems by Donella Meadows",
+            "url": "https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "availability-heuristic",
+    "name": "Availability Heuristic",
+    "summary": "Judging likelihood based on how easily examples come to mind.",
+    "explanation": "The Availability Heuristic is a mental shortcut where we judge the probability or frequency of events based on how easily examples come to mind. Vivid, recent, or emotionally charged events seem more common than they actually are. Plane crashes feel more dangerous than car accidents because they're more memorable. In PKM, notes that are more recently accessed or more dramatically written may seem more important than they are. Systematic tagging and organization help counter this bias.",
+    "tags": ["biases", "cognition", "decision-making", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Availability bias"],
+    "relatedConcepts": ["confirmation-bias", "critical-thinking", "recency-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

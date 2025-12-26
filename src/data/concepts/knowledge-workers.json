@@ -1,0 +1,18 @@
+{
+    "id": "knowledge-workers",
+    "name": "Knowledge Workers",
+    "summary": "Professionals whose primary work involves creating, processing, and using information.",
+    "explanation": "Knowledge Workers are professionals whose primary work involves creating, processing, and applying information and knowledge rather than physical labor. The term was coined by Peter Drucker. Knowledge workers include developers, writers, researchers, analysts, consultants, designers, and many other professionals. They face unique challenges: information overload, cognitive load, context switching, and the need to continuously learn. PKM is especially valuable for knowledge workers as their productivity depends on effective knowledge management.",
+    "tags": ["concepts", "information-management", "productivity", "work"],
+    "category": "Concepts",
+    "icon": "FaUserTie",
+    "featured": false,
+    "aliases": ["Information workers"],
+    "relatedConcepts": ["cognitive-load", "deep-work", "information-overload", "pkm"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+problems+Knowledge+Workers+face"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

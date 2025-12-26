@@ -1,0 +1,18 @@
+{
+    "id": "monthly-notes",
+    "name": "Monthly Notes",
+    "summary": "Monthly summaries for mid-range reflection and goal tracking.",
+    "explanation": "Monthly Notes are periodic notes created each month for mid-range reflection and planning. They provide a broader view than weekly notes, tracking progress on larger goals, identifying trends, and adjusting strategies. Monthly reviews help balance immediate tactical work with strategic objectives. They often include goal reviews, habit tracking summaries, key accomplishments, lessons learned, and plans for the coming month.",
+    "tags": ["journaling", "planning", "productivity", "reviews"],
+    "category": "Journaling",
+    "icon": "FaCalendarAlt",
+    "featured": false,
+    "aliases": ["Monthly review notes"],
+    "relatedConcepts": ["goal-setting", "periodic-reviews", "quarterly-notes", "weekly-notes"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Periodic+reviews"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

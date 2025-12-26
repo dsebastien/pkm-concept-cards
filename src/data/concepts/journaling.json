@@ -1,0 +1,39 @@
+{
+    "id": "journaling",
+    "name": "Journaling",
+    "summary": "The practice of regularly recording thoughts, experiences, and reflections.",
+    "explanation": "Journaling is the practice of regularly writing down thoughts, ideas, experiences, feelings, and reflections. It's the perfect entry point for PKM, helping you expand your ideas and prevent losing important ones you may want to act on. Benefits include self-reflection, idea development, accountability, stress reduction, and better memory. Journaling throughout the day (interstitial journaling) captures context and mental state. For people with ADHD, journaling can be particularly powerful for organizing scattered thoughts. Combined with periodic reviews, journaling creates a comprehensive system for personal growth.",
+    "tags": ["habits", "journaling", "personal-growth", "productivity"],
+    "category": "Journaling",
+    "icon": "FaBook",
+    "featured": true,
+    "aliases": ["Daily journaling", "Journal writing"],
+    "relatedConcepts": [
+        "daily-notes",
+        "interstitial-journaling",
+        "morning-pages",
+        "periodic-reviews"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Journaling"
+    ],
+    "articles": [
+        {
+            "title": "Journaling every day is powerful Part 1",
+            "url": "https://www.dsebastien.net/2021-10-07-periodic-journaling-part-1/",
+            "type": "website"
+        },
+        {
+            "title": "Journaling every day is powerful Part 2",
+            "url": "https://www.dsebastien.net/2021-10-07-periodic-journaling-part-2/",
+            "type": "website"
+        },
+        {
+            "title": "Stop Losing Your Best Ideas - The Journaling System That Changed My Life",
+            "url": "https://www.dsebastien.net/stop-losing-your-best-ideas-the-journaling-system-that-changed-my-life/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

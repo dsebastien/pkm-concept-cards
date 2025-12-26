@@ -1,0 +1,18 @@
+{
+    "id": "information-hoarding",
+    "name": "Information Hoarding",
+    "summary": "Compulsively collecting information without processing or using it.",
+    "explanation": "Information Hoarding is the compulsive collection of information without processing, organizing, or using it. It's related to the Collector's Fallacy but emphasizes the pathological accumulation aspect. Hoarders save articles, books, and bookmarks that pile up unread. The behavior often stems from fear of missing out or the false belief that having information equals knowing it. The cure is recognizing that unprocessed information has no value, setting strict intake limits, and focusing on quality over quantity.",
+    "tags": ["habits", "information", "problems", "psychology"],
+    "category": "Concepts",
+    "icon": "FaBoxOpen",
+    "featured": false,
+    "aliases": ["Digital hoarding", "Information accumulation"],
+    "relatedConcepts": ["collectors-fallacy", "content-curation", "processing-notes", "worn"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Information+hoarding"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

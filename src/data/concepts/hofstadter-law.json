@@ -1,0 +1,18 @@
+{
+    "id": "hofstadter-law",
+    "name": "Hofstadter's Law",
+    "summary": "Things always take longer than expected, even accounting for the law itself.",
+    "explanation": "Hofstadter's Law states: 'It always takes longer than you expect, even when you take into account Hofstadter's Law.' This self-referential adage captures the persistent tendency to underestimate task duration despite knowing about underestimation. Related to the planning fallacy, it's a humbling reminder to add generous buffers to estimates. For PKM projects like building a system, expect it to take longer than planned and design for incremental progress rather than complete transformation.",
+    "tags": ["concepts", "planning", "principles", "productivity"],
+    "category": "Principles",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["Time underestimation"],
+    "relatedConcepts": ["continuous-improvement", "goal-setting", "planning-fallacy"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.05+Quotes/Hofstadter's+Law"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "lindy-effect",
+    "name": "Lindy Effect",
+    "summary": "The longer something has existed, the longer it's likely to continue existing.",
+    "explanation": "The Lindy Effect (or Lindy's Law) states that the future life expectancy of non-perishable things - like a technology, idea, or book - is proportional to their current age. The longer something has continued to exist, the longer its remaining life expectancy. A book that has been in print for 100 years will likely remain relevant for another 100. This principle guides content curation: prioritize learning timeless ideas over trendy new content. What has stood the test of time is likely valuable.",
+    "tags": ["concepts", "curation", "decision-making", "learning", "principles", "wisdom"],
+    "category": "Principles",
+    "icon": "FaHistory",
+    "featured": false,
+    "aliases": ["Lindy's Law"],
+    "relatedConcepts": ["first-principles", "law-of-staleness", "learning", "test-of-time"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Lindy+effect"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Lindy Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lindy_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "confirmation-bias",
+    "name": "Confirmation Bias",
+    "summary": "The tendency to favor information that confirms existing beliefs.",
+    "explanation": "Confirmation Bias is the tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values. We unconsciously filter for evidence that supports what we already think while dismissing contradictory evidence. This is one of the most pervasive cognitive biases. For PKM, awareness of confirmation bias encourages actively seeking out opposing viewpoints, questioning assumptions, and being open to updating beliefs based on new evidence.",
+    "tags": ["biases", "cognition", "psychology", "thinking"],
+    "category": "Cognitive Biases",
+    "icon": "FaCheck",
+    "featured": false,
+    "aliases": ["Belief bias"],
+    "relatedConcepts": ["critical-thinking", "dunning-kruger-effect", "narrative-fallacy"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Confirmation+bias"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

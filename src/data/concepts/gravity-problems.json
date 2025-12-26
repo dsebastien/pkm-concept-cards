@@ -1,0 +1,18 @@
+{
+    "id": "gravity-problems",
+    "name": "Gravity Problems",
+    "summary": "Problems that can't be solved because they're fundamental constraints of reality.",
+    "explanation": "Gravity Problems are problems that cannot be solved because they're fundamental constraints - like gravity, they're simply facts of reality that must be accepted rather than fought. In life design, gravity problems are situations you can't change: past events, other people's choices, market conditions, or physical limitations. Recognizing gravity problems is crucial because energy spent fighting them is wasted. The skill is distinguishing between problems you can solve and gravity problems you must accept and work around.",
+    "tags": ["acceptance", "clarity", "concepts", "problem-solving"],
+    "category": "Clarity",
+    "icon": "FaWeight",
+    "featured": false,
+    "aliases": ["Constraints", "Unsolvable problems"],
+    "relatedConcepts": ["first-principles", "life-design", "stoicism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Gravity+problems"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

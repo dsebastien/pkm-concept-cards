@@ -1,0 +1,16 @@
+{
+    "id": "timeboxing",
+    "name": "Timeboxing",
+    "summary": "Allocating fixed time periods to specific tasks regardless of completion.",
+    "explanation": "Timeboxing is the practice of allocating a fixed, maximum amount of time to a task and working on it only during that time regardless of whether it's complete. Unlike time blocking (which reserves time), timeboxing limits time. This creates urgency, prevents perfectionism, and ensures important tasks don't consume unlimited time. When the timebox ends, you move on - even if unfinished. Timeboxing is particularly useful for open-ended tasks that could expand indefinitely.",
+    "tags": ["focus", "productivity", "techniques", "time-management"],
+    "category": "Techniques",
+    "icon": "FaHourglassHalf",
+    "featured": false,
+    "aliases": ["Fixed time blocks"],
+    "relatedConcepts": ["parkinson-law", "pomodoro-technique", "productivity", "time-blocking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

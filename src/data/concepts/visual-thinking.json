@@ -1,0 +1,18 @@
+{
+    "id": "visual-thinking",
+    "name": "Visual Thinking",
+    "summary": "Using visual representations to understand and organize information.",
+    "explanation": "Visual thinking is the practice of using visual representations to understand, organize, communicate, and solve problems. It leverages the brain's powerful visual processing capabilities. Tools include mind maps, concept maps, diagrams, sketches, and canvas tools. Dual Coding Theory explains how human cognition processes verbal and visual information through separate but interconnected systems, making visual thinking a powerful complement to text-based notes.",
+    "tags": ["learning", "techniques", "thinking", "visualization"],
+    "category": "Thinking",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": ["Visual learning"],
+    "relatedConcepts": ["concept-maps", "mind-maps", "obsidian-canvas"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Visual+thinking"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

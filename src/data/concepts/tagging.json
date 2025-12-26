@@ -1,0 +1,24 @@
+{
+    "id": "tagging",
+    "name": "Tagging",
+    "summary": "Adding keywords or labels to notes for categorization and retrieval.",
+    "explanation": "Tagging is the practice of adding keywords or labels to notes for categorization and easier retrieval. Tags are no better or worse than folders, links, or MOCs - they're complementary. When you tag information, don't look for the one perfect tag. Instead, add as many relevant keywords as you can - those are pathways to stumble upon notes later. Tags and metadata enable finding information when you need it, maximizing usefulness and leverage. Each tag you add creates a path to resurface that note in the future.",
+    "tags": ["knowledge-management", "metadata", "organization", "techniques"],
+    "category": "Techniques",
+    "icon": "FaTags",
+    "featured": false,
+    "aliases": ["Keywords", "Labels", "Tags"],
+    "relatedConcepts": ["folder-structure", "metadata", "moc", "organization"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Why+and+how+to+tag+notes+in+your+PKM"
+    ],
+    "articles": [
+        {
+            "title": "Why and How to Tag Your Notes",
+            "url": "https://www.dsebastien.net/2022-05-17-why-and-how-to-tag-notes-in-your-pkm/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

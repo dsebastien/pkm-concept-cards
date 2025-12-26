@@ -1,0 +1,24 @@
+{
+    "id": "most-important-task",
+    "name": "Most Important Task",
+    "summary": "Identifying and completing your highest-impact task early each day.",
+    "explanation": "The Most Important Task (MIT) technique involves identifying the single most impactful task for the day and completing it first, before getting pulled into reactive work. This ensures that even if nothing else gets done, you've moved the needle on what matters most. The MIT is typically the task that, if completed, would make the day feel successful. Combining MIT with morning routines creates powerful momentum for productive days.",
+    "tags": ["focus", "prioritization", "productivity", "techniques"],
+    "category": "Techniques",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": ["Big rock", "Highlight", "MIT"],
+    "relatedConcepts": ["deep-work", "eisenhower-matrix", "pareto-principle", "time-blocking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Most+Important+Task+of+the+Day+(MITD)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Make Time by Jake Knapp & John Zeratsky",
+            "url": "https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "ikigai",
+    "name": "Ikigai",
+    "summary": "The Japanese concept of 'reason for being' - finding purpose at the intersection of passion, mission, profession, and vocation.",
+    "explanation": "Ikigai is a Japanese concept meaning 'reason for being.' It represents the intersection of four elements: what you love (passion), what you're good at (profession), what the world needs (mission), and what you can be paid for (vocation). Finding your ikigai means discovering work that is deeply fulfilling, valuable to others, and sustainable. It's not about finding a single answer but exploring how these elements interact in your life and career.",
+    "tags": ["career", "clarity", "personal-growth", "purpose"],
+    "category": "Clarity",
+    "icon": "FaYinYang",
+    "featured": true,
+    "aliases": ["Life purpose", "Reason for being"],
+    "relatedConcepts": ["career-design", "goal-setting", "life-design", "personal-manifesto"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/What+is+your+Ikigai"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

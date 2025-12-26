@@ -1,0 +1,16 @@
+{
+    "id": "hindsight-bias",
+    "name": "Hindsight Bias",
+    "summary": "The tendency to see past events as having been predictable.",
+    "explanation": "Hindsight Bias is the tendency, after an event has occurred, to see it as having been predictable even when there was no way to predict it. 'I knew it all along.' This bias distorts memory and makes us overconfident in our ability to predict future events. For learning and PKM, hindsight bias can make us undervalue documentation - we forget how uncertain things were at decision time. Capturing reasoning contemporaneously preserves the actual uncertainty faced.",
+    "tags": ["biases", "cognition", "memory", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": ["Creeping determinism", "Knew-it-all-along effect"],
+    "relatedConcepts": ["confirmation-bias", "journaling", "narrative-fallacy"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

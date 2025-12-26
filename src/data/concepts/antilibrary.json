@@ -1,0 +1,16 @@
+{
+    "id": "antilibrary",
+    "name": "Antilibrary",
+    "summary": "A collection of unread books representing knowledge yet to be acquired.",
+    "explanation": "The Antilibrary, a concept popularized by Nassim Taleb, is the collection of books you own but haven't read. Rather than a sign of failure, an antilibrary represents the humbling reminder of how much you don't know - the knowledge you could potentially acquire. The value of unread books is in their potential. Similarly, a PKM system can include references to resources you haven't fully consumed yet, representing learning opportunities rather than backlogs to feel guilty about.",
+    "tags": ["concepts", "learning", "philosophy", "reading"],
+    "category": "Concepts",
+    "icon": "FaBookOpen",
+    "featured": false,
+    "aliases": ["Unread books"],
+    "relatedConcepts": ["collectors-fallacy", "growth-mindset", "learning"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

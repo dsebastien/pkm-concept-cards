@@ -1,0 +1,18 @@
+{
+    "id": "dunning-kruger-effect",
+    "name": "Dunning-Kruger Effect",
+    "summary": "Cognitive bias where novices overestimate and experts underestimate their abilities.",
+    "explanation": "The Dunning-Kruger Effect is a cognitive bias in which people with limited competence in a domain overestimate their abilities, while experts tend to underestimate theirs. Beginners lack the knowledge to recognize their limitations, while experts are more aware of what they don't know. This has implications for learning: initial confidence may be misplaced, and feeling less confident as you learn more is actually a sign of growth. PKM helps by making knowledge gaps visible.",
+    "tags": ["biases", "cognition", "learning", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Dunning Kruger"],
+    "relatedConcepts": ["confirmation-bias", "learning", "metacognition"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Dunning-Kruger+effect"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": "bullet-journal",
+    "name": "Bullet Journal",
+    "summary": "A rapid logging system combining tasks, events, and notes in a structured format.",
+    "explanation": "The Bullet Journal (BuJo) method, created by Ryder Carroll, is an analog organization system that combines to-do lists, calendars, and notes using rapid logging with bullets, signifiers, and migration. Key components include: an Index (table of contents), Future Log (long-term planning), Monthly Log (month overview), and Daily Log (daily tasks and notes). The method emphasizes intentionality and mindfulness. While designed for paper, the principles translate to digital systems and inspire many PKM templates.",
+    "tags": ["journaling", "methods", "organization", "productivity"],
+    "category": "Journaling",
+    "icon": "FaListUl",
+    "featured": false,
+    "aliases": ["BuJo", "Rapid logging"],
+    "relatedConcepts": ["daily-notes", "journaling", "periodic-reviews", "templates"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Bullet+journaling"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Bullet Journal Official Website",
+            "url": "https://bulletjournal.com",
+            "type": "website"
+        },
+        {
+            "title": "The Bullet Journal Method by Ryder Carroll",
+            "url": "https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

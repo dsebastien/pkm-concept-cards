@@ -1,0 +1,30 @@
+{
+    "id": "second-brain",
+    "name": "Second Brain",
+    "summary": "A methodology for saving and systematically organizing your ideas and insights using digital tools.",
+    "explanation": "Building a Second Brain (BASB) is a methodology created by Tiago Forte for capturing, organizing, and sharing knowledge using digital tools. It emphasizes capturing information that resonates with you, organizing it for actionability, and regularly reviewing and using your notes to create new content. A second brain is a digital archive of your most valuable memories, ideas, and knowledge to help you do your job, run your business, and manage your life without having to keep every detail in your head. It aims to help you forget intentionally while retaining what matters forever.",
+    "tags": ["capture", "digital-notes", "organization", "productivity", "systems"],
+    "category": "Systems",
+    "icon": "FaBrain",
+    "featured": true,
+    "aliases": ["BASB", "Building a Second Brain"],
+    "relatedConcepts": [
+        "capture-system",
+        "code-method",
+        "para-method",
+        "pkm",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Building+a+Second+Brain+method+(BASB)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Building a Second Brain",
+            "url": "https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

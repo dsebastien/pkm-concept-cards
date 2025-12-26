@@ -1,0 +1,24 @@
+{
+    "id": "connected-notes",
+    "name": "Connected Notes",
+    "summary": "Notes that link to other notes, creating a web of knowledge.",
+    "explanation": "Connected notes are notes that link to other related notes, creating a web of interconnected knowledge rather than isolated silos. It's rare for knowledge to live in isolation - that's why connecting ideas is key for PKM. Connections between ideas are as valuable as the ideas themselves, perhaps even more so. The simple act of creating links helps your brain realize that ideas are connected, aiding memorization and recall. Ways to connect notes include direct links, tags, backlinks, and Maps of Content.",
+    "tags": ["knowledge-management", "linking", "organization", "principles"],
+    "category": "Principles",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": ["Linked notes", "Networked notes"],
+    "relatedConcepts": ["atomic-notes", "backlinks", "knowledge-graph", "moc"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Connected+notes"
+    ],
+    "articles": [
+        {
+            "title": "How to connect ideas",
+            "url": "https://www.dsebastien.net/how-to-connect-ideas/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "generation-effect",
+    "name": "Generation Effect",
+    "summary": "Information is better remembered when generated than when merely read.",
+    "explanation": "The Generation Effect is the phenomenon where information is better remembered when you generate or create it yourself rather than simply reading or receiving it. Writing notes in your own words, creating your own examples, and producing summaries all leverage the generation effect. This is why copying verbatim is less effective than paraphrasing, and why creating your own knowledge is more valuable than just collecting others' ideas.",
+    "tags": ["education", "learning", "memory", "psychology"],
+    "category": "Concepts",
+    "icon": "FaPen",
+    "featured": false,
+    "aliases": ["Self-generation"],
+    "relatedConcepts": ["active-recall", "elaboration", "feynman-technique", "permanent-notes"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

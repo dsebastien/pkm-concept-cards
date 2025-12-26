@@ -1,0 +1,18 @@
+{
+    "id": "documents-are-prisons",
+    "name": "Documents Are Prisons for Ideas",
+    "summary": "Ideas trapped in long documents are isolated and unable to connect.",
+    "explanation": "The concept that 'Documents Are Prisons for Ideas' challenges traditional document-centric thinking. Documents stand on their own - they can have links but aren't truly connected. There are no backlinks with documents. Knowledge stuck in a document is in prison, lonely and isolated. This principle argues for atomic notes over long documents. Breaking ideas into small, linked notes frees them to connect, be discovered serendipitously, and combine with other ideas in unexpected ways.",
+    "tags": ["atomic-notes", "connections", "note-taking", "principles"],
+    "category": "Principles",
+    "icon": "FaLock",
+    "featured": false,
+    "aliases": ["Reports are prisons for ideas"],
+    "relatedConcepts": ["atomic-notes", "backlinks", "connected-notes", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Documents+are+prisons+for+ideas"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "goal-setting",
+    "name": "Goal Setting",
+    "summary": "The process of defining objectives and creating plans to achieve them.",
+    "explanation": "Goal Setting is the process of defining specific, measurable objectives and creating actionable plans to achieve them. Effective goals are often SMART: Specific, Measurable, Achievable, Relevant, and Time-bound. Goals provide direction, motivation, and benchmarks for progress. PKM systems support goal setting through tracking, regular reviews, and connecting daily actions to larger objectives. Goals should be captured, reviewed periodically, and adjusted as circumstances change.",
+    "tags": ["personal-growth", "planning", "productivity", "techniques"],
+    "category": "Techniques",
+    "icon": "FaBullseye",
+    "featured": false,
+    "aliases": ["Objectives", "SMART goals"],
+    "relatedConcepts": ["accountability", "lifeos", "periodic-reviews", "planning"],
+    "relatedNotes": ["https://notes.dsebastien.net/30+Areas/34+Maps/34.01+MoCs/Goals+(MoC)"],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

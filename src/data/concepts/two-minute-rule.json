@@ -1,0 +1,18 @@
+{
+    "id": "two-minute-rule",
+    "name": "Two-Minute Rule",
+    "summary": "If a task takes less than two minutes, do it immediately.",
+    "explanation": "The Two-Minute Rule from GTD states that if a task takes less than two minutes to complete, do it immediately rather than adding it to a list. The overhead of tracking small tasks exceeds the effort of just doing them. This prevents tiny tasks from accumulating and cluttering your systems. For PKM, quickly fixing typos, adding links, or making small edits falls into this category - just do it now rather than creating a task to do it later.",
+    "tags": ["gtd", "habits", "productivity", "techniques"],
+    "category": "Techniques",
+    "icon": "FaHourglass",
+    "featured": false,
+    "aliases": ["2-minute rule"],
+    "relatedConcepts": ["gtd", "inbox-zero", "open-loops", "productivity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Two+minute+rule+for+productivity"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

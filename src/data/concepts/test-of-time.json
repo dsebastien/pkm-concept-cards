@@ -1,0 +1,18 @@
+{
+    "id": "test-of-time",
+    "name": "Test of Time",
+    "summary": "Time as a filter for relevance - what survives is likely valuable.",
+    "explanation": "The Test of Time principle recognizes that time is a cleaner - it gets rid of the irrelevant. When something stands the test of time, it means it is relevant, solid, valuable, and useful in some context. When learning, it's often wise to focus on content that has proven its worth over years or decades rather than chasing the latest trends. Books that remain in print for decades, ideas that persist across generations, and methods that continue to be used - these have passed the test of time.",
+    "tags": ["curation", "learning", "principles", "quality", "wisdom"],
+    "category": "Principles",
+    "icon": "FaHourglassEnd",
+    "featured": false,
+    "aliases": ["Endurance", "Time-tested", "Timeless content"],
+    "relatedConcepts": ["curation", "first-principles", "law-of-staleness", "lindy-effect"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Test+of+time"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

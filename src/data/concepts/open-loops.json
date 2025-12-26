@@ -1,0 +1,18 @@
+{
+    "id": "open-loops",
+    "name": "Open Loops",
+    "summary": "Incomplete tasks and unresolved commitments that occupy mental space.",
+    "explanation": "Open loops refer to incomplete tasks, unresolved problems, unexplored ideas, or any form of unprocessed information that requires attention or action. First discussed in David Allen's Getting Things Done (GTD) methodology, these are essentially anything that pulls at our attention, signaling that something needs to be acted upon, finished, or decided. Each open loop requires cognitive resources, creating background noise that constantly demands attention. This leads to cognitive overload where the brain's capacity to process information is surpassed. Closing open loops liberates cognitive resources, reducing stress and enhancing mental clarity.",
+    "tags": ["cognitive-load", "gtd", "productivity", "psychology"],
+    "category": "Concepts",
+    "icon": "FaCircleNotch",
+    "featured": false,
+    "aliases": ["Incomplete tasks", "Unfinished business"],
+    "relatedConcepts": ["brain-dumps", "cognitive-load", "gtd", "inbox-zero"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Open+loops"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

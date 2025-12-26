@@ -1,0 +1,18 @@
+{
+    "id": "model-context-protocol",
+    "name": "Model Context Protocol",
+    "summary": "A standard for connecting AI models with external data sources and tools.",
+    "explanation": "The Model Context Protocol (MCP) is an open standard developed by Anthropic for connecting AI models with external data sources and tools. It enables AI assistants to access your PKM system, files, databases, and other resources through a standardized interface. MCP allows AI to work with your actual data rather than just what you paste into prompts. This bridges the gap between AI capabilities and your personal knowledge, enabling more contextual and useful AI assistance.",
+    "tags": ["ai", "integration", "technology", "tools"],
+    "category": "AI",
+    "icon": "FaPlug",
+    "featured": false,
+    "aliases": ["MCP"],
+    "relatedConcepts": ["ai-assistants", "pkm", "tools-for-thought"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Model+Context+Protocol+(MCP)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

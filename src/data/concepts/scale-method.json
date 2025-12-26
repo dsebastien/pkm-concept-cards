@@ -1,0 +1,18 @@
+{
+    "id": "scale-method",
+    "name": "SCALE Method",
+    "summary": "A framework for leveraging AI through systematic capture, connection, and growth.",
+    "explanation": "The SCALE method is an acronym for leveraging AI effectively: Systematic capture (document every AI interaction), Connected knowledge (link prompts to contexts and results), Active processing (weekly review and pattern extraction), Leveraged learning (turn interactions into reusable assets), and Exponential growth (compound improvements over time). Core principles include: every prompt is an asset, every interaction builds, every pattern scales, every system grows, and every result compounds.",
+    "tags": ["ai", "methods", "productivity", "systems"],
+    "category": "Methods",
+    "icon": "FaRobot",
+    "featured": false,
+    "aliases": ["SCALE"],
+    "relatedConcepts": ["compound-growth", "pkm", "templates"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/SCALE+Method"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

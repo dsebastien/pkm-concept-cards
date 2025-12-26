@@ -1,0 +1,18 @@
+{
+    "id": "limit-work-in-progress",
+    "name": "Limit Work In Progress",
+    "summary": "Restricting the number of concurrent tasks to improve focus and throughput.",
+    "explanation": "Limiting Work In Progress (WIP) means restricting the number of tasks or projects you're actively working on at any time. Counterintuitively, doing fewer things simultaneously increases overall throughput. WIP limits reduce context switching, improve focus, and expose bottlenecks. In Kanban, WIP limits are explicit - columns have maximum item counts. For personal productivity, this might mean: only 3 active projects, only 1 major task per day, or only moving to new work when current work is complete.",
+    "tags": ["focus", "kanban", "principles", "productivity"],
+    "category": "Principles",
+    "icon": "FaHandPaper",
+    "featured": false,
+    "aliases": ["Single-tasking", "WIP limits"],
+    "relatedConcepts": ["context-switching", "deep-work", "focus", "kanban"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Limit+Work+In+Progress"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

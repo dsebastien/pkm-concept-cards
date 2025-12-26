@@ -1,0 +1,16 @@
+{
+    "id": "metacognition",
+    "name": "Metacognition",
+    "summary": "Thinking about thinking - awareness and understanding of one's own thought processes.",
+    "explanation": "Metacognition is thinking about thinking - the awareness and understanding of one's own thought processes. It involves monitoring your comprehension, recognizing when you don't understand something, and knowing which strategies help you learn best. Metacognitive skills are essential for effective learning and PKM. They help you choose appropriate note-taking strategies, identify knowledge gaps, and optimize your learning process.",
+    "tags": ["cognition", "concepts", "learning", "thinking"],
+    "category": "Thinking",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Meta-learning", "Thinking about thinking"],
+    "relatedConcepts": ["growth-mindset", "learning", "self-regulation"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

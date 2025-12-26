@@ -1,0 +1,18 @@
+{
+    "id": "loss-aversion",
+    "name": "Loss Aversion",
+    "summary": "The pain of losing is psychologically stronger than the pleasure of gaining.",
+    "explanation": "Loss Aversion is the psychological phenomenon where the pain of losing something is about twice as powerful as the pleasure of gaining the equivalent. We are more motivated to avoid losses than to acquire gains. This influences decision-making and risk tolerance. In PKM, loss aversion may make us reluctant to delete notes (even useless ones) or abandon systems we've invested in. Recognizing this bias helps make more rational decisions about what to keep.",
+    "tags": ["biases", "cognition", "decision-making", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaBalanceScaleLeft",
+    "featured": false,
+    "aliases": ["Loss bias"],
+    "relatedConcepts": ["collectors-fallacy", "decision-making", "sunk-cost-fallacy"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Loss+aversion"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "compound-growth",
+    "name": "Compound Growth",
+    "summary": "Exponential growth where returns generate additional returns over time.",
+    "explanation": "Compound Growth is the phenomenon where growth generates additional growth, creating exponential rather than linear progress over time. In finance, compound interest multiplies wealth; in knowledge, compound learning accelerates understanding. Your PKM system creates compounding value - each note and connection makes future learning easier, each insight enables new insights. This is why consistent, incremental progress over time produces remarkable results. PKM is a long-term investment that compounds.",
+    "tags": ["concepts", "learning", "principles", "productivity"],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Compound interest", "Compounding"],
+    "relatedConcepts": ["continuous-improvement", "learning", "pkm"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Compound+growth"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

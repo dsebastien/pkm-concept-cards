@@ -1,0 +1,18 @@
+{
+    "id": "boy-scout-rule",
+    "name": "Boy Scout Rule",
+    "summary": "Leave things better than you found them.",
+    "explanation": "The Boy Scout Rule states: 'Leave the campground cleaner than you found it.' Applied to knowledge work and PKM, this means making small improvements whenever you encounter something - fix a typo, add a link, clarify a note, organize a folder. Over time, these small improvements compound. You don't need dedicated maintenance sessions if you consistently make things a little better during regular use. This incremental approach keeps systems healthy without feeling burdensome.",
+    "tags": ["best-practices", "maintenance", "principles", "productivity"],
+    "category": "Principles",
+    "icon": "FaCampground",
+    "featured": false,
+    "aliases": ["Scout rule"],
+    "relatedConcepts": ["broken-windows-theory", "continuous-improvement", "evergreen-notes"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Boy+Scout+rule"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

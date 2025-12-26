@@ -1,0 +1,24 @@
+{
+    "id": "periodic-reviews",
+    "name": "Periodic Reviews",
+    "summary": "Regular reflection sessions to review progress and plan ahead.",
+    "explanation": "Periodic reviews are regular system maintenance and reflection sessions - weekly, monthly, quarterly, and yearly. They help track progress, maintain your PKM system, process accumulated notes, and plan ahead. Knowledge rollover through periodic reviews ensures continuity. Reviews should include: processing inboxes, reviewing completed work, updating goals, reflecting on what worked and what didn't, and planning the next period. This practice is awesome for tracking progress and planning ahead, turning your knowledge base into an active tool rather than a passive archive.",
+    "tags": ["habits", "productivity", "reflection", "systems"],
+    "category": "Techniques",
+    "icon": "FaHistory",
+    "featured": false,
+    "aliases": ["Monthly review", "Weekly review", "Yearly review"],
+    "relatedConcepts": ["daily-notes", "gtd", "inbox-zero", "journaling"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Periodic+reviews"
+    ],
+    "articles": [
+        {
+            "title": "Periodic Reviews for a Happier and More Productive Life",
+            "url": "https://www.dsebastien.net/2022-05-16-periodic-reviews",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

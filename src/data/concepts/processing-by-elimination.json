@@ -1,0 +1,18 @@
+{
+    "id": "processing-by-elimination",
+    "name": "Processing by Elimination",
+    "summary": "Prioritizing what to remove rather than what to keep.",
+    "explanation": "Processing by Elimination is a workflow approach that focuses on what to remove or skip rather than what to keep. Instead of deciding which items deserve attention, you identify what can be safely eliminated. This inverts the typical decision burden - everything that isn't eliminated gets processed. The approach is useful for inbox processing, content curation, and note cleanup. It often leads to faster processing because elimination decisions can be quicker than value judgments.",
+    "tags": ["decision-making", "organization", "processes", "productivity"],
+    "category": "Techniques",
+    "icon": "FaTrashAlt",
+    "featured": false,
+    "aliases": ["Elimination-first processing"],
+    "relatedConcepts": ["gtd", "inbox-zero", "pareto-principle", "processing-notes"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Processing+by+elimination"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

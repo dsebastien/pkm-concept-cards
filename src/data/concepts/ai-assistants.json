@@ -1,0 +1,18 @@
+{
+    "id": "ai-assistants",
+    "name": "AI Assistants",
+    "summary": "AI tools configured to help with specific tasks like writing, research, or coding.",
+    "explanation": "AI Assistants are AI-powered tools configured to help with specific tasks such as writing, research, coding, or analysis. Modern AI assistants like Claude, ChatGPT, and others can be customized through system prompts to understand your context, style, and needs. PKM enhances AI assistance by providing rich context - your notes become training data for personalized AI interactions. Well-crafted AI assistants multiply your capabilities in areas where AI excels.",
+    "tags": ["ai", "productivity", "technology", "tools"],
+    "category": "AI",
+    "icon": "FaRobot",
+    "featured": true,
+    "aliases": ["AI agents", "LLM assistants"],
+    "relatedConcepts": ["ai-master-prompt", "prompt-engineering", "tools-for-thought"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/AI+Assistants"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

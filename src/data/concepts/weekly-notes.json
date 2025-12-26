@@ -1,0 +1,24 @@
+{
+    "id": "weekly-notes",
+    "name": "Weekly Notes",
+    "summary": "Weekly summaries and reviews for reflection and planning.",
+    "explanation": "Weekly Notes are periodic notes created each week for review, reflection, and planning. They typically include: reviewing what happened during the week, evaluating progress on goals, identifying lessons learned, processing accumulated items, and planning the week ahead. Weekly notes bridge daily tactical notes and longer-term strategic reviews. They help maintain perspective that's easy to lose in daily work and enable knowledge rollover between periods.",
+    "tags": ["journaling", "planning", "productivity", "reviews"],
+    "category": "Journaling",
+    "icon": "FaCalendarWeek",
+    "featured": false,
+    "aliases": ["Weekly review notes"],
+    "relatedConcepts": ["daily-notes", "gtd", "monthly-notes", "periodic-reviews"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Periodic+reviews"
+    ],
+    "articles": [
+        {
+            "title": "How I Use Weekly Notes in Obsidian",
+            "url": "https://www.dsebastien.net/how-i-use-weekly-notes-in-obsidian/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

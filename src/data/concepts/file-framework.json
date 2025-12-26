@@ -1,0 +1,24 @@
+{
+    "id": "file-framework",
+    "name": "FILE Framework",
+    "summary": "Information should be easy to File, Identify, Locate, and Retrieve.",
+    "explanation": "The FILE Framework is a mnemonic created by Sébastien Dubois to help people think about important aspects when designing an information management system. Information in your system should be: Easy to File (F), Easy to Identify (I), Easy to Locate (L), and Easy to Retrieve (E). This framework is designed to be flexible and adaptable, applicable to various information management systems from simple note-taking apps to complex knowledge bases. It can be used to evaluate existing systems, design new ones, or assess potential tools before adoption.",
+    "tags": ["frameworks", "information-management", "organization", "principles"],
+    "category": "Frameworks",
+    "icon": "FaFileAlt",
+    "featured": false,
+    "aliases": ["FILE"],
+    "relatedConcepts": ["lift-principle", "organization", "pkms"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Introducing+the+FILE+Framework+for+Information+and+Knowledge+Management"
+    ],
+    "articles": [
+        {
+            "title": "Introducing the FILE Framework for Information and Knowledge Management",
+            "url": "https://www.dsebastien.net/introducing-the-file-framework-for-information-and-knowledge-management/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

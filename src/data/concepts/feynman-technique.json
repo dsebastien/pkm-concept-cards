@@ -1,0 +1,24 @@
+{
+    "id": "feynman-technique",
+    "name": "Feynman Technique",
+    "summary": "A learning method based on explaining concepts in simple terms.",
+    "explanation": "The Feynman Technique is a learning method named after physicist Richard Feynman that involves explaining concepts in simple terms as if teaching a child. The four steps are: 1) Choose a concept, 2) Explain it in simple language, 3) Identify gaps in your understanding, 4) Review and simplify further. If you can't explain something simply, you don't understand it well enough. Writing about a topic helps uncover gaps in understanding. This technique is powerful for deepening comprehension and revealing what you truly know.",
+    "tags": ["education", "learning", "techniques", "understanding"],
+    "category": "Techniques",
+    "icon": "FaChalkboardTeacher",
+    "featured": false,
+    "aliases": ["Teach to learn"],
+    "relatedConcepts": ["learning", "understanding", "writing"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Feynman+technique"
+    ],
+    "articles": [
+        {
+            "title": "The Feynman Technique",
+            "url": "https://www.dsebastien.net/2022-08-03-the-feynman-technique/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "prompt-engineering",
+    "name": "Prompt Engineering",
+    "summary": "The practice of crafting effective prompts to get optimal results from AI models.",
+    "explanation": "Prompt Engineering is the practice of crafting effective prompts to get optimal results from AI language models. It involves understanding how AI models interpret instructions and structuring prompts for clarity, context, and desired output format. Techniques include: providing examples (few-shot learning), specifying output format, breaking complex tasks into steps, and giving clear constraints. Good prompt engineering dramatically improves AI output quality and is becoming an essential skill for knowledge workers.",
+    "tags": ["ai", "productivity", "skills", "techniques"],
+    "category": "AI",
+    "icon": "FaTerminal",
+    "featured": false,
+    "aliases": ["AI prompting", "LLM prompting"],
+    "relatedConcepts": ["ai-assistants", "ai-master-prompt"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Prompt+Engineering"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

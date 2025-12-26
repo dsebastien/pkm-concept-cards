@@ -1,0 +1,16 @@
+{
+    "id": "backlinks",
+    "name": "Backlinks",
+    "summary": "Automatic links showing all notes that reference a particular note.",
+    "explanation": "Backlinks are reverse connections that show all notes linking to a particular note. While regular links point forward to other notes, backlinks reveal what points to the current note, creating bi-directional connections. This feature is fundamental to tools like Obsidian and Roam Research. Backlinks help discover unexpected connections, understand context, and navigate your knowledge base in multiple directions. They make your knowledge graph more navigable and help surface relationships you might not have explicitly created.",
+    "tags": ["knowledge-management", "linking", "navigation", "tools"],
+    "category": "Techniques",
+    "icon": "FaLink",
+    "featured": false,
+    "aliases": ["Incoming links", "Reverse links"],
+    "relatedConcepts": ["connected-notes", "knowledge-graph", "moc", "obsidian"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

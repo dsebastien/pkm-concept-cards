@@ -1,0 +1,29 @@
+{
+    "id": "evergreen-notes",
+    "name": "Evergreen Notes",
+    "summary": "Notes that grow and improve over time through continuous refinement.",
+    "explanation": "Evergreen notes are notes that evolve and improve over time, never considered final. Unlike traditional static notes, evergreen notes are continuously refined, updated, and connected as understanding deepens. This iterative approach treats notes as cattle rather than pets - fluid, adaptable, and part of a larger system. The world changes, your knowledge evolves, and notes should reflect your thinking at any given point in time. Never hesitate to update or remove existing notes.",
+    "tags": ["knowledge-management", "methods", "note-taking", "principles"],
+    "category": "Methods",
+    "icon": "FaTree",
+    "featured": false,
+    "aliases": ["Growing notes", "Living notes"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "cattle-approach",
+        "iterative-note-taking",
+        "permanent-notes"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Evergreen+notes"
+    ],
+    "articles": [
+        {
+            "title": "Embracing Fluidity in Knowledge Management",
+            "url": "https://dsebastien.net/treat-ideas-like-cattle-not-like-pets",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

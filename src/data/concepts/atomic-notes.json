@@ -1,0 +1,30 @@
+{
+    "id": "atomic-notes",
+    "name": "Atomic Notes",
+    "summary": "The principle of creating notes that capture a single, self-contained idea.",
+    "explanation": "Atomic notes focus on a single idea or concept, with the goal of explaining one thing well. Following the Zettelkasten method, notes should be atomic and link to each other, with longer texts assembled by composing atomic notes together. Atomic notes are foundational for building a solid, scalable and maintainable Personal Knowledge Graph. By breaking down knowledge into its most essential components, atomic notes enable flexibility, objectivity, and interconnectivity. They are inherently concise, focused, and flexible - each note becomes a building block that can easily be reorganized, linked, or expanded. Like DNA strands recombining to form new life forms, atomic notes can be linked in novel ways to generate insights.",
+    "tags": ["knowledge-management", "note-taking", "organization", "principles"],
+    "category": "Principles",
+    "icon": "FaAtom",
+    "featured": true,
+    "aliases": ["One idea per note", "Single-idea notes"],
+    "relatedConcepts": ["connected-notes", "permanent-notes", "smart-notes", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Atomic+notes"
+    ],
+    "articles": [
+        {
+            "title": "Embracing Fluidity in Knowledge Management",
+            "url": "https://dsebastien.net/treat-ideas-like-cattle-not-like-pets",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Principle of atomicity - zettelkasten.de",
+            "url": "https://zettelkasten.de/posts/create-zettel-from-reading-notes/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

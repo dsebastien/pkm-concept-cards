@@ -1,0 +1,29 @@
+{
+    "id": "active-reading",
+    "name": "Active Reading",
+    "summary": "Engaged reading with note-taking, questioning, and reflection.",
+    "explanation": "Active Reading is an engaged approach to reading that involves taking notes, asking questions, making connections, and reflecting rather than passively consuming text. The goal is not to read faster and go through as many books as you can, but rather to retain more of what you read. You read slower but get a lot more out of it. When you only read, you're missing 90% of the benefits. Truly learning requires thinking, and thinking requires writing.",
+    "tags": ["knowledge-management", "learning", "reading", "techniques"],
+    "category": "Techniques",
+    "icon": "FaBookReader",
+    "featured": false,
+    "aliases": ["Deep reading", "Engaged reading"],
+    "relatedConcepts": ["feynman-technique", "literature-notes", "progressive-summarization"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+to+take+notes+while+reading+non-fiction+books"
+    ],
+    "articles": [
+        {
+            "title": "The Art of Reading Slowly",
+            "url": "https://www.dsebastien.net/the-art-of-reading-slowly-why-speed-isnt-everything/",
+            "type": "website"
+        },
+        {
+            "title": "Why you should take notes while reading non-fiction books",
+            "url": "https://www.dsebastien.net/2022-02-08-why-you-should-take-notes-while-reading",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

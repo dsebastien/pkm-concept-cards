@@ -1,0 +1,18 @@
+{
+    "id": "ai-master-prompt",
+    "name": "AI Master Prompt",
+    "summary": "A comprehensive system prompt that configures AI to understand your context and work style.",
+    "explanation": "An AI Master Prompt is a comprehensive system prompt designed to configure AI assistants with deep understanding of your context, preferences, expertise, writing style, and goals. It typically includes: who you are, your expertise areas, your communication preferences, your values, and guidelines for how the AI should behave. A well-crafted AI Master Prompt transforms generic AI into a personalized assistant that produces consistently relevant, appropriately-styled outputs.",
+    "tags": ["ai", "productivity", "prompts", "techniques"],
+    "category": "AI",
+    "icon": "FaFileCode",
+    "featured": false,
+    "aliases": ["AI persona", "System prompt"],
+    "relatedConcepts": ["ai-assistants", "pkm", "prompt-engineering"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/AI+Master+Prompt"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -7,10 +7,8 @@ import ConceptCard from '@/components/concepts/concept-card'
 import ConceptsFilter from '@/components/concepts/concepts-filter'
 import ConceptDetailModal from '@/components/concepts/concept-detail-modal'
 import CommandPalette from '@/components/concepts/command-palette'
-import conceptsData from '@/data/concepts.json'
-import type { Concept, ConceptsData } from '@/types/concept'
-
-const typedConceptsData = conceptsData as ConceptsData
+import { conceptsData } from '@/data'
+import type { Concept } from '@/types/concept'
 
 const HomePage: React.FC = () => {
     const { conceptId } = useParams<{ conceptId?: string }>()
@@ -102,7 +100,7 @@ const HomePage: React.FC = () => {
     // Derive modal state from URL
     const selectedConcept = useMemo(() => {
         if (!conceptId) return null
-        return typedConceptsData.concepts.find((c) => c.id === conceptId) || null
+        return conceptsData.concepts.find((c) => c.id === conceptId) || null
     }, [conceptId])
 
     const isDetailModalOpen = !!selectedConcept
@@ -110,7 +108,7 @@ const HomePage: React.FC = () => {
     // Get all unique tags from concepts
     const allTags = useMemo(() => {
         const tags = new Set<string>()
-        typedConceptsData.concepts.forEach((concept) => {
+        conceptsData.concepts.forEach((concept) => {
             concept.tags.forEach((tag) => tags.add(tag))
         })
         return Array.from(tags).sort()
@@ -118,7 +116,7 @@ const HomePage: React.FC = () => {
 
     // Filter concepts
     const filteredConcepts = useMemo(() => {
-        return typedConceptsData.concepts.filter((concept) => {
+        return conceptsData.concepts.filter((concept) => {
             // Search query
             if (searchQuery) {
                 const query = searchQuery.toLowerCase()
@@ -196,9 +194,9 @@ const HomePage: React.FC = () => {
     }, [navigate, searchParams])
 
     // Stats
-    const totalConcepts = typedConceptsData.concepts.length
-    const featuredConcepts = typedConceptsData.concepts.filter((c) => c.featured).length
-    const categoriesCount = typedConceptsData.categories.filter((c) => c !== 'All').length
+    const totalConcepts = conceptsData.concepts.length
+    const featuredConcepts = conceptsData.concepts.filter((c) => c.featured).length
+    const categoriesCount = conceptsData.categories.filter((c) => c !== 'All').length
 
     return (
         <>
@@ -262,7 +260,7 @@ const HomePage: React.FC = () => {
                         onTagsChange={setSelectedTags}
                         viewMode={viewMode}
                         onViewModeChange={setViewMode}
-                        categories={typedConceptsData.categories}
+                        categories={conceptsData.categories}
                         allTags={allTags}
                         onOpenCommandPalette={() => setIsCommandPaletteOpen(true)}
                     />
@@ -385,7 +383,7 @@ const HomePage: React.FC = () => {
             {/* Detail Modal */}
             <ConceptDetailModal
                 concept={selectedConcept}
-                allConcepts={typedConceptsData.concepts}
+                allConcepts={conceptsData.concepts}
                 isOpen={isDetailModalOpen}
                 onClose={handleCloseDetails}
                 onNavigateToConcept={handleShowDetails}
@@ -395,11 +393,11 @@ const HomePage: React.FC = () => {
             <CommandPalette
                 isOpen={isCommandPaletteOpen}
                 onClose={() => setIsCommandPaletteOpen(false)}
-                concepts={typedConceptsData.concepts}
+                concepts={conceptsData.concepts}
                 onShowDetails={handleShowDetails}
                 onSetViewMode={setViewMode}
                 onSetCategory={setSelectedCategory}
-                categories={typedConceptsData.categories}
+                categories={conceptsData.categories}
             />
         </>
     )

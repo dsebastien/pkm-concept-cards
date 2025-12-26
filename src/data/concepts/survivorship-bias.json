@@ -1,0 +1,18 @@
+{
+    "id": "survivorship-bias",
+    "name": "Survivorship Bias",
+    "summary": "Focusing on successful examples while ignoring failures that didn't survive.",
+    "explanation": "Survivorship Bias is the logical error of concentrating on people or things that 'survived' some process while overlooking those that didn't, leading to false conclusions. We study successful companies without considering failed ones, or successful methods without seeing failed approaches. It's easy to see someone's success because of survivorship bias - we don't see the many who tried the same thing and failed. This awareness helps evaluate advice and methods more critically.",
+    "tags": ["biases", "cognition", "psychology", "thinking"],
+    "category": "Cognitive Biases",
+    "icon": "FaTrophy",
+    "featured": false,
+    "aliases": ["Survivor bias"],
+    "relatedConcepts": ["confirmation-bias", "critical-thinking", "narrative-fallacy"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Survivorship+bias"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

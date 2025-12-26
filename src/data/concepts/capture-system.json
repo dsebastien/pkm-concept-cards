@@ -1,0 +1,31 @@
+{
+    "id": "capture-system",
+    "name": "Capture System",
+    "summary": "A reliable external system for collecting thoughts and information.",
+    "explanation": "A Capture System is a reliable external storage for collecting thoughts, ideas, and information before they're forgotten. The brain is for having ideas, not holding them - so a trusted capture system is essential. Key requirements: always available (capture tool on you at all times), low friction (quick to use), trusted (you know items will be processed). Your capture system might be a physical notebook, a notes app, or voice memos. Daily notes often serve as the central capture hub in PKM systems.",
+    "tags": ["capture", "pkm", "productivity", "systems", "techniques"],
+    "category": "Systems",
+    "icon": "FaInbox",
+    "featured": false,
+    "aliases": ["Collection system", "Idea capture", "Idea capture system", "Quick capture"],
+    "relatedConcepts": [
+        "capture-habit",
+        "daily-notes",
+        "fleeting-notes",
+        "gtd",
+        "inbox-zero",
+        "pkm"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Idea+capture+system"
+    ],
+    "articles": [
+        {
+            "title": "Streamline Your Note-Taking: Why Daily Notes Should Be Your Capture System",
+            "url": "https://dsebastien.net/transform-your-note-taking-workflow-daily-notes-as-capture-system",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

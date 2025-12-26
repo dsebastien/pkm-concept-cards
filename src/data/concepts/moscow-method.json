@@ -1,0 +1,22 @@
+{
+    "id": "moscow-method",
+    "name": "MoSCoW Method",
+    "summary": "Prioritization framework using Must have, Should have, Could have, Won't have.",
+    "explanation": "The MoSCoW Method is a prioritization technique that categorizes requirements or tasks into four groups: Must have (essential, non-negotiable), Should have (important but not critical), Could have (nice to have, include if possible), and Won't have (explicitly out of scope for now). This framework helps make difficult prioritization decisions by forcing explicit trade-offs. It's useful for projects, daily planning, and deciding what to capture in your PKM system.",
+    "tags": ["methods", "planning", "prioritization", "productivity"],
+    "category": "Methods",
+    "icon": "FaListAlt",
+    "featured": false,
+    "aliases": ["MoSCoW prioritization"],
+    "relatedConcepts": ["abcde-method", "eisenhower-matrix", "prioritization"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Applying the MoSCoW prioritization method to Daily Todos",
+            "url": "https://dsebastien.net/2019-08-27-tagging-your-daily-todos-when-moscow-is-not-enough",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

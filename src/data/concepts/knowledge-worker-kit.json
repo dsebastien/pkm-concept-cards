@@ -1,0 +1,24 @@
+{
+    "id": "knowledge-worker-kit",
+    "name": "Knowledge Worker Kit",
+    "summary": "An all-in-one productivity resource for knowledge workers.",
+    "explanation": "The Knowledge Worker Kit is an all-in-one productivity boost with lifetime community access, extensive guides covering Knowledge Work, Personal Organization, Time Management, and more. Created by Sébastien Dubois, it's designed for leaders, knowledge workers, solopreneurs, and content creators who want to optimize their workflows and productivity.",
+    "tags": ["guides", "knowledge-work", "productivity", "products"],
+    "category": "Products",
+    "icon": "FaToolbox",
+    "featured": false,
+    "aliases": ["KWK"],
+    "relatedConcepts": ["knowledge-management", "pkm", "productivity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowledge+Worker+Kit"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Get the Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

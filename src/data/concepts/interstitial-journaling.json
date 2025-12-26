@@ -1,0 +1,18 @@
+{
+    "id": "interstitial-journaling",
+    "name": "Interstitial Journaling",
+    "summary": "Capturing thoughts and notes in the gaps between tasks throughout the day.",
+    "explanation": "Interstitial Journaling is the practice of writing brief journal entries in the transitions between tasks throughout your day. Instead of dedicated journaling sessions, you capture thoughts, document what you just completed, and note what you're about to do in these interstitial moments. This approach maintains awareness of how you spend time, captures ideas before they're lost, and creates a detailed record without requiring lengthy writing sessions. It integrates journaling into your workflow rather than adding it as a separate task.",
+    "tags": ["capture", "habits", "journaling", "productivity", "techniques"],
+    "category": "Journaling",
+    "icon": "FaPenSquare",
+    "featured": true,
+    "aliases": ["Between-task journaling", "Gap journaling", "Micro-journaling"],
+    "relatedConcepts": ["capture-system", "daily-notes", "journaling", "productivity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Interstitial+Journaling"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

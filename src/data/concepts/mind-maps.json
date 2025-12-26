@@ -1,0 +1,18 @@
+{
+    "id": "mind-maps",
+    "name": "Mind Maps",
+    "summary": "Visual diagrams for organizing information hierarchically from a central topic.",
+    "explanation": "Mind Maps are radial visual diagrams for organizing information hierarchically, starting from a central topic and branching out with related ideas. Created by Tony Buzan, they leverage visual thinking and the brain's natural tendency for association. Mind maps are useful for brainstorming, note-taking during lectures, project planning, and exploring connections between ideas. They represent radiant thinking - the non-linear thinking pattern that radiates from a central concept through associations in multiple directions.",
+    "tags": ["organization", "techniques", "thinking", "visualization"],
+    "category": "Techniques",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Concept maps", "Mind mapping"],
+    "relatedConcepts": ["brainstorming", "moc", "visual-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Mind+Maps"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

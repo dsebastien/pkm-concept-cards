@@ -1,0 +1,18 @@
+{
+    "id": "novelty-bias",
+    "name": "Novelty Bias",
+    "summary": "Disproportionate attraction to new information over established knowledge.",
+    "explanation": "Novelty Bias is the tendency to be disproportionately attracted to new information, tools, and methods over established ones. We're drawn to the latest frameworks, newest apps, and freshest ideas, sometimes at the expense of proven approaches. This leads to tool hopping, method switching, and constant restarts. The Lindy Effect suggests established ideas may be more valuable. Being aware of novelty bias helps maintain focus on what works rather than what's new.",
+    "tags": ["biases", "cognition", "productivity", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": ["Shiny object syndrome"],
+    "relatedConcepts": ["collectors-fallacy", "focus", "lindy-effect"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Novelty+bias"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

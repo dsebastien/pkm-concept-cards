@@ -1,0 +1,18 @@
+{
+    "id": "personal-manifesto",
+    "name": "Personal Manifesto",
+    "summary": "A written declaration of your values, principles, and guiding beliefs.",
+    "explanation": "A Personal Manifesto is a written declaration that articulates your core values, personal principles, beliefs, and commitments. It serves as a guiding document for making decisions aligned with who you are and who you want to become. Creating a manifesto requires deep reflection on what matters most to you. Once documented, it provides clarity during difficult decisions and helps maintain integrity between beliefs and actions. It's a living document that evolves as you grow.",
+    "tags": ["clarity", "personal-growth", "principles", "values"],
+    "category": "Clarity",
+    "icon": "FaScroll",
+    "featured": true,
+    "aliases": ["Life manifesto", "Personal declaration"],
+    "relatedConcepts": ["goal-setting", "ikigai", "life-design", "periodic-reviews"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Manifesto"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

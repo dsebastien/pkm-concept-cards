@@ -1,0 +1,24 @@
+{
+    "id": "law-of-staleness",
+    "name": "Law of Staleness",
+    "summary": "The value of information declines rapidly as it ages.",
+    "explanation": "The Law of Staleness observes that the value of information typically declines rapidly as it ages. Fresh information like today's news may be valuable, but its relevance quickly diminishes. New information can quickly become outdated, be proven incorrect, or turn out to be low quality. Content published less than a year ago has a low probability of standing the test of time. However, value sometimes increases with age due to rarity or timelessness - as with wisdom from ancient philosophers. This is the Lindy Effect.",
+    "tags": ["curation", "information", "learning", "principles", "quality", "time"],
+    "category": "Principles",
+    "icon": "FaCalendarTimes",
+    "featured": false,
+    "aliases": ["Freshness caution", "Information decay"],
+    "relatedConcepts": [
+        "content-curation",
+        "lindy-effect",
+        "novelty-bias",
+        "recency-bias",
+        "test-of-time"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Law+of+staleness"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

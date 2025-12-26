@@ -1,0 +1,40 @@
+{
+    "id": "obsidian",
+    "name": "Obsidian",
+    "summary": "A powerful note-taking app that uses local Markdown files and linking.",
+    "explanation": "Obsidian is a powerful tool for thought that uses local Markdown files, emphasizes linking between notes, and includes a graph view to visualize connections. Benefits include: local-first (you own your data), Markdown-based (future-proof and portable), extensive plugin ecosystem, graph visualization, Canvas for visual thinking, and strong community. Obsidian serves as a thinking headquarters - a fourth place beyond home, work, and social spaces where thoughts can exist, be developed, and grow. It's all you need from simple notes to complete productivity.",
+    "tags": ["note-taking", "productivity", "software", "tools"],
+    "category": "Tools",
+    "icon": "FaGem",
+    "featured": true,
+    "aliases": ["Obsidian.md"],
+    "relatedConcepts": ["backlinks", "knowledge-graph", "markdown", "tools-for-thought"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Obsidian"
+    ],
+    "articles": [
+        {
+            "title": "How I synchronize and backup my Obsidian notes",
+            "url": "https://www.dsebastien.net/how-i-synchronize-and-backup-my-obsidian-notes/",
+            "type": "website"
+        },
+        {
+            "title": "Why Obsidian is All You Need - From Simple Notes to Complete Productivity",
+            "url": "https://www.dsebastien.net/why-obsidian-is-all-you-need-from-simple-notes-to-complete-productivity/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Obsidian Official Website",
+            "url": "https://obsidian.md",
+            "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://obsidianstarterkit.com",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

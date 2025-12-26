@@ -1,0 +1,18 @@
+{
+    "id": "smart-goals",
+    "name": "SMART Goals",
+    "summary": "Goals that are Specific, Measurable, Achievable, Relevant, and Time-bound.",
+    "explanation": "SMART Goals is a framework for setting effective goals. Goals should be: Specific (clearly defined), Measurable (quantifiable progress), Achievable (realistic given resources), Relevant (aligned with larger objectives), and Time-bound (with deadlines). Vague goals like 'get better at writing' become SMART: 'Publish one blog post per week for the next 3 months.' SMART criteria transform wishes into actionable commitments with clear success criteria.",
+    "tags": ["frameworks", "goal-setting", "planning", "productivity"],
+    "category": "Frameworks",
+    "icon": "FaBullseye",
+    "featured": true,
+    "aliases": ["Specific Measurable Achievable Relevant Time-bound"],
+    "relatedConcepts": ["accountability", "goal-setting", "periodic-reviews", "time-horizons"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/SMART+Goals"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

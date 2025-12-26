@@ -1,0 +1,24 @@
+{
+    "id": "tools-for-thought",
+    "name": "Tools for Thought",
+    "summary": "Software and methods designed to augment human thinking and knowledge work.",
+    "explanation": "Tools for Thought (TfT) are technologies and methods designed to augment human cognition, memory, and reasoning. The term encompasses note-taking apps, mind mapping tools, spaced repetition systems, and any software that enhances thinking capabilities. Modern examples include Obsidian, Roam Research, and Notion. The key insight is that good tools don't just store information - they shape how you think. Choosing and configuring your TfT is a significant decision for knowledge workers.",
+    "tags": ["knowledge-management", "productivity", "software", "technology", "tools"],
+    "category": "Tools",
+    "icon": "FaTools",
+    "featured": true,
+    "aliases": ["Note-taking apps", "Note-taking tools", "PKM tools", "TfT", "Thinking tools"],
+    "relatedConcepts": ["file-over-app", "knowledge-graph", "obsidian", "pkm", "second-brain"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Tools+for+Thought+(TfTs)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "PKM Tools Database",
+            "url": "https://www.dsebastien.net/free-pkm-tools-database",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

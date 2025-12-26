@@ -1,0 +1,22 @@
+{
+    "id": "growth-mindset",
+    "name": "Growth Mindset",
+    "summary": "The belief that abilities can be developed through effort and learning.",
+    "explanation": "Growth Mindset, developed by psychologist Carol Dweck, is the belief that abilities and intelligence can be developed through dedication, hard work, and learning. This contrasts with a fixed mindset that views abilities as innate and unchangeable. People with a growth mindset embrace challenges, persist through obstacles, see effort as the path to mastery, learn from criticism, and find inspiration in others' success. This mindset is foundational for effective learning and PKM.",
+    "tags": ["learning", "mindset", "personal-growth", "psychology"],
+    "category": "Concepts",
+    "icon": "FaSeedling",
+    "featured": false,
+    "aliases": ["Learning mindset"],
+    "relatedConcepts": ["continuous-improvement", "learning", "metacognition"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Mindset by Carol Dweck",
+            "url": "https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

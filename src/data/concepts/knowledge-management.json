@@ -1,0 +1,35 @@
+{
+    "id": "knowledge-management",
+    "name": "Knowledge Management",
+    "summary": "The process of creating, sharing, using, and managing knowledge in organizations.",
+    "explanation": "Knowledge Management (KM) is the process of creating, sharing, using, and managing knowledge and information in an organization or for an individual. The secret of Knowledge Management is understanding that it's, first and foremost, a practice that needs to be fully integrated in your life and work before you can reap the benefits. KM isn't a separate activity - it should be part of everything you do. It isn't about adding more work to your day; it's about transforming how you handle the work you already do. KM goes way beyond productivity - it's a means to learn more about yourself, develop your potential, and live the life you were meant to live.",
+    "tags": ["core-concept", "knowledge-management", "organization", "productivity"],
+    "category": "Core Concepts",
+    "icon": "FaDatabase",
+    "featured": false,
+    "aliases": ["KM"],
+    "relatedConcepts": ["information-management", "knowledge-graph", "pkm"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowledge+Management"
+    ],
+    "articles": [
+        {
+            "title": "10 Essential Knowledge Management Methods Every Professional Should Master",
+            "url": "https://www.dsebastien.net/10-essential-knowledge-management-methods-every-professional-should-master/",
+            "type": "website"
+        },
+        {
+            "title": "The Hidden Cost of Ignoring Knowledge Management",
+            "url": "https://www.dsebastien.net/what-you-are-missing-without-knowledge-management/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Knowledge Management for Beginners Course",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

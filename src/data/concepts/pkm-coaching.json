@@ -1,0 +1,24 @@
+{
+    "id": "pkm-coaching",
+    "name": "PKM Coaching",
+    "summary": "One-on-one personalized guidance for implementing effective knowledge management.",
+    "explanation": "Personal Knowledge Management Coaching provides one-on-one personalized guidance to implement effective Knowledge Management strategies, overcome challenges, and optimize your workflow. Perfect for newcomers needing structured guidance, experienced users wanting to refine their system, or anyone facing specific PKM challenges. Sessions with Sébastien Dubois help you design, implement, and iterate on your personal knowledge management practice.",
+    "tags": ["coaching", "products", "services", "support"],
+    "category": "Products",
+    "icon": "FaUserTie",
+    "featured": false,
+    "aliases": ["Knowledge Management Coaching", "PKM Coaching"],
+    "relatedConcepts": ["knowledge-management", "pkm", "pkms"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Knowledge+Management+Coaching"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Book a PKM Coaching Session",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

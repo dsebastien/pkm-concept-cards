@@ -1,0 +1,24 @@
+{
+    "id": "obsidian-web-clipper",
+    "name": "Obsidian Web Clipper",
+    "summary": "A browser extension for capturing web content directly to Obsidian.",
+    "explanation": "The Obsidian Web Clipper is a browser extension that allows you to capture web content directly into your Obsidian vault. It can extract article content, preserve formatting, add metadata, and use templates for consistent capture. This makes it a powerful content curation solution for building your knowledge base from web sources. It significantly reduces the friction of capturing information from the web.",
+    "tags": ["browser", "capture", "productivity", "tools"],
+    "category": "Tools",
+    "icon": "FaClipboard",
+    "featured": false,
+    "aliases": ["Web clipper"],
+    "relatedConcepts": ["capture-system", "literature-notes", "obsidian"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Obsidian+Web+Clipper"
+    ],
+    "articles": [
+        {
+            "title": "Supercharge Your PKM Workflow with the Obsidian Web Clipper",
+            "url": "https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

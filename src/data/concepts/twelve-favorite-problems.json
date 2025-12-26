@@ -1,0 +1,18 @@
+{
+    "id": "twelve-favorite-problems",
+    "name": "12 Favorite Problems",
+    "summary": "Maintaining a list of important questions that guide your learning and work.",
+    "explanation": "The 12 Favorite Problems concept, attributed to Richard Feynman, involves maintaining a list of important questions or problems that fascinate you. As you encounter new information, you test it against these problems - does it help solve any of them? This practice turns passive learning into active problem-solving. Your favorite problems guide reading choices, spark creative connections, and give direction to your knowledge accumulation. They're questions you return to repeatedly throughout your life.",
+    "tags": ["creativity", "curiosity", "learning", "techniques"],
+    "category": "Techniques",
+    "icon": "FaQuestion",
+    "featured": true,
+    "aliases": ["Favorite questions", "Guiding questions"],
+    "relatedConcepts": ["connected-notes", "curiosity", "learning", "serendipity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/12+favorite+questions+or+problems"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

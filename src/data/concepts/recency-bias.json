@@ -1,0 +1,18 @@
+{
+    "id": "recency-bias",
+    "name": "Recency Bias",
+    "summary": "The tendency to overweight recent information in decision-making.",
+    "explanation": "Recency Bias is the tendency to give disproportionate weight to recent events or information when making decisions or predictions. What happened recently feels more relevant and influential than older data, even when it shouldn't be. This can lead to overreacting to recent trends and undervaluing historical patterns. Fighting against recency bias is important for making balanced decisions. PKM systems help by preserving and surfacing older but relevant information.",
+    "tags": ["biases", "cognition", "decision-making", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["Availability heuristic"],
+    "relatedConcepts": ["confirmation-bias", "lindy-effect", "test-of-time"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Recency+bias"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

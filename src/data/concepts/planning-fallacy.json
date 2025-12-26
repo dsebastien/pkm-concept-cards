@@ -1,0 +1,16 @@
+{
+    "id": "planning-fallacy",
+    "name": "Planning Fallacy",
+    "summary": "The tendency to underestimate time, costs, and risks while overestimating benefits.",
+    "explanation": "The Planning Fallacy is the tendency to underestimate time, costs, and risks of future actions while overestimating their benefits. Projects almost always take longer and cost more than initially estimated. This bias persists even when we know about past overruns. Counterstrategies include: using reference class forecasting (basing estimates on similar past projects), breaking projects into small tasks, adding buffers, and tracking actual versus estimated times to calibrate future estimates.",
+    "tags": ["biases", "planning", "productivity", "psychology"],
+    "category": "Cognitive Biases",
+    "icon": "FaCalendarTimes",
+    "featured": false,
+    "aliases": ["Optimism bias", "Underestimation"],
+    "relatedConcepts": ["decision-making", "goal-setting", "periodic-reviews"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

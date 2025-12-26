@@ -1,0 +1,23 @@
+{
+    "id": "root-cause-analysis",
+    "name": "Root Cause Analysis",
+    "summary": "Problem-solving method focused on identifying fundamental causes rather than symptoms.",
+    "explanation": "Root Cause Analysis (RCA) is a problem-solving method focused on identifying the fundamental causes of problems rather than treating symptoms. The core principle is that effective solutions address root causes - otherwise problems will recur. Techniques include the Five Whys, fishbone diagrams, and fault tree analysis. In PKM and personal development, RCA helps understand why systems fail, why habits don't stick, or why productivity suffers - enabling lasting solutions rather than temporary fixes.",
+    "tags": ["analysis", "problem-solving", "techniques", "thinking"],
+    "category": "Techniques",
+    "icon": "FaSearch",
+    "featured": false,
+    "aliases": ["Causal analysis", "RCA"],
+    "relatedConcepts": [
+        "critical-thinking",
+        "first-principles",
+        "five-whys-technique",
+        "systems-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Root-cause+analysis+(RCA)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

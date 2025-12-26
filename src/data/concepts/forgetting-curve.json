@@ -1,0 +1,18 @@
+{
+    "id": "forgetting-curve",
+    "name": "Forgetting Curve",
+    "summary": "The exponential decay of memory retention over time.",
+    "explanation": "The Forgetting Curve, discovered by Hermann Ebbinghaus, describes how memory retention declines exponentially over time without reinforcement. Within 24 hours, you forget about 70% of new information; within a week, up to 90%. However, each review 'resets' and strengthens the memory, flattening the curve. This is why PKM is valuable - by externalizing knowledge, you don't need to rely on imperfect human memory. Your knowledge base becomes reliable external memory that never forgets.",
+    "tags": ["concepts", "learning", "memory", "psychology"],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Memory decay"],
+    "relatedConcepts": ["learning", "pkm", "spaced-repetition"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Forgetting+curve"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

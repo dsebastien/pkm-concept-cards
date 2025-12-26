@@ -1,0 +1,18 @@
+{
+    "id": "three-good-things",
+    "name": "Three Good Things",
+    "summary": "Reflecting on three positive events each day to build gratitude.",
+    "explanation": "The Three Good Things technique is a positive psychology intervention where you reflect on three things that went well each day and why they happened. Unlike simple gratitude lists, this practice asks you to explain why each good thing occurred, promoting deeper reflection on what's working in your life. Research shows this simple practice, done consistently over time, significantly improves happiness and reduces depression. It shifts focus from problems to positive aspects of daily life.",
+    "tags": ["gratitude", "journaling", "psychology", "wellbeing"],
+    "category": "Techniques",
+    "icon": "FaSmile",
+    "featured": false,
+    "aliases": ["Three blessings", "What went well"],
+    "relatedConcepts": ["gratitude-journal", "journaling", "one-one-one-method", "reflection"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Three+good+things+technique"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

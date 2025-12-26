@@ -1,0 +1,16 @@
+{
+    "id": "retrieval",
+    "name": "Retrieval",
+    "summary": "The process of accessing and bringing stored information into consciousness.",
+    "explanation": "Retrieval is the cognitive process of accessing stored memories and bringing them into conscious awareness. Unlike a computer, human retrieval is reconstructive - we rebuild memories rather than playing them back exactly. Retrieval is strengthened by practice (the testing effect) and is highly dependent on cues. PKM systems are essentially retrieval systems - they provide cues (links, tags, search) to help you access stored knowledge. Good organization optimizes retrieval.",
+    "tags": ["cognition", "learning", "memory", "psychology"],
+    "category": "Concepts",
+    "icon": "FaSearch",
+    "featured": false,
+    "aliases": ["Memory retrieval", "Recall"],
+    "relatedConcepts": ["active-recall", "encoding", "forgetting-curve", "organization"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

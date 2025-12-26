@@ -1,0 +1,16 @@
+{
+    "id": "lifeos",
+    "name": "LifeOS",
+    "summary": "A command center for managing all aspects of your life.",
+    "explanation": "LifeOS (Life Operating System) is a concept of using your PKM system as a comprehensive command center for managing all aspects of life - goals, projects, plans, tasks, priorities, health, relationships, finances, and more. It combines strategic (long-term vision) and tactical (daily actions) perspectives. A LifeOS provides focus, tracking, and accountability. It's about seeing your knowledge base not just as an archive but as an active tool for living intentionally and achieving your goals.",
+    "tags": ["life-management", "organization", "productivity", "systems"],
+    "category": "Systems",
+    "icon": "FaDesktop",
+    "featured": false,
+    "aliases": ["Life Operating System", "Personal OS"],
+    "relatedConcepts": ["daily-notes", "gtd", "life-design", "periodic-reviews", "pkms"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
