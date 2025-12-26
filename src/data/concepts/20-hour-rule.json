@@ -9,7 +9,9 @@
     "featured": false,
     "aliases": ["20 hours rule", "Basic proficiency rule"],
     "relatedConcepts": ["10000-hour-rule", "meta-learning", "just-in-time-learning"],
-    "relatedNotes": [],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/20+hour+rule"
+    ],
     "articles": [],
     "references": [
         {
