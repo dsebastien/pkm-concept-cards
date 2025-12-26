@@ -1,0 +1,24 @@
+{
+    "id": "ai-mega-prompts",
+    "name": "AI Mega Prompts",
+    "summary": "A technique of concatenating multiple notes and documents into a single comprehensive file to provide rich context to LLMs.",
+    "explanation": "AI Mega Prompts is a practical technique for leveraging Large Language Models with your personal knowledge base. The idea is simple: use scripts or tools to find and concatenate relevant notes, documents, and their metadata into a single text file that can be uploaded to an AI.\n\nHow it works:\n1. **Selection**: Identify notes relevant to your query (by folder, tags, or link traversal)\n2. **Concatenation**: Combine all selected notes into one file, preserving metadata and links\n3. **Upload**: Provide the mega prompt to an LLM (via file upload or paste)\n4. **Query**: Ask questions that leverage the full context of your knowledge\n\nTools for creating AI Mega Prompts:\n- **Code2Prompt**: Generates prompts from code repositories\n- **files-to-prompt**: Concatenates files into prompt-ready format\n- **Custom scripts**: Can traverse Maps of Content (MoCs) to gather related notes\n\nBenefits:\n- Provide comprehensive context in a single interaction\n- Leverage your personal knowledge with any AI that supports file uploads\n- Work with topic-specific knowledge bundles\n- Enable AI to see connections across multiple notes\n\nBest practices:\n- Focus on specific topics rather than entire vaults\n- Include metadata (tags, links) for context\n- Use with LLMs that have large context windows\n- Combine with Maps of Content for structured knowledge sharing\n\nThis technique turns your PKM system into a powerful knowledge augmentation layer for AI interactions.",
+    "tags": ["ai", "prompting", "pkm", "knowledge-management", "productivity"],
+    "category": "Techniques",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Mega Prompts", "Knowledge Prompts", "Context Bundles"],
+    "relatedConcepts": ["large-language-models", "context-window", "moc", "prompt-engineering"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/AI+Mega+Prompts"
+    ],
+    "articles": [
+        {
+            "title": "AI Mega Prompt Script (Gist)",
+            "url": "https://gist.github.com/dsebastien/a047352d8dc23166228510055ef8ec7c",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

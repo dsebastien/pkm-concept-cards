@@ -1,18 +1,30 @@
 {
     "id": "radiant-thinking",
     "name": "Radiant Thinking",
-    "summary": "Thinking that radiates outward from a central concept through associations.",
-    "explanation": "Radiant Thinking, a concept from Tony Buzan, describes the brain's natural pattern of thinking that radiates outward from a central idea through countless associations in all directions. Like light rays emanating from a source, thoughts branch and connect endlessly. Mind maps are designed to capture radiant thinking visually. Understanding radiant thinking helps design PKM systems that align with how the brain naturally processes and connects information.",
-    "tags": ["cognition", "concepts", "creativity", "thinking"],
+    "summary": "The brain's natural associative thinking pattern where ideas radiate outward from a central concept, forming the basis for mind mapping.",
+    "explanation": "Radiant Thinking is a concept developed by Tony Buzan to describe how the human brain naturally processes and organizes information. Rather than thinking in linear sequences, our minds work through association - each idea triggering connections to multiple related ideas that branch outward like rays from a central point.\n\nKey characteristics of radiant thinking:\n- **Central focus**: Thoughts originate from a core concept or trigger\n- **Branching associations**: Each idea connects to multiple related ideas\n- **Non-linear**: Ideas don't flow in a single direction but radiate in all directions\n- **Infinite expansion**: New associations can always be added\n- **Multi-sensory**: Incorporates images, colors, and spatial relationships\n\nHow it relates to learning and creativity:\n- Mirrors the brain's neural network structure\n- Enables rapid idea generation and exploration\n- Supports both divergent and convergent thinking\n- Leverages spatial memory and visual processing\n- Facilitates seeing unexpected connections\n\nRadiant thinking is the theoretical foundation for mind mapping. When you create a mind map with a central topic and branching sub-topics, you're externalizing the brain's natural radiant thinking process.\n\nApplications:\n- **Brainstorming**: Generate ideas by following natural associations\n- **Note-taking**: Capture information in brain-friendly structures\n- **Problem-solving**: Explore all aspects of an issue\n- **Memory**: Create memorable, interconnected knowledge structures\n- **Planning**: Develop comprehensive project outlines",
+    "tags": ["thinking", "creativity", "mind-mapping", "cognition", "learning", "visual-thinking"],
     "category": "Thinking",
-    "icon": "FaSun",
+    "icon": "FaProjectDiagram",
     "featured": false,
-    "aliases": ["Radiating thought"],
-    "relatedConcepts": ["associative-thinking", "brainstorming", "mind-maps", "visual-thinking"],
+    "aliases": ["Radiating thought", "Associative Thinking", "Radial Thinking"],
+    "relatedConcepts": [
+        "mind-maps",
+        "visual-thinking",
+        "brainstorming",
+        "associative-thinking",
+        "divergent-thinking"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Radiant+thinking"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Mind Map Book",
+            "url": "https://www.amazon.com/Mind-Map-Book-Thinking-Potential/dp/0452273226",
+            "type": "book"
+        }
+    ],
     "tutorials": []
 }

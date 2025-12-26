@@ -1,0 +1,37 @@
+{
+    "id": "large-language-models",
+    "name": "Large Language Models (LLMs)",
+    "summary": "AI models that use transformer architecture to understand and generate human-like text by predicting the next token in a sequence.",
+    "explanation": "Large Language Models (LLMs) are AI systems trained on massive text datasets to generate human-like text. They work by predicting the most probable next word (token) based on the preceding context, using a transformer architecture with attention mechanisms.\n\nLLMs use induction rather than deduction - they make highly-educated statistical guesses based on patterns learned during training. This explains why techniques like Chain-of-Thought prompting are effective: making the model 'think out loud' produces more correct-sounding word sequences.\n\nKey components include:\n- **Encoders**: Convert tokens into numerical representations (embeddings) that capture semantic meaning\n- **Decoders**: Generate output by predicting the next token based on context\n- **Attention mechanism**: Weighs the importance of surrounding words to determine meaning in context\n- **Context window**: The number of tokens the model can process at once (e.g., 128K for GPT-4, 200K for Claude)\n\nLLMs are trained using Reinforcement Learning from Human Feedback (RLHF) to align outputs with human preferences. They can be extended with Retrieval Augmented Generation (RAG) to access external, up-to-date information.\n\nThe key to effective LLM usage is treating them as evolution engines - generating initial attempts and iteratively improving through guided feedback.",
+    "tags": ["ai", "machine-learning", "nlp", "transformers", "deep-learning", "text-generation"],
+    "category": "AI",
+    "icon": "FaBrain",
+    "featured": true,
+    "aliases": ["LLM", "LLMs", "Language Model", "Foundation Model"],
+    "relatedConcepts": [
+        "chain-of-thought-prompting",
+        "retrieval-augmented-generation",
+        "context-window",
+        "rlhf",
+        "ai-mega-prompts",
+        "prompt-engineering"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Large+Language+Models+(LLMs)"
+    ],
+    "articles": [
+        {
+            "title": "LLM Visualization",
+            "url": "https://bbycroft.net/llm",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Attention Is All You Need (Original Transformer Paper)",
+            "url": "https://arxiv.org/abs/1706.03762",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

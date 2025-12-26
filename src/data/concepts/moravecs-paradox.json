@@ -1,0 +1,30 @@
+{
+    "id": "moravecs-paradox",
+    "name": "Moravec's Paradox",
+    "summary": "The observation that tasks easy for humans (like perception and movement) are hard for AI, while tasks hard for humans (like math and chess) are easy for AI.",
+    "explanation": "Moravec's Paradox, articulated by roboticist Hans Moravec in the 1980s, reveals a counterintuitive truth about artificial intelligence: the skills we consider intellectually demanding are often the easiest for computers, while the 'simple' things we do without thinking are incredibly difficult to replicate.\n\nExamples of the paradox:\n- **Easy for AI, hard for humans**: Complex mathematics, playing chess at grandmaster level, processing millions of data points, perfect recall\n- **Easy for humans, hard for AI**: Recognizing faces in different lighting, walking on uneven terrain, understanding sarcasm, loading a dishwasher\n\nWhy this happens:\n- High-level reasoning is a recent evolutionary development with explicit, codifiable rules\n- Sensorimotor skills evolved over millions of years and are deeply optimized but implicit\n- Abstract thinking uses serial, conscious processing that's easy to program\n- Perception and motor control use massive parallel processing that's hard to replicate\n\nAs Moravec put it: 'It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility.'\n\nImplications for knowledge work:\n- AI excels at tasks we find tedious (data analysis, summarization)\n- Humans remain superior at tasks requiring physical world understanding\n- The best results come from human-AI collaboration that leverages complementary strengths\n- Don't assume 'easy' tasks for you will be easy to automate",
+    "tags": ["ai", "cognition", "robotics", "paradox", "human-machine-interaction"],
+    "category": "Principles",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": ["Moravec Paradox", "Moravec's Problem"],
+    "relatedConcepts": ["large-language-models", "jevons-paradox"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Large+Language+Models+(LLMs)"
+    ],
+    "articles": [
+        {
+            "title": "Moravec's Paradox (Wikipedia)",
+            "url": "https://en.wikipedia.org/wiki/Moravec%27s_paradox",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Mind Children: The Future of Robot and Human Intelligence",
+            "url": "https://www.amazon.com/Mind-Children-Future-Robot-Intelligence/dp/0674576187",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

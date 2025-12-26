@@ -1,0 +1,28 @@
+{
+    "id": "a-place-for-everything",
+    "name": "A Place for Everything",
+    "summary": "The organizational principle that every item should have a designated location, and items should always be returned there.",
+    "explanation": "A place for everything and everything in its place is a fundamental organizational principle attributed to Benjamin Franklin, though variations have existed for centuries. The principle has two components: first, every item (whether physical or digital) should have a designated home; second, items should always be returned to their designated location after use. In personal knowledge management, this principle underpins effective folder structures, tagging systems, and information architecture. When applied consistently, it eliminates the friction of searching for information, reduces cognitive load, and builds trust in your system. You always know where to find things and where to put new items. This principle works hand-in-hand with Single Source of Truth (SSOT) - not only should everything have a place, but each piece of information should exist in exactly one authoritative location. The principle is also foundational to organizational systems like PARA and Johnny Decimal, which provide frameworks for defining these designated places.",
+    "tags": ["organization", "principles", "structure", "productivity", "knowledge-management"],
+    "category": "Principles",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Everything in its place", "A place for everything and everything in its place"],
+    "relatedConcepts": [
+        "mise-en-place",
+        "ssot",
+        "para-method",
+        "johnny-decimal",
+        "center-of-gravity-principle"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "A Place for Everything and Everything in Its Place - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/A_place_for_everything_and_everything_in_its_place",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "forgetting-as-learning",
+    "name": "Forgetting is a Form of Learning",
+    "summary": "Forgetting helps the brain filter irrelevant information and strengthens memory through retrieval practice.",
+    "explanation": "Forgetting is a Form of Learning is a counterintuitive principle from cognitive science that reframes forgetting as a beneficial process rather than a failure. According to research by Robert and Elizabeth Bjork, forgetting serves two crucial functions. First, it acts as a natural filter that reduces interference from outdated or irrelevant information, making it easier to access what's truly important. Without forgetting, our minds would be cluttered with obsolete facts and outdated knowledge. Second, temporary forgetting creates opportunities for retrieval practice - when we struggle to recall something, the subsequent successful retrieval strengthens the memory more than if we had never forgotten. This is the 'testing effect' in action. The Bjorks distinguish between 'storage strength' (how well information is encoded) and 'retrieval strength' (how easily it can be accessed). While retrieval strength fades over time, each successful retrieval boosts storage strength. This explains why spaced repetition and desirable difficulties are so effective - they leverage the learning benefits of forgetting. For PKM practitioners, this principle suggests that periodically struggling to remember concepts (rather than always having instant access) can deepen understanding.",
+    "tags": ["cognition", "learning", "memory", "psychology"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Beneficial forgetting", "Productive forgetting", "New Theory of Disuse"],
+    "relatedConcepts": [
+        "active-recall",
+        "desirable-difficulties",
+        "forgetting-curve",
+        "retrieval",
+        "spaced-repetition"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Make It Stick: The Science of Successful Learning",
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674729018",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

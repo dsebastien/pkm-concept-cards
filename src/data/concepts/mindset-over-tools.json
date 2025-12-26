@@ -1,0 +1,33 @@
+{
+    "id": "mindset-over-tools",
+    "name": "Mindset Over Tools",
+    "summary": "Prioritizing methodology, habits, and mental models over specific tools in knowledge work.",
+    "explanation": "The Mindset Over Tools principle emphasizes that the underlying methodology, habits, and mental models matter far more than the specific tools you use for knowledge management. While it's tempting to believe that the perfect app or system will transform your productivity, sustainable results come from developing solid thinking practices, consistent habits, and clear principles. Tools come and go - note-taking apps rise and fall, features change, companies shut down - but a well-developed methodology remains valuable regardless of the platform. This principle encourages knowledge workers to invest time in understanding why certain practices work, rather than obsessing over which app to use. Master the fundamentals: how to capture ideas effectively, how to organize for retrieval, how to connect knowledge, and how to apply what you learn. Once you have strong foundations, any reasonable tool will serve you well. This approach also provides resilience: if you need to switch tools, your skills and methods transfer with you. The principle isn't anti-tool - good tools matter - but it keeps priorities straight: first develop the mindset, then choose tools that support it.",
+    "tags": ["philosophy", "pkm", "tools", "methodology", "principles", "habits", "mental-models"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Focus on mindset and methods more than tools",
+        "Tool-agnostic PKM",
+        "Methods over tools",
+        "Principles over tools"
+    ],
+    "relatedConcepts": [
+        "file-over-app",
+        "pkm",
+        "shiny-object-syndrome",
+        "tools-for-thought",
+        "continuous-improvement"
+    ],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "12 Common Personal Knowledge Management Mistakes",
+            "url": "https://www.dsebastien.net/12-common-personal-knowledge-management-mistakes-and-how-to-avoid-them/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

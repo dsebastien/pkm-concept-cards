@@ -1,0 +1,22 @@
+{
+    "id": "knowledge-rollover",
+    "name": "Knowledge Rollover",
+    "summary": "Carrying forward important information from one review period to the next to prevent knowledge loss.",
+    "explanation": "Knowledge Rollover is the practice of systematically surfacing and carrying forward important information from one review period to the next - daily to weekly, weekly to monthly, monthly to quarterly, and so on. This technique prevents valuable insights, incomplete thoughts, and important context from being lost as time passes. During each periodic review, you identify what should 'roll over' to the next level: unfinished tasks, emerging ideas, ongoing projects, key learnings, and items requiring further attention. This creates a cascading system where nothing important falls through the cracks. The process works like a funnel: daily notes feed into weekly reviews, which inform monthly summaries, which shape quarterly and yearly reflections. By deliberately promoting information up the hierarchy, you maintain continuity and ensure that short-term observations can mature into long-term insights. Knowledge rollover transforms periodic reviews from isolated snapshots into a connected narrative of your intellectual growth and project progress.",
+    "tags": ["review", "knowledge-management", "retention", "periodic-reviews", "continuity"],
+    "category": "Techniques",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Knowledge Rollover through Periodic Reviews", "Review Rollover", "Note Rollover"],
+    "relatedConcepts": [
+        "periodic-reviews",
+        "daily-notes",
+        "weekly-notes",
+        "monthly-notes",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

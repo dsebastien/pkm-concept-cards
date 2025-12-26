@@ -1,0 +1,22 @@
+{
+    "id": "context-window",
+    "name": "Context Window",
+    "summary": "The maximum number of tokens an LLM can process in a single interaction, determining how much information it can consider when generating responses.",
+    "explanation": "The context window is a fundamental characteristic of Large Language Models that defines how much text the model can 'see' at once. It encompasses both the input (your prompt, conversation history, documents) and the output (the model's response).\n\nContext window sizes vary significantly:\n- GPT-4o: 128K tokens\n- Claude 3.5 Sonnet: 200K tokens\n- Gemini 1.5 Pro: 1M tokens\n\nWhy context window matters:\n- **More context = better understanding**: Larger windows allow models to consider more information when making predictions\n- **Conversation memory**: Determines how much chat history the model remembers\n- **Document processing**: Limits how much text can be analyzed at once\n- **Attention mechanism**: The model weighs all tokens in the context when generating each new token\n\nPractical implications:\n- Long documents may need to be chunked or summarized\n- Conversation history must be managed to stay within limits\n- RAG systems help work around context limitations\n- AI Mega Prompts work best with larger context windows\n\nA token is roughly 4 characters or 0.75 words in English, so 128K tokens is approximately 96,000 words - about the length of a novel.\n\nAs context windows grow, new use cases emerge: analyzing entire codebases, processing book-length documents, and maintaining extended conversations with full memory.",
+    "tags": ["ai", "llm-architecture", "tokens", "memory", "attention"],
+    "category": "Principles",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": ["Context Length", "Token Limit", "Context Size"],
+    "relatedConcepts": [
+        "large-language-models",
+        "retrieval-augmented-generation",
+        "ai-mega-prompts"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Large+Language+Models+(LLMs)"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

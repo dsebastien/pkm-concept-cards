@@ -1,0 +1,30 @@
+{
+    "id": "jevons-paradox",
+    "name": "Jevons Paradox",
+    "summary": "The principle that increasing the efficiency of resource use tends to increase total consumption rather than decrease it.",
+    "explanation": "Jevons Paradox, named after economist William Stanley Jevons who observed it in 1865, describes a counterintuitive phenomenon: when we become more efficient at using a resource, we often end up consuming more of it, not less.\n\nJevons' original observation concerned coal: as steam engines became more fuel-efficient, coal consumption increased rather than decreased. The efficiency gains made coal-powered activities more economical, leading to wider adoption and ultimately higher total consumption.\n\nHow the paradox works:\n1. **Efficiency improves**: Technology makes resource use more productive\n2. **Cost decreases**: Using the resource becomes cheaper per unit of output\n3. **Demand increases**: Lower costs drive increased usage\n4. **Total consumption rises**: Increased demand outweighs efficiency gains\n\nModern examples:\n- More fuel-efficient cars lead to more driving\n- Faster internet leads to larger file downloads and streaming\n- Energy-efficient appliances coincide with more appliances per household\n- **AI efficiency**: As AI tools become more efficient, we use them for more tasks\n\nImplications for knowledge work and AI:\n- Productivity tools may lead to more work, not more leisure\n- AI efficiency gains could increase overall AI usage dramatically\n- Time saved by automation often gets filled with new tasks\n- Efficiency alone doesn't guarantee reduced resource consumption\n\nThe paradox suggests that efficiency improvements must be paired with intentional constraints or behavioral changes to achieve genuine reduction in resource use.",
+    "tags": ["economics", "productivity", "paradox", "efficiency", "resource-management", "ai"],
+    "category": "Principles",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Jevon's Paradox", "Rebound Effect", "Backfire Effect"],
+    "relatedConcepts": ["moravecs-paradox", "parkinsons-law"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Large+Language+Models+(LLMs)"
+    ],
+    "articles": [
+        {
+            "title": "Jevons Paradox (Wikipedia)",
+            "url": "https://en.wikipedia.org/wiki/Jevons_paradox",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "The Coal Question",
+            "url": "https://www.amazon.com/Coal-Question-William-Stanley-Jevons/dp/1016547749",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

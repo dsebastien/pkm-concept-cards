@@ -1,0 +1,24 @@
+{
+    "id": "chain-of-thought-prompting",
+    "name": "Chain-of-Thought Prompting",
+    "summary": "A prompting technique that encourages LLMs to break down complex problems into step-by-step reasoning, improving accuracy and reliability.",
+    "explanation": "Chain-of-Thought (CoT) prompting is a technique for improving Large Language Model outputs by explicitly requesting step-by-step reasoning. Instead of asking for a direct answer, you prompt the model to 'think through' the problem, showing its work along the way.\n\nThis technique is effective because LLMs are autoregressive - they predict the next token based on all previous tokens. When the model generates intermediate reasoning steps, these become part of the context that influences subsequent predictions. Correct-sounding reasoning leads to more correct-sounding conclusions.\n\nCommon CoT trigger phrases include:\n- 'Let's think step by step'\n- 'Think about this carefully'\n- 'Think hard about...'\n- 'Ultrathink' (in some systems like Claude Code)\n\nVariations of CoT include:\n- **Zero-shot CoT**: Simply adding 'Let's think step by step' to any prompt\n- **Few-shot CoT**: Providing examples of step-by-step reasoning before your question\n- **Self-consistency**: Generating multiple reasoning paths and selecting the most common answer\n\nCoT is particularly useful for:\n- Mathematical problems\n- Logical reasoning\n- Multi-step planning\n- Complex analysis tasks\n\nThe technique works because it forces the model to make its implicit reasoning explicit, reducing the chance of skipping critical steps.",
+    "tags": ["ai", "prompting", "reasoning", "llm-techniques", "problem-solving"],
+    "category": "Techniques",
+    "icon": "FaListOl",
+    "featured": false,
+    "aliases": ["CoT Prompting", "Step-by-Step Prompting", "Think Step by Step"],
+    "relatedConcepts": ["large-language-models", "prompt-engineering", "ai-mega-prompts"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Large+Language+Models+(LLMs)"
+    ],
+    "articles": [
+        {
+            "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+            "url": "https://arxiv.org/abs/2201.11903",
+            "type": "paper"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

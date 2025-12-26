@@ -1,0 +1,24 @@
+{
+    "id": "rlhf",
+    "name": "Reinforcement Learning from Human Feedback (RLHF)",
+    "summary": "A training technique that aligns LLM outputs with human preferences by using human feedback to guide model behavior.",
+    "explanation": "Reinforcement Learning from Human Feedback (RLHF) is a crucial technique for making Large Language Models helpful, harmless, and honest. It bridges the gap between raw language modeling capability and useful, aligned AI assistance.\n\nThe RLHF process typically involves three stages:\n\n1. **Supervised Fine-Tuning (SFT)**\n   - Human trainers provide example conversations\n   - The model learns to mimic desired response patterns\n   - Creates a baseline for helpful behavior\n\n2. **Reward Model Training**\n   - The model generates multiple responses to prompts\n   - Human evaluators rank responses by quality\n   - A reward model learns to predict human preferences\n\n3. **Policy Optimization**\n   - The LLM is fine-tuned to maximize the reward model's scores\n   - Uses algorithms like Proximal Policy Optimization (PPO)\n   - Balances reward maximization with staying close to the base model\n\nWhat RLHF accomplishes:\n- Reduces harmful or biased outputs\n- Improves helpfulness and relevance\n- Makes models follow instructions better\n- Aligns outputs with human values and expectations\n\nImportant considerations:\n- Human feedback can introduce bias\n- Reward hacking is possible (optimizing for scores, not quality)\n- The quality of human evaluators matters significantly\n- Different cultures and individuals may have different preferences\n\nRLHF is what transforms a base language model into an AI assistant people actually want to use.",
+    "tags": ["ai", "machine-learning", "alignment", "training", "human-feedback"],
+    "category": "Techniques",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": ["RLHF", "Human Feedback Training", "AI Alignment Training"],
+    "relatedConcepts": ["large-language-models"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Large+Language+Models+(LLMs)"
+    ],
+    "articles": [
+        {
+            "title": "Training language models to follow instructions with human feedback",
+            "url": "https://arxiv.org/abs/2203.02155",
+            "type": "paper"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

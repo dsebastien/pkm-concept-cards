@@ -1,0 +1,35 @@
+{
+    "id": "problem-solving-cycle",
+    "name": "Problem Solving Cycle",
+    "summary": "A structured iterative approach to systematically identify, analyze, solve, and learn from problems.",
+    "explanation": "The Problem Solving Cycle is a systematic framework for addressing challenges through a series of defined phases. The typical cycle includes: (1) Identify the problem - clearly define what needs to be solved; (2) Analyze - gather information, understand root causes, and examine the context; (3) Generate solutions - brainstorm multiple possible approaches without judgment; (4) Evaluate options - assess each solution against criteria like feasibility, impact, and resources; (5) Implement - put the chosen solution into action with a clear plan; (6) Review and learn - assess outcomes, identify lessons, and refine the approach. The cycle is iterative: insights from later stages often lead back to earlier ones for refinement. This structured approach prevents jumping to conclusions, ensures thorough analysis, and builds organizational learning. In PKM, the problem-solving cycle applies to improving workflows, fixing broken systems, and making decisions about tools and methods.",
+    "tags": ["thinking", "problem-solving", "methodology", "frameworks", "decision-making"],
+    "category": "Frameworks",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": [
+        "Problem-solving process",
+        "Systematic problem solving",
+        "Problem resolution cycle"
+    ],
+    "relatedConcepts": [
+        "root-cause-analysis",
+        "five-whys",
+        "design-thinking",
+        "critical-thinking",
+        "double-diamond",
+        "first-principles",
+        "divergent-thinking",
+        "convergent-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Problem Solving - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Problem_solving",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

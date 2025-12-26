@@ -1,0 +1,28 @@
+{
+    "id": "iterative-note-taking",
+    "name": "Iterative and Incremental Note-Taking",
+    "summary": "A methodology that treats notes as living documents refined through continuous small improvements over time.",
+    "explanation": "Iterative and Incremental Note-Taking is a methodology borrowed from agile software development that treats notes as living documents rather than static artifacts created once and forgotten. Instead of attempting to create perfect notes in a single session, this approach embraces small, continuous improvements over multiple revisits. Each iteration adds value: clarifying language, adding connections, incorporating new insights, or restructuring for better understanding.\n\nThe iterative aspect means revisiting and refining notes in cycles, while the incremental aspect focuses on adding small pieces of value with each visit. This mirrors the agile principle of delivering working software through short iterations rather than attempting a big upfront design.\n\nKey benefits include: reduced cognitive load during capture (you don't need to perfect everything immediately), organic growth of understanding over time, natural identification of important vs. less important content through usage patterns, and building a knowledge system that genuinely reflects your evolving thinking.\n\nThis approach pairs well with evergreen notes, progressive summarization, and the Boy Scout Rule (leave notes better than you found them). It acknowledges that knowledge work is never truly finished - our understanding deepens, contexts change, and notes should evolve accordingly.",
+    "tags": [
+        "note-taking",
+        "methodology",
+        "continuous-improvement",
+        "agile",
+        "knowledge-management"
+    ],
+    "category": "Methods",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Incremental note-taking", "Living documentation", "Evolutionary notes"],
+    "relatedConcepts": [
+        "evergreen-notes",
+        "progressive-summarization",
+        "refactoring-notes",
+        "boy-scout-rule",
+        "processing-notes"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
