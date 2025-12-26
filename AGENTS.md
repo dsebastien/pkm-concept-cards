@@ -325,13 +325,57 @@ Query parameters are preserved when opening/closing concept modals.
 
 ## Best Practices for Contributions
 
-1. **Keep summaries concise** - One sentence that captures the essence
-2. **Write clear explanations** - Explain what, how, and why
-3. **Use consistent tags** - Check existing tags before creating new ones
-4. **Add quality references** - Include authoritative sources
-5. **Include aliases** - Help users find concepts by alternative names
-6. **Test locally** - Run `npm run build` before committing
-7. **Follow commit conventions** - Use conventional commits (feat, fix, docs, etc.)
+1. **Avoid duplicate concepts** - Before adding a new concept, check if it already exists (see Duplicate Prevention section below)
+2. **Keep summaries concise** - One sentence that captures the essence
+3. **Write clear explanations** - Explain what, how, and why
+4. **Use consistent tags** - Check existing tags before creating new ones
+5. **Add quality references** - Include authoritative sources
+6. **Include aliases** - Help users find concepts by alternative names
+7. **Test locally** - Run `npm run build` before committing
+8. **Follow commit conventions** - Use conventional commits (feat, fix, docs, etc.)
+
+## Duplicate Prevention
+
+**IMPORTANT**: Before adding a new concept, always check if it already exists to avoid duplicates.
+
+### How to Check for Duplicates
+
+1. **Check existing concept files**:
+
+```bash
+# List all existing concept IDs
+ls /home/dsebastien/wks/pkm-concept-cards/src/data/concepts/*.json | xargs -n1 basename | sed 's/.json$//' | sort
+```
+
+2. **Search by name or keyword**:
+
+```bash
+# Search for concepts containing a keyword
+grep -r -l "keyword" /home/dsebastien/wks/pkm-concept-cards/src/data/concepts/
+```
+
+3. **Check aliases**: Similar concepts might exist under different names. Review the `aliases` field in existing concepts.
+
+### What Counts as a Duplicate
+
+- **Same concept, different name**: e.g., "SMART Goals" and "SMART Framework" are the same concept
+- **Minor variations**: e.g., "Rule of 3" vs "Rule of Three" - use aliases instead
+- **Similar frameworks**: Be careful with similar acronym-based frameworks (e.g., CODE vs C.O.D.E.C are different)
+
+### When Concepts Are Similar But Not Duplicates
+
+If two concepts are related but distinct:
+
+1. Create separate concept files for each
+2. Link them via `relatedConcepts`
+3. Explain the differences in each concept's `explanation` field
+
+### Example: CODE vs C.O.D.E.C
+
+- **CODE Method**: Capture, Organize, Distill, Express (Tiago Forte's BASB)
+- **C.O.D.E.C**: Capture, Organise, Deconstruct, Emerge, Create (different framework)
+
+These are distinct concepts with different steps and philosophies, so both should exist with cross-references.
 
 ## Troubleshooting
 

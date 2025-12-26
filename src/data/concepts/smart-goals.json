@@ -6,7 +6,7 @@
     "tags": ["frameworks", "goal-setting", "planning", "productivity"],
     "category": "Frameworks",
     "icon": "FaBullseye",
-    "featured": true,
+    "featured": false,
     "aliases": ["Specific Measurable Achievable Relevant Time-bound"],
     "relatedConcepts": [
         "accountability",

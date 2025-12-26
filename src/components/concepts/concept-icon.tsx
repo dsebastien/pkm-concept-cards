@@ -56,7 +56,10 @@ import {
     FaPray,
     FaTrophy,
     FaHome,
-    FaSmile
+    FaSmile,
+    FaListOl,
+    FaCalendarAlt,
+    FaMinus
 } from 'react-icons/fa'
 import { SiObsidian, SiSubstack, SiBluesky } from 'react-icons/si'
 import { FaXTwitter, FaThreads } from 'react-icons/fa6'
@@ -120,6 +123,9 @@ const iconMap: Record<string, IconType> = {
     FaTrophy,
     FaHome,
     FaSmile,
+    FaListOl,
+    FaCalendarAlt,
+    FaMinus,
     SiObsidian,
     SiSubstack,
     SiBluesky,
@@ -186,6 +192,9 @@ const iconColors: Record<string, string> = {
     FaTrophy: 'text-yellow-500',
     FaHome: 'text-blue-400',
     FaSmile: 'text-yellow-400',
+    FaListOl: 'text-blue-400',
+    FaCalendarAlt: 'text-teal-400',
+    FaMinus: 'text-gray-400',
     SiObsidian: 'text-purple-400',
     SiSubstack: 'text-orange-400',
     SiBluesky: 'text-sky-400',

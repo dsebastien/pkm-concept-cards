@@ -6,7 +6,7 @@
     "tags": ["clarity", "personal-growth", "principles", "values"],
     "category": "Clarity",
     "icon": "FaScroll",
-    "featured": true,
+    "featured": false,
     "aliases": ["Life manifesto", "Personal declaration"],
     "relatedConcepts": [
         "goal-setting",

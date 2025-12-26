@@ -6,7 +6,7 @@
     "tags": ["note-taking", "productivity", "software", "tools"],
     "category": "Tools",
     "icon": "FaGem",
-    "featured": true,
+    "featured": false,
     "aliases": ["Obsidian.md"],
     "relatedConcepts": [
         "backlinks",

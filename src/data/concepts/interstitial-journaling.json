@@ -6,11 +6,12 @@
     "tags": ["capture", "habits", "journaling", "productivity", "techniques"],
     "category": "Journaling",
     "icon": "FaPenSquare",
-    "featured": true,
+    "featured": false,
     "aliases": ["Between-task journaling", "Gap journaling", "Micro-journaling"],
     "relatedConcepts": ["capture-system", "daily-notes", "journaling", "productivity"],
     "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Interstitial+Journaling"
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Interstitial+Journaling",
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Knowii+Community+Event+-+Knowledge+Builders+-+2025-08-20+-+Journaling+Deep+Dive"
     ],
     "articles": [],
     "references": [],

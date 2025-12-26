@@ -10,6 +10,7 @@
     "aliases": ["Capture Organize Distill Express"],
     "relatedConcepts": [
         "capture-system",
+        "codec",
         "knowledge-ingestion",
         "progressive-summarization",
         "second-brain"
