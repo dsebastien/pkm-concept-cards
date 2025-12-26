@@ -1,0 +1,18 @@
+{
+    "id": "diminishing-returns",
+    "name": "Diminishing Returns",
+    "summary": "The principle that benefits decrease after reaching an optimal point of investment.",
+    "explanation": "Diminishing returns is the idea that some things, activities, or investments provide great to good returns up to a certain point, but increasingly less value after that threshold. Initially, each additional unit of effort, time, or resources yields significant benefits. However, past the point of diminishing returns, the same investment produces progressively smaller gains. Understanding this principle helps with resource allocation, knowing when to stop optimizing, and recognizing when further effort isn't worth the cost. It applies broadly: from studying (the first few hours are most effective), to note-taking systems (over-engineering yields little extra value), to business investments.",
+    "tags": ["economics", "decision-making", "optimization", "productivity"],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Law of diminishing returns", "Diminishing marginal returns"],
+    "relatedConcepts": ["return-on-investment", "pareto-principle", "opportunity-cost"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Diminishing+returns"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}
