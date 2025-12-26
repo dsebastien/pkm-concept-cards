@@ -1,0 +1,18 @@
+{
+    "id": "wardley-maps",
+    "name": "Wardley Maps",
+    "summary": "A strategic mapping technique that visualizes the evolution of components in a value chain.",
+    "explanation": "Wardley Maps are a visual technique for mapping the evolution of components in a value chain, created by Simon Wardley. The map shows components from genesis (novel) to commodity on one axis, and from invisible to visible on another. This reveals strategic opportunities and dependencies. In PKM context, Wardley Maps can be used to analyze your knowledge landscape - identifying which areas are well-developed versus emerging, where to invest learning effort, and how different knowledge areas depend on each other.",
+    "tags": ["strategy", "thinking", "frameworks"],
+    "category": "Frameworks",
+    "icon": "FaMap",
+    "featured": false,
+    "aliases": ["Wardley Mapping", "Strategic mapping"],
+    "relatedConcepts": ["concept-maps", "mind-maps", "systems-thinking", "visual-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Wardley+Maps"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

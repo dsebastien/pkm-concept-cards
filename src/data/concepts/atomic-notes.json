@@ -8,7 +8,16 @@
     "icon": "FaAtom",
     "featured": true,
     "aliases": ["One idea per note", "Single-idea notes"],
-    "relatedConcepts": ["connected-notes", "permanent-notes", "smart-notes", "zettelkasten"],
+    "relatedConcepts": [
+        "connected-notes",
+        "fleeting-notes",
+        "literature-notes",
+        "permanent-notes",
+        "refactoring-notes",
+        "smart-notes",
+        "types-of-notes",
+        "zettelkasten"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Atomic+notes"
     ],
@@ -24,6 +33,16 @@
             "title": "Principle of atomicity - zettelkasten.de",
             "url": "https://zettelkasten.de/posts/create-zettel-from-reading-notes/",
             "type": "website"
+        },
+        {
+            "title": "How to Take Smart Notes",
+            "url": "https://amzn.to/3H1NxUW",
+            "type": "book"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
         }
     ],
     "tutorials": []

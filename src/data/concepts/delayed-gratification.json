@@ -1,0 +1,29 @@
+{
+    "id": "delayed-gratification",
+    "name": "Delayed Gratification",
+    "summary": "The ability to resist immediate rewards in favor of larger future benefits.",
+    "explanation": "Delayed Gratification is the ability to resist the temptation of an immediate reward in order to obtain a more valuable reward later. Made famous by the Stanford Marshmallow Experiment, this capacity predicts success across many life domains. In PKM, delayed gratification means investing time in building systems that won't pay off immediately but will compound over years. It means processing notes even when it feels tedious, knowing the knowledge network will become invaluable. Building good habits requires choosing future benefits over present comfort.",
+    "tags": ["psychology", "productivity", "principles"],
+    "category": "Principles",
+    "icon": "FaHourglassHalf",
+    "featured": false,
+    "aliases": ["Deferred gratification", "Self-control"],
+    "relatedConcepts": ["compound-growth", "ego-depletion", "habit-stacking", "pre-commitment"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Delayed+gratification"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Atomic Habits",
+            "url": "https://amzn.to/3VG1JfK",
+            "type": "book"
+        },
+        {
+            "title": "Thinking, Fast and Slow",
+            "url": "https://amzn.to/4ciGtDM",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "emotional-intelligence",
+    "name": "Emotional Intelligence",
+    "summary": "The ability to recognize, understand, and manage emotions in yourself and others.",
+    "explanation": "Emotional Intelligence (EQ) is the capacity to be aware of, control, and express one's emotions, and to handle interpersonal relationships judiciously and empathetically. Unlike IQ, EQ can be developed throughout life. In knowledge work and PKM, emotional intelligence helps with: recognizing when emotions are affecting decision-making, managing the frustrations of learning, collaborating effectively with others, and maintaining sustainable practices. Journaling and self-reflection are key tools for developing emotional intelligence.",
+    "tags": ["psychology", "personal-growth", "concepts"],
+    "category": "Concepts",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": ["EQ", "Emotional quotient"],
+    "relatedConcepts": ["gratitude-journal", "journaling", "mindfulness", "reflective-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Emotional+intelligence"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

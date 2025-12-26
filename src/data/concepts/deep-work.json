@@ -8,7 +8,16 @@
     "icon": "FaBrain",
     "featured": false,
     "aliases": ["Focused work"],
-    "relatedConcepts": ["context-switching", "flow", "productivity", "time-blocking"],
+    "relatedConcepts": [
+        "context-switching",
+        "flow-state",
+        "focus",
+        "most-important-task",
+        "multitasking",
+        "pomodoro-technique",
+        "time-blocking",
+        "zen-productivity"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Deep+work"
     ],
@@ -16,7 +25,17 @@
     "references": [
         {
             "title": "Deep Work by Cal Newport",
-            "url": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+            "url": "https://amzn.to/3VG1JfK",
+            "type": "book"
+        },
+        {
+            "title": "Make Time",
+            "url": "https://amzn.to/3RM2L8W",
+            "type": "book"
+        },
+        {
+            "title": "Digital Minimalism",
+            "url": "https://amzn.to/3ZpQNpo",
             "type": "book"
         }
     ],

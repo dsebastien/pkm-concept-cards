@@ -1,0 +1,24 @@
+{
+    "id": "social-proof",
+    "name": "Social Proof",
+    "summary": "The psychological tendency to follow the actions and choices of others.",
+    "explanation": "Social Proof is a psychological phenomenon where people assume the actions of others reflect correct behavior. We look to what others are doing to determine what we should do. In PKM and productivity, social proof explains why we're drawn to popular tools (if everyone uses it, it must be good) and why community matters for maintaining practices. However, it can also lead us astray - just because something is popular doesn't mean it's right for you. Critical thinking about your own needs is essential.",
+    "tags": ["psychology", "cognitive-biases", "concepts"],
+    "category": "Cognitive Biases",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": ["Herd behavior", "Bandwagon effect"],
+    "relatedConcepts": ["confirmation-bias", "fomo", "shiny-object-syndrome"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Social+proof"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow",
+            "url": "https://amzn.to/4ciGtDM",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

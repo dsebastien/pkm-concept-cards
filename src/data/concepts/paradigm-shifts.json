@@ -1,0 +1,18 @@
+{
+    "id": "paradigm-shifts",
+    "name": "Paradigm Shifts",
+    "summary": "Fundamental changes in underlying assumptions that transform understanding.",
+    "explanation": "A Paradigm Shift, a concept from Thomas Kuhn's 'Structure of Scientific Revolutions,' is a fundamental change in the basic concepts and practices of a discipline. It's not incremental improvement but a wholesale transformation of how we see things - like the shift from Newtonian to quantum physics. In PKM, paradigm shifts might include: moving from folders to links, from collecting to connecting, from private notes to learning in public. Recognizing when a paradigm shift is needed (vs. incremental optimization) is crucial for growth.",
+    "tags": ["concepts", "philosophy", "thinking"],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": ["Paradigm change", "Fundamental shift"],
+    "relatedConcepts": ["first-principles", "mental-models", "unlearning"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Paradigm+shifts"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -10,11 +10,16 @@
     "aliases": ["Card index", "Slip-box", "Zettelkasten system"],
     "relatedConcepts": [
         "atomic-notes",
+        "backlinks",
         "connected-notes",
         "fleeting-notes",
+        "knowledge-graph",
         "literature-notes",
         "permanent-notes",
-        "second-brain"
+        "personal-knowledge-graph",
+        "second-brain",
+        "smart-notes",
+        "web-of-knowledge"
     ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Zettelkasten+method"
@@ -29,13 +34,23 @@
     "references": [
         {
             "title": "How to Take Smart Notes",
-            "url": "https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502",
+            "url": "https://amzn.to/3H1NxUW",
             "type": "book"
         },
         {
             "title": "zettelkasten.de",
             "url": "https://zettelkasten.de",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners Course",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
         }
     ],
     "tutorials": []

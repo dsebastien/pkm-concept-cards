@@ -22,8 +22,18 @@
     "references": [
         {
             "title": "Building a Second Brain",
-            "url": "https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386",
+            "url": "https://amzn.to/3W0Gsic",
             "type": "book"
+        },
+        {
+            "title": "Knowledge Management for Beginners Course",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
         }
     ],
     "tutorials": []

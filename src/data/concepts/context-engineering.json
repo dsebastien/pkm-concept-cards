@@ -1,0 +1,34 @@
+{
+    "id": "context-engineering",
+    "name": "Context Engineering",
+    "summary": "The practice of providing AI with optimal context for better outputs.",
+    "explanation": "Context Engineering is the practice of designing and curating the context provided to AI systems to maximize output quality. Unlike simple prompting, context engineering considers: what background information the AI needs, how to structure that information, what examples to include, and how to maintain context across conversations. For knowledge workers using AI, context engineering means building systems that feed AI your notes, preferences, and expertise (like an AI Master Prompt) to get personalized, high-quality responses.",
+    "tags": ["ai", "techniques", "productivity"],
+    "category": "AI",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["Context design", "RAG optimization"],
+    "relatedConcepts": [
+        "ai-assistants",
+        "ai-master-prompt",
+        "model-context-protocol",
+        "prompt-engineering"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Context+engineering"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        },
+        {
+            "title": "MCP Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-model-context-protocol-mcp",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

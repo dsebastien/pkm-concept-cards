@@ -1,0 +1,29 @@
+{
+    "id": "perfectionism",
+    "name": "Perfectionism",
+    "summary": "The pursuit of flawlessness that can prevent progress and completion.",
+    "explanation": "Perfectionism is the drive to be perfect or appear perfect, often setting excessively high standards that become barriers to action. In PKM, perfectionism manifests as: never publishing because notes aren't 'ready,' constantly reorganizing instead of creating, or paralysis choosing the 'perfect' system. While high standards can drive quality, perfectionism becomes toxic when it prevents action. The antidotes are: treating notes as eternal drafts, embracing iterative improvement, and recognizing that imperfect action beats perfect inaction.",
+    "tags": ["psychology", "productivity", "concepts"],
+    "category": "Concepts",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": ["Perfect is the enemy of good", "Perfectionist tendencies"],
+    "relatedConcepts": [
+        "analysis-paralysis",
+        "continuous-improvement",
+        "impostor-syndrome",
+        "shiny-object-syndrome"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Perfectionism"
+    ],
+    "articles": [
+        {
+            "title": "Overcoming Perfectionism - How to Break Free from the Enemy of Progress",
+            "url": "https://www.dsebastien.net/overcoming-perfectionism-how-to-break-free-from-the-enemy-of-progress/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

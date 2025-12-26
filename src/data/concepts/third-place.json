@@ -1,0 +1,24 @@
+{
+    "id": "third-place",
+    "name": "Third Place",
+    "summary": "Social environments separate from home (first) and work (second) that foster community.",
+    "explanation": "Third Place is a term coined by sociologist Ray Oldenburg for social environments separate from home (first place) and work (second place). Examples include cafes, libraries, parks, and community centers. Third places foster community, creativity, and informal connection. For knowledge workers, third places can boost productivity and creativity through environmental variety. Digital third places like Discord communities or coworking spaces serve similar functions. The concept relates to 'fourth place' - digital environments that serve this community-building function.",
+    "tags": ["concepts", "community", "productivity", "sociology"],
+    "category": "Concepts",
+    "icon": "FaCoffee",
+    "featured": false,
+    "aliases": ["Third space"],
+    "relatedConcepts": ["deep-work", "focus", "fourth-place"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Third+place"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://www.dsebastien.net/join-the-knowii-community-and-fix-your-information-overload-problem/",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

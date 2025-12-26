@@ -8,11 +8,30 @@
     "icon": "FaCircleNotch",
     "featured": false,
     "aliases": ["Incomplete tasks", "Unfinished business"],
-    "relatedConcepts": ["brain-dumps", "cognitive-load", "gtd", "inbox-zero"],
+    "relatedConcepts": [
+        "brain-dumps",
+        "capture-habit",
+        "cognitive-load",
+        "gtd",
+        "inbox-zero",
+        "zeigarnik-effect"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Open+loops"
     ],
-    "articles": [],
-    "references": [],
+    "articles": [
+        {
+            "title": "Closing Open Loops - The Key to a Calmer, More Productive Mind",
+            "url": "https://www.dsebastien.net/closing-open-loops-the-key-to-a-calmer-more-productive-mind/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Getting Things Done",
+            "url": "https://amzn.to/3VG1JfK",
+            "type": "book"
+        }
+    ],
     "tutorials": []
 }

@@ -1,0 +1,24 @@
+{
+    "id": "impostor-syndrome",
+    "name": "Impostor Syndrome",
+    "summary": "Persistent self-doubt and feeling like a fraud despite evidence of competence.",
+    "explanation": "Impostor Syndrome is the persistent feeling of being a fraud, doubting your accomplishments, and fearing being exposed as incompetent despite evidence of your abilities. It's particularly common among high achievers and knowledge workers. In the context of PKM and content creation, impostor syndrome can prevent people from sharing their knowledge, publishing their work, or claiming expertise. Recognizing that even experts feel this way, and that learning in public is valuable, helps overcome these feelings.",
+    "tags": ["psychology", "personal-growth", "productivity"],
+    "category": "Concepts",
+    "icon": "FaMask",
+    "featured": false,
+    "aliases": ["Imposter syndrome", "Fraud syndrome"],
+    "relatedConcepts": ["dunning-kruger-effect", "growth-mindset", "perfectionism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Impostor+syndrome"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Think Again",
+            "url": "https://amzn.to/3ZG2Oq1",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

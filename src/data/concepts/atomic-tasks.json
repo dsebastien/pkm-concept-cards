@@ -1,0 +1,35 @@
+{
+    "id": "atomic-tasks",
+    "name": "Atomic Tasks",
+    "summary": "Breaking work into the smallest actionable units for easier completion.",
+    "explanation": "Atomic Tasks are tasks broken down to their smallest actionable unit - small enough to complete in a single work session without ambiguity. Just as atomic notes contain one idea, atomic tasks contain one clear action. Vague tasks like 'work on project' become specific ones like 'write introduction paragraph'. This approach reduces procrastination (smaller tasks feel more approachable), enables better estimation, creates clear progress markers, and works well with time-boxing and Pomodoro techniques. The discipline of creating atomic tasks is a key productivity skill.",
+    "tags": ["productivity", "task-management", "techniques"],
+    "category": "Techniques",
+    "icon": "FaCheckCircle",
+    "featured": false,
+    "aliases": ["Micro-tasks", "Small tasks"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "gtd",
+        "pomodoro-technique",
+        "small-wins",
+        "two-minute-rule"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Atomic+tasks"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Getting Things Done",
+            "url": "https://amzn.to/3VG1JfK",
+            "type": "book"
+        },
+        {
+            "title": "Eat That Frog!",
+            "url": "https://amzn.to/45XqqsL",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

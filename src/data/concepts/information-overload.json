@@ -16,11 +16,14 @@
     "featured": false,
     "aliases": ["Infobesity", "Information anxiety", "TMI", "Too much information"],
     "relatedConcepts": [
-        "attention",
         "capture-system",
+        "choice-overload",
+        "cognitive-load",
         "collectors-fallacy",
         "content-curation",
-        "garbage-in-garbage-out",
+        "digital-minimalism",
+        "fomo",
+        "gigo",
         "paradox-of-choice",
         "pkm"
     ],
@@ -28,6 +31,22 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Too+Much+Information+(TMI)"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Information Anxiety",
+            "url": "https://amzn.to/4cHHzJn",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://www.dsebastien.net/join-the-knowii-community-and-fix-your-information-overload-problem/",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        }
+    ],
     "tutorials": []
 }

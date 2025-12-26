@@ -1,0 +1,24 @@
+{
+    "id": "transclusion",
+    "name": "Transclusion",
+    "summary": "Embedding content from one note into another while maintaining a live link.",
+    "explanation": "Transclusion is the inclusion of one document or part of a document into another by reference. Unlike copying, transcluded content maintains a live link to the source - when the source changes, the transcluded content updates automatically. This concept was coined by Ted Nelson, the inventor of hypertext. In PKM tools like Obsidian, transclusion allows you to embed blocks or entire notes, enabling modular content assembly without duplication. It's powerful for creating presentations, long-form content, or dashboards from atomic notes.",
+    "tags": ["concepts", "linking", "note-taking", "organization"],
+    "category": "Concepts",
+    "icon": "FaLink",
+    "featured": false,
+    "aliases": ["Block embedding", "Note embedding"],
+    "relatedConcepts": ["atomic-notes", "backlinks", "connected-notes", "obsidian", "ssot"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Transclusion"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

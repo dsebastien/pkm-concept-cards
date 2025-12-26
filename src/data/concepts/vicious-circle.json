@@ -1,0 +1,18 @@
+{
+    "id": "vicious-circle",
+    "name": "Vicious Circle",
+    "summary": "A negative feedback loop where problems create conditions that worsen the problems.",
+    "explanation": "A Vicious Circle is a negative feedback loop where unfavorable conditions reinforce behaviors that create more unfavorable conditions. In PKM: not capturing ideas leads to lost insights, which reduces motivation to capture, leading to more lost ideas. Information overload causes stress, which impairs thinking, making information even harder to process. Recognizing vicious circles is the first step to breaking them - by intervening at any point in the loop with better habits or systems.",
+    "tags": ["concepts", "systems", "psychology"],
+    "category": "Concepts",
+    "icon": "FaArrowCircleDown",
+    "featured": false,
+    "aliases": ["Vicious cycle", "Negative feedback loop", "Downward spiral"],
+    "relatedConcepts": ["flywheels", "information-overload", "systems-thinking", "virtuous-circle"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Vicious+circle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

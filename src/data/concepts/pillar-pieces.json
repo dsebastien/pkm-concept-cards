@@ -1,0 +1,23 @@
+{
+    "id": "pillar-pieces",
+    "name": "Pillar Pieces",
+    "summary": "Comprehensive, authoritative content that serves as foundational reference material.",
+    "explanation": "Pillar Pieces (or Pillar Content) are comprehensive, in-depth pieces of content that serve as authoritative references on a topic. Unlike short-form content, pillar pieces aim to be definitive resources that readers bookmark and return to. They typically combine multiple atomic ideas, examples, and practical advice into a cohesive whole. For content creators, pillar pieces establish expertise, attract organic traffic, and provide material to repurpose into smaller pieces. They're the 'evergreen' content that continues providing value for years.",
+    "tags": ["content-creation", "writing", "concepts"],
+    "category": "Concepts",
+    "icon": "FaPillar",
+    "featured": false,
+    "aliases": ["Pillar content", "Cornerstone content", "Flagship content"],
+    "relatedConcepts": [
+        "atomic-essays",
+        "digital-garden",
+        "evergreen-notes",
+        "writing-is-thinking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pillar+pieces"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

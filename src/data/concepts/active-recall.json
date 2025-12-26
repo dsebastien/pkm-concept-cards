@@ -8,9 +8,25 @@
     "icon": "FaQuestionCircle",
     "featured": false,
     "aliases": ["Retrieval practice", "Testing effect"],
-    "relatedConcepts": ["feynman-technique", "forgetting-curve", "learning", "spaced-repetition"],
-    "relatedNotes": [],
+    "relatedConcepts": [
+        "desirable-difficulties",
+        "feynman-technique",
+        "forgetting-curve",
+        "generation-effect",
+        "retrieval",
+        "spaced-repetition",
+        "spacing-effect"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Active+recall"
+    ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Make It Stick",
+            "url": "https://amzn.to/3RLptxV",
+            "type": "book"
+        }
+    ],
     "tutorials": []
 }

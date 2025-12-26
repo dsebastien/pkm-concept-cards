@@ -1,0 +1,24 @@
+{
+    "id": "scarcity",
+    "name": "Scarcity",
+    "summary": "The psychological principle that limited availability increases perceived value.",
+    "explanation": "Scarcity is the principle that things become more desirable when they're in limited supply. This cognitive bias influences behavior in many contexts - from marketing (limited-time offers) to productivity (deadline pressure). In PKM, understanding scarcity helps recognize when it's being used to manipulate (FOMO-inducing newsletters) and when it's genuinely useful (using deadlines to create focus). Time is genuinely scarce, making it essential to be intentional about how it's spent.",
+    "tags": ["psychology", "cognitive-biases", "concepts"],
+    "category": "Cognitive Biases",
+    "icon": "FaHourglassEnd",
+    "featured": false,
+    "aliases": ["Limited availability", "FOMO trigger"],
+    "relatedConcepts": ["fomo", "opportunity-cost", "pre-commitment"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Scarcity"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Scarcity",
+            "url": "https://amzn.to/3L0o2YE",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

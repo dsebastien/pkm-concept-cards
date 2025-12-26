@@ -1,0 +1,42 @@
+{
+    "id": "types-of-notes",
+    "name": "Types of Notes in PKM",
+    "summary": "Different note types serving distinct purposes in a knowledge management system.",
+    "explanation": "A well-designed PKM system uses different note types for different purposes. Common types include: Fleeting Notes (quick captures), Literature Notes (from sources), Permanent Notes (processed insights), Daily Notes (journal entries), Meeting Notes, Project Notes, and Maps of Content (MOCs). Each type has its own template, metadata, and lifecycle. Understanding note types helps you process information appropriately - not everything needs to become a permanent note, and knowing when to create each type keeps your system efficient.",
+    "tags": ["core-concept", "note-taking", "organization", "pkm"],
+    "category": "Core Concepts",
+    "icon": "FaFileAlt",
+    "featured": true,
+    "aliases": ["Note types", "Note taxonomy"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "daily-notes",
+        "fleeting-notes",
+        "literature-notes",
+        "moc",
+        "permanent-notes",
+        "smart-notes"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Types+of+notes+in+a+Personal+Knowledge+Management+System"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowledge Management for Beginners Course",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "How to Take Smart Notes",
+            "url": "https://amzn.to/3H1NxUW",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

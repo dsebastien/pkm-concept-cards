@@ -12,12 +12,31 @@
         "capture-system",
         "daily-notes",
         "fleeting-notes",
-        "interstitial-journaling"
+        "gtd",
+        "inbox-zero",
+        "interstitial-journaling",
+        "open-loops"
     ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+Capture+Habit"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Getting Things Done",
+            "url": "https://amzn.to/3VG1JfK",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://voice-ai.knowii.net",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        }
+    ],
     "tutorials": []
 }

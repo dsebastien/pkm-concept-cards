@@ -1,0 +1,41 @@
+{
+    "id": "zen-productivity",
+    "name": "Zen Productivity",
+    "summary": "A mindful, minimalist approach to productivity focused on simplicity and presence.",
+    "explanation": "Zen Productivity is a philosophy that combines mindfulness with productivity, emphasizing simplicity, focus, and present-moment awareness. Popularized by Leo Babauta of Zen Habits, it rejects the typical 'do more' productivity culture in favor of doing less but better. Key principles include: single-tasking, clearing mental and physical clutter, creating space for what matters, and finding peace in the process rather than just outcomes. It's about sustainable productivity that enhances wellbeing rather than depleting it.",
+    "tags": ["mindfulness", "productivity", "philosophy", "principles"],
+    "category": "Principles",
+    "icon": "FaYinYang",
+    "featured": false,
+    "aliases": ["Mindful productivity", "Zen habits"],
+    "relatedConcepts": [
+        "deep-work",
+        "digital-garden",
+        "essentialism",
+        "focus",
+        "mindfulness",
+        "most-important-task"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Zen+Productivity"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Essentialism",
+            "url": "https://amzn.to/3xyY6jW",
+            "type": "book"
+        },
+        {
+            "title": "Digital Minimalism",
+            "url": "https://amzn.to/3ZpQNpo",
+            "type": "book"
+        },
+        {
+            "title": "The Power of Less",
+            "url": "https://amzn.to/3XPhFPu",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

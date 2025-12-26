@@ -1,0 +1,29 @@
+{
+    "id": "opportunity-cost",
+    "name": "Opportunity Cost",
+    "summary": "The loss of potential gain from alternatives when one option is chosen.",
+    "explanation": "Opportunity Cost is an economic concept representing what you give up when choosing one option over another. Every choice has an opportunity cost - time spent on one activity can't be spent on another. In PKM, this means: time spent organizing could be spent creating; time learning a new tool could be spent using your current one better; notes captured but never processed have an opportunity cost of the insights they could have generated. Understanding opportunity cost helps prioritize what truly matters.",
+    "tags": ["concepts", "economics", "productivity", "thinking"],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Alternative cost", "Trade-offs"],
+    "relatedConcepts": [
+        "decision-fatigue",
+        "eisenhower-matrix",
+        "most-important-task",
+        "pareto-principle"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Opportunity+cost"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Essentialism",
+            "url": "https://amzn.to/3xyY6jW",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

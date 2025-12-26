@@ -1,0 +1,24 @@
+{
+    "id": "positive-feedback-loop",
+    "name": "Positive Feedback Loop",
+    "summary": "A cycle where outputs amplify inputs, creating exponential growth or decline.",
+    "explanation": "A Positive Feedback Loop is a system dynamic where the output of a process amplifies the input, creating acceleration. This can be beneficial (success breeds confidence which breeds more success) or harmful (debt creates stress which creates more debt). In PKM, positive feedback loops appear in compound learning (knowledge enables acquiring more knowledge), content creation flywheels, and habit formation. Designing systems that create positive loops - where using the system makes it more valuable - is key to sustainable practice.",
+    "tags": ["systems", "concepts", "mental-models"],
+    "category": "Concepts",
+    "icon": "FaArrowCircleUp",
+    "featured": false,
+    "aliases": ["Reinforcing loop", "Amplifying feedback"],
+    "relatedConcepts": [
+        "compound-growth",
+        "flywheels",
+        "systems-thinking",
+        "vicious-circle",
+        "virtuous-circle"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Positive+feedback+loop"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

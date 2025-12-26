@@ -1,0 +1,24 @@
+{
+    "id": "atomic-essays",
+    "name": "Atomic Essays",
+    "summary": "Short, focused pieces of writing that explore a single idea completely.",
+    "explanation": "Atomic Essays are short, self-contained pieces of writing (typically 250-500 words) that explore a single idea thoroughly. Popularized by Ship 30 for 30, they apply the atomic notes principle to published content. Each essay stands alone, making complex ideas accessible without requiring readers to commit to long-form content. For content creators, atomic essays lower the barrier to publishing, create a library of reusable content, and can be combined into longer pieces. They're an excellent bridge between private notes and public content.",
+    "tags": ["writing", "content-creation", "concepts"],
+    "category": "Concepts",
+    "icon": "FaFeatherAlt",
+    "featured": false,
+    "aliases": ["Short-form essays", "Micro essays"],
+    "relatedConcepts": ["atomic-notes", "digital-garden", "pillar-pieces", "writing-is-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Atomic+essays"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

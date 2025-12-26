@@ -1,0 +1,35 @@
+{
+    "id": "fomo",
+    "name": "Fear of Missing Out (FOMO)",
+    "summary": "Anxiety that others are having rewarding experiences you're missing.",
+    "explanation": "Fear of Missing Out (FOMO) is the anxiety that others are having rewarding experiences from which one is absent. In the context of PKM and productivity, FOMO can drive counterproductive behaviors: collecting too many notes without processing them, subscribing to too many newsletters, or jumping between tools. FOMO leads to information hoarding, context switching, and scattered attention. The antidote is JOMO (Joy of Missing Out) - deliberately choosing to miss things to focus on what truly matters.",
+    "tags": ["cognitive-biases", "psychology", "productivity"],
+    "category": "Cognitive Biases",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": ["Fear of missing out"],
+    "relatedConcepts": [
+        "choice-overload",
+        "collectors-fallacy",
+        "digital-garden",
+        "information-overload",
+        "shiny-object-syndrome"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Fear+of+Missing+Out+(FOMO)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Digital Minimalism",
+            "url": "https://amzn.to/3ZpQNpo",
+            "type": "book"
+        },
+        {
+            "title": "Essentialism",
+            "url": "https://amzn.to/3xyY6jW",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

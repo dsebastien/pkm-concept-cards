@@ -10,9 +10,13 @@
     "aliases": ["Daily journaling", "Journal writing"],
     "relatedConcepts": [
         "daily-notes",
+        "evening-routine",
+        "gratitude-journal",
         "interstitial-journaling",
         "morning-pages",
-        "periodic-reviews"
+        "morning-routine",
+        "periodic-reviews",
+        "three-good-things"
     ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Journaling"
@@ -34,6 +38,22 @@
             "type": "website"
         }
     ],
-    "references": [],
+    "references": [
+        {
+            "title": "Journaling Deep Dive Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+            "type": "other"
+        },
+        {
+            "title": "The Miracle Morning",
+            "url": "https://amzn.to/4cfDcW7",
+            "type": "book"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        }
+    ],
     "tutorials": []
 }

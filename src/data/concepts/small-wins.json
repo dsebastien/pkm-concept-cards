@@ -1,0 +1,31 @@
+{
+    "id": "small-wins",
+    "name": "Small Wins",
+    "summary": "Achieving incremental progress through manageable accomplishments to build momentum.",
+    "explanation": "Small Wins is a strategy of breaking large goals into tiny, achievable steps to build momentum and motivation. Each small win creates a positive feedback loop - success breeds confidence, which fuels further action. This counters perfectionism and analysis paralysis by lowering the barrier to starting. In PKM, small wins might mean writing one atomic note, processing one inbox item, or making one connection. The compound effect of consistent small wins creates massive results over time.",
+    "tags": ["productivity", "psychology", "motivation", "principles"],
+    "category": "Principles",
+    "icon": "FaTrophy",
+    "featured": false,
+    "aliases": ["Quick wins", "Incremental progress"],
+    "relatedConcepts": [
+        "atomic-notes",
+        "compound-growth",
+        "continuous-improvement",
+        "habit-stacking",
+        "kaizen",
+        "two-minute-rule"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Small+wins"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Atomic Habits",
+            "url": "https://amzn.to/3VG1JfK",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

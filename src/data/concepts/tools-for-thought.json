@@ -8,7 +8,14 @@
     "icon": "FaTools",
     "featured": true,
     "aliases": ["Note-taking apps", "Note-taking tools", "PKM tools", "TfT", "Thinking tools"],
-    "relatedConcepts": ["file-over-app", "knowledge-graph", "obsidian", "pkm", "second-brain"],
+    "relatedConcepts": [
+        "file-over-app",
+        "knowledge-graph",
+        "obsidian",
+        "obsidian-starter-kit",
+        "pkm",
+        "second-brain"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Tools+for+Thought+(TfTs)"
     ],

@@ -1,0 +1,18 @@
+{
+    "id": "cognitive-defusion",
+    "name": "Cognitive Defusion",
+    "summary": "Creating distance from thoughts to reduce their impact on behavior.",
+    "explanation": "Cognitive Defusion is a technique from Acceptance and Commitment Therapy (ACT) that involves creating psychological distance from your thoughts. Instead of being 'fused' with thoughts (treating them as literal truth), defusion helps you observe thoughts as mental events. Techniques include prefacing thoughts with 'I'm having the thought that...' or imagining thoughts as leaves floating on a stream. For knowledge workers, defusion helps manage negative self-talk, impostor syndrome, and perfectionism by recognizing thoughts as thoughts, not facts.",
+    "tags": ["psychology", "mindfulness", "techniques"],
+    "category": "Techniques",
+    "icon": "FaCloud",
+    "featured": false,
+    "aliases": ["Thought defusion", "ACT defusion"],
+    "relatedConcepts": ["cognitive-load", "impostor-syndrome", "mindfulness", "perfectionism"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Cognitive+defusion"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

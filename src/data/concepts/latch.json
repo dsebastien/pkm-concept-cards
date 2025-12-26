@@ -1,0 +1,24 @@
+{
+    "id": "latch",
+    "name": "LATCH",
+    "summary": "Five universal ways to organize information: Location, Alphabet, Time, Category, Hierarchy.",
+    "explanation": "LATCH is a framework by information architect Richard Saul Wurman that identifies the five fundamental ways to organize any information: Location (where), Alphabet (A-Z), Time (when), Category (what kind), and Hierarchy (by magnitude or importance). Understanding LATCH helps you choose the right organizing principle for different types of information. For PKM, this means recognizing that there's no single 'best' way to organize - the right approach depends on how you'll retrieve and use the information.",
+    "tags": ["frameworks", "organization", "principles"],
+    "category": "Frameworks",
+    "icon": "FaSortAmountDown",
+    "featured": false,
+    "aliases": ["Five Hat Racks", "Wurman's LATCH"],
+    "relatedConcepts": ["johnny-decimal", "para-method", "tagging"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/LATCH"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Information Anxiety",
+            "url": "https://amzn.to/4cHHzJn",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

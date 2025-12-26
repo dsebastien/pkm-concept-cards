@@ -1,0 +1,18 @@
+{
+    "id": "five-whys",
+    "name": "Five Whys Technique",
+    "summary": "Asking 'why' repeatedly to drill down to the root cause of a problem.",
+    "explanation": "The Five Whys is a problem-solving technique developed by Sakichi Toyoda and used at Toyota. By asking 'why' five times (or more), you drill past symptoms to find the root cause of a problem. Example: 'Why did the project fail?' → 'Requirements were unclear' → 'Why?' → 'No stakeholder interviews' → 'Why?' → 'No time allocated' → 'Why?' → 'Planning process doesn't include discovery phase.' This reveals systemic issues rather than surface symptoms. Useful for PKM when diagnosing why a system isn't working.",
+    "tags": ["techniques", "problem-solving", "thinking"],
+    "category": "Techniques",
+    "icon": "FaQuestion",
+    "featured": false,
+    "aliases": ["5 Whys", "Root cause analysis"],
+    "relatedConcepts": ["first-principles", "root-cause-analysis", "systems-thinking"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Five+Whys+technique"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": "time-blindness",
+    "name": "Time Blindness",
+    "summary": "Difficulty perceiving time accurately, common in ADHD and affecting planning.",
+    "explanation": "Time Blindness is the difficulty in perceiving time accurately - either how much time has passed or how long tasks will take. Common in people with ADHD, it affects planning, punctuality, and task estimation. Time seems to move unpredictably - sometimes racing, sometimes crawling. Tools to combat time blindness include: visual timers (Time Timer), time blocking, external cues, breaking tasks into smaller chunks, and building buffer time into schedules. PKM systems can help by externalizing time-related decisions.",
+    "tags": ["productivity", "psychology", "concepts"],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": ["Time perception issues", "ADHD time management"],
+    "relatedConcepts": ["planning-fallacy", "pomodoro-technique", "time-blocking", "timeboxing"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+blindness"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

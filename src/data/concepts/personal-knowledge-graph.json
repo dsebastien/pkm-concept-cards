@@ -1,0 +1,37 @@
+{
+    "id": "personal-knowledge-graph",
+    "name": "Personal Knowledge Graph",
+    "summary": "A visual network representation of your personal knowledge and its connections.",
+    "explanation": "A Personal Knowledge Graph (PKG) is a network-based representation of an individual's knowledge, showing concepts as nodes and their relationships as edges. Unlike traditional note-taking, a PKG emphasizes connections and enables discovery through traversal. Modern tools like Obsidian visualize your PKG, revealing clusters of related ideas, orphan notes needing connections, and unexpected relationships. Building a PKG transforms passive note collection into an active thinking tool that grows smarter over time.",
+    "tags": ["core-concept", "knowledge-management", "linking", "visualization"],
+    "category": "Core Concepts",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": ["PKG", "Knowledge network"],
+    "relatedConcepts": [
+        "backlinks",
+        "connected-notes",
+        "knowledge-graph",
+        "obsidian",
+        "web-of-knowledge",
+        "zettelkasten"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Knowledge+Graph+(PKG)"
+    ],
+    "articles": [
+        {
+            "title": "Personal Knowledge Management at Scale",
+            "url": "https://www.dsebastien.net/personal-knowledge-management-at-scale-analyzing-8-000-notes-and-64-000-links/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -22,8 +22,18 @@
     "references": [
         {
             "title": "How to Take Smart Notes",
-            "url": "https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502",
+            "url": "https://amzn.to/3H1NxUW",
             "type": "book"
+        },
+        {
+            "title": "A System for Writing",
+            "url": "https://amzn.to/3YLzAXJ",
+            "type": "book"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
         }
     ],
     "tutorials": []

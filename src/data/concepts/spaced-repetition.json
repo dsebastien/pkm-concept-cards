@@ -8,11 +8,29 @@
     "icon": "FaRedo",
     "featured": false,
     "aliases": ["Flashcard learning", "SRS"],
-    "relatedConcepts": ["active-recall", "forgetting-curve", "learning"],
+    "relatedConcepts": [
+        "active-recall",
+        "desirable-difficulties",
+        "forgetting-curve",
+        "interleaving",
+        "retrieval",
+        "spacing-effect"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Spaced+repetition"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Make It Stick",
+            "url": "https://amzn.to/3RLptxV",
+            "type": "book"
+        },
+        {
+            "title": "How We Learn",
+            "url": "https://amzn.to/3zeayG0",
+            "type": "book"
+        }
+    ],
     "tutorials": []
 }

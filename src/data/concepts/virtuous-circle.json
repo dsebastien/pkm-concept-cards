@@ -1,0 +1,24 @@
+{
+    "id": "virtuous-circle",
+    "name": "Virtuous Circle",
+    "summary": "A positive feedback loop where success reinforces behaviors that lead to more success.",
+    "explanation": "A Virtuous Circle is a positive feedback loop where favorable conditions reinforce behaviors that create more favorable conditions. In PKM: taking good notes improves thinking, better thinking produces better notes, which compounds over time. Unlike a vicious circle (negative feedback), virtuous circles build momentum toward positive outcomes. Designing your PKM system to create virtuous circles - where each action naturally leads to the next beneficial action - is key to sustainable practice.",
+    "tags": ["concepts", "systems", "psychology"],
+    "category": "Concepts",
+    "icon": "FaArrowCircleUp",
+    "featured": false,
+    "aliases": ["Virtuous cycle", "Positive feedback loop"],
+    "relatedConcepts": [
+        "compound-growth",
+        "flywheels",
+        "positive-feedback-loop",
+        "systems-thinking",
+        "vicious-circle"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Virtuous+circle"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

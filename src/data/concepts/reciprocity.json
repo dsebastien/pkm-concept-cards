@@ -1,0 +1,18 @@
+{
+    "id": "reciprocity",
+    "name": "Reciprocity",
+    "summary": "The social norm of responding to positive actions with positive actions.",
+    "explanation": "Reciprocity is the social norm where people respond to positive actions with positive actions. When someone helps us, we feel compelled to help them back. In knowledge communities, reciprocity creates virtuous cycles: sharing knowledge freely often leads others to share with you. This principle underlies the success of open-source, digital gardens, and learning in public. Rather than hoarding knowledge, generous sharing builds social capital and often returns more than it gives. The key is giving without immediate expectation of return.",
+    "tags": ["community", "principles", "psychology"],
+    "category": "Principles",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": ["Give and take", "Mutual exchange"],
+    "relatedConcepts": ["digital-garden", "social-capital", "virtuous-circle"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Reciprocity"
+    ],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

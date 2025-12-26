@@ -1,0 +1,35 @@
+{
+    "id": "web-of-knowledge",
+    "name": "Web of Knowledge",
+    "summary": "An interconnected network of ideas and notes that mirrors how the brain works.",
+    "explanation": "A Web of Knowledge is an interconnected network of ideas, concepts, and notes that grows organically through linking. Unlike hierarchical folder structures, a web allows ideas to exist in multiple contexts simultaneously through connections. This mirrors how the human brain works - through associations and relationships rather than rigid categories. The power comes from unexpected connections that emerge over time, leading to insights and creativity. Building a web of knowledge is a core goal of Zettelkasten and modern PKM systems.",
+    "tags": ["core-concept", "knowledge-management", "linking", "organization"],
+    "category": "Core Concepts",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Knowledge web", "Idea network"],
+    "relatedConcepts": ["backlinks", "connected-notes", "knowledge-graph", "moc", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Web+of+knowledge"
+    ],
+    "articles": [
+        {
+            "title": "How to connect ideas together",
+            "url": "https://www.dsebastien.net/how-to-connect-ideas-together/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "How to Take Smart Notes",
+            "url": "https://amzn.to/3H1NxUW",
+            "type": "book"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

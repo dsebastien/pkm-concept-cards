@@ -1,0 +1,30 @@
+{
+    "id": "ego-depletion",
+    "name": "Ego Depletion",
+    "summary": "The theory that self-control and willpower draw from a limited mental resource that gets depleted.",
+    "explanation": "Ego Depletion is the theory that self-control and willpower draw from a limited pool of mental energy that gets depleted through use. After exerting self-control on one task, you have less available for subsequent tasks. While the original research is debated, the practical implication remains useful: don't rely solely on willpower. Instead, design systems and habits that reduce the need for willpower. In PKM, this means creating frictionless capture systems, automating routine tasks, and scheduling demanding work when mental energy is highest.",
+    "tags": ["psychology", "productivity", "concepts"],
+    "category": "Concepts",
+    "icon": "FaBatteryHalf",
+    "featured": false,
+    "aliases": ["Willpower depletion", "Decision fatigue related"],
+    "relatedConcepts": [
+        "decision-fatigue",
+        "delayed-gratification",
+        "habit-stacking",
+        "mental-energy",
+        "pre-commitment"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Ego+depletion"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow",
+            "url": "https://amzn.to/4ciGtDM",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "idea-compass",
+    "name": "The Idea Compass",
+    "summary": "A framework for exploring ideas in four directions: North, South, East, West.",
+    "explanation": "The Idea Compass is a framework for exploring and developing ideas by considering four directions. North: Where does this idea come from? What's its origin or higher abstraction? South: Where does this lead? What are the implications? East: What's similar? What analogies exist? West: What's opposite? What contrasts or tensions exist? This systematic exploration helps develop ideas more thoroughly and discover unexpected connections. It's particularly useful when creating permanent notes from fleeting observations.",
+    "tags": ["thinking", "frameworks", "creativity"],
+    "category": "Frameworks",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Compass of Ideas", "Four directions thinking"],
+    "relatedConcepts": ["connected-notes", "divergent-thinking", "permanent-notes", "zettelkasten"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+Idea+Compass"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

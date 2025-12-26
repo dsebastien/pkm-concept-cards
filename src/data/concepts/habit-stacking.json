@@ -8,15 +8,28 @@
     "icon": "FaLayerGroup",
     "featured": false,
     "aliases": ["Habit chaining"],
-    "relatedConcepts": ["daily-notes", "journaling", "productivity"],
+    "relatedConcepts": [
+        "compound-growth",
+        "daily-notes",
+        "delayed-gratification",
+        "journaling",
+        "kaizen",
+        "morning-routine",
+        "small-wins"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Habit+Stacking"
     ],
     "articles": [],
     "references": [
         {
-            "title": "Atomic Habits by James Clear",
-            "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299",
+            "title": "Atomic Habits",
+            "url": "https://amzn.to/3VG1JfK",
+            "type": "book"
+        },
+        {
+            "title": "The Miracle Morning",
+            "url": "https://amzn.to/4cfDcW7",
             "type": "book"
         }
     ],

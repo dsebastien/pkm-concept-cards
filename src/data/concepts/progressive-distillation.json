@@ -1,0 +1,35 @@
+{
+    "id": "progressive-distillation",
+    "name": "Progressive Distillation",
+    "summary": "A technique for highlighting and extracting the most important information from notes over time.",
+    "explanation": "Progressive Distillation, also known as Progressive Summarization, is a technique developed by Tiago Forte where you highlight the most important parts of a note in multiple passes. The first pass captures everything, subsequent passes bold the key points, then highlight the essential ideas, and finally create an executive summary. This creates layers of increasing compression, allowing you to quickly grasp the essence of a note without re-reading everything. It's a core technique in Building a Second Brain methodology.",
+    "tags": ["methods", "note-taking", "organization", "productivity"],
+    "category": "Methods",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Progressive Summarization", "Layered highlighting"],
+    "relatedConcepts": [
+        "code-method",
+        "literature-notes",
+        "processing-notes",
+        "progressive-summarization",
+        "second-brain"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Progressive+Distillation"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Building a Second Brain",
+            "url": "https://amzn.to/3W0Gsic",
+            "type": "book"
+        },
+        {
+            "title": "Knowledge Management for Beginners Course",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

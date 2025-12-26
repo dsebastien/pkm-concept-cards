@@ -1,0 +1,24 @@
+{
+    "id": "social-capital",
+    "name": "Social Capital",
+    "summary": "The networks, relationships, and trust that enable cooperation and collective action.",
+    "explanation": "Social Capital refers to the value derived from social networks - the connections, trust, shared norms, and reciprocity that enable groups to work together effectively. Unlike financial capital, social capital grows when shared. In knowledge work, social capital comes from sharing knowledge, helping others, participating in communities, and building genuine relationships. A robust PKM system supports building social capital by making it easy to share insights, remember people, and maintain relationships. Learning in public builds social capital.",
+    "tags": ["community", "concepts", "networking"],
+    "category": "Concepts",
+    "icon": "FaHandshake",
+    "featured": false,
+    "aliases": ["Network capital", "Relationship capital"],
+    "relatedConcepts": ["digital-garden", "reciprocity", "third-place"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Social+capital"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://www.dsebastien.net/join-the-knowii-community-and-fix-your-information-overload-problem/",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

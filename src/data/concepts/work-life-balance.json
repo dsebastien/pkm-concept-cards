@@ -1,0 +1,35 @@
+{
+    "id": "work-life-balance",
+    "name": "Work-Life Balance",
+    "summary": "The equilibrium between professional work and personal life activities.",
+    "explanation": "Work-Life Balance refers to the equilibrium between time and energy devoted to work versus personal life. While the concept suggests a clear separation, modern knowledge work often blurs these boundaries. Some prefer 'work-life integration' or 'work-life fit' as more realistic framings. Effective PKM can support work-life balance by: reducing work anxiety through externalized memory, enabling more efficient work, and helping track personal goals alongside professional ones. The key is intentionality about boundaries.",
+    "tags": ["productivity", "wellbeing", "concepts"],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Work-life harmony", "Life balance"],
+    "relatedConcepts": ["deep-work", "evening-routine", "morning-routine", "zen-productivity"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Work+life+balance"
+    ],
+    "articles": [
+        {
+            "title": "How to achieve Work-Life Balance to Improve Your Well-Being",
+            "url": "https://www.dsebastien.net/how-to-achieve-work-life-balance-to-improve-your-well-being/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Essentialism",
+            "url": "https://amzn.to/3xyY6jW",
+            "type": "book"
+        },
+        {
+            "title": "It Doesn't Have to Be Crazy at Work",
+            "url": "https://amzn.to/3LdE3dM",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -8,11 +8,28 @@
     "icon": "FaFileCode",
     "featured": false,
     "aliases": ["AI persona", "System prompt"],
-    "relatedConcepts": ["ai-assistants", "pkm", "prompt-engineering"],
+    "relatedConcepts": ["ai-assistants", "model-context-protocol", "pkm", "prompt-engineering"],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/AI+Master+Prompt"
     ],
-    "articles": [],
-    "references": [],
+    "articles": [
+        {
+            "title": "How to create a top notch AI writing assistant",
+            "url": "https://www.dsebastien.net/how-to-create-a-top-notch-ai-writing-assistant/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "AI Master Prompt Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-ai-master-prompt",
+            "type": "other"
+        },
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        }
+    ],
     "tutorials": []
 }

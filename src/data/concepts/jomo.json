@@ -1,0 +1,30 @@
+{
+    "id": "jomo",
+    "name": "Joy of Missing Out (JOMO)",
+    "summary": "The pleasure of stepping back and disconnecting from the constant stream of information.",
+    "explanation": "Joy of Missing Out (JOMO) is the antidote to FOMO - finding pleasure and peace in deliberately choosing to miss things. It's about recognizing that you can't and shouldn't try to consume everything. JOMO means being comfortable with your choices, trusting that what you're doing matters more than what you're missing. In PKM, JOMO manifests as curating your information diet, saying no to new tools, and being at peace with an imperfect system that works for you.",
+    "tags": ["mindfulness", "productivity", "philosophy", "principles"],
+    "category": "Principles",
+    "icon": "FaSmile",
+    "featured": false,
+    "aliases": ["Joy of missing out"],
+    "relatedConcepts": [
+        "digital-garden",
+        "essentialism",
+        "fomo",
+        "mindfulness",
+        "zen-productivity"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Joy+Of+Missing+Out+(JOMO)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Digital Minimalism",
+            "url": "https://amzn.to/3ZpQNpo",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}
