@@ -1,0 +1,27 @@
+{
+    "id": "commonplace-book",
+    "name": "Commonplace Book",
+    "summary": "A historical practice of collecting quotes, ideas, and observations in a personal notebook.",
+    "explanation": "A Commonplace Book is a personal compilation of knowledge, quotes, ideas, and observations gathered from reading and life experiences. This practice dates back to antiquity and flourished during the Renaissance and Enlightenment periods, used by thinkers like John Locke, Thomas Jefferson, and Ralph Waldo Emerson. Unlike a diary focused on personal events, a commonplace book organizes external wisdom and notable passages by topic or theme. The practice involves actively engaging with texts, selecting meaningful excerpts, and arranging them for future reference and reflection. Commonplace books are considered predecessors to modern personal knowledge management systems, embodying the timeless human desire to collect and organize knowledge for personal growth and creative work.",
+    "tags": ["history", "knowledge-management", "note-taking", "reading"],
+    "category": "Methods",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": ["Commonplacing", "Silva Rerum", "Zibaldone"],
+    "relatedConcepts": ["antilibrary", "literature-notes", "pkm", "zettelkasten"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Commonplace book - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Commonplace_book",
+            "type": "website"
+        },
+        {
+            "title": "A New Method of Making Common-Place-Books by John Locke",
+            "url": "https://publicdomainreview.org/collection/john-lockes-method-for-common-place-books-1685",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

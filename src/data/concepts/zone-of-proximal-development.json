@@ -1,0 +1,27 @@
+{
+    "id": "zone-of-proximal-development",
+    "name": "Zone of Proximal Development",
+    "summary": "The gap between what a learner can do alone and what they can achieve with guidance.",
+    "explanation": "The Zone of Proximal Development (ZPD), introduced by psychologist Lev Vygotsky, describes the difference between what a learner can accomplish independently and what they can achieve with guidance or collaboration. Learning is most effective when challenges fall within this zone - not so easy as to be boring, not so hard as to be frustrating. In the ZPD, learners stretch beyond their current abilities with appropriate support (scaffolding) that is gradually removed as competence develops. For knowledge management, this concept suggests organizing learning materials by difficulty level and seeking appropriate challenges. It also highlights the value of learning communities where more experienced members can help scaffold others' development.",
+    "tags": ["learning", "education", "psychology", "cognitive-science"],
+    "category": "Principles",
+    "icon": "FaGraduationCap",
+    "featured": false,
+    "aliases": ["ZPD", "Proximal development zone"],
+    "relatedConcepts": ["scaffolding-learning", "deliberate-practice", "desirable-difficulty"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Zone of proximal development - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zone_of_proximal_development",
+            "type": "website"
+        },
+        {
+            "title": "Mind in Society by Lev Vygotsky",
+            "url": "https://www.amazon.com/Mind-Society-Development-Psychological-Processes/dp/0674576292",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

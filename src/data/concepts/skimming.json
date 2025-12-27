@@ -1,0 +1,22 @@
+{
+    "id": "skimming",
+    "name": "Skimming",
+    "summary": "Rapidly reading to get an overview of content structure and main points without full comprehension.",
+    "explanation": "Skimming is a reading technique where you rapidly move through text to identify its structure, main points, and relevance without reading every word. Unlike careful reading, skimming focuses on headings, first sentences of paragraphs, emphasized text, and conclusions. It's a valuable pre-reading strategy to decide whether material deserves deeper attention and to build a mental framework before detailed reading (as in the SQ3R method). Skimming is also useful for reviewing familiar material, searching for specific information, or processing large volumes of content to find what matters. Effective knowledge workers develop the judgment to know when to skim and when to slow down, matching reading strategy to purpose rather than applying one approach to all material.",
+    "tags": ["reading", "learning", "productivity", "techniques"],
+    "category": "Techniques",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Preview reading", "Quick scanning"],
+    "relatedConcepts": ["speed-reading", "sq3r-method", "active-reading"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Skimming and scanning - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Speed_reading#Skimming",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

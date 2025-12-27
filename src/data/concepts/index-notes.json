@@ -1,0 +1,22 @@
+{
+    "id": "index-notes",
+    "name": "Index Notes",
+    "summary": "Notes that serve as entry points or directories listing links to related notes by topic.",
+    "explanation": "Index notes function as directories or entry points to a collection of related notes, similar to a book's index. They typically contain organized lists of links to other notes, often grouped by subtopic or sorted alphabetically. Unlike Maps of Content which may include context and narrative, index notes are more bare-bones lists focused on navigation. They're particularly useful for large topic areas where you need quick access to many notes. In the zettelkasten tradition, index notes (Schlagwortverzeichnis) help locate relevant slip-boxes or note sequences. Modern digital tools allow index notes to be generated automatically through queries, combining the benefits of manual curation with dynamic updating.",
+    "tags": ["knowledge-organization", "note-taking", "navigation", "structure"],
+    "category": "Techniques",
+    "icon": "FaDatabase",
+    "featured": false,
+    "aliases": ["Note index", "Directory notes"],
+    "relatedConcepts": ["moc", "hub-notes", "zettelkasten", "entry-point"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Index (publishing) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Index_(publishing)",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

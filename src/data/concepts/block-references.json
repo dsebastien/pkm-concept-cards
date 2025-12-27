@@ -1,0 +1,22 @@
+{
+    "id": "block-references",
+    "name": "Block References",
+    "summary": "Links that point to specific blocks or paragraphs within notes rather than entire documents.",
+    "explanation": "Block references are links that point to specific blocks, paragraphs, or sections within notes rather than linking to entire documents. This granular linking, popularized by tools like Roam Research and later adopted by Obsidian and Logseq, enables more precise connections between ideas. Instead of linking to a page and expecting the reader to find the relevant section, you link directly to the exact content. Block references support practices like transcluding (embedding) specific content across multiple notes, creating precise back-references, and building more atomic knowledge structures. They represent a shift toward thinking in blocks rather than pages, treating each paragraph as a potentially linkable unit of thought.",
+    "tags": ["note-taking", "linking", "tools", "knowledge-organization"],
+    "category": "Techniques",
+    "icon": "FaLink",
+    "featured": false,
+    "aliases": ["Block links", "Paragraph links", "Transclusion"],
+    "relatedConcepts": ["bidirectional-linking", "atomic-notes", "networked-thought"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Transclusion - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Transclusion",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

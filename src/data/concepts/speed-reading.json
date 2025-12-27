@@ -1,0 +1,22 @@
+{
+    "id": "speed-reading",
+    "name": "Speed Reading",
+    "summary": "Techniques aimed at increasing reading speed while maintaining adequate comprehension.",
+    "explanation": "Speed reading encompasses various techniques aimed at increasing reading rate beyond normal speeds. Methods include reducing subvocalization (inner speech), expanding peripheral vision to read multiple words at once, using a pointer to guide eyes, and minimizing regression (re-reading). While some techniques can genuinely improve reading efficiency, claims of extreme speed reading (thousands of words per minute) are generally unsupported by research - comprehension typically suffers at very high speeds. Speed reading is most useful for preview reading, scanning for specific information, or processing familiar material. For complex or novel content requiring deep understanding, slower, more engaged reading remains superior. The key is matching reading speed to purpose and material difficulty.",
+    "tags": ["reading", "learning", "productivity", "techniques"],
+    "category": "Techniques",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Rapid reading", "Fast reading"],
+    "relatedConcepts": ["skimming", "active-reading", "deep-reading"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Speed reading - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Speed_reading",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

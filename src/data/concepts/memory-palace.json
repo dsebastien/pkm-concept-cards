@@ -1,0 +1,27 @@
+{
+    "id": "memory-palace",
+    "name": "Memory Palace",
+    "summary": "A mnemonic technique using visualization of familiar locations to encode and recall information.",
+    "explanation": "The Memory Palace, also known as the Method of Loci, is an ancient mnemonic technique that leverages spatial memory to enhance recall. The method involves visualizing a familiar place (like your home) and mentally placing items you want to remember at specific locations along a path through that space. To recall the information, you mentally walk through the location and 'see' each item where you placed it. This technique works because humans have evolved strong spatial memory capabilities. It was used by ancient Greek and Roman orators to remember long speeches and remains one of the most effective memorization techniques known. Modern memory champions use elaborate memory palaces to perform remarkable feats of recall.",
+    "tags": ["memory", "learning", "mnemonic", "cognitive-techniques"],
+    "category": "Techniques",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Method of Loci", "Mind Palace", "Journey Method"],
+    "relatedConcepts": ["mnemonic-devices", "spaced-repetition", "active-recall"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Moonwalking with Einstein by Joshua Foer",
+            "url": "https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530",
+            "type": "book"
+        },
+        {
+            "title": "Method of loci - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Method_of_loci",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "deep-reading",
+    "name": "Deep Reading",
+    "summary": "Sustained, focused engagement with complex texts that enables rich comprehension and critical thinking.",
+    "explanation": "Deep reading is the sustained, immersive engagement with complex texts that enables rich comprehension, emotional connection, and critical analysis. Distinguished from shallow skimming, deep reading involves following extended arguments, maintaining focus over long periods, and engaging cognitively and emotionally with the material. Research suggests deep reading activates different brain regions than scanning, fostering empathy and complex thought. In an age of distraction and bite-sized content, deep reading is a skill that must be cultivated and protected. It requires time, attention, and often physical books or distraction-free environments. Deep reading is essential for engaging with difficult works in philosophy, literature, and science that resist quick consumption.",
+    "tags": ["reading", "learning", "focus", "comprehension"],
+    "category": "Techniques",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": ["Immersive reading", "Focused reading"],
+    "relatedConcepts": ["slow-reading", "active-reading", "focus", "deep-work"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Reader, Come Home by Maryanne Wolf",
+            "url": "https://www.amazon.com/Reader-Come-Home-Reading-Digital/dp/0062388789",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

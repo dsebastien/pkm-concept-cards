@@ -1,0 +1,27 @@
+{
+    "id": "information-foraging-theory",
+    "name": "Information Foraging Theory",
+    "summary": "A theory explaining how people search for information using strategies similar to animals foraging for food.",
+    "explanation": "Information Foraging Theory, developed by Peter Pirolli and Stuart Card at PARC, applies optimal foraging theory from biology to explain how people search for information. Just as animals balance energy spent finding food against nutrition gained, information seekers balance effort against value of information found. Key concepts include 'information scent' (cues that suggest a path will lead to desired information) and 'information patches' (rich sources of related information). Understanding these patterns helps design better information systems and develop more efficient research strategies. For knowledge management, this theory suggests organizing information to provide clear 'scent trails', creating rich 'patches' of related content (like Maps of Content), and reducing friction in navigating between resources.",
+    "tags": ["information-science", "behavior", "research", "cognitive-science"],
+    "category": "Principles",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": ["Foraging theory", "Information scent"],
+    "relatedConcepts": ["moc", "research-workflow", "knowledge-discovery"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Information Foraging Theory by Peter Pirolli",
+            "url": "https://www.amazon.com/Information-Foraging-Theory-Interaction-Technologies/dp/0195387791",
+            "type": "book"
+        },
+        {
+            "title": "Information foraging - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Information_foraging",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "inductive-reasoning",
+    "name": "Inductive Reasoning",
+    "summary": "Reasoning from specific observations to broader generalizations or probable conclusions.",
+    "explanation": "Inductive reasoning moves from specific observations or cases to broader generalizations or theories. Unlike deduction which guarantees conclusions, induction produces probable rather than certain conclusions - even strong patterns might have exceptions. This is the fundamental logic of empirical science: observing that the sun has risen every day leads to the generalization that it will rise tomorrow. In knowledge management, inductive reasoning appears when we synthesize patterns across many notes, develop general principles from case studies, or build mental models from accumulated experience. Understanding induction helps recognize that our generalizations are provisional and may need revision as new evidence emerges. It encourages systematic collection of observations and honest acknowledgment of the limits of our conclusions.",
+    "tags": ["thinking", "logic", "reasoning", "critical-thinking"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Induction", "Bottom-up reasoning", "Generalizing"],
+    "relatedConcepts": ["deductive-reasoning", "abductive-reasoning", "critical-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Inductive reasoning - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Inductive_reasoning",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

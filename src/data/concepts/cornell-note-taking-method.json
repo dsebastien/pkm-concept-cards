@@ -1,0 +1,27 @@
+{
+    "id": "cornell-note-taking-method",
+    "name": "Cornell Note-Taking Method",
+    "summary": "A systematic note format dividing the page into cue column, notes section, and summary area.",
+    "explanation": "The Cornell Note-Taking Method is a structured approach to note-taking developed by Walter Pauk at Cornell University in the 1950s. The page is divided into three sections: a narrow left column for cues and questions, a larger right column for detailed notes during lectures or reading, and a summary section at the bottom. After the session, you review your notes, write questions or keywords in the cue column, and compose a brief summary. This format facilitates active recall and systematic review, making it particularly effective for studying and exam preparation. The method encourages immediate engagement with material and promotes the habit of summarizing key concepts in your own words.",
+    "tags": ["learning", "note-taking", "study-techniques", "education"],
+    "category": "Methods",
+    "icon": "FaColumns",
+    "featured": false,
+    "aliases": ["Cornell Method", "Cornell Notes", "Cornell System"],
+    "relatedConcepts": ["active-reading", "literature-notes", "progressive-summarization"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "How to Study in College by Walter Pauk",
+            "url": "https://www.amazon.com/How-Study-College-Walter-Pauk/dp/1133960782",
+            "type": "book"
+        },
+        {
+            "title": "Cornell Note Taking System - Learning Strategies Center",
+            "url": "https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

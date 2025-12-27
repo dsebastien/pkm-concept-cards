@@ -1,0 +1,22 @@
+{
+    "id": "plain-text-productivity",
+    "name": "Plain Text Productivity",
+    "summary": "Using plain text files for productivity and knowledge management for simplicity and longevity.",
+    "explanation": "Plain text productivity is an approach that uses simple text files (often in Markdown format) for notes, tasks, and knowledge management rather than proprietary formats or complex applications. Advocates argue that plain text is future-proof (readable for decades), universally compatible, fast to work with, and frees users from dependency on specific tools. Plain text files are small, searchable, version-controllable with Git, and can be manipulated with any text editor. The approach trades rich formatting and specialized features for simplicity, longevity, and flexibility. It aligns with minimalist philosophy and concerns about software lock-in. Tools like Obsidian, Zettlr, and Vim with plugins make plain text workflows powerful while preserving the underlying simplicity.",
+    "tags": ["productivity", "tools", "minimalism", "formats"],
+    "category": "Principles",
+    "icon": "FaStickyNote",
+    "featured": false,
+    "aliases": ["Plain text notes", "Text-based productivity"],
+    "relatedConcepts": ["markdown", "local-first-software", "data-portability"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Plain Text Project",
+            "url": "https://plaintextproject.online/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

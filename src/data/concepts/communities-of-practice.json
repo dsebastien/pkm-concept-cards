@@ -1,0 +1,27 @@
+{
+    "id": "communities-of-practice",
+    "name": "Communities of Practice",
+    "summary": "Groups of people who share a concern or passion for something and learn through regular interaction.",
+    "explanation": "Communities of Practice (CoP) are groups of people who share a concern, problem, or passion for something and who deepen their knowledge and expertise through ongoing interaction. Coined by Jean Lave and Etienne Wenger, the concept emphasizes that learning is inherently social and occurs through participation in shared practices. CoPs have three key elements: a domain (shared interest), a community (relationships enabling joint learning), and a practice (shared repertoire of resources and approaches). For knowledge workers, CoPs provide contexts for learning tacit knowledge that can't be captured in documents, testing ideas with peers, and staying current in a field. Online PKM communities, local meetups, and professional groups all function as communities of practice where members develop shared understanding.",
+    "tags": ["learning", "collaboration", "social-learning", "knowledge-management"],
+    "category": "Systems",
+    "icon": "FaUser",
+    "featured": false,
+    "aliases": ["CoP", "Learning communities", "Practice communities"],
+    "relatedConcepts": ["social-learning", "tacit-knowledge", "knowledge-sharing"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Communities of Practice by Etienne Wenger",
+            "url": "https://www.amazon.com/Communities-Practice-Learning-Meaning-Identity/dp/0521663636",
+            "type": "book"
+        },
+        {
+            "title": "Community of practice - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Community_of_practice",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

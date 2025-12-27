@@ -1,0 +1,22 @@
+{
+    "id": "information-diet",
+    "name": "Information Diet",
+    "summary": "Intentionally curating information consumption for quality over quantity.",
+    "explanation": "An information diet is the deliberate curation of what information you consume, prioritizing quality over quantity and relevance over novelty. Just as a food diet affects physical health, an information diet affects cognitive health and productivity. This involves reducing or eliminating low-quality sources (social media feeds, clickbait news), being selective about what deserves attention, and creating barriers against information addiction. Key practices include unsubscribing from unnecessary inputs, batching news consumption, choosing books over articles, and protecting focused work time. For knowledge management, a good information diet means being intentional about what enters your system, ensuring your notes reflect curated quality rather than random accumulation. The goal is consuming less but better information.",
+    "tags": ["productivity", "attention", "mindfulness", "habits"],
+    "category": "Principles",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Information curation", "Selective information consumption"],
+    "relatedConcepts": ["focus", "deep-work", "attention-management"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Information Diet by Clay Johnson",
+            "url": "https://www.amazon.com/Information-Diet-Conscious-Consumption-Healthier/dp/1449304680",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

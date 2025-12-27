@@ -1,0 +1,22 @@
+{
+    "id": "ontology-knowledge-management",
+    "name": "Ontology (Knowledge Management)",
+    "summary": "A formal representation of concepts and their relationships within a domain of knowledge.",
+    "explanation": "In knowledge management, an ontology is a formal representation of the concepts within a domain and the relationships between those concepts. Beyond simple hierarchies (taxonomies), ontologies capture rich relationships like 'is a type of', 'is part of', 'causes', 'requires', and custom relationships specific to the domain. This enables sophisticated reasoning about knowledge and powers applications like semantic search and knowledge graphs. In personal knowledge management, ontological thinking means not just categorizing notes but explicitly defining how concepts relate to each other. Tools like Roam Research, Obsidian, and Notion enable users to build personal ontologies through bidirectional links and explicit relationship types.",
+    "tags": ["knowledge-organization", "semantic-web", "relationships", "structure"],
+    "category": "Systems",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": ["Knowledge ontology", "Domain ontology"],
+    "relatedConcepts": ["taxonomy", "knowledge-graph", "semantic-memory", "linked-data"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Ontology (information science) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ontology_(information_science)",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

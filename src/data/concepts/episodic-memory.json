@@ -1,0 +1,22 @@
+{
+    "id": "episodic-memory",
+    "name": "Episodic Memory",
+    "summary": "Long-term memory for personal experiences and specific events with their context.",
+    "explanation": "Episodic memory is a type of long-term memory that stores autobiographical events and personal experiences along with their spatial and temporal context. Unlike semantic memory (general knowledge), episodic memory allows us to 'mentally time travel' and re-experience past events. Coined by Endel Tulving, this memory system is crucial for personal identity and learning from experience. In knowledge work, episodic memory helps us remember where we encountered information and the circumstances around learning. Journaling and daily notes leverage episodic memory by creating contextual anchors for information. Understanding the distinction between episodic and semantic memory explains why we might remember reading something but struggle to recall the specific content.",
+    "tags": ["cognitive-science", "memory", "learning", "psychology"],
+    "category": "Principles",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Autobiographical memory", "Personal memory"],
+    "relatedConcepts": ["semantic-memory", "daily-notes", "journaling"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Episodic memory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Episodic_memory",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

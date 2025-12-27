@@ -1,0 +1,33 @@
+{
+    "id": "sketchnoting",
+    "name": "Sketchnoting",
+    "summary": "Visual note-taking that combines hand-drawn elements, typography, shapes, and text.",
+    "explanation": "Sketchnoting is a visual note-taking technique that combines drawings, typography, shapes, icons, and text to capture and communicate ideas. Popularized by designer Mike Rohde through his book 'The Sketchnote Handbook', this method leverages dual coding theory by engaging both verbal and visual processing. Sketchnotes are not about artistic ability but about creating personal visual representations of information that enhance understanding and memory. The practice encourages active listening and selective capture, forcing note-takers to identify key concepts and their relationships. Sketchnoting is particularly effective for conferences, lectures, and meetings where visual summaries can capture complex ideas more memorably than linear text notes.",
+    "tags": ["creativity", "learning", "note-taking", "visual-thinking"],
+    "category": "Techniques",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Visual note-taking", "Sketchnotes", "Graphic notes"],
+    "relatedConcepts": ["dual-coding-theory", "mind-maps", "visual-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Sketchnote Handbook by Mike Rohde",
+            "url": "https://www.amazon.com/Sketchnote-Handbook-illustrated-visual-taking/dp/0321857895",
+            "type": "book"
+        },
+        {
+            "title": "Sketchnote Army",
+            "url": "https://sketchnotearmy.com/",
+            "type": "website"
+        }
+    ],
+    "tutorials": [
+        {
+            "title": "How to Sketchnote - Verbal to Visual",
+            "url": "https://www.youtube.com/watch?v=NOz_A3G8HsY",
+            "type": "video"
+        }
+    ]
+}

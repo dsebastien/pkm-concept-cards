@@ -1,0 +1,22 @@
+{
+    "id": "argumentation-mapping",
+    "name": "Argumentation Mapping",
+    "summary": "Visual representation of arguments showing claims, evidence, and logical relationships.",
+    "explanation": "Argumentation mapping (or argument mapping) is the visual representation of the logical structure of arguments. It diagrams claims, evidence, reasons, objections, and rebuttals to show how they relate to each other. Unlike linear text, argument maps make the logical structure explicit, revealing gaps in reasoning, unsupported claims, and the strength of evidence. This technique is used in philosophy, law, policy analysis, and critical thinking education. Tools like Kialo, Argdown, and Rationale support digital argument mapping. In knowledge management, argumentation mapping helps clarify complex debates, evaluate the strength of positions, and identify where further evidence is needed. It's particularly valuable for controversial topics where multiple viewpoints must be fairly represented.",
+    "tags": ["thinking", "critical-thinking", "visualization", "logic"],
+    "category": "Techniques",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Argument mapping", "Argument diagramming"],
+    "relatedConcepts": ["critical-thinking", "mind-maps", "visual-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Argument map - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Argument_map",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

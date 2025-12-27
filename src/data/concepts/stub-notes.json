@@ -1,0 +1,22 @@
+{
+    "id": "stub-notes",
+    "name": "Stub Notes",
+    "summary": "Placeholder notes created to mark topics for future development.",
+    "explanation": "Stub notes are minimal placeholder notes created to mark topics for future exploration and development. Borrowed from wiki terminology, a stub contains just enough information to establish what the topic is about, often with a brief definition and perhaps a few key links. Stubs are valuable because they allow you to capture ideas immediately without interrupting your current work, create link targets that will be developed later, and identify gaps in your knowledge base. A system with many stubs indicates active growth and curiosity. The key is to periodically review stubs, either developing them into full notes or merging them with existing content. Some PKM practitioners use a special tag or prefix to track stubs.",
+    "tags": ["note-taking", "knowledge-organization", "workflow", "capture"],
+    "category": "Techniques",
+    "icon": "FaStickyNote",
+    "featured": false,
+    "aliases": ["Placeholder notes", "Seed notes"],
+    "relatedConcepts": ["orphan-notes", "fleeting-notes", "atomic-notes"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Wikipedia:Stub - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

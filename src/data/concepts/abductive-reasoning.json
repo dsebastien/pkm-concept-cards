@@ -1,0 +1,27 @@
+{
+    "id": "abductive-reasoning",
+    "name": "Abductive Reasoning",
+    "summary": "Reasoning to the best explanation for observed facts, generating plausible hypotheses.",
+    "explanation": "Abductive reasoning, or inference to the best explanation, works backward from observations to the hypothesis that would best explain them. While deduction guarantees conclusions and induction generalizes from patterns, abduction generates hypotheses to explain puzzling facts. When you see wet streets and infer it rained, you're using abduction - rain isn't the only possible cause, but it's the most plausible explanation. Abduction is central to diagnosis (medical or technical), scientific discovery, and detective work. In knowledge management, abductive reasoning appears when we develop theories to explain patterns in our notes, generate hypotheses about connections between ideas, or troubleshoot problems. Abduction produces candidates for truth that must then be tested, not certainties.",
+    "tags": ["thinking", "logic", "reasoning", "critical-thinking"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Abduction", "Inference to the best explanation", "Retroduction"],
+    "relatedConcepts": [
+        "inductive-reasoning",
+        "deductive-reasoning",
+        "critical-thinking",
+        "hypothesis-testing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Abductive reasoning - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Abductive_reasoning",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "semantic-memory",
+    "name": "Semantic Memory",
+    "summary": "Long-term memory for facts, concepts, and general knowledge independent of personal experience.",
+    "explanation": "Semantic memory is a type of long-term memory that stores general knowledge about the world, including facts, concepts, meanings, and vocabulary, independent of the context in which they were learned. Unlike episodic memory (which stores personal experiences), semantic memory allows us to know that Paris is the capital of France without remembering when or how we learned it. In knowledge management, understanding semantic memory helps explain why well-organized, meaningful information is easier to retain than isolated facts. Building strong semantic memory requires active engagement with material, making connections between concepts, and repeated exposure over time. Concept maps and zettelkasten systems help build semantic knowledge by explicitly representing relationships between ideas.",
+    "tags": ["cognitive-science", "memory", "learning", "psychology"],
+    "category": "Principles",
+    "icon": "FaDatabase",
+    "featured": false,
+    "aliases": ["Conceptual memory", "General knowledge memory"],
+    "relatedConcepts": ["episodic-memory", "schema-theory", "long-term-memory"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Semantic memory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Semantic_memory",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

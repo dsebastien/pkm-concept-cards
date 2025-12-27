@@ -1,0 +1,22 @@
+{
+    "id": "cognitive-flexibility",
+    "name": "Cognitive Flexibility",
+    "summary": "The mental ability to switch between concepts, adapt thinking, and consider multiple perspectives.",
+    "explanation": "Cognitive Flexibility is an executive function that enables the ability to adapt thinking and behavior in response to changing goals, rules, or circumstances. It involves switching between tasks or mental sets, seeing things from multiple perspectives, and thinking creatively about problems. High cognitive flexibility is associated with better problem-solving, creativity, and resilience. In knowledge management, cognitive flexibility supports making unexpected connections between ideas, reconsidering assumptions, and adapting note-taking approaches to different contexts. It can be developed through practices like exploring diverse fields, deliberately seeking opposing viewpoints, learning new skills, and reflecting on one's own thinking patterns.",
+    "tags": ["cognitive-science", "thinking", "creativity", "executive-function"],
+    "category": "Principles",
+    "icon": "FaPuzzlePiece",
+    "featured": false,
+    "aliases": ["Mental flexibility", "Adaptive thinking"],
+    "relatedConcepts": ["divergent-thinking", "lateral-thinking", "metacognition"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Cognitive flexibility - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cognitive_flexibility",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

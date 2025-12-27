@@ -1,0 +1,22 @@
+{
+    "id": "data-portability",
+    "name": "Data Portability",
+    "summary": "The ability to easily move data between different applications and platforms without loss.",
+    "explanation": "Data portability is the ability to transfer data from one system, application, or platform to another without losing information or functionality. It's a crucial consideration for knowledge management because your notes and knowledge may outlive any particular tool. Good portability means using open formats (like Markdown or plain text), avoiding proprietary features that lock data to specific tools, and maintaining data in structures that can be understood by other applications. When evaluating PKM tools, portability should be a primary consideration - can you export everything? In what format? Will another tool understand it? The long-term value of a knowledge base depends on it being accessible regardless of which software survives.",
+    "tags": ["software", "data-ownership", "formats", "interoperability"],
+    "category": "Principles",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": ["Data export", "Format interoperability"],
+    "relatedConcepts": ["local-first-software", "plain-text-productivity", "markdown"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Data portability - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Data_portability",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

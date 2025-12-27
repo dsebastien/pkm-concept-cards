@@ -1,0 +1,22 @@
+{
+    "id": "cognitive-offloading",
+    "name": "Cognitive Offloading",
+    "summary": "Using external tools or the environment to reduce mental effort and extend cognitive capacity.",
+    "explanation": "Cognitive offloading is the use of physical actions, external tools, or environmental features to reduce the cognitive demands of a task. Examples include writing down a phone number instead of memorizing it, using a calculator for arithmetic, or organizing your desk so needed items are visible. Research shows humans naturally offload cognition when given the opportunity, and doing so can improve performance on complex tasks. In knowledge management, cognitive offloading is the fundamental principle - using notes, systems, and tools to extend limited working memory and unreliable long-term memory. Effective PKM isn't about remembering more but about strategically offloading to create cognitive capacity for higher-level thinking. The goal is to let external systems handle storage while the brain focuses on synthesis and creativity.",
+    "tags": ["cognitive-science", "productivity", "psychology", "tools"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["External cognition", "Cognitive extension"],
+    "relatedConcepts": ["extended-mind-thesis", "exocortex", "gtd"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Cognitive offloading - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cognitive_offloading",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

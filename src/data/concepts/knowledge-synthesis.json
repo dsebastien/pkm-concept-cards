@@ -1,0 +1,27 @@
+{
+    "id": "knowledge-synthesis",
+    "name": "Knowledge Synthesis",
+    "summary": "The process of combining diverse information sources into coherent, novel understanding.",
+    "explanation": "Knowledge synthesis is the process of combining information from multiple sources, perspectives, or disciplines into new, coherent understanding. It goes beyond summarization or aggregation to create something greater than the sum of its parts - finding patterns, resolving contradictions, and generating insights that weren't present in any single source. Synthesis is the heart of creative knowledge work, appearing when researchers integrate findings, writers combine influences, and learners construct understanding from diverse materials. In personal knowledge management, synthesis happens when reviewing linked notes reveals unexpected connections, when writing forces the integration of multiple sources, or when teaching requires explaining how ideas relate. Strong synthesis skills distinguish those who merely collect information from those who generate insight.",
+    "tags": ["thinking", "knowledge-management", "creativity", "learning"],
+    "category": "Principles",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Synthesis", "Knowledge integration", "Integrative thinking"],
+    "relatedConcepts": [
+        "evergreen-notes",
+        "permanent-notes",
+        "progressive-summarization",
+        "creative-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Synthesis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Synthesis",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

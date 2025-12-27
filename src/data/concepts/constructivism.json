@@ -1,0 +1,27 @@
+{
+    "id": "constructivism",
+    "name": "Constructivism",
+    "summary": "A learning theory where learners actively construct knowledge through experience rather than passively receiving it.",
+    "explanation": "Constructivism is a learning theory positing that learners actively construct understanding and knowledge through experiences rather than passively absorbing information. Associated with theorists like Piaget, Vygotsky, and Dewey, constructivism emphasizes that learning is an active, contextualized process of constructing meaning. Prior knowledge serves as a foundation onto which new understanding is built, and learning is influenced by social and cultural contexts. For knowledge management, constructivism supports practices like writing notes in your own words, connecting new ideas to existing knowledge, learning through projects and application, and engaging in discussions. It favors sense-making over memorization and personal synthesis over passive consumption.",
+    "tags": ["learning", "education", "psychology", "pedagogy"],
+    "category": "Principles",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": ["Constructivist learning theory", "Constructionist learning"],
+    "relatedConcepts": ["schema-theory", "zone-of-proximal-development", "active-learning"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Constructivism (philosophy of education) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)",
+            "type": "website"
+        },
+        {
+            "title": "How People Learn by National Research Council",
+            "url": "https://www.amazon.com/How-People-Learn-Experience-Expanded/dp/0309070368",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

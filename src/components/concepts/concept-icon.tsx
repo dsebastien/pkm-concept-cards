@@ -77,7 +77,10 @@ import {
     FaGift,
     FaTasks,
     FaSeedling,
-    FaHighlighter
+    FaHighlighter,
+    FaCodeBranch,
+    FaFileAlt,
+    FaCloudUploadAlt
 } from 'react-icons/fa'
 import { SiObsidian, SiSubstack, SiBluesky } from 'react-icons/si'
 import { FaXTwitter, FaThreads } from 'react-icons/fa6'
@@ -162,6 +165,9 @@ const iconMap: Record<string, IconType> = {
     FaTasks,
     FaSeedling,
     FaHighlighter,
+    FaCodeBranch,
+    FaFileAlt,
+    FaCloudUploadAlt,
     SiObsidian,
     SiSubstack,
     SiBluesky,
@@ -249,6 +255,9 @@ const iconColors: Record<string, string> = {
     FaTasks: 'text-teal-400',
     FaSeedling: 'text-green-400',
     FaHighlighter: 'text-yellow-400',
+    FaCodeBranch: 'text-orange-400',
+    FaFileAlt: 'text-blue-400',
+    FaCloudUploadAlt: 'text-cyan-400',
     SiObsidian: 'text-purple-400',
     SiSubstack: 'text-orange-400',
     SiBluesky: 'text-sky-400',

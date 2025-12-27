@@ -1,0 +1,22 @@
+{
+    "id": "taxonomy",
+    "name": "Taxonomy",
+    "summary": "A hierarchical classification system that organizes concepts into categories and subcategories.",
+    "explanation": "A taxonomy is a hierarchical classification scheme that organizes entities into groups based on shared characteristics. Originally developed for biological classification by Carl Linnaeus, taxonomies are now used widely in knowledge organization, from library sciences to website navigation. In knowledge management, taxonomies provide top-down structure by defining categories and subcategories before content is added. They excel at providing consistent navigation and clear boundaries between categories. However, taxonomies can be rigid and struggle with items that belong to multiple categories. Modern PKM systems often combine taxonomies with folksonomies (user-generated tags) and ontologies (relationship-rich structures) to balance formal structure with flexibility.",
+    "tags": ["knowledge-organization", "classification", "information-architecture", "structure"],
+    "category": "Systems",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": ["Classification system", "Hierarchical classification"],
+    "relatedConcepts": ["folksonomy", "ontology-knowledge-management", "tags", "categories"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Taxonomy (general) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Taxonomy_(general)",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

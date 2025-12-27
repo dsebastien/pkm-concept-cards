@@ -1,0 +1,27 @@
+{
+    "id": "schema-theory",
+    "name": "Schema Theory",
+    "summary": "A cognitive framework explaining how knowledge is organized in interconnected mental structures.",
+    "explanation": "Schema Theory describes how knowledge is organized in the mind as interconnected mental frameworks called schemas. Developed by psychologist Jean Piaget and expanded by others, this theory explains that we interpret new information by fitting it into existing schemas or modifying our schemas to accommodate new data. Schemas act as templates that help us quickly understand and respond to situations based on prior experience. In learning, schema theory suggests that new information is better retained when it connects to existing knowledge structures. This has implications for teaching (activate prior knowledge before introducing new concepts) and note-taking (organize notes in ways that reflect meaningful relationships between ideas).",
+    "tags": ["cognitive-science", "learning", "memory", "psychology"],
+    "category": "Principles",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": ["Schema", "Schemata", "Mental schemas"],
+    "relatedConcepts": ["constructivism", "elaboration", "prior-knowledge"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Schema (psychology) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Schema_(psychology)",
+            "type": "website"
+        },
+        {
+            "title": "How We Learn by Benedict Carey",
+            "url": "https://www.amazon.com/How-We-Learn-Surprising-Happens/dp/0812984293",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

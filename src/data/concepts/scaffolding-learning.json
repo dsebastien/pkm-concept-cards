@@ -1,0 +1,26 @@
+{
+    "id": "scaffolding-learning",
+    "name": "Scaffolding (Learning)",
+    "summary": "Temporary support structures that help learners accomplish tasks beyond their current abilities.",
+    "explanation": "Scaffolding in education refers to temporary instructional supports that enable learners to accomplish tasks they couldn't complete independently. Like construction scaffolding that's removed once a building can stand alone, learning scaffolds are gradually withdrawn as competence develops. This might include worked examples, hints, templates, simplified versions, or expert guidance. The concept builds on Vygotsky's Zone of Proximal Development, providing the support needed to bridge the gap between current and potential ability. In personal knowledge management, scaffolding might include templates for notes, prompts for reflection, or progressive disclosure of complex topics. Good scaffolding balances support with challenge, avoiding both frustrating difficulty and passive consumption.",
+    "tags": ["learning", "education", "pedagogy", "teaching"],
+    "category": "Principles",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["Instructional scaffolding", "Learning scaffolds"],
+    "relatedConcepts": [
+        "zone-of-proximal-development",
+        "desirable-difficulty",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Instructional scaffolding - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Instructional_scaffolding",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

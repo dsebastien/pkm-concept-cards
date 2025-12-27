@@ -1,0 +1,22 @@
+{
+    "id": "local-first-software",
+    "name": "Local-First Software",
+    "summary": "Software that prioritizes local data storage while enabling collaboration, ensuring ownership and offline access.",
+    "explanation": "Local-first software is an approach to application design that prioritizes storing data locally on the user's device while still enabling real-time collaboration and sync. Coined in a 2019 paper by Kleppmann et al., local-first software addresses the downsides of cloud-only applications: dependency on internet connectivity, concerns about data ownership, and risk of losing access if services shut down. Local-first apps work offline, sync when possible, and keep users in control of their data. For personal knowledge management, local-first tools like Obsidian store notes as files on your device, ensuring you maintain ownership and access regardless of the tool's future. This aligns with the principle that your knowledge should outlast any particular software.",
+    "tags": ["software", "data-ownership", "tools", "technology"],
+    "category": "Principles",
+    "icon": "FaDatabase",
+    "featured": false,
+    "aliases": ["Local-first", "Offline-first"],
+    "relatedConcepts": ["data-portability", "plain-text-productivity", "obsidian"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Local-first software: You own your data, in spite of the cloud",
+            "url": "https://www.inkandswitch.com/local-first/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

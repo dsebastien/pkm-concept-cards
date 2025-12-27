@@ -1,0 +1,22 @@
+{
+    "id": "deductive-reasoning",
+    "name": "Deductive Reasoning",
+    "summary": "Reasoning from general principles to specific conclusions with logical certainty.",
+    "explanation": "Deductive reasoning works from general premises to specific conclusions. If the premises are true and the reasoning valid, the conclusion must be true - this is what makes deduction 'truth-preserving'. The classic example is: All men are mortal; Socrates is a man; therefore Socrates is mortal. In knowledge management, deductive reasoning appears when applying general principles to specific situations, deriving implications from theories, or checking whether conclusions follow from stated premises. Understanding deduction helps evaluate arguments and identify hidden assumptions. However, deduction's power depends entirely on the truth of its premises - garbage in, garbage out. It must work together with induction (which establishes premises from observation) and abduction (which generates hypotheses to explain evidence).",
+    "tags": ["thinking", "logic", "reasoning", "critical-thinking"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Deduction", "Top-down reasoning", "Logical deduction"],
+    "relatedConcepts": ["inductive-reasoning", "abductive-reasoning", "critical-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deductive reasoning - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Deductive_reasoning",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

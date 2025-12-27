@@ -1,0 +1,22 @@
+{
+    "id": "slow-reading",
+    "name": "Slow Reading",
+    "summary": "Deliberate, mindful reading that prioritizes depth of understanding over speed or volume.",
+    "explanation": "Slow reading is a deliberate approach to reading that prioritizes depth, comprehension, and reflection over speed or quantity. In contrast to skimming or speed reading, slow reading involves savoring texts, re-reading passages, pausing to think, taking notes, and allowing ideas to marinate. This practice emerged as a counterpoint to information overload and the pressure to consume more content. Slow reading is particularly appropriate for dense, complex, or significant texts that reward careful attention. It aligns with the idea that what matters is not how many books you read but how well you engage with the ones that matter. Slow reading often pairs naturally with marginalia, annotation, and deep note-taking.",
+    "tags": ["reading", "learning", "mindfulness", "focus"],
+    "category": "Techniques",
+    "icon": "FaBookOpen",
+    "featured": false,
+    "aliases": ["Mindful reading", "Deep reading"],
+    "relatedConcepts": ["deep-reading", "active-reading", "marginalia", "literature-notes"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Art of Slow Reading by Thomas Newkirk",
+            "url": "https://www.amazon.com/Art-Slow-Reading-Pleasures-Thoughtful/dp/0325037310",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}
