@@ -5,3 +5,4 @@ public
 .claude/
 package.json
 package-lock.json
+src/data/concepts/
