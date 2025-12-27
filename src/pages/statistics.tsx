@@ -2,6 +2,8 @@ import { useMemo } from 'react'
 import { Link } from 'react-router'
 import { FaChartBar, FaArrowLeft } from 'react-icons/fa'
 import Section from '@/components/ui/section'
+import { AnimatedPage, AnimatedHero, AnimatedSection, AnimatedStat } from '@/components/ui/animated'
+import AnimatedCounter from '@/components/ui/animated-counter'
 import { conceptsData } from '@/data'
 
 interface CategoryStat {
@@ -180,10 +182,10 @@ const StatisticsPage: React.FC = () => {
     }
 
     return (
-        <>
+        <AnimatedPage>
             {/* Header */}
             <Section className='pt-16 pb-8 sm:pt-24 sm:pb-12'>
-                <div className='mx-auto max-w-4xl'>
+                <AnimatedHero className='mx-auto max-w-4xl'>
                     <Link
                         to='/'
                         className='text-primary/70 hover:text-secondary mb-6 inline-flex items-center gap-2 text-sm transition-colors'
@@ -204,7 +206,7 @@ const StatisticsPage: React.FC = () => {
                             </p>
                         </div>
                     </div>
-                </div>
+                </AnimatedHero>
             </Section>
 
             {/* Overview Stats */}
@@ -212,37 +214,53 @@ const StatisticsPage: React.FC = () => {
                 <div className='mx-auto max-w-4xl'>
                     <h2 className='mb-6 text-xl font-semibold'>Overview</h2>
                     <div className='grid grid-cols-2 gap-4 sm:grid-cols-4'>
-                        <div className='bg-primary/5 rounded-xl p-4 text-center'>
-                            <div className='text-secondary text-3xl font-bold'>
-                                {stats.totalConcepts}
+                        <AnimatedStat delay={0.1}>
+                            <div className='bg-primary/5 rounded-xl p-4 text-center'>
+                                <AnimatedCounter
+                                    value={stats.totalConcepts}
+                                    delay={0.3}
+                                    className='text-secondary text-3xl font-bold'
+                                />
+                                <div className='text-primary/60 text-sm'>Total Concepts</div>
                             </div>
-                            <div className='text-primary/60 text-sm'>Total Concepts</div>
-                        </div>
-                        <div className='bg-primary/5 rounded-xl p-4 text-center'>
-                            <div className='text-3xl font-bold text-amber-400'>
-                                {stats.featuredConcepts}
+                        </AnimatedStat>
+                        <AnimatedStat delay={0.2}>
+                            <div className='bg-primary/5 rounded-xl p-4 text-center'>
+                                <AnimatedCounter
+                                    value={stats.featuredConcepts}
+                                    delay={0.4}
+                                    className='text-3xl font-bold text-amber-400'
+                                />
+                                <div className='text-primary/60 text-sm'>Featured</div>
                             </div>
-                            <div className='text-primary/60 text-sm'>Featured</div>
-                        </div>
-                        <div className='bg-primary/5 rounded-xl p-4 text-center'>
-                            <div className='text-3xl font-bold text-blue-400'>
-                                {stats.categoryStats.length}
+                        </AnimatedStat>
+                        <AnimatedStat delay={0.3}>
+                            <div className='bg-primary/5 rounded-xl p-4 text-center'>
+                                <AnimatedCounter
+                                    value={stats.categoryStats.length}
+                                    delay={0.5}
+                                    className='text-3xl font-bold text-blue-400'
+                                />
+                                <div className='text-primary/60 text-sm'>Categories</div>
                             </div>
-                            <div className='text-primary/60 text-sm'>Categories</div>
-                        </div>
-                        <div className='bg-primary/5 rounded-xl p-4 text-center'>
-                            <div className='text-3xl font-bold text-green-400'>
-                                {stats.uniqueTags}
+                        </AnimatedStat>
+                        <AnimatedStat delay={0.4}>
+                            <div className='bg-primary/5 rounded-xl p-4 text-center'>
+                                <AnimatedCounter
+                                    value={stats.uniqueTags}
+                                    delay={0.6}
+                                    className='text-3xl font-bold text-green-400'
+                                />
+                                <div className='text-primary/60 text-sm'>Unique Tags</div>
                             </div>
-                            <div className='text-primary/60 text-sm'>Unique Tags</div>
-                        </div>
+                        </AnimatedStat>
                     </div>
                 </div>
             </Section>
 
             {/* Category Distribution */}
             <Section className='py-8'>
-                <div className='mx-auto max-w-4xl'>
+                <AnimatedSection className='mx-auto max-w-4xl'>
                     <h2 className='mb-6 text-xl font-semibold'>Category Distribution</h2>
                     <div className='bg-primary/5 rounded-xl p-6'>
                         <div className='space-y-4'>
@@ -266,12 +284,12 @@ const StatisticsPage: React.FC = () => {
                             ))}
                         </div>
                     </div>
-                </div>
+                </AnimatedSection>
             </Section>
 
             {/* Content Completeness */}
             <Section className='py-8'>
-                <div className='mx-auto max-w-4xl'>
+                <AnimatedSection className='mx-auto max-w-4xl'>
                     <h2 className='mb-6 text-xl font-semibold'>Content Completeness</h2>
                     <div className='grid gap-4 sm:grid-cols-2'>
                         <div className='bg-primary/5 rounded-xl p-6'>
@@ -373,13 +391,13 @@ const StatisticsPage: React.FC = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </AnimatedSection>
             </Section>
 
             {/* Reference Types */}
             {stats.totalReferences > 0 && (
                 <Section className='py-8'>
-                    <div className='mx-auto max-w-4xl'>
+                    <AnimatedSection className='mx-auto max-w-4xl'>
                         <h2 className='mb-6 text-xl font-semibold'>Reference Types</h2>
                         <div className='bg-primary/5 rounded-xl p-6'>
                             {/* Pie chart visualization */}
@@ -455,13 +473,13 @@ const StatisticsPage: React.FC = () => {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </AnimatedSection>
                 </Section>
             )}
 
             {/* Tags */}
             <Section className='py-8'>
-                <div className='mx-auto max-w-4xl'>
+                <AnimatedSection className='mx-auto max-w-4xl'>
                     <h2 className='mb-2 text-xl font-semibold'>Top Tags</h2>
                     <p className='text-primary/60 mb-6 text-sm'>
                         Showing top 20 most used tags (avg {stats.avgTagsPerConcept.toFixed(1)} tags
@@ -497,30 +515,37 @@ const StatisticsPage: React.FC = () => {
                             })}
                         </div>
                     </div>
-                </div>
+                </AnimatedSection>
             </Section>
 
             {/* Text Statistics */}
             <Section className='py-8 pb-16'>
-                <div className='mx-auto max-w-4xl'>
+                <AnimatedSection className='mx-auto max-w-4xl'>
                     <h2 className='mb-6 text-xl font-semibold'>Content Statistics</h2>
                     <div className='grid gap-4 sm:grid-cols-3'>
                         <div className='bg-primary/5 rounded-xl p-6 text-center'>
-                            <div className='text-secondary text-3xl font-bold'>
-                                {stats.totalWords.toLocaleString()}
-                            </div>
+                            <AnimatedCounter
+                                value={stats.totalWords}
+                                delay={0.2}
+                                className='text-secondary text-3xl font-bold'
+                            />
                             <div className='text-primary/60 text-sm'>Total Words</div>
                         </div>
                         <div className='bg-primary/5 rounded-xl p-6 text-center'>
-                            <div className='text-3xl font-bold text-blue-400'>
-                                {stats.avgWordsPerConcept}
-                            </div>
+                            <AnimatedCounter
+                                value={stats.avgWordsPerConcept}
+                                delay={0.3}
+                                className='text-3xl font-bold text-blue-400'
+                            />
                             <div className='text-primary/60 text-sm'>Avg Words per Concept</div>
                         </div>
                         <div className='bg-primary/5 rounded-xl p-6 text-center'>
-                            <div className='text-3xl font-bold text-green-400'>
-                                {stats.avgTagsPerConcept.toFixed(1)}
-                            </div>
+                            <AnimatedCounter
+                                value={stats.avgTagsPerConcept}
+                                delay={0.4}
+                                className='text-3xl font-bold text-green-400'
+                                formatValue={(v) => v.toFixed(1)}
+                            />
                             <div className='text-primary/60 text-sm'>Avg Tags per Concept</div>
                         </div>
                     </div>
@@ -544,9 +569,9 @@ const StatisticsPage: React.FC = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </AnimatedSection>
             </Section>
-        </>
+        </AnimatedPage>
     )
 }
 

@@ -2,6 +2,9 @@ import { useMemo, useState, useCallback, useEffect } from 'react'
 import { Link, useNavigate, useParams } from 'react-router'
 import { FaCompass, FaArrowLeft, FaEnvelope, FaTh, FaList } from 'react-icons/fa'
 import Section from '@/components/ui/section'
+import { AnimatedPage, AnimatedHero, motion } from '@/components/ui/animated'
+import AnimatedCounter from '@/components/ui/animated-counter'
+import { staggerItemVariants } from '@/lib/animations'
 import ConceptCard from '@/components/concepts/concept-card'
 import ConceptDetailModal from '@/components/concepts/concept-detail-modal'
 import { conceptsData } from '@/data'
@@ -73,7 +76,7 @@ const UnexploredPage: React.FC = () => {
     // All concepts explored - show congratulations
     if (unexploredCount === 0) {
         return (
-            <>
+            <AnimatedPage>
                 <Section className='pt-16 pb-8 sm:pt-24 sm:pb-12'>
                     <div className='mx-auto max-w-4xl'>
                         <Link
@@ -87,8 +90,15 @@ const UnexploredPage: React.FC = () => {
                 </Section>
 
                 <Section className='py-16'>
-                    <div className='mx-auto max-w-2xl text-center'>
-                        <div className='mb-8 text-8xl'>🎉</div>
+                    <AnimatedHero className='mx-auto max-w-2xl text-center'>
+                        <motion.div
+                            initial={{ scale: 0 }}
+                            animate={{ scale: 1 }}
+                            transition={{ type: 'spring', duration: 0.6 }}
+                            className='mb-8 text-8xl'
+                        >
+                            🎉
+                        </motion.div>
                         <h1 className='mb-6 text-4xl font-bold tracking-tight sm:text-5xl'>
                             Congratulations!
                         </h1>
@@ -100,9 +110,11 @@ const UnexploredPage: React.FC = () => {
                         <div className='bg-primary/5 mb-10 rounded-xl p-6'>
                             <div className='mb-4 flex items-center justify-center gap-2'>
                                 <div className='h-4 max-w-xs flex-1 overflow-hidden rounded-full bg-green-500/20'>
-                                    <div
-                                        className='h-full rounded-full bg-green-500 transition-all duration-500'
-                                        style={{ width: '100%' }}
+                                    <motion.div
+                                        initial={{ width: 0 }}
+                                        animate={{ width: '100%' }}
+                                        transition={{ duration: 1, delay: 0.5, ease: 'easeOut' }}
+                                        className='h-full rounded-full bg-green-500'
                                     />
                                 </div>
                                 <span className='font-medium text-green-400'>100%</span>
@@ -112,7 +124,12 @@ const UnexploredPage: React.FC = () => {
                             </p>
                         </div>
 
-                        <div className='border-primary/10 border-t pt-10'>
+                        <motion.div
+                            initial={{ opacity: 0, y: 20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ delay: 0.8 }}
+                            className='border-primary/10 border-t pt-10'
+                        >
                             <h2 className='mb-4 text-xl font-semibold'>Want more?</h2>
                             <p className='text-primary/70 mb-6'>
                                 Subscribe to my newsletter for more insights on knowledge
@@ -127,17 +144,17 @@ const UnexploredPage: React.FC = () => {
                                 <FaEnvelope className='h-4 w-4' />
                                 Subscribe to Newsletter
                             </a>
-                        </div>
-                    </div>
+                        </motion.div>
+                    </AnimatedHero>
                 </Section>
-            </>
+            </AnimatedPage>
         )
     }
 
     return (
-        <>
+        <AnimatedPage>
             {/* Header */}
-            <div className='mx-auto max-w-4xl px-6 pt-8 pb-4 sm:px-10 sm:pt-12 md:px-16 lg:px-20 xl:px-32'>
+            <AnimatedHero className='mx-auto max-w-4xl px-6 pt-8 pb-4 sm:px-10 sm:pt-12 md:px-16 lg:px-20 xl:px-32'>
                 <Link
                     to='/'
                     className='text-primary/70 hover:text-secondary mb-4 inline-flex items-center gap-2 text-sm transition-colors'
@@ -158,33 +175,47 @@ const UnexploredPage: React.FC = () => {
                         </p>
                     </div>
                 </div>
-            </div>
+            </AnimatedHero>
 
             {/* Progress */}
-            <div className='mx-auto max-w-4xl px-6 py-4 sm:px-10 md:px-16 lg:px-20 xl:px-32'>
+            <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.2 }}
+                className='mx-auto max-w-4xl px-6 py-4 sm:px-10 md:px-16 lg:px-20 xl:px-32'
+            >
                 <div className='bg-primary/5 rounded-xl p-4'>
                     <div className='mb-2 flex items-center justify-between text-sm'>
                         <span className='text-primary/70'>Your exploration progress</span>
                         <span className='font-medium'>
-                            {exploredCount} / {totalConcepts} explored
+                            <AnimatedCounter value={exploredCount} delay={0.2} duration={1} /> /{' '}
+                            <AnimatedCounter value={totalConcepts} delay={0.2} duration={1} />{' '}
+                            explored
                         </span>
                     </div>
                     <div className='mb-2 flex items-center gap-3'>
                         <div className='h-3 flex-1 overflow-hidden rounded-full bg-green-500/20'>
-                            <div
-                                className='h-full rounded-full bg-green-500 transition-all duration-500'
-                                style={{ width: `${progressPercentage}%` }}
+                            <motion.div
+                                initial={{ width: 0 }}
+                                animate={{ width: `${progressPercentage}%` }}
+                                transition={{ duration: 0.8, delay: 0.4, ease: 'easeOut' }}
+                                className='h-full rounded-full bg-green-500'
                             />
                         </div>
                         <span className='w-12 text-right font-medium text-green-400'>
-                            {progressPercentage}%
+                            <AnimatedCounter
+                                value={progressPercentage}
+                                delay={0.4}
+                                duration={1}
+                                formatValue={(v) => `${Math.round(v)}%`}
+                            />
                         </span>
                     </div>
                     <p className='text-primary/50 text-xs'>
                         Concepts are marked as explored when you view their details
                     </p>
                 </div>
-            </div>
+            </motion.div>
 
             {/* View Mode Toggle */}
             <div className='mx-auto flex max-w-4xl items-center justify-between gap-4 px-6 pb-4 sm:px-10 md:px-16 lg:px-20 xl:px-32'>
@@ -220,7 +251,20 @@ const UnexploredPage: React.FC = () => {
 
             {/* Concepts Grid/List */}
             <Section className='!py-4 pb-16'>
-                <div className='mx-auto max-w-7xl'>
+                <motion.div
+                    initial='initial'
+                    animate='animate'
+                    variants={{
+                        initial: {},
+                        animate: {
+                            transition: {
+                                staggerChildren: 0.03,
+                                delayChildren: 0.3
+                            }
+                        }
+                    }}
+                    className='mx-auto max-w-7xl'
+                >
                     <div
                         className={
                             viewMode === 'grid'
@@ -229,17 +273,18 @@ const UnexploredPage: React.FC = () => {
                         }
                     >
                         {unexploredConcepts.map((concept) => (
-                            <ConceptCard
-                                key={concept.id}
-                                concept={concept}
-                                onShowDetails={handleShowDetails}
-                                onTagClick={handleTagClick}
-                                viewMode={viewMode}
-                                isExplored={false}
-                            />
+                            <motion.div key={concept.id} variants={staggerItemVariants}>
+                                <ConceptCard
+                                    concept={concept}
+                                    onShowDetails={handleShowDetails}
+                                    onTagClick={handleTagClick}
+                                    viewMode={viewMode}
+                                    isExplored={false}
+                                />
+                            </motion.div>
                         ))}
                     </div>
-                </div>
+                </motion.div>
             </Section>
 
             {/* Detail Modal */}
@@ -252,7 +297,7 @@ const UnexploredPage: React.FC = () => {
                 onTagClick={handleTagClick}
                 isExplored={isExplored}
             />
-        </>
+        </AnimatedPage>
     )
 }
 

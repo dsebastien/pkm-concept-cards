@@ -3,6 +3,15 @@ import { useParams, useNavigate, useSearchParams, Link } from 'react-router'
 import { FaGithub, FaLinkedin, FaRocket, FaYoutube, FaEnvelope } from 'react-icons/fa'
 import { FaXTwitter } from 'react-icons/fa6'
 import Section from '@/components/ui/section'
+import {
+    AnimatedPage,
+    AnimatedHero,
+    AnimatedStat,
+    AnimatedSection,
+    motion
+} from '@/components/ui/animated'
+import AnimatedCounter from '@/components/ui/animated-counter'
+import { staggerItemVariants } from '@/lib/animations'
 import ConceptCard from '@/components/concepts/concept-card'
 import ConceptsFilter from '@/components/concepts/concepts-filter'
 import ConceptDetailModal from '@/components/concepts/concept-detail-modal'
@@ -262,10 +271,10 @@ const HomePage: React.FC = () => {
     }, [decodedTagName])
 
     return (
-        <>
+        <AnimatedPage>
             {/* Hero Section */}
             <Section className='pt-16 pb-12 sm:pt-24 sm:pb-16 md:pt-32 md:pb-20'>
-                <div className='mx-auto max-w-4xl text-center'>
+                <AnimatedHero className='mx-auto max-w-4xl text-center'>
                     {decodedTagName ? (
                         <>
                             <h1 className='mb-6 text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl'>
@@ -289,40 +298,61 @@ const HomePage: React.FC = () => {
                     {/* Stats - only show on main page */}
                     {!decodedTagName && (
                         <div className='mb-10 flex flex-wrap justify-center gap-6 sm:gap-10'>
-                            <div className='text-center'>
-                                <div className='text-secondary text-3xl font-bold sm:text-4xl'>
-                                    {totalConcepts}
+                            <AnimatedStat delay={0.1}>
+                                <div className='text-center'>
+                                    <AnimatedCounter
+                                        value={totalConcepts}
+                                        delay={0.3}
+                                        className='text-secondary text-3xl font-bold sm:text-4xl'
+                                    />
+                                    <div className='text-primary/60 text-sm'>Total Concepts</div>
                                 </div>
-                                <div className='text-primary/60 text-sm'>Total Concepts</div>
-                            </div>
-                            <Link
-                                to='/unexplored'
-                                className='group text-center transition-transform hover:scale-105'
-                            >
-                                <div className='text-3xl font-bold text-emerald-400 group-hover:text-emerald-300 sm:text-4xl'>
-                                    {totalConcepts - exploredCount}
+                            </AnimatedStat>
+                            <AnimatedStat delay={0.2}>
+                                <Link
+                                    to='/unexplored'
+                                    className='group block text-center transition-transform hover:scale-105'
+                                >
+                                    <AnimatedCounter
+                                        value={totalConcepts - exploredCount}
+                                        delay={0.4}
+                                        className='text-3xl font-bold text-emerald-400 group-hover:text-emerald-300 sm:text-4xl'
+                                    />
+                                    <div className='text-primary/60 group-hover:text-primary/80 text-sm'>
+                                        Unexplored
+                                    </div>
+                                </Link>
+                            </AnimatedStat>
+                            <AnimatedStat delay={0.3}>
+                                <div className='text-center'>
+                                    <AnimatedCounter
+                                        value={featuredConcepts}
+                                        delay={0.5}
+                                        className='text-3xl font-bold text-amber-400 sm:text-4xl'
+                                    />
+                                    <div className='text-primary/60 text-sm'>Featured</div>
                                 </div>
-                                <div className='text-primary/60 group-hover:text-primary/80 text-sm'>
-                                    Unexplored
+                            </AnimatedStat>
+                            <AnimatedStat delay={0.4}>
+                                <div className='text-center'>
+                                    <AnimatedCounter
+                                        value={categoriesCount}
+                                        delay={0.6}
+                                        className='text-3xl font-bold text-blue-400 sm:text-4xl'
+                                    />
+                                    <div className='text-primary/60 text-sm'>Categories</div>
                                 </div>
-                            </Link>
-                            <div className='text-center'>
-                                <div className='text-3xl font-bold text-amber-400 sm:text-4xl'>
-                                    {featuredConcepts}
-                                </div>
-                                <div className='text-primary/60 text-sm'>Featured</div>
-                            </div>
-                            <div className='text-center'>
-                                <div className='text-3xl font-bold text-blue-400 sm:text-4xl'>
-                                    {categoriesCount}
-                                </div>
-                                <div className='text-primary/60 text-sm'>Categories</div>
-                            </div>
+                            </AnimatedStat>
                         </div>
                     )}
 
                     {/* Quick tip */}
-                    <div className='bg-secondary/10 border-secondary/20 inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm'>
+                    <motion.div
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: 0.5, duration: 0.4 }}
+                        className='bg-secondary/10 border-secondary/20 inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm'
+                    >
                         <FaRocket className='text-secondary h-4 w-4' />
                         <span className='text-primary/70'>
                             Press{' '}
@@ -331,8 +361,8 @@ const HomePage: React.FC = () => {
                             </kbd>{' '}
                             to quickly search and navigate
                         </span>
-                    </div>
-                </div>
+                    </motion.div>
+                </AnimatedHero>
             </Section>
 
             {/* Concepts Section */}
@@ -366,7 +396,17 @@ const HomePage: React.FC = () => {
 
                 {/* Concepts Grid/List */}
                 {sortedConcepts.length > 0 ? (
-                    <div
+                    <motion.div
+                        initial='initial'
+                        animate='animate'
+                        variants={{
+                            initial: {},
+                            animate: {
+                                transition: {
+                                    staggerChildren: 0.03
+                                }
+                            }
+                        }}
                         className={
                             viewMode === 'grid'
                                 ? 'grid gap-6 sm:grid-cols-2 lg:grid-cols-3'
@@ -374,30 +414,35 @@ const HomePage: React.FC = () => {
                         }
                     >
                         {sortedConcepts.map((concept) => (
-                            <ConceptCard
-                                key={concept.id}
-                                concept={concept}
-                                onShowDetails={handleShowDetails}
-                                onTagClick={handleTagClick}
-                                viewMode={viewMode}
-                                isExplored={isExplored(concept.id)}
-                            />
+                            <motion.div key={concept.id} variants={staggerItemVariants}>
+                                <ConceptCard
+                                    concept={concept}
+                                    onShowDetails={handleShowDetails}
+                                    onTagClick={handleTagClick}
+                                    viewMode={viewMode}
+                                    isExplored={isExplored(concept.id)}
+                                />
+                            </motion.div>
                         ))}
-                    </div>
+                    </motion.div>
                 ) : (
-                    <div className='py-16 text-center'>
+                    <motion.div
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        className='py-16 text-center'
+                    >
                         <div className='mb-4 text-5xl'>🔍</div>
                         <h3 className='mb-2 text-xl font-semibold'>No concepts found</h3>
                         <p className='text-primary/60'>
                             Try adjusting your search or filters to find what you're looking for.
                         </p>
-                    </div>
+                    </motion.div>
                 )}
             </Section>
 
             {/* About Section */}
             <Section className='border-primary/10 border-t py-16 sm:py-20'>
-                <div className='mx-auto max-w-3xl text-center'>
+                <AnimatedSection className='mx-auto max-w-3xl text-center'>
                     <h2 className='mb-6 text-2xl font-bold sm:text-3xl'>About the Creator</h2>
                     <div className='mb-6 flex justify-center'>
                         <img
@@ -475,7 +520,7 @@ const HomePage: React.FC = () => {
                             LinkedIn
                         </a>
                     </div>
-                </div>
+                </AnimatedSection>
             </Section>
 
             {/* Detail Modal */}
@@ -500,7 +545,7 @@ const HomePage: React.FC = () => {
                 categories={conceptsData.categories}
                 isExplored={isExplored}
             />
-        </>
+        </AnimatedPage>
     )
 }
 
