@@ -19,6 +19,7 @@ ReactDOM.createRoot(rootElement).render(
                 <Route element={<AppLayout />}>
                     <Route path='/' element={<HomePage />} />
                     <Route path='/concept/:conceptId' element={<HomePage />} />
+                    <Route path='/tag/:tagName' element={<HomePage />} />
                 </Route>
             </Routes>
         </HashRouter>

@@ -11,7 +11,7 @@ import { conceptsData } from '@/data'
 import type { Concept } from '@/types/concept'
 
 const HomePage: React.FC = () => {
-    const { conceptId } = useParams<{ conceptId?: string }>()
+    const { conceptId, tagName } = useParams<{ conceptId?: string; tagName?: string }>()
     const navigate = useNavigate()
     const [searchParams, setSearchParams] = useSearchParams()
 
@@ -19,9 +19,14 @@ const HomePage: React.FC = () => {
     const searchQueryFromUrl = searchParams.get('q') || ''
     const selectedCategory = searchParams.get('category') || 'All'
     const selectedTags = useMemo(() => {
+        // If we're on a /tag/:tagName route, use that tag
+        if (tagName) {
+            return [decodeURIComponent(tagName)]
+        }
+        // Otherwise, use tags from query params
         const tags = searchParams.get('tags')
         return tags ? tags.split(',').filter(Boolean) : []
-    }, [searchParams])
+    }, [tagName, searchParams])
     const viewMode = (searchParams.get('view') as 'grid' | 'list') || 'grid'
 
     // Local state for search input (for smooth typing)
@@ -86,8 +91,22 @@ const HomePage: React.FC = () => {
         [updateSearchParam]
     )
     const setSelectedTags = useCallback(
-        (tags: string[]) => updateSearchParam('tags', tags.length > 0 ? tags.join(',') : null),
-        [updateSearchParam]
+        (tags: string[]) => {
+            // If we're on a /tag/:tagName route, navigate to home with new tags
+            if (tagName) {
+                const params = new URLSearchParams(searchParams)
+                if (tags.length > 0) {
+                    params.set('tags', tags.join(','))
+                } else {
+                    params.delete('tags')
+                }
+                const queryString = params.toString()
+                navigate(`/${queryString ? `?${queryString}` : ''}`)
+            } else {
+                updateSearchParam('tags', tags.length > 0 ? tags.join(',') : null)
+            }
+        },
+        [tagName, searchParams, navigate, updateSearchParam]
     )
     const setViewMode = useCallback(
         (mode: 'grid' | 'list') => updateSearchParam('view', mode),
@@ -195,11 +214,10 @@ const HomePage: React.FC = () => {
 
     const handleTagClick = useCallback(
         (tag: string) => {
-            // Set the clicked tag as the only selected tag and navigate to home
-            setSelectedTags([tag])
-            navigate(`/?tags=${encodeURIComponent(tag)}`)
+            // Navigate to the tag page
+            navigate(`/tag/${encodeURIComponent(tag)}`)
         },
-        [navigate, setSelectedTags]
+        [navigate]
     )
 
     // Stats

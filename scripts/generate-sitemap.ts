@@ -49,6 +49,9 @@ const concepts: Concept[] = conceptFiles.map((file) => {
     return JSON.parse(readFileSync(filePath, 'utf-8'))
 })
 
+// Extract all unique tags from concepts
+const allTags = Array.from(new Set(concepts.flatMap((concept) => concept.tags))).sort()
+
 // Get current date in YYYY-MM-DD format
 const today = new Date().toISOString().split('T')[0]
 
@@ -71,6 +74,16 @@ function generateSitemap(): string {
             lastmod: today,
             changefreq: 'monthly',
             priority: '0.8'
+        })
+    }
+
+    // Add each tag page
+    for (const tag of allTags) {
+        urls.push({
+            loc: `${BASE_URL}/#/tag/${encodeURIComponent(tag)}`,
+            lastmod: today,
+            changefreq: 'weekly',
+            priority: '0.6'
         })
     }
 
@@ -109,7 +122,8 @@ function writeSitemap(): void {
     console.log(`✓ Sitemap generated: ${sitemapPath}`)
     console.log(`  - Homepage: 1 URL`)
     console.log(`  - Concepts: ${concepts.length} URLs`)
-    console.log(`  - Total: ${concepts.length + 1} URLs`)
+    console.log(`  - Tags: ${allTags.length} URLs`)
+    console.log(`  - Total: ${concepts.length + allTags.length + 1} URLs`)
 }
 
 writeSitemap()
