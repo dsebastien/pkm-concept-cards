@@ -83,6 +83,14 @@ function generateSitemap(): string {
         priority: '0.5'
     })
 
+    // Add unexplored page
+    urls.push({
+        loc: `${BASE_URL}/unexplored`,
+        lastmod: today,
+        changefreq: 'weekly',
+        priority: '0.6'
+    })
+
     // Add each concept page
     for (const concept of concepts) {
         urls.push({
@@ -139,9 +147,10 @@ function writeSitemap(): void {
     console.log(`  - Homepage: 1 URL`)
     console.log(`  - Statistics: 1 URL`)
     console.log(`  - Random: 1 URL`)
+    console.log(`  - Unexplored: 1 URL`)
     console.log(`  - Concepts: ${concepts.length} URLs`)
     console.log(`  - Tags: ${allTags.length} URLs`)
-    console.log(`  - Total: ${concepts.length + allTags.length + 3} URLs`)
+    console.log(`  - Total: ${concepts.length + allTags.length + 4} URLs`)
 }
 
 writeSitemap()

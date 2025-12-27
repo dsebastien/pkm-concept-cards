@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo, useCallback, useRef } from 'react'
-import { useParams, useNavigate, useSearchParams } from 'react-router'
+import { useParams, useNavigate, useSearchParams, Link } from 'react-router'
 import { FaGithub, FaLinkedin, FaRocket, FaYoutube, FaEnvelope } from 'react-icons/fa'
 import { FaXTwitter } from 'react-icons/fa6'
 import Section from '@/components/ui/section'
@@ -295,12 +295,17 @@ const HomePage: React.FC = () => {
                                 </div>
                                 <div className='text-primary/60 text-sm'>Total Concepts</div>
                             </div>
-                            <div className='text-center'>
-                                <div className='text-3xl font-bold text-emerald-400 sm:text-4xl'>
+                            <Link
+                                to='/unexplored'
+                                className='group text-center transition-transform hover:scale-105'
+                            >
+                                <div className='text-3xl font-bold text-emerald-400 group-hover:text-emerald-300 sm:text-4xl'>
                                     {totalConcepts - exploredCount}
                                 </div>
-                                <div className='text-primary/60 text-sm'>Unexplored</div>
-                            </div>
+                                <div className='text-primary/60 group-hover:text-primary/80 text-sm'>
+                                    Unexplored
+                                </div>
+                            </Link>
                             <div className='text-center'>
                                 <div className='text-3xl font-bold text-amber-400 sm:text-4xl'>
                                     {featuredConcepts}

@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import { FaBrain, FaDice } from 'react-icons/fa'
+import { FaBrain, FaDice, FaCompass } from 'react-icons/fa'
 
 const Header: React.FC = () => {
     return (
@@ -34,6 +34,16 @@ const Header: React.FC = () => {
                         >
                             <FaDice className='h-5 w-5' />
                             <span className='hidden sm:inline'>Random</span>
+                        </Link>
+
+                        {/* Unexplored Button */}
+                        <Link
+                            to='/unexplored'
+                            className='flex items-center gap-2 rounded-lg bg-emerald-500/10 px-3 py-2 text-emerald-400 transition-colors hover:bg-emerald-500/20 sm:px-4'
+                            title='Unexplored Concepts'
+                        >
+                            <FaCompass className='h-5 w-5' />
+                            <span className='hidden sm:inline'>Unexplored</span>
                         </Link>
 
                         {/* Website Link */}
