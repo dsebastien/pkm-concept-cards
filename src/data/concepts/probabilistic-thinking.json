@@ -1,0 +1,38 @@
+{
+    "id": "probabilistic-thinking",
+    "name": "Probabilistic Thinking",
+    "summary": "Thinking in terms of likelihoods rather than certainties to make better decisions.",
+    "explanation": "Probabilistic thinking is the practice of estimating the likelihood of different outcomes rather than assuming certainty about what will happen. Instead of thinking 'this will work' or 'this will fail,' you think 'there's a 70% chance this succeeds and a 30% chance it doesn't.' This shift from binary to probabilistic reasoning helps you make better decisions under uncertainty, which is the natural state of most real-world situations.\n\nThe human brain naturally gravitates toward certainty and narrative. We prefer stories with clear causes and effects, and we tend to overestimate our ability to predict outcomes. Probabilistic thinking fights against these biases by forcing us to acknowledge uncertainty explicitly. When you estimate probabilities, you are forced to consider alternative scenarios, weigh evidence more carefully, and remain open to being wrong. This leads to more calibrated confidence and better risk management.\n\nPracticing probabilistic thinking involves several key habits: making explicit predictions with attached probabilities, tracking your predictions to improve calibration over time, considering base rates before adjusting for specific circumstances, and updating your estimates as new information arrives. Tools like Bayesian reasoning provide a formal framework for updating beliefs, but even informal probability estimates are far better than pretending you know what will happen.\n\nThe benefits compound over time. People who think probabilistically make better bets, avoid overconfidence, and are more likely to change their minds when evidence warrants it. They understand that being wrong sometimes is not a failure of thinking - it's inevitable when dealing with genuine uncertainty. What matters is having well-calibrated probability estimates and making decisions that are rational given those probabilities, not whether any single prediction comes true.",
+    "tags": ["mental-model", "thinking", "decision-making", "probability", "rationality"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Thinking in probabilities", "Bayesian thinking", "Expected value thinking"],
+    "relatedConcepts": [
+        "black-swan",
+        "second-order-effects",
+        "margin-of-safety",
+        "regression-to-the-mean",
+        "circle-of-competence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Superforecasting by Philip Tetlock",
+            "url": "https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718",
+            "type": "book"
+        },
+        {
+            "title": "The Signal and the Noise by Nate Silver",
+            "url": "https://www.amazon.com/Signal-Noise-Many-Predictions-Fail/dp/0143125087",
+            "type": "book"
+        },
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

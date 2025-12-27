@@ -1,0 +1,37 @@
+{
+    "id": "network-effects",
+    "name": "Network Effects",
+    "summary": "A product or service becomes more valuable as more people use it.",
+    "explanation": "Network effects occur when a product or service gains additional value with each new user, creating a positive feedback loop that can lead to exponential growth and market dominance. The classic example is the telephone: a single phone is useless, but each additional phone user makes the entire network more valuable to everyone. This dynamic powers many of today's most valuable companies, from social networks like Facebook and LinkedIn to platforms like Uber, Airbnb, and payment systems.\n\nThere are several types of network effects. Direct network effects occur when users directly benefit from more users of the same product (social networks, communication tools). Indirect or cross-side network effects happen in platforms where more users on one side attract more on the other (more Uber drivers attract riders, which attracts more drivers). Data network effects emerge when products improve as they collect more user data (Google Search, recommendation algorithms). Each type creates different competitive dynamics and growth patterns.\n\nNetwork effects create powerful moats for businesses, but they work in both directions. Just as they can fuel rapid growth and lock-in, they can also accelerate decline if users start leaving. This explains why social networks can collapse rapidly once they lose momentum. Understanding network effects is crucial for entrepreneurs building platforms, investors evaluating tech companies, and anyone trying to understand why certain products dominate their markets while others fail despite similar features.\n\nThe concept also has implications for society and regulation. Strong network effects tend toward monopoly or oligopoly outcomes, raising questions about competition policy and platform power. They can create winner-take-all dynamics that reward being first or best-funded rather than having the best product, and they can make it difficult for users to switch even when superior alternatives exist.",
+    "tags": ["mental-model", "thinking", "decision-making"],
+    "category": "Frameworks",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Network effect", "Metcalfe's Law", "Platform effects"],
+    "relatedConcepts": [
+        "compound-effect",
+        "audience-acquisition-flywheel",
+        "unfair-advantage",
+        "matthew-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Network Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Network_effect",
+            "type": "website"
+        },
+        {
+            "title": "Platform Revolution by Geoffrey Parker, Marshall Van Alstyne, and Sangeet Choudary",
+            "url": "https://www.wwnorton.com/books/Platform-Revolution/",
+            "type": "book"
+        },
+        {
+            "title": "The Network Effects Bible - NFX",
+            "url": "https://www.nfx.com/post/network-effects-bible",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

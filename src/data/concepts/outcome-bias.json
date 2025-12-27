@@ -1,0 +1,32 @@
+{
+    "id": "outcome-bias",
+    "name": "Outcome Bias",
+    "summary": "Judging decisions by their outcomes rather than the quality of the decision-making process.",
+    "explanation": "Outcome Bias is a cognitive error where we evaluate the quality of a decision based on its outcome rather than the quality of the decision-making process at the time. A decision that led to a good outcome is judged as a good decision, while one that led to a bad outcome is judged as poor, regardless of whether the decision was sound given the information available at the time.\n\nThis bias fundamentally conflates luck with skill and results with reasoning. A poker player who makes a statistically correct call but loses the hand made a good decision, yet outcome bias leads observers to criticize the play. Conversely, someone who makes a reckless investment that happens to pay off may be praised for their 'insight' when they simply got lucky.\n\nIn organizational contexts, outcome bias can be particularly damaging. It discourages sound risk management and encourages result-oriented thinking that ignores process quality. Leaders may be promoted or fired based on outcomes largely outside their control. Combating outcome bias requires separating the evaluation of decisions from their outcomes, documenting reasoning at decision time, and analyzing large samples of decisions rather than individual cases.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Results Bias", "Outcome-Based Judgment"],
+    "relatedConcepts": ["hindsight-bias", "confirmation-bias", "decision-journal"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Outcome Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Outcome_bias",
+            "type": "website"
+        },
+        {
+            "title": "Thinking, Fast and Slow - Daniel Kahneman",
+            "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+            "type": "book"
+        },
+        {
+            "title": "Fooled by Randomness - Nassim Taleb",
+            "url": "https://www.goodreads.com/book/show/38315.Fooled_by_Randomness",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

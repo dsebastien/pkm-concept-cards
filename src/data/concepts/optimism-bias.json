@@ -1,0 +1,32 @@
+{
+    "id": "optimism-bias",
+    "name": "Optimism Bias",
+    "summary": "The tendency to overestimate the likelihood of positive outcomes and underestimate negative ones.",
+    "explanation": "Optimism Bias is a cognitive bias that causes people to believe they are less likely to experience negative events and more likely to experience positive events compared to others. This systematic tendency to be overly optimistic about future outcomes affects decisions ranging from personal health choices to major business investments. While some optimism can be motivating and beneficial for mental health, unchecked optimism bias can lead to inadequate preparation for risks and poor planning.\n\nThis bias manifests in many domains of life. People tend to underestimate how long projects will take (related to the Planning Fallacy), overestimate their chances of career success, and believe they are less likely than average to experience divorce, illness, or accidents. Smokers, for instance, often acknowledge the health risks of smoking in general while believing they personally face lower risks. This disconnect between abstract knowledge and personal application is a hallmark of optimism bias.\n\nResearch by Tali Sharot and others has shown that optimism bias is remarkably persistent and difficult to eliminate, even when people are made aware of it. The brain appears to be wired to preferentially update beliefs based on good news while discounting bad news. Understanding this bias is crucial for making more realistic assessments in personal planning, risk management, and decision-making. Techniques like pre-mortem analysis, reference class forecasting, and deliberately considering base rates can help counteract its effects.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Unrealistic Optimism", "Comparative Optimism"],
+    "relatedConcepts": ["negativity-bias", "confirmation-bias", "planning-fallacy"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Optimism Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Optimism_bias",
+            "type": "website"
+        },
+        {
+            "title": "The Optimism Bias - Tali Sharot",
+            "url": "https://www.goodreads.com/book/show/11468377-the-optimism-bias",
+            "type": "book"
+        },
+        {
+            "title": "Unrealistic Optimism About Future Life Events - Neil Weinstein",
+            "url": "https://doi.org/10.1037/0022-3514.39.5.806",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "tragedy-of-the-commons",
+    "name": "Tragedy of the Commons",
+    "summary": "Individual rational self-interest can lead to collective ruin of shared resources.",
+    "explanation": "The Tragedy of the Commons describes a situation where individuals, acting in their own rational self-interest, collectively deplete or destroy a shared resource that would benefit everyone if properly managed. The concept was popularized by ecologist Garrett Hardin in his 1968 essay, though the idea traces back to ancient observations about communal grazing lands.\n\nThe classic example involves a shared pasture where multiple herders graze their cattle. Each herder gains the full benefit from adding one more cow, while the cost of overgrazing is distributed among all users. Rationally, each herder keeps adding cattle until the pasture is destroyed. The same dynamic appears in overfishing oceans, polluting shared air and water, traffic congestion, and even bandwidth usage on shared networks.\n\nThis mental model is crucial for understanding many modern challenges, from climate change to antibiotics resistance. When resources are shared and unregulated, and when individuals bear only a fraction of the costs of their usage, overconsumption is virtually guaranteed. Understanding this helps identify when intervention through regulation, privatization, or community governance is necessary.\n\nSolutions to tragedies of the commons typically involve either privatizing the resource so owners bear full costs and benefits, or establishing collective governance with clear rules and enforcement. Elinor Ostrom's Nobel Prize-winning work showed that communities can sometimes manage shared resources effectively without privatization or top-down regulation, through evolved norms and local institutions. The key insight is recognizing when individual incentives diverge from collective welfare.",
+    "tags": ["mental-model", "thinking", "decision-making", "systems-thinking"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Commons dilemma", "Social dilemma", "Collective action problem"],
+    "relatedConcepts": ["incentives", "second-order-effects", "systems-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Tragedy of the commons - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tragedy_of_the_commons",
+            "type": "website"
+        },
+        {
+            "title": "The Tragedy of the Commons - Garrett Hardin (1968)",
+            "url": "https://science.sciencemag.org/content/162/3859/1243",
+            "type": "paper"
+        },
+        {
+            "title": "Governing the Commons - Elinor Ostrom",
+            "url": "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

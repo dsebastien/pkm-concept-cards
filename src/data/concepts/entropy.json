@@ -1,0 +1,39 @@
+{
+    "id": "entropy",
+    "name": "Entropy",
+    "summary": "Systems naturally tend toward disorder; maintaining order requires constant energy input.",
+    "explanation": "Entropy, borrowed from thermodynamics, describes the universal tendency of systems to move from ordered states to disordered ones. The Second Law of Thermodynamics states that in isolated systems, entropy always increases over time. While the physics involves energy distribution and microstates, the mental model translates simply: left alone, things fall apart. Buildings decay, organizations become bureaucratic, relationships deteriorate, and skills atrophy. Order is the exception that requires active maintenance, not the natural state of affairs.\n\nThis concept has profound implications for life and work. Every system - your body, your relationships, your business, your code - requires continuous energy input just to maintain its current state, let alone improve. Neglect is not neutral; it is active degradation. Understanding entropy explains why maintenance is perpetual rather than one-time, why communication in organizations must be constant, and why personal development requires ongoing effort. The model also explains why complex systems are harder to maintain than simple ones - they have more ways to go wrong.\n\nEntropy provides a useful frame for prioritization and resource allocation. Since maintaining order requires energy, we must choose where to direct our limited attention and effort. This means accepting some entropy in lower-priority areas while actively fighting it in critical ones. The model also suggests the value of designing systems that are robust to decay - simpler, more modular, with fewer dependencies. Recognizing entropy as the default state helps frame maintenance not as boring overhead but as essential work that preserves value against the universe's relentless pull toward disorder.",
+    "tags": [
+        "mental-model",
+        "thinking",
+        "systems-thinking",
+        "physics",
+        "maintenance",
+        "complexity"
+    ],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Second Law of Thermodynamics", "Disorder", "Decay", "Natural degradation"],
+    "relatedConcepts": ["lindy-effect", "compound-effect", "bit-rot", "second-order-effects"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "A Brief History of Time by Stephen Hawking",
+            "url": "https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168",
+            "type": "book"
+        },
+        {
+            "title": "The Order of Time by Carlo Rovelli",
+            "url": "https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/0735216118",
+            "type": "book"
+        },
+        {
+            "title": "Entropy: Why Life Always Seems to Get More Complicated by Shane Parrish",
+            "url": "https://fs.blog/entropy/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

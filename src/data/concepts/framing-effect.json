@@ -1,0 +1,32 @@
+{
+    "id": "framing-effect",
+    "name": "Framing Effect",
+    "summary": "How the presentation of information affects decision-making.",
+    "explanation": "The Framing Effect is a cognitive bias where people react differently to a choice depending on how it is presented, even when the underlying information is identical. The same facts can lead to opposite decisions when framed as gains versus losses, or when presented with different emphasis. For example, people respond more favorably to '90% survival rate' than '10% mortality rate,' despite both statements conveying the same statistical reality. This demonstrates that human decision-making is highly sensitive to context and presentation.\n\nThis bias was extensively documented by psychologists Daniel Kahneman and Amos Tversky through their work on Prospect Theory, which earned Kahneman the Nobel Prize in Economics. Their research showed that people are generally loss-averse—losses loom larger than equivalent gains—and this asymmetry is exploited through strategic framing. Marketers, politicians, and negotiators routinely use framing to influence decisions: a '95% fat-free' label sounds healthier than '5% fat,' even though they mean the same thing.\n\nUnderstanding the framing effect has profound implications for communication, persuasion, and personal decision-making. In healthcare, how doctors frame treatment options significantly affects patient choices. In business, how proposals are presented can determine their acceptance. For personal decision-making, awareness of this bias encourages us to reframe problems from multiple angles before deciding, explicitly consider both gain and loss perspectives, and focus on the underlying data rather than its presentation. This mental discipline helps us make more consistent and rational choices.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Framing Bias", "Cognitive Framing"],
+    "relatedConcepts": ["anchoring-bias", "confirmation-bias", "decoy-effect", "loss-aversion"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Framing Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Framing_effect_(psychology)",
+            "type": "website"
+        },
+        {
+            "title": "Prospect Theory: An Analysis of Decision under Risk - Kahneman & Tversky",
+            "url": "https://www.jstor.org/stable/1914185",
+            "type": "paper"
+        },
+        {
+            "title": "The Framing of Decisions and the Psychology of Choice - Tversky & Kahneman",
+            "url": "https://science.sciencemag.org/content/211/4481/453",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "omission-bias",
+    "name": "Omission Bias",
+    "summary": "Judging harmful actions as worse than equally harmful inactions.",
+    "explanation": "Omission Bias is the tendency to judge harmful actions as morally worse or more blameworthy than equally harmful omissions (failures to act). Even when the outcomes are identical, we perceive doing something that causes harm as more problematic than not doing something that would prevent the same harm. This asymmetry in moral judgment influences decisions in medicine, policy, law, and everyday ethics. A classic example: many people judge a vaccine that causes rare deaths as worse than a disease causing more deaths, because vaccine harm involves an action while disease deaths involve inaction.\n\nThis bias has significant real-world consequences. It explains resistance to potentially life-saving interventions when they carry any risk of harm. In trolley problem scenarios, most people refuse to actively divert harm even when doing so would save more lives. The bias affects medical decisions, where physicians may avoid treatments with known side effects even when withholding treatment causes statistically worse outcomes.\n\nThe psychological roots of omission bias include a stronger sense of agency and responsibility for actions versus inactions, the difficulty of imagining counterfactual outcomes of things we did not do, and social norms that more heavily punish harmful actions. Overcoming this bias requires explicitly considering both the consequences of acting and not acting, recognizing that inaction is itself a choice with consequences, and evaluating options based on expected outcomes rather than the action/inaction distinction.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "ethics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Commission-Omission Bias", "Inaction Bias"],
+    "relatedConcepts": ["status-quo-bias", "confirmation-bias", "hindsight-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Omission Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Omission_bias",
+            "type": "website"
+        },
+        {
+            "title": "Omission and Commission in Judgment and Choice - Spranca, Minsk & Baron",
+            "url": "https://doi.org/10.1016/0022-1031(91)90011-T",
+            "type": "paper"
+        },
+        {
+            "title": "Thinking and Deciding - Jonathan Baron",
+            "url": "https://www.goodreads.com/book/show/1068350.Thinking_and_Deciding",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

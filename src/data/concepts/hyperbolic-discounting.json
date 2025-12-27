@@ -1,0 +1,32 @@
+{
+    "id": "hyperbolic-discounting",
+    "name": "Hyperbolic Discounting",
+    "summary": "Preferring smaller immediate rewards over larger future rewards.",
+    "explanation": "Hyperbolic Discounting is a cognitive bias where people show a preference for rewards that arrive sooner rather than later, even when waiting would result in a significantly larger payoff. Unlike exponential discounting (which economics traditionally assumes), hyperbolic discounting means our discount rate is not constant over time: we heavily discount the near future but barely distinguish between different points in the distant future. This explains why someone might prefer $100 today over $110 tomorrow, but would readily wait an extra day if both options were a year away.\n\nThis bias, also known as present bias, underlies many self-control challenges. Procrastination occurs because immediate comfort outweighs future productivity gains. Unhealthy eating happens because present pleasure dominates future health. Saving for retirement is difficult because current spending feels more valuable than a distant, abstract nest egg. The bias creates inconsistent preferences over time: we make plans our future selves fail to execute because, when the moment arrives, immediate gratification reasserts its pull.\n\nUnderstanding hyperbolic discounting enables designing systems that work with rather than against this tendency. Commitment devices (like automatic savings deductions or website blockers) remove future temptations. Breaking large goals into smaller milestones provides more immediate rewards. Pre-committing to decisions before temptation arises leverages our more rational long-term thinking. In knowledge work, recognizing this bias helps structure projects to maintain motivation.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "behavioral-economics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Present Bias", "Temporal Discounting", "Time Inconsistency"],
+    "relatedConcepts": ["delayed-gratification", "sunk-cost-fallacy", "compound-effect"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Hyperbolic Discounting - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hyperbolic_discounting",
+            "type": "website"
+        },
+        {
+            "title": "Nudge - Thaler & Sunstein",
+            "url": "https://www.goodreads.com/book/show/3450744-nudge",
+            "type": "book"
+        },
+        {
+            "title": "Golden Eggs and Hyperbolic Discounting - Laibson",
+            "url": "https://doi.org/10.2307/2951242",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

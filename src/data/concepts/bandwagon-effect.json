@@ -1,0 +1,32 @@
+{
+    "id": "bandwagon-effect",
+    "name": "Bandwagon Effect",
+    "summary": "The tendency to adopt behaviors or beliefs because many others do.",
+    "explanation": "The Bandwagon Effect is a cognitive bias that describes our tendency to do something primarily because other people are doing it, regardless of our own beliefs or the evidence at hand. This social conformity bias leads individuals to align their behaviors, beliefs, and attitudes with those of a larger group. The term originates from the phrase 'jump on the bandwagon,' referring to joining a parade wagon carrying a band, and captures how people often follow the crowd without independent evaluation.\n\nThis phenomenon is deeply rooted in our evolutionary psychology. Throughout human history, conforming to group behavior often meant survival—safety in numbers, shared resources, and social acceptance were crucial for our ancestors. Today, this instinct manifests in consumer behavior (buying popular products), political opinions (supporting leading candidates), investment decisions (following market trends), and social media dynamics (viral content spreading). The bandwagon effect is amplified in the digital age, where metrics like likes, shares, and followers create visible social proof that influences others.\n\nWhile the bandwagon effect can sometimes lead to positive outcomes through collective action, it poses significant risks to critical thinking and individual judgment. It can fuel speculative bubbles in financial markets, spread misinformation, and suppress minority viewpoints that might be correct. Recognizing this bias is essential for making independent decisions based on evidence rather than popularity. Strategies to counter it include seeking diverse perspectives, evaluating evidence before checking consensus, and cultivating comfort with holding contrarian positions when warranted.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "social-psychology"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Herd Mentality", "Social Proof Bias", "Groupthink"],
+    "relatedConcepts": ["confirmation-bias", "social-proof"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Bandwagon Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bandwagon_effect",
+            "type": "website"
+        },
+        {
+            "title": "Influence: The Psychology of Persuasion - Robert Cialdini",
+            "url": "https://www.goodreads.com/book/show/28815.Influence",
+            "type": "book"
+        },
+        {
+            "title": "Conformity and Independence - Solomon Asch",
+            "url": "https://psycnet.apa.org/record/1956-05459-001",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

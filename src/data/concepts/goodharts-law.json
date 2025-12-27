@@ -1,0 +1,32 @@
+{
+    "id": "goodharts-law",
+    "name": "Goodhart's Law",
+    "summary": "When a measure becomes a target, it ceases to be a good measure.",
+    "explanation": "Goodhart's Law describes a fundamental problem in measurement and management: once you start optimizing for a specific metric, that metric becomes corrupted and loses its value as an indicator of what you originally cared about. Named after British economist Charles Goodhart, who articulated this principle in 1975 in the context of monetary policy, it has since been recognized as a universal phenomenon affecting everything from education to business to software development.\n\nThe mechanism behind Goodhart's Law is straightforward but insidious. When a measurement is used for control or reward, people naturally optimize their behavior to improve that measurement, often at the expense of the underlying goal the measurement was meant to capture. In education, standardized test scores become targets rather than assessments, leading to 'teaching to the test' rather than genuine learning. In business, if developers are measured by lines of code written, they may produce verbose, inefficient code. If customer service is measured by call duration, agents may rush customers off the phone without solving their problems.\n\nThis principle has profound implications for goal-setting, performance management, and system design. The solution isn't to abandon measurement but to use multiple metrics, regularly rotate or update measures, focus on outcomes rather than outputs, and maintain qualitative assessments alongside quantitative ones. Understanding Goodhart's Law helps leaders and designers create systems that remain aligned with their true objectives rather than becoming games to be optimized.\n\nThe concept is closely related to the cobra effect and Campbell's Law, all of which describe how well-intentioned interventions can produce perverse outcomes. Recognizing these dynamics is essential for anyone working on incentive design, policy-making, or organizational management.",
+    "tags": ["mental-model", "thinking", "decision-making"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Goodhart Law", "Campbell's Law", "Metric corruption"],
+    "relatedConcepts": ["second-order-effects", "systems-thinking", "survivorship-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Goodhart's Law - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+            "type": "website"
+        },
+        {
+            "title": "Problems with Using Monetary Targets - Charles Goodhart (1975)",
+            "url": "https://www.bankofengland.co.uk/quarterly-bulletin/1975/q4/problems-of-monetary-management-the-uk-experience",
+            "type": "paper"
+        },
+        {
+            "title": "The Tyranny of Metrics by Jerry Z. Muller",
+            "url": "https://press.princeton.edu/books/hardcover/9780691174952/the-tyranny-of-metrics",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

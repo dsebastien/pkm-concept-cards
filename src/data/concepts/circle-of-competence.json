@@ -1,0 +1,37 @@
+{
+    "id": "circle-of-competence",
+    "name": "Circle of Competence",
+    "summary": "Know and stay within the boundaries of what you truly understand.",
+    "explanation": "The Circle of Competence is a mental model popularized by Warren Buffett and Charlie Munger that emphasizes the importance of knowing the boundaries of your knowledge and expertise. The core idea is simple: we all have areas where we have genuine understanding built through experience, study, and practice, and areas where we are essentially outsiders. Operating within your circle leads to better decisions because you can accurately assess risks, recognize patterns, and avoid costly mistakes.\n\nThe real value of this model is not in having a large circle, but in knowing exactly where the edges are. Many failures in business and investing come from people straying outside their circle without realizing it. Buffett famously avoided technology stocks for decades not because he thought they were bad investments, but because he knew he did not have the expertise to evaluate them properly. This discipline protected him from losses that caught many others.\n\nBuilding and expanding your circle of competence requires deliberate effort. You must honestly assess what you truly understand versus what you merely have opinions about. This means seeking feedback, stress-testing your knowledge, and being willing to say 'I don't know.' You can expand your circle through deep study and real-world experience, but this takes time. The temptation to fake expertise is strong, especially when opportunities seem attractive, but operating outside your circle dramatically increases your risk of failure.\n\nIn practice, applying this model means being selective about where you invest your time, money, and effort. It means partnering with others who have complementary circles of competence rather than pretending to know everything. It also means having the humility to pass on opportunities that fall outside your expertise, even when others around you are jumping in.",
+    "tags": ["mental-model", "thinking", "decision-making", "self-awareness", "investing"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Competence circle", "Know your limits", "Stay in your lane"],
+    "relatedConcepts": [
+        "second-order-effects",
+        "systems-thinking",
+        "margin-of-safety",
+        "probabilistic-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Poor Charlie's Almanack by Charlie Munger",
+            "url": "https://www.amazon.com/Poor-Charlies-Almanack-Essential-Charles/dp/1953953239",
+            "type": "book"
+        },
+        {
+            "title": "The Essays of Warren Buffett",
+            "url": "https://www.amazon.com/Essays-Warren-Buffett-Lessons-Corporate/dp/1531017509",
+            "type": "book"
+        },
+        {
+            "title": "Farnam Street: Circle of Competence",
+            "url": "https://fs.blog/circle-of-competence/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

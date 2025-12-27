@@ -1,0 +1,32 @@
+{
+    "id": "dunbars-number",
+    "name": "Dunbar's Number",
+    "summary": "The cognitive limit (~150) to the number of stable social relationships one can maintain.",
+    "explanation": "Dunbar's Number, proposed by British anthropologist Robin Dunbar in the 1990s, suggests that humans can only maintain stable social relationships with approximately 150 people. This limitation stems from the size of our neocortex and the cognitive demands of tracking social relationships, remembering personal histories, and maintaining emotional bonds. Beyond this number, relationships become more superficial or require formal structures like hierarchies and rules to function.\n\nDunbar's research identified a layered structure of social relationships. The innermost circle of about 5 people represents our closest confidants. The next layer of about 15 includes close friends and family. Expanding outward, we have roughly 50 good friends, then 150 meaningful contacts (the classic Dunbar's Number), and progressively larger circles of acquaintances up to about 1,500 faces we can recognize. Each layer requires progressively less emotional investment but more people can fit.\n\nThis principle has significant implications for organization design, community building, and social media. Many successful organizations structure teams and units around these natural social limits. Companies like Gore-Tex famously split facilities when they exceed 150 employees. Online communities often struggle when they grow past this threshold without implementing governance structures. Social media platforms give us the illusion of maintaining hundreds or thousands of relationships, but our cognitive limits mean these connections are typically shallow.\n\nUnderstanding Dunbar's Number helps explain why large organizations feel impersonal, why small communities can be so powerful, and why quality of relationships often matters more than quantity. It reminds us to invest our limited social bandwidth wisely and to design organizations and communities that work with, rather than against, our cognitive constraints.",
+    "tags": ["mental-model", "thinking", "decision-making"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Dunbar Number", "150 limit", "Social brain hypothesis"],
+    "relatedConcepts": ["social-capital", "friendship-paradox", "one-percent-rule"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Dunbar's Number - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dunbar%27s_number",
+            "type": "website"
+        },
+        {
+            "title": "How Many Friends Does One Person Need? by Robin Dunbar",
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674057166",
+            "type": "book"
+        },
+        {
+            "title": "Neocortex size as a constraint on group size in primates - Robin Dunbar (1992)",
+            "url": "https://doi.org/10.1016/0047-2484(92)90081-J",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "illusion-of-control",
+    "name": "Illusion of Control",
+    "summary": "Believing we can control or influence outcomes that we actually cannot.",
+    "explanation": "The Illusion of Control is a cognitive bias where people believe they have more influence over outcomes than they actually do. This tendency was first identified by psychologist Ellen Langer in the 1970s, who found that people behave as if they can influence purely chance events when given elements typically associated with skill situations, such as choice, competition, familiarity, and personal involvement. For example, gamblers often believe they can influence dice rolls or lottery outcomes through rituals, lucky numbers, or the way they throw the dice.\n\nThis bias manifests across many domains of life. Traders may believe their skill allows them to consistently beat the market despite evidence that most active managers underperform index funds. Executives may overestimate their ability to predict and control business outcomes. Even in personal life, people often believe their actions can influence inherently random events. The illusion is strengthened when people are personally involved in an activity, when they experience early success, and when the task resembles skill-based activities.\n\nThe illusion of control can have both positive and negative consequences. On the positive side, it can provide motivation, reduce anxiety, and increase persistence in the face of challenges. However, the downside is significant: it can lead to excessive risk-taking, poor decision-making, and failure to prepare for genuinely uncontrollable events. Understanding this bias is essential for making better decisions, especially in contexts involving uncertainty and risk. Distinguishing between what we can genuinely influence and what is beyond our control helps allocate effort more effectively.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Control Illusion"],
+    "relatedConcepts": ["optimism-bias", "dichotomy-of-control", "gambler-fallacy"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Illusion of Control - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Illusion_of_control",
+            "type": "website"
+        },
+        {
+            "title": "The Illusion of Control - Ellen Langer",
+            "url": "https://doi.org/10.1037/0022-3514.32.2.311",
+            "type": "paper"
+        },
+        {
+            "title": "Thinking, Fast and Slow - Daniel Kahneman",
+            "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

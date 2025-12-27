@@ -1,0 +1,32 @@
+{
+    "id": "regression-to-the-mean",
+    "name": "Regression to the Mean",
+    "summary": "Extreme outcomes tend to be followed by more moderate ones.",
+    "explanation": "Regression to the mean is a statistical phenomenon where extreme measurements or outcomes tend to be followed by values closer to the average. If you score exceptionally well on a test one day, your next score is likely to be somewhat lower - not because you got worse, but because the extreme result was partly due to random factors that are unlikely to repeat. Francis Galton first documented this effect in the 1880s while studying the heights of parents and children.\n\nThis principle is frequently misunderstood, leading to flawed conclusions and poor decisions. When a sports team has an outstanding season, fans and analysts attribute it to great coaching or player chemistry. If the next season is worse, the same observers blame declining skills or bad management. In reality, regression to the mean explains much of this variation. The initial extreme performance included some luck, and that luck simply did not persist. Understanding this helps you avoid overreacting to both successes and failures.\n\nThe implications extend across medicine, business, education, and personal development. Medical treatments often seem effective because patients seek help when symptoms are at their worst, and symptoms would have improved anyway. Companies that have exceptional years often disappoint afterward. Students who score very high or low on one exam typically score closer to their average on the next. Recognizing regression to the mean prevents you from drawing incorrect conclusions about causation and helps you make more realistic predictions.\n\nTo apply this principle, look for situations where outcomes have a significant random component and where you are observing extreme results. Ask whether the extreme performance is likely repeatable or whether it benefited from conditions that will not persist. Build expectations around long-term averages rather than recent peaks or troughs. This leads to more measured responses, better forecasting, and fewer emotional overreactions to volatility.",
+    "tags": ["mental-model", "thinking", "decision-making", "statistics", "probability"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Mean reversion", "Reversion to the mean", "Galton's fallacy"],
+    "relatedConcepts": [
+        "probabilistic-thinking",
+        "black-swan",
+        "second-order-effects",
+        "confirmation-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        },
+        {
+            "title": "The Drunkard's Walk by Leonard Mlodinow",
+            "url": "https://www.amazon.com/Drunkards-Walk-Randomness-Rules-Lives/dp/0307275175",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

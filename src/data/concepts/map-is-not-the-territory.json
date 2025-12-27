@@ -1,0 +1,37 @@
+{
+    "id": "map-is-not-the-territory",
+    "name": "Map is Not the Territory",
+    "summary": "Models and representations of reality are not reality itself.",
+    "explanation": "The phrase 'the map is not the territory' was coined by Alfred Korzybski in 1931 as part of his work on general semantics. It serves as a fundamental reminder that our mental models, theories, and representations of reality are always simplifications and abstractions - they are never the thing itself. Just as a map of a city cannot capture every detail of the actual city, our understanding of any phenomenon is always incomplete and potentially misleading.\n\nThis concept has profound implications for decision-making and problem-solving. When we confuse our models with reality, we become blind to information that does not fit our framework. We may optimize for metrics that do not actually reflect what matters, or apply solutions that worked in one context to situations where the underlying dynamics are fundamentally different. Scientists, economists, and strategists regularly fall into this trap when they forget that their elegant theories are approximations, not truth.\n\nUnderstanding this principle encourages intellectual humility and continuous learning. It reminds us to regularly update our mental maps based on new information and to remain open to the possibility that our current understanding is flawed. It also suggests that multiple maps or perspectives can be useful - different models highlight different aspects of reality, and combining them often gives a richer understanding than any single framework.\n\nIn practical application, this means questioning your assumptions, seeking disconfirming evidence, and remaining curious about what your current model might be missing. It means being wary of experts who present their models as complete truth, and being especially cautious when high-stakes decisions depend on models that have not been tested against reality. The map can guide you, but you must always be ready for the territory to surprise you.",
+    "tags": ["mental-model", "thinking", "decision-making", "epistemology", "semantics"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Map-territory relation", "Models are not reality", "All models are wrong"],
+    "relatedConcepts": [
+        "systems-thinking",
+        "second-order-effects",
+        "black-swan",
+        "probabilistic-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Science and Sanity by Alfred Korzybski",
+            "url": "https://www.amazon.com/Science-Sanity-Introduction-Non-Aristotelian-Semantics/dp/0937298018",
+            "type": "book"
+        },
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        },
+        {
+            "title": "Farnam Street: The Map Is Not the Territory",
+            "url": "https://fs.blog/map-and-territory/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

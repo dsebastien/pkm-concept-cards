@@ -1,0 +1,37 @@
+{
+    "id": "authority-bias",
+    "name": "Authority Bias",
+    "summary": "The tendency to attribute greater accuracy to the opinion of an authority figure.",
+    "explanation": "Authority Bias is a cognitive bias that causes us to give undue weight to the opinions and claims of authority figures. When someone is perceived as an expert, leader, or holds a position of power, we tend to accept their statements more readily and are less likely to critically evaluate their reasoning. This bias has evolutionary roots: deferring to knowledgeable elders historically increased survival odds. However, in modern contexts, it can lead to blind acceptance of flawed ideas simply because they come from prestigious sources.\n\nThis bias manifests in many domains. In medicine, patients may follow a doctor's advice without seeking second opinions. In business, employees may not question decisions from executives. In academia, established researchers' theories may receive less scrutiny than newcomers' work. The famous Milgram experiments demonstrated the extreme lengths people will go to when instructed by authority figures, even when their actions conflict with personal conscience.\n\nTo counteract authority bias, practice evaluating arguments on their own merits rather than their source. Ask: 'Would I find this convincing if an unknown person said it?' Look for evidence and logical reasoning, not credentials alone. Remember that expertise in one domain does not transfer to all domains. The Latin phrase 'nullius in verba' (take nobody's word for it) captures the essence of healthy skepticism toward authority claims.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Appeal to Authority", "Argument from Authority"],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "halo-effect",
+        "critical-thinking",
+        "dunning-kruger-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Authority Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Authority_bias",
+            "type": "website"
+        },
+        {
+            "title": "Milgram Experiment",
+            "url": "https://en.wikipedia.org/wiki/Milgram_experiment",
+            "type": "website"
+        },
+        {
+            "title": "Influence: The Psychology of Persuasion - Robert Cialdini",
+            "url": "https://www.goodreads.com/book/show/28815.Influence",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

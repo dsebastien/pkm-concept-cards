@@ -1,0 +1,37 @@
+{
+    "id": "margin-of-safety",
+    "name": "Margin of Safety",
+    "summary": "Building buffers to protect against uncertainty and errors.",
+    "explanation": "The margin of safety principle states that you should build buffers into your plans, designs, and decisions to protect against uncertainty, errors, and unexpected events. Originally an engineering concept - bridges are designed to hold far more weight than they will ever carry - the idea was adapted to investing by Benjamin Graham and later championed by Warren Buffett. The core insight is that since we cannot predict the future with certainty, we should leave room for things to go wrong.\n\nIn investing, margin of safety means buying assets at a significant discount to their estimated intrinsic value. If you calculate that a stock is worth $100, you might only buy it at $70 or less. This buffer protects you if your valuation is wrong or if unforeseen problems emerge. Even if your analysis contains errors, the margin of safety can still produce acceptable returns. Without it, small mistakes in judgment become catastrophic losses.\n\nThe principle extends far beyond investing. Engineers build safety factors into bridges and buildings. Project managers add buffer time to schedules. Smart individuals maintain emergency funds despite having stable incomes. In all these cases, the logic is identical: since we cannot perfectly predict what will happen, we build in protection against our own limitations and the inherent uncertainty of the world. This approach trades optimal efficiency for resilience.\n\nApplying margin of safety requires resisting the temptation to cut things close. When resources are scarce or competition is intense, there is pressure to eliminate all buffers and operate at maximum efficiency. But this optimization for normal conditions creates fragility - any deviation from the expected scenario causes failure. Systems with adequate margins of safety may appear wasteful during good times, but they survive and even thrive when conditions turn adverse. The margin of safety is insurance you hope never to use, but are grateful to have when you need it.",
+    "tags": ["mental-model", "thinking", "decision-making", "risk-management", "investing"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Safety margin", "Buffer principle", "Conservative estimation"],
+    "relatedConcepts": [
+        "circle-of-competence",
+        "probabilistic-thinking",
+        "black-swan",
+        "second-order-effects"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Intelligent Investor by Benjamin Graham",
+            "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661",
+            "type": "book"
+        },
+        {
+            "title": "Poor Charlie's Almanack by Charlie Munger",
+            "url": "https://www.amazon.com/Poor-Charlies-Almanack-Essential-Charles/dp/1953953239",
+            "type": "book"
+        },
+        {
+            "title": "Farnam Street: Margin of Safety",
+            "url": "https://fs.blog/margin-of-safety/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

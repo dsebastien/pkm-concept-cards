@@ -1,0 +1,37 @@
+{
+    "id": "cobra-effect",
+    "name": "Cobra Effect",
+    "summary": "When a solution to a problem makes the problem worse through perverse incentives.",
+    "explanation": "The Cobra Effect refers to situations where an attempted solution to a problem actually makes the problem worse. The term originates from an anecdote about colonial India, where the British government, concerned about the number of venomous cobras in Delhi, offered a bounty for every dead cobra. Initially, this seemed effective as people killed cobras to collect the reward. However, enterprising individuals began breeding cobras to collect more bounties. When the government caught on and cancelled the program, the breeders released their now-worthless snakes, resulting in a larger cobra population than before the policy began.\n\nThis mental model is a specific and vivid example of perverse incentives creating unintended consequences. Similar dynamics have played out throughout history: the Great Hanoi Rat Massacre saw residents breeding rats to collect bounties; paleontological bounties in China led to fossils being broken into pieces to maximize payments; and welfare systems sometimes create poverty traps where earning more income results in losing benefits worth more than the additional earnings.\n\nThe Cobra Effect is particularly insidious because the policy seems reasonable on its surface. The logic of 'pay for dead cobras to reduce cobras' is intuitive. The failure comes from not considering how people will optimize their behavior in response to the new incentive structure. Any time you create an incentive, you must consider not just the intended response but all possible responses, including gaming the system.\n\nRecognizing potential Cobra Effects requires thinking like an adversary or optimizer. Ask: How might someone maximize their gain from this policy? What behaviors am I actually incentivizing versus what I think I'm incentivizing? Are there ways to achieve the reward without actually solving the underlying problem? This adversarial thinking is essential for designing effective policies, metrics, and incentive systems.",
+    "tags": ["mental-model", "thinking", "decision-making", "systems-thinking"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Perverse incentives", "Unintended consequences", "Backfire effect"],
+    "relatedConcepts": [
+        "incentives",
+        "second-order-effects",
+        "tragedy-of-the-commons",
+        "systems-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Perverse incentive - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Perverse_incentive",
+            "type": "website"
+        },
+        {
+            "title": "Cobra effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cobra_effect",
+            "type": "website"
+        },
+        {
+            "title": "The Cobra Effect: Good Intentions, Perverse Outcomes",
+            "url": "https://fs.blog/cobra-effect/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

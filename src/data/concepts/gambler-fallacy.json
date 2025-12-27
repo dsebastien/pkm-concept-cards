@@ -1,0 +1,32 @@
+{
+    "id": "gambler-fallacy",
+    "name": "Gambler's Fallacy",
+    "summary": "The mistaken belief that past random events affect future probabilities.",
+    "explanation": "The Gambler's Fallacy is the erroneous belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future, or vice versa. This cognitive bias leads people to believe that past random events somehow influence future random events, even when each event is statistically independent. The classic example is believing that after flipping heads five times in a row, tails is 'due' to appear, when in reality each flip remains a 50/50 chance.\n\nThis fallacy stems from our pattern-seeking nature and difficulty understanding true randomness. Our brains evolved to find patterns and meaning, which served us well for survival but can mislead us in probabilistic situations. The fallacy is particularly dangerous in gambling contexts, where it can lead to significant financial losses as people chase perceived patterns in random outcomes. Casinos and lottery systems benefit enormously from this widespread cognitive error.\n\nThe Gambler's Fallacy extends beyond gambling into many areas of life, including financial markets, sports predictions, and even medical decision-making. Investors may believe a stock is 'due' for a correction after a winning streak, or parents may believe they're 'due' for a boy after having three daughters. Understanding this bias is crucial for making rational decisions in any domain involving probability and random events. The antidote is developing statistical literacy and recognizing that independent events have no memory of past outcomes.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Monte Carlo Fallacy", "Fallacy of the Maturity of Chances"],
+    "relatedConcepts": ["confirmation-bias", "anchoring-bias", "availability-heuristic"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Gambler's Fallacy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gambler%27s_fallacy",
+            "type": "website"
+        },
+        {
+            "title": "Judgment under Uncertainty: Heuristics and Biases - Tversky & Kahneman",
+            "url": "https://science.sciencemag.org/content/185/4157/1124",
+            "type": "paper"
+        },
+        {
+            "title": "Thinking, Fast and Slow - Daniel Kahneman",
+            "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

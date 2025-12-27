@@ -1,0 +1,32 @@
+{
+    "id": "spotlight-effect",
+    "name": "Spotlight Effect",
+    "summary": "Overestimating how much others notice our appearance or behavior.",
+    "explanation": "The Spotlight Effect is a cognitive bias that causes people to significantly overestimate how much others notice and remember their appearance, behavior, and mistakes. We tend to believe we are under a metaphorical spotlight, with others paying close attention to everything we do, when in reality most people are too preoccupied with their own concerns to notice much about us. This egocentric bias stems from our difficulty in stepping outside our own perspective.\n\nClassic experiments by psychologist Thomas Gilovich and colleagues demonstrated this effect by having participants wear embarrassing t-shirts and then estimate how many people noticed. Participants consistently overestimated the number of observers who noticed their shirt by about 50%. Similar experiments have shown that people overestimate how much others notice their bad hair days, verbal stumbles, and social faux pas.\n\nThe spotlight effect has significant implications for social anxiety and self-consciousness. Many people avoid taking risks, speaking up, or trying new things because they fear others' judgment, when in truth most people are barely paying attention. Understanding this bias can be liberating, as it suggests that our perceived failures and embarrassments are far less noticeable to others than we imagine. This knowledge can help reduce social anxiety and encourage more confident engagement in social and professional situations.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "social-psychology"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Spotlight Bias"],
+    "relatedConcepts": ["fundamental-attribution-error", "self-serving-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Spotlight Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Spotlight_effect",
+            "type": "website"
+        },
+        {
+            "title": "The Spotlight Effect in Social Judgment - Gilovich et al.",
+            "url": "https://doi.org/10.1037/0022-3514.78.2.211",
+            "type": "paper"
+        },
+        {
+            "title": "The Spotlight Effect and the Illusion of Transparency - Gilovich & Savitsky",
+            "url": "https://doi.org/10.1111/1467-8721.00120",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

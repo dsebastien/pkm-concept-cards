@@ -1,0 +1,27 @@
+{
+    "id": "hanlons-razor",
+    "name": "Hanlon's Razor",
+    "summary": "Never attribute to malice that which is adequately explained by stupidity.",
+    "explanation": "Hanlon's Razor is a philosophical principle that advises interpreting others' actions charitably. The adage suggests that when someone does something harmful or frustrating, incompetence, ignorance, or simple mistakes are far more likely explanations than deliberate malicious intent. This mental model helps prevent paranoia and unnecessary conflict by encouraging us to seek simpler, less sinister explanations first.\n\nThe principle is particularly valuable in professional and personal relationships. When a colleague misses a deadline, a friend forgets an important date, or a company makes an error affecting customers, jumping to conclusions about ill intent often damages relationships and wastes emotional energy. By applying Hanlon's Razor, we can approach these situations with empathy and focus on solving problems rather than assigning blame.\n\nHowever, this principle should be applied with nuance. It doesn't suggest that malice never exists or that we should be naive. Rather, it establishes a baseline assumption that most people aren't actively trying to harm us. This razor is best used as a starting point for interpretation, not as an absolute rule. When patterns of behavior suggest intentional harm or when the stakes are high, appropriate skepticism remains warranted.\n\nThe razor is named after Robert J. Hanlon, who submitted it to a joke book in 1980, though similar sentiments have been expressed by thinkers throughout history, including Napoleon Bonaparte and Johann Wolfgang von Goethe. It belongs to a family of philosophical razors, like Occam's Razor, that help simplify decision-making by cutting away unnecessary complexity.",
+    "tags": ["mental-model", "thinking", "decision-making"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Hanlon Razor", "Principle of Charitable Interpretation"],
+    "relatedConcepts": ["confirmation-bias", "first-principles", "murphys-law"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Hanlon's Razor - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hanlon%27s_razor",
+            "type": "website"
+        },
+        {
+            "title": "Murphy's Law Book Two: More Reasons Why Things Go Wrong",
+            "url": "https://archive.org/details/murphyslawbooktw0000bloc",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

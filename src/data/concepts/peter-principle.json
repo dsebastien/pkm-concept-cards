@@ -1,0 +1,27 @@
+{
+    "id": "peter-principle",
+    "name": "Peter Principle",
+    "summary": "People in hierarchies tend to rise to their level of incompetence.",
+    "explanation": "The Peter Principle, formulated by educator Laurence J. Peter in his 1969 book of the same name, observes that in hierarchical organizations, employees tend to be promoted based on their success in their current role until they reach a position where they are no longer competent. At that point, promotions stop, but the person remains stuck in a role they cannot perform well. The logical consequence is that over time, every position tends to be filled by someone incompetent to fulfill its duties.\n\nThe principle highlights a fundamental flaw in traditional promotion systems: the skills that make someone excellent at their current job often differ from those required at the next level. A brilliant software engineer may lack the people skills needed for management. An outstanding salesperson may struggle with the strategic thinking required of a sales director. By rewarding current performance with promotion to a different role, organizations inadvertently set up their best performers for failure.\n\nThis insight has profound implications for career development and organizational design. Individuals should carefully consider whether they want to move up the traditional ladder or grow in expertise within their current role. Organizations can address the Peter Principle by creating dual career tracks (allowing technical experts to advance without becoming managers), basing promotions on demonstrated ability for the new role rather than success in the current one, and providing extensive training and support during transitions.\n\nThe Peter Principle remains relevant because hierarchical structures persist in most organizations. Understanding it helps explain seemingly inexplicable management decisions, organizational dysfunction, and the importance of matching roles to actual competencies rather than seniority or past performance.",
+    "tags": ["mental-model", "thinking", "decision-making"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Peter's Principle", "Hierarchical incompetence"],
+    "relatedConcepts": ["dunning-kruger-effect", "parkinson-law", "career-design"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Peter Principle - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peter_principle",
+            "type": "website"
+        },
+        {
+            "title": "The Peter Principle by Laurence J. Peter and Raymond Hull",
+            "url": "https://www.harpercollins.com/products/the-peter-principle-laurence-j-peterraymond-hull",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

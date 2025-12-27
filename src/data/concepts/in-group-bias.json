@@ -1,0 +1,32 @@
+{
+    "id": "in-group-bias",
+    "name": "In-Group Bias",
+    "summary": "Favoring members of one's own group over outsiders.",
+    "explanation": "In-Group Bias (also known as in-group favoritism) is the tendency to give preferential treatment to people we perceive as belonging to our own group while discriminating against those seen as outsiders. This bias operates even when group membership is based on arbitrary or trivial distinctions. Classic studies by psychologist Henri Tajfel demonstrated that people would favor in-group members even when groups were formed randomly, showing how deeply ingrained this tendency is in human psychology.\n\nThis bias served evolutionary purposes by promoting cooperation within tribes and communities necessary for survival. However, in modern contexts, it contributes to stereotyping, prejudice, and discrimination across dimensions including nationality, ethnicity, religion, political affiliation, profession, and even preferences for sports teams or brands. The bias affects hiring decisions, resource allocation, trust judgments, and how we interpret others' behaviors.\n\nAwareness of in-group bias is the first step toward mitigating its effects. Strategies include consciously expanding the boundaries of who we consider 'us,' seeking diverse perspectives and friendships, using structured decision-making processes to reduce subjective judgments, and practicing perspective-taking to understand out-group viewpoints. In knowledge work and collaboration, recognizing this bias helps build more inclusive teams and prevents echo chambers where only similar voices are heard and valued.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "social-psychology"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["In-Group Favoritism", "Intergroup Bias", "Tribal Bias"],
+    "relatedConcepts": ["confirmation-bias", "halo-effect", "bandwagon-effect"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "In-Group Favoritism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/In-group_favoritism",
+            "type": "website"
+        },
+        {
+            "title": "Minimal Group Paradigm - Tajfel",
+            "url": "https://en.wikipedia.org/wiki/Minimal_group_paradigm",
+            "type": "website"
+        },
+        {
+            "title": "Thinking, Fast and Slow - Daniel Kahneman",
+            "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

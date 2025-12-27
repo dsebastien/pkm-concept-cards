@@ -1,0 +1,37 @@
+{
+    "id": "hot-hand-fallacy",
+    "name": "Hot-Hand Fallacy",
+    "summary": "Believing that a person who has experienced success has a greater chance of further success.",
+    "explanation": "The Hot-Hand Fallacy is the belief that a person who has experienced a successful outcome has a greater chance of success in further attempts. Originally studied in basketball, where players and fans believe a shooter who has made several consecutive shots is more likely to make the next one, this fallacy extends to many domains including gambling, investing, and business decision-making.\n\nThe fallacy arises from our difficulty distinguishing between genuine skill effects and random variation. When we see a basketball player make five shots in a row, we intuitively attribute this to the player being 'in the zone,' expecting continued success. However, early research by Gilovich, Vallone, and Tversky found that such streaks in basketball were statistically consistent with independent random trials based on the player's overall shooting percentage.\n\nThis fallacy has significant implications for decision-making. Gamblers may increase their bets after winning streaks, believing their luck will continue. Investors may pour money into funds that have performed well recently, ignoring mean reversion. To counter this fallacy, focus on base rates and long-term track records rather than recent streaks, and understand regression to the mean.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "statistics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Hot Hand Belief", "Streak Shooting Belief"],
+    "relatedConcepts": [
+        "clustering-illusion",
+        "gambler-fallacy",
+        "confirmation-bias",
+        "narrative-fallacy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Hot-Hand Fallacy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hot_hand",
+            "type": "website"
+        },
+        {
+            "title": "The Hot Hand in Basketball - Gilovich, Vallone & Tversky",
+            "url": "https://psycnet.apa.org/record/1985-26063-001",
+            "type": "paper"
+        },
+        {
+            "title": "Thinking, Fast and Slow - Daniel Kahneman",
+            "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

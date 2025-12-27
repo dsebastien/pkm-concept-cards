@@ -1,0 +1,32 @@
+{
+    "id": "negativity-bias",
+    "name": "Negativity Bias",
+    "summary": "The tendency to give more weight to negative experiences than positive ones of equal intensity.",
+    "explanation": "Negativity Bias is the psychological phenomenon where negative events, emotions, and information have a greater impact on our mental state and cognitive processes than neutral or positive things of equal intensity. A single piece of criticism often outweighs multiple compliments, and bad news captures our attention more readily than good news. This asymmetry in how we process positive versus negative stimuli is deeply rooted in our evolutionary history.\n\nFrom an evolutionary perspective, negativity bias served as a survival mechanism. Our ancestors who were more attuned to threats and dangers were more likely to survive and pass on their genes. Missing a potential threat (like a predator) was far more costly than missing a potential opportunity (like a food source). While this bias helped our ancestors survive in dangerous environments, in modern life it can lead to excessive worry, risk aversion, and difficulty appreciating positive experiences.\n\nResearch by psychologists Roy Baumeister and colleagues famously concluded that 'bad is stronger than good' across a wide range of psychological phenomena. Studies suggest it takes approximately three to five positive interactions to counterbalance one negative interaction in relationships. Understanding negativity bias is crucial for personal well-being, as it helps explain why we might dwell on failures while quickly forgetting successes. Practices like gratitude journaling, cognitive reappraisal, and deliberately savoring positive experiences can help counteract this natural tendency.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Negativity Effect", "Positive-Negative Asymmetry"],
+    "relatedConcepts": ["optimism-bias", "availability-heuristic", "loss-aversion"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Negativity Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Negativity_bias",
+            "type": "website"
+        },
+        {
+            "title": "Bad Is Stronger Than Good - Baumeister et al.",
+            "url": "https://doi.org/10.1037/1089-2680.5.4.323",
+            "type": "paper"
+        },
+        {
+            "title": "Thinking, Fast and Slow - Daniel Kahneman",
+            "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

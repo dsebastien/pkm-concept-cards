@@ -1,0 +1,32 @@
+{
+    "id": "incentives",
+    "name": "Incentives",
+    "summary": "People respond to rewards and punishments; understanding incentive structures explains much of human behavior.",
+    "explanation": "Incentives are one of the most powerful mental models for understanding human behavior. Charlie Munger famously said 'Show me the incentive and I will show you the outcome.' When you want to understand why people behave in certain ways, look at what they are rewarded or punished for. This applies to individuals, organizations, and entire societies.\n\nThe power of incentives extends far beyond simple monetary rewards. People respond to social recognition, status, security, autonomy, and countless other motivators. Understanding the full spectrum of incentives helps explain behaviors that might otherwise seem irrational. A person might take a lower-paying job because of better work-life balance, or an employee might prioritize appearing busy over actual productivity because that's what their manager rewards.\n\nIncentive structures can have profound unintended consequences. When metrics become targets, they cease to be good metrics (Goodhart's Law). Sales quotas might encourage short-term thinking at the expense of customer relationships. Piece-rate pay might sacrifice quality for quantity. The key insight is that people will optimize for whatever is being measured and rewarded, so designing the right incentive structure is crucial for achieving desired outcomes.\n\nMunger emphasized that incentives are so powerful that even good people will rationalize bad behavior if the incentive structure pushes them that way. This makes understanding incentives essential not just for predicting behavior, but for designing systems, policies, and organizations that align individual interests with collective goals.",
+    "tags": ["mental-model", "thinking", "decision-making", "systems-thinking"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Incentive structures", "Reward systems", "Motivation theory"],
+    "relatedConcepts": ["second-order-effects", "systems-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Psychology of Human Misjudgment - Charlie Munger",
+            "url": "https://fs.blog/great-talks/psychology-human-misjudgment/",
+            "type": "website"
+        },
+        {
+            "title": "Incentive - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Incentive",
+            "type": "website"
+        },
+        {
+            "title": "Poor Charlie's Almanack",
+            "url": "https://www.stripe.press/poor-charlies-almanack",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

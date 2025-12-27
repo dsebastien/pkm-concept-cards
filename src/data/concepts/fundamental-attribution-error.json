@@ -1,0 +1,32 @@
+{
+    "id": "fundamental-attribution-error",
+    "name": "Fundamental Attribution Error",
+    "summary": "Overemphasizing personality and underemphasizing situational factors when explaining others' behavior.",
+    "explanation": "The Fundamental Attribution Error is the tendency to overemphasize dispositional or personality-based explanations for others' behavior while underemphasizing situational and environmental factors. When someone cuts us off in traffic, we think 'what a jerk' (dispositional) rather than considering they might be rushing to a hospital emergency (situational). Conversely, when we exhibit the same behavior, we readily attribute it to circumstances. This asymmetry in how we explain our own versus others' actions is a pervasive feature of human cognition.\n\nThis cognitive bias was first identified by social psychologist Lee Ross in 1977 and has been extensively studied across cultures and contexts. The effect appears to be stronger in individualistic Western cultures, which emphasize personal agency and responsibility, compared to collectivist Eastern cultures that tend to consider contextual factors more readily. The bias likely stems from the fact that when observing others, their behavior is salient and their situational constraints are often invisible to us, while we are intimately aware of the pressures and circumstances affecting our own actions.\n\nUnderstanding the fundamental attribution error has significant practical implications for interpersonal relationships, management, and conflict resolution. It can lead to unfair judgments, damaged relationships, and poor decisions about hiring, punishment, and collaboration. The antidote involves deliberately considering situational factors when evaluating others' behavior, practicing empathy by imagining oneself in their circumstances, and recognizing that the same person can behave very differently across different situations. This more nuanced view of human behavior leads to greater compassion and more effective interactions.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "social-psychology"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Correspondence Bias", "Attribution Effect", "Over-attribution Effect"],
+    "relatedConcepts": ["confirmation-bias", "self-serving-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Fundamental Attribution Error - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fundamental_attribution_error",
+            "type": "website"
+        },
+        {
+            "title": "The Intuitive Psychologist and His Shortcomings - Lee Ross",
+            "url": "https://psycnet.apa.org/record/1978-00236-005",
+            "type": "paper"
+        },
+        {
+            "title": "Social Psychology - Elliot Aronson",
+            "url": "https://www.goodreads.com/book/show/61541.Social_Psychology",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

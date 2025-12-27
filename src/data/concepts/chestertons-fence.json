@@ -1,0 +1,27 @@
+{
+    "id": "chestertons-fence",
+    "name": "Chesterton's Fence",
+    "summary": "Don't remove something until you understand why it was put there in the first place.",
+    "explanation": "Chesterton's Fence is a principle named after the English writer G.K. Chesterton, who wrote about it in his 1929 book 'The Thing.' The principle states that reforms should not be made until the reasoning behind the existing state of affairs is understood. Chesterton used the metaphor of a fence across a road: a reformer might say 'I don't see the use of this; let us clear it away.' But the wise response is 'If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.'\n\nThis mental model is particularly valuable in complex systems where changes can have unexpected consequences. Whether you're refactoring legacy code, changing organizational policies, or modifying legal regulations, the existing structure likely exists for reasons that may not be immediately apparent. The people who created it were probably not fools, and removing it without understanding its purpose risks reintroducing the problems it was designed to solve.\n\nIn software development, this principle is especially important. That seemingly useless code might handle an edge case that took months to discover. That bureaucratic process might prevent a type of error that hasn't occurred in years precisely because the process exists. The principle doesn't mean nothing should ever change, but rather that understanding should precede destruction.\n\nApplying Chesterton's Fence requires intellectual humility and curiosity. Before removing or changing something, ask: Why was this created? What problem was it solving? What might happen if we remove it? Sometimes you'll discover the original reason no longer applies, and removal is appropriate. Other times you'll gain appreciation for subtle wisdom embedded in existing structures. Either way, you'll make better decisions.",
+    "tags": ["mental-model", "thinking", "decision-making", "systems-thinking"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Chesterton Fence", "Second-order thinking", "Reform principle"],
+    "relatedConcepts": ["second-order-effects", "lindy-effect", "systems-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Chesterton's fence - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton's_fence",
+            "type": "website"
+        },
+        {
+            "title": "The Thing - G.K. Chesterton (1929)",
+            "url": "https://www.gutenberg.org/ebooks/1717",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

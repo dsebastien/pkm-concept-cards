@@ -1,0 +1,39 @@
+{
+    "id": "red-queen-effect",
+    "name": "Red Queen Effect",
+    "summary": "You must keep running (adapting and improving) just to maintain your relative position in a competitive environment.",
+    "explanation": "The Red Queen Effect takes its name from Lewis Carroll's Through the Looking-Glass, where the Red Queen tells Alice, 'It takes all the running you can do, to keep in the same place.' In evolutionary biology, this concept describes how species must continuously evolve and adapt not to gain advantage but simply to survive against other co-evolving organisms. Biologist Leigh Van Valen formalized this as the Red Queen Hypothesis in 1973 to explain the constant rate of extinction observed in the fossil record.\n\nIn business and personal development, the Red Queen Effect manifests as the constant pressure to innovate, learn, and improve merely to maintain competitive parity. As competitors advance, standing still means falling behind. Technology companies experience this intensely - what was cutting-edge last year becomes table stakes this year. Similarly, professionals must continuously update their skills as industry standards evolve. The effect explains why sustained effort is required not for growth but for survival.\n\nThis mental model offers both a warning and strategic guidance. The warning is clear: complacency is decay in disguise. But the model also suggests strategies for escape. Some approaches include finding niches with less competitive pressure, creating sustainable competitive advantages that are hard to replicate, or changing the game entirely through disruptive innovation. Understanding the Red Queen Effect helps distinguish between running faster in the same race versus finding a different race altogether.",
+    "tags": [
+        "mental-model",
+        "thinking",
+        "systems-thinking",
+        "competition",
+        "evolution",
+        "strategy"
+    ],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Red Queen Hypothesis", "Red Queen's Race", "Evolutionary arms race"],
+    "relatedConcepts": ["lindy-effect", "compound-effect", "positive-feedback-loop"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Through the Looking-Glass by Lewis Carroll",
+            "url": "https://www.amazon.com/Through-Looking-Glass-Lewis-Carroll/dp/1503222683",
+            "type": "book"
+        },
+        {
+            "title": "A New Evolutionary Law by Leigh Van Valen (1973)",
+            "url": "https://www.mn.uio.no/cees/english/services/van-valen/evolutionary-theory/volume-1/vol-1-no-1-pages-1-30-l-van-valen-a-new-evolutionary-law.pdf",
+            "type": "paper"
+        },
+        {
+            "title": "The Red Queen: Sex and the Evolution of Human Nature by Matt Ridley",
+            "url": "https://www.amazon.com/Red-Queen-Evolution-Human-Nature/dp/0060556579",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

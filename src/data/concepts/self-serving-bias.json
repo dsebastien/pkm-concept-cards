@@ -1,0 +1,36 @@
+{
+    "id": "self-serving-bias",
+    "name": "Self-Serving Bias",
+    "summary": "Attributing successes to internal factors and failures to external factors.",
+    "explanation": "The Self-Serving Bias is the tendency to attribute positive outcomes to our own abilities and efforts (internal factors) while attributing negative outcomes to external circumstances beyond our control. When we succeed, it's because we're talented and worked hard; when we fail, it's because of bad luck, unfair conditions, or others' mistakes. This asymmetric attribution pattern serves to protect and enhance our self-esteem but can significantly distort our understanding of cause and effect.\n\nThis bias manifests across virtually all domains of human activity. Students attribute good grades to their intelligence and poor grades to unfair tests. Athletes credit wins to their skill and losses to referee errors or injuries. Entrepreneurs attribute business success to their vision and failures to market conditions. While this bias helps maintain psychological well-being and motivation—people with depression often show reduced self-serving bias—it can impede learning, growth, and accurate self-assessment.\n\nThe self-serving bias has important implications for personal development, leadership, and organizational culture. Leaders who consistently externalize failures miss opportunities to learn and improve, while those who take ownership of both successes and failures develop more realistic self-knowledge and earn greater trust. Overcoming this bias requires cultivating intellectual humility, actively seeking feedback, conducting honest post-mortems on both successes and failures, and recognizing that reality usually involves a complex mix of internal and external factors. This balanced attribution style leads to more accurate self-assessment and faster learning from experience.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Self-Attribution Bias", "Hedonic Bias"],
+    "relatedConcepts": [
+        "fundamental-attribution-error",
+        "confirmation-bias",
+        "dunning-kruger-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Self-Serving Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Self-serving_bias",
+            "type": "website"
+        },
+        {
+            "title": "Motivational and Cognitive Determinants of Attributional Bias - Miller & Ross",
+            "url": "https://psycnet.apa.org/record/1975-21459-001",
+            "type": "paper"
+        },
+        {
+            "title": "Mistakes Were Made (But Not by Me) - Carol Tavris & Elliot Aronson",
+            "url": "https://www.goodreads.com/book/show/522525.Mistakes_Were_Made_But_Not_by_Me_",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

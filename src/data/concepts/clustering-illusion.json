@@ -1,0 +1,37 @@
+{
+    "id": "clustering-illusion",
+    "name": "Clustering Illusion",
+    "summary": "Seeing patterns in random data, such as 'hot streaks' in random sequences.",
+    "explanation": "The Clustering Illusion is the tendency to erroneously perceive meaningful patterns in random data. Our brains are pattern-recognition machines, evolved to find structure in our environment, but this same ability leads us to see patterns where none exist. Random sequences often contain clusters or streaks that appear non-random to human observers, leading to false beliefs about underlying causes or predictability.\n\nThis illusion is particularly evident in gambling and financial contexts. When a roulette wheel lands on red five times in a row, observers often believe either that red is 'hot' and likely to continue, or that black is 'due' (the gambler's fallacy). Both interpretations are wrong because each spin is independent. Similarly, investors may see patterns in stock price movements that are actually random noise.\n\nThe clustering illusion has roots in the representativeness heuristic, where we expect small samples to look like the larger population they're drawn from. We expect random sequences to look 'random' with frequent alternation, but truly random sequences often contain longer runs than our intuition expects. To guard against this, rely on statistical analysis rather than visual inspection when evaluating patterns.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "statistics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Pattern Illusion", "Patternicity"],
+    "relatedConcepts": [
+        "hot-hand-fallacy",
+        "gambler-fallacy",
+        "confirmation-bias",
+        "narrative-fallacy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Clustering Illusion - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Clustering_illusion",
+            "type": "website"
+        },
+        {
+            "title": "The Hot Hand in Basketball - Gilovich, Vallone & Tversky",
+            "url": "https://psycnet.apa.org/record/1985-26063-001",
+            "type": "paper"
+        },
+        {
+            "title": "Thinking, Fast and Slow - Daniel Kahneman",
+            "url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

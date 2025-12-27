@@ -1,0 +1,32 @@
+{
+    "id": "rosy-retrospection",
+    "name": "Rosy Retrospection",
+    "summary": "Remembering past events more positively than they actually were.",
+    "explanation": "Rosy Retrospection is the psychological tendency to recall past events more favorably than they were actually experienced at the time. When looking back, we tend to remember the positive aspects while minimizing or forgetting the negatives, creating an idealized version of the past. This phenomenon has been documented across diverse experiences from vacations to relationships to 'the good old days.'\n\nResearch by Mitchell et al. demonstrated this effect clearly: participants reported more positive feelings about events when recalling them later than they had reported while actually experiencing them. The vacation that had frustrating delays and family arguments is remembered fondly as a wonderful trip. Our memories actively reconstruct the past in a more positive light.\n\nSeveral mechanisms drive rosy retrospection. Fading affect bias causes negative emotions to fade faster than positive ones. Cognitive dissonance leads us to justify past investments by viewing them positively. Understanding this has practical implications: it explains why people often believe things were better 'in the old days.' For personal decision-making, it suggests keeping contemporaneous records rather than relying on retrospective evaluation.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "memory"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Rosy Recollection", "Positive Memory Bias", "Nostalgia Bias"],
+    "relatedConcepts": ["hindsight-bias", "confirmation-bias", "journaling"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Rosy Retrospection - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rosy_retrospection",
+            "type": "website"
+        },
+        {
+            "title": "Stumbling on Happiness - Daniel Gilbert",
+            "url": "https://www.goodreads.com/book/show/56627.Stumbling_on_Happiness",
+            "type": "book"
+        },
+        {
+            "title": "Predicting, Experiencing, and Remembering - Mitchell et al.",
+            "url": "https://psycnet.apa.org/record/1997-04282-006",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

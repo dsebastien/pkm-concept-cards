@@ -1,0 +1,27 @@
+{
+    "id": "butterfly-effect",
+    "name": "Butterfly Effect",
+    "summary": "Small changes in initial conditions can lead to vastly different outcomes in complex systems.",
+    "explanation": "The Butterfly Effect is a concept from chaos theory that illustrates how small variations in the initial state of a deterministic nonlinear system can result in large differences in a later state. The name derives from the metaphorical example of a butterfly flapping its wings in Brazil potentially causing a tornado in Texas weeks later. This phenomenon was first observed by meteorologist Edward Lorenz in 1961 when he noticed that tiny rounding errors in his weather simulation produced dramatically different forecasts.\n\nThis mental model has profound implications for how we think about prediction, planning, and control. In complex adaptive systems - whether weather patterns, financial markets, or human organizations - long-term prediction becomes fundamentally limited because we can never know initial conditions with perfect precision. Small measurement errors or overlooked variables can compound exponentially over time, making deterministic prediction impossible beyond a certain horizon.\n\nUnderstanding the Butterfly Effect encourages intellectual humility and adaptive thinking. Rather than pursuing false precision in long-range forecasts, it suggests building robust systems that can handle a range of outcomes. It also highlights the potential leverage of small interventions - a minor adjustment at the right moment can have cascading effects. This insight is valuable in personal development, organizational change, and strategic planning, where early decisions and actions can shape trajectories in ways that only become apparent much later.",
+    "tags": ["mental-model", "thinking", "systems-thinking", "chaos-theory", "complexity"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Sensitive dependence on initial conditions", "Chaos effect", "Lorenz effect"],
+    "relatedConcepts": ["second-order-effects", "domino-effect", "black-swan", "compound-effect"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Chaos: Making a New Science by James Gleick",
+            "url": "https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453",
+            "type": "book"
+        },
+        {
+            "title": "Deterministic Nonperiodic Flow by Edward Lorenz (1963)",
+            "url": "https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

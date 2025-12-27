@@ -1,0 +1,32 @@
+{
+    "id": "streisand-effect",
+    "name": "Streisand Effect",
+    "summary": "Attempting to hide or suppress information often increases its spread.",
+    "explanation": "The Streisand Effect is a phenomenon where an attempt to hide, remove, or censor information backfires, causing the information to be publicized more widely than it would have been otherwise. The term was coined in 2005 after singer Barbra Streisand sued a photographer for $50 million for publishing an aerial photograph of her Malibu home. Before the lawsuit, the image had been downloaded only six times, two of which were by her attorneys. After news of the lawsuit spread, over 420,000 people visited the site in a single month.\n\nThis effect is amplified in the internet age, where attempts at censorship often trigger immediate backlash and widespread sharing. The very act of trying to suppress something signals that it must be important or embarrassing, which increases public interest. News of the attempted suppression becomes a story itself, often reaching far more people than the original content ever would have. The Streisand Effect has been observed with corporations trying to remove negative reviews, governments attempting to censor political content, and individuals seeking to delete embarrassing information.\n\nUnderstanding the Streisand Effect is crucial for crisis management and communication strategy. Before attempting to remove or suppress any information, one must consider whether the attempt itself will draw more attention to the content. Sometimes the best strategy is simply to let something fade into obscurity rather than fighting to remove it. As the saying goes, 'never pick a fight with someone who buys ink by the barrel' - or in modern terms, never try to suppress something that can be infinitely copied and shared.\n\nThe Streisand Effect also illustrates the importance of transparency and the limits of control in an interconnected world. Attempting to control information flow often reveals a misunderstanding of how information spreads in networks. Each attempt at suppression can create new nodes of distribution as people share the content specifically because someone is trying to hide it. The practical lesson is to carefully weigh whether the information is truly harmful enough to risk amplification through suppression attempts.",
+    "tags": ["mental-model", "thinking", "decision-making", "systems-thinking"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Censorship backfire", "Suppression amplification"],
+    "relatedConcepts": ["second-order-effects", "systems-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Streisand effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Streisand_effect",
+            "type": "website"
+        },
+        {
+            "title": "The Streisand Effect - TechDirt",
+            "url": "https://www.techdirt.com/blog/streisand-effect/",
+            "type": "website"
+        },
+        {
+            "title": "California Coastal Records Project (original photo)",
+            "url": "https://www.californiacoastline.org/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

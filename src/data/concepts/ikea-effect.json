@@ -1,0 +1,37 @@
+{
+    "id": "ikea-effect",
+    "name": "IKEA Effect",
+    "summary": "Placing disproportionately high value on things we partially created ourselves.",
+    "explanation": "The IKEA Effect is a cognitive bias where people place significantly higher value on products they have partially created themselves compared to identical products made by others. Named after the Swedish furniture retailer known for its assembly-required products, this phenomenon was formally studied by behavioral economists Michael Norton, Daniel Mochon, and Dan Ariely. Their research demonstrated that the labor we invest in creating something generates a sense of competence and ownership that inflates our perception of its worth.\n\nThis bias has profound implications across many areas. In business, it explains why founders may overvalue their companies and why teams may resist abandoning projects they have invested effort in, even when objective analysis suggests they should. In personal knowledge management, it manifests as reluctance to revise or delete notes we have carefully crafted, even when they have become outdated or redundant. The bias also intersects with the sunk cost fallacy, as our past labor makes us irrationally committed to continuing on paths we have started.\n\nInterestingly, the IKEA Effect has positive applications. It can increase engagement and satisfaction with work outputs, foster skill development through hands-on experience, and create stronger emotional connections to tools and systems we customize. However, awareness of this bias helps us make more rational decisions about when to iterate versus when to start fresh, and reminds us to seek objective feedback on our creations rather than relying solely on our own inflated assessments.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["DIY Bias", "Labor-Love Effect"],
+    "relatedConcepts": [
+        "endowment-effect",
+        "sunk-cost-fallacy",
+        "confirmation-bias",
+        "status-quo-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "IKEA Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/IKEA_effect",
+            "type": "website"
+        },
+        {
+            "title": "The IKEA Effect: When Labor Leads to Love - Norton, Mochon & Ariely",
+            "url": "https://doi.org/10.1016/j.jcps.2011.08.002",
+            "type": "paper"
+        },
+        {
+            "title": "Predictably Irrational - Dan Ariely",
+            "url": "https://www.goodreads.com/book/show/1713426.Predictably_Irrational",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

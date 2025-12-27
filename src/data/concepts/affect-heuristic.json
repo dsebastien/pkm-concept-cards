@@ -1,0 +1,32 @@
+{
+    "id": "affect-heuristic",
+    "name": "Affect Heuristic",
+    "summary": "Making judgments based on current emotions rather than objective analysis.",
+    "explanation": "The Affect Heuristic is a mental shortcut where people make judgments and decisions based on their current emotions rather than through careful, objective analysis. When we feel good about something, we tend to perceive its benefits as high and its risks as low. Conversely, when we have negative feelings about something, we see it as more risky and less beneficial. This emotional coloring of judgment operates rapidly and often unconsciously, influencing everything from consumer choices to complex policy decisions.\n\nResearch by Paul Slovic and colleagues has demonstrated how the affect heuristic creates an inverse relationship between perceived risk and perceived benefit that doesn't exist in reality. For activities we like, we minimize risks and maximize benefits in our minds; for activities we dislike, we do the opposite. For example, people who feel positively about nuclear power tend to see it as both beneficial and safe, while those with negative feelings see it as both risky and of little benefit.\n\nThe affect heuristic explains why vivid, emotionally evocative information often has more influence on decisions than dry statistics. A single compelling story about a plane crash can make flying seem more dangerous than driving, despite statistics showing the opposite. To counteract the affect heuristic, it helps to deliberately separate emotional reactions from factual analysis—waiting before making important decisions, actively seeking out data and evidence, and using structured decision-making frameworks.",
+    "tags": ["cognitive-bias", "psychology", "decision-making", "thinking", "heuristics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Affect Bias", "Emotional Heuristic"],
+    "relatedConcepts": ["availability-heuristic", "negativity-bias", "confirmation-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Affect Heuristic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Affect_heuristic",
+            "type": "website"
+        },
+        {
+            "title": "The Affect Heuristic - Slovic et al.",
+            "url": "https://doi.org/10.1002/bdm.392",
+            "type": "paper"
+        },
+        {
+            "title": "Risk as Analysis and Risk as Feelings - Slovic et al.",
+            "url": "https://doi.org/10.1111/j.1539-6924.2004.00433.x",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

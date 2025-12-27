@@ -1,0 +1,37 @@
+{
+    "id": "leverage",
+    "name": "Leverage",
+    "summary": "Using small inputs to generate outsized outputs through the strategic application of force multipliers.",
+    "explanation": "Leverage, as a mental model, extends far beyond its original mechanical meaning of using a lever to multiply force. It represents any mechanism that allows small inputs to produce disproportionately large outputs. The concept appears across multiple domains: financial leverage uses borrowed capital to amplify returns, operational leverage uses fixed costs to magnify profits at scale, and intellectual leverage uses ideas, code, or media to reach millions without proportional effort increase.\n\nNaval Ravikant identifies four forms of leverage in the modern economy. Labor leverage - getting others to work for you - is the oldest form but requires management overhead. Capital leverage - using money to multiply returns - requires resources and carries risk. The newer forms are more accessible: code leverage (software that runs without marginal cost) and media leverage (content that spreads without marginal effort). These latter forms are 'permissionless' - you don't need anyone's approval to write code or create content, unlike raising capital or hiring employees.\n\nUnderstanding leverage helps in strategic thinking about where to invest time and resources. High-leverage activities are those where a single hour of work can produce results far exceeding an hour's direct labor. Writing a book, building software, or creating systems and processes are high-leverage because they continue producing value long after the initial effort. The mental model also highlights risks: leverage amplifies both gains and losses, which is why managing downside exposure is crucial when employing leverage of any kind.",
+    "tags": ["mental-model", "thinking", "systems-thinking", "strategy", "productivity", "wealth"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Force multiplier", "Amplification", "Scaling"],
+    "relatedConcepts": [
+        "compound-effect",
+        "pareto-principle",
+        "positive-feedback-loop",
+        "compound-growth"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Almanack of Naval Ravikant by Eric Jorgenson",
+            "url": "https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212",
+            "type": "book"
+        },
+        {
+            "title": "How to Get Rich (without getting lucky) - Naval Ravikant Twitter Thread",
+            "url": "https://twitter.com/naval/status/1002103360646823936",
+            "type": "website"
+        },
+        {
+            "title": "Seeking Leverage in All Things by Shane Parrish",
+            "url": "https://fs.blog/leverage/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}
