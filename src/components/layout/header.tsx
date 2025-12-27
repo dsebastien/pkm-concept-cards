@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import { FaBrain } from 'react-icons/fa'
+import { FaBrain, FaDice } from 'react-icons/fa'
 
 const Header: React.FC = () => {
     return (
@@ -24,20 +24,33 @@ const Header: React.FC = () => {
                         </Link>
                     </div>
 
-                    {/* Website Link */}
-                    <a
-                        href='https://www.dsebastien.net'
-                        target='_blank'
-                        rel='noopener noreferrer'
-                        className='bg-primary/10 hover:bg-primary/20 flex items-center gap-2 rounded-lg px-4 py-2 transition-colors'
-                    >
-                        <img
-                            src='https://www.dsebastien.net/assets/images/developassion-logo.png?v=227ae60558'
-                            alt='DeveloPassion'
-                            className='h-5 w-5 rounded-full object-contain'
-                        />
-                        <span className='hidden sm:inline'>Website</span>
-                    </a>
+                    {/* Navigation Links */}
+                    <div className='flex items-center gap-2 sm:gap-3'>
+                        {/* Random Concept Button */}
+                        <Link
+                            to='/random'
+                            className='bg-primary/10 hover:bg-primary/20 flex items-center gap-2 rounded-lg px-3 py-2 transition-colors sm:px-4'
+                            title='Random Concept'
+                        >
+                            <FaDice className='h-5 w-5' />
+                            <span className='hidden sm:inline'>Random</span>
+                        </Link>
+
+                        {/* Website Link */}
+                        <a
+                            href='https://www.dsebastien.net'
+                            target='_blank'
+                            rel='noopener noreferrer'
+                            className='bg-primary/10 hover:bg-primary/20 flex items-center gap-2 rounded-lg px-3 py-2 transition-colors sm:px-4'
+                        >
+                            <img
+                                src='https://www.dsebastien.net/assets/images/developassion-logo.png?v=227ae60558'
+                                alt='DeveloPassion'
+                                className='h-5 w-5 rounded-full object-contain'
+                            />
+                            <span className='hidden sm:inline'>Website</span>
+                        </a>
+                    </div>
                 </div>
             </nav>
         </header>

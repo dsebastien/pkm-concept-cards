@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import { FaHeart, FaBrain } from 'react-icons/fa'
+import { FaHeart, FaBrain, FaDice } from 'react-icons/fa'
 import resourcesData from '@/data/resources.json'
 import socialsData from '@/data/socials.json'
 import ConceptIcon from '@/components/concepts/concept-icon'
@@ -22,6 +22,13 @@ const Footer: React.FC = () => {
                         <p className='text-primary/70 text-sm'>
                             A curated collection of concepts, methods, and principles.
                         </p>
+                        <Link
+                            to='/random'
+                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
+                        >
+                            <FaDice className='h-4 w-4' />
+                            Random Concept
+                        </Link>
                     </div>
 
                     {/* Resources */}

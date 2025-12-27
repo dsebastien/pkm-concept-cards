@@ -93,7 +93,9 @@ import {
     FaMagic,
     FaInbox,
     FaBullseye,
-    FaCalendarDay
+    FaCalendarDay,
+    FaCheckCircle,
+    FaCircleNotch
 } from 'react-icons/fa'
 import { SiObsidian, SiSubstack, SiBluesky } from 'react-icons/si'
 import { FaXTwitter, FaThreads } from 'react-icons/fa6'
@@ -194,6 +196,8 @@ const iconMap: Record<string, IconType> = {
     FaInbox,
     FaBullseye,
     FaCalendarDay,
+    FaCheckCircle,
+    FaCircleNotch,
     SiObsidian,
     SiSubstack,
     SiBluesky,
@@ -297,6 +301,8 @@ const iconColors: Record<string, string> = {
     FaInbox: 'text-blue-400',
     FaBullseye: 'text-red-400',
     FaCalendarDay: 'text-teal-400',
+    FaCheckCircle: 'text-green-400',
+    FaCircleNotch: 'text-orange-400',
     SiObsidian: 'text-purple-400',
     SiSubstack: 'text-orange-400',
     SiBluesky: 'text-sky-400',
