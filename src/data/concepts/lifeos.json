@@ -2,7 +2,7 @@
     "id": "lifeos",
     "name": "LifeOS",
     "summary": "A command center for managing all aspects of your life.",
-    "explanation": "LifeOS (Life Operating System) is a concept of using your PKM system as a comprehensive command center for managing all aspects of life - goals, projects, plans, tasks, priorities, health, relationships, finances, and more. It combines strategic (long-term vision) and tactical (daily actions) perspectives. A LifeOS provides focus, tracking, and accountability. It's about seeing your knowledge base not just as an archive but as an active tool for living intentionally and achieving your goals.",
+    "explanation": "A LifeOS (Life Operating System) is an operating system for your life - a system designed to help you live a *better* life. What 'better' means is up to you: more productive, more organized, more impactful, more in service of others, more relaxed - it can be anything you want.\n\nThe goal of a LifeOS is to help you manage, organize, and optimize all aspects of your life with systematic approaches and efficiency. It's a framework that integrates various approaches, methodologies, tools, practices, activities, and workflows into a cohesive whole.\n\n**What a LifeOS Encompasses:**\n\nA LifeOS covers everything from how you want your life to look in 10 years to what you want to do next week, how you organize your files, manage your finances, and more.\n\n**Key Sub-Systems:**\n\n1. **Clarity System**: Goals, priorities, time horizons, life mission\n2. **Information Management**: Knowledge management, journaling, file organization\n3. **Productivity System**: Time management, attention/focus management, task execution\n\n**Critical Principles:**\n\n- **Sustainability over efficiency**: A LifeOS emphasizes building sustainable systems. It's about optimizing happiness and fulfillment, not pure efficiency (which is unsustainable and detrimental to health).\n\n- **Not relying on willpower or motivation alone**: A sustainable LifeOS must work even when motivation is low.\n\n- **Agility**: Your LifeOS needs to adapt to you and your evolution. The system should evolve along with you, based on your needs, goals, and circumstances.\n\n- **Intentional living**: A LifeOS creates clarity, reduces mental overhead, and helps you live more intentionally by aligning daily actions with long-term values and objectives.\n\nA LifeOS is not about perfect organization - it's about having a trusted system that supports everything you do.",
     "tags": ["life-management", "organization", "productivity", "systems"],
     "category": "Systems",
     "icon": "FaDesktop",
@@ -16,10 +16,14 @@
         "pkms",
         "ppv",
         "personal-system",
-        "personal-organization-roadmap"
+        "personal-organization-roadmap",
+        "systems-thinking",
+        "continuous-improvement",
+        "why-personal-organization"
     ],
     "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Life+Operating+System+(LOS)"
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Life+Operating+System+(LOS)",
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/LifeOS"
     ],
     "articles": [],
     "references": [

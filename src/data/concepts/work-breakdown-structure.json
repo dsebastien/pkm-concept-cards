@@ -2,13 +2,20 @@
     "id": "work-breakdown-structure",
     "name": "Work Breakdown Structure (WBS)",
     "summary": "A hierarchical decomposition of a project into smaller, manageable components.",
-    "explanation": "A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of project work. Starting from the final deliverable, you break down work into progressively smaller chunks until each is clearly definable, estimable, and assignable. This reveals hidden complexity, prevents overlooked tasks, and enables realistic planning. In personal knowledge work, WBS thinking helps tackle large projects by decomposing them into atomic, actionable tasks. It transforms overwhelming projects into clear action steps.",
-    "tags": ["project-management", "planning", "productivity"],
+    "explanation": "A Work Breakdown Structure (WBS) is a list of high-level tasks to execute in order to complete a specific project. It's a hierarchical decomposition that breaks down a project into progressively smaller pieces, making complex work approachable and manageable.\n\n**Why WBS Matters:**\n\nBreaking work down serves multiple purposes:\n\n1. **Makes work approachable**: Large projects feel overwhelming. A WBS transforms an intimidating goal into a series of manageable steps.\n\n2. **Reduces procrastination**: When tasks are granular enough, starting becomes easier. There's less resistance to beginning small, concrete actions.\n\n3. **Improves estimation**: Smaller tasks are easier to estimate accurately than large, vague objectives.\n\n4. **Enables progress tracking**: With clearly defined milestones and deliverables, you can see and celebrate progress.\n\n5. **Clarifies scope**: A WBS forces you to think through what needs to be done, revealing hidden work and dependencies.\n\n**How to Create a WBS:**\n\n1. Start with the final deliverable or goal\n2. Decompose it into major phases or components\n3. Break each component into smaller tasks\n4. Continue until tasks are small enough to estimate and execute (typically 1-8 hours of work)\n5. Ensure each task is specific and actionable\n\n**Key Principles:**\n\n- **Set the bar lower**: Tasks should be granular enough that you can start without hesitation\n- **The value of smaller goals**: Each completed task creates momentum and motivation\n- **100% rule**: The WBS should capture 100% of the work required - nothing more, nothing less\n\nA WBS bridges the gap between high-level goals and daily actions, making it an essential tool for personal organization and project management.",
+    "tags": ["project-management", "planning", "productivity", "task-management", "organization"],
     "category": "Methods",
     "icon": "FaSitemap",
     "featured": false,
     "aliases": ["WBS", "Project decomposition"],
-    "relatedConcepts": ["atomic-tasks", "gtd", "goal-setting"],
+    "relatedConcepts": [
+        "atomic-tasks",
+        "gtd",
+        "goal-setting",
+        "smart-goals",
+        "divide-and-conquer",
+        "kanban"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Work+Breakdown+Structure+(WBS)"
     ],
