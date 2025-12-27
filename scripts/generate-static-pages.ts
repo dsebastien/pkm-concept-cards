@@ -85,8 +85,15 @@ const authorSchema = {
     'sameAs': [
         'https://www.linkedin.com/in/sebastiend/',
         'https://bsky.app/profile/dsebastien.net',
+        'https://pkm.social/@dsebastien',
         'https://github.com/dsebastien',
+        'https://dsebastien.medium.com/',
+        'https://dev.to/dsebastien',
         'https://www.youtube.com/@dsebastien',
+        'https://www.twitch.tv/dsebastien',
+        'https://stackoverflow.com/users/226630/dsebastien',
+        'https://dsebastien.hashnode.dev/',
+        'https://www.reddit.com/user/lechtitseb/',
         'https://x.com/dSebastien'
     ]
 }
