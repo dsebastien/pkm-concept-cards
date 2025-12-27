@@ -1,0 +1,29 @@
+{
+    "id": "supervised-learning",
+    "name": "Supervised Learning",
+    "summary": "A machine learning approach where models are trained on labeled data with known correct outputs.",
+    "explanation": "Supervised Learning is a type of machine learning where algorithms learn from labeled training data. The 'supervision' comes from having both input data and the corresponding correct outputs (labels), allowing the algorithm to learn the mapping between them.\n\nHow It Works:\n\n1. Training Data: A dataset with input-output pairs where the correct answer is known\n2. Learning: The algorithm finds patterns that map inputs to outputs\n3. Validation: The model is tested on held-out data to measure accuracy\n4. Prediction: The trained model predicts outputs for new, unseen inputs\n\nTwo Main Types:\n\n1. Classification: Predicting discrete categories\n   - Email spam detection (spam/not spam)\n   - Image recognition (cat/dog/bird)\n   - Medical diagnosis (disease/healthy)\n\n2. Regression: Predicting continuous values\n   - House price prediction\n   - Stock price forecasting\n   - Temperature prediction\n\nCommon Algorithms:\n\n- Linear Regression\n- Logistic Regression\n- Decision Trees\n- Random Forests\n- Support Vector Machines (SVM)\n- Neural Networks\n- k-Nearest Neighbors\n\nAdvantages:\n- Clear objective function to optimize\n- Performance is measurable and comparable\n- Well-understood theoretical foundations\n\nLimitations:\n- Requires labeled data, which can be expensive to obtain\n- May overfit to training data\n- Labels may contain human bias or errors\n\nSupervised learning powers many real-world applications from fraud detection to recommendation systems.",
+    "tags": [
+        "ai",
+        "machine-learning",
+        "data-science",
+        "artificial-intelligence",
+        "classification",
+        "regression"
+    ],
+    "category": "Techniques",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": ["Supervised Machine Learning"],
+    "relatedConcepts": ["deep-learning", "unsupervised-learning"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Supervised learning - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Supervised_learning",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

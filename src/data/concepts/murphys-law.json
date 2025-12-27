@@ -1,0 +1,24 @@
+{
+    "id": "murphys-law",
+    "name": "Murphy's Law",
+    "summary": "Anything that can go wrong will go wrong.",
+    "explanation": "Murphy's Law is a popular adage that states: 'Anything that can go wrong will go wrong.' The principle is commonly attributed to aerospace engineer Edward A. Murphy Jr., who allegedly coined it in 1949 during rocket sled experiments at Edwards Air Force Base. When a technician wired strain gauges incorrectly, causing equipment failure, Murphy reportedly blamed human error and articulated this pessimistic principle.\n\nDespite its seemingly fatalistic tone, Murphy's Law serves as a powerful tool for proactive risk management and defensive design. Rather than promoting pessimism, it encourages anticipating potential failure points and designing systems, processes, and plans with built-in safeguards. Engineers and project managers use it to justify thorough testing, redundancy, and fail-safe mechanisms.\n\nIn practice, Murphy's Law reminds us to: plan for contingencies, build buffer time into schedules, have backup systems ready, test thoroughly before deployment, and never assume things will go perfectly. It complements other planning principles like Hofstadter's Law (underestimating time) and the Planning Fallacy (optimism bias in project estimates).\n\nThe law has spawned many corollaries and variations, including 'If there's more than one way to do a job and one of those ways will result in disaster, then someone will do it that way' and the more optimistic 'Anything that can go right, will go right.'",
+    "tags": ["principles", "laws", "risk-management", "planning", "engineering"],
+    "category": "Principles",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": ["Sod's Law", "Finagle's Law", "Murphy's Principle"],
+    "relatedConcepts": ["hofstadter-law", "parkinson-law", "planning-fallacy"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Murphy's+Law"
+    ],
+    "articles": [
+        {
+            "title": "Murphy's law - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Murphy%27s_law",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

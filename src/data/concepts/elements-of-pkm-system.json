@@ -1,0 +1,22 @@
+{
+    "id": "elements-of-pkm-system",
+    "name": "Elements of a PKM System",
+    "summary": "The core components and processes that make up an effective personal knowledge management system.",
+    "explanation": "A Personal Knowledge Management (PKM) system consists of several interconnected elements that work together to capture, organize, develop, and retrieve knowledge effectively.\n\nCore Elements:\n\n1. Capture System\n   - Quick capture tools (mobile apps, browser extensions)\n   - Inbox for unprocessed items\n   - Integration with various sources (web, email, conversations)\n   - Low-friction capture methods\n\n2. Organization Structure\n   - Folder hierarchy or flat structure\n   - Tagging system for cross-referencing\n   - Naming conventions\n   - PARA, Johnny Decimal, or custom frameworks\n\n3. Processing Workflow\n   - Regular review and triage\n   - Progressive summarization\n   - Connection to existing knowledge\n   - Conversion to permanent notes\n\n4. Knowledge Development\n   - Note-making (not just note-taking)\n   - Linking related concepts\n   - Spaced repetition for retention\n   - Synthesis and creation\n\n5. Retrieval Mechanisms\n   - Search functionality\n   - Backlinks and graph views\n   - Maps of Content (MoCs)\n   - Contextual discovery\n\n6. Output/Expression\n   - Writing and publishing\n   - Teaching and sharing\n   - Project execution\n   - Decision support\n\nSupporting Elements:\n\n- Tools and applications (Obsidian, Notion, Roam, etc.)\n- Habits and routines (daily notes, weekly reviews)\n- Principles and philosophies (atomic notes, evergreen notes)\n- Backup and sync systems\n\nA successful PKM system balances these elements while remaining adaptable to personal needs and workflows.",
+    "tags": ["pkm", "knowledge-management", "systems", "organization", "productivity"],
+    "category": "Systems",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["PKM Components", "Knowledge Management System Elements"],
+    "relatedConcepts": ["pkm", "capture-system", "moc", "para-method"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Building a Second Brain",
+            "url": "https://www.buildingasecondbrain.com/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

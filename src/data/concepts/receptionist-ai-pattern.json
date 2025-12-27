@@ -1,0 +1,16 @@
+{
+    "id": "receptionist-ai-pattern",
+    "name": "Receptionist AI Design Pattern",
+    "summary": "An AI architecture pattern using a lightweight coordinator to route requests to specialized AI agents.",
+    "explanation": "The Receptionist AI Design Pattern is an architectural approach where a lightweight, generalist AI acts as a front-end 'receptionist' that receives all incoming requests and routes them to appropriate specialized AI agents based on the nature of the task.\n\nArchitecture:\n\n1. Receptionist Agent: A lightweight AI that:\n   - Receives and interprets incoming requests\n   - Classifies the type of task or query\n   - Routes to the appropriate specialist agent\n   - Handles simple queries directly\n   - Manages conversation flow and handoffs\n\n2. Specialist Agents: Domain-specific AI models optimized for:\n   - Specific tasks (coding, writing, analysis)\n   - Particular domains (legal, medical, technical)\n   - Certain interaction styles (formal, casual, detailed)\n\nBenefits:\n\n1. Cost Efficiency: Simple requests don't require expensive specialized models\n2. Scalability: Easy to add new specialist agents without modifying the core system\n3. Specialization: Each agent can be optimized for its specific domain\n4. Flexibility: Different specialists can use different underlying models\n5. Graceful Degradation: If a specialist is unavailable, the receptionist can provide basic assistance\n\nImplementation Considerations:\n\n- Clear routing criteria to minimize misrouting\n- Smooth handoff protocols between agents\n- Context preservation across agent transitions\n- Fallback handling for ambiguous requests\n\nThis pattern mirrors how organizations use receptionists to efficiently route visitors and calls to appropriate departments, applying that organizational wisdom to AI system design.",
+    "tags": ["ai", "design-patterns", "architecture", "multi-agent", "llm", "system-design"],
+    "category": "Techniques",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": ["Router Agent Pattern", "Dispatcher AI Pattern"],
+    "relatedConcepts": ["prompt-lazy-loading", "prompt-engineering"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

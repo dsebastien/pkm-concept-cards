@@ -1,0 +1,28 @@
+{
+    "id": "eight-golden-rules",
+    "name": "Eight Golden Rules of Interface Design",
+    "summary": "Shneiderman's foundational principles for creating effective and user-friendly interfaces.",
+    "explanation": "The Eight Golden Rules of Interface Design were developed by Ben Shneiderman, a renowned human-computer interaction researcher. First published in his 1986 book 'Designing the User Interface,' these principles remain foundational guidelines for creating usable interfaces.\n\nThe Eight Rules:\n\n1. Strive for Consistency: Use consistent patterns in terminology, layouts, colors, and actions throughout the interface. Familiar sequences of actions should be used in similar situations.\n\n2. Enable Frequent Users to Use Shortcuts: As users gain experience, they desire reduced interaction steps. Provide abbreviations, hotkeys, hidden commands, and macro facilities for power users.\n\n3. Offer Informative Feedback: For every user action, provide appropriate system feedback. Minor actions get modest responses; major actions receive more substantial acknowledgment.\n\n4. Design Dialogs to Yield Closure: Sequences of actions should be organized into groups with a beginning, middle, and end. Provide informative feedback at the completion of action groups.\n\n5. Offer Simple Error Handling: Design the system so users cannot make serious errors. If errors occur, offer simple, constructive instructions for recovery.\n\n6. Permit Easy Reversal of Actions: Allow actions to be reversible. This reduces anxiety since users know errors can be undone, encouraging exploration.\n\n7. Support Internal Locus of Control: Users should feel like they're in charge of the system, not the other way around. Avoid surprises and support user-initiated actions.\n\n8. Reduce Short-Term Memory Load: Don't overload users' memory. Keep displays simple, consolidate multiple-page displays, provide visual cues, and allow sufficient training time.\n\nThese rules complement modern UX principles and remain highly relevant in contemporary interface design.",
+    "tags": ["ui-design", "ux", "principles", "interface-design", "usability", "hci"],
+    "category": "Principles",
+    "icon": "FaDesktop",
+    "featured": false,
+    "aliases": ["Shneiderman's Rules", "Golden Rules of Interface Design", "Eight Golden Rules"],
+    "relatedConcepts": ["cognitive-load"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Shneiderman's Eight Golden Rules of Interface Design",
+            "url": "https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Designing the User Interface: Strategies for Effective Human-Computer Interaction",
+            "url": "https://www.pearson.com/en-us/subject-catalog/p/designing-the-user-interface-strategies-for-effective-human-computer-interaction/P200000003287",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

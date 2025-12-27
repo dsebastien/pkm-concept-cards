@@ -1,0 +1,16 @@
+{
+    "id": "prompt-lazy-loading",
+    "name": "Prompt Lazy Loading",
+    "summary": "An AI design pattern that defers loading detailed prompt instructions until they are actually needed.",
+    "explanation": "Prompt Lazy Loading (PLL) is a design pattern in AI system architecture that borrows the concept of lazy loading from software engineering. Instead of front-loading all possible instructions and context into an initial prompt, this pattern defers loading specific prompt components until they become necessary for the current task.\n\nHow It Works:\n\n1. Initial Prompt: Start with a minimal base prompt containing only essential context\n2. Trigger Detection: Monitor for conditions that indicate need for additional instructions\n3. Dynamic Loading: Inject relevant prompt segments when specific capabilities are required\n4. Context Management: Keep the active context focused and relevant\n\nBenefits:\n\n1. Token Efficiency: Reduces token usage by not loading unnecessary instructions\n2. Improved Focus: Keeps the AI focused on the current task without distraction\n3. Scalability: Allows for extensive capability libraries without bloating every request\n4. Flexibility: Easy to add new capabilities without modifying the base prompt\n\nImplementation Patterns:\n\n- Tool-Triggered Loading: Load specific instructions when a tool is invoked\n- Topic-Based Loading: Load domain expertise based on conversation topic\n- Skill Modules: Maintain separate skill definitions loaded on demand\n- Progressive Enhancement: Start simple, add complexity as needed\n\nThis pattern is particularly valuable for AI systems that need to handle diverse tasks while maintaining reasonable costs and response quality. It mirrors lazy loading patterns in web development where resources are loaded only when scrolled into view.",
+    "tags": ["ai", "design-patterns", "prompting", "architecture", "efficiency", "llm"],
+    "category": "Techniques",
+    "icon": "FaCode",
+    "featured": false,
+    "aliases": ["PLL", "Deferred Prompt Loading"],
+    "relatedConcepts": ["prompt-engineering", "receptionist-ai-pattern"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

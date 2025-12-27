@@ -1,0 +1,29 @@
+{
+    "id": "unsupervised-learning",
+    "name": "Unsupervised Learning",
+    "summary": "A machine learning approach where models find patterns in data without labeled examples or predefined outcomes.",
+    "explanation": "Unsupervised Learning is a type of machine learning where algorithms learn patterns from unlabeled data without being told what the correct answers should be. Instead of learning from examples with known outputs, these algorithms discover hidden structures and patterns in the data itself.\n\nHow It Works:\n\nThe algorithm receives only input data without corresponding labels. It must find meaningful structure, patterns, or groupings on its own by analyzing the inherent properties of the data.\n\nMain Types:\n\n1. Clustering: Grouping similar data points together\n   - Customer segmentation\n   - Document categorization\n   - Image compression\n   - Anomaly detection\n\n2. Dimensionality Reduction: Reducing the number of features while preserving important information\n   - Principal Component Analysis (PCA)\n   - t-SNE for visualization\n   - Feature extraction\n\n3. Association: Finding relationships between variables\n   - Market basket analysis\n   - Recommendation systems\n\nCommon Algorithms:\n\n- K-Means Clustering\n- Hierarchical Clustering\n- DBSCAN\n- Principal Component Analysis (PCA)\n- Autoencoders\n- Self-Organizing Maps\n\nAdvantages:\n- No need for expensive labeled data\n- Can discover unexpected patterns\n- Useful for exploratory data analysis\n\nLimitations:\n- Results can be hard to evaluate without ground truth\n- May find patterns that aren't meaningful\n- Requires human interpretation of results\n\nUnsupervised learning is essential for understanding complex datasets where labeling would be impractical or impossible.",
+    "tags": [
+        "ai",
+        "machine-learning",
+        "data-science",
+        "artificial-intelligence",
+        "clustering",
+        "patterns"
+    ],
+    "category": "Techniques",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": ["Unsupervised Machine Learning"],
+    "relatedConcepts": ["deep-learning", "supervised-learning"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Unsupervised learning - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Unsupervised_learning",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

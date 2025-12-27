@@ -1,0 +1,28 @@
+{
+    "id": "quixotic",
+    "name": "Quixotic",
+    "summary": "Describes idealistic but impractical pursuits, inspired by impossible dreams like Don Quixote.",
+    "explanation": "Quixotic (pronounced kwik-SOT-ik) describes something exceedingly idealistic, unrealistic, and impractical. The term is derived from the character Don Quixote from Miguel de Cervantes' novel 'Don Quixote' (1605/1615), who famously tilted at windmills believing them to be giants.\n\nMeaning and Usage:\n\nA quixotic endeavor is one that:\n- Pursues lofty, noble ideals\n- Is impractical or impossible to achieve\n- Ignores realistic constraints\n- May seem foolish to pragmatic observers\n- Often reflects romantic idealism over rationality\n\nConnotations:\n\nThe term can be used:\n- Positively: Praising someone's idealistic spirit and refusal to accept cynical reality\n- Negatively: Criticizing impractical, foolish pursuits that waste resources\n- Neutrally: Simply describing unrealistic but well-intentioned efforts\n\nExamples:\n\n- 'His quixotic campaign to reform the entire industry single-handedly'\n- 'A quixotic quest to achieve perfection in an imperfect world'\n- 'Her quixotic belief that pure kindness could change hardened criminals'\n\nRelated Concepts:\n\n- Idealism vs. pragmatism\n- Romantic heroism\n- Noble failure\n- 'Tilting at windmills' (attacking imaginary enemies)\n\nCultural Significance:\n\nDon Quixote itself explores the tension between idealism and reality, making 'quixotic' a rich term that captures both the admirable nature of high ideals and the danger of losing touch with reality. The character is both foolish and noble - and so is quixotic behavior.",
+    "tags": ["vocabulary", "literature", "idealism", "philosophy", "culture"],
+    "category": "Principles",
+    "icon": "FaBookOpen",
+    "featured": false,
+    "aliases": ["Don Quixotic"],
+    "relatedConcepts": [],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Quixotic - Merriam-Webster",
+            "url": "https://www.merriam-webster.com/dictionary/quixotic",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Don Quixote",
+            "url": "https://en.wikipedia.org/wiki/Don_Quixote",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

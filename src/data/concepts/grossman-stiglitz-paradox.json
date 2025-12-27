@@ -1,0 +1,35 @@
+{
+    "id": "grossman-stiglitz-paradox",
+    "name": "Grossman-Stiglitz Paradox",
+    "summary": "The paradox that if markets are informationally efficient, there is no incentive to gather information, which undermines that efficiency.",
+    "explanation": "The Grossman-Stiglitz Paradox, formulated by economists Sanford Grossman and Joseph Stiglitz in their 1980 paper 'On the Impossibility of Informationally Efficient Markets,' presents a fundamental challenge to the Efficient Market Hypothesis (EMH).\n\nThe paradox works as follows:\n\n1. If markets are perfectly informationally efficient, all available information is already reflected in prices\n2. If information is already reflected in prices, there is no profit to be made from gathering and analyzing information\n3. If there is no profit incentive, no one will spend resources gathering information\n4. But if no one gathers information, prices cannot reflect information, and markets cannot be efficient\n\nThis creates an inherent contradiction: markets cannot be perfectly efficient because the very act of making them efficient requires incentives that can only exist if markets are somewhat inefficient.\n\nGrossman and Stiglitz argued that for markets to function, there must be sufficient 'noise' or inefficiency to compensate information gatherers for their costs. The degree of market efficiency depends on the cost of information, the number of informed traders, and the quality of information.\n\nImplications:\n\n- Markets exist in a state of near-efficiency, not perfect efficiency\n- Active fund managers can potentially add value, but it becomes increasingly difficult as more analysts enter the market\n- Information asymmetry is a necessary feature of functioning markets, not just a bug\n\nThis paradox is foundational in understanding market microstructure and the economics of information.",
+    "tags": [
+        "economics",
+        "markets",
+        "information-theory",
+        "paradox",
+        "finance",
+        "efficient-markets"
+    ],
+    "category": "Principles",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["Information Paradox", "Grossman-Stiglitz Theorem"],
+    "relatedConcepts": [],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Grossman-Stiglitz Paradox - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Grossman-Stiglitz_paradox",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "On the Impossibility of Informationally Efficient Markets",
+            "url": "https://www.jstor.org/stable/1805228",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

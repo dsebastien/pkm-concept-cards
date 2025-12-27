@@ -1,0 +1,28 @@
+{
+    "id": "win-win-method",
+    "name": "Win-Win Method",
+    "summary": "A negotiation approach where all parties achieve mutually beneficial outcomes.",
+    "explanation": "The Win-Win Method is a negotiation and conflict resolution approach that seeks outcomes where all parties involved benefit. Rather than viewing negotiation as a zero-sum game where one party's gain is another's loss, this method focuses on expanding the pie so everyone can walk away satisfied.\n\nCore Principles:\n\n1. Focus on Interests, Not Positions: Instead of arguing over fixed positions, explore the underlying interests and needs of all parties. Often, creative solutions can satisfy everyone's core concerns.\n\n2. Separate People from Problems: Address issues without attacking individuals. Maintain respectful relationships while solving substantive conflicts.\n\n3. Generate Options for Mutual Gain: Brainstorm multiple solutions before deciding. Look for creative alternatives that might satisfy all parties better than the obvious compromises.\n\n4. Use Objective Criteria: Base agreements on fair standards, precedents, or principles rather than pressure or arbitrary decisions.\n\nBenefits:\n\n- Creates sustainable agreements (parties are more likely to honor deals they're happy with)\n- Preserves and strengthens relationships\n- Leads to more creative solutions\n- Reduces resentment and future conflicts\n- Builds trust and opens doors for future collaboration\n\nApplications:\n\n- Business negotiations and contracts\n- Workplace conflict resolution\n- Family and personal relationships\n- International diplomacy\n- Customer service situations\n\nThe approach was popularized by Roger Fisher and William Ury in their influential book 'Getting to Yes: Negotiating Agreement Without Giving In.'",
+    "tags": ["negotiation", "conflict-resolution", "communication", "collaboration", "business"],
+    "category": "Methods",
+    "icon": "FaHandshake",
+    "featured": false,
+    "aliases": ["Win-Win Negotiation", "Collaborative Negotiation", "Integrative Negotiation"],
+    "relatedConcepts": ["win-win-win-method"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Win-win game - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Win-win_game",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Getting to Yes: Negotiating Agreement Without Giving In",
+            "url": "https://www.penguinrandomhouse.com/books/324072/getting-to-yes-by-roger-fisher-and-william-ury/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "mulder-effect",
+    "name": "Mulder Effect",
+    "summary": "The tendency to believe extraordinary claims without sufficient evidence, named after the X-Files character.",
+    "explanation": "The Mulder Effect, named after FBI agent Fox Mulder from the TV series 'The X-Files,' describes the tendency to believe extraordinary claims without sufficient evidence. It's characterized by the phrase Mulder often used: 'I want to believe.'\n\nIn Information Security Context:\n\nThe term is particularly used in cybersecurity and information security to describe the dangerous tendency to:\n\n1. Accept security claims without verification\n2. Trust vendors' marketing claims about product capabilities\n3. Believe threat intelligence without proper validation\n4. Accept breach reports without investigation\n5. Trust indicators of compromise without context\n\nCharacteristics:\n\n- Confirmation bias: Seeking evidence that supports desired beliefs\n- Wishful thinking: Wanting something to be true regardless of evidence\n- Authority bias: Accepting claims because of who made them\n- Narrative seduction: Preferring compelling stories over mundane truths\n\nRisks:\n\n- Security decisions based on unverified information\n- Wasted resources chasing phantom threats\n- Missing real threats while focused on exciting false ones\n- Poor risk assessment due to emotional rather than rational analysis\n\nCountermeasures:\n\n- Demand evidence before believing claims\n- Verify information from multiple sources\n- Apply skepticism proportional to claim extraordinariness\n- Distinguish between 'wanting to believe' and 'having reason to believe'\n\nThe Mulder Effect is contrasted with the Scully Effect, named after Mulder's skeptical partner.",
+    "tags": ["psychology", "security", "critical-thinking", "cognitive-biases", "skepticism"],
+    "category": "Cognitive Biases",
+    "icon": "FaQuestion",
+    "featured": false,
+    "aliases": ["Want to Believe Bias"],
+    "relatedConcepts": ["scully-effect"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

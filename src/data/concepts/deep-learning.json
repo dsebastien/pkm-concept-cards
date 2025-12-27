@@ -1,0 +1,28 @@
+{
+    "id": "deep-learning",
+    "name": "Deep Learning",
+    "summary": "A subset of machine learning using neural networks with multiple layers to learn complex patterns from data.",
+    "explanation": "Deep Learning is a subset of machine learning that uses artificial neural networks with multiple layers (hence 'deep') to progressively extract higher-level features from raw input. These deep neural networks can learn to recognize complex patterns and make decisions with minimal human intervention.\n\nHow It Works:\n\nDeep neural networks consist of:\n\n1. Input Layer: Receives raw data (images, text, sound, etc.)\n2. Hidden Layers: Multiple intermediate layers that transform data, each learning increasingly abstract representations\n3. Output Layer: Produces the final prediction or classification\n\nEach connection between neurons has a weight that is adjusted during training through a process called backpropagation. The network learns by minimizing the difference between its predictions and the correct answers.\n\nKey Architectures:\n\n- Convolutional Neural Networks (CNNs): Specialized for image and video processing\n- Recurrent Neural Networks (RNNs): Handle sequential data like text and time series\n- Transformers: Power modern language models like GPT and BERT\n- Generative Adversarial Networks (GANs): Generate realistic synthetic data\n\nApplications:\n\n- Image and speech recognition\n- Natural language processing\n- Autonomous vehicles\n- Medical diagnosis\n- Game playing (AlphaGo)\n- Content recommendation\n\nDeep learning has driven many recent AI breakthroughs but requires large amounts of data and computational power. It often functions as a 'black box,' making it difficult to interpret how it reaches its conclusions.",
+    "tags": ["ai", "machine-learning", "neural-networks", "artificial-intelligence", "technology"],
+    "category": "Techniques",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Deep Neural Networks", "DNN"],
+    "relatedConcepts": ["supervised-learning", "unsupervised-learning"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Deep learning - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Deep_learning",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Deep Learning",
+            "url": "https://www.deeplearningbook.org/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "psychology-of-change",
+    "name": "Psychology of Change",
+    "summary": "Understanding the mental and emotional processes people go through when facing personal or organizational change.",
+    "explanation": "The Psychology of Change encompasses the mental, emotional, and behavioral processes that individuals and groups experience when confronting change. Understanding these processes is crucial for personal development, leadership, and organizational transformation.\n\nKey Models and Theories:\n\n1. Kübler-Ross Change Curve: Originally about grief, adapted for change:\n   - Shock and denial\n   - Anger and frustration\n   - Depression and confusion\n   - Experiment and decision\n   - Integration and acceptance\n\n2. Transtheoretical Model (Stages of Change):\n   - Precontemplation: Unaware of need for change\n   - Contemplation: Aware but ambivalent\n   - Preparation: Planning to change\n   - Action: Actively changing behavior\n   - Maintenance: Sustaining the change\n\n3. ADKAR Model (Prosci):\n   - Awareness of need for change\n   - Desire to participate and support\n   - Knowledge of how to change\n   - Ability to implement change\n   - Reinforcement to sustain change\n\nPsychological Factors in Change:\n\n- Loss aversion: Fear of losing current state\n- Status quo bias: Preference for current situation\n- Identity threat: Change challenging self-concept\n- Control: Need for autonomy during transition\n- Social proof: Looking to others for guidance\n\nPractical Applications:\n\n- Personal habit formation and breaking\n- Organizational change management\n- Therapy and counseling\n- Leadership and coaching\n- Product adoption strategies\n\nSuccessful change requires addressing both rational and emotional dimensions.",
+    "tags": ["psychology", "change-management", "behavior", "personal-development", "leadership"],
+    "category": "Principles",
+    "icon": "FaSyncAlt",
+    "featured": false,
+    "aliases": ["Change Psychology", "Psychology of Behavioral Change"],
+    "relatedConcepts": ["loss-aversion", "growth-mindset"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Transtheoretical model - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Transtheoretical_model",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Switch: How to Change Things When Change Is Hard",
+            "url": "https://heathbrothers.com/books/switch/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

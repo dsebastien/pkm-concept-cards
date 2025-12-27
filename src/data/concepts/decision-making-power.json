@@ -1,0 +1,16 @@
+{
+    "id": "decision-making-power",
+    "name": "Decision-Making Power",
+    "summary": "The authority and ability to make choices that affect outcomes within organizations and systems.",
+    "explanation": "Decision-Making Power refers to the authority, ability, and influence an individual or group has to make choices that determine outcomes within organizations, systems, or relationships. It encompasses both formal authority and informal influence.\n\nTypes of Decision-Making Power:\n\n1. Formal Authority: Power granted by position\n   - Hierarchical decision rights\n   - Budget authority\n   - Hiring/firing power\n   - Policy-setting authority\n\n2. Informal Influence: Power through relationships\n   - Expert power (specialized knowledge)\n   - Referent power (respect and admiration)\n   - Network power (connections)\n   - Information power (access to data)\n\nDecision Rights Frameworks:\n\n1. RACI Matrix:\n   - Responsible: Does the work\n   - Accountable: Has final decision authority\n   - Consulted: Provides input\n   - Informed: Kept updated\n\n2. Centralization vs. Decentralization:\n   - Centralized: Decisions made at top\n   - Decentralized: Decisions pushed down\n   - Hybrid: Different decisions at different levels\n\nFactors Affecting Decision-Making Power:\n\n- Organizational structure and culture\n- Expertise and track record\n- Stakeholder relationships\n- Information access\n- Resource control\n\nDistribution Considerations:\n\n- Speed vs. quality trade-offs\n- Accountability and ownership\n- Employee empowerment and motivation\n- Risk management\n- Scalability of decision processes\n\nEffective organizations clarify decision-making power to avoid bottlenecks, conflicts, and accountability gaps while ensuring appropriate oversight.",
+    "tags": ["leadership", "management", "organizations", "authority", "governance"],
+    "category": "Principles",
+    "icon": "FaGavel",
+    "featured": false,
+    "aliases": ["Decision Authority", "Decision Rights"],
+    "relatedConcepts": [],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "blind-carbon-copy",
+    "name": "Blind Carbon Copy",
+    "summary": "An email feature that sends copies to recipients without revealing their addresses to other recipients.",
+    "explanation": "Blind Carbon Copy (BCC) is an email feature that allows you to send a copy of an email to additional recipients without other recipients knowing. Unlike CC (Carbon Copy), addresses in the BCC field are hidden from all other recipients.\n\nHow It Works:\n\n- TO field: Primary recipient(s) - visible to everyone\n- CC field: Carbon copy recipients - visible to everyone\n- BCC field: Blind carbon copy recipients - hidden from everyone except the sender\n\nCommon Use Cases:\n\n1. Privacy Protection: Sending to a large group without exposing everyone's email addresses\n2. Professional Communication: Keeping stakeholders informed without making them visible to clients\n3. Legal/Compliance: Creating records of communications\n4. Mailing Lists: Preventing reply-all disasters and protecting subscriber privacy\n5. Discrete Notification: Keeping someone in the loop without the primary recipient knowing\n\nBest Practices:\n\n- Use BCC for large distribution lists to protect privacy\n- Consider ethics when BCC'ing - it can feel deceptive\n- Remember that BCC recipients can still reply-all accidentally\n- Use for documentation purposes when appropriate\n\nOrigin:\n\nThe term comes from the typewriter era when carbon paper was used to make copies of documents. A 'blind' copy was one made without the recipient of the original knowing.\n\nEthical Considerations:\n\n- BCC can be perceived as sneaky in some contexts\n- Consider transparency in professional communications\n- Company policies may govern BCC usage",
+    "tags": ["email", "communication", "privacy", "professional", "etiquette"],
+    "category": "Techniques",
+    "icon": "FaEnvelope",
+    "featured": false,
+    "aliases": ["BCC"],
+    "relatedConcepts": [],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Blind carbon copy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Blind_carbon_copy",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

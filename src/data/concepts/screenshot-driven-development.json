@@ -1,0 +1,16 @@
+{
+    "id": "screenshot-driven-development",
+    "name": "Screenshot Driven Development",
+    "summary": "A development approach using visual screenshots as specifications and documentation for UI development.",
+    "explanation": "Screenshot Driven Development (SDD) is a development methodology where screenshots, mockups, and visual artifacts serve as primary specifications and documentation for building user interfaces. Rather than lengthy written requirements, developers work from visual references.\n\nHow It Works:\n\n1. Design Phase: Create detailed screenshots/mockups of desired UI\n2. Specification: Screenshots become the authoritative source of truth\n3. Development: Developers implement to match the visual spec\n4. Validation: Compare implementation to original screenshots\n5. Iteration: Update screenshots for changes, repeat\n\nKey Practices:\n\n- Visual regression testing: Automated comparison of current state to baseline screenshots\n- Snapshot testing: Capturing and comparing component renders\n- Design system documentation: Screenshots illustrating component variants\n- Bug reports: Screenshots showing expected vs. actual behavior\n\nAdvantages:\n\n- Clarity: Visual specs reduce ambiguity\n- Faster communication: A picture is worth a thousand words\n- Cross-functional alignment: Designers and developers share same reference\n- Testing automation: Visual diffs catch unintended changes\n- Documentation: Screenshots serve as living documentation\n\nTools:\n\n- Design: Figma, Sketch, Adobe XD\n- Visual testing: Percy, Chromatic, Applitools\n- Screenshot capture: Built into browsers, testing frameworks\n- Documentation: Storybook with visual snapshots\n\nLimitations:\n\n- Static: Doesn't capture interactions well\n- Maintenance: Screenshots need updating as UI evolves\n- Accessibility: Visual focus may overlook non-visual requirements\n\nSDD works best combined with other documentation approaches.",
+    "tags": ["development", "ui-design", "testing", "methodology", "frontend", "documentation"],
+    "category": "Methods",
+    "icon": "FaCamera",
+    "featured": false,
+    "aliases": ["SDD", "Visual Driven Development"],
+    "relatedConcepts": ["atomic-design"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

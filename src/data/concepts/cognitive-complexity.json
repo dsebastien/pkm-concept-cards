@@ -1,0 +1,28 @@
+{
+    "id": "cognitive-complexity",
+    "name": "Cognitive Complexity",
+    "summary": "A measure of how difficult code is to understand, complementing cyclomatic complexity with human readability factors.",
+    "explanation": "Cognitive Complexity is a software metric developed by SonarSource that measures how difficult a piece of code is for a human to understand. Unlike cyclomatic complexity (which counts decision points), cognitive complexity considers the mental effort required to read and comprehend code.\n\nKey Principles:\n\n1. Nesting Increases Complexity: Nested structures (if inside if, loops inside loops) exponentially increase mental burden. Each level of nesting adds to the complexity score.\n\n2. Breaks in Linear Flow: Control flow interruptions like break, continue, goto, and multiple return statements add complexity.\n\n3. Shorthand Doesn't Reduce Complexity: Using ternary operators or null coalescing doesn't reduce cognitive load even if it reduces line count.\n\nScoring Rules:\n\n- Basic increment (+1) for: if, else if, else, switch, for, while, do while, catch, conditional operators\n- Nesting increment (+1) for each level of nesting\n- No increment for: method calls, sequences of statements, boolean operators within same condition\n\nBenefits Over Cyclomatic Complexity:\n\n- Better reflects actual human comprehension difficulty\n- Accounts for nesting depth\n- Recognizes that some structures are harder to understand than others\n- Produces more actionable feedback for developers\n\nApplications:\n\n- Code review guidelines\n- Technical debt assessment\n- Refactoring prioritization\n- Code quality gates in CI/CD\n\nMaintaining low cognitive complexity leads to more maintainable, readable, and bug-resistant code.",
+    "tags": ["software-development", "code-quality", "metrics", "readability", "maintainability"],
+    "category": "Techniques",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Code Cognitive Complexity"],
+    "relatedConcepts": ["cognitive-load", "dry-principle"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Cognitive Complexity - SonarSource",
+            "url": "https://www.sonarsource.com/resources/cognitive-complexity/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "Cognitive Complexity - A new way of measuring understandability",
+            "url": "https://www.sonarsource.com/docs/CognitiveComplexity.pdf",
+            "type": "paper"
+        }
+    ],
+    "tutorials": []
+}

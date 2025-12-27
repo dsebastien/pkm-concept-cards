@@ -1,0 +1,22 @@
+{
+    "id": "static-site-generation",
+    "name": "Static Site Generation",
+    "summary": "A web building approach where HTML pages are pre-generated at build time rather than on each request.",
+    "explanation": "Static Site Generation (SSG) is a web development approach where all HTML pages are generated during the build process, before deployment, rather than being created dynamically for each user request.\n\nHow It Works:\n\n1. Developer creates content and templates\n2. Build process runs at deployment\n3. All pages are generated as static HTML files\n4. Files are deployed to CDN or static hosting\n5. Users receive pre-built HTML instantly\n6. Optional: JavaScript adds interactivity (hydration)\n\nAdvantages:\n\n- Performance: Pages load extremely fast (no server processing)\n- Scalability: CDN distribution handles any traffic level\n- Security: No server-side code to exploit\n- Cost: Hosting is cheap or free (Netlify, Vercel, GitHub Pages)\n- Reliability: No database or server to fail\n- SEO: Full HTML available for crawlers\n\nDisadvantages:\n\n- Build time: Large sites can take long to build\n- Dynamic content: Not suitable for frequently changing data\n- User-specific content: Challenges with personalization\n- Preview: Content changes require rebuilding\n\nBest For:\n\n- Blogs and documentation\n- Marketing websites\n- Portfolio sites\n- Content-heavy sites with infrequent updates\n\nPopular SSG Tools:\n- Next.js, Gatsby (React)\n- Nuxt.js (Vue)\n- Hugo, Jekyll, Eleventy (Template-based)\n- Astro (Multiple frameworks)\n\nHybrid Approaches:\n- ISR (Incremental Static Regeneration): Rebuild specific pages on demand\n- SSR + SSG: Static for most, dynamic for some pages",
+    "tags": ["web-development", "rendering", "performance", "jamstack", "frontend"],
+    "category": "Techniques",
+    "icon": "FaFileCode",
+    "featured": false,
+    "aliases": ["SSG", "Static Generation"],
+    "relatedConcepts": ["server-side-rendering"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Static Site Generator - Jamstack",
+            "url": "https://jamstack.org/generators/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

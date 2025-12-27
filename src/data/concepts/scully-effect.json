@@ -1,0 +1,16 @@
+{
+    "id": "scully-effect",
+    "name": "Scully Effect",
+    "summary": "The tendency to dismiss or ignore important discoveries because they seem mundane or boring.",
+    "explanation": "The Scully Effect, named after FBI agent Dana Scully from 'The X-Files,' describes the tendency to dismiss or overlook significant findings because they appear mundane, boring, or lack the excitement of more dramatic alternatives.\n\nIn Information Security Context:\n\nIn cybersecurity, the Scully Effect manifests when security professionals:\n\n1. Overlook simple vulnerabilities while hunting for sophisticated attacks\n2. Ignore basic security hygiene findings in favor of exotic threats\n3. Dismiss routine alerts as 'boring' while missing real incidents\n4. Undervalue mundane but critical security measures\n5. Fail to investigate 'ordinary' anomalies that could indicate breaches\n\nBroader Applications:\n\n- Science: Dismissing incremental discoveries for lack of 'wow factor'\n- Medicine: Missing common diagnoses while looking for rare conditions\n- Investigation: Overlooking obvious evidence for complex theories\n- Research: Undervaluing replication studies vs. novel findings\n\nCharacteristics:\n\n- Preference for exciting narratives over mundane truths\n- Undervaluing routine but critical information\n- Boredom-driven inattention to important details\n- Cognitive bias toward novelty and drama\n\nCountermeasures:\n\n- Systematic investigation regardless of 'interest level'\n- Checklists to ensure mundane items aren't skipped\n- Recognition that most incidents have ordinary causes\n- Valuing thoroughness over excitement\n\nThe Scully Effect is the counterpart to the Mulder Effect - both represent reasoning failures, just in opposite directions.",
+    "tags": ["psychology", "security", "critical-thinking", "cognitive-biases", "attention"],
+    "category": "Cognitive Biases",
+    "icon": "FaSearch",
+    "featured": false,
+    "aliases": ["Boring Finding Bias", "Mundane Dismissal"],
+    "relatedConcepts": ["mulder-effect"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": "linus-law",
+    "name": "Linus' Law",
+    "summary": "Given enough eyeballs, all bugs are shallow.",
+    "explanation": "Linus' Law is a principle from software development that states: 'Given enough eyeballs, all bugs are shallow.' This means that with a large enough group of testers and developers reviewing code, virtually every problem will be quickly identified and fixed by someone. The law was formulated by Eric S. Raymond in his 1999 essay 'The Cathedral and the Bazaar' and named in honor of Linus Torvalds, the creator of Linux.\n\nThe principle captures a fundamental advantage of open source development: the more people who can see and test code, the more likely bugs are to be caught and fixed. Raymond contrasted this 'bazaar' style of open, collaborative development with the traditional 'cathedral' model where code is developed by a small group in isolation.\n\nMore formally, Raymond stated the law as: 'Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix will be obvious to someone.' This highlights two key aspects: the problem identification (many eyes finding bugs) and the solution discovery (someone in the crowd knows how to fix it).\n\nThe law has broader implications for knowledge work and collaboration: diverse groups reviewing and contributing to shared work tend to produce higher quality outcomes than isolated efforts. It's an argument for transparency, open collaboration, and the wisdom of crowds.",
+    "tags": [
+        "principles",
+        "software-development",
+        "open-source",
+        "collaboration",
+        "code-review",
+        "quality"
+    ],
+    "category": "Principles",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": ["Linus's Law", "Many eyes make bugs shallow"],
+    "relatedConcepts": ["boy-scout-rule", "dry-principle"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "The Cathedral and the Bazaar",
+            "url": "http://www.catb.org/~esr/writings/cathedral-bazaar/",
+            "type": "website"
+        },
+        {
+            "title": "Linus's Law - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Linus%27s_law",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+            "url": "https://www.oreilly.com/library/view/the-cathedral/0596001088/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

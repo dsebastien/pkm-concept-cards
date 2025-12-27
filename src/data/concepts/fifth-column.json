@@ -1,0 +1,22 @@
+{
+    "id": "fifth-column",
+    "name": "Fifth Column",
+    "summary": "A group of people who secretly work to undermine an organization or nation from within.",
+    "explanation": "A Fifth Column is a clandestine group or faction of people who secretly undermine a larger group - such as a nation, organization, or community - from within, usually in favor of an external enemy or competing interest.\n\nOrigin:\n\nThe term originated during the Spanish Civil War (1936-1939). Nationalist General Emilio Mola, while advancing on Madrid with four columns of troops, allegedly stated that he had a 'fifth column' of supporters already inside the city, ready to undermine the Republican defense from within.\n\nCharacteristics:\n\n- Operates secretly within the target organization\n- Maintains apparent loyalty while working against the group's interests\n- Often connected to or sympathizing with an external adversary\n- Activities can include sabotage, espionage, or propaganda\n- Members appear to be regular participants in the organization\n\nHistorical Examples:\n\n- Nazi sympathizers in occupied countries during WWII\n- Communist infiltrators during the Cold War era\n- Corporate moles providing intelligence to competitors\n\nModern Applications:\n\n- Information security: Insider threats to organizations\n- Politics: Politicians allegedly working against their country's interests\n- Business: Employees secretly working for competitors\n\nDistinctions:\n\n- Different from legitimate dissent or opposition\n- Involves deliberate deception and betrayal\n- Usually serves external interests, not just personal gain\n\nThe term has become a general idiom for any treacherous insider, though its use can sometimes be hyperbolic or politically charged.",
+    "tags": ["politics", "security", "history", "sociology", "organizations"],
+    "category": "Principles",
+    "icon": "FaUserSecret",
+    "featured": false,
+    "aliases": ["Fifth Columnist"],
+    "relatedConcepts": [],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Fifth column - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fifth_column",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

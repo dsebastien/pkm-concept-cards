@@ -1,0 +1,23 @@
+{
+    "id": "win-win-win-method",
+    "name": "Win-Win-Win Method",
+    "summary": "An extended negotiation approach that benefits not just the parties involved but also the broader community or environment.",
+    "explanation": "The Win-Win-Win Method extends the traditional win-win negotiation framework by adding a third dimension: consideration for stakeholders beyond the immediate negotiating parties. This could include society, the environment, future generations, or other affected groups.\n\nThe Three Wins:\n\n1. First Win: Benefits to Party A (your side)\n2. Second Win: Benefits to Party B (the other party)\n3. Third Win: Benefits to the broader ecosystem - society, environment, community, or other stakeholders\n\nKey Principles:\n\n1. Systems Thinking: Recognize that negotiations don't happen in isolation. Decisions ripple out to affect many beyond the negotiating table.\n\n2. Long-term Perspective: Consider not just immediate gains but lasting impacts on all stakeholders, including future generations.\n\n3. Stakeholder Awareness: Identify and consider the needs of parties not directly represented in the negotiation.\n\n4. Sustainable Solutions: Seek agreements that are not only mutually beneficial but also environmentally and socially sustainable.\n\nApplications:\n\n- Business partnerships with community impact considerations\n- Environmental negotiations balancing economic and ecological interests\n- Urban planning involving developers, residents, and public interest\n- Supply chain agreements considering worker welfare and sustainability\n- Policy decisions affecting multiple generations\n\nThis approach aligns with concepts like triple bottom line (people, planet, profit), sustainable development, and stakeholder capitalism. It represents a more holistic view of negotiation that acknowledges our interconnected world.",
+    "tags": [
+        "negotiation",
+        "sustainability",
+        "systems-thinking",
+        "stakeholders",
+        "collaboration",
+        "ethics"
+    ],
+    "category": "Methods",
+    "icon": "FaGlobeAmericas",
+    "featured": false,
+    "aliases": ["Triple Win", "Sustainable Negotiation"],
+    "relatedConcepts": ["win-win-method"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "server-side-rendering",
+    "name": "Server-Side Rendering",
+    "summary": "A web rendering approach where HTML is generated on the server for each request before being sent to the client.",
+    "explanation": "Server-Side Rendering (SSR) is a technique where web pages are rendered on the server rather than in the browser. When a user requests a page, the server generates the complete HTML, sends it to the browser, and the browser displays it immediately.\n\nHow It Works:\n\n1. User requests a page\n2. Server processes the request\n3. Server fetches necessary data\n4. Server renders HTML with data\n5. Complete HTML sent to browser\n6. Browser displays page immediately\n7. JavaScript hydrates the page for interactivity\n\nAdvantages:\n\n- Better SEO: Search engines can easily crawl fully-rendered HTML\n- Faster First Contentful Paint (FCP): Users see content faster\n- Better for slow devices: Less client-side processing required\n- Social media sharing: Meta tags are present in initial HTML\n- Accessibility: Content available without JavaScript\n\nDisadvantages:\n\n- Server load: Every request requires server processing\n- Time to Interactive (TTI): Hydration delays interactivity\n- Complexity: Requires Node.js server for many frameworks\n- Caching challenges: Dynamic content harder to cache\n\nSSR vs. Other Approaches:\n\n- CSR (Client-Side Rendering): JavaScript generates HTML in browser\n- SSG (Static Site Generation): HTML pre-generated at build time\n- ISR (Incremental Static Regeneration): Hybrid approach with periodic regeneration\n\nPopular SSR Frameworks:\n- Next.js (React)\n- Nuxt.js (Vue)\n- SvelteKit (Svelte)\n- Angular Universal",
+    "tags": ["web-development", "rendering", "performance", "seo", "frontend"],
+    "category": "Techniques",
+    "icon": "FaServer",
+    "featured": false,
+    "aliases": ["SSR"],
+    "relatedConcepts": ["static-site-generation"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Rendering on the Web - Google Developers",
+            "url": "https://web.dev/rendering-on-the-web/",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "single-file-component",
+    "name": "Single File Component",
+    "summary": "A component architecture where template, logic, and styles are co-located in a single file.",
+    "explanation": "A Single File Component (SFC) is a component development pattern where all the parts of a UI component - its template (HTML), logic (JavaScript), and styles (CSS) - are contained within a single file. This pattern is popular in modern frontend frameworks.\n\nStructure:\n\nA typical SFC contains three sections:\n\n1. Template: The HTML structure of the component\n2. Script: The JavaScript/TypeScript logic\n3. Style: The CSS/SCSS styling (often scoped)\n\nExample (Vue.js):\n```\n<template>\n  <div class=\"greeting\">{{ message }}</div>\n</template>\n\n<script>\nexport default {\n  data() {\n    return { message: 'Hello!' }\n  }\n}\n</script>\n\n<style scoped>\n.greeting { color: blue; }\n</style>\n```\n\nAdvantages:\n\n- Co-location: Related code stays together, improving maintainability\n- Self-contained: Components are portable and reusable\n- Clear boundaries: Easy to understand component scope\n- Scoped styles: CSS can be isolated to the component\n- Developer experience: Tooling can provide better support\n\nImplementations:\n\n- Vue.js: .vue files (most prominent SFC example)\n- Svelte: .svelte files\n- Angular: Component files with templateUrl and styleUrls\n- React: Though not traditional SFC, JSX + CSS-in-JS achieves similar co-location\n\nConsiderations:\n\n- Large components may become unwieldy\n- Requires build tools to process\n- Team preferences vary (some prefer separation)\n\nSFCs represent a shift from traditional separation of concerns (HTML/CSS/JS in separate files) to a component-centric approach.",
+    "tags": ["frontend", "components", "architecture", "vue", "svelte", "web-development"],
+    "category": "Techniques",
+    "icon": "FaFile",
+    "featured": false,
+    "aliases": ["SFC"],
+    "relatedConcepts": ["atomic-design"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Single-File Components - Vue.js",
+            "url": "https://vuejs.org/guide/scaling-up/sfc.html",
+            "type": "website"
+        }
+    ],
+    "references": [],
+    "tutorials": []
+}

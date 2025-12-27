@@ -1,0 +1,45 @@
+{
+    "id": "devops-manifesto",
+    "name": "DevOps Manifesto",
+    "summary": "Principles promoting collaboration between development and operations teams for faster, more reliable software delivery.",
+    "explanation": "The DevOps Manifesto represents a cultural and professional movement that emphasizes collaboration, communication, and integration between software developers and IT operations professionals. While there isn't a single official 'DevOps Manifesto' like the Agile Manifesto, the DevOps philosophy is built on several core principles:\n\nCore Principles:\n\n1. Culture of Collaboration: Breaking down silos between development, operations, and other stakeholders\n2. Automation: Automating repetitive tasks including testing, deployment, and infrastructure provisioning\n3. Continuous Integration and Delivery (CI/CD): Frequently merging code changes and deploying to production\n4. Infrastructure as Code (IaC): Managing infrastructure through version-controlled code\n5. Monitoring and Feedback: Continuous monitoring and fast feedback loops\n6. Sharing: Knowledge sharing and blameless post-mortems\n\nThe CALMS Framework often represents DevOps values:\n- Culture: People and process first\n- Automation: Eliminate manual, repetitive work\n- Lean: Focus on producing value for the end user\n- Measurement: Measure everything, show improvement\n- Sharing: Open information sharing and collaboration\n\nDevOps emerged from the convergence of agile software development practices, lean manufacturing principles, and the need to reduce the friction between 'Dev' (those who create software) and 'Ops' (those who maintain production systems). The movement was catalyzed by Patrick Debois and Andrew Shafer in 2008, leading to the first DevOpsDays conference in 2009.\n\nKey outcomes of DevOps adoption include faster time-to-market, improved deployment frequency, lower failure rates, and faster recovery from incidents.",
+    "tags": [
+        "devops",
+        "software-development",
+        "operations",
+        "automation",
+        "ci-cd",
+        "collaboration"
+    ],
+    "category": "Frameworks",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["DevOps Principles", "DevOps Culture"],
+    "relatedConcepts": ["agile-manifesto", "kaizen", "continuous-improvement", "kanban"],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "DevOps - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/DevOps",
+            "type": "website"
+        },
+        {
+            "title": "What is DevOps?",
+            "url": "https://aws.amazon.com/devops/what-is-devops/",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "The Phoenix Project",
+            "url": "https://itrevolution.com/product/the-phoenix-project/",
+            "type": "book"
+        },
+        {
+            "title": "The DevOps Handbook",
+            "url": "https://itrevolution.com/product/the-devops-handbook/",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}
