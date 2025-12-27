@@ -193,6 +193,15 @@ const HomePage: React.FC = () => {
         navigate(`/${params ? `?${params}` : ''}`)
     }, [navigate, searchParams])
 
+    const handleTagClick = useCallback(
+        (tag: string) => {
+            // Set the clicked tag as the only selected tag and navigate to home
+            setSelectedTags([tag])
+            navigate(`/?tags=${encodeURIComponent(tag)}`)
+        },
+        [navigate, setSelectedTags]
+    )
+
     // Stats
     const totalConcepts = conceptsData.concepts.length
     const featuredConcepts = conceptsData.concepts.filter((c) => c.featured).length
@@ -285,6 +294,7 @@ const HomePage: React.FC = () => {
                                 key={concept.id}
                                 concept={concept}
                                 onShowDetails={handleShowDetails}
+                                onTagClick={handleTagClick}
                                 viewMode={viewMode}
                             />
                         ))}
@@ -390,6 +400,7 @@ const HomePage: React.FC = () => {
                 isOpen={isDetailModalOpen}
                 onClose={handleCloseDetails}
                 onNavigateToConcept={handleShowDetails}
+                onTagClick={handleTagClick}
             />
 
             {/* Command Palette */}

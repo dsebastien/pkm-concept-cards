@@ -7,10 +7,16 @@ import type { Concept } from '@/types/concept'
 interface ConceptCardProps {
     concept: Concept
     onShowDetails: (concept: Concept) => void
+    onTagClick: (tag: string) => void
     viewMode: 'grid' | 'list'
 }
 
-const ConceptCard: React.FC<ConceptCardProps> = ({ concept, onShowDetails, viewMode }) => {
+const ConceptCard: React.FC<ConceptCardProps> = ({
+    concept,
+    onShowDetails,
+    onTagClick,
+    viewMode
+}) => {
     const [isHovered, setIsHovered] = useState(false)
 
     const handleCardClick = () => {
@@ -22,6 +28,11 @@ const ConceptCard: React.FC<ConceptCardProps> = ({ concept, onShowDetails, viewM
             e.preventDefault()
             onShowDetails(concept)
         }
+    }
+
+    const handleTagClick = (e: React.MouseEvent, tag: string) => {
+        e.stopPropagation()
+        onTagClick(tag)
     }
 
     if (viewMode === 'list') {
@@ -61,12 +72,13 @@ const ConceptCard: React.FC<ConceptCardProps> = ({ concept, onShowDetails, viewM
                 {/* Tags */}
                 <div className='hidden shrink-0 gap-1 md:flex'>
                     {concept.tags.slice(0, 3).map((tag) => (
-                        <span
+                        <button
                             key={tag}
-                            className='bg-primary/5 text-primary/60 rounded-full px-2 py-0.5 text-xs'
+                            onClick={(e) => handleTagClick(e, tag)}
+                            className='bg-primary/5 text-primary/60 hover:bg-primary/10 hover:text-primary/80 cursor-pointer rounded-full px-2 py-0.5 text-xs transition-colors'
                         >
                             {tag}
-                        </span>
+                        </button>
                     ))}
                 </div>
 
@@ -138,12 +150,13 @@ const ConceptCard: React.FC<ConceptCardProps> = ({ concept, onShowDetails, viewM
             {/* Tags */}
             <div className='mb-2 flex flex-wrap gap-1'>
                 {concept.tags.slice(0, 3).map((tag) => (
-                    <span
+                    <button
                         key={tag}
-                        className='bg-primary/5 text-primary/70 rounded-full px-2 py-0.5 text-xs'
+                        onClick={(e) => handleTagClick(e, tag)}
+                        className='bg-primary/5 text-primary/70 hover:bg-primary/10 hover:text-primary/90 cursor-pointer rounded-full px-2 py-0.5 text-xs transition-colors'
                     >
                         {tag}
-                    </span>
+                    </button>
                 ))}
                 {concept.tags.length > 3 && (
                     <span className='text-primary/50 px-1 py-0.5 text-xs'>

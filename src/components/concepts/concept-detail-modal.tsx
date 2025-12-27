@@ -21,6 +21,7 @@ interface ConceptDetailModalProps {
     isOpen: boolean
     onClose: () => void
     onNavigateToConcept: (concept: Concept) => void
+    onTagClick: (tag: string) => void
 }
 
 const referenceTypeIcons: Record<string, React.ReactNode> = {
@@ -69,7 +70,8 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
     allConcepts,
     isOpen,
     onClose,
-    onNavigateToConcept
+    onNavigateToConcept,
+    onTagClick
 }) => {
     const modalRef = useRef<HTMLDivElement>(null)
 
@@ -191,12 +193,13 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                         </div>
                         <div className='flex flex-wrap gap-2'>
                             {concept.tags.map((tag) => (
-                                <span
+                                <button
                                     key={tag}
-                                    className='bg-primary/5 hover:bg-primary/10 text-primary/70 rounded-full px-3 py-1.5 text-sm transition-colors'
+                                    onClick={() => onTagClick(tag)}
+                                    className='bg-primary/5 hover:bg-primary/10 text-primary/70 hover:text-primary/90 cursor-pointer rounded-full px-3 py-1.5 text-sm transition-colors'
                                 >
                                     {tag}
-                                </span>
+                                </button>
                             ))}
                         </div>
                     </div>
