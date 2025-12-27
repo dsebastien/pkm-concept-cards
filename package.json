@@ -16,7 +16,7 @@
     "scripts": {
         "add-product-links": "bun ./scripts/add-product-links.ts",
         "dev": "vite",
-        "build": "tsc && vite build && tsx scripts/generate-static-pages.ts && tsx scripts/generate-sitemap.ts",
+        "build": "tsc && vite build && tsx scripts/generate-static-pages.ts && tsx scripts/generate-sitemap.ts && tsx scripts/generate-llms-txt.ts",
         "preview": "vite preview",
         "prepare": "husky",
         "lint": "eslint . --report-unused-disable-directives --max-warnings 0",
