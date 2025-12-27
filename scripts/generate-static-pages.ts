@@ -112,6 +112,82 @@ const publisherSchema = {
 }
 
 /**
+ * Generate FAQ questions for a concept
+ */
+function generateFaqQuestions(
+    concept: Concept
+): Array<{
+    '@type': string
+    'name': string
+    'acceptedAnswer': { '@type': string; 'text': string }
+}> {
+    const questions = []
+
+    // Question 1: What is [concept]?
+    questions.push({
+        '@type': 'Question',
+        'name': `What is ${concept.name}?`,
+        'acceptedAnswer': {
+            '@type': 'Answer',
+            'text': concept.summary
+        }
+    })
+
+    // Question 2: How does [concept] work? (use first part of explanation)
+    const explanationParagraphs = concept.explanation.split('\n\n')
+    if (explanationParagraphs.length > 0) {
+        const howItWorks =
+            explanationParagraphs[0].length > 500
+                ? explanationParagraphs[0].substring(0, 497) + '...'
+                : explanationParagraphs[0]
+        questions.push({
+            '@type': 'Question',
+            'name': `How does ${concept.name} work?`,
+            'acceptedAnswer': {
+                '@type': 'Answer',
+                'text': howItWorks
+            }
+        })
+    }
+
+    // Question 3: What category does [concept] belong to?
+    questions.push({
+        '@type': 'Question',
+        'name': `What category does ${concept.name} belong to?`,
+        'acceptedAnswer': {
+            '@type': 'Answer',
+            'text': `${concept.name} belongs to the "${concept.category}" category in personal knowledge management and productivity.`
+        }
+    })
+
+    // Question 4: What are the key topics related to [concept]? (if has tags)
+    if (concept.tags.length > 0) {
+        questions.push({
+            '@type': 'Question',
+            'name': `What are the key topics related to ${concept.name}?`,
+            'acceptedAnswer': {
+                '@type': 'Answer',
+                'text': `Key topics related to ${concept.name} include: ${concept.tags.join(', ')}.`
+            }
+        })
+    }
+
+    // Question 5: What are alternative names for [concept]? (if has aliases)
+    if (concept.aliases && concept.aliases.length > 0) {
+        questions.push({
+            '@type': 'Question',
+            'name': `What are alternative names for ${concept.name}?`,
+            'acceptedAnswer': {
+                '@type': 'Answer',
+                'text': `${concept.name} is also known as: ${concept.aliases.join(', ')}.`
+            }
+        })
+    }
+
+    return questions
+}
+
+/**
  * Generate Article JSON-LD schema for a concept
  */
 function generateConceptSchema(concept: Concept): string {
@@ -123,6 +199,9 @@ function generateConceptSchema(concept: Concept): string {
         concept.explanation.length > 500
             ? concept.explanation.substring(0, 497) + '...'
             : concept.explanation
+
+    // Generate FAQ questions
+    const faqQuestions = generateFaqQuestions(concept)
 
     const schema = {
         '@context': 'https://schema.org',
@@ -154,6 +233,11 @@ function generateConceptSchema(concept: Concept): string {
                     concept.aliases.length > 0 && {
                         alternativeHeadline: concept.aliases.join(', ')
                     })
+            },
+            {
+                '@type': 'FAQPage',
+                '@id': `${conceptUrl}#faq`,
+                'mainEntity': faqQuestions
             },
             authorSchema,
             publisherSchema,
