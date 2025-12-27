@@ -12,6 +12,12 @@ import { fileURLToPath } from 'url'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const BASE_URL = 'https://concepts.dsebastien.net'
 
+interface Reference {
+    title: string
+    url: string
+    type: 'book' | 'paper' | 'website' | 'video' | 'podcast' | 'other'
+}
+
 interface Concept {
     id: string
     name: string
@@ -21,6 +27,11 @@ interface Concept {
     category: string
     aliases?: string[]
     relatedConcepts?: string[]
+    relatedNotes?: string[]
+    articles?: Reference[]
+    references?: Reference[]
+    tutorials?: Reference[]
+    featured?: boolean
 }
 
 // Load all concepts from individual files
@@ -114,9 +125,7 @@ const publisherSchema = {
 /**
  * Generate FAQ questions for a concept
  */
-function generateFaqQuestions(
-    concept: Concept
-): Array<{
+function generateFaqQuestions(concept: Concept): Array<{
     '@type': string
     'name': string
     'acceptedAnswer': { '@type': string; 'text': string }
@@ -188,11 +197,89 @@ function generateFaqQuestions(
 }
 
 /**
+ * Map reference type to Schema.org type
+ */
+function mapReferenceType(ref: Reference): string {
+    switch (ref.type) {
+        case 'book':
+            return 'Book'
+        case 'paper':
+            return 'ScholarlyArticle'
+        case 'video':
+            return 'VideoObject'
+        case 'podcast':
+            return 'PodcastEpisode'
+        case 'website':
+        case 'other':
+        default:
+            return 'WebPage'
+    }
+}
+
+/**
+ * Generate citations from references and articles
+ */
+function generateCitations(concept: Concept): Array<Record<string, unknown>> {
+    const citations: Array<Record<string, unknown>> = []
+
+    // Add references as citations
+    if (concept.references && concept.references.length > 0) {
+        concept.references.forEach((ref) => {
+            citations.push({
+                '@type': mapReferenceType(ref),
+                'name': ref.title,
+                'url': ref.url
+            })
+        })
+    }
+
+    // Add articles as citations
+    if (concept.articles && concept.articles.length > 0) {
+        concept.articles.forEach((ref) => {
+            citations.push({
+                '@type': mapReferenceType(ref),
+                'name': ref.title,
+                'url': ref.url
+            })
+        })
+    }
+
+    return citations
+}
+
+/**
+ * Generate mentions for related concepts
+ */
+function generateMentions(concept: Concept): Array<Record<string, unknown>> {
+    if (!concept.relatedConcepts || concept.relatedConcepts.length === 0) {
+        return []
+    }
+
+    return concept.relatedConcepts
+        .map((id) => {
+            const related = concepts.find((c) => c.id === id)
+            if (!related) return null
+            return {
+                '@type': 'Thing',
+                'name': related.name,
+                'url': `${BASE_URL}/concept/${id}`
+            }
+        })
+        .filter((m): m is Record<string, unknown> => m !== null)
+}
+
+/**
  * Generate Article JSON-LD schema for a concept
  */
 function generateConceptSchema(concept: Concept): string {
     const conceptUrl = `${BASE_URL}/concept/${concept.id}`
     const today = new Date().toISOString().split('T')[0]
+
+    // Calculate word count from explanation
+    const wordCount = concept.explanation.split(/\s+/).filter((w) => w.length > 0).length
+
+    // Estimate reading time (average 200 words per minute)
+    const readingTimeMinutes = Math.max(1, Math.ceil(wordCount / 200))
 
     // Truncate explanation for articleBody if too long (max ~500 chars for schema)
     const articleBody =
@@ -203,21 +290,42 @@ function generateConceptSchema(concept: Concept): string {
     // Generate FAQ questions
     const faqQuestions = generateFaqQuestions(concept)
 
+    // Generate citations from references and articles
+    const citations = generateCitations(concept)
+
+    // Generate mentions for related concepts
+    const mentions = generateMentions(concept)
+
     const schema = {
         '@context': 'https://schema.org',
         '@graph': [
             {
                 '@type': 'Article',
                 '@id': `${conceptUrl}#article`,
+                'mainEntityOfPage': {
+                    '@type': 'WebPage',
+                    '@id': conceptUrl
+                },
                 'headline': concept.name,
                 'description': concept.summary,
                 'articleBody': articleBody,
                 'url': conceptUrl,
+                'image': `${BASE_URL}/assets/images/social-card.png`,
                 'datePublished': today,
                 'dateModified': today,
                 'author': { '@id': `${BASE_URL}/#person` },
                 'publisher': { '@id': `${BASE_URL}/#organization` },
                 'keywords': concept.tags.join(', '),
+                'wordCount': wordCount,
+                'timeRequired': `PT${readingTimeMinutes}M`,
+                'articleSection': concept.category,
+                'genre': 'Educational',
+                'learningResourceType': 'concept',
+                'educationalUse': 'reference',
+                'audience': {
+                    '@type': 'Audience',
+                    'audienceType': 'Knowledge workers and productivity enthusiasts'
+                },
                 'about': {
                     '@type': 'Thing',
                     'name': concept.category
@@ -232,7 +340,9 @@ function generateConceptSchema(concept: Concept): string {
                 ...(concept.aliases &&
                     concept.aliases.length > 0 && {
                         alternativeHeadline: concept.aliases.join(', ')
-                    })
+                    }),
+                ...(citations.length > 0 && { citation: citations }),
+                ...(mentions.length > 0 && { mentions: mentions })
             },
             {
                 '@type': 'FAQPage',
