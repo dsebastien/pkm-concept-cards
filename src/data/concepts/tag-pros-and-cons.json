@@ -1,0 +1,38 @@
+{
+    "id": "tag-pros-and-cons",
+    "name": "Pros and Cons of Tags",
+    "summary": "A balanced view of tag-based organization: the benefits of flexibility and cross-categorization versus the challenges of decision fatigue and recall.",
+    "explanation": "Tags are a powerful organizational tool, but they're not inherently superior to folders or other methods. Understanding their advantages and disadvantages helps you use them effectively.\n\n**Pros of Tags:**\n\n1. **Multi-location existence**: Tags allow the same item to exist in more than one place at once without duplication. A note can be #productivity AND #writing AND #habits simultaneously.\n\n2. **Speed of application**: Faster to type and use with autofill than dragging something into the correct folder hierarchy.\n\n3. **Combinatorial retrieval**: Tags let you retrieve elements that match different combinations - find all notes that are both #project-x AND #urgent.\n\n4. **Flexibility**: Easy to add new organizational dimensions without restructuring your entire system.\n\n5. **Non-hierarchical**: Tags don't force artificial parent-child relationships that may not reflect reality.\n\n**Cons of Tags:**\n\n1. **Decision fatigue**: Everything has to be tagged. This requires tough decisions again and again whenever new items are added to the system.\n\n2. **Recall vs. Recognition**: Remembering tags requires recall, something the brain is much worse at than recognition. You need to remember every single tag you've used and exactly how they're spelled/punctuated.\n\n3. **Proliferation**: It's too easy to create tags, and thus too easy to create duplicates and end up with inconsistencies. Many terms exist for roughly the same concepts.\n\n4. **System fragility**: Any change in interests, priorities, or focus can break the system. Tags that made sense before may not fit your current mental model.\n\n5. **Stigmergy ignored**: Tags completely disregard environmental cues and force abstract categorization. You can't 'see' your tag structure the way you can see a folder hierarchy.\n\n6. **Energy economics**: The energy required to tag every note often exceeds the energy required to run multiple searches when needed.\n\n**Key Insight:**\n\nTags are no better or worse than folders, links, or MOCs. They're complementary. The best approach is usually a hybrid:\n- Use folders for stable, broad categories\n- Use tags for flexible, cross-cutting themes\n- Use links for emergent connections\n- Keep everything as simple as possible",
+    "tags": ["organization", "tags", "pkm", "information-management", "best-practices"],
+    "category": "Principles",
+    "icon": "FaTags",
+    "featured": false,
+    "aliases": [
+        "Tag Advantages Disadvantages",
+        "Benefits and Drawbacks of Tags",
+        "Tagging Trade-offs"
+    ],
+    "relatedConcepts": ["tagging", "folder-and-tag-challenges", "taxonomy", "folksonomy", "moc"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Pros+and+cons+of+tags"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Building a Second Brain by Tiago Forte",
+            "url": "https://amzn.to/3NR9kcO",
+            "type": "book"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

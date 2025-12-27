@@ -1,0 +1,40 @@
+{
+    "id": "personal-system",
+    "name": "Personal System (PS)",
+    "summary": "A comprehensive system dedicated to organizing your life and data, encompassing productivity, learning, knowledge management, and wellbeing.",
+    "explanation": "A Personal System (PS) is a holistic system dedicated to the organization of your life and data. Its goal is to help you be as stable as possible - not necessarily static, but stable both mentally and physically. It's key to productivity and wellbeing.\n\nA Personal System encompasses various aspects of life, including:\n\n- **Sleep and nutrition**: Managing rest and energy\n- **Relaxation and rest**: Recovery and mental health\n- **Meditation and mindfulness**: Mental clarity practices\n- **Gratitude**: Appreciation and positive mindset\n- **Work organization**: Structuring professional responsibilities\n- **Productivity**: Efficient task and time management\n- **Learning**: Continuous skill and knowledge development\n- **Life goals**: Clarification and tracking of objectives\n\nA Personal System aims to help you thrive and succeed while living a sane, healthy, and sustainable life. It's not just about getting more done - it's about living well while achieving your goals.\n\n**Sub-systems of a Personal System:**\n\n1. **Personal Intention System (PIS)**: Clarity about values, principles, and direction\n2. **Personal Productivity System (PPS)**: Task and time management\n3. **Personal Control System (PCS)**: Tracking and managing commitments\n4. **Personal Learning System (PLS)**: Continuous education and skill development\n5. **Personal Knowledge Management System (PKMS)**: Capturing and organizing knowledge\n6. **Personal Information Management System (PIMS)**: Managing digital assets and data\n7. **Personal Health System (PHS)**: Physical and mental wellbeing\n\nThe power of a Personal System lies in its integration. When all sub-systems work together, they create leverage and compound benefits over time.",
+    "tags": ["systems", "personal-development", "organization", "productivity", "life-design"],
+    "category": "Systems",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": ["PS", "Life System", "Personal Operating System"],
+    "relatedConcepts": [
+        "lifeos",
+        "pkms",
+        "personal-control-system",
+        "personal-learning-system",
+        "personal-information-management"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+System+(PS)"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -8,9 +8,17 @@
     "icon": "FaTags",
     "featured": false,
     "aliases": ["Keywords", "Labels", "Tags"],
-    "relatedConcepts": ["folder-structure", "metadata", "moc", "organization"],
+    "relatedConcepts": [
+        "folder-structure",
+        "metadata",
+        "moc",
+        "organization",
+        "tag-pros-and-cons",
+        "folder-and-tag-challenges"
+    ],
     "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Why+and+how+to+tag+notes+in+your+PKM"
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Why+and+how+to+tag+notes+in+your+PKM",
+        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Pros+and+cons+of+tags"
     ],
     "articles": [
         {

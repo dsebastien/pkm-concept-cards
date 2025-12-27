@@ -1,0 +1,36 @@
+{
+    "id": "environment-staging",
+    "name": "Environment Staging",
+    "summary": "Preparing your environment in advance to reduce future decisions, increase productivity, and maintain calm under pressure.",
+    "explanation": "Environment Staging is the practice of setting up your physical and digital environment beforehand to reduce the number of decisions you need to make in the future. You have control over your environment - stage it smartly to reduce cognitive load and decision fatigue.\n\nThe benefit of thinking and doing in advance is that you can stay zen when time pressure goes up. By preparing ahead, you remove friction and create conditions for success. You can also use your environment as a forcing function to get and stay productive.\n\n**Examples of Environment Staging:**\n\n**Physical Environment:**\n- Prepare your clothes the day before\n- Place things that need to leave the house next to the front door so you don't miss them\n- Prepare everything you need to start working on the next day\n- Set up your workspace before you need it\n- Keep workout clothes visible and ready\n\n**Work Environment:**\n- Prepare your work day in advance\n- Make clear plans as part of your Evening Routine\n- Define your Most Important Tasks the night before\n- Open the files and tools you'll need tomorrow\n- Clear your desk at the end of each day\n\n**Digital Environment:**\n- Organize your browser tabs for tomorrow's work\n- Queue up your task list\n- Prepare templates for recurring work\n- Set up automation for repetitive tasks\n\n**Why Environment Staging Works:**\n\n1. **Reduces Decision Fatigue**: Every decision depletes mental energy. By deciding ahead, you conserve willpower for important choices.\n\n2. **Eliminates Friction**: When everything is ready, starting becomes effortless.\n\n3. **Prevents Forgetting**: Visual cues remind you of what needs to happen.\n\n4. **Creates Momentum**: A prepared environment makes it easier to begin and maintain focus.\n\n5. **Maintains Calm Under Pressure**: When deadlines loom, having things prepared reduces stress.\n\nEnvironment Staging complements Environment Design but focuses specifically on the preparatory aspect - getting ready for future activities rather than just shaping ongoing behavior.",
+    "tags": ["productivity", "organization", "environment", "decision-making", "preparation"],
+    "category": "Techniques",
+    "icon": "FaClipboardCheck",
+    "featured": false,
+    "aliases": ["Environmental Preparation", "Advance Staging", "Prepping Your Environment"],
+    "relatedConcepts": [
+        "environment-design",
+        "evening-routine",
+        "morning-routine",
+        "decision-fatigue",
+        "forcing-function",
+        "periodic-reviews"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Stage+your+environment+beforehand+to+reduce+the+number+of+decisions+you+need+to+make+in+the+future"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Atomic Habits by James Clear",
+            "url": "https://amzn.to/3VKgLmu",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

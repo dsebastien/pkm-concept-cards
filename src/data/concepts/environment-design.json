@@ -8,8 +8,17 @@
     "icon": "FaHome",
     "featured": false,
     "aliases": ["Choice Architecture", "Behavior Design", "Context Design"],
-    "relatedConcepts": ["pre-commitment", "habits", "forcing-function", "deep-work", "focus"],
-    "relatedNotes": [],
+    "relatedConcepts": [
+        "pre-commitment",
+        "habits",
+        "forcing-function",
+        "deep-work",
+        "focus",
+        "environment-staging"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Bring+order+to+your+environment"
+    ],
     "articles": [
         {
             "title": "Environment Design - James Clear",

@@ -1,0 +1,39 @@
+{
+    "id": "avoid-complex-folder-structures",
+    "name": "Avoid Complex Folder Structures",
+    "summary": "Deep and complex folder hierarchies create more problems than they solve - keep your folder structure simple and lean.",
+    "explanation": "Complex folder structures seem logical when designed but become problematic in practice. Deep hierarchies with many nested levels create friction, slow down both filing and retrieval, and often collapse under their own weight.\n\n**Why Deep Folder Structures Fail:**\n\n1. **Filing friction**: Every new item requires navigating through multiple levels, making the decision of 'where does this go?' increasingly difficult.\n\n2. **Retrieval friction**: Finding items means clicking through many folders, often guessing which path you took when you originally filed it.\n\n3. **Cognitive load**: Maintaining a mental map of complex hierarchies consumes mental energy better spent elsewhere.\n\n4. **Paralysis by analysis**: More folders mean more choices, leading to decision fatigue and procrastination.\n\n5. **Inconsistency**: Over time, similar items end up in different places because the 'right' location isn't obvious.\n\n6. **Maintenance burden**: Complex structures require constant pruning, reorganizing, and remembering where everything lives.\n\n**The LIFT Principle Solution:**\n\nInstead of complex folder structures, follow the LIFT principle:\n- **L**ocatable: Can you find it when you need it?\n- **I**dentifiable: Can you tell what it is at a glance?\n- **F**lat: Keep structure as shallow as possible\n- **T**rackable: Can you maintain it over time?\n\n**Practical Guidelines:**\n\n- Aim for a maximum of 2-3 levels of nesting\n- If you have more than 7-10 folders at any level, consider consolidating\n- Use search as your primary retrieval method, folders as backup\n- Complement folders with tags for cross-cutting categorization\n- Favor broad categories over specific ones\n- When in doubt, keep it simpler\n\n**Remember:**\n\nIf your folder structure is so complex that you need documentation to use it, it's too complex. The best organizational system is one you'll actually use, and simplicity encourages use.",
+    "tags": ["organization", "folders", "simplicity", "pkm", "information-management"],
+    "category": "Principles",
+    "icon": "FaFolderMinus",
+    "featured": false,
+    "aliases": ["Simple Folder Structure", "Flat Folder Hierarchy", "Shallow Organization"],
+    "relatedConcepts": [
+        "lift-principle",
+        "kiss-principle",
+        "folder-and-tag-challenges",
+        "information-architecture"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Avoid+complex+folder+structures"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

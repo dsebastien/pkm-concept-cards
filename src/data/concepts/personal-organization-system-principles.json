@@ -1,0 +1,44 @@
+{
+    "id": "personal-organization-system-principles",
+    "name": "Key Principles of a Good Personal Organization System",
+    "summary": "Five essential principles for building an effective personal organization system: safety, holism, integration, simplicity, and agility.",
+    "explanation": "A solid personal organization system creates leverage and can propel you forward. As the saying goes, 'A great artist with a bad system can be beaten by a mediocre artist with a good one.' There are five key principles to create a good Personal Organization System.\n\n**1. It Should Feel Safe to Use**\nYour system needs to be reliable. You need to be able to trust it. It should simplify your life, allow you to forget more, and let you focus on important work. With a good system, your information should be safe, available, and secure. When you trust your system, you can offload cognitive burden and free your mind.\n\n**2. It Should Be Holistic**\nEverything should be in your system, whether you use a single app or multiple tools, analog, digital, or a mix of both. You have to think about the system as a whole. For the whole to be reliable, the whole should be solid.\n\nYour system doesn't need to be perfect - nothing is. It just needs to be useful, efficient, effortless, maintainable, and hassle-free. It should not be a source of stress. It needs to free your mind and save you time, effort, and energy.\n\n**3. It Should Be Fully Integrated in Your Life**\nYour system should be present and assist you at all times. No more random doom scrolling or mindless consumption. Build a system that helps you channel everything through a clearly-designed funnel. Your organization system should be integrated into your life, ideally both personally and professionally. If you build a system and don't leverage it, there's no point.\n\n**4. It Should Be Simple**\nThe structure of your system should be lean. Complexity should be seen as the enemy. It should only be introduced when there's no other way, when the benefits of adding complexity outweigh the drawbacks.\n\nThe goal of the system is to maximize your chances of success. It's not to take away your time and energy trying to create the perfect thing you'll never use. Complexity doesn't imply quality. The more complex and rigid a system is, the less emergence and serendipity there can be. Complexity hinders focus and productivity.\n\n**5. Prefer Agility Over Rigid Plans**\nMotivation comes through action. Rigid plans reduce motivation and kill creativity. Your system should be flexible enough to adapt to changing circumstances while maintaining its core structure and purpose.",
+    "tags": [
+        "personal-organization",
+        "principles",
+        "systems-thinking",
+        "best-practices",
+        "productivity"
+    ],
+    "category": "Principles",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Organization System Principles",
+        "Personal System Principles",
+        "Five Principles of Organization"
+    ],
+    "relatedConcepts": ["personal-system", "lifeos", "kiss-principle", "ssot", "pkms"],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Key+principles+of+a+good+Personal+Organization+System"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

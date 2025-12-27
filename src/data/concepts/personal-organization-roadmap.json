@@ -1,0 +1,43 @@
+{
+    "id": "personal-organization-roadmap",
+    "name": "Personal Organization Roadmap",
+    "summary": "A step-by-step guide for building your personal organization system, from basic tools to a comprehensive LifeOS.",
+    "explanation": "The Personal Organization Roadmap is a structured path for building your personal organization system progressively. Rather than trying to implement everything at once, it guides you through phases that build upon each other.\n\n**Phase 1: Start Small**\nBegin with a minimal toolkit: email (e.g., Gmail), calendar (e.g., Google Calendar), task management (e.g., Obsidian with Kanban), and knowledge management (e.g., Obsidian). Focus on building habits, not complex systems.\n\n**Phase 2: Gain Clarity**\nBefore organizing anything, know what matters most. You can't organize effectively without knowing what's important.\n- Write down your Personal Manifesto (principles, core values, needs)\n- Identify your top 3 life areas needing attention\n- List 1-3 major goals for the year\n\n**Phase 3: Add Journaling and Basic Planning**\nBuild the habit of living your days intentionally. A good day starts with clarity and predictability, not distractions and confusion.\n- Start each day with a daily note\n- Write down your 3 most important tasks\n- Highlight your Most Important Task of the Day (MITD)\n- Return to your daily note multiple times throughout the day\n\n**Phase 4: Master Your Calendar**\nYour calendar should reflect your priorities, not just react to others' demands.\n- Audit your calendar: what's happening vs. what should happen\n- Block time for important work (time blocking)\n- Schedule recurring events for periodic reviews\n\n**Phase 5: Level Up Information Management**\nStop wasting time searching and losing things.\n- Integrate the Inbox Zero principle\n- Build your Single Source of Truth\n- Set up a basic folder structure (e.g., PARA method)\n- Build your Personal Knowledge Management System\n\n**Phase 6: Build Productivity Routines**\nConsistency creates momentum.\n- Start with the Two-Minute Rule\n- Establish Morning and Evening Routines\n- Try the Pomodoro Technique\n- Advance to Time Blocking\n\n**Phase 7: Perform Periodic Reviews**\nPeriodic reviews are the engines of evolution and progress.\n- Schedule ~30 minutes weekly for review and planning\n- Ask: What worked? What didn't? What's next?\n\n**Phase 8: Expand Your System**\nGain efficiency and reduce overwhelm.\n- Improve your Knowledge Management practice\n- Define naming conventions, taxonomies, templates\n- Create checklists for recurring events\n\n**Phase 9: Focus on the Bigger Picture**\nManage outcomes and impact, not just tasks.\n- Define goals, projects, plans more precisely\n- Use the Eisenhower Matrix or MoSCoW method\n- Think about different Time Horizons\n- Use Kanban boards to visualize work\n\n**Phase 10: Build Your LifeOS**\nExpand with health management, habit tracking, and comprehensive periodic reviews.\n\n**Key reminders:**\n- Organizing yourself is a journey, not a destination\n- It's NOT about the tools\n- Embrace a bit of chaos - you need a somewhat loose system",
+    "tags": ["personal-organization", "roadmap", "productivity", "best-practices", "guidance"],
+    "category": "Frameworks",
+    "icon": "FaRoad",
+    "featured": false,
+    "aliases": ["Organization Roadmap", "Personal Organization Guide", "Organization Journey"],
+    "relatedConcepts": [
+        "lifeos",
+        "inbox-zero",
+        "para-method",
+        "time-blocking",
+        "periodic-reviews",
+        "morning-routine",
+        "evening-routine",
+        "pkms"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Personal+Organization+Roadmap"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
