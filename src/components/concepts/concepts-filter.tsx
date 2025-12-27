@@ -1,5 +1,15 @@
-import { FaSearch, FaTimes, FaTh, FaList, FaFilter, FaKeyboard } from 'react-icons/fa'
+import {
+    FaSearch,
+    FaTimes,
+    FaTh,
+    FaList,
+    FaFilter,
+    FaKeyboard,
+    FaEye,
+    FaTrash
+} from 'react-icons/fa'
 import { cn } from '@/lib/utils'
+import type { ExploredFilter } from '@/hooks/use-explored-concepts'
 
 interface ConceptsFilterProps {
     searchQuery: string
@@ -10,6 +20,10 @@ interface ConceptsFilterProps {
     onTagsChange: (tags: string[]) => void
     viewMode: 'grid' | 'list'
     onViewModeChange: (mode: 'grid' | 'list') => void
+    exploredFilter: ExploredFilter
+    onExploredFilterChange: (filter: ExploredFilter) => void
+    exploredCount: number
+    onClearExplored: () => void
     categories: string[]
     allTags: string[]
     onOpenCommandPalette: () => void
@@ -24,6 +38,10 @@ const ConceptsFilter: React.FC<ConceptsFilterProps> = ({
     onTagsChange,
     viewMode,
     onViewModeChange,
+    exploredFilter,
+    onExploredFilterChange,
+    exploredCount,
+    onClearExplored,
     categories,
     allTags,
     onOpenCommandPalette
@@ -40,10 +58,11 @@ const ConceptsFilter: React.FC<ConceptsFilterProps> = ({
         onSearchChange('')
         onCategoryChange('All')
         onTagsChange([])
+        onExploredFilterChange('all')
     }
 
     // Filters that are part of "More filters" section
-    const hasMoreFiltersActive = selectedTags.length > 0
+    const hasMoreFiltersActive = selectedTags.length > 0 || exploredFilter !== 'all'
 
     // All active filters (for clear all button)
     const hasActiveFilters = searchQuery || selectedCategory !== 'All' || hasMoreFiltersActive
@@ -144,6 +163,49 @@ const ConceptsFilter: React.FC<ConceptsFilterProps> = ({
                     )}
                 </summary>
                 <div className='border-primary/10 space-y-4 border-t p-4'>
+                    {/* Explored Filter */}
+                    <div>
+                        <div className='mb-2 flex items-center justify-between'>
+                            <h4 className='text-primary/60 flex items-center gap-2 text-sm font-medium'>
+                                <FaEye className='h-3 w-3' />
+                                Explored Status
+                                <span className='text-primary/40'>({exploredCount} explored)</span>
+                            </h4>
+                            {exploredCount > 0 && (
+                                <button
+                                    onClick={onClearExplored}
+                                    className='text-primary/40 hover:text-secondary flex items-center gap-1 text-xs transition-colors'
+                                    title='Clear exploration history'
+                                >
+                                    <FaTrash className='h-3 w-3' />
+                                    Reset
+                                </button>
+                            )}
+                        </div>
+                        <div className='flex flex-wrap gap-2'>
+                            {(
+                                [
+                                    { value: 'all', label: 'All' },
+                                    { value: 'explored', label: 'Explored' },
+                                    { value: 'not-explored', label: 'Not Explored' }
+                                ] as const
+                            ).map((option) => (
+                                <button
+                                    key={option.value}
+                                    onClick={() => onExploredFilterChange(option.value)}
+                                    className={cn(
+                                        'rounded-full px-3 py-1.5 text-sm transition-colors',
+                                        exploredFilter === option.value
+                                            ? 'bg-secondary text-white'
+                                            : 'bg-primary/5 text-primary/60 hover:bg-primary/10'
+                                    )}
+                                >
+                                    {option.label}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+
                     {/* Tags Filter */}
                     <div>
                         <h4 className='text-primary/60 mb-2 text-sm font-medium'>Tags</h4>

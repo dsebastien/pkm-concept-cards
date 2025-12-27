@@ -10,7 +10,8 @@ import {
     FaGraduationCap,
     FaStickyNote,
     FaQuoteLeft,
-    FaLink
+    FaLink,
+    FaCheckCircle
 } from 'react-icons/fa'
 import ConceptIcon from '@/components/concepts/concept-icon'
 import type { Concept, Reference } from '@/types/concept'
@@ -22,6 +23,7 @@ interface ConceptDetailModalProps {
     onClose: () => void
     onNavigateToConcept: (concept: Concept) => void
     onTagClick: (tag: string) => void
+    isExplored?: (conceptId: string) => boolean
 }
 
 const referenceTypeIcons: Record<string, React.ReactNode> = {
@@ -71,7 +73,8 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
     isOpen,
     onClose,
     onNavigateToConcept,
-    onTagClick
+    onTagClick,
+    isExplored
 }) => {
     const modalRef = useRef<HTMLDivElement>(null)
 
@@ -107,6 +110,8 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
 
     if (!isOpen || !concept) return null
 
+    const currentConceptExplored = isExplored?.(concept.id) ?? false
+
     const handleBackdropClick = (e: React.MouseEvent) => {
         if (e.target === e.currentTarget) {
             onClose()
@@ -127,14 +132,27 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                 tabIndex={-1}
             >
                 {/* Header */}
-                <div className='border-primary/10 bg-background/95 sticky top-0 z-10 flex items-start justify-between border-b p-6 backdrop-blur-md'>
+                <div
+                    className={`sticky top-0 z-10 flex items-start justify-between border-b p-6 backdrop-blur-md ${
+                        currentConceptExplored
+                            ? 'border-green-500/20 bg-green-500/5'
+                            : 'border-primary/10 bg-background/95'
+                    }`}
+                >
                     <div className='flex items-center gap-4'>
-                        <div className='bg-primary/10 flex h-16 w-16 items-center justify-center rounded-xl'>
+                        <div
+                            className={`relative flex h-16 w-16 items-center justify-center rounded-xl ${
+                                currentConceptExplored ? 'bg-green-500/20' : 'bg-primary/10'
+                            }`}
+                        >
                             <ConceptIcon
                                 icon={concept.icon}
                                 category={concept.category}
                                 size='xl'
                             />
+                            {currentConceptExplored && (
+                                <FaCheckCircle className='absolute -right-1 -bottom-1 h-5 w-5 text-green-500' />
+                            )}
                         </div>
                         <div>
                             <div className='flex items-center gap-2'>
@@ -142,6 +160,12 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                     {concept.name}
                                 </h2>
                                 {concept.featured && <FaStar className='text-secondary h-5 w-5' />}
+                                {currentConceptExplored && (
+                                    <span className='flex items-center gap-1 rounded-full bg-green-500/20 px-2 py-0.5 text-xs text-green-400'>
+                                        <FaCheckCircle className='h-2.5 w-2.5' />
+                                        Explored
+                                    </span>
+                                )}
                             </div>
                             {concept.aliases && concept.aliases.length > 0 && (
                                 <p className='text-primary/50 mt-1 text-sm italic'>
@@ -217,11 +241,16 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                         (c) => c.id === conceptId
                                     )
                                     if (!relatedConcept) return null
+                                    const explored = isExplored?.(conceptId) ?? false
                                     return (
                                         <button
                                             key={conceptId}
                                             onClick={() => onNavigateToConcept(relatedConcept)}
-                                            className='bg-secondary/10 hover:bg-secondary/20 text-secondary border-secondary/20 flex cursor-pointer items-center gap-2 rounded-full border px-3 py-1.5 text-sm transition-colors'
+                                            className={`flex cursor-pointer items-center gap-2 rounded-full border px-3 py-1.5 text-sm transition-colors ${
+                                                explored
+                                                    ? 'border-green-500/30 bg-green-500/10 text-green-400 hover:bg-green-500/20'
+                                                    : 'bg-secondary/10 hover:bg-secondary/20 text-secondary border-secondary/20'
+                                            }`}
                                         >
                                             <ConceptIcon
                                                 icon={relatedConcept.icon}
@@ -229,6 +258,9 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                                 size='sm'
                                             />
                                             {relatedConcept.name}
+                                            {explored && (
+                                                <FaCheckCircle className='h-3 w-3 text-green-500' />
+                                            )}
                                         </button>
                                     )
                                 })}

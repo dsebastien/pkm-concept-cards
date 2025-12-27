@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { FaStar, FaInfoCircle } from 'react-icons/fa'
+import { FaStar, FaInfoCircle, FaCheckCircle } from 'react-icons/fa'
 import { cn } from '@/lib/utils'
 import ConceptIcon from '@/components/concepts/concept-icon'
 import type { Concept } from '@/types/concept'
@@ -9,13 +9,15 @@ interface ConceptCardProps {
     onShowDetails: (concept: Concept) => void
     onTagClick: (tag: string) => void
     viewMode: 'grid' | 'list'
+    isExplored?: boolean
 }
 
 const ConceptCard: React.FC<ConceptCardProps> = ({
     concept,
     onShowDetails,
     onTagClick,
-    viewMode
+    viewMode,
+    isExplored = false
 }) => {
     const [isHovered, setIsHovered] = useState(false)
 
@@ -40,7 +42,8 @@ const ConceptCard: React.FC<ConceptCardProps> = ({
             <div
                 className={cn(
                     'bg-background/50 border-primary/10 hover:border-secondary/50 group relative flex cursor-pointer items-center gap-4 rounded-xl border p-4 transition-all duration-300 hover:shadow-lg hover:shadow-black/10',
-                    concept.featured && 'ring-secondary/30 ring-1'
+                    concept.featured && 'ring-secondary/30 ring-1',
+                    isExplored && 'border-green-500/20 bg-green-500/5'
                 )}
                 onClick={handleCardClick}
                 onKeyDown={handleKeyDown}
@@ -51,8 +54,18 @@ const ConceptCard: React.FC<ConceptCardProps> = ({
                 aria-label={`View details for ${concept.name}`}
             >
                 {/* Icon */}
-                <div className='bg-primary/10 group-hover:bg-primary/20 flex h-12 w-12 shrink-0 items-center justify-center rounded-lg transition-colors'>
+                <div
+                    className={cn(
+                        'relative flex h-12 w-12 shrink-0 items-center justify-center rounded-lg transition-colors',
+                        isExplored
+                            ? 'bg-green-500/20 group-hover:bg-green-500/30'
+                            : 'bg-primary/10 group-hover:bg-primary/20'
+                    )}
+                >
                     <ConceptIcon icon={concept.icon} category={concept.category} size='md' />
+                    {isExplored && (
+                        <FaCheckCircle className='absolute -right-1 -bottom-1 h-4 w-4 text-green-500' />
+                    )}
                 </div>
 
                 {/* Content */}
@@ -62,6 +75,11 @@ const ConceptCard: React.FC<ConceptCardProps> = ({
                             {concept.name}
                         </h3>
                         {concept.featured && <FaStar className='text-secondary h-3 w-3 shrink-0' />}
+                        {isExplored && (
+                            <span className='shrink-0 rounded-full bg-green-500/20 px-2 py-0.5 text-xs text-green-400'>
+                                Explored
+                            </span>
+                        )}
                         <span className='bg-primary/10 text-primary/60 shrink-0 rounded-full px-2 py-0.5 text-xs'>
                             {concept.category}
                         </span>
@@ -101,6 +119,7 @@ const ConceptCard: React.FC<ConceptCardProps> = ({
             className={cn(
                 'bg-background/50 border-primary/10 hover:border-secondary/50 group relative flex h-full cursor-pointer flex-col rounded-xl border p-4 transition-all duration-300 hover:shadow-lg hover:shadow-black/10',
                 concept.featured && 'ring-secondary/30 ring-1',
+                isExplored && 'border-green-500/20 bg-green-500/5',
                 isHovered && 'scale-[1.01]'
             )}
             onClick={handleCardClick}
@@ -119,14 +138,36 @@ const ConceptCard: React.FC<ConceptCardProps> = ({
                 </div>
             )}
 
+            {/* Explored badge */}
+            {isExplored && !concept.featured && (
+                <div className='absolute -top-2 -right-2 flex items-center gap-1 rounded-full bg-green-500 px-2 py-0.5 text-xs font-medium text-white shadow-md'>
+                    <FaCheckCircle className='h-2.5 w-2.5' />
+                    Explored
+                </div>
+            )}
+
             {/* Header */}
             <div className='mb-3 flex items-start justify-between'>
-                <div className='bg-primary/10 group-hover:bg-primary/20 flex h-10 w-10 items-center justify-center rounded-lg transition-colors'>
+                <div
+                    className={cn(
+                        'relative flex h-10 w-10 items-center justify-center rounded-lg transition-colors',
+                        isExplored
+                            ? 'bg-green-500/20 group-hover:bg-green-500/30'
+                            : 'bg-primary/10 group-hover:bg-primary/20'
+                    )}
+                >
                     <ConceptIcon icon={concept.icon} category={concept.category} size='md' />
                 </div>
-                <span className='bg-primary/10 text-primary/60 rounded-full px-2 py-0.5 text-xs'>
-                    {concept.category}
-                </span>
+                <div className='flex items-center gap-2'>
+                    {isExplored && concept.featured && (
+                        <span className='flex items-center gap-1 rounded-full bg-green-500/20 px-2 py-0.5 text-xs text-green-400'>
+                            <FaCheckCircle className='h-2.5 w-2.5' />
+                        </span>
+                    )}
+                    <span className='bg-primary/10 text-primary/60 rounded-full px-2 py-0.5 text-xs'>
+                        {concept.category}
+                    </span>
+                </div>
             </div>
 
             {/* Title */}

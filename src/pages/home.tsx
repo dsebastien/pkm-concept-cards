@@ -8,6 +8,7 @@ import ConceptsFilter from '@/components/concepts/concepts-filter'
 import ConceptDetailModal from '@/components/concepts/concept-detail-modal'
 import CommandPalette from '@/components/concepts/command-palette'
 import { conceptsData } from '@/data'
+import { useExploredConcepts, type ExploredFilter } from '@/hooks/use-explored-concepts'
 import type { Concept } from '@/types/concept'
 
 const HomePage: React.FC = () => {
@@ -15,9 +16,13 @@ const HomePage: React.FC = () => {
     const navigate = useNavigate()
     const [searchParams, setSearchParams] = useSearchParams()
 
+    // Explored concepts tracking
+    const { markAsExplored, isExplored, clearAllExplored, exploredCount } = useExploredConcepts()
+
     // Derive filter state from URL search params
     const searchQueryFromUrl = searchParams.get('q') || ''
     const selectedCategory = searchParams.get('category') || 'All'
+    const exploredFilter = (searchParams.get('explored') as ExploredFilter) || 'all'
     const selectedTags = useMemo(() => {
         // If we're on a /tag/:tagName route, use that tag
         if (tagName) {
@@ -112,6 +117,10 @@ const HomePage: React.FC = () => {
         (mode: 'grid' | 'list') => updateSearchParam('view', mode),
         [updateSearchParam]
     )
+    const setExploredFilter = useCallback(
+        (filter: ExploredFilter) => updateSearchParam('explored', filter === 'all' ? null : filter),
+        [updateSearchParam]
+    )
 
     // Command palette state
     const [isCommandPaletteOpen, setIsCommandPaletteOpen] = useState(false)
@@ -123,6 +132,13 @@ const HomePage: React.FC = () => {
     }, [conceptId])
 
     const isDetailModalOpen = !!selectedConcept
+
+    // Mark concept as explored when modal opens
+    useEffect(() => {
+        if (conceptId) {
+            markAsExplored(conceptId)
+        }
+    }, [conceptId, markAsExplored])
 
     // Get all unique tags from concepts
     const allTags = useMemo(() => {
@@ -161,9 +177,17 @@ const HomePage: React.FC = () => {
                 return false
             }
 
+            // Explored filter
+            if (exploredFilter === 'explored' && !isExplored(concept.id)) {
+                return false
+            }
+            if (exploredFilter === 'not-explored' && isExplored(concept.id)) {
+                return false
+            }
+
             return true
         })
-    }, [searchQuery, selectedCategory, selectedTags])
+    }, [searchQuery, selectedCategory, selectedTags, exploredFilter, isExplored])
 
     // Sort: featured first, then by name
     const sortedConcepts = useMemo(() => {
@@ -313,6 +337,10 @@ const HomePage: React.FC = () => {
                         onTagsChange={setSelectedTags}
                         viewMode={viewMode}
                         onViewModeChange={setViewMode}
+                        exploredFilter={exploredFilter}
+                        onExploredFilterChange={setExploredFilter}
+                        exploredCount={exploredCount}
+                        onClearExplored={clearAllExplored}
                         categories={conceptsData.categories}
                         allTags={allTags}
                         onOpenCommandPalette={() => setIsCommandPaletteOpen(true)}
@@ -341,6 +369,7 @@ const HomePage: React.FC = () => {
                                 onShowDetails={handleShowDetails}
                                 onTagClick={handleTagClick}
                                 viewMode={viewMode}
+                                isExplored={isExplored(concept.id)}
                             />
                         ))}
                     </div>
@@ -446,6 +475,7 @@ const HomePage: React.FC = () => {
                 onClose={handleCloseDetails}
                 onNavigateToConcept={handleShowDetails}
                 onTagClick={handleTagClick}
+                isExplored={isExplored}
             />
 
             {/* Command Palette */}
