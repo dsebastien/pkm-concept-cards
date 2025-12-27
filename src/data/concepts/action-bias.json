@@ -1,0 +1,32 @@
+{
+    "id": "action-bias",
+    "name": "Action Bias",
+    "summary": "The tendency to favor action over inaction, even when doing nothing would produce better outcomes.",
+    "explanation": "Action Bias is the human tendency to favor doing something over doing nothing, even when inaction would be the better choice. Studies of soccer goalkeepers show that they dive left or right on penalty kicks 94% of the time, though statistically they'd save more goals by staying in the center. They dive because it feels worse to fail having done nothing than to fail having tried. The bias operates across domains: investors trade too much, doctors over-prescribe, and leaders intervene when patience would serve better.\n\nThe bias stems from several sources. Evolutionarily, action often was safer than inaction in threatening situations. Socially, we're judged more harshly for failures of omission ('you didn't even try') than failures of commission ('at least you did something'). Psychologically, taking action reduces the anxiety of uncertainty - we feel like we're addressing the problem even if we're not. In organizations, action signals competence and engagement.\n\nAction bias is particularly costly in domains where patience is rewarded: investing (where trading costs compound), medicine (where many conditions resolve naturally), and strategic planning (where hasty responses to every competitive move exhaust resources). It's also harmful when action precludes learning: jumping to solutions before understanding problems, or implementing fixes before diagnosing root causes.\n\nTo counter action bias, explicitly consider 'do nothing' as an option in your decision framework. Ask: What would happen if I waited? Is my urge to act driven by the situation or my own discomfort with uncertainty? Am I acting to solve a problem or to feel like I'm solving a problem? Sometimes the most effective action is deliberate inaction.",
+    "tags": ["cognitive-bias", "decision-making", "psychology", "thinking", "productivity"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Doing something bias", "Intervention bias", "Activity bias"],
+    "relatedConcepts": ["omission-bias", "analysis-paralysis", "bias-for-action", "patience"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Action Bias Among Elite Soccer Goalkeepers - Bar-Eli et al.",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167487006000717",
+            "type": "paper"
+        },
+        {
+            "title": "The Art of Thinking Clearly by Rolf Dobelli",
+            "url": "https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693",
+            "type": "book"
+        },
+        {
+            "title": "Action Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Action_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

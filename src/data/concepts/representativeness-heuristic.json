@@ -1,0 +1,37 @@
+{
+    "id": "representativeness-heuristic",
+    "name": "Representativeness Heuristic",
+    "summary": "Judging probability by similarity to prototypes rather than by actual statistical likelihood.",
+    "explanation": "The Representativeness Heuristic, identified by Kahneman and Tversky, is the tendency to judge probability by how well something matches our mental prototype of a category, rather than by actual base rates. If someone is described as 'quiet, meticulous, and loves books,' we tend to guess they're a librarian because these traits match our librarian stereotype - ignoring that there are far more accountants, teachers, or other professionals who also fit this description.\n\nThis heuristic leads to several systematic errors. The conjunction fallacy: judging that 'Linda is a feminist bank teller' is more probable than 'Linda is a bank teller' because the specific description matches our image better, even though it's logically impossible for a subset to be more probable than its superset. Insensitivity to sample size: treating patterns in small samples as just as meaningful as in large ones. Insensitivity to base rates: ignoring the prior probability when presented with vivid case details.\n\nThe heuristic exists because similarity judgments are computationally easy while probability calculations are hard. Asking 'Does this match my prototype?' is fast and automatic; asking 'What's the actual statistical probability?' requires System 2 effort. In many everyday situations, similarity and probability correlate reasonably well, so the heuristic is useful. But in situations with extreme base rates or where stereotypes mislead, it produces significant errors.\n\nTo counter this bias: explicitly ask 'What's the base rate?' before considering specific case details; be suspicious when something perfectly matches a stereotype; remember that random sequences often look non-random (gambler's fallacy variant); and consider alternative explanations for patterns you observe. Pattern-matching is a powerful tool but needs statistical grounding.",
+    "tags": ["cognitive-bias", "decision-making", "psychology", "thinking", "statistics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Similarity heuristic", "Prototype matching", "Pattern matching bias"],
+    "relatedConcepts": [
+        "base-rate-neglect",
+        "availability-heuristic",
+        "confirmation-bias",
+        "clustering-illusion"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        },
+        {
+            "title": "Judgment Under Uncertainty - Kahneman, Tversky & Slovic",
+            "url": "https://www.amazon.com/Judgment-under-Uncertainty-Heuristics-Biases/dp/0521284147",
+            "type": "book"
+        },
+        {
+            "title": "Representativeness Heuristic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Representativeness_heuristic",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

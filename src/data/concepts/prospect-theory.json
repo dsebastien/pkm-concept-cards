@@ -1,0 +1,38 @@
+{
+    "id": "prospect-theory",
+    "name": "Prospect Theory",
+    "summary": "A behavioral economics framework showing that people value gains and losses asymmetrically, with losses hurting more than equivalent gains please.",
+    "explanation": "Prospect Theory, developed by Daniel Kahneman and Amos Tversky (earning Kahneman a Nobel Prize), describes how people actually make decisions under risk - which differs significantly from classical expected utility theory. The theory's core insight is that the pain of losing $100 is psychologically about twice as intense as the pleasure of gaining $100. This loss aversion fundamentally shapes human behavior.\n\nThe theory has several key components. First, people evaluate outcomes as gains or losses relative to a reference point (usually the status quo), not as final states. Second, the value function is concave for gains (diminishing sensitivity) and convex for losses, making people risk-averse for gains but risk-seeking for losses. Third, people overweight small probabilities and underweight moderate to high ones, explaining why we both buy lottery tickets and insurance.\n\nProspect Theory explains many observed behaviors that classical economics couldn't: why people hold losing stocks too long while selling winners too quickly, why the framing of identical choices produces different decisions, why we take risks to avoid losses we wouldn't take to achieve equivalent gains, and why negotiators anchor on their current position even when it's no longer relevant.\n\nFor decision-making, understanding Prospect Theory helps you recognize when loss aversion might be distorting your judgment. Ask: Am I avoiding this decision to prevent a loss rather than because it's actually wrong? Am I taking excessive risk to try to recover from a loss? Is my reference point still relevant, or should I reset it?",
+    "tags": ["decision-making", "mental-model", "psychology", "behavioral-economics", "thinking"],
+    "category": "Frameworks",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Loss aversion theory", "Kahneman-Tversky theory", "Behavioral decision theory"],
+    "relatedConcepts": [
+        "loss-aversion",
+        "framing-effect",
+        "endowment-effect",
+        "sunk-cost-fallacy",
+        "reference-point"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        },
+        {
+            "title": "Prospect Theory: An Analysis of Decision under Risk - Kahneman & Tversky (1979)",
+            "url": "https://www.jstor.org/stable/1914185",
+            "type": "paper"
+        },
+        {
+            "title": "Prospect Theory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prospect_theory",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

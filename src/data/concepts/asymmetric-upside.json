@@ -1,0 +1,43 @@
+{
+    "id": "asymmetric-upside",
+    "name": "Asymmetric Upside",
+    "summary": "Decisions where potential gains significantly exceed potential losses, creating favorable risk-reward profiles.",
+    "explanation": "Asymmetric Upside (or positive asymmetry) describes situations where the potential gains from a decision significantly outweigh the potential losses. The best opportunities have limited, defined downside but unlimited or very large upside. Nassim Taleb calls this 'convexity' - your payoff curves up rather than down as outcomes become more extreme.\n\nThe classic example is venture capital: a VC fund expects most investments to fail, but the ones that succeed return 10x, 100x, or more. The maximum loss on any investment is 1x (total loss of principal), but the maximum gain is theoretically unlimited. This asymmetry means that even a low success rate can produce excellent overall returns. The same logic applies to trying new skills (limited downside of wasted time, unlimited upside of life-changing capability), making asks (rejection costs little, acceptance can change everything), and launching experiments (small investment, potentially large learning).\n\nIdentifying asymmetric upside opportunities requires looking beyond expected value to consider the shape of possible outcomes. A symmetrical expected value of +10 (average) could come from certain outcomes near +10, or from a 90% chance of -10 and 10% chance of +100. The latter is often preferable because it provides optionality - exposure to large positive outcomes while limiting downside.\n\nTo apply this principle: seek opportunities with capped downside and uncapped upside, avoid decisions with capped upside but uncapped downside, and structure your activities to have many small bets rather than few large ones. This is the logic behind small experiments, portfolio thinking, and the startup strategy of failing fast and cheap while pursuing potentially enormous wins.",
+    "tags": ["decision-making", "mental-model", "thinking", "risk-management", "investing"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": [
+        "Convexity",
+        "Positive asymmetry",
+        "Favorable risk-reward",
+        "Capped downside unlimited upside"
+    ],
+    "relatedConcepts": [
+        "expected-value",
+        "optionality",
+        "margin-of-safety",
+        "small-bets",
+        "black-swan"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Antifragile by Nassim Nicholas Taleb",
+            "url": "https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680",
+            "type": "book"
+        },
+        {
+            "title": "The Black Swan by Nassim Nicholas Taleb",
+            "url": "https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X",
+            "type": "book"
+        },
+        {
+            "title": "Farnam Street: Asymmetric Opportunities",
+            "url": "https://fs.blog/asymmetric-opportunities/",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

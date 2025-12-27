@@ -1,0 +1,37 @@
+{
+    "id": "choice-architecture",
+    "name": "Choice Architecture",
+    "summary": "The design of how choices are presented, which profoundly influences the decisions people make.",
+    "explanation": "Choice Architecture refers to the careful design of the context in which people make decisions. How options are framed, ordered, and presented affects what people choose - often more than the options themselves. The term was popularized by Richard Thaler and Cass Sunstein in 'Nudge,' though the underlying insights come from behavioral economics research showing that humans are sensitive to seemingly irrelevant contextual features.\n\nKey elements of choice architecture include: default options (what happens if you don't actively choose - enormously influential), option ordering (earlier options get more attention), framing (presenting the same information differently changes choices), complexity (too many options leads to worse decisions or no decision), and feedback (how people learn about consequences of choices). Each of these can be designed to help people make better decisions without restricting their freedom.\n\nExamples are everywhere. Retirement plan enrollment increases dramatically when the default is opt-in rather than opt-out. Cafeteria layouts influence food choices by placing healthier options at eye level. Organ donation rates vary hugely between countries based solely on whether the default is to be a donor. These aren't cases of limiting choice but of recognizing that how choices are presented is never neutral.\n\nFor personal decision-making, understanding choice architecture means both designing your own environment for better choices (putting healthy food in front, removing distractions, setting beneficial defaults) and recognizing when others' choice architecture is influencing you (supermarket layouts, website designs, sales techniques). You can be your own choice architect, designing contexts that make good decisions easier.",
+    "tags": ["decision-making", "mental-model", "behavioral-economics", "thinking", "design"],
+    "category": "Frameworks",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Nudge theory", "Decision environment design", "Libertarian paternalism"],
+    "relatedConcepts": [
+        "environment-design",
+        "framing-effect",
+        "bounded-rationality",
+        "pre-commitment"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Nudge by Richard Thaler and Cass Sunstein",
+            "url": "https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X",
+            "type": "book"
+        },
+        {
+            "title": "Misbehaving by Richard Thaler",
+            "url": "https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/0393352799",
+            "type": "book"
+        },
+        {
+            "title": "Choice Architecture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Choice_architecture",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

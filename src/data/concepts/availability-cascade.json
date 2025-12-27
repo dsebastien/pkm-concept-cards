@@ -1,0 +1,37 @@
+{
+    "id": "availability-cascade",
+    "name": "Availability Cascade",
+    "summary": "A self-reinforcing cycle where a belief gains credibility simply because it is repeated and widely discussed.",
+    "explanation": "An Availability Cascade is a self-reinforcing process where a collective belief gains increasing plausibility through its increasing repetition in public discourse. The more a claim is repeated, the more 'available' it becomes in memory, the more credible it seems, and the more it gets repeated - creating a feedback loop. Coined by Timur Kuran and Cass Sunstein, this concept explains how minor risks can become major public concerns while major risks are ignored.\n\nThe mechanism combines two effects. First, the availability heuristic leads people to judge probability by how easily examples come to mind - and repeated claims are more mentally available. Second, social dynamics amplify this: once an issue gains attention, media covers it more, which increases availability further, which attracts more attention, and so on. Individual reputational concerns add fuel: people hesitate to question popular beliefs for fear of seeming contrarian or uninformed.\n\nAvailability cascades explain many phenomena: why certain risks (airplane crashes, shark attacks) receive attention disproportionate to their actual danger while larger risks (car accidents, heart disease) are underweighted; how social movements can grow exponentially once they reach a tipping point; and how misinformation can become widely believed simply through repetition regardless of evidence.\n\nFor decision-making, understanding availability cascades means being skeptical of beliefs that seem obviously true primarily because everyone says so. Ask: Is this claim supported by evidence, or just frequently repeated? Is the source of my confidence data or social consensus? Cascade effects can make us very confident about things that may not be true, simply because we've heard them so often from so many sources.",
+    "tags": ["cognitive-bias", "decision-making", "psychology", "thinking", "social-dynamics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Cascade effect", "Information cascade", "Social proof cascade"],
+    "relatedConcepts": [
+        "availability-heuristic",
+        "bandwagon-effect",
+        "social-proof",
+        "confirmation-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Availability Cascades and Risk Regulation - Kuran & Sunstein",
+            "url": "https://www.jstor.org/stable/2998370",
+            "type": "paper"
+        },
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        },
+        {
+            "title": "Availability Cascade - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Availability_cascade",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,37 @@
+{
+    "id": "expected-value",
+    "name": "Expected Value",
+    "summary": "A probability-weighted average of all possible outcomes used to make rational decisions under uncertainty.",
+    "explanation": "Expected Value (EV) is a fundamental concept in decision theory that calculates the average outcome you can expect from a decision when accounting for all possible results and their probabilities. To calculate EV, you multiply each possible outcome by its probability of occurring, then sum these products. A positive expected value decision is one where, over many iterations, you would expect to come out ahead.\n\nThis framework transforms decision-making from gut feeling into quantitative analysis. Instead of asking 'Will this work?', you ask 'What's the probability-weighted payoff?' A venture investment with 10% chance of 20x return and 90% chance of total loss has an EV of 1.1x (ignoring time value), making it mathematically attractive despite the high failure rate. This explains why experienced investors and poker players focus on making +EV decisions rather than avoiding losses.\n\nHowever, expected value has important limitations. It assumes you can repeat the decision many times (the law of large numbers), which may not apply to one-time choices. It also ignores variance and ruin risk - a decision with positive EV but potential for catastrophic loss may be unwise if you can't survive the downside. Additionally, accurately estimating probabilities and outcomes is challenging, and small errors can significantly affect the calculation.\n\nIn practice, expected value thinking is best combined with other frameworks. Use it to identify mathematically favorable decisions, but also consider worst-case scenarios, your risk tolerance, and whether you can survive variance. The most powerful insight from EV thinking is separating decision quality from outcome quality - a good decision can have a bad outcome, and vice versa.",
+    "tags": ["decision-making", "mental-model", "thinking", "probability", "rationality"],
+    "category": "Frameworks",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["EV", "Mathematical expectation", "Probability-weighted outcome"],
+    "relatedConcepts": [
+        "probabilistic-thinking",
+        "margin-of-safety",
+        "outcome-bias",
+        "risk-tolerance"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking in Bets by Annie Duke",
+            "url": "https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355",
+            "type": "book"
+        },
+        {
+            "title": "Expected Value - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Expected_value",
+            "type": "website"
+        },
+        {
+            "title": "The Most Important Thing by Howard Marks",
+            "url": "https://www.amazon.com/Most-Important-Thing-Illuminated-Thoughtful/dp/0231162847",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,42 @@
+{
+    "id": "fast-and-frugal-heuristics",
+    "name": "Fast and Frugal Heuristics",
+    "summary": "Simple decision rules that use minimal information yet often outperform complex analysis in uncertain environments.",
+    "explanation": "Fast and Frugal Heuristics, developed by Gerd Gigerenzer and colleagues, are simple decision rules that use only a few pieces of information and ignore the rest. Contrary to the view that more information and computation always lead to better decisions, research shows that in many real-world environments, these simple heuristics outperform complex algorithms. The ecological rationality framework explains why: the optimal strategy depends on the environment, and uncertain, noisy environments favor simplicity.\n\nExamples abound in both nature and human expertise. Birds catching flying balls don't calculate trajectories; they use a 'gaze heuristic' - run in a direction that keeps the ball at a constant angle of gaze. Experienced doctors often use simple criteria ('Take the worst symptom first') rather than elaborate diagnostic algorithms. Emergency room triage uses simple decision trees that outperform more complex models in actual practice.\n\nWhy do simple rules work so well? Complex models fit past data better but often fail on new data (overfitting). They require accurate information that may not be available. And they assume stable relationships that may not hold. Simple heuristics are robust to missing data, estimation error, and changing conditions. In Gigerenzer's phrase, they achieve 'less is more' - deliberately ignoring some information improves accuracy.\n\nFor personal decision-making, this research suggests not always seeking more information or analysis. In uncertain environments, simple rules of thumb may serve you better than elaborate optimization. Identify the one or two factors that matter most and focus on those. Accept that the extra precision from complex analysis may be illusory in a world of fundamental uncertainty.",
+    "tags": ["decision-making", "mental-model", "thinking", "psychology", "rationality"],
+    "category": "Frameworks",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": [
+        "Simple heuristics",
+        "Gigerenzer heuristics",
+        "Ecological rationality",
+        "Less is more"
+    ],
+    "relatedConcepts": [
+        "bounded-rationality",
+        "satisficing",
+        "recognition-primed-decision",
+        "occams-razor"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Simple Heuristics That Make Us Smart by Gigerenzer & Todd",
+            "url": "https://www.amazon.com/Simple-Heuristics-That-Make-Smart/dp/0195143817",
+            "type": "book"
+        },
+        {
+            "title": "Gut Feelings by Gerd Gigerenzer",
+            "url": "https://www.amazon.com/Gut-Feelings-Intelligence-Unconscious-Gigerenzer/dp/0143113763",
+            "type": "book"
+        },
+        {
+            "title": "Heuristics in Judgment and Decision Making - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Heuristics_in_judgment_and_decision-making",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

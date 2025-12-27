@@ -1,0 +1,37 @@
+{
+    "id": "mental-contrasting",
+    "name": "Mental Contrasting",
+    "summary": "A goal-pursuit strategy that alternates between envisioning desired outcomes and confronting obstacles that stand in the way.",
+    "explanation": "Mental Contrasting, developed by psychologist Gabriele Oettingen, is an evidence-based strategy for pursuing goals that combines visualizing success with realistic obstacle analysis. Unlike pure positive thinking (which can actually decrease motivation by creating a false sense of achievement) or pure obstacle-focus (which can be demotivating), mental contrasting alternates between both - first imagining the desired future, then contrasting it with the current reality and its obstacles.\n\nThe technique works through expectation-dependent effects. When you believe the goal is attainable (high expectations), mental contrasting strengthens commitment and activates goal-directed behavior. When expectations are low, it helps you disengage from unattainable goals, freeing resources for better pursuits. Positive fantasizing alone doesn't create this discernment - people remain committed to unrealistic goals while failing to mobilize for achievable ones.\n\nOettingen's research led to the WOOP framework: Wish (identify what you want), Outcome (imagine the best outcome), Obstacle (identify the main internal obstacle), Plan (create an if-then plan for the obstacle). Studies show WOOP increases goal attainment across domains: health behaviors, academic performance, relationship skills, and professional development. The technique takes just 10-15 minutes and can be applied to goals of any size.\n\nMental Contrasting bridges the gap between goal-setting and goal-pursuit. Many goal-setting approaches focus on defining what you want and setting plans, but fail to address the psychological dynamics that determine whether you'll actually follow through. By explicitly contrasting the desired future with present obstacles, you create the mental energy and implementation intentions needed to translate wishes into actions.",
+    "tags": ["decision-making", "goal-setting", "psychology", "thinking", "behavior-change"],
+    "category": "Techniques",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["WOOP method", "Oettingen method", "Fantasy realization theory"],
+    "relatedConcepts": [
+        "implementation-intentions",
+        "pre-mortem-analysis",
+        "goal-setting",
+        "pre-commitment"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Rethinking Positive Thinking by Gabriele Oettingen",
+            "url": "https://www.amazon.com/Rethinking-Positive-Thinking-Science-Motivation/dp/1617230235",
+            "type": "book"
+        },
+        {
+            "title": "WOOP Official Website",
+            "url": "https://woopmylife.org/",
+            "type": "website"
+        },
+        {
+            "title": "Mental Contrasting - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mental_contrasting",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

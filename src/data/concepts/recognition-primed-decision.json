@@ -1,0 +1,42 @@
+{
+    "id": "recognition-primed-decision",
+    "name": "Recognition-Primed Decision",
+    "summary": "A model of how experienced professionals make rapid decisions by matching situations to patterns from their experience.",
+    "explanation": "Recognition-Primed Decision Making (RPD), developed by Gary Klein through research on firefighters and military commanders, describes how experts make good decisions quickly under pressure. Rather than analytically comparing options, experienced decision-makers recognize a situation as similar to ones they've encountered before, mentally simulate their typical response, and adapt if necessary. The first option they consider is usually workable.\n\nThis model explains why experienced professionals often can't articulate their decision process - they're not consciously weighing alternatives. When a firefighter senses a floor is about to collapse, they're drawing on thousands of hours of experience that has created intuitive pattern recognition. Similarly, experienced physicians often diagnose correctly before they can explain why, and chess grandmasters 'see' good moves without calculating variations.\n\nRPD challenges the assumption that good decisions require analytical deliberation. In time-pressured situations with experienced decision-makers, intuition outperforms analysis. However, this only works when experience is relevant to the current situation. In novel domains or when conditions have fundamentally changed, expert intuition can be dangerously misleading. The key is knowing when to trust intuition and when to slow down for analysis.\n\nFor practical application, RPD suggests investing in building genuine expertise through deliberate practice and varied experience. It also suggests that when facing decisions in your domain of expertise under time pressure, trusting your first instinct is often optimal. When outside your expertise or facing genuinely novel situations, more deliberate analysis is warranted.",
+    "tags": ["decision-making", "mental-model", "thinking", "expertise", "intuition"],
+    "category": "Frameworks",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": [
+        "RPD model",
+        "Naturalistic decision making",
+        "Expert intuition",
+        "Pattern recognition decision making"
+    ],
+    "relatedConcepts": [
+        "gut-feeling",
+        "four-stages-of-competence",
+        "deliberate-practice",
+        "two-system-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Sources of Power: How People Make Decisions by Gary Klein",
+            "url": "https://www.amazon.com/Sources-Power-People-Make-Decisions/dp/0262611465",
+            "type": "book"
+        },
+        {
+            "title": "Recognition-Primed Decision - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Recognition_primed_decision",
+            "type": "website"
+        },
+        {
+            "title": "Seeing What Others Don't by Gary Klein",
+            "url": "https://www.amazon.com/Seeing-What-Others-Dont-Remarkable/dp/1610393821",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

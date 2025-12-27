@@ -1,0 +1,32 @@
+{
+    "id": "asymmetric-information",
+    "name": "Asymmetric Information",
+    "summary": "When one party in a transaction has more or better information than the other, affecting decision quality and market function.",
+    "explanation": "Asymmetric Information occurs when one party in an economic interaction has more relevant knowledge than the other. The seller of a used car knows its true condition better than the buyer. A job candidate knows their actual abilities better than the hiring company. A borrower knows their likelihood of repayment better than the lender. This information imbalance creates fundamental problems in markets and decision-making.\n\nGeorge Akerlof's famous 'Market for Lemons' paper showed how asymmetric information can destroy markets. If buyers can't distinguish good used cars from 'lemons,' they'll only pay a price reflecting average quality. But sellers of good cars won't accept below-value prices, so they exit the market. This leaves only lemons, confirming buyers' suspicions and driving prices lower still until the market collapses. Similar dynamics affect insurance (adverse selection), hiring, and any market with quality uncertainty.\n\nTwo major problems arise from asymmetric information: adverse selection (before transactions, where bad risks are overrepresented) and moral hazard (after transactions, where parties behave differently because they bear less consequence). Solutions include signaling (credentials, warranties, reputation), screening (tests, due diligence), and institutions that align incentives or provide transparency.\n\nFor personal decision-making, understanding asymmetric information means recognizing when you're the less-informed party and investing in due diligence accordingly. It also means understanding why others might be suspicious of your claims and what signals or guarantees might address their concerns. Markets work best when information flows freely; decisions work best when you've reduced information asymmetries as much as practical.",
+    "tags": ["decision-making", "mental-model", "economics", "thinking", "markets"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Information asymmetry", "Market for lemons", "Adverse selection context"],
+    "relatedConcepts": ["skin-in-the-game", "moral-hazard", "signaling", "due-diligence"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Market for Lemons by George Akerlof (1970)",
+            "url": "https://www.jstor.org/stable/1879431",
+            "type": "paper"
+        },
+        {
+            "title": "Information Asymmetry - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Information_asymmetry",
+            "type": "website"
+        },
+        {
+            "title": "Freakonomics by Steven Levitt and Stephen Dubner",
+            "url": "https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

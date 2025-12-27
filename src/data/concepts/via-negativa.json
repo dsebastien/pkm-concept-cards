@@ -1,0 +1,32 @@
+{
+    "id": "via-negativa",
+    "name": "Via Negativa",
+    "summary": "Improvement through subtraction and elimination rather than addition - what you don't do matters as much as what you do.",
+    "explanation": "Via Negativa (Latin for 'negative way') is a mental model emphasizing that we often improve more by removing negatives than by adding positives. In theology, it describes defining God by what God is not. In practice, it means focusing on what to avoid, eliminate, or stop doing rather than what to add. Nassim Taleb has been particularly influential in applying this concept to decision-making, health, and life design.\n\nThe power of subtraction is underappreciated because our brains are wired to solve problems through addition. Studies show that when asked to improve something, people overwhelmingly suggest adding features rather than removing complications. Yet elimination is often more reliable: we know with certainty that avoiding smoking improves health, while we're less certain about which supplements help. We know removing distractions improves focus, while we're uncertain which productivity apps will work.\n\nVia Negativa applies across domains. In health, avoiding harmful behaviors (smoking, excessive sugar, sedentary lifestyle) has more certain benefits than most interventions. In investing, avoiding large losses matters more than picking winners. In relationships, avoiding destructive behaviors may matter more than grand gestures. In productivity, eliminating waste is more reliable than adding new techniques.\n\nTo apply Via Negativa, ask different questions: Instead of 'What should I add to succeed?', ask 'What should I eliminate that's causing failure?' Instead of 'What new habit should I build?', ask 'What existing habit is undermining me?' This inversion often reveals more actionable and reliable paths to improvement than the default additive approach.",
+    "tags": ["decision-making", "mental-model", "thinking", "productivity", "philosophy"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Negative way", "Subtractive improvement", "What to avoid"],
+    "relatedConcepts": ["inversion-thinking", "essentialism", "less-is-more", "anti-goals"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Antifragile by Nassim Nicholas Taleb",
+            "url": "https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680",
+            "type": "book"
+        },
+        {
+            "title": "Via Negativa - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Apophatic_theology",
+            "type": "website"
+        },
+        {
+            "title": "Essentialism by Greg McKeown",
+            "url": "https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

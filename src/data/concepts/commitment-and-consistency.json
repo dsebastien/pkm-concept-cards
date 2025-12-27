@@ -1,0 +1,32 @@
+{
+    "id": "commitment-and-consistency",
+    "name": "Commitment and Consistency",
+    "summary": "The psychological drive to align our actions and beliefs with our prior commitments and self-image.",
+    "explanation": "Commitment and Consistency, one of Robert Cialdini's six principles of influence, describes our deep psychological need to be consistent with what we've previously said or done. Once we make a choice or take a stand, we experience internal and external pressure to behave consistently with that commitment. This explains why getting someone's small initial commitment is such a powerful persuasion technique - the 'foot in the door.'\n\nThis principle operates through several mechanisms. We use our past behavior as a guide for present decisions (self-perception theory). We feel cognitive dissonance when our actions contradict our stated beliefs. Society rewards consistency and punishes perceived hypocrisy. The result is that commitments, especially public ones, become self-reinforcing. Someone who publicly commits to a goal is far more likely to follow through than someone who merely intends to.\n\nWhile consistency generally serves us well (it allows stable identity and reduces decision fatigue), it can also trap us. Sunk cost fallacy is partly driven by commitment to past decisions. Escalation of commitment causes us to double down on failing strategies. Once we've publicly stated a position, admitting we were wrong feels psychologically costly, even when changing course would be wiser.\n\nUnderstanding this principle enables both self-improvement and protection against manipulation. For positive change, make public commitments to your goals, start with small commitments that build momentum, and create identity-based habits ('I am someone who...'). For protection, recognize when past commitments might be trapping you in suboptimal paths, and practice the skill of publicly updating your views when evidence warrants it.",
+    "tags": ["decision-making", "psychology", "persuasion", "thinking", "behavior-change"],
+    "category": "Principles",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Foot in the door", "Consistency principle", "Commitment bias"],
+    "relatedConcepts": ["sunk-cost-fallacy", "pre-commitment", "habit-loop", "cognitive-fusion"],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Influence: The Psychology of Persuasion by Robert Cialdini",
+            "url": "https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X",
+            "type": "book"
+        },
+        {
+            "title": "Pre-Suasion by Robert Cialdini",
+            "url": "https://www.amazon.com/Pre-Suasion-Revolutionary-Way-Influence-Persuade/dp/1501109804",
+            "type": "book"
+        },
+        {
+            "title": "Commitment and Consistency - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Commitment_and_Consistency",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

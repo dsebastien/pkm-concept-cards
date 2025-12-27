@@ -1,0 +1,32 @@
+{
+    "id": "decision-hygiene",
+    "name": "Decision Hygiene",
+    "summary": "Systematic practices for reducing noise and bias in judgment without targeting specific errors.",
+    "explanation": "Decision Hygiene, introduced by Daniel Kahneman, Olivier Sibony, and Cass Sunstein in their book 'Noise,' refers to general-purpose practices that improve judgment quality by reducing random variability (noise) in decisions. Just as physical hygiene prevents disease without targeting specific germs, decision hygiene improves accuracy without requiring you to identify and correct specific biases.\n\nThe core insight is that noise - unwanted variability in judgments that should be consistent - is as damaging as bias but much less recognized. Different doctors give different diagnoses for the same case. Different judges give different sentences for identical crimes. Different underwriters give different quotes for the same risk. This variability represents avoidable error that degrades decision quality across organizations.\n\nKey decision hygiene practices include: making independent judgments before group discussion (to prevent anchoring on the first opinion), breaking complex judgments into independent components and assessing each separately, using structured interviews and evaluation criteria, delaying intuitive synthesis until after analytical work is complete, creating decision checklists and protocols, and conducting regular calibration exercises to improve accuracy over time.\n\nImplementing decision hygiene requires accepting that human judgment, even expert judgment, is noisier than we typically recognize. The goal isn't to eliminate human judgment but to structure decision processes that harness collective wisdom while minimizing the random error that comes from allowing each decision-maker's mood, recent experiences, and idiosyncratic perspectives to introduce variability.",
+    "tags": ["decision-making", "mental-model", "thinking", "productivity", "systems-thinking"],
+    "category": "Techniques",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["Noise reduction", "Judgment hygiene", "Decision process improvement"],
+    "relatedConcepts": [
+        "decision-journal",
+        "pre-mortem-analysis",
+        "weighted-decision-matrix",
+        "cognitive-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Noise: A Flaw in Human Judgment by Kahneman, Sibony, and Sunstein",
+            "url": "https://www.amazon.com/Noise-Human-Judgment-Daniel-Kahneman/dp/0316451401",
+            "type": "book"
+        },
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

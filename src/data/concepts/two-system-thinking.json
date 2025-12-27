@@ -1,0 +1,37 @@
+{
+    "id": "two-system-thinking",
+    "name": "Two-System Thinking",
+    "summary": "The mind operates through fast, intuitive System 1 and slow, deliberate System 2, each with distinct strengths and weaknesses.",
+    "explanation": "Two-System Thinking, central to Daniel Kahneman's work, describes how our minds use two distinct modes of processing. System 1 operates automatically, quickly, with little effort and no sense of voluntary control. It generates impressions, feelings, and intuitions. System 2 allocates attention to effortful mental activities, including complex computations. It's associated with the subjective experience of agency, choice, and concentration.\n\nSystem 1 is remarkably capable: it detects hostility in a voice, completes phrases, reads emotions on faces, and generates intuitive responses continuously. But it's also prone to systematic errors. It substitutes easier questions for hard ones (heuristics), jumps to conclusions from limited evidence, is overconfident in its intuitions, and is largely blind to its own limitations. System 2 can catch these errors, but it's lazy and often endorses System 1's suggestions without scrutiny.\n\nThe interaction between systems creates predictable patterns. When cognitive load is high, System 2 is depleted, and System 1 dominates - explaining why tired people make worse decisions. When time pressure exists, System 1 takes over. When problems feel familiar, System 1 provides quick answers that may be wrong for non-obvious reasons. Conversely, System 2 engagement can be triggered by unfamiliar formatting, surprising information, or explicit instructions to think carefully.\n\nFor better decisions, recognize when each system is appropriate. System 1 excels in expert domains where intuition is trained through experience. System 2 is essential for novel problems, statistical reasoning, and catching intuitive errors. Create conditions that engage System 2 for important decisions: slow down, write things out, seek fresh perspectives, and be especially vigilant when answers feel obvious.",
+    "tags": ["decision-making", "mental-model", "psychology", "thinking", "cognitive-science"],
+    "category": "Frameworks",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["System 1 and System 2", "Dual process theory", "Fast and slow thinking"],
+    "relatedConcepts": [
+        "recognition-primed-decision",
+        "decision-fatigue",
+        "cognitive-load",
+        "bounded-rationality"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        },
+        {
+            "title": "Dual Process Theory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dual_process_theory",
+            "type": "website"
+        },
+        {
+            "title": "Noise by Kahneman, Sibony, and Sunstein",
+            "url": "https://www.amazon.com/Noise-Human-Judgment-Daniel-Kahneman/dp/0316451401",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

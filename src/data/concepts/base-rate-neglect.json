@@ -1,0 +1,37 @@
+{
+    "id": "base-rate-neglect",
+    "name": "Base Rate Neglect",
+    "summary": "The tendency to ignore general statistical information in favor of specific case details when making judgments.",
+    "explanation": "Base Rate Neglect is a cognitive bias where people underweight or ignore prior probabilities (base rates) when presented with specific, vivid information about an individual case. When told that a quiet, bookish person either works as a librarian or salesperson, people typically guess librarian - even though salespeople vastly outnumber librarians, making salesperson statistically more likely regardless of personality traits.\n\nThis bias stems from the representativeness heuristic - we judge likelihood by how well something matches our mental prototype rather than by actual statistical frequency. A startup that 'feels' like it will succeed because the founders are passionate and the idea is exciting seems more likely to succeed than the base rate of startup failure (90%+) would suggest. Medical diagnoses suffer similarly when doctors focus on specific symptoms matching a rare disease rather than considering that common conditions are, by definition, more common.\n\nBase rate neglect has significant implications for decision-making. Investors may back ventures that match their pattern of success stories while ignoring that most investments fail. Hiring managers may favor candidates who interview impressively while ignoring base rates of job performance. To counter this bias, start with the base rate and adjust from there (Bayesian updating), rather than starting with the specific case and ignoring population statistics.\n\nThe practical corrective is simple: before making any prediction or judgment, explicitly ask 'What's the base rate here?' If 80% of restaurants fail within five years, that should heavily inform your assessment of any specific restaurant's chances, no matter how compelling the concept or impressive the chef.",
+    "tags": ["cognitive-bias", "decision-making", "psychology", "thinking", "statistics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Base rate fallacy", "Prior probability neglect", "Ignoring base rates"],
+    "relatedConcepts": [
+        "probabilistic-thinking",
+        "representativeness-heuristic",
+        "availability-heuristic",
+        "confirmation-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        },
+        {
+            "title": "Base Rate Fallacy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Base_rate_fallacy",
+            "type": "website"
+        },
+        {
+            "title": "Superforecasting by Philip Tetlock",
+            "url": "https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

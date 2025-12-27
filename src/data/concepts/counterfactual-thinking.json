@@ -1,0 +1,37 @@
+{
+    "id": "counterfactual-thinking",
+    "name": "Counterfactual Thinking",
+    "summary": "Imagining alternative scenarios and 'what might have been' to learn from past decisions and improve future ones.",
+    "explanation": "Counterfactual Thinking involves mentally simulating alternative versions of past events - asking 'What if I had done X instead?' or 'What would have happened if Y had been different?' This capacity for imagining unrealized possibilities is fundamental to learning, planning, and emotional processing. It allows us to extract lessons from experience even when outcomes were determined by factors beyond our control.\n\nThere are two main types of counterfactuals. Upward counterfactuals imagine better outcomes ('If only I had studied harder, I would have passed'). Downward counterfactuals imagine worse outcomes ('At least I wasn't hurt in the accident'). Upward counterfactuals tend to produce negative emotions but promote learning and future improvement. Downward counterfactuals produce positive emotions and gratitude but less motivation to change.\n\nIn decision-making, counterfactual thinking serves several purposes. It helps distinguish between decision quality and outcome quality - you can have a good outcome from a bad decision (luck) or a bad outcome from a good decision (also luck). By imagining how things could have gone differently, we can evaluate whether our decision process was sound regardless of the specific outcome we observed. This is essential for learning because we can't rerun reality to test alternatives.\n\nThe key is to focus counterfactuals on controllable factors rather than external circumstances. 'If only I had done more due diligence' is actionable; 'If only the market hadn't crashed' is not. Pre-mortems use prospective counterfactuals to imagine failure before it happens, enabling preventive action. Decision journals enable retrospective counterfactuals by recording reasoning at decision time for later review.",
+    "tags": ["decision-making", "mental-model", "thinking", "psychology", "learning"],
+    "category": "Techniques",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": ["What-if thinking", "Alternative scenarios", "Mental simulation"],
+    "relatedConcepts": [
+        "pre-mortem-analysis",
+        "decision-journal",
+        "outcome-bias",
+        "regret-minimization-framework"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking in Bets by Annie Duke",
+            "url": "https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355",
+            "type": "book"
+        },
+        {
+            "title": "Counterfactual Thinking - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Counterfactual_thinking",
+            "type": "website"
+        },
+        {
+            "title": "The Psychology of Counterfactual Thinking by Neal Roese",
+            "url": "https://www.amazon.com/Psychology-Counterfactual-Thinking-Neal-Roese/dp/0805816631",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}

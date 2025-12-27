@@ -1,0 +1,37 @@
+{
+    "id": "mere-exposure-effect",
+    "name": "Mere Exposure Effect",
+    "summary": "The tendency to develop preferences for things simply because we are familiar with them.",
+    "explanation": "The Mere Exposure Effect, first documented by psychologist Robert Zajonc in 1968, shows that repeated exposure to a stimulus increases our liking of it - even when we're not consciously aware of the exposure. People prefer faces, music, words, and even abstract shapes they've seen before, regardless of any inherent quality differences. Familiarity literally breeds preference.\n\nThis effect has profound implications for decision-making and preference formation. We tend to prefer job candidates who remind us of ourselves, brands we've seen advertised repeatedly, and ideas we've heard before. This can lead to poor decisions because our preferences are shaped not by quality but by prior exposure. The effect helps explain why incumbency is such an advantage in elections, why advertising works even when we think we're ignoring it, and why we gravitate toward the familiar when stressed.\n\nIn the context of rational decision-making, the mere exposure effect represents a bias to be aware of. When you prefer one option over another, ask yourself: is this because it's genuinely better, or simply because I've encountered it more often? Novel ideas and unfamiliar options may be superior but feel less comfortable simply due to lack of exposure.\n\nYou can also use this principle constructively. To develop appreciation for something new (a skill, food, music style, or perspective), simply increase your exposure to it. The initial discomfort will fade with familiarity. Similarly, understanding this effect helps explain why breaking old habits is hard - we have deep familiarity with our existing patterns that makes them feel comfortable even when they're not serving us.",
+    "tags": ["cognitive-bias", "decision-making", "psychology", "thinking"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Familiarity principle", "Exposure effect", "Zajonc effect"],
+    "relatedConcepts": [
+        "status-quo-bias",
+        "endowment-effect",
+        "in-group-bias",
+        "confirmation-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Attitudinal Effects of Mere Exposure - Robert Zajonc (1968)",
+            "url": "https://psycnet.apa.org/record/1968-12019-001",
+            "type": "paper"
+        },
+        {
+            "title": "Mere Exposure Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mere-exposure_effect",
+            "type": "website"
+        },
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
+            "type": "book"
+        }
+    ],
+    "tutorials": []
+}
