@@ -3,7 +3,7 @@
     "name": "Book Highlights Are Not Enough",
     "summary": "Passive highlighting while reading is insufficient for true learning and knowledge retention.",
     "explanation": "Highlighting text while reading creates an illusion of learning without actual comprehension or retention. Research on the 'illusion of competence' shows that simply marking passages makes us feel we've learned something, when in reality we've only identified what seems important. True learning requires active engagement: paraphrasing ideas in your own words, connecting new information to existing knowledge, questioning the material, and creating original notes. Highlights are a starting point, not an endpoint. They're useful as breadcrumbs for later processing, but without the subsequent work of transforming them into your own understanding, they remain inert text. The act of writing forces you to think, and thinking is what leads to genuine learning. This is why methods like literature notes, active reading, and progressive summarization exist - they bridge the gap between passive consumption and active knowledge creation.",
-    "tags": ["reading", "note-taking", "learning", "retention", "pitfalls"],
+    "tags": ["reading", "note-taking", "learning", "retention", "pitfalls", "knowledge-management"],
     "category": "Principles",
     "icon": "FaHighlighter",
     "featured": false,
@@ -41,6 +41,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

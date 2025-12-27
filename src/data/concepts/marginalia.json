@@ -3,7 +3,7 @@
     "name": "Marginalia",
     "summary": "Notes, comments, and marks written in the margins of books and documents.",
     "explanation": "Marginalia refers to the centuries-old practice of writing notes, comments, and annotations in the margins of books and documents. This form of active reading allows readers to engage in a dialogue with the text, capturing immediate reactions, questions, cross-references, and insights. Historical marginalia from scholars, writers, and thinkers provide valuable insights into their thought processes and intellectual history. In modern contexts, marginalia represents a form of personal annotation that bridges reading and note-taking. While digital tools now offer highlighting and commenting features, the tradition of marginalia continues in physical books, serving as a personal layer of meaning added to published works.",
-    "tags": ["annotation", "note-taking", "reading", "history"],
+    "tags": ["annotation", "note-taking", "reading", "history", "knowledge-management"],
     "category": "Techniques",
     "icon": "FaStickyNote",
     "featured": false,
@@ -30,6 +30,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

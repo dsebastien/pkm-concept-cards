@@ -3,7 +3,13 @@
     "name": "Dense Linking",
     "summary": "The practice of creating many links between notes to maximize connectivity and discoverability.",
     "explanation": "Dense linking is the practice of creating abundant links between notes to maximize connectivity in a knowledge network. Rather than linking sparingly only when connections are obvious, dense linking encourages linking generously whenever a meaningful relationship exists. This increases the surface area for discovering related ideas, makes individual notes more accessible through multiple paths, and creates a richer web of associations. The philosophy holds that it's better to over-link than under-link, as unused links have little cost while missed connections represent lost value. Critics note that too many links can create noise; practitioners balance density with meaningful connections. Dense linking works best with atomic notes where each note has a clear, linkable concept.",
-    "tags": ["note-taking", "linking", "knowledge-organization", "practices"],
+    "tags": [
+        "note-taking",
+        "linking",
+        "knowledge-organization",
+        "practices",
+        "knowledge-management"
+    ],
     "category": "Techniques",
     "icon": "FaNetworkWired",
     "featured": false,
@@ -25,6 +31,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

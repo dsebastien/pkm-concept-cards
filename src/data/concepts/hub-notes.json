@@ -3,7 +3,13 @@
     "name": "Hub Notes",
     "summary": "Central notes that connect many other notes, serving as navigation points in a knowledge network.",
     "explanation": "Hub notes are highly connected notes that serve as central navigation points in a networked note system. They emerge naturally when certain topics become densely linked or can be intentionally created to organize areas of knowledge. Hub notes differ from Maps of Content in that they develop organically based on connections rather than being explicitly designed as navigational structures. In network terms, they have high 'degree centrality' - many links pointing to and from them. Identifying hub notes reveals the most important concepts in your knowledge base and where topics intersect. Over-reliance on hubs can make a system fragile; a healthy knowledge network has multiple interconnected hubs rather than a single central point.",
-    "tags": ["knowledge-organization", "note-taking", "network-structure", "linking"],
+    "tags": [
+        "knowledge-organization",
+        "note-taking",
+        "network-structure",
+        "linking",
+        "knowledge-management"
+    ],
     "category": "Techniques",
     "icon": "FaNetworkWired",
     "featured": false,
@@ -25,6 +31,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

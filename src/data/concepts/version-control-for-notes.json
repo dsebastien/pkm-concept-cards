@@ -3,7 +3,7 @@
     "name": "Version Control for Notes",
     "summary": "Using version control systems like Git to track changes, backup, and sync personal notes.",
     "explanation": "Version control for notes applies software development practices to knowledge management, using systems like Git to track every change to notes over time. This provides a complete history of how ideas evolved, the ability to restore previous versions, branching for experimental changes, and robust backup and sync through remote repositories. For plain text notes (especially Markdown), Git works seamlessly and enables collaboration workflows. The approach requires some technical knowledge but offers benefits beyond simple backup: understanding the evolution of ideas, fearless editing (you can always revert), and powerful diff tools for seeing what changed. Tools like Obsidian Git plugin and git-based sync services make version control accessible to non-programmers.",
-    "tags": ["tools", "backup", "workflows", "technology"],
+    "tags": ["tools", "backup", "workflows", "technology", "knowledge-management"],
     "category": "Techniques",
     "icon": "FaCogs",
     "featured": false,
@@ -16,6 +16,21 @@
             "title": "Git - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Git",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
         }
     ],
     "tutorials": []

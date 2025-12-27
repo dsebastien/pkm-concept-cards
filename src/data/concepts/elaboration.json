@@ -3,7 +3,7 @@
     "name": "Elaboration",
     "summary": "Processing information deeply by connecting it to existing knowledge.",
     "explanation": "Elaboration is the learning technique of processing information deeply by connecting it to existing knowledge, explaining it in your own words, and expanding upon it with examples and applications. Rather than surface-level memorization, elaboration creates rich, meaningful connections that improve understanding and retention. This is why writing notes in your own words is more effective than copying verbatim.",
-    "tags": ["education", "learning", "memory", "techniques"],
+    "tags": ["education", "knowledge-management", "learning", "memory", "techniques"],
     "category": "Techniques",
     "icon": "FaExpandAlt",
     "featured": false,
@@ -15,6 +15,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

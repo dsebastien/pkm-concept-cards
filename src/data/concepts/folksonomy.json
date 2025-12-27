@@ -3,7 +3,13 @@
     "name": "Folksonomy",
     "summary": "A user-generated classification system using freely chosen tags rather than predefined categories.",
     "explanation": "Folksonomy is a bottom-up classification system where users freely apply tags to content rather than fitting items into predefined categories. The term combines 'folk' and 'taxonomy' and emerged from social tagging systems like del.icio.us and Flickr. Unlike formal taxonomies, folksonomies are flexible, evolve organically, and reflect how users actually think about content. However, they can suffer from inconsistency (using different tags for the same concept), ambiguity, and lack of hierarchy. In personal knowledge management, folksonomies appear as tag systems in tools like Obsidian and Notion. Effective use involves developing personal tagging conventions while remaining flexible. Many PKM practitioners combine folksonomy (flexible tags) with taxonomy (structured categories) for the benefits of both.",
-    "tags": ["knowledge-organization", "tagging", "classification", "social-systems"],
+    "tags": [
+        "knowledge-organization",
+        "tagging",
+        "classification",
+        "social-systems",
+        "knowledge-management"
+    ],
     "category": "Systems",
     "icon": "FaTags",
     "featured": false,
@@ -16,6 +22,21 @@
             "title": "Folksonomy - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Folksonomy",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
         }
     ],
     "tutorials": []

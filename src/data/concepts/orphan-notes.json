@@ -3,7 +3,13 @@
     "name": "Orphan Notes",
     "summary": "Notes that have no incoming links from other notes in the knowledge base.",
     "explanation": "Orphan notes are notes that have no incoming links from other notes in a knowledge network. They sit isolated, disconnected from the rest of the system. While not inherently bad (some notes may be self-contained reference items), a high proportion of orphans often indicates a knowledge base that isn't being actively linked and connected. Orphans are harder to rediscover since they won't surface through normal navigation. Most PKM tools can generate lists of orphan notes, making them useful for periodic maintenance: either integrate orphans by adding links, develop them further, or delete those that no longer serve a purpose. Reducing orphans increases the overall connectivity and value of a knowledge network.",
-    "tags": ["note-taking", "knowledge-organization", "maintenance", "linking"],
+    "tags": [
+        "note-taking",
+        "knowledge-organization",
+        "maintenance",
+        "linking",
+        "knowledge-management"
+    ],
     "category": "Techniques",
     "icon": "FaPuzzlePiece",
     "featured": false,
@@ -25,6 +31,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

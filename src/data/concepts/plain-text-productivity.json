@@ -3,7 +3,7 @@
     "name": "Plain Text Productivity",
     "summary": "Using plain text files for productivity and knowledge management for simplicity and longevity.",
     "explanation": "Plain text productivity is an approach that uses simple text files (often in Markdown format) for notes, tasks, and knowledge management rather than proprietary formats or complex applications. Advocates argue that plain text is future-proof (readable for decades), universally compatible, fast to work with, and frees users from dependency on specific tools. Plain text files are small, searchable, version-controllable with Git, and can be manipulated with any text editor. The approach trades rich formatting and specialized features for simplicity, longevity, and flexibility. It aligns with minimalist philosophy and concerns about software lock-in. Tools like Obsidian, Zettlr, and Vim with plugins make plain text workflows powerful while preserving the underlying simplicity.",
-    "tags": ["productivity", "tools", "minimalism", "formats"],
+    "tags": ["productivity", "tools", "minimalism", "formats", "knowledge-management"],
     "category": "Principles",
     "icon": "FaStickyNote",
     "featured": false,
@@ -20,6 +20,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

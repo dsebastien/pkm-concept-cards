@@ -3,7 +3,7 @@
     "name": "Deep Reading",
     "summary": "Sustained, focused engagement with complex texts that enables rich comprehension and critical thinking.",
     "explanation": "Deep reading is the sustained, immersive engagement with complex texts that enables rich comprehension, emotional connection, and critical analysis. Distinguished from shallow skimming, deep reading involves following extended arguments, maintaining focus over long periods, and engaging cognitively and emotionally with the material. Research suggests deep reading activates different brain regions than scanning, fostering empathy and complex thought. In an age of distraction and bite-sized content, deep reading is a skill that must be cultivated and protected. It requires time, attention, and often physical books or distraction-free environments. Deep reading is essential for engaging with difficult works in philosophy, literature, and science that resist quick consumption.",
-    "tags": ["reading", "learning", "focus", "comprehension"],
+    "tags": ["reading", "learning", "focus", "comprehension", "knowledge-management"],
     "category": "Techniques",
     "icon": "FaBook",
     "featured": false,
@@ -20,6 +20,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

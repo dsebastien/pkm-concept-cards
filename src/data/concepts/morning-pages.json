@@ -3,7 +3,7 @@
     "name": "Morning Pages",
     "summary": "Three pages of stream-of-consciousness writing first thing each morning.",
     "explanation": "Morning Pages, from Julia Cameron's 'The Artist's Way,' involves writing three pages of longhand, stream-of-consciousness writing first thing every morning. There's no topic or structure - you write whatever comes to mind. The practice clears mental clutter, surfaces subconscious thoughts, and primes creativity. Morning pages aren't meant to be good writing - they're a brain dump that empties the mind and often reveals insights, worries, or ideas you didn't know you had.",
-    "tags": ["creativity", "habits", "journaling", "techniques", "writing"],
+    "tags": ["creativity", "habits", "journaling", "knowledge-management", "techniques", "writing"],
     "category": "Journaling",
     "icon": "FaPen",
     "featured": false,
@@ -23,6 +23,21 @@
             "title": "The Artist's Way Morning Pages Journal",
             "url": "https://www.amazon.com/Artists-Way-Morning-Pages-Journal/dp/0874778867",
             "type": "book"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
         }
     ],
     "tutorials": []

@@ -3,7 +3,13 @@
     "name": "Linked Thinking",
     "summary": "The practice of connecting ideas through explicit links to develop and navigate understanding.",
     "explanation": "Linked thinking is the practice of explicitly connecting ideas through links to develop understanding and facilitate navigation through knowledge. Rather than keeping notes as isolated documents, linked thinking treats each note as a node in a network, with links representing meaningful relationships. This practice encourages deeper engagement with material as you consider how new information connects to existing knowledge. Over time, the network of links reveals patterns, clusters of related ideas, and unexpected connections. Linked thinking is both a note-taking practice and a cognitive habit - actively looking for how ideas relate to each other. It's the practical application of associative memory principles to external knowledge management.",
-    "tags": ["thinking", "note-taking", "linking", "knowledge-organization"],
+    "tags": [
+        "thinking",
+        "note-taking",
+        "linking",
+        "knowledge-organization",
+        "knowledge-management"
+    ],
     "category": "Techniques",
     "icon": "FaLink",
     "featured": false,
@@ -25,6 +31,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

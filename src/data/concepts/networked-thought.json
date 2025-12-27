@@ -3,7 +3,13 @@
     "name": "Networked Thought",
     "summary": "An approach to thinking and note-taking that emphasizes connections between ideas over hierarchical organization.",
     "explanation": "Networked thought is an approach to thinking and knowledge organization that emphasizes connections and relationships between ideas rather than hierarchical categorization. Instead of filing notes into folders or categories, networked thought encourages linking related ideas to create a web of interconnected knowledge. This mirrors how the brain naturally works through associations rather than rigid hierarchies. The network structure allows for serendipitous discovery of connections, multiple paths to the same idea, and emergence of insights at intersections. Tools like Obsidian, Roam Research, and Logseq have popularized this approach with features like graph views, bidirectional links, and block references. Networked thought complements rather than replaces other organizational methods.",
-    "tags": ["thinking", "knowledge-organization", "note-taking", "creativity"],
+    "tags": [
+        "thinking",
+        "knowledge-organization",
+        "note-taking",
+        "creativity",
+        "knowledge-management"
+    ],
     "category": "Principles",
     "icon": "FaNetworkWired",
     "featured": false,
@@ -25,6 +31,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

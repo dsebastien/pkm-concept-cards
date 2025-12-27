@@ -3,7 +3,7 @@
     "name": "Obsidian Web Clipper",
     "summary": "A browser extension for capturing web content directly to Obsidian.",
     "explanation": "The Obsidian Web Clipper is a browser extension that allows you to capture web content directly into your Obsidian vault. It can extract article content, preserve formatting, add metadata, and use templates for consistent capture. This makes it a powerful content curation solution for building your knowledge base from web sources. It significantly reduces the friction of capturing information from the web.",
-    "tags": ["browser", "capture", "productivity", "tools"],
+    "tags": ["browser", "capture", "productivity", "tools", "knowledge-management"],
     "category": "Tools",
     "icon": "FaClipboard",
     "featured": false,
@@ -23,6 +23,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

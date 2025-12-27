@@ -3,7 +3,7 @@
     "name": "Quarterly Notes",
     "summary": "Quarterly reviews for strategic assessment and course correction.",
     "explanation": "Quarterly Notes are periodic notes created every three months for strategic assessment and major course corrections. They sit between monthly tactical reviews and yearly strategic planning. Quarterly reviews often align with OKR (Objectives and Key Results) cycles and provide checkpoints for evaluating progress on significant goals. They're opportunities to make meaningful adjustments without waiting a full year.",
-    "tags": ["journaling", "productivity", "reviews", "strategy"],
+    "tags": ["journaling", "knowledge-management", "productivity", "reviews", "strategy"],
     "category": "Journaling",
     "icon": "FaCalendar",
     "featured": false,
@@ -17,6 +17,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

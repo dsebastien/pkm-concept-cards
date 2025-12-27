@@ -3,7 +3,14 @@
     "name": "File Over App",
     "summary": "Using open file formats to maintain control over your data independent of applications.",
     "explanation": "The File Over App principle, described by Steph Ango, emphasizes using open file standards and separating applications from the data they operate on, leaving data under full control of the user. For example, Obsidian saves notes as Markdown files that can be stored anywhere and edited with any text editor. This provides true data freedom and future-proofing. If an application disappears, users retain all their data and can continue modifying it with other tools. This principle is fundamental to sustainable PKM.",
-    "tags": ["data-ownership", "future-proofing", "portability", "principles", "tools"],
+    "tags": [
+        "data-ownership",
+        "future-proofing",
+        "portability",
+        "principles",
+        "tools",
+        "knowledge-management"
+    ],
     "category": "Principles",
     "icon": "FaFileAlt",
     "featured": true,
@@ -18,6 +25,21 @@
             "title": "File Over App by Steph Ango",
             "url": "https://stephango.com/file-over-app",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
         }
     ],
     "tutorials": []

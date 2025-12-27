@@ -3,7 +3,7 @@
     "name": "Obsidian Starter Kit",
     "summary": "A comprehensive Obsidian vault template with systems, templates, and best practices.",
     "explanation": "The Obsidian Starter Kit (OSK) is a comprehensive Obsidian vault template created by Sébastien Dubois that includes pre-configured systems, templates, folder structure, and documentation for building an effective PKM system. It incorporates best practices from Zettelkasten, PARA, Johnny Decimal, and other methodologies. Systems include: Journaling, Zettelkasten, Learning, Content Curation, Maps, People, Meeting Notes, Health, and more. Available at obsidianstarterkit.com.",
-    "tags": ["obsidian", "products", "systems", "templates"],
+    "tags": ["obsidian", "products", "systems", "templates", "knowledge-management"],
     "category": "Products",
     "icon": "FaRocket",
     "featured": true,
@@ -28,6 +28,16 @@
         {
             "title": "Get the Obsidian Starter Kit",
             "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"
         }
     ],

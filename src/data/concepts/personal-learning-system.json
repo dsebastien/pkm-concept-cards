@@ -4,12 +4,13 @@
     "summary": "A structured system used by individuals to organize and optimize their learning process for greater efficiency and effectiveness.",
     "explanation": "A Personal Learning System (PLS) is a structured approach used by individuals to learn more efficiently. It focuses solely on what to learn and how to learn it, providing a framework for organizing the entire learning process.\n\nA well-designed PLS typically includes several components:\n\n**Learning Goals**: Clear objectives about what you want to learn and why. This helps prioritize topics and maintain motivation.\n\n**Source Selection**: A method for choosing high-quality learning materials, whether books, courses, videos, or other resources.\n\n**Active Learning Techniques**: Strategies like spaced repetition, active recall, and elaboration that have been proven to improve retention and understanding.\n\n**Note-Taking System**: A way to capture and organize information as you learn, often integrated with a broader PKM system.\n\n**Review Cycles**: Regular intervals for reviewing material to combat the forgetting curve and reinforce learning.\n\n**Application Practice**: Opportunities to apply what you've learned, as practical application deepens understanding.\n\nA PLS differs from a general PKM system in that it specifically focuses on the learning journey rather than broader knowledge management. It's about optimizing how you acquire new skills and knowledge, making the process more intentional and effective.\n\nThe best personal learning systems are tailored to individual learning styles, schedules, and goals, evolving over time as you discover what works best for you.",
     "tags": [
+        "education",
+        "knowledge-management",
         "learning",
         "personal-development",
-        "education",
-        "systems",
         "productivity",
-        "self-improvement"
+        "self-improvement",
+        "systems"
     ],
     "category": "Systems",
     "icon": "FaGraduationCap",
@@ -31,6 +32,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

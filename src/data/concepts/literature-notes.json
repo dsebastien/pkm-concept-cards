@@ -3,7 +3,7 @@
     "name": "Literature Notes",
     "summary": "Notes capturing ideas from external sources like books, articles, and videos.",
     "explanation": "Literature notes are where you store notes about everything that inspires you - verbatim quotes, information about people, interesting tweets, book notes, fascinating articles, etc. They represent your inspiration, not your own content. Taking literature notes requires more time and effort than fleeting notes because they're here to stay. The goal is to capture the essence of what inspires you, ideally in your own words, representing your own interpretation. Build the habit of capturing what you find interesting, but be mindful of the Collector's Fallacy.",
-    "tags": ["capture", "note-taking", "reading", "zettelkasten"],
+    "tags": ["capture", "note-taking", "reading", "zettelkasten", "knowledge-management"],
     "category": "Note Types",
     "icon": "FaBookOpen",
     "featured": false,
@@ -38,6 +38,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

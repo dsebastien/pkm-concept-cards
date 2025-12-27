@@ -3,7 +3,7 @@
     "name": "Spacing Effect",
     "summary": "Learning is more effective when study sessions are spaced out over time.",
     "explanation": "The Spacing Effect, discovered by Hermann Ebbinghaus, shows that learning is more effective when study sessions are spaced out rather than massed together. More information is stored in long-term memory when study sessions are not too close to each other. Research shows participants using spaced practice outperform those using massed practice in the vast majority of cases. This principle underlies spaced repetition systems and argues against cramming. Spreading learning over time dramatically improves retention.",
-    "tags": ["education", "learning", "memory", "techniques"],
+    "tags": ["education", "knowledge-management", "learning", "memory", "techniques"],
     "category": "Concepts",
     "icon": "FaCalendarAlt",
     "featured": false,
@@ -22,6 +22,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

@@ -3,7 +3,7 @@
     "name": "Reading Feeds Writing",
     "summary": "Quality reading provides the raw material and inspiration that fuels effective writing.",
     "explanation": "Reading Feeds Writing is a principle recognizing that what you consume directly shapes what you can create. The more you read - diverse topics, quality sources, different perspectives - the more ideas, vocabulary, mental models, and insights you have to draw from when writing. Reading exposes you to new concepts, arguments, and ways of expressing ideas that become part of your creative toolkit. This creates a virtuous cycle: reading sparks ideas worth writing about, writing reveals gaps in understanding that drive more targeted reading, and the cycle continues. Writers throughout history have emphasized this connection - Stephen King famously said 'If you don't have time to read, you don't have the time (or the tools) to write.' The key is intentional, varied reading combined with note-taking to capture what resonates. Your reading becomes the compost from which new ideas grow.",
-    "tags": ["creativity", "learning", "principles", "reading", "writing"],
+    "tags": ["creativity", "learning", "principles", "reading", "writing", "knowledge-management"],
     "category": "Principles",
     "icon": "FaBookOpen",
     "featured": false,
@@ -22,6 +22,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

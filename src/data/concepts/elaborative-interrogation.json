@@ -3,7 +3,7 @@
     "name": "Elaborative Interrogation",
     "summary": "Learning by asking 'why' and 'how' questions about information.",
     "explanation": "Elaborative Interrogation is a learning technique that involves asking 'why' and 'how' questions about the information you're learning. Instead of passively accepting facts, you actively probe the reasons behind them. 'Why is this true?' 'How does this work?' 'Why does this matter?' This questioning deepens understanding by connecting new information to existing knowledge. It's especially effective for factual learning and creating richer, more meaningful notes.",
-    "tags": ["education", "learning", "techniques", "understanding"],
+    "tags": ["education", "knowledge-management", "learning", "techniques", "understanding"],
     "category": "Techniques",
     "icon": "FaQuestion",
     "featured": false,
@@ -15,6 +15,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

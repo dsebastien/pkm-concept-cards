@@ -3,7 +3,7 @@
     "name": "Annotation",
     "summary": "The practice of adding notes, comments, highlights, and marks to content for understanding and reference.",
     "explanation": "Annotation is the practice of adding notes, highlights, comments, and marks to text or other content to enhance understanding and facilitate later reference. This active engagement with material helps readers process information more deeply than passive consumption. Annotations can include highlighting key passages, writing questions or summaries, making connections to other ideas, or noting disagreements with the author. Modern digital tools like Hypothesis, Kindle highlights, and PDF annotators have expanded annotation capabilities, enabling shared annotations and easy extraction of notes. Effective annotation balances capturing important information with avoiding over-highlighting, focusing on what truly matters for your purposes.",
-    "tags": ["learning", "note-taking", "reading", "techniques"],
+    "tags": ["learning", "note-taking", "reading", "techniques", "knowledge-management"],
     "category": "Techniques",
     "icon": "FaTags",
     "featured": false,
@@ -35,6 +35,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

@@ -3,7 +3,7 @@
     "name": "Brain Dumps",
     "summary": "The practice of quickly emptying your mind onto paper or screen.",
     "explanation": "Brain dumps are the practice of quickly getting everything out of your head and onto paper or screen without organizing or filtering. When feeling overwhelmed, a brain dump helps clear mental clutter, reduce cognitive load, and externalize thoughts so they can be processed systematically. By externalizing thoughts, you clear mental space for creativity and innovation. Brain dumps can be part of daily journaling, weekly reviews, or done whenever needed to regain clarity.",
-    "tags": ["capture", "mental-health", "productivity", "techniques"],
+    "tags": ["capture", "mental-health", "productivity", "techniques", "knowledge-management"],
     "category": "Techniques",
     "icon": "FaDumpster",
     "featured": false,
@@ -17,6 +17,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

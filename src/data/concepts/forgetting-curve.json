@@ -3,7 +3,7 @@
     "name": "Forgetting Curve",
     "summary": "The exponential decay of memory retention over time.",
     "explanation": "The Forgetting Curve, discovered by Hermann Ebbinghaus, describes how memory retention declines exponentially over time without reinforcement. Within 24 hours, you forget about 70% of new information; within a week, up to 90%. However, each review 'resets' and strengthens the memory, flattening the curve. This is why PKM is valuable - by externalizing knowledge, you don't need to rely on imperfect human memory. Your knowledge base becomes reliable external memory that never forgets.",
-    "tags": ["concepts", "learning", "memory", "psychology"],
+    "tags": ["concepts", "knowledge-management", "learning", "memory", "psychology"],
     "category": "Concepts",
     "icon": "FaChartLine",
     "featured": false,
@@ -17,6 +17,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

@@ -3,7 +3,7 @@
     "name": "Encoding",
     "summary": "The process of converting information into memory traces.",
     "explanation": "Encoding is the cognitive process of converting perceived information into memory traces that can later be retrieved. How information is encoded affects how well it's remembered. Deep encoding (connecting to existing knowledge, elaborating, visualizing) creates stronger memories than shallow encoding (rote repetition, surface features). PKM practices like writing in your own words, making connections, and using templates all support effective encoding of knowledge.",
-    "tags": ["cognition", "learning", "memory", "psychology"],
+    "tags": ["cognition", "knowledge-management", "learning", "memory", "psychology"],
     "category": "Concepts",
     "icon": "FaSave",
     "featured": false,
@@ -15,6 +15,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

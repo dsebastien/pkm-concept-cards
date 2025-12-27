@@ -3,7 +3,7 @@
     "name": "Cornell Note-Taking Method",
     "summary": "A systematic note format dividing the page into cue column, notes section, and summary area.",
     "explanation": "The Cornell Note-Taking Method is a structured approach to note-taking developed by Walter Pauk at Cornell University in the 1950s. The page is divided into three sections: a narrow left column for cues and questions, a larger right column for detailed notes during lectures or reading, and a summary section at the bottom. After the session, you review your notes, write questions or keywords in the cue column, and compose a brief summary. This format facilitates active recall and systematic review, making it particularly effective for studying and exam preparation. The method encourages immediate engagement with material and promotes the habit of summarizing key concepts in your own words.",
-    "tags": ["learning", "note-taking", "study-techniques", "education"],
+    "tags": ["learning", "note-taking", "study-techniques", "education", "knowledge-management"],
     "category": "Methods",
     "icon": "FaColumns",
     "featured": false,
@@ -30,6 +30,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

@@ -3,7 +3,7 @@
     "name": "Active Recall",
     "summary": "Retrieving information from memory as a learning technique.",
     "explanation": "Active Recall is the practice of actively retrieving information from memory rather than passively reviewing it. Instead of re-reading notes, you test yourself on the material. This retrieval process strengthens memory traces and improves long-term retention. Combined with spaced repetition, active recall is one of the most effective learning strategies. Tools like flashcards and the Feynman Technique leverage active recall.",
-    "tags": ["education", "learning", "memory", "techniques"],
+    "tags": ["education", "knowledge-management", "learning", "memory", "techniques"],
     "category": "Techniques",
     "icon": "FaQuestionCircle",
     "featured": false,
@@ -28,6 +28,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

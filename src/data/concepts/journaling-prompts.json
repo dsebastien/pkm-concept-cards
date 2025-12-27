@@ -3,7 +3,7 @@
     "name": "Journaling Prompts",
     "summary": "Questions and prompts to guide reflection and overcome blank page syndrome.",
     "explanation": "Journaling prompts are questions or statements designed to guide your reflection and help overcome the blank page syndrome. Useful prompts include: What did I do yesterday? Which problems did I face recently? How did I sleep? What is the most important thing I have to do today? What should I do next? What worked today? What failed today? What challenges am I facing? What did I learn today? What am I grateful for? What should I do tomorrow? What should I do next week? Having a set of go-to prompts makes it easier to start writing and ensures you cover important aspects of your day and life.",
-    "tags": ["journaling", "writing", "reflection", "prompts", "questions"],
+    "tags": ["journaling", "knowledge-management", "prompts", "questions", "reflection", "writing"],
     "category": "Techniques",
     "icon": "FaQuestion",
     "featured": false,
@@ -18,6 +18,22 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Journaling+prompts"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        }
+    ],
     "tutorials": []
 }

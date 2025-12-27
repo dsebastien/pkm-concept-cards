@@ -3,7 +3,7 @@
     "name": "Markdown",
     "summary": "A lightweight markup language for formatting plain text.",
     "explanation": "Markdown is a lightweight markup language for creating formatted text using plain text editors. Created by John Gruber, it uses simple symbols like # for headings, * for emphasis, and - for lists. Markdown is human-readable even without rendering, making it ideal for notes that should remain accessible regardless of software. It's the standard format for tools like Obsidian, enabling the File Over App principle. Learning basic Markdown takes minutes but provides lasting formatting capabilities.",
-    "tags": ["formats", "formatting", "technology", "tools", "writing"],
+    "tags": ["formats", "formatting", "technology", "tools", "writing", "knowledge-management"],
     "category": "Tools",
     "icon": "FaMarkdown",
     "featured": false,
@@ -24,6 +24,21 @@
             "title": "Markdown Guide",
             "url": "https://www.markdownguide.org",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
         }
     ],
     "tutorials": []

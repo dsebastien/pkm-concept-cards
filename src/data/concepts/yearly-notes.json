@@ -3,7 +3,7 @@
     "name": "Yearly Notes",
     "summary": "Annual reviews for big-picture reflection and long-term planning.",
     "explanation": "Yearly Notes are comprehensive annual reviews for big-picture reflection and long-term planning. They involve reviewing the entire year's achievements, failures, and lessons; assessing progress on major life goals; and setting intentions for the coming year. Yearly reviews provide perspective that's impossible to gain from shorter time frames. They help identify patterns, celebrate growth, and realign with core values and priorities.",
-    "tags": ["journaling", "productivity", "reviews", "strategy"],
+    "tags": ["journaling", "knowledge-management", "productivity", "reviews", "strategy"],
     "category": "Journaling",
     "icon": "FaCalendarCheck",
     "featured": false,
@@ -17,6 +17,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

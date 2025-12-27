@@ -3,7 +3,7 @@
     "name": "Readwise",
     "summary": "A service for capturing and reviewing highlights from various sources.",
     "explanation": "Readwise is a service that aggregates highlights from various sources (Kindle, web articles, PDFs, podcasts) and helps you review them using spaced repetition. It can sync highlights to note-taking apps like Obsidian through the official Readwise plugin. This makes it an excellent content curation solution for capturing literature notes and building your knowledge base from what you read across different platforms.",
-    "tags": ["highlights", "productivity", "reading", "tools"],
+    "tags": ["highlights", "productivity", "reading", "tools", "knowledge-management"],
     "category": "Tools",
     "icon": "FaHighlighter",
     "featured": false,
@@ -22,6 +22,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

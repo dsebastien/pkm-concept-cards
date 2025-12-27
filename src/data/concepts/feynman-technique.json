@@ -3,7 +3,7 @@
     "name": "Feynman Technique",
     "summary": "A learning method based on explaining concepts in simple terms.",
     "explanation": "The Feynman Technique is a learning method named after physicist Richard Feynman that involves explaining concepts in simple terms as if teaching a child. The four steps are: 1) Choose a concept, 2) Explain it in simple language, 3) Identify gaps in your understanding, 4) Review and simplify further. If you can't explain something simply, you don't understand it well enough. Writing about a topic helps uncover gaps in understanding. This technique is powerful for deepening comprehension and revealing what you truly know.",
-    "tags": ["education", "learning", "techniques", "understanding"],
+    "tags": ["education", "knowledge-management", "learning", "techniques", "understanding"],
     "category": "Techniques",
     "icon": "FaChalkboardTeacher",
     "featured": false,
@@ -23,6 +23,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

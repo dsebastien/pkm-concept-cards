@@ -3,7 +3,7 @@
     "name": "SQ3R Method",
     "summary": "A five-step reading comprehension strategy: Survey, Question, Read, Recite, Review.",
     "explanation": "The SQ3R Method is a structured reading comprehension strategy developed by educational psychologist Francis P. Robinson in his 1946 book 'Effective Study'. The five steps are: Survey (skim headings, subheadings, and summaries to get an overview), Question (formulate questions you expect the text to answer), Read (actively read to find answers), Recite (summarize what you learned in your own words), and Review (revisit the material periodically to reinforce retention). This method transforms passive reading into active learning by engaging with the material before, during, and after reading. It is particularly effective for textbooks and dense academic material, helping readers build a mental framework before diving into details.",
-    "tags": ["learning", "reading", "study-techniques", "comprehension"],
+    "tags": ["learning", "reading", "study-techniques", "comprehension", "knowledge-management"],
     "category": "Methods",
     "icon": "FaBookOpen",
     "featured": false,
@@ -25,6 +25,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

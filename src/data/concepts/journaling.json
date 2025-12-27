@@ -3,7 +3,7 @@
     "name": "Journaling",
     "summary": "The practice of regularly recording thoughts, experiences, and reflections.",
     "explanation": "Journaling is the practice of regularly writing down thoughts, ideas, experiences, feelings, and reflections. It's the perfect entry point for PKM, helping you expand your ideas and prevent losing important ones you may want to act on. Benefits include self-reflection, idea development, accountability, stress reduction, and better memory. Journaling throughout the day (interstitial journaling) captures context and mental state. For people with ADHD, journaling can be particularly powerful for organizing scattered thoughts. Combined with periodic reviews, journaling creates a comprehensive system for personal growth.",
-    "tags": ["habits", "journaling", "personal-growth", "productivity"],
+    "tags": ["habits", "journaling", "knowledge-management", "personal-growth", "productivity"],
     "category": "Journaling",
     "icon": "FaBook",
     "featured": true,
@@ -61,6 +61,11 @@
         {
             "title": "Obsidian Starter Kit",
             "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

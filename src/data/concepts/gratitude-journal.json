@@ -3,7 +3,7 @@
     "name": "Gratitude Journal",
     "summary": "A practice of regularly recording things you're grateful for.",
     "explanation": "A Gratitude Journal is the practice of regularly writing down things you're grateful for. Research shows gratitude journaling improves mood, increases happiness, reduces stress, and enhances overall wellbeing. Simple formats include listing 3-5 things you're grateful for each day, either in the morning (setting a positive tone) or evening (reflecting on the day). This practice trains the brain to notice positive aspects of life and counters negativity bias.",
-    "tags": ["habits", "journaling", "psychology", "wellbeing"],
+    "tags": ["habits", "journaling", "knowledge-management", "psychology", "wellbeing"],
     "category": "Journaling",
     "icon": "FaHeart",
     "featured": false,
@@ -13,6 +13,22 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Practice+daily+gratitude"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        }
+    ],
     "tutorials": []
 }

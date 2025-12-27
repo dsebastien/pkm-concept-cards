@@ -3,7 +3,7 @@
     "name": "Interleaving",
     "summary": "Mixing different topics or problem types during study sessions.",
     "explanation": "Interleaving is the practice of mixing different topics, subjects, or problem types during study sessions rather than focusing on one thing at a time (blocking). While it feels harder in the moment, interleaving improves long-term learning and the ability to transfer knowledge to new situations. It forces your brain to continually retrieve different strategies, strengthening discrimination and flexible application of knowledge.",
-    "tags": ["education", "learning", "memory", "techniques"],
+    "tags": ["education", "knowledge-management", "learning", "memory", "techniques"],
     "category": "Techniques",
     "icon": "FaRandom",
     "featured": false,
@@ -23,6 +23,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

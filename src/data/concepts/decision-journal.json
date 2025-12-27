@@ -3,7 +3,14 @@
     "name": "Decision Journal",
     "summary": "A systematic practice of recording decisions and their context to improve judgment over time.",
     "explanation": "A Decision Journal is a structured practice of documenting important decisions at the time they are made, including the reasoning, available information, emotional state, expected outcomes, and confidence level. The practice was popularized by Daniel Kahneman and Shane Parrish (Farnam Street) as a tool for improving decision-making quality. Key elements to record include: the decision itself, the date, mental and emotional state, the problem being solved, variables considered, range of possible outcomes, expected outcome, and what information would change the decision. Crucially, the journal is revisited later to compare actual outcomes against expectations, enabling identification of systematic biases and blind spots. This creates a feedback loop that is otherwise missing in most decisions where we rationalize outcomes after the fact. Over time, the decision journal reveals patterns in thinking, highlights areas where confidence is miscalibrated, and builds genuine skill in judgment.",
-    "tags": ["decision-making", "journaling", "techniques", "self-awareness", "metacognition"],
+    "tags": [
+        "decision-making",
+        "journaling",
+        "knowledge-management",
+        "metacognition",
+        "self-awareness",
+        "techniques"
+    ],
     "category": "Techniques",
     "icon": "FaBook",
     "featured": false,
@@ -28,6 +35,21 @@
             "title": "Thinking, Fast and Slow by Daniel Kahneman",
             "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555",
             "type": "book"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
         }
     ],
     "tutorials": []

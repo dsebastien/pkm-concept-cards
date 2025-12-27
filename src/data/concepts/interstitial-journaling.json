@@ -3,7 +3,14 @@
     "name": "Interstitial Journaling",
     "summary": "Capturing thoughts and notes in the gaps between tasks throughout the day.",
     "explanation": "Interstitial Journaling is the practice of writing brief journal entries in the transitions between tasks throughout your day. Instead of dedicated journaling sessions, you capture thoughts, document what you just completed, and note what you're about to do in these interstitial moments. This approach maintains awareness of how you spend time, captures ideas before they're lost, and creates a detailed record without requiring lengthy writing sessions. It integrates journaling into your workflow rather than adding it as a separate task.",
-    "tags": ["capture", "habits", "journaling", "productivity", "techniques"],
+    "tags": [
+        "capture",
+        "habits",
+        "journaling",
+        "knowledge-management",
+        "productivity",
+        "techniques"
+    ],
     "category": "Journaling",
     "icon": "FaPenSquare",
     "featured": false,
@@ -18,6 +25,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

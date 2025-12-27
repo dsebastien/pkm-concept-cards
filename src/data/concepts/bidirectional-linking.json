@@ -3,7 +3,7 @@
     "name": "Bidirectional Linking",
     "summary": "Links that automatically show connections in both directions, displaying what links to a note.",
     "explanation": "Bidirectional linking, or backlinks, is a feature where links automatically work in both directions. When note A links to note B, note B automatically shows a reference back to note A without manual effort. This was a key innovation in tools like Roam Research that distinguished them from traditional wikis. Bidirectional links reveal the full context around an idea by showing not just what it references but what references it. This creates emergent structure as heavily-referenced notes naturally become hubs. The feature encourages generous linking since every link adds value in both directions. Bidirectional links support the zettelkasten practice of 'surprise' - discovering unexpected connections by seeing what diverse notes reference the same concept.",
-    "tags": ["note-taking", "linking", "tools", "knowledge-organization"],
+    "tags": ["note-taking", "linking", "tools", "knowledge-organization", "knowledge-management"],
     "category": "Techniques",
     "icon": "FaLink",
     "featured": false,
@@ -25,6 +25,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

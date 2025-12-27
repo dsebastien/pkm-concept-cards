@@ -3,7 +3,7 @@
     "name": "Progressive Summarization",
     "summary": "A layered highlighting method to distill information over time.",
     "explanation": "Progressive Summarization is Tiago Forte's layered highlighting method for distilling information. Instead of trying to summarize everything at once, you progressively add layers of highlighting as you revisit content: Layer 1 is the original notes, Layer 2 is bold highlighting of key passages, Layer 3 is highlighted portions of the bold text, Layer 4 is your own executive summary. This approach is really a mindful technique - a practice for fine-tuning intuition and self-awareness. It acknowledges that you don't know which information will be valuable until you need it.",
-    "tags": ["distillation", "note-taking", "productivity", "techniques"],
+    "tags": ["distillation", "note-taking", "productivity", "techniques", "knowledge-management"],
     "category": "Techniques",
     "icon": "FaHighlighter",
     "featured": false,
@@ -27,6 +27,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

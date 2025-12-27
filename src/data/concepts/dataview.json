@@ -3,7 +3,7 @@
     "name": "Dataview",
     "summary": "A query engine for treating Obsidian notes as a database.",
     "explanation": "Dataview is an Obsidian plugin that allows you to query your notes as if they were a database. Using a query language, you can create dynamic views, lists, tables, and task trackers from note metadata. This transforms a static vault into a dynamic knowledge system. Use cases include: creating project dashboards, listing all notes with specific tags, tracking reading lists, and generating dynamic MOCs. Dataview makes notes searchable and actionable in powerful ways.",
-    "tags": ["obsidian", "plugins", "productivity", "tools"],
+    "tags": ["obsidian", "plugins", "productivity", "tools", "knowledge-management"],
     "category": "Tools",
     "icon": "FaDatabase",
     "featured": false,
@@ -22,6 +22,11 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

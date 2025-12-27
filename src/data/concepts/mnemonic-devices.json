@@ -3,7 +3,13 @@
     "name": "Mnemonic Devices",
     "summary": "Memory aids that use patterns, associations, or imagery to make information easier to remember.",
     "explanation": "Mnemonic devices are learning techniques that help encode information in ways that make it easier to store and retrieve from memory. These include acronyms (ROY G BIV for rainbow colors), acrostics (sentences where first letters spell something), rhymes, chunking, visual imagery, and the memory palace technique. Mnemonics work by creating meaningful associations between new information and existing knowledge, leveraging the brain's preference for patterns, stories, and visual imagery over abstract data. While often dismissed as tricks, mnemonics are grounded in cognitive science and can be powerful tools for learning vocabulary, facts, procedures, and complex sequences. The key is matching the right mnemonic technique to the type of information being learned.",
-    "tags": ["memory", "learning", "cognitive-techniques", "study-techniques"],
+    "tags": [
+        "cognitive-techniques",
+        "knowledge-management",
+        "learning",
+        "memory",
+        "study-techniques"
+    ],
     "category": "Techniques",
     "icon": "FaLightbulb",
     "featured": false,
@@ -25,6 +31,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

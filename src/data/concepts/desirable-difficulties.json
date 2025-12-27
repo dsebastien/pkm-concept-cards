@@ -3,7 +3,7 @@
     "name": "Desirable Difficulties",
     "summary": "Learning challenges that slow initial performance but enhance long-term retention.",
     "explanation": "Desirable Difficulties are learning conditions that make initial learning harder but ultimately enhance long-term retention and transfer. Examples include: testing yourself instead of re-reading (active recall), spacing practice over time (spaced repetition), mixing topics (interleaving), and generating answers rather than reading them (generation effect). These difficulties feel harder in the moment but produce superior learning. Easy learning often means shallow learning.",
-    "tags": ["education", "learning", "psychology", "techniques"],
+    "tags": ["education", "knowledge-management", "learning", "psychology", "techniques"],
     "category": "Concepts",
     "icon": "FaMountain",
     "featured": false,
@@ -15,6 +15,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

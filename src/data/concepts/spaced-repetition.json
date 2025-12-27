@@ -3,7 +3,7 @@
     "name": "Spaced Repetition",
     "summary": "A learning technique that reviews information at increasing intervals.",
     "explanation": "Spaced Repetition is a learning technique where review sessions are spaced out at increasing intervals over time. Based on the forgetting curve discovered by Hermann Ebbinghaus, it optimizes the timing of reviews to maximize retention with minimal effort. Information is reviewed just as you're about to forget it, strengthening memory each time. Tools like Anki implement this algorithmically. Combined with active recall, spaced repetition is one of the most effective learning strategies available.",
-    "tags": ["education", "learning", "memory", "techniques"],
+    "tags": ["education", "knowledge-management", "learning", "memory", "techniques"],
     "category": "Techniques",
     "icon": "FaRedo",
     "featured": false,
@@ -35,6 +35,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

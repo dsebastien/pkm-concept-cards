@@ -3,7 +3,7 @@
     "name": "Monthly Notes",
     "summary": "Monthly summaries for mid-range reflection and goal tracking.",
     "explanation": "Monthly Notes are periodic notes created each month for mid-range reflection and planning. They provide a broader view than weekly notes, tracking progress on larger goals, identifying trends, and adjusting strategies. Monthly reviews help balance immediate tactical work with strategic objectives. They often include goal reviews, habit tracking summaries, key accomplishments, lessons learned, and plans for the coming month.",
-    "tags": ["journaling", "planning", "productivity", "reviews"],
+    "tags": ["journaling", "knowledge-management", "planning", "productivity", "reviews"],
     "category": "Journaling",
     "icon": "FaCalendarAlt",
     "featured": false,
@@ -17,6 +17,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],

@@ -3,7 +3,7 @@
     "name": "Slow Reading",
     "summary": "Deliberate, mindful reading that prioritizes depth of understanding over speed or volume.",
     "explanation": "Slow reading is a deliberate approach to reading that prioritizes depth, comprehension, and reflection over speed or quantity. In contrast to skimming or speed reading, slow reading involves savoring texts, re-reading passages, pausing to think, taking notes, and allowing ideas to marinate. This practice emerged as a counterpoint to information overload and the pressure to consume more content. Slow reading is particularly appropriate for dense, complex, or significant texts that reward careful attention. It aligns with the idea that what matters is not how many books you read but how well you engage with the ones that matter. Slow reading often pairs naturally with marginalia, annotation, and deep note-taking.",
-    "tags": ["reading", "learning", "mindfulness", "focus"],
+    "tags": ["reading", "learning", "mindfulness", "focus", "knowledge-management"],
     "category": "Techniques",
     "icon": "FaBookOpen",
     "featured": false,
@@ -20,6 +20,16 @@
         {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
             "type": "other"
         }
     ],
