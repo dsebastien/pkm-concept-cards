@@ -34,6 +34,11 @@
     ],
     "references": [
         {
+            "title": "Butterfly effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Butterfly_effect",
+            "type": "website"
+        },
+        {
             "title": "Deterministic Nonperiodic Flow by Edward Lorenz (1963)",
             "url": "https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml",
             "type": "paper"

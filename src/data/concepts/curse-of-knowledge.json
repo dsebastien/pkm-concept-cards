@@ -27,6 +27,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Curse of knowledge - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Curse_of_knowledge",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

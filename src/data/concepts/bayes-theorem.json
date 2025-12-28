@@ -31,6 +31,11 @@
     ],
     "references": [
         {
+            "title": "Bayes' theorem - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bayes%27_theorem",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

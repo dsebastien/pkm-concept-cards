@@ -28,9 +28,14 @@
     "articles": [],
     "references": [
         {
+            "title": "Cognitive behavioral therapy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy",
+            "type": "website"
+        },
+        {
             "title": "CBT Guidelines - American Psychological Association",
             "url": "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Knowii Community",

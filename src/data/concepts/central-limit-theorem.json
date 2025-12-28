@@ -29,6 +29,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Central limit theorem - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Central_limit_theorem",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

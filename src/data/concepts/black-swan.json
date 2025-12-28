@@ -33,6 +33,12 @@
             "url": "https://www.amazon.com/dp/081297381X?tag=dsebastien00-20"
         }
     ],
-    "references": [],
+    "references": [
+        {
+            "title": "Black swan theory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Black_swan_theory",
+            "type": "website"
+        }
+    ],
     "tutorials": []
 }

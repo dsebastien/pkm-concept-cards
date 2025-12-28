@@ -13,6 +13,12 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Amara%27s+Law"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Roy Amara - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Roy_Amara",
+            "type": "website"
+        }
+    ],
     "tutorials": []
 }

@@ -28,6 +28,12 @@
             "url": "https://www.amazon.com/dp/0814436471?tag=dsebastien00-20"
         }
     ],
-    "references": [],
+    "references": [
+        {
+            "title": "Active listening - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Active_listening",
+            "type": "website"
+        }
+    ],
     "tutorials": []
 }

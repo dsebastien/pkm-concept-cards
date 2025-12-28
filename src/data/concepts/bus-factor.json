@@ -25,6 +25,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Bus factor - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bus_factor",
+            "type": "website"
+        },
+        {
             "title": "Obsidian Starter Kit",
             "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
             "type": "other"

@@ -26,6 +26,12 @@
     ],
     "relatedNotes": [],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Cortisol - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cortisol",
+            "type": "website"
+        }
+    ],
     "tutorials": []
 }
