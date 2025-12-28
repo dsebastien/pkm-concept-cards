@@ -11,7 +11,8 @@ import {
     FaBook,
     FaNewspaper,
     FaLink,
-    FaStickyNote
+    FaStickyNote,
+    FaHistory
 } from 'react-icons/fa'
 import resourcesData from '@/data/resources.json'
 import socialsData from '@/data/socials.json'
@@ -97,6 +98,15 @@ const Footer: React.FC = () => {
                                 >
                                     <FaChartBar className='h-4 w-4' />
                                     Statistics
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/history'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaHistory className='h-4 w-4' />
+                                    History
                                 </Link>
                             </li>
                         </ul>

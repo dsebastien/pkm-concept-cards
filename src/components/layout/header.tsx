@@ -12,7 +12,8 @@ import {
     FaBook,
     FaNewspaper,
     FaLink,
-    FaStickyNote
+    FaStickyNote,
+    FaHistory
 } from 'react-icons/fa'
 import type { NavLink } from '@/types/nav-link.intf'
 
@@ -75,6 +76,12 @@ const menuLinks: NavLink[] = [
         label: 'Notes',
         icon: <FaStickyNote className='h-5 w-5' />,
         color: 'text-yellow-400 bg-yellow-500/10 hover:bg-yellow-500/20'
+    },
+    {
+        to: '/history',
+        label: 'History',
+        icon: <FaHistory className='h-5 w-5' />,
+        color: 'text-cyan-400 bg-cyan-500/10 hover:bg-cyan-500/20'
     }
 ]
 

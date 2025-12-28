@@ -1334,16 +1334,173 @@ mkdirSync(featuredDir, { recursive: true })
 writeFileSync(join(featuredDir, 'index.html'), generateFeaturedPageHtml())
 console.log('  ✓ Created featured concepts page')
 
+// Generate history page
+console.log('Generating history page...')
+function generateHistoryPageHtml(): string {
+    const historyUrl = `${BASE_URL}/history`
+    const title = 'History - Concepts'
+    const description = `Explore the timeline of ${concepts.length} concepts added to the collection, from newest to oldest.`
+
+    // Group concepts by datePublished
+    const conceptsByDate = new Map<string, typeof concepts>()
+    concepts.forEach((concept) => {
+        const date = concept.datePublished
+        if (!conceptsByDate.has(date)) {
+            conceptsByDate.set(date, [])
+        }
+        conceptsByDate.get(date)!.push(concept)
+    })
+
+    // Sort dates newest first
+    const sortedDates = Array.from(conceptsByDate.keys()).sort(
+        (a, b) => new Date(b).getTime() - new Date(a).getTime()
+    )
+
+    let html = indexHtml
+
+    // Update <title>
+    html = html.replace(/<title>.*?<\/title>/, `<title>${escapeHtml(title)}</title>`)
+
+    // Update canonical URL
+    html = html.replace(
+        /<link\s+rel="canonical"\s+href="[^"]*"\s*\/?>/,
+        `<link rel="canonical" href="${historyUrl}" />`
+    )
+
+    // Update meta description
+    html = html.replace(
+        /<meta\s+name="description"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="description" content="${escapeHtml(description)}" />`
+    )
+
+    // Update Open Graph tags
+    html = html.replace(
+        /<meta\s+property="og:url"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:url" content="${historyUrl}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:title"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:title" content="${escapeHtml(title)}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:description"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:description" content="${escapeHtml(description)}" />`
+    )
+
+    // Update Twitter tags
+    html = html.replace(
+        /<meta\s+name="twitter:url"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:url" content="${historyUrl}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:title"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:title" content="${escapeHtml(title)}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:description"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:description" content="${escapeHtml(description)}" />`
+    )
+
+    // Generate history page schema
+    const historySchema = {
+        '@context': 'https://schema.org',
+        '@graph': [
+            {
+                '@type': 'CollectionPage',
+                '@id': `${historyUrl}#webpage`,
+                'name': title,
+                'description': description,
+                'url': historyUrl,
+                'creator': { '@id': `${BASE_URL}/#person` },
+                'publisher': { '@id': `${BASE_URL}/#organization` },
+                'isPartOf': {
+                    '@type': 'WebSite',
+                    '@id': `${BASE_URL}/#website`,
+                    'name': 'Concepts',
+                    'url': BASE_URL
+                },
+                'inLanguage': 'en'
+            },
+            authorSchema,
+            publisherSchema,
+            {
+                '@type': 'BreadcrumbList',
+                '@id': `${historyUrl}#breadcrumb`,
+                'itemListElement': [
+                    {
+                        '@type': 'ListItem',
+                        'position': 1,
+                        'name': 'Home',
+                        'item': BASE_URL
+                    },
+                    {
+                        '@type': 'ListItem',
+                        'position': 2,
+                        'name': 'History',
+                        'item': historyUrl
+                    }
+                ]
+            }
+        ]
+    }
+
+    html = html.replace(
+        /<script type="application\/ld\+json">[\s\S]*?<\/script>/,
+        `<script type="application/ld+json">\n${JSON.stringify(historySchema, null, 12)}\n        </script>`
+    )
+
+    // Generate noscript content for history page
+    const noscriptContent = `
+    <noscript>
+        <article class="noscript-content" style="max-width: 800px; margin: 0 auto; padding: 2rem; font-family: system-ui, sans-serif;">
+            <h1>History</h1>
+            <p>Concepts added over time, from newest to oldest</p>
+            <p><strong>Total concepts:</strong> ${concepts.length}</p>
+            <p><strong>Days with additions:</strong> ${sortedDates.length}</p>
+${sortedDates
+    .map((date) => {
+        const dateConcepts = conceptsByDate.get(date)!
+        const dateObj = new Date(date + 'T00:00:00')
+        const formattedDate = dateObj.toLocaleDateString('en-US', {
+            weekday: 'long',
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        })
+        return `            <h2>${escapeHtml(formattedDate)}</h2>
+            <ul>
+${dateConcepts
+    .sort((a, b) => a.name.localeCompare(b.name))
+    .map((c) => `                <li><a href="/concept/${c.id}">${escapeHtml(c.name)}</a></li>`)
+    .join('\n')}
+            </ul>`
+    })
+    .join('\n')}
+            <p><a href="/">← Back to all concepts</a></p>
+        </article>
+    </noscript>`
+
+    html = html.replace('</body>', `${noscriptContent}\n    </body>`)
+
+    return html
+}
+
+const historyDir = join(distDir, 'history')
+mkdirSync(historyDir, { recursive: true })
+writeFileSync(join(historyDir, 'index.html'), generateHistoryPageHtml())
+console.log('  ✓ Created history page')
+
 // Create 404.html for GitHub Pages fallback (copy of index.html)
 writeFileSync(join(distDir, '404.html'), indexHtml)
 console.log('  ✓ Created 404.html fallback')
 
-console.log(`\n✓ Static pages generated: ${conceptCount + tagCount + categoryCount + 6} total`)
+console.log(`\n✓ Static pages generated: ${conceptCount + tagCount + categoryCount + 7} total`)
 console.log(`  - Homepage: 1`)
 console.log(`  - Statistics: 1`)
 console.log(`  - Random: 1`)
 console.log(`  - Categories listing: 1`)
 console.log(`  - Featured: 1`)
+console.log(`  - History: 1`)
 console.log(`  - Concepts: ${conceptCount}`)
 console.log(`  - Tags: ${tagCount}`)
 console.log(`  - Category pages: ${categoryCount}`)

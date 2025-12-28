@@ -15,6 +15,7 @@ import BooksPage from './pages/books'
 import ArticlesPage from './pages/articles'
 import ReferencesPage from './pages/references'
 import NotesPage from './pages/notes'
+import HistoryPage from './pages/history'
 
 const rootElement = document.getElementById('root')
 
@@ -45,6 +46,7 @@ ReactDOM.createRoot(rootElement).render(
                     <Route path='/references/:referenceId' element={<ReferencesPage />} />
                     <Route path='/notes' element={<NotesPage />} />
                     <Route path='/notes/:noteId' element={<NotesPage />} />
+                    <Route path='/history' element={<HistoryPage />} />
                 </Route>
             </Routes>
         </BrowserRouter>
