@@ -3,16 +3,29 @@
     "name": "Product Market Fit (PMF)",
     "summary": "The degree to which a product satisfies strong market demand.",
     "explanation": "Product Market Fit occurs when a product strongly satisfies the needs of a specific market segment - people want it, use it, and tell others about it. Before PMF, focus on finding the right product; after PMF, focus on scaling. Signs of PMF include organic growth, high retention, and customers who would be very disappointed if the product disappeared. For creators and knowledge entrepreneurs, PMF means your content or product genuinely solves a problem people care about, not just one you think they should care about.",
-    "tags": ["businesses", "products", "strategies"],
+    "tags": [
+        "businesses",
+        "products",
+        "strategies"
+    ],
     "category": "Concepts",
     "icon": "FaBullseye",
     "featured": false,
-    "aliases": ["PMF", "Market fit"],
-    "relatedConcepts": ["minimum-viable-product", "ideal-customer-profile", "human-market-fit"],
+    "aliases": [
+        "PMF",
+        "Market fit"
+    ],
+    "relatedConcepts": [
+        "minimum-viable-product",
+        "ideal-customer-profile",
+        "human-market-fit"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Product+Market+Fit+(PMF)"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

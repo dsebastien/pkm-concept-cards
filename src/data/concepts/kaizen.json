@@ -36,6 +36,11 @@
     ],
     "references": [
         {
+            "title": "Kaizen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaizen",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"
@@ -66,5 +71,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

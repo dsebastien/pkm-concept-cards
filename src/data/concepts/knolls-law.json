@@ -3,12 +3,23 @@
     "name": "Knoll's Law of Media Accuracy",
     "summary": "Everything in the news seems accurate except for stories where you have firsthand knowledge.",
     "explanation": "Knoll's Law of Media Accuracy states: 'Everything you read in the newspapers is absolutely true except for the rare story of which you happen to have firsthand knowledge.' This observation highlights how media coverage often contains inaccuracies, oversimplifications, or misunderstandings that only become apparent to domain experts. For knowledge workers, Knoll's Law is a reminder to apply critical thinking to all information sources, not just those covering unfamiliar topics. If media gets wrong the things you know well, it likely makes similar errors in areas you don't know. This reinforces the importance of primary sources, cross-referencing, and maintaining healthy skepticism toward secondhand information.",
-    "tags": ["media", "critical-thinking", "accuracy", "laws"],
+    "tags": [
+        "media",
+        "critical-thinking",
+        "accuracy",
+        "laws"
+    ],
     "category": "Principles",
     "icon": "FaNewspaper",
     "featured": false,
-    "aliases": ["Gell-Mann Amnesia Effect"],
-    "relatedConcepts": ["critical-thinking", "sturgeons-law", "signal-to-noise-ratio"],
+    "aliases": [
+        "Gell-Mann Amnesia Effect"
+    ],
+    "relatedConcepts": [
+        "critical-thinking",
+        "sturgeons-law",
+        "signal-to-noise-ratio"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Knoll's+Law+of+Media+Accuracy"
     ],
@@ -20,5 +31,7 @@
             "type": "websites"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

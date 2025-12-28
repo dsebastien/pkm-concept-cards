@@ -3,16 +3,31 @@
     "name": "Zebras vs Unicorns",
     "summary": "Zebra companies aim to be profitable while improving society, unlike growth-obsessed unicorns.",
     "explanation": "Zebras vs Unicorns represents two opposing business philosophies. Unicorns are startups valued at $1B+, focused on rapid growth, venture capital, and market domination - often at any cost. Zebras take a different approach: they're not here to sacrifice themselves for growth. They aim to be profitable while improving society. They're enthusiastic, optimistic, and profoundly human. Scale and growth don't matter to them - being a calm business is fine. Zebras fix what unicorns break. The zebra movement advocates for businesses that are both black AND white: profitable AND good for society, rather than choosing one at the expense of the other.",
-    "tags": ["entrepreneurship", "business-philosophy", "ethics", "sustainability", "startups"],
+    "tags": [
+        "entrepreneurship",
+        "business-philosophy",
+        "ethics",
+        "sustainability",
+        "startups"
+    ],
     "category": "Concepts",
     "icon": "FaBalanceScale",
     "featured": false,
-    "aliases": ["Zebra Companies", "Zebra Movement"],
-    "relatedConcepts": ["calm-business", "default-alive-business", "work-life-balance"],
+    "aliases": [
+        "Zebra Companies",
+        "Zebra Movement"
+    ],
+    "relatedConcepts": [
+        "calm-business",
+        "default-alive-business",
+        "work-life-balance"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Zebras+vs+Unicorns"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-26"
 }

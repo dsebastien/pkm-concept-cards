@@ -3,16 +3,29 @@
     "name": "Audience Acquisition Flywheel",
     "summary": "A self-reinforcing cycle where content attracts audience, which generates more content and growth.",
     "explanation": "The Audience Acquisition Flywheel is a growth mechanism where each action feeds the next: Content attracts audience → Audience provides feedback and engagement → Insights improve future content → Better content attracts more audience. Unlike linear marketing, flywheels compound over time. Early momentum is slow, but once spinning, the flywheel becomes increasingly powerful. For creators, building a flywheel means designing systems where success breeds more success through network effects, referrals, and compound learning.",
-    "tags": ["businesses", "growth", "marketing"],
+    "tags": [
+        "businesses",
+        "growth",
+        "marketing"
+    ],
     "category": "Concepts",
     "icon": "FaRedoAlt",
     "featured": false,
-    "aliases": ["Content flywheel", "Growth flywheel"],
-    "relatedConcepts": ["flywheels", "viral-loop", "compound-growth"],
+    "aliases": [
+        "Content flywheel",
+        "Growth flywheel"
+    ],
+    "relatedConcepts": [
+        "flywheels",
+        "viral-loop",
+        "compound-growth"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Audience+acquisition+flywheel"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

@@ -27,6 +27,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Mind map - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mind_map",
+            "type": "website"
+        },
+        {
             "title": "Obsidian Starter Kit",
             "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
             "type": "other"
@@ -57,5 +62,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

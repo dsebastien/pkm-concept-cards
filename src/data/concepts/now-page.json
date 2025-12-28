@@ -3,12 +3,23 @@
     "name": "Now Page",
     "summary": "A webpage showing what you're focused on at this point in your life.",
     "explanation": "A Now Page is a webpage (typically at /now) that describes what you're currently focused on in your life and work. Unlike an About page (who you are) or a Contact page (how to reach you), a Now page captures your current priorities, projects, and interests. Created by Derek Sivers, it serves both as external communication and personal clarity - updating it forces reflection on whether your activities align with your stated focus. It's a public commitment device.",
-    "tags": ["communications", "personal", "websites"],
+    "tags": [
+        "communications",
+        "personal",
+        "websites"
+    ],
     "category": "Concepts",
     "icon": "FaClock",
     "featured": false,
-    "aliases": ["/now page", "What I'm doing now"],
-    "relatedConcepts": ["personal-manifesto", "goal-setting", "focus"],
+    "aliases": [
+        "/now page",
+        "What I'm doing now"
+    ],
+    "relatedConcepts": [
+        "personal-manifesto",
+        "goal-setting",
+        "focus"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Now+page"
     ],
@@ -20,5 +31,7 @@
             "type": "websites"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

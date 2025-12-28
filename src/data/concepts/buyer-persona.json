@@ -3,16 +3,29 @@
     "name": "Buyer Persona",
     "summary": "A semi-fictional representation of your ideal customer based on research and data.",
     "explanation": "A Buyer Persona is a detailed profile of your ideal customer, including demographics, behaviors, goals, challenges, and decision-making patterns. Unlike vague target audiences, personas are specific and human - 'Sarah, 35, marketing manager struggling with information overload.' Personas guide content creation, product development, and marketing by ensuring you're solving real problems for real people. For creators, a clear persona prevents trying to please everyone and enables focused, resonant content.",
-    "tags": ["businesses", "marketing", "strategies"],
+    "tags": [
+        "businesses",
+        "marketing",
+        "strategies"
+    ],
     "category": "Concepts",
     "icon": "FaUserAlt",
     "featured": false,
-    "aliases": ["Customer persona", "Marketing persona"],
-    "relatedConcepts": ["ideal-customer-profile", "product-market-fit", "empathy-canvas"],
+    "aliases": [
+        "Customer persona",
+        "Marketing persona"
+    ],
+    "relatedConcepts": [
+        "ideal-customer-profile",
+        "product-market-fit",
+        "empathy-canvas"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Buyer+Persona"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

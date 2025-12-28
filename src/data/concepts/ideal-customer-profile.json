@@ -3,16 +3,29 @@
     "name": "Ideal Customer Profile (ICP)",
     "summary": "A description of the company or customer type most likely to benefit from your offering.",
     "explanation": "An Ideal Customer Profile (ICP) describes the characteristics of customers who get the most value from your product and are most likely to become successful, long-term users. While buyer personas focus on individuals, ICP often includes firmographic details for B2B (company size, industry, tech stack). A clear ICP helps focus sales and marketing efforts, improves customer success, and reduces churn. For creators, ICP thinking helps identify which audience segments to prioritize.",
-    "tags": ["businesses", "marketing", "strategies"],
+    "tags": [
+        "businesses",
+        "marketing",
+        "strategies"
+    ],
     "category": "Concepts",
     "icon": "FaCrosshairs",
     "featured": false,
-    "aliases": ["ICP", "Ideal customer"],
-    "relatedConcepts": ["buyer-persona", "product-market-fit", "human-market-fit"],
+    "aliases": [
+        "ICP",
+        "Ideal customer"
+    ],
+    "relatedConcepts": [
+        "buyer-persona",
+        "product-market-fit",
+        "human-market-fit"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Ideal+Customer+Profile+(ICP)"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

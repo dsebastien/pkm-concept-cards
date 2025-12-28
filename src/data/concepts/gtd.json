@@ -36,9 +36,14 @@
     ],
     "references": [
         {
+            "title": "Getting Things Done - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Getting_Things_Done",
+            "type": "website"
+        },
+        {
             "title": "GTD Official Website",
             "url": "https://gettingthingsdone.com",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Obsidian Starter Kit",
@@ -81,5 +86,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

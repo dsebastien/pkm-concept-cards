@@ -3,16 +3,32 @@
     "name": "Helper's High",
     "summary": "The positive emotional and physical response experienced when helping others.",
     "explanation": "Helper's High is the endorphin rush and positive feelings experienced when helping others. This phenomenon demonstrates that altruism is not just good for the recipient but also beneficial for the helper. The effect includes feelings of euphoria, increased energy, and a sense of calm. In knowledge work and PKM, sharing knowledge, teaching others, and contributing to communities can trigger this response. This creates a virtuous cycle: helping feels good, which motivates more helping, which builds social capital and strengthens communities.",
-    "tags": ["psychology", "well-being", "sharing", "teaching", "helping"],
+    "tags": [
+        "psychology",
+        "well-being",
+        "sharing",
+        "teaching",
+        "helping"
+    ],
     "category": "Concepts",
     "icon": "FaHandHoldingHeart",
     "featured": false,
-    "aliases": ["Giver's glow", "Altruistic joy"],
-    "relatedConcepts": ["intrinsic-motivation", "reciprocity", "social-capital", "virtuous-circle"],
+    "aliases": [
+        "Giver's glow",
+        "Altruistic joy"
+    ],
+    "relatedConcepts": [
+        "intrinsic-motivation",
+        "reciprocity",
+        "social-capital",
+        "virtuous-circle"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Helper's+High"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

@@ -3,16 +3,35 @@
     "name": "Overton Window",
     "summary": "The range of ideas considered politically acceptable at a given time.",
     "explanation": "The Overton Window describes the range of ideas the public considers acceptable in a given society at a given time. Ideas inside the window are mainstream; those outside are seen as radical. The window can shift over time as culture evolves. Understanding the Overton Window helps in communication - ideas just outside the window can gradually be moved in, while those far outside need stepping stones. It explains why radical ideas today may become common sense tomorrow.",
-    "tags": ["psychology", "societies", "communications"],
+    "tags": [
+        "psychology",
+        "societies",
+        "communications"
+    ],
     "category": "Concepts",
     "icon": "FaWindowMaximize",
     "featured": false,
-    "aliases": ["Window of discourse", "Acceptable discourse range"],
-    "relatedConcepts": ["paradigm-shifts", "mental-models", "first-principles"],
+    "aliases": [
+        "Window of discourse",
+        "Acceptable discourse range"
+    ],
+    "relatedConcepts": [
+        "paradigm-shifts",
+        "mental-models",
+        "first-principles"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Overton+window"
     ],
     "articles": [],
-    "references": [],
-    "tutorials": []
+    "references": [
+        {
+            "title": "Overton window - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Overton_window",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

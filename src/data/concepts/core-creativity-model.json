@@ -3,16 +3,29 @@
     "name": "CORE Creativity Model",
     "summary": "A creativity framework: Collect, Organize, Reflect, Express.",
     "explanation": "The CORE Creativity Model structures creative work into four phases: Collect (gather inputs, inspiration, and raw materials), Organize (structure and connect collected materials), Reflect (think deeply about patterns and possibilities), and Express (create output and share it). This maps well to PKM activities: capture is Collection, processing and linking is Organization, review and synthesis is Reflection, and writing or creating is Expression. Understanding these phases helps balance your creative work rather than getting stuck in perpetual collection.",
-    "tags": ["creativity", "frameworks", "processes"],
+    "tags": [
+        "creativity",
+        "frameworks",
+        "processes"
+    ],
     "category": "Frameworks",
     "icon": "FaLightbulb",
     "featured": false,
-    "aliases": ["CORE model", "Creativity cycle"],
-    "relatedConcepts": ["code-method", "progressive-summarization", "capture-system"],
+    "aliases": [
+        "CORE model",
+        "Creativity cycle"
+    ],
+    "relatedConcepts": [
+        "code-method",
+        "progressive-summarization",
+        "capture-system"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/CORE+creativity+model"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-26"
 }

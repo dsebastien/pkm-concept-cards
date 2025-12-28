@@ -3,16 +3,29 @@
     "name": "And But Therefore (ABT) Storytelling",
     "summary": "A narrative structure using 'And, But, Therefore' to create compelling stories.",
     "explanation": "ABT (And, But, Therefore) is a storytelling framework that creates narrative tension and resolution. 'And' establishes the context, 'But' introduces conflict or a problem, and 'Therefore' provides the resolution or action taken. This simple structure transforms flat, list-like communication ('and, and, and') into engaging narratives. Developed by Randy Olson, ABT helps scientists, business people, and anyone communicate more effectively by tapping into the brain's natural affinity for story structure.",
-    "tags": ["communications", "storytelling", "frameworks"],
+    "tags": [
+        "communications",
+        "storytelling",
+        "frameworks"
+    ],
     "category": "Techniques",
     "icon": "FaBook",
     "featured": false,
-    "aliases": ["ABT framework", "And But Therefore"],
-    "relatedConcepts": ["curiosity-gap", "hook-context-main-points", "high-concept-ideas"],
+    "aliases": [
+        "ABT framework",
+        "And But Therefore"
+    ],
+    "relatedConcepts": [
+        "curiosity-gap",
+        "hook-context-main-points",
+        "high-concept-ideas"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/And+but+and+therefore+(ABT)+storytelling"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

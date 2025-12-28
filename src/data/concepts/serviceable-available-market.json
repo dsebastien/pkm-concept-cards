@@ -3,11 +3,18 @@
     "name": "Serviceable Available Market (SAM)",
     "summary": "The segment of TAM targeted by your products that is within your geographical reach.",
     "explanation": "Serviceable Available Market (SAM) is the portion of the Total Addressable Market that your products or services can actually reach given your current capabilities, geography, or focus. While TAM is theoretical, SAM is more realistic - it's the market you could serve if you had dominant market share in your specific segment. For creators, SAM might be limited by language, price point, or specialization. Understanding SAM helps set realistic goals.",
-    "tags": ["businesses", "market-analysis", "strategies"],
+    "tags": [
+        "businesses",
+        "market-analysis",
+        "strategies"
+    ],
     "category": "Concepts",
     "icon": "FaFilter",
     "featured": false,
-    "aliases": ["SAM", "Serviceable market"],
+    "aliases": [
+        "SAM",
+        "Serviceable market"
+    ],
     "relatedConcepts": [
         "total-addressable-market",
         "serviceable-obtainable-market",
@@ -18,5 +25,7 @@
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

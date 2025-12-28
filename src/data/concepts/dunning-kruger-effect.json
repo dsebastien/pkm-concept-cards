@@ -32,6 +32,11 @@
     ],
     "references": [
         {
+            "title": "Dunning-Kruger effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"
@@ -52,5 +57,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

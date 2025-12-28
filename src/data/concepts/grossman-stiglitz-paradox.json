@@ -14,7 +14,10 @@
     "category": "Principles",
     "icon": "FaBalanceScale",
     "featured": false,
-    "aliases": ["Information Paradox", "Grossman-Stiglitz Theorem"],
+    "aliases": [
+        "Information Paradox",
+        "Grossman-Stiglitz Theorem"
+    ],
     "relatedConcepts": [],
     "relatedNotes": [],
     "articles": [
@@ -31,5 +34,7 @@
             "type": "paper"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-27",
+    "dateModified": "2025-12-28"
 }

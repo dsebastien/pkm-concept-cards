@@ -3,16 +3,29 @@
     "name": "Schelling Point",
     "summary": "A solution people converge on naturally without explicit communication.",
     "explanation": "A Schelling Point (or focal point) is a solution that people tend to choose independently when they cannot communicate, because it seems natural, obvious, or special. If asked to meet a stranger in New York City without specifying where, many would choose Grand Central Station or Times Square. In communication and coordination, Schelling Points emerge from shared culture, conventions, or salient features. Understanding this helps design systems and messages that guide people toward intended outcomes without explicit instruction.",
-    "tags": ["communications", "game-theory", "coordination"],
+    "tags": [
+        "communications",
+        "game-theory",
+        "coordination"
+    ],
     "category": "Concepts",
     "icon": "FaMapMarkerAlt",
     "featured": false,
-    "aliases": ["Focal point", "Natural meeting point"],
-    "relatedConcepts": ["mental-models", "social-proof", "systems-thinking"],
+    "aliases": [
+        "Focal point",
+        "Natural meeting point"
+    ],
+    "relatedConcepts": [
+        "mental-models",
+        "social-proof",
+        "systems-thinking"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/The+Schelling+Point"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

@@ -26,6 +26,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Mindfulness-based stress reduction - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction",
+            "type": "website"
+        },
+        {
             "title": "Journaling Deep Dive Workshop",
             "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
             "type": "other"
@@ -36,5 +41,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

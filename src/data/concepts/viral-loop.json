@@ -3,16 +3,29 @@
     "name": "Viral Loop",
     "summary": "A growth mechanism where each user brings in additional users through inherent product mechanics.",
     "explanation": "A Viral Loop is a growth mechanism built into a product where using it naturally leads to inviting others. The classic example is 'invite friends to get more storage' or 'share this to unlock features.' A viral coefficient > 1 means each user brings in more than one new user, enabling exponential growth. For creators, viral loops might include shareable content, referral programs, or collaborative features. The key is making sharing a natural, valuable part of the user experience rather than forced promotion.",
-    "tags": ["businesses", "growth", "marketing"],
+    "tags": [
+        "businesses",
+        "growth",
+        "marketing"
+    ],
     "category": "Concepts",
     "icon": "FaViral",
     "featured": false,
-    "aliases": ["Viral growth", "Referral loop"],
-    "relatedConcepts": ["audience-acquisition-flywheel", "compound-growth", "social-proof"],
+    "aliases": [
+        "Viral growth",
+        "Referral loop"
+    ],
+    "relatedConcepts": [
+        "audience-acquisition-flywheel",
+        "compound-growth",
+        "social-proof"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Viral+loop"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

@@ -3,12 +3,22 @@
     "name": "Failure as Identity",
     "summary": "The harmful transformation of failure from an action (I failed) into an identity (I am a failure).",
     "explanation": "Failure has been transformed from an action (I failed) into an identity (I am a failure). This is especially true in a fixed mindset, where people believe their abilities are static and unchangeable. When failure becomes part of your identity rather than just something that happened, it can severely damage confidence and prevent future attempts. The antidote is adopting a growth mindset, where failure is seen as a learning opportunity and a normal part of the path to success, not a reflection of who you are.",
-    "tags": ["psychology", "failures", "identities", "mindsets", "confidence"],
+    "tags": [
+        "psychology",
+        "failures",
+        "identities",
+        "mindsets",
+        "confidence"
+    ],
     "category": "Concepts",
     "icon": "FaUserSlash",
     "featured": false,
     "aliases": [],
-    "relatedConcepts": ["growth-mindset", "impostor-syndrome", "success-breeds-confidence"],
+    "relatedConcepts": [
+        "growth-mindset",
+        "impostor-syndrome",
+        "success-breeds-confidence"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Failure+has+been+transformed+from+an+action+into+an+identity"
     ],
@@ -20,5 +30,7 @@
         }
     ],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

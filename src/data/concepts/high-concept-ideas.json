@@ -3,16 +3,29 @@
     "name": "High-Concept Ideas",
     "summary": "Ideas that can be explained in a single sentence while generating immediate interest.",
     "explanation": "High-Concept Ideas are concepts so clear and compelling they can be explained in one sentence while instantly generating interest. 'Uber for dog walking' or 'Airbnb for office space' immediately convey value proposition. High-concept thinking helps in product development, content creation, and communication. If you can't explain your idea simply, it may be too complex or unfocused. For creators, developing high-concept descriptions helps cut through noise and makes your work more shareable and memorable.",
-    "tags": ["businesses", "communications", "ideas"],
+    "tags": [
+        "businesses",
+        "communications",
+        "ideas"
+    ],
     "category": "Concepts",
     "icon": "FaLightbulb",
     "featured": false,
-    "aliases": ["One-liner ideas", "Elevator pitch concepts"],
-    "relatedConcepts": ["minimum-viable-product", "curiosity-gap", "concept-handle"],
+    "aliases": [
+        "One-liner ideas",
+        "Elevator pitch concepts"
+    ],
+    "relatedConcepts": [
+        "minimum-viable-product",
+        "curiosity-gap",
+        "concept-handle"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/High-concept+ideas"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

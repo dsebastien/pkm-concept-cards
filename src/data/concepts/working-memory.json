@@ -3,16 +3,30 @@
     "name": "Working Memory",
     "summary": "The limited-capacity system for temporarily holding and manipulating information.",
     "explanation": "Working Memory is the cognitive system responsible for temporarily holding and manipulating information needed for complex cognitive tasks. It has limited capacity - typically 4-7 items - and information decays quickly without rehearsal. Working memory is the 'mental workspace' where thinking happens. PKM systems extend working memory by externalizing information, allowing you to offload details and free up mental space for higher-order thinking. This is why 'your brain is for having ideas, not holding them.'",
-    "tags": ["cognition", "concepts", "memories", "psychology"],
+    "tags": [
+        "cognition",
+        "concepts",
+        "memories",
+        "psychology"
+    ],
     "category": "Concepts",
     "icon": "FaMemory",
     "featured": false,
-    "aliases": ["Short-term memory"],
-    "relatedConcepts": ["brain-dumps", "chunking", "cognitive-load", "pkm"],
+    "aliases": [
+        "Short-term memory"
+    ],
+    "relatedConcepts": [
+        "brain-dumps",
+        "chunking",
+        "cognitive-load",
+        "pkm"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Context+switching"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

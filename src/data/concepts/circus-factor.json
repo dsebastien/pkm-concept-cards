@@ -3,16 +3,29 @@
     "name": "Circus Factor",
     "summary": "The risk of team members leaving for more exciting opportunities elsewhere.",
     "explanation": "Circus Factor is a playful twist on Bus Factor: instead of team members being hit by a bus, they 'run away to join the circus' - leaving for more exciting opportunities. While Bus Factor is about knowledge concentration, Circus Factor highlights retention and engagement risks. Are team members challenged and fulfilled? Would they leave if something more exciting came along? For knowledge workers, consider what keeps you engaged and whether your work environment provides enough 'circus' to keep you interested.",
-    "tags": ["teams", "cultures", "motivations"],
+    "tags": [
+        "teams",
+        "cultures",
+        "motivations"
+    ],
     "category": "Concepts",
     "icon": "FaTheaterMasks",
     "featured": false,
-    "aliases": ["Retention risk", "Engagement factor"],
-    "relatedConcepts": ["bus-factor", "intrinsic-motivation", "ikigai"],
+    "aliases": [
+        "Retention risk",
+        "Engagement factor"
+    ],
+    "relatedConcepts": [
+        "bus-factor",
+        "intrinsic-motivation",
+        "ikigai"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Circus+factor"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

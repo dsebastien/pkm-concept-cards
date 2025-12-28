@@ -3,16 +3,30 @@
     "name": "Unfair Advantage",
     "summary": "A unique edge that cannot be easily copied or bought by competitors.",
     "explanation": "An Unfair Advantage is something that gives you an edge that cannot be easily replicated, bought, or achieved by others. Unlike competitive advantages which can be copied, unfair advantages are unique to you. Examples include: unique knowledge combinations (polymath skills), access to networks, personal experiences, specific expertise developed over years, or proprietary systems. In PKM, your accumulated knowledge graph, unique perspectives, and developed workflows become unfair advantages. Building a PKM system is itself creating an unfair advantage.",
-    "tags": ["businesses", "strategies", "concepts"],
+    "tags": [
+        "businesses",
+        "strategies",
+        "concepts"
+    ],
     "category": "Concepts",
     "icon": "FaTrophy",
     "featured": false,
-    "aliases": ["Competitive moat", "Unique edge"],
-    "relatedConcepts": ["compound-growth", "knowledge-graph", "polymath", "social-capital"],
+    "aliases": [
+        "Competitive moat",
+        "Unique edge"
+    ],
+    "relatedConcepts": [
+        "compound-growth",
+        "knowledge-graph",
+        "polymath",
+        "social-capital"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Unfair+advantage"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

@@ -3,11 +3,20 @@
     "name": "Business as a System",
     "summary": "A mental model that views a business not just as a product or legal entity, but as an interconnected system of processes, channels, and components.",
     "explanation": "A business isn't just a product - it's a complex system of interconnected processes. This perspective shift is crucial for entrepreneurs and business owners who often focus too narrowly on the product while neglecting other essential components.\n\nInstead of thinking of a business as a legal entity that collects money for a product, it's better to think of it as a set of puzzle pieces, all of which need to function for the whole thing to work.\n\n**The three essential pieces of a business system:**\n\n1. **Defined Market**: A business has a defined market where customers already exist. Understanding who your customers are and where they congregate is foundational.\n\n2. **Reliable Channels**: A business has reliable channels to reach customers in that market. This includes inbound and outbound channels that drive customers to your offering.\n\n3. **Product**: A business has a product that serves customers in that market. Note that the product is only one-third of the final 'product' that constitutes a business.\n\n**Additional system components:**\n\n- **Positioning**: Defines what market you're part of and why you're better for a subset of customers than the main player\n- **Pricing model**: How you charge and collect payment\n- **Customer service model**: How you support customers throughout their lifecycle\n\nThis systems view has a practical implication: an organized business (one with clear, documented processes) is a sellable business. The systematization itself creates value beyond the product.",
-    "tags": ["businesses", "systems-thinking", "entrepreneurship", "mental-models", "strategies"],
+    "tags": [
+        "businesses",
+        "systems-thinking",
+        "entrepreneurship",
+        "mental-models",
+        "strategies"
+    ],
     "category": "Frameworks",
     "icon": "FaSitemap",
     "featured": false,
-    "aliases": ["Business Systems Thinking", "Business as System"],
+    "aliases": [
+        "Business Systems Thinking",
+        "Business as System"
+    ],
     "relatedConcepts": [
         "systems-thinking",
         "business-model-canvas",
@@ -25,5 +34,7 @@
         }
     ],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

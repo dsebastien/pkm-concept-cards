@@ -3,11 +3,19 @@
     "name": "Four Pillars of Creativity",
     "summary": "Anne-Laure Le Cunff's framework identifying Capture, Practice, Create, and Share as essential elements for nurturing creativity.",
     "explanation": "The Four Pillars of Creativity is a framework developed by Anne-Laure Le Cunff (founder of Ness Labs) that identifies four essential elements for nurturing and sustaining creative output:\n\n1. **Capture**: Actively collect ideas, observations, and inspirations from your daily life and environment. This involves creating a reliable system to capture fleeting thoughts before they disappear.\n\n2. **Practice**: Regularly engage in creative activities without attachment to outcomes. This means showing up consistently and treating creativity as a skill that improves with deliberate practice rather than waiting for inspiration.\n\n3. **Create**: Transform captured ideas into tangible outputs through active creation. This pillar emphasizes moving from consumption to production, turning raw materials into something new.\n\n4. **Share**: Put your creative work out into the world to receive feedback, connect with others, and complete the creative cycle. Sharing creates accountability and allows ideas to evolve through collaboration.\n\nThis framework aligns well with PKM principles and emphasizes that creativity is not a mystical talent but a systematic practice that anyone can develop. The pillars work together as a cycle: capturing fuels practice, practice enables creation, and sharing leads to new ideas to capture.",
-    "tags": ["creativity", "frameworks", "mindful-productivity", "creative-process"],
+    "tags": [
+        "creativity",
+        "frameworks",
+        "mindful-productivity",
+        "creative-process"
+    ],
     "category": "Frameworks",
     "icon": "FaLightbulb",
     "featured": false,
-    "aliases": ["4 Pillars of Creativity", "Ness Labs Creativity Framework"],
+    "aliases": [
+        "4 Pillars of Creativity",
+        "Ness Labs Creativity Framework"
+    ],
     "relatedConcepts": [
         "capture-system",
         "brainstorming",
@@ -25,5 +33,7 @@
         }
     ],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

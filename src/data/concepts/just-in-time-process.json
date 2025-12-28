@@ -3,16 +3,32 @@
     "name": "Just-in-Time Process",
     "summary": "Develop processes only when they are actually needed, avoiding premature optimization and ensuring relevance to current context.",
     "explanation": "Just-in-Time Process is a principle borrowed from Lean Manufacturing applied to process design and workflow creation. The core idea is simple: develop processes when they are actually needed, not before.\n\nThis approach offers several benefits:\n\n- **Avoids wasted effort**: You don't spend time creating processes for hypothetical scenarios that may never occur.\n\n- **Ensures contextual relevance**: Processes created in response to real needs are naturally adapted to the current context, constraints, and requirements.\n\n- **Reduces complexity**: By only creating what's needed, you keep your system of processes lean and manageable.\n\n- **Enables learning**: Real-world experience informs better process design than theoretical planning.\n\nJust like in Lean Manufacturing where you produce only what is needed, when it is needed, and in the quantity needed, the same principle applies to processes. Wait for the genuine need to emerge, then design a process that addresses it effectively.\n\nThis doesn't mean avoiding all planning - it means being pragmatic about when formalization is truly valuable versus when it's premature optimization. Less is more.",
-    "tags": ["processes", "lean", "efficiencies", "pragmatism", "simplicity"],
+    "tags": [
+        "processes",
+        "lean",
+        "efficiencies",
+        "pragmatism",
+        "simplicity"
+    ],
     "category": "Principles",
     "icon": "FaStream",
     "featured": false,
-    "aliases": ["JIT Process", "On-Demand Process Design"],
-    "relatedConcepts": ["lean-manufacturing", "yagni", "start-small", "less-is-more"],
+    "aliases": [
+        "JIT Process",
+        "On-Demand Process Design"
+    ],
+    "relatedConcepts": [
+        "lean-manufacturing",
+        "yagni",
+        "start-small",
+        "less-is-more"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Just-in-time+process"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

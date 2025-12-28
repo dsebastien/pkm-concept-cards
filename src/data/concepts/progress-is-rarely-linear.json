@@ -3,16 +3,32 @@
     "name": "Progress is Rarely Linear",
     "summary": "Real progress comes in spurts after periods of seemingly stagnant effort.",
     "explanation": "Progress is rarely linear. We may work tirelessly for months without significant visible results, then 'all of a sudden' experience a breakthrough and make a leap forward. This non-linear nature of progress can feel random and discouraging during the plateaus. Understanding this pattern is crucial for maintaining motivation. Persistence is key - it helps reduce the apparent randomness by keeping you in the game long enough for breakthroughs to occur. The key is to trust the process during the flat periods, knowing that invisible progress is happening beneath the surface and will eventually manifest as visible gains.",
-    "tags": ["progress", "successes", "persistence", "consistency", "mindsets"],
+    "tags": [
+        "progress",
+        "successes",
+        "persistence",
+        "consistency",
+        "mindsets"
+    ],
     "category": "Principles",
     "icon": "FaChartLine",
     "featured": false,
-    "aliases": ["Non-linear Progress", "Breakthrough Effect"],
-    "relatedConcepts": ["persistence", "consistency", "compound-growth", "delayed-gratification"],
+    "aliases": [
+        "Non-linear Progress",
+        "Breakthrough Effect"
+    ],
+    "relatedConcepts": [
+        "persistence",
+        "consistency",
+        "compound-growth",
+        "delayed-gratification"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Progress+is+rarely+linear"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

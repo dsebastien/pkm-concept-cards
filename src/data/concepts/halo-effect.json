@@ -3,11 +3,19 @@
     "name": "Halo Effect",
     "summary": "A cognitive bias where positive impressions in one area influence perceptions in unrelated areas.",
     "explanation": "We often idealize the people we are attached to or admire. In the early stages of a relationship, everyone is prone to seeing their new interest through rose-colored glasses. We selectively focus on their best points and tend to disregard or ignore all the rest. When we find someone attractive, we tend to assume they are wonderful in all sorts of other ways as well. This is called the Halo effect by psychologists. This bias extends beyond relationships - we may assume an expert in one field is knowledgeable in others, or that a well-designed product is also high quality. Awareness of this bias helps us make more balanced judgments.",
-    "tags": ["psychology", "cognitive-biases", "perceptions", "judgments"],
+    "tags": [
+        "psychology",
+        "cognitive-biases",
+        "perceptions",
+        "judgments"
+    ],
     "category": "Concepts",
     "icon": "FaStar",
     "featured": false,
-    "aliases": ["Halo bias", "Physical attractiveness stereotype"],
+    "aliases": [
+        "Halo bias",
+        "Physical attractiveness stereotype"
+    ],
     "relatedConcepts": [
         "confirmation-bias",
         "dunning-kruger-effect",
@@ -18,6 +26,14 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Halo+effect"
     ],
     "articles": [],
-    "references": [],
-    "tutorials": []
+    "references": [
+        {
+            "title": "Halo effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Halo_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

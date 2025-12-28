@@ -3,16 +3,30 @@
     "name": "Monthly Recurring Revenue (MRR)",
     "summary": "Predictable monthly revenue from subscriptions and recurring customers.",
     "explanation": "Monthly Recurring Revenue (MRR) is the predictable revenue a business expects every month from subscriptions and ongoing customer relationships. Unlike one-time sales, MRR compounds and provides stability. For creators, building MRR through memberships, communities, or subscription products creates sustainable income that doesn't require constant launches. MRR enables planning, investment in quality, and reduces the anxiety of unpredictable revenue streams.",
-    "tags": ["businesses", "metrics", "revenues", "saas"],
+    "tags": [
+        "businesses",
+        "metrics",
+        "revenues",
+        "saas"
+    ],
     "category": "Concepts",
     "icon": "FaDollarSign",
     "featured": false,
-    "aliases": ["MRR", "Recurring revenue"],
-    "relatedConcepts": ["lifetime-value", "subscription-business-model", "product-market-fit"],
+    "aliases": [
+        "MRR",
+        "Recurring revenue"
+    ],
+    "relatedConcepts": [
+        "lifetime-value",
+        "subscription-business-model",
+        "product-market-fit"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Monthly+Recurring+Revenue+(MRR)"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

@@ -3,11 +3,20 @@
     "name": "System Optimization Principle",
     "summary": "The principle that optimal systems minimize both energy expenditure and entropy, avoiding waste while maintaining reliability and order.",
     "explanation": "Systems are optimal when they minimize energy and entropy. This principle from systems thinking provides guidance for designing and evaluating any system, whether personal, organizational, or technical.\n\n**Minimizing Energy**\n\nSystems should not waste energy - neither their own nor ours. This manifests in several ways:\n\n- **Efficiency**: Every process should accomplish its goal with minimal resource expenditure\n- **Elimination of waste**: Remove unnecessary steps, redundancies, and activities that don't add value\n- **Reduced friction**: Make common operations easy and fast\n- **Automation**: Let systems handle repetitive tasks that don't require human judgment\n- **Cognitive load**: Minimize the mental energy required to use and maintain the system\n\n**Minimizing Entropy**\n\nEntropy represents disorder, chaos, and unpredictability. Optimal systems maintain order:\n\n- **Reliability**: The system should work consistently and predictably\n- **Maintenance**: Regular upkeep prevents gradual degradation\n- **Clear structure**: Organization reduces chaos and makes information findable\n- **Documentation**: Captured knowledge prevents information loss\n- **Feedback loops**: Systems should self-correct and adapt to maintain stability\n\n**Practical applications:**\n\n- In PKM: Minimize the effort to capture and retrieve knowledge while keeping information organized\n- In productivity: Reduce decision-making overhead while maintaining consistent output\n- In business: Streamline processes while ensuring quality and reliability\n- In software: Optimize performance while maintaining code maintainability\n\nThe tension between these two goals (minimizing energy vs. minimizing entropy) is where design skill matters - finding the sweet spot where the system is both efficient and reliable.",
-    "tags": ["systems-thinking", "optimizations", "efficiencies", "entropy", "systems-design"],
+    "tags": [
+        "systems-thinking",
+        "optimizations",
+        "efficiencies",
+        "entropy",
+        "systems-design"
+    ],
     "category": "Principles",
     "icon": "FaCogs",
     "featured": false,
-    "aliases": ["Energy and Entropy Principle", "System Efficiency"],
+    "aliases": [
+        "Energy and Entropy Principle",
+        "System Efficiency"
+    ],
     "relatedConcepts": [
         "systems-thinking",
         "lean-manufacturing",
@@ -20,5 +29,7 @@
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

@@ -3,16 +3,29 @@
     "name": "Ultracrepidarianism",
     "summary": "Giving opinions on matters beyond one's knowledge or expertise.",
     "explanation": "Ultracrepidarianism describes the practice of giving opinions on topics beyond one's expertise. From the Latin 'sutor, ne ultra crepidam' (shoemaker, not beyond the shoe), it warns against overstepping the bounds of one's competence. In the information age, everyone can broadcast opinions on everything, making ultracrepidarianism rampant. For knowledge workers, it's a reminder to stay humble about the limits of expertise, to qualify opinions appropriately, and to recognize this tendency in information sources.",
-    "tags": ["communications", "epistemology", "critical-thinking"],
+    "tags": [
+        "communications",
+        "epistemology",
+        "critical-thinking"
+    ],
     "category": "Concepts",
     "icon": "FaExclamationTriangle",
     "featured": false,
-    "aliases": ["Overstepping expertise", "Opining beyond knowledge"],
-    "relatedConcepts": ["dunning-kruger-effect", "impostor-syndrome", "subject-matter-expert"],
+    "aliases": [
+        "Overstepping expertise",
+        "Opining beyond knowledge"
+    ],
+    "relatedConcepts": [
+        "dunning-kruger-effect",
+        "impostor-syndrome",
+        "subject-matter-expert"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Ultracrepidarianism"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

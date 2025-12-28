@@ -3,11 +3,20 @@
     "name": "ADHD",
     "summary": "A disorder of self-regulation affecting attention control and inhibitory functions.",
     "explanation": "ADHD (Attention Deficit Hyperactivity Disorder) is a disorder of self-regulation that affects a person's ability to regulate their attention. People with ADHD have difficulty controlling their mental switch - it's either 'on' or 'off' and challenging to change. This manifests as sometimes being unable to pay attention, and other times being unable to stop paying attention (hyperfocus). ADHD is characterized by weak inhibitory control and a limited attention span (around 15 minutes compared to the typical 1 hour). Understanding ADHD helps knowledge workers design systems that accommodate attention fluctuations rather than fighting against them. Techniques like journaling, time boxing, and external structure can be particularly helpful for people with ADHD.",
-    "tags": ["attention", "brains", "cognition", "self-regulation", "psychology"],
+    "tags": [
+        "attention",
+        "brains",
+        "cognition",
+        "self-regulation",
+        "psychology"
+    ],
     "category": "Concepts",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Attention Deficit Hyperactivity Disorder", "ADD"],
+    "aliases": [
+        "Attention Deficit Hyperactivity Disorder",
+        "ADD"
+    ],
     "relatedConcepts": [
         "sustained-attention",
         "focus",
@@ -20,6 +29,14 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/ADHD"
     ],
     "articles": [],
-    "references": [],
-    "tutorials": []
+    "references": [
+        {
+            "title": "Attention deficit hyperactivity disorder - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

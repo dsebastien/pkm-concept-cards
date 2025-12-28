@@ -38,9 +38,14 @@
     ],
     "references": [
         {
+            "title": "Circle of competence - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Circle_of_competence",
+            "type": "website"
+        },
+        {
             "title": "Farnam Street: Circle of Competence",
             "url": "https://fs.blog/circle-of-competence/",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Journaling Deep Dive Workshop",
@@ -53,5 +58,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-27",
+    "dateModified": "2025-12-28"
 }

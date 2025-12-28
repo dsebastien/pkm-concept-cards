@@ -3,16 +3,29 @@
     "name": "Productized Services",
     "summary": "Services packaged with fixed scope, price, and deliverables like a product.",
     "explanation": "Productized Services package traditionally custom services into standardized offerings with fixed scope, price, and deliverables. Instead of hourly billing for undefined work, you offer specific outcomes at set prices. Examples include 'logo design in 48 hours for $500' or 'PKM system setup for $2000'. This makes services easier to sell, deliver, and scale. For experts, productizing services captures knowledge and processes, making delivery more efficient while maintaining service quality.",
-    "tags": ["businesses", "services", "strategies"],
+    "tags": [
+        "businesses",
+        "services",
+        "strategies"
+    ],
     "category": "Concepts",
     "icon": "FaBox",
     "featured": false,
-    "aliases": ["Packaged services", "Service products"],
-    "relatedConcepts": ["minimum-viable-product", "tiered-pricing", "systems-thinking"],
+    "aliases": [
+        "Packaged services",
+        "Service products"
+    ],
+    "relatedConcepts": [
+        "minimum-viable-product",
+        "tiered-pricing",
+        "systems-thinking"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Productized+services"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

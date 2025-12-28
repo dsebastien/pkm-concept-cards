@@ -3,16 +3,29 @@
     "name": "Lifetime Memberships",
     "summary": "One-time payment for permanent access to a product or community.",
     "explanation": "Lifetime Memberships offer perpetual access to a product, service, or community for a single upfront payment. This appeals to customers who prefer owning rather than renting and can provide significant upfront capital for creators. However, it requires careful pricing to remain sustainable and may limit future revenue from early supporters. Best used when the product has stable long-term value and the creator has other revenue streams to sustain ongoing development.",
-    "tags": ["businesses", "pricing", "models"],
+    "tags": [
+        "businesses",
+        "pricing",
+        "models"
+    ],
     "category": "Concepts",
     "icon": "FaInfinity",
     "featured": false,
-    "aliases": ["Lifetime access", "Lifetime deal"],
-    "relatedConcepts": ["subscription-business-model", "tiered-pricing", "lifetime-value"],
+    "aliases": [
+        "Lifetime access",
+        "Lifetime deal"
+    ],
+    "relatedConcepts": [
+        "subscription-business-model",
+        "tiered-pricing",
+        "lifetime-value"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Lifetime+memberships"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

@@ -40,6 +40,11 @@
     ],
     "references": [
         {
+            "title": "Entropy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Entropy",
+            "type": "website"
+        },
+        {
             "title": "Entropy: Why Life Always Seems to Get More Complicated by Shane Parrish",
             "url": "https://fs.blog/entropy/",
             "type": "websites"
@@ -50,5 +55,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-27",
+    "dateModified": "2025-12-28"
 }

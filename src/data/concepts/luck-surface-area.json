@@ -3,11 +3,18 @@
     "name": "Luck Surface Area",
     "summary": "Increasing opportunities for luck by doing more and telling more people.",
     "explanation": "Luck Surface Area is a concept by Jason Roberts suggesting that you can increase your luck by expanding the surface area where luck can strike. The formula is: Luck = Doing x Telling. Doing more (creating, shipping, experimenting) creates more opportunities. Telling more people (sharing work, building in public, networking) increases the chance someone notices. For knowledge workers, this means publishing notes, sharing insights, participating in communities, and making your work visible. Your digital garden and public notes expand your luck surface area.",
-    "tags": ["businesses", "concepts", "strategies"],
+    "tags": [
+        "businesses",
+        "concepts",
+        "strategies"
+    ],
     "category": "Concepts",
     "icon": "FaDice",
     "featured": false,
-    "aliases": ["Surface area of luck", "Creating luck"],
+    "aliases": [
+        "Surface area of luck",
+        "Creating luck"
+    ],
     "relatedConcepts": [
         "digital-garden",
         "reciprocity",
@@ -20,5 +27,7 @@
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

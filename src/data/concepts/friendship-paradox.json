@@ -22,6 +22,14 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Frienship+paradox"
     ],
     "articles": [],
-    "references": [],
-    "tutorials": []
+    "references": [
+        {
+            "title": "Friendship paradox - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Friendship_paradox",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

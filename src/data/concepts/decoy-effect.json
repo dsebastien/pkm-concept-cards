@@ -26,10 +26,17 @@
     "articles": [],
     "references": [
         {
+            "title": "Decoy effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Decoy_effect",
+            "type": "website"
+        },
+        {
             "title": "Clarity 101 Workshop",
             "url": "https://store.dsebastien.net/l/knowii-clarity-101",
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

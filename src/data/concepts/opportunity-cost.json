@@ -34,6 +34,11 @@
     ],
     "references": [
         {
+            "title": "Opportunity cost - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Opportunity_cost",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"
@@ -64,5 +69,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

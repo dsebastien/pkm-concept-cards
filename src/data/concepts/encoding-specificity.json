@@ -29,6 +29,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Encoding specificity principle - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Encoding_specificity_principle",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"
@@ -49,5 +54,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
 }

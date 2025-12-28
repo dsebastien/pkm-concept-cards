@@ -3,16 +3,32 @@
     "name": "Glucksshuld",
     "summary": "The guilt one feels at one's own good fortune - the inverse of Schadenfreude.",
     "explanation": "Glucksshuld (German: Glücksschuld) is the guilt one feels at one's own good fortune. It's essentially the inverse of Schadenfreude (pleasure at others' misfortune).\n\nThis emotion manifests in various ways:\n\n**Survivor's guilt**: Feeling bad for having escaped hardship that affected others.\n\n**Success guilt**: Discomfort with achievements when others are struggling.\n\n**Privilege awareness**: The uncomfortable recognition that your advantages are unearned or arbitrary.\n\n**Crisis avoidance guilt**: The ability to choose to ignore various crises when you want to, while knowing others cannot.\n\n**Why understanding Glucksshuld matters:**\n\n1. **Validates a common feeling**: Many successful or fortunate people experience this but don't have a word for it.\n\n2. **Enables healthier processing**: Naming the emotion helps address it constructively.\n\n3. **Informs giving and helping**: Understanding this feeling can motivate positive action rather than paralysis.\n\n4. **Balances perspective**: While some guilt can be healthy, excessive Glucksshuld can prevent enjoying legitimate success.\n\nThe solution isn't to eliminate the feeling but to channel it productively - using your good fortune to help others while also allowing yourself to appreciate what you have.",
-    "tags": ["psychology", "emotions", "successes", "guilt", "fortunes"],
+    "tags": [
+        "psychology",
+        "emotions",
+        "successes",
+        "guilt",
+        "fortunes"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Success Guilt", "Fortune Guilt", "Glücksschuld"],
-    "relatedConcepts": ["impostor-syndrome", "gratitude", "pay-it-forward"],
+    "aliases": [
+        "Success Guilt",
+        "Fortune Guilt",
+        "Glücksschuld"
+    ],
+    "relatedConcepts": [
+        "impostor-syndrome",
+        "gratitude",
+        "pay-it-forward"
+    ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Gl%C3%BCcksshuld"
     ],
     "articles": [],
     "references": [],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

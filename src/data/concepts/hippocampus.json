@@ -29,6 +29,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Hippocampus - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hippocampus",
+            "type": "website"
+        },
+        {
             "title": "Obsidian Starter Course",
             "url": "https://store.dsebastien.net/l/obsidian-starter-course",
             "type": "other"
@@ -49,5 +54,7 @@
             "type": "other"
         }
     ],
-    "tutorials": []
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
 }
