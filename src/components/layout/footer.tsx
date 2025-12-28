@@ -23,27 +23,6 @@ const Footer: React.FC = () => {
                             A curated collection of concepts, methods, and principles.
                         </p>
                         <Link
-                            to='/random'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaDice className='h-4 w-4' />
-                            Random Concept
-                        </Link>
-                        <Link
-                            to='/statistics'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaChartBar className='h-4 w-4' />
-                            Statistics
-                        </Link>
-                        <Link
-                            to='/categories'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaFolder className='h-4 w-4' />
-                            Categories
-                        </Link>
-                        <Link
                             to='/featured'
                             className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
                         >
@@ -56,6 +35,27 @@ const Footer: React.FC = () => {
                         >
                             <FaCompass className='h-4 w-4' />
                             Unexplored
+                        </Link>
+                        <Link
+                            to='/random'
+                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
+                        >
+                            <FaDice className='h-4 w-4' />
+                            Random Concept
+                        </Link>
+                        <Link
+                            to='/categories'
+                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
+                        >
+                            <FaFolder className='h-4 w-4' />
+                            Categories
+                        </Link>
+                        <Link
+                            to='/statistics'
+                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
+                        >
+                            <FaChartBar className='h-4 w-4' />
+                            Statistics
                         </Link>
                     </div>
 
