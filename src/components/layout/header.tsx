@@ -19,7 +19,8 @@ interface NavLink {
     external?: boolean
 }
 
-const navLinks: NavLink[] = [
+// Links that are always visible (even on mobile, as icons)
+const alwaysVisibleLinks: NavLink[] = [
     {
         to: '/featured',
         label: 'Featured',
@@ -27,16 +28,20 @@ const navLinks: NavLink[] = [
         color: 'text-amber-400 bg-amber-500/10 hover:bg-amber-500/20'
     },
     {
-        to: '/random',
-        label: 'Random',
-        icon: <FaDice className='h-5 w-5' />,
-        color: 'bg-primary/10 hover:bg-primary/20'
-    },
-    {
         to: '/unexplored',
         label: 'Unexplored',
         icon: <FaCompass className='h-5 w-5' />,
         color: 'text-emerald-400 bg-emerald-500/10 hover:bg-emerald-500/20'
+    }
+]
+
+// Links that go into the hamburger menu on smaller screens
+const menuLinks: NavLink[] = [
+    {
+        to: '/random',
+        label: 'Random',
+        icon: <FaDice className='h-5 w-5' />,
+        color: 'bg-primary/10 hover:bg-primary/20'
     },
     {
         to: '/categories',
@@ -104,13 +109,14 @@ const Header: React.FC = () => {
                             </Link>
                         </div>
 
-                        {/* Desktop Navigation Links */}
-                        <div className='hidden items-center gap-2 lg:flex'>
-                            {navLinks.map((link) => (
+                        {/* Navigation Links */}
+                        <div className='flex items-center gap-1 sm:gap-2'>
+                            {/* Always visible links (icons on mobile, labels on xl) */}
+                            {alwaysVisibleLinks.map((link) => (
                                 <Link
                                     key={link.to}
                                     to={link.to}
-                                    className={`flex items-center gap-2 rounded-lg px-3 py-2 transition-colors xl:px-4 ${link.color}`}
+                                    className={`flex items-center gap-2 rounded-lg p-2 transition-colors sm:px-3 sm:py-2 xl:px-4 ${link.color}`}
                                     title={link.label}
                                 >
                                     {link.icon}
@@ -118,12 +124,12 @@ const Header: React.FC = () => {
                                 </Link>
                             ))}
 
-                            {/* Website Link */}
+                            {/* Website Link - always visible */}
                             <a
                                 href='https://www.dsebastien.net'
                                 target='_blank'
                                 rel='noopener noreferrer'
-                                className='bg-primary/10 hover:bg-primary/20 flex items-center gap-2 rounded-lg px-3 py-2 transition-colors xl:px-4'
+                                className='bg-primary/10 hover:bg-primary/20 flex items-center gap-2 rounded-lg p-2 transition-colors sm:px-3 sm:py-2 xl:px-4'
                                 title='DeveloPassion Website'
                             >
                                 <img
@@ -133,21 +139,36 @@ const Header: React.FC = () => {
                                 />
                                 <span className='hidden xl:inline'>Website</span>
                             </a>
-                        </div>
 
-                        {/* Mobile Menu Button */}
-                        <button
-                            onClick={() => setIsMenuOpen(!isMenuOpen)}
-                            className='bg-primary/10 hover:bg-primary/20 flex h-10 w-10 items-center justify-center rounded-lg transition-colors lg:hidden'
-                            aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
-                            aria-expanded={isMenuOpen}
-                        >
-                            {isMenuOpen ? (
-                                <FaTimes className='h-5 w-5' />
-                            ) : (
-                                <FaBars className='h-5 w-5' />
-                            )}
-                        </button>
+                            {/* Menu links - visible on lg+ screens */}
+                            <div className='hidden items-center gap-2 lg:flex'>
+                                {menuLinks.map((link) => (
+                                    <Link
+                                        key={link.to}
+                                        to={link.to}
+                                        className={`flex items-center gap-2 rounded-lg px-3 py-2 transition-colors xl:px-4 ${link.color}`}
+                                        title={link.label}
+                                    >
+                                        {link.icon}
+                                        <span className='hidden xl:inline'>{link.label}</span>
+                                    </Link>
+                                ))}
+                            </div>
+
+                            {/* Hamburger Menu Button - visible on smaller screens */}
+                            <button
+                                onClick={() => setIsMenuOpen(!isMenuOpen)}
+                                className='bg-primary/10 hover:bg-primary/20 flex h-10 w-10 items-center justify-center rounded-lg transition-colors lg:hidden'
+                                aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
+                                aria-expanded={isMenuOpen}
+                            >
+                                {isMenuOpen ? (
+                                    <FaTimes className='h-5 w-5' />
+                                ) : (
+                                    <FaBars className='h-5 w-5' />
+                                )}
+                            </button>
+                        </div>
                     </div>
                 </nav>
             </header>
@@ -161,7 +182,7 @@ const Header: React.FC = () => {
                 onClick={() => setIsMenuOpen(false)}
             >
                 <div className='flex flex-1 flex-col items-center justify-center gap-4 p-6'>
-                    {navLinks.map((link) => (
+                    {menuLinks.map((link) => (
                         <Link
                             key={link.to}
                             to={link.to}
@@ -171,21 +192,6 @@ const Header: React.FC = () => {
                             <span>{link.label}</span>
                         </Link>
                     ))}
-
-                    {/* Website Link */}
-                    <a
-                        href='https://www.dsebastien.net'
-                        target='_blank'
-                        rel='noopener noreferrer'
-                        className='bg-primary/10 hover:bg-primary/20 flex w-full max-w-xs items-center justify-center gap-3 rounded-xl px-6 py-4 text-lg font-medium transition-all hover:scale-105'
-                    >
-                        <img
-                            src='/assets/images/developassion-logo.png'
-                            alt='DeveloPassion'
-                            className='h-5 w-5 rounded-full object-contain'
-                        />
-                        <span>Website</span>
-                    </a>
                 </div>
 
                 {/* Close hint */}
