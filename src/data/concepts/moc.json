@@ -7,7 +7,7 @@
         "knowledge-management",
         "linking",
         "navigation",
-        "organization"
+        "organizations"
     ],
     "category": "Techniques",
     "icon": "FaMap",
@@ -30,14 +30,14 @@
         {
             "title": "Maps of Content (MoCs) for better Knowledge Graphs",
             "url": "https://dsebastien.net/blog/2022-05-15-maps-of-content",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "A Case for MOCs - Obsidian Forum",
             "url": "https://forum.obsidian.md/t/a-case-for-mocs/2418",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Obsidian Starter Kit",

@@ -7,7 +7,7 @@
         "gratitude",
         "research",
         "psychology",
-        "science",
+        "sciences",
         "positive-psychology"
     ],
     "category": "Concepts",
@@ -32,7 +32,7 @@
         {
             "title": "Greater Good Science Center",
             "url": "https://greatergood.berkeley.edu/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Knowii Community",

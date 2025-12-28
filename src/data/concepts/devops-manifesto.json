@@ -29,12 +29,12 @@
         {
             "title": "DevOps - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/DevOps",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "What is DevOps?",
             "url": "https://aws.amazon.com/devops/what-is-devops/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

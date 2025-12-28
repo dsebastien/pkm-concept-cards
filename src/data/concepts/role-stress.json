@@ -4,11 +4,11 @@
     "summary": "Stress from conflicting role expectations, ambiguous responsibilities, or role overload.",
     "explanation": "Role stress encompasses the psychological strain that comes from problems with work roles, including: role conflict (competing demands from different roles or within a single role), role ambiguity (unclear expectations, responsibilities, or how to succeed), role overload (more demands than can reasonably be met), and role erosion (role becoming less meaningful or important). Role stress is particularly common in: matrix organizations, cross-functional work, boundary-spanning positions, and times of organizational change. Effects include: reduced job satisfaction, increased turnover intentions, anxiety, and decreased performance. Management strategies include: clarifying expectations, negotiating priorities when conflicts arise, setting boundaries around role scope, and regular communication with stakeholders about role definition. For knowledge workers who often hold multiple simultaneous roles, managing role stress is an essential skill.",
     "tags": [
-        "stress",
+        "stresses",
         "work",
         "psychology",
         "organizational",
-        "career"
+        "careers"
     ],
     "category": "Concepts",
     "icon": "FaTheaterMasks",
@@ -19,7 +19,7 @@
         "Work role stress"
     ],
     "relatedConcepts": [
-        "burnout",
+        "burnouts",
         "work-life-balance",
         "boundaries",
         "decision-fatigue",

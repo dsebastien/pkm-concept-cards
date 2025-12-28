@@ -5,7 +5,7 @@
     "explanation": "Temporal Tags are tags that capture time-related context beyond simple dates. Examples include life stages (student, new-parent, retirement), project phases (planning, execution, review), seasons (summer-2024), or states (current, someday, archived). Unlike dates which are rigid, temporal tags capture meaningful time contexts that help you find and organize content based on when it was relevant. They're particularly useful for identifying notes that may need updating or archiving as circumstances change.",
     "tags": [
         "concepts",
-        "organization",
+        "organizations",
         "tagging"
     ],
     "category": "Concepts",

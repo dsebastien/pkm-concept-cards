@@ -5,8 +5,8 @@
     "explanation": "Leverage points are places in complex systems where small interventions can produce large effects. Donella Meadows identified a hierarchy of leverage points, from shallow to deep: parameters (weakest), buffers, structure, delays, negative feedback loops, positive feedback loops, information flows, rules, self-organization, goals, paradigms, and power to transcend paradigms (strongest). The concept teaches: not all intervention points are equal, deeper leverage points are harder to find but more powerful, and system change often fails by working at shallow levels. Examples include: changing rules (moderate leverage) vs. changing incentives (higher leverage) vs. changing mindsets (highest leverage). Understanding leverage points helps: identify where effort will be most effective, avoid wasting resources on low-leverage interventions, and recognize why some changes are hard. For knowledge workers, leverage points suggest: looking for high-leverage interventions, understanding systems before intervening, and recognizing that the obvious intervention point may not be the most effective.",
     "tags": [
         "systems-thinking",
-        "change",
-        "strategy",
+        "changes",
+        "strategies",
         "intervention",
         "effectiveness"
     ],
@@ -21,7 +21,7 @@
     "relatedConcepts": [
         "systems-thinking",
         "change-management",
-        "strategy",
+        "strategies",
         "second-order-thinking",
         "feedback-loops",
         "paradigms"

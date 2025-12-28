@@ -1,5 +1,5 @@
 {
-    "id": "anxiety",
+    "id": "anxieties",
     "name": "Anxiety",
     "summary": "A state of worry, unease, or fear about uncertain future events, ranging from normal to clinical levels.",
     "explanation": "Anxiety is an emotional state characterized by feelings of tension, worried thoughts, and physical changes like increased heart rate. While some anxiety is normal and even helpful (motivating preparation for challenges), chronic or excessive anxiety interferes with daily functioning. Anxiety involves the amygdala triggering threat responses even when no real danger exists, and can manifest as generalized worry, panic attacks, social anxiety, or specific phobias. Modern life provides constant triggers: information overload, uncertainty, and always-on connectivity. Managing anxiety involves understanding its physical basis, cognitive techniques like reframing and challenging catastrophic thoughts, lifestyle factors (sleep, exercise, caffeine reduction), and practices like mindfulness. For knowledge workers, anxiety often stems from unclear priorities, perfectionism, and feeling behind.",
@@ -8,7 +8,7 @@
         "psychology",
         "well-being",
         "emotions",
-        "stress"
+        "stresses"
     ],
     "category": "Concepts",
     "icon": "FaHeartbeat",

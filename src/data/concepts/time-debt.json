@@ -23,7 +23,7 @@
         "limit-work-in-progress",
         "opportunity-cost",
         "parkinson-law",
-        "burnout",
+        "burnouts",
         "mental-energy",
         "timeboxing"
     ],
@@ -32,7 +32,7 @@
         {
             "title": "Time Debt: The Hidden Cost of Overcommitment",
             "url": "https://nesslabs.com/time-debt",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

@@ -4,7 +4,7 @@
     "summary": "A philosophy of technology use focused on intentionally choosing tools that support your values.",
     "explanation": "Digital Minimalism is a philosophy of technology use in which you focus your online time on a small number of carefully selected activities that support your values, and then happily miss out on everything else. Coined by Cal Newport, it's not about rejecting technology but about being intentional. For PKM practitioners, digital minimalism means: choosing fewer but better tools, resisting the urge to try every new app, and designing your digital environment to support focus rather than distraction. Quality over quantity applies to tools too.",
     "tags": [
-        "philosophy",
+        "philosophies",
         "productivity",
         "principles"
     ],
@@ -31,7 +31,7 @@
         {
             "title": "In Defense Of Using Fewer Tools",
             "url": "https://www.dsebastien.net/in-defense-of-using-fewer-tools/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

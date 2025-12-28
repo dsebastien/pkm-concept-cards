@@ -7,7 +7,7 @@
         "decision-making",
         "mental-model",
         "thinking",
-        "probability",
+        "probabilities",
         "rationality"
     ],
     "category": "Frameworks",
@@ -35,7 +35,7 @@
         {
             "title": "Expected Value - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Expected_value",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "The Most Important Thing by Howard Marks",

@@ -6,7 +6,7 @@
     "tags": [
         "formats",
         "formatting",
-        "technology",
+        "technologies",
         "tools",
         "writing",
         "knowledge-management"
@@ -31,14 +31,14 @@
         {
             "title": "Markdown introduction",
             "url": "https://dsebastien.net/blog/2022-04-22-markdown",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "Markdown Guide",
             "url": "https://www.markdownguide.org",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Obsidian Starter Kit",

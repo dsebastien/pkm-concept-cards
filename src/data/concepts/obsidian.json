@@ -30,19 +30,19 @@
         {
             "title": "How I synchronize and backup my Obsidian notes",
             "url": "https://www.dsebastien.net/how-i-synchronize-and-backup-my-obsidian-notes/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Why Obsidian is All You Need - From Simple Notes to Complete Productivity",
             "url": "https://www.dsebastien.net/why-obsidian-is-all-you-need-from-simple-notes-to-complete-productivity/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "Obsidian Official Website",
             "url": "https://obsidian.md",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Obsidian Starter Kit",

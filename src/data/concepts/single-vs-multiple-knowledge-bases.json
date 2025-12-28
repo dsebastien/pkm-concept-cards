@@ -5,7 +5,7 @@
     "explanation": "A common question in personal knowledge management is whether to keep everything in one place or split things up—for instance, separating work notes from personal notes.\n\n**The recommendation**: Start with a single knowledge base, and only split when you have a compelling reason to do so.\n\n**Advantages of a single knowledge base**:\n- One place to search when you need to find something\n- Ability to connect all ideas together\n- Cross-pollination between work and personal knowledge\n- Simpler backup and recovery\n- No context switching between systems\n\n**When multiple knowledge bases make sense**:\n- Sensitive information (data confidentiality rules at work)\n- Collaboration requirements where others need access\n- Legal or compliance requirements\n- Fundamentally different use cases with no overlap\n\n**Drawbacks of multiple knowledge bases**:\n- Context switching overhead\n- More complex backup and disaster recovery\n- Lost connection opportunities between domains\n- Duplicated content and maintenance\n\nFor most people, the overlap between work and personal knowledge makes a unified system more beneficial than separate ones.",
     "tags": [
         "pkm",
-        "organization",
+        "organizations",
         "knowledge-management",
         "systems",
         "decision-making"

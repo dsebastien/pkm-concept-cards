@@ -7,7 +7,7 @@
         "economics",
         "productivity",
         "paradox",
-        "efficiency",
+        "efficiencies",
         "resource-management",
         "ai"
     ],
@@ -30,7 +30,7 @@
         {
             "title": "Jevons Paradox (Wikipedia)",
             "url": "https://en.wikipedia.org/wiki/Jevons_paradox",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

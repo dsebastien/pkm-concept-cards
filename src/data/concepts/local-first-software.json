@@ -7,7 +7,7 @@
         "software",
         "data-ownership",
         "tools",
-        "technology",
+        "technologies",
         "knowledge-management"
     ],
     "category": "Principles",
@@ -27,7 +27,7 @@
         {
             "title": "Local-first software: You own your data, in spite of the cloud",
             "url": "https://www.inkandswitch.com/local-first/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

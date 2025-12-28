@@ -7,8 +7,8 @@
         "writing",
         "structure",
         "storytelling",
-        "organization",
-        "communication"
+        "organizations",
+        "communications"
     ],
     "category": "Concepts",
     "icon": "FaStream",
@@ -21,7 +21,7 @@
     "relatedConcepts": [
         "storytelling",
         "writing-process",
-        "organization",
+        "organizations",
         "outlining",
         "pacing",
         "information-architecture"

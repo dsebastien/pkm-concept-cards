@@ -3,7 +3,7 @@
     "name": "Extended Mind Thesis",
     "summary": "The philosophical position that cognitive processes can extend beyond the brain into the environment.",
     "explanation": "The Extended Mind Thesis, proposed by philosophers Andy Clark and David Chalmers in 1998, argues that the mind is not confined to the brain but extends into the environment through tools and technology. In their famous thought experiment, a person who relies on a notebook for memory is considered to have that notebook as part of their cognitive system - functionally equivalent to internal memory. This has profound implications for knowledge management: your notes, tools, and systems aren't just aids to thinking but are genuine parts of your cognitive architecture. The thesis supports investing seriously in PKM systems and treating them as extensions of yourself rather than mere utilities. It also raises questions about cognitive dependency and what happens when external cognitive resources fail.",
-    "tags": ["philosophy", "cognitive-science", "mind", "technology"],
+    "tags": ["philosophies", "cognitive-science", "minds", "technologies"],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
@@ -15,7 +15,7 @@
         {
             "title": "The Extended Mind by Andy Clark and David Chalmers",
             "url": "https://en.wikipedia.org/wiki/The_Extended_Mind",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Supersizing the Mind by Andy Clark",

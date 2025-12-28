@@ -5,7 +5,7 @@
     "explanation": "The P.A.R.A method was introduced and popularized by Tiago Forte, a productivity expert known for Building a Second Brain. PARA stands for Projects (ongoing work with goals and deadlines), Areas (roles and responsibilities without end dates), Resources (reference material and inspiration), and Archives (inactive items from the other categories). PARA provides a simple skeleton to organize information consistently across any tool or platform - from note-taking apps to file systems to bookmarks. Its benefits include simplicity, flexibility, flat structure for easy navigation, scalability, and cross-platform applicability.",
     "tags": [
         "methods",
-        "organization",
+        "organizations",
         "productivity",
         "structure"
     ],
@@ -28,14 +28,14 @@
         {
             "title": "Organize Anything With The PARA Method",
             "url": "https://www.dsebastien.net/2022-04-26-para/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "The PARA Method by Tiago Forte",
             "url": "https://fortelabs.co/blog/para/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "The PARA Method (Book)",

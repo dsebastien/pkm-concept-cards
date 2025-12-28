@@ -7,7 +7,7 @@
         "education",
         "knowledge-management",
         "learning",
-        "memory",
+        "memories",
         "techniques"
     ],
     "category": "Concepts",
@@ -30,7 +30,7 @@
         {
             "title": "Spacing Effect - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Spacing_effect",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Knowii Community",

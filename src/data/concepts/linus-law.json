@@ -9,7 +9,7 @@
         "open-source",
         "collaboration",
         "code-review",
-        "quality"
+        "qualities"
     ],
     "category": "Principles",
     "icon": "FaUsers",
@@ -27,12 +27,12 @@
         {
             "title": "The Cathedral and the Bazaar",
             "url": "http://www.catb.org/~esr/writings/cathedral-bazaar/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Linus's Law - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Linus%27s_law",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

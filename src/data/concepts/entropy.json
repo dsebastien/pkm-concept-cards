@@ -9,7 +9,7 @@
         "systems-thinking",
         "physics",
         "maintenance",
-        "complexity"
+        "complexities"
     ],
     "category": "Principles",
     "icon": "FaLightbulb",
@@ -42,7 +42,7 @@
         {
             "title": "Entropy: Why Life Always Seems to Get More Complicated by Shane Parrish",
             "url": "https://fs.blog/entropy/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Clarity 101 Workshop",

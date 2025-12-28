@@ -3,12 +3,12 @@
     "name": "Trauma",
     "summary": "A deeply distressing experience that overwhelms one's ability to cope, with lasting psychological effects.",
     "explanation": "Trauma refers to deeply distressing or disturbing experiences that overwhelm a person's ability to cope, causing lasting adverse effects on mental, physical, and emotional well-being. The nature of trauma is that when something happens, the survival brain makes an initial interpretation of whether it's dangerous or safe, and trauma reactions emanate from the body. This explains why trauma responses can seem irrational - they bypass conscious thought. Trauma can lead to Post-Traumatic Stress Disorder (PTSD) and other mental health conditions. Understanding trauma is important for knowledge workers because unprocessed trauma affects cognitive function, decision-making, and the ability to focus. Healing often involves recognizing trauma responses, seeking professional help, and building supportive practices.",
-    "tags": ["mental-health", "psychology", "stress", "healing"],
+    "tags": ["mental-health", "psychology", "stresses", "healing"],
     "category": "Concepts",
     "icon": "FaHeartBroken",
     "featured": false,
     "aliases": ["Psychological trauma"],
-    "relatedConcepts": ["burnout", "mindfulness", "cognitive-defusion", "types-of-rest"],
+    "relatedConcepts": ["burnouts", "mindfulness", "cognitive-defusion", "types-of-rest"],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Trauma"
     ],

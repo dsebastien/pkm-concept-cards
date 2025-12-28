@@ -4,11 +4,11 @@
     "summary": "The explanations people create for why failures occurred, affecting learning and future behavior.",
     "explanation": "Failure attribution refers to the explanations people create for why failures occurred, which significantly affect learning, emotional response, and future behavior. Attribution patterns include: internal vs. external (was it me or the situation?), stable vs. unstable (will this cause persist?), and global vs. specific (does this affect everything or just this domain?). Healthy attribution involves: honest assessment of contributing factors, appropriate personal responsibility, and actionable conclusions. Unhealthy patterns include: self-serving bias (attributing failure to external factors exclusively), fundamental attribution error (over-attributing others' failures to their character), and learned helplessness (stable, global attributions that predict future failure). Attribution affects: emotional response (guilt vs. disappointment vs. anger), motivation (can I change this?), and behavior (what should I do differently?). Improving attribution involves: seeking external feedback, considering multiple causal factors, and focusing on controllable elements. For knowledge workers, healthy failure attribution means: honestly assessing personal contributions, identifying system factors, and focusing on actionable improvements rather than fixed characteristics.",
     "tags": [
-        "failure",
+        "failures",
         "psychology",
         "cognitive-biases",
         "learning",
-        "mindset"
+        "mindsets"
     ],
     "category": "Concepts",
     "icon": "FaArrowsAlt",

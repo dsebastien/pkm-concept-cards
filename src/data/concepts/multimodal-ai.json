@@ -5,7 +5,7 @@
     "explanation": "Multimodal AI refers to systems that can understand, process, and generate multiple types of content - text, images, audio, video - rather than being limited to a single modality. These models bridge different forms of information, enabling richer interactions. Capabilities include: image understanding (describing, analyzing, answering questions about images), image generation from text (creating visuals from descriptions), audio processing (speech, music, sound recognition and generation), video understanding and generation, and cross-modal reasoning (combining information across modalities). Examples: GPT-4V (vision), Claude with image analysis, DALL-E (text-to-image), and emerging video models. Why multimodality matters: real-world information is multimodal, enables new applications (visual assistants, creative tools), and more closely mirrors human perception. Current limitations: each modality has different challenges, cross-modal reasoning can be imperfect, and generation quality varies by modality. Applications: visual question answering, accessible content creation, design assistance, document analysis, and creative tools. For knowledge workers, multimodal AI enables: analyzing visual content, creating mixed-media outputs, and working with information in whatever form it takes.",
     "tags": [
         "ai",
-        "technology",
+        "technologies",
         "capabilities",
         "vision",
         "audio"

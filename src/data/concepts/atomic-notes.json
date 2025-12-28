@@ -6,7 +6,7 @@
     "tags": [
         "knowledge-management",
         "note-taking",
-        "organization",
+        "organizations",
         "principles"
     ],
     "category": "Principles",
@@ -33,14 +33,14 @@
         {
             "title": "Embracing Fluidity in Knowledge Management",
             "url": "https://dsebastien.net/treat-ideas-like-cattle-not-like-pets",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "Principle of atomicity - zettelkasten.de",
             "url": "https://zettelkasten.de/posts/create-zettel-from-reading-notes/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "How to Take Smart Notes",

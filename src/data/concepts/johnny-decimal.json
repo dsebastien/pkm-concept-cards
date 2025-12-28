@@ -5,7 +5,7 @@
     "explanation": "The Johnny Decimal System, created by Johnny Noble and inspired by the Dewey Decimal System, provides a framework for organizing information. It's a three-step process: 1) Divide everything into at most 10 areas, 2) Within each area, create at most 10 categories, 3) Assign unique numbers (areas: 10, 20, 30...; categories: 11, 12, 13...). The core idea is to group related information together with strict limits to keep things simple and manageable. Benefits include clear structure, easy location and identification, logical ordering (not alphabetical), and cross-platform applicability. Nothing is more than two clicks away.",
     "tags": [
         "information-management",
-        "organization",
+        "organizations",
         "structure",
         "systems"
     ],
@@ -29,14 +29,14 @@
         {
             "title": "Organize Anything With The Johnny Decimal System",
             "url": "https://www.dsebastien.net/2022-04-29-johnny-decimal/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "Johnny.Decimal Official Website",
             "url": "https://johnnydecimal.com",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Obsidian Starter Kit",

@@ -3,7 +3,7 @@
     "name": "Acta Non Verba",
     "summary": "Latin expression meaning 'Deeds, not words' - emphasizing the importance of action over talk.",
     "explanation": "Acta Non Verba is a Latin expression that translates to 'Deeds, not words'. It embodies the principle that actions speak louder than words and that real change comes from doing, not talking. This expression reminds us that words alone do not make a difference; it is our actions that define us and create impact. In personal development and productivity contexts, this principle encourages us to focus on taking concrete steps rather than merely discussing intentions or plans.",
-    "tags": ["action", "latin", "expressions", "wisdom"],
+    "tags": ["actions", "latin", "expressions", "wisdom"],
     "category": "Principles",
     "icon": "FaHammer",
     "featured": false,
@@ -17,7 +17,7 @@
         {
             "title": "Wiktionary: Acta, non verba",
             "url": "https://en.wiktionary.org/wiki/acta,_non_verba",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "tutorials": []

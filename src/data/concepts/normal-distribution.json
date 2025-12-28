@@ -5,7 +5,7 @@
     "explanation": "The normal distribution (Gaussian distribution or bell curve) is a probability distribution where values cluster around a central mean, with frequency decreasing symmetrically on both sides. Key properties: mean, median, and mode are equal; 68% of values fall within one standard deviation; 95% within two; 99.7% within three. Many natural phenomena approximate normal distributions: human height, measurement errors, test scores, and biological traits. Why it's so common: the Central Limit Theorem shows that averages of many independent random variables tend toward normal distribution regardless of underlying distribution. However, normal distribution assumptions can be dangerous when applied to domains that are actually power-law distributed (like financial returns or earthquakes). Understanding normal distribution helps: set realistic expectations (most outcomes near average), identify outliers (values beyond 2-3 standard deviations are unusual), and recognize when bell curve thinking applies versus when it doesn't. For knowledge workers, normal distribution thinking is useful for: understanding variation in performance, setting quality thresholds, and recognizing that extreme outcomes are genuinely rare in normally distributed phenomena.",
     "tags": [
         "statistics",
-        "probability",
+        "probabilities",
         "distribution",
         "mathematics",
         "analysis"

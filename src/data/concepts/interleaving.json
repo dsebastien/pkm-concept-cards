@@ -7,7 +7,7 @@
         "education",
         "knowledge-management",
         "learning",
-        "memory",
+        "memories",
         "techniques"
     ],
     "category": "Techniques",
@@ -29,7 +29,7 @@
         {
             "title": "Interleaving Books",
             "url": "https://www.dsebastien.net/interleaving-books-3/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

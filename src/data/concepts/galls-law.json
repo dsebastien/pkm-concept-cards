@@ -3,7 +3,7 @@
     "name": "Gall's Law",
     "summary": "Complex systems that work evolved from simple systems that worked.",
     "explanation": "Gall's Law states: 'A complex system that works is invariably found to have evolved from a simple system that worked.' You can't design a complex working system from scratch - complexity must be grown from simplicity. This has profound implications for PKM: start with the simplest possible system that works, then let complexity emerge organically as needed. Attempts to implement elaborate systems from day one often fail because they haven't evolved through real use.",
-    "tags": ["systems-thinking", "principles", "complexity"],
+    "tags": ["systems-thinking", "principles", "complexities"],
     "category": "Principles",
     "icon": "FaSeedling",
     "featured": false,

@@ -8,7 +8,7 @@
         "beliefs",
         "causation",
         "expectations",
-        "behavior"
+        "behaviors"
     ],
     "category": "Concepts",
     "icon": "FaCrystalBall",
@@ -23,7 +23,7 @@
         "expectations",
         "beliefs",
         "confirmation-bias",
-        "mindset",
+        "mindsets",
         "placebo-effect"
     ],
     "relatedNotes": [],

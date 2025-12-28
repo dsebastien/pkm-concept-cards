@@ -3,7 +3,7 @@
     "name": "Peak-End Rule",
     "summary": "We judge experiences based on their most intense moment and how they end, not their average.",
     "explanation": "The Peak-End Rule is a cognitive bias discovered by Nobel laureate Daniel Kahneman that describes how we remember and evaluate past experiences. Rather than averaging the entire experience, our retrospective assessment is dominated by two moments: the peak (the most emotionally intense point, positive or negative) and the end. Duration has surprisingly little impact - a phenomenon called 'duration neglect.' Kahneman's famous cold water experiment demonstrated that people preferred a longer painful experience if it ended on a slightly less painful note. For productivity and work design, this has profound implications: a project that ends well will be remembered more favorably than one with a better average experience but poor conclusion. Practical applications include: deliberately designing powerful endings for tasks and projects, front-loading negative experiences to end on highs, creating positive peak moments in workflows, and understanding why finishing strong matters more than we intuitively expect. The rule also explains why last impressions, not first impressions, often determine how we feel about experiences overall.",
-    "tags": ["psychology", "cognitive-biases", "memory", "experience-design", "decision-making"],
+    "tags": ["psychology", "cognitive-biases", "memories", "experience-design", "decision-making"],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
@@ -20,7 +20,7 @@
         {
             "title": "Peak-End Rule - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

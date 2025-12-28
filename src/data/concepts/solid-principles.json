@@ -29,12 +29,12 @@
         {
             "title": "SOLID: The First 5 Principles of Object Oriented Design",
             "url": "https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "SOLID Principles - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/SOLID",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

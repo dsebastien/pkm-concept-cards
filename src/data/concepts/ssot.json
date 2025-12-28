@@ -5,7 +5,7 @@
     "explanation": "Single Source of Truth (SSOT) is the practice of structuring information so that each data element is stored exactly once in one authoritative location. In PKM, this means having one place where you go to save and retrieve knowledge, brain dumps, and ideas. This creates reliability and trust in your system - you always know where to find things. Why centralization matters: it eliminates confusion, reduces duplication, ensures consistency, and builds confidence in your system. Combined with the DRY principle, SSOT helps maintain a clean, efficient knowledge base.",
     "tags": [
         "knowledge-management",
-        "organization",
+        "organizations",
         "principles",
         "structure"
     ],
@@ -18,7 +18,7 @@
     ],
     "relatedConcepts": [
         "dry-principle",
-        "organization",
+        "organizations",
         "pkm"
     ],
     "relatedNotes": [
@@ -29,7 +29,7 @@
         {
             "title": "Why you need a single source of truth for your PKM",
             "url": "https://www.dsebastien.net/2022-04-19-single-source-of-truth/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

@@ -6,9 +6,9 @@
     "tags": [
         "decision-making",
         "economics",
-        "change",
-        "strategy",
-        "behavior"
+        "changes",
+        "strategies",
+        "behaviors"
     ],
     "category": "Concepts",
     "icon": "FaExchangeAlt",
@@ -20,7 +20,7 @@
     ],
     "relatedConcepts": [
         "status-quo-bias",
-        "change",
+        "changes",
         "lock-in",
         "transition-costs",
         "decision-making",

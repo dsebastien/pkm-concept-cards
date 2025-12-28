@@ -4,8 +4,8 @@
     "summary": "Failures that occur in pursuit of worthy goals, with appropriate risk management and learning.",
     "explanation": "Intelligent failure is a concept from Amy Edmondson distinguishing valuable failures from preventable ones. Intelligent failures occur when: pursuing worthy goals, taking calculated risks, operating in uncertain territory, and generating learning. These contrast with: preventable failures (mistakes in known processes), complex failures (multiple factors in familiar operations), and reckless failures (unnecessary risks without learning). Characteristics of intelligent failures include: the opportunity was worth the risk, appropriate preparation was done, failure generated new knowledge, and the failure was contained (didn't cause catastrophic damage). Organizations need intelligent failures because: innovation requires experimentation, learning requires discovering what doesn't work, and competitive advantage requires trying new things. Promoting intelligent failure involves: rewarding thoughtful risk-taking, distinguishing failure types when evaluating, and creating psychological safety for appropriate experimentation. For knowledge workers, pursuing intelligent failures means: taking calculated risks on worthwhile projects, learning maximally from setbacks, and distinguishing between failures worth having and those that should be prevented.",
     "tags": [
-        "failure",
-        "innovation",
+        "failures",
+        "innovations",
         "learning",
         "risk-taking",
         "experimentation"
@@ -23,7 +23,7 @@
         "experimentation",
         "risk-taking",
         "psychological-safety",
-        "innovation",
+        "innovations",
         "learning-from-failure"
     ],
     "relatedNotes": [],

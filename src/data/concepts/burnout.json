@@ -1,5 +1,5 @@
 {
-    "id": "burnout",
+    "id": "burnouts",
     "name": "Burnout",
     "summary": "A state of chronic physical and emotional exhaustion caused by prolonged stress and overwork.",
     "explanation": "Burnout is a state of chronic physical, emotional, and mental exhaustion caused by prolonged stress, typically from work but also from other life demands. It results from exhausting all internal resources without adequate recovery. Burnout manifests through symptoms like fatigue, cynicism, reduced effectiveness, and feeling disconnected from work and life. It progresses through phases, from excessive ambition to eventual collapse. Prevention requires understanding your limits, managing energy effectively, and maintaining boundaries. Burnout is more about poor energy management and low clarity than over-giving. When there is no time for rest, the goal can only be burnout.",
@@ -7,7 +7,7 @@
         "well-being",
         "mental-health",
         "productivity",
-        "stress",
+        "stresses",
         "psychology",
         "health"
     ],

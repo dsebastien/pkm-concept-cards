@@ -5,7 +5,7 @@
     "explanation": "Heart Rate Variability (HRV) measures the variation in time intervals between consecutive heartbeats. Contrary to intuition, a healthy heart doesn't beat like a metronome - there's natural variation reflecting the dynamic balance between sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) nervous system activity. Higher HRV generally indicates greater adaptability and resilience, while low HRV is associated with chronic stress, illness, and reduced capacity to handle challenges. HRV is influenced by: sleep quality, exercise, stress levels, breathing patterns, and recovery. It can be improved through: quality sleep, aerobic exercise, stress management, slow breathing practices, and avoiding overtraining. For knowledge workers, HRV tracking (available through many wearables) provides objective data on recovery status and stress load, helping optimize performance and prevent burnout.",
     "tags": [
         "health",
-        "stress",
+        "stresses",
         "physiology",
         "resilience",
         "measurement"

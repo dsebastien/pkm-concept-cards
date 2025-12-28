@@ -5,9 +5,9 @@
     "explanation": "Many developers unconsciously tie their self-worth to the quality of their code. When code is criticized during reviews, it feels like a personal attack. This happens because we invest significant time, effort, and creativity into our work, making it feel like an extension of ourselves. However, this conflation is problematic. Code is merely a snapshot of your understanding at a specific point in time, given specific constraints and deadlines. It represents what you knew then, not who you are now or who you will become.\n\nWhen you separate your identity from your code, several benefits emerge. First, you become more receptive to feedback. Instead of becoming defensive, you can objectively evaluate whether a suggestion improves the code. Second, collaboration improves because you're no longer protecting your ego in discussions. Third, you can acknowledge mistakes without shame, leading to faster learning and better problem-solving.\n\nThis principle connects deeply to embracing imperfection. Just as it's okay for us to be imperfect, it's okay for our code to be imperfect too. Code is never truly finished; it evolves, gets refactored, and sometimes gets replaced entirely. Recognizing this helps maintain a growth mindset: today's 'bad' code is tomorrow's learning opportunity.\n\nPractically, this means: welcome code reviews as learning opportunities, not judgment sessions. When someone points out an issue, thank them for improving the codebase. Remember that even the best developers write code that later needs improvement. Your value as a professional lies not in writing perfect code, but in your ability to learn, adapt, collaborate, and continuously improve.",
     "tags": [
         "software-development",
-        "mindset",
+        "mindsets",
         "perfectionism",
-        "feedback",
+        "feedbacks",
         "growth"
     ],
     "category": "Principles",

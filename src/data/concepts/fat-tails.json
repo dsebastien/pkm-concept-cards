@@ -5,10 +5,10 @@
     "explanation": "Fat tails (or heavy tails) describe probability distributions where extreme events occur more frequently than a normal distribution would predict. In a normal distribution, events beyond 4-5 standard deviations are essentially impossible. In fat-tailed distributions, such extremes happen regularly. Where fat tails matter: financial markets (crashes and booms), natural disasters (earthquakes, pandemics), technology (viral growth), and human achievements (wealth, fame). Fat tails are dangerous because: standard risk models underestimate extremes, averages become meaningless (dominated by rare events), and planning based on 'normal' conditions fails catastrophically. Fat tail thinking requires: expecting the unexpected, building robustness to extremes, avoiding exposure to catastrophic tail events, and recognizing that past data may not capture true tail risk. The distinction is practical: in thin-tailed domains (height), extreme preparation is wasteful. In fat-tailed domains (markets), extreme preparation is essential. For knowledge workers, fat tail awareness helps: recognize domains where extreme events dominate, avoid false confidence from 'normal' periods, and design systems robust to outliers rather than optimized for averages.",
     "tags": [
         "statistics",
-        "probability",
-        "risk",
+        "probabilities",
+        "risks",
         "extremes",
-        "uncertainty"
+        "uncertainties"
     ],
     "category": "Concepts",
     "icon": "FaWaveSquare",

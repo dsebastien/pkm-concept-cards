@@ -4,7 +4,7 @@
     "summary": "Pre-defined structures that standardize note creation and boost consistency.",
     "explanation": "Templates are pre-defined note structures that standardize note creation and boost consistency. They're beneficial for note-taking and PKM because they shift focus from how to capture information to the information itself, leading to clearer thoughts and more effective learning. Templates can evolve over time as needs change. They make notes easier to find (consistent structure aids search), increase productivity (less thinking about format), and ensure important elements aren't forgotten. The Obsidian Starter Kit includes many templates for different note types.",
     "tags": [
-        "organization",
+        "organizations",
         "productivity",
         "standardization",
         "techniques"
@@ -29,7 +29,7 @@
         {
             "title": "Unlocking Efficiency and Consistency in Note-Taking: The Power of Templates",
             "url": "https://www.dsebastien.net/on-the-value-of-note-taking-templates/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

@@ -8,7 +8,7 @@
         "mental-model",
         "thinking",
         "productivity",
-        "philosophy"
+        "philosophies"
     ],
     "category": "Principles",
     "icon": "FaLightbulb",
@@ -35,7 +35,7 @@
         {
             "title": "Via Negativa - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Apophatic_theology",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Essentialism by Greg McKeown",

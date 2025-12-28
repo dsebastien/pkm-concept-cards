@@ -5,7 +5,7 @@
     "explanation": "Knowledge retention is the capacity to preserve and maintain learned information in memory over extended periods. It's one of the fundamental challenges in learning and knowledge management - we forget most of what we learn without deliberate effort to retain it.\n\n**The retention challenge:**\n\n- Hermann Ebbinghaus discovered the forgetting curve: without review, we forget approximately 70% of new information within 24 hours\n- Schools often fail to teach retention strategies, focusing on short-term memorization for tests\n- Our brains are not designed for perfect recall - they're optimized for pattern recognition and decision-making\n\n**Why a system is essential:**\n\n- You can't rely on memory alone for important knowledge\n- External systems (notes, knowledge bases) act as extended memory\n- Externalization allows intentional forgetting of details while preserving access\n\n**Strategies for improving retention:**\n\n1. **Spaced repetition** - Review information at increasing intervals\n2. **Active recall** - Practice retrieving information rather than passive re-reading\n3. **Elaboration** - Connect new knowledge to existing understanding\n4. **Teaching others** - Explaining concepts reinforces your own understanding\n5. **Writing** - The act of writing strengthens memory encoding\n6. **Linking knowledge with time** - Journaling and daily notes create temporal anchors\n7. **Regular review** - Periodic reviews (weekly, monthly) resurface important ideas\n\nIn PKM, retention is improved by both cognitive techniques (spaced repetition, active recall) and systematic approaches (regular review, connected notes, journaling).",
     "tags": [
         "learning",
-        "memory",
+        "memories",
         "knowledge-management",
         "cognitive-science",
         "skills"
@@ -32,7 +32,7 @@
         {
             "title": "Forgetting curve - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Forgetting_curve",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Knowledge Management for Beginners",

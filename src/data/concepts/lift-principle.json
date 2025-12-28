@@ -5,7 +5,7 @@
     "explanation": "The LIFT principle originated from Google's Angular code style guides but applies excellently to PKM and Information Management. LIFT stands for: Locate (quickly find what you need), Identify (easily recognize what things are), Flat structure as long as possible (avoid deep nesting), and Try to stay DRY (Don't Repeat Yourself, avoid duplicating information). This principle ensures that file and folder structures remain manageable, information is easy to find, and duplication is minimized. It's a key design principle for organizing any information system.",
     "tags": [
         "information-management",
-        "organization",
+        "organizations",
         "principles",
         "structure"
     ],
@@ -29,14 +29,14 @@
         {
             "title": "Organize Everything With The LIFT principle",
             "url": "https://www.dsebastien.net/2022-04-26-lift/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "Angular LIFT principle",
             "url": "https://angular.io/guide/styleguide#lift",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Obsidian Starter Kit",

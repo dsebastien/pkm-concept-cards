@@ -4,7 +4,7 @@
     "summary": "The tradeoff between brevity and providing enough background for understanding.",
     "explanation": "Every communication faces tension between compression (being concise) and context (providing background). Highly compressed messages are efficient for experts but confusing for newcomers. Context-rich messages are accessible but time-consuming. The right balance depends on audience knowledge and communication medium. Effective communicators calibrate this tradeoff, providing enough context for understanding while respecting attention limits. Progressive disclosure - starting compressed with context available on demand - can bridge this tension.",
     "tags": [
-        "communication",
+        "communications",
         "writing",
         "principles"
     ],

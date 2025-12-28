@@ -4,8 +4,8 @@
     "summary": "Stress caused by technology use, constant connectivity, and the pressure to keep up with digital demands.",
     "explanation": "Technostress describes the negative psychological and physiological effects of technology use, including anxiety, exhaustion, and reduced job satisfaction related to digital tools. First coined in the 1980s, it's become increasingly relevant in the age of smartphones and remote work. Sources include: techno-overload (too much information and too many tools), techno-invasion (work bleeding into personal time via devices), techno-complexity (difficulty keeping up with changing technology), techno-insecurity (fear of being replaced by technology or those who use it better), and techno-uncertainty (constant platform changes). Symptoms include: anxiety about connectivity, compulsive checking behaviors, difficulty disconnecting, and paradoxically using technology for stress relief from technology-caused stress. For knowledge workers, managing technostress requires: intentional boundaries, digital minimalism practices, and recognizing that constant availability isn't sustainable.",
     "tags": [
-        "stress",
-        "technology",
+        "stresses",
+        "technologies",
         "productivity",
         "mental-health",
         "work"
@@ -21,7 +21,7 @@
     "relatedConcepts": [
         "digital-minimalism",
         "information-overload",
-        "burnout",
+        "burnouts",
         "work-life-balance",
         "notification-fatigue",
         "continuous-partial-attention"

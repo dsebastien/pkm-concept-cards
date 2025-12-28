@@ -8,7 +8,7 @@
         "knowledge-management",
         "learning",
         "memorization",
-        "memory",
+        "memories",
         "spaced-repetition",
         "techniques"
     ],
@@ -33,14 +33,14 @@
         {
             "title": "How to Use the Leitner System for Studying",
             "url": "https://www.pocketprep.com/posts/how-to-use-the-leitner-system-for-studying",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "Leitner System - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Leitner_system",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Knowii Community",

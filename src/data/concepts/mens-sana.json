@@ -8,7 +8,7 @@
         "well-being",
         "mental-health",
         "productivity",
-        "philosophy"
+        "philosophies"
     ],
     "category": "Principles",
     "icon": "FaHeart",
@@ -18,7 +18,7 @@
         "Mind-Body Connection"
     ],
     "relatedConcepts": [
-        "burnout",
+        "burnouts",
         "work-life-balance",
         "morning-routine",
         "mindfulness"

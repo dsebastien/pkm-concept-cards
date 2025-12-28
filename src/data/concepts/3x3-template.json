@@ -9,7 +9,7 @@
         "frameworks",
         "productivity",
         "content-creation",
-        "communication"
+        "communications"
     ],
     "category": "Frameworks",
     "icon": "FaLayerGroup",
@@ -31,7 +31,7 @@
         {
             "title": "Dickie Bush on Twitter/X",
             "url": "https://twitter.com/dickiebush",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

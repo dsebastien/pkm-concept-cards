@@ -6,7 +6,7 @@
     "tags": [
         "frameworks",
         "information-management",
-        "organization",
+        "organizations",
         "principles"
     ],
     "category": "Frameworks",
@@ -17,7 +17,7 @@
     ],
     "relatedConcepts": [
         "lift-principle",
-        "organization",
+        "organizations",
         "pkms"
     ],
     "relatedNotes": [
@@ -27,7 +27,7 @@
         {
             "title": "Introducing the FILE Framework for Information and Knowledge Management",
             "url": "https://www.dsebastien.net/introducing-the-file-framework-for-information-and-knowledge-management/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

@@ -5,8 +5,8 @@
     "explanation": "The just noticeable difference (JND) or Weber's Law describes the minimum change in a stimulus that can be detected. The key finding: the JND is proportional to the original stimulus - a small change to a small thing is noticeable, but the same absolute change to a large thing isn't. The principle applies to: pricing (small price changes on expensive items go unnoticed), workload (incremental additions on heavy loads aren't felt), and gradual changes (slow drift escapes attention). Implications include: small changes can accumulate unnoticed until suddenly significant, gradual improvement or decline may not be perceived, and attention is relative not absolute. Applications include: understanding how problems grow invisibly, recognizing gradual quality drift, and using incremental change strategically. The concept explains: boiled frog syndrome (gradual change unnoticed), lifestyle creep (spending increases invisibly), and scope creep (project growth by small steps). For knowledge workers, JND suggests: watching for gradual drifts, making progress visible, and recognizing that small changes may not feel significant until they are.",
     "tags": [
         "psychology",
-        "perception",
-        "change",
+        "perceptions",
+        "changes",
         "awareness",
         "measurement"
     ],
@@ -19,8 +19,8 @@
         "Minimum perceptible difference"
     ],
     "relatedConcepts": [
-        "perception",
-        "change",
+        "perceptions",
+        "changes",
         "gradual-drift",
         "awareness",
         "scope-creep",

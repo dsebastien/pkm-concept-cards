@@ -5,7 +5,7 @@
     "explanation": "The KISS principle is a design philosophy originating from the U.S. Navy in the 1960s. The core idea is that most systems work best when they are kept simple rather than made complicated. Simplicity should be a key design goal, and unnecessary complexity should be avoided.\n\n**Why simplicity matters:**\n\n1. **Reliability**: Simple systems have fewer failure points.\n\n2. **Maintainability**: Simple systems are easier to understand, debug, and improve.\n\n3. **Accessibility**: Simple interfaces are usable by more people.\n\n4. **Speed**: Simple solutions can often be implemented faster.\n\n5. **Elegance**: There's beauty in solving problems with minimal complexity.\n\n**Alternative interpretations of KISS:**\n- Keep It Simple, Silly\n- Keep It Short and Simple\n- Keep It Short and Sweet\n- Keep It Simple and Straightforward\n- Keep It Small and Simple\n\nThe principle applies beyond engineering - to writing, communication, processes, and life choices. When in doubt, choose the simpler path.\n\nRelated principles include YAGNI (You Aren't Gonna Need It) and Occam's Razor (prefer simpler explanations).",
     "tags": [
         "principles",
-        "design",
+        "designs",
         "simplicity",
         "software-development",
         "systems"

@@ -3,12 +3,12 @@
     "name": "Allopathic Overload",
     "summary": "Being stressed out from repeated and accumulated stress over time.",
     "explanation": "Allopathic overload refers to the state of being overwhelmed by repeated stress accumulation. Unlike acute stress which comes from single events, allopathic overload results from the compounding effect of continuous stressors without adequate recovery periods. Each new stressor adds to the existing load until the system becomes overwhelmed. This concept highlights the importance of addressing stress before it accumulates to dangerous levels and implementing regular recovery practices to prevent chronic stress from developing into burnout.",
-    "tags": ["well-being", "mental-health", "burnout", "stress", "health"],
+    "tags": ["well-being", "mental-health", "burnouts", "stresses", "health"],
     "category": "Concepts",
     "icon": "FaExclamationTriangle",
     "featured": false,
     "aliases": ["Stress accumulation", "Chronic stress overload"],
-    "relatedConcepts": ["burnout", "emotional-burnout", "mental-energy", "cognitive-load"],
+    "relatedConcepts": ["burnouts", "emotional-burnout", "mental-energy", "cognitive-load"],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Allopathic+overload"
     ],

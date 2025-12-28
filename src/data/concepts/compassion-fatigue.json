@@ -7,8 +7,8 @@
         "psychology",
         "mental-health",
         "well-being",
-        "burnout",
-        "stress",
+        "burnouts",
+        "stresses",
         "coaching"
     ],
     "category": "Concepts",
@@ -20,7 +20,7 @@
         "Caregiver burnout"
     ],
     "relatedConcepts": [
-        "burnout",
+        "burnouts",
         "emotional-burnout",
         "empathy",
         "self-compassion",

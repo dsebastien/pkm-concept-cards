@@ -5,7 +5,7 @@
     "explanation": "Synchronous communication occurs in real-time, with immediate back-and-forth between participants - video calls, phone calls, in-person meetings, or live chat. Sync communication excels for: complex discussions requiring rapid iteration, emotional or sensitive topics, building relationships, generating ideas collaboratively, and resolving misunderstandings quickly. However, it has costs: coordination overhead (scheduling), interruption to focused work, time zone challenges, and requiring simultaneous availability. In contrast to async communication, sync should be used selectively - it's valuable when real-time interaction adds value, not just for convenience. Best practices include: having clear agendas, respecting time boundaries, documenting outcomes, and reserving sync for appropriate purposes. For knowledge workers, balancing sync and async communication is crucial - too much sync fragments attention, too little damages relationships and slows certain work types.",
     "tags": [
         "collaboration",
-        "communication",
+        "communications",
         "meetings",
         "real-time",
         "productivity"

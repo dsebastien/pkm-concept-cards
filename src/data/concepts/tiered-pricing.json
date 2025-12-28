@@ -3,7 +3,7 @@
     "name": "Tiered Pricing",
     "summary": "A pricing strategy offering multiple price points for different feature levels or customer segments.",
     "explanation": "Tiered Pricing offers products at multiple price points, typically with increasing features or value at each tier (e.g., Basic, Pro, Enterprise). This captures different customer segments with varying needs and willingness to pay. Lower tiers attract price-sensitive customers while higher tiers maximize revenue from those who need more. For creators, tiered pricing might offer basic content for free, premium content for a monthly fee, and personalized coaching at a premium tier.",
-    "tags": ["business", "pricing", "strategy"],
+    "tags": ["businesses", "pricing", "strategies"],
     "category": "Concepts",
     "icon": "FaLayerGroup",
     "featured": false,

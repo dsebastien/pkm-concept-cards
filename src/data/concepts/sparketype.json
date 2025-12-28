@@ -5,10 +5,10 @@
     "explanation": "The Sparketype assessment, developed by Jonathan Fields, aims to identify the nature of work that is most meaningful for you. It operates at the intersection of passion and purpose, helping you understand what type of work allows you to fully express your talents and get into flow more easily.\n\nFields identified 10 distinct Sparketypes, each representing a different way people find meaning and fulfillment in their work:\n\n1. **The Maven**: Loves the process of learning and mastering new skills and knowledge. Mavens are perpetual students driven by curiosity.\n\n2. **The Maker**: Finds joy in creating things from nothing, bringing ideas into physical form. Whether it's art, code, or products, Makers need to build.\n\n3. **The Scientist**: Driven by curiosity, loves figuring out how things work. Scientists thrive on solving puzzles and discovering answers.\n\n4. **The Essentialist**: Finds meaning in creating order, clarity, and simplicity from chaos and complexity. They distill things to their core.\n\n5. **The Performer**: Comes alive when engaging and energizing others through dynamic interaction and presence.\n\n6. **The Sage**: Fulfilled by teaching and sharing wisdom with others. Unlike Mavens who learn for themselves, Sages learn to illuminate paths for others.\n\n7. **The Warrior**: Thrives on gathering and organizing people around a common cause or mission. Warriors build and lead movements.\n\n8. **The Advisor**: Finds purpose in guiding, mentoring, and counseling others through challenges and decisions.\n\n9. **The Advocate**: Driven to champion ideas, people, or causes. They amplify and defend what they believe in.\n\n10. **The Nurturer**: Fulfilled by caring for and elevating others, helping them grow, heal, and thrive.\n\nUnderstanding your Sparketype helps you make better career decisions, structure your work for more satisfaction, and recognize why certain tasks energize you while others drain you. The assessment reveals not just your primary Sparketype but also your Shadow (what gives you secondary energy) and Anti-Sparketype (what drains you).",
     "tags": [
         "self-discovery",
-        "career",
+        "careers",
         "personality",
         "purpose",
-        "assessment",
+        "assessments",
         "work",
         "flow",
         "meaningful-work"
@@ -33,7 +33,7 @@
         {
             "title": "Sparketype.com",
             "url": "https://sparketype.com/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
@@ -57,7 +57,7 @@
         {
             "title": "Take the Sparketype Assessment",
             "url": "https://sparketype.com/sparketest/",
-            "type": "website"
+            "type": "websites"
         }
     ]
 }

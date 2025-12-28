@@ -4,7 +4,7 @@
     "summary": "A library classification system organizing knowledge into ten main classes.",
     "explanation": "The Dewey Decimal Classification (DDC) is a library classification system created by Melvil Dewey in 1876. It organizes all knowledge into ten main classes (000-999), each subdivided further. While primarily used in libraries, understanding Dewey Decimal informs PKM organization thinking: hierarchical classification has strengths (predictability, scalability) and weaknesses (forces single categorization, rigid structure). Modern PKM often prefers networked organization (links, tags) over strict hierarchies, but Dewey's systematic approach to knowledge remains influential.",
     "tags": [
-        "organization",
+        "organizations",
         "frameworks",
         "classification"
     ],

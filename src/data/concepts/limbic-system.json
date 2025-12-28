@@ -3,7 +3,7 @@
     "name": "Limbic System",
     "summary": "The brain's emotional processing center, responsible for emotions, memories, and arousal.",
     "explanation": "The Limbic System is a complex set of brain structures located on both sides of the thalamus, beneath the cerebral cortex. It's often called the 'emotional brain' because of its primary role in processing emotions, motivation, and memory formation.\n\nKey Structures:\n\n1. Amygdala: The emotional processing center\n   - Processes fear and threat detection\n   - Involved in emotional memory formation\n   - Triggers fight-or-flight responses\n\n2. Hippocampus: The memory hub\n   - Critical for forming new memories\n   - Spatial navigation and mapping\n   - Converting short-term to long-term memory\n\n3. Hypothalamus: The regulator\n   - Controls autonomic nervous system\n   - Regulates hunger, thirst, body temperature\n   - Manages hormonal responses\n\n4. Cingulate Gyrus: The bridge\n   - Connects emotions to decision-making\n   - Involved in attention and emotional processing\n\nFunctions:\n\n- Emotional responses and regulation\n- Memory formation and retrieval\n- Motivation and reward processing\n- Behavioral responses to stimuli\n- Autonomic nervous system control\n\nRelevance to Knowledge Work:\n\n- Emotions significantly affect learning and memory\n- The amygdala's involvement explains why emotionally charged information is better remembered\n- Stress and emotional states impact cognitive performance\n- Understanding the limbic system helps in designing better learning experiences\n\nThe limbic system's influence on decision-making, even unconsciously, makes it relevant for understanding human behavior, biases, and productivity.",
-    "tags": ["neuroscience", "brain", "emotions", "memory", "psychology", "biology"],
+    "tags": ["neuroscience", "brains", "emotions", "memories", "psychology", "biology"],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
@@ -14,7 +14,7 @@
         {
             "title": "Limbic system - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Limbic_system",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [],

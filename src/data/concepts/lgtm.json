@@ -6,7 +6,7 @@
     "tags": [
         "software",
         "collaboration",
-        "communication"
+        "communications"
     ],
     "category": "Concepts",
     "icon": "FaThumbsUp",
@@ -18,7 +18,7 @@
     "relatedConcepts": [
         "pull-request",
         "collaboration",
-        "feedback"
+        "feedbacks"
     ],
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Looks+Good+To+Me+(LGTM)"

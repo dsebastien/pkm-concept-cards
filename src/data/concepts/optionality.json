@@ -8,7 +8,7 @@
         "mental-models",
         "strategic-thinking",
         "antifragility",
-        "uncertainty"
+        "uncertainties"
     ],
     "category": "Frameworks",
     "icon": "FaDoorOpen",
@@ -30,7 +30,7 @@
         {
             "title": "The Barbell Strategy: Optionality in Practice",
             "url": "https://fs.blog/the-barbell-strategy/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

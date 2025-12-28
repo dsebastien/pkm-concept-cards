@@ -4,9 +4,9 @@
     "summary": "An external information processing system that augments biological cognitive capabilities.",
     "explanation": "An exocortex is a theoretical external information processing system that augments the biological brain's cognitive capabilities. The term, originating in science fiction and futurism, describes technology that extends memory, reasoning, and knowledge beyond biological limits. In practical terms today, a well-designed personal knowledge management system functions as an exocortex - extending memory through stored notes, enhancing reasoning through organized information, and amplifying creativity through unexpected connections. The concept encourages thinking of PKM tools not as simple note storage but as genuine cognitive extensions. As AI capabilities advance, the exocortex concept becomes more literal, with AI assistants serving as active thinking partners rather than passive repositories.",
     "tags": [
-        "technology",
+        "technologies",
         "cognitive-augmentation",
-        "future",
+        "futures",
         "pkm"
     ],
     "category": "Principles",
@@ -27,7 +27,7 @@
         {
             "title": "Exocortex - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Exocortex",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Obsidian Starter Kit",

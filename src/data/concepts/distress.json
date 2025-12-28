@@ -4,7 +4,7 @@
     "summary": "Negative stress that overwhelms coping ability and harms wellbeing and performance.",
     "explanation": "Distress is negative stress that exceeds our coping abilities, causing anxiety, decreased performance, and potential health problems. Unlike eustress (positive stress), distress feels threatening and uncontrollable. It can be acute (intense but short-term, like a crisis) or chronic (persistent, like ongoing job strain). Distress triggers the fight-or-flight response in ways that, when prolonged, damage health: elevated cortisol impairs immune function, cardiovascular strain increases, and cognitive function suffers. Signs include: feeling overwhelmed, difficulty concentrating, irritability, physical symptoms (headaches, muscle tension), and sleep problems. Managing distress involves: addressing root causes where possible, building coping resources, practicing stress management techniques, and knowing when to seek help. For knowledge workers, chronic distress often comes from overwork, unclear expectations, lack of control, or insufficient recovery.",
     "tags": [
-        "stress",
+        "stresses",
         "psychology",
         "health",
         "well-being",
@@ -20,8 +20,8 @@
     ],
     "relatedConcepts": [
         "eustress",
-        "burnout",
-        "anxiety",
+        "burnouts",
+        "anxieties",
         "chronic-stress",
         "allostatic-load",
         "stress-response"

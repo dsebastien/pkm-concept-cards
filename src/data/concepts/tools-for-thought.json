@@ -7,7 +7,7 @@
         "knowledge-management",
         "productivity",
         "software",
-        "technology",
+        "technologies",
         "tools"
     ],
     "category": "Tools",
@@ -36,7 +36,7 @@
         {
             "title": "PKM Tools Database",
             "url": "https://www.dsebastien.net/free-pkm-tools-database",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Obsidian Starter Kit",

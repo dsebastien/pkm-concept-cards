@@ -5,7 +5,7 @@
     "explanation": "A confidence interval is a range of values that, given the data, likely contains the true value of what you're measuring. A 95% confidence interval means: if we repeated this study many times, 95% of the calculated intervals would contain the true value. Confidence intervals communicate: the point estimate (best guess), the uncertainty (width of interval), and the precision (narrower = more precise). Why they're better than p-values: they show magnitude and uncertainty together, they enable comparing effects visually, and they're more intuitive than binary significant/not-significant. Interpreting confidence intervals: if interval doesn't include zero, effect is 'significant' at that confidence level; narrow intervals indicate precise estimates; overlapping intervals suggest effects may not differ. What confidence intervals are NOT: they don't tell you the probability the true value is in this specific interval (that's either 0% or 100%); the probability refers to the procedure, not this particular interval. For knowledge workers, confidence intervals help: understand uncertainty in estimates, compare findings more meaningfully, and recognize that point estimates alone are incomplete without their uncertainty.",
     "tags": [
         "statistics",
-        "uncertainty",
+        "uncertainties",
         "measurement",
         "research",
         "analysis"
@@ -22,7 +22,7 @@
         "statistical-significance",
         "effect-size",
         "sample-size",
-        "uncertainty",
+        "uncertainties",
         "standard-deviation",
         "estimation"
     ],

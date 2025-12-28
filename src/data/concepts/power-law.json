@@ -5,10 +5,10 @@
     "explanation": "A power law is a statistical distribution where the frequency of an event varies as a power of some attribute of that event. Unlike normal distributions (bell curves), power laws have 'fat tails' - extreme events are rare but not negligible. Examples abound: city populations (few megacities, many small towns), wealth distribution (few billionaires, many with modest income), website traffic (few sites get most visits), word frequency (few words used constantly, most rarely), and earthquake magnitudes. The key insight: in power law domains, averages are misleading because extreme events dominate. The Pareto principle (80/20 rule) reflects power law dynamics. Implications include: don't assume normal distribution, expect extreme events, recognize that small number of items often account for majority of effects, and that ranking matters more than averaging. Power laws emerge from: preferential attachment (rich get richer), network effects, and multiplicative processes. For knowledge workers, understanding power laws helps: identify where effort compounds (invest in the vital few), expect outliers (plan for extremes), and recognize that many domains aren't 'fair' bell curves but winner-take-most distributions.",
     "tags": [
         "statistics",
-        "probability",
+        "probabilities",
         "distribution",
         "systems",
-        "complexity"
+        "complexities"
     ],
     "category": "Concepts",
     "icon": "FaChartArea",

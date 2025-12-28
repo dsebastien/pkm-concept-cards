@@ -4,7 +4,7 @@
     "summary": "A productivity methodology for capturing, organizing, and completing tasks.",
     "explanation": "Getting Things Done (GTD) is a productivity and knowledge management method created by David Allen. The core principle is that anything that keeps stuff out of your head because it has captured it and is trusted to remind you appropriately, is GTD. The method involves capturing everything that has your attention, clarifying what each item means and what to do about it, organizing reminders and information, reflecting on the system regularly, and engaging with confidence. GTD emphasizes clearing your mind by externalizing commitments and using a trusted system.",
     "tags": [
-        "organization",
+        "organizations",
         "productivity",
         "systems",
         "task-management"
@@ -32,7 +32,7 @@
         {
             "title": "GTD Official Website",
             "url": "https://gettingthingsdone.com",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Getting Things Done (Book)",

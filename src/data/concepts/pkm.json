@@ -7,7 +7,7 @@
         "core-concept",
         "knowledge-management",
         "learning",
-        "organization",
+        "organizations",
         "productivity"
     ],
     "category": "Core Concepts",
@@ -31,17 +31,17 @@
         {
             "title": "12 Common Personal Knowledge Management Mistakes",
             "url": "https://www.dsebastien.net/12-common-personal-knowledge-management-mistakes-and-how-to-avoid-them/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Build Your Knowledge System for Decades, Not Months",
             "url": "https://www.dsebastien.net/build-your-knowledge-system-for-decades-not-months-why-long-term-thinking-matters-in-pkm/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Why is Personal Knowledge Management (PKM) useful",
             "url": "https://www.dsebastien.net/why-is-personal-knowledge-management-pkm-useful/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

@@ -8,7 +8,7 @@
         "machine-learning",
         "neural-networks",
         "artificial-intelligence",
-        "technology"
+        "technologies"
     ],
     "category": "Techniques",
     "icon": "FaBrain",
@@ -26,7 +26,7 @@
         {
             "title": "Deep learning - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Deep_learning",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

@@ -8,7 +8,7 @@
         "tools",
         "writing",
         "automation",
-        "efficiency"
+        "efficiencies"
     ],
     "category": "Tools",
     "icon": "FaCogs",
@@ -30,7 +30,7 @@
         {
             "title": "Espanso - Cross-platform Text Expander",
             "url": "https://espanso.org/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Knowii Community",

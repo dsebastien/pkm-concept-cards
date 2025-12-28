@@ -4,7 +4,7 @@
     "summary": "The cumulative wear and tear on the body from chronic stress and repeated adaptation.",
     "explanation": "Allostatic load refers to the physiological cost of chronic stress - the cumulative wear and tear from repeatedly activating stress responses without adequate recovery. While the body's stress response (allostasis) is adaptive for short-term challenges, persistent activation damages systems over time. High allostatic load manifests as: elevated baseline cortisol, high blood pressure, inflammation, metabolic dysregulation, and immune suppression. Contributing factors include: chronic work stress, poor sleep, lack of social support, traumatic experiences, and insufficient recovery time. The concept, developed by Bruce McEwen, explains how chronic stress literally wears out the body even without a specific disease. For knowledge workers, understanding allostatic load emphasizes that recovery isn't optional - it's essential maintenance. Stress without recovery accumulates as physiological debt that eventually demands payment.",
     "tags": [
-        "stress",
+        "stresses",
         "health",
         "physiology",
         "chronic-stress",
@@ -20,7 +20,7 @@
     ],
     "relatedConcepts": [
         "chronic-stress",
-        "burnout",
+        "burnouts",
         "stress-response",
         "cortisol",
         "recovery",

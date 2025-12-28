@@ -4,7 +4,7 @@
     "summary": "Prolonged activation of the stress response without adequate recovery, causing cumulative damage.",
     "explanation": "Chronic stress is the long-term activation of the body's stress response system without sufficient recovery periods. While acute stress is adaptive (mobilizing resources for immediate challenges), chronic stress causes cumulative harm. The body wasn't designed for persistent fight-or-flight activation. Effects include: elevated cortisol damaging memory and immune function, cardiovascular strain, inflammation, sleep disruption, anxiety, depression, and accelerated aging. Common sources include: ongoing work pressure, financial worry, relationship problems, caregiving demands, and hostile environments. Chronic stress differs from acute stress not just in duration but in its insidious nature - it becomes the 'new normal,' making it harder to recognize. For knowledge workers, chronic stress often develops gradually through sustained overwork without recovery. The solution requires addressing root causes, not just managing symptoms.",
     "tags": [
-        "stress",
+        "stresses",
         "health",
         "psychology",
         "physiology",
@@ -20,7 +20,7 @@
     ],
     "relatedConcepts": [
         "acute-stress",
-        "burnout",
+        "burnouts",
         "allostatic-load",
         "cortisol",
         "recovery",

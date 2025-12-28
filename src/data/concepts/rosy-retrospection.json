@@ -8,7 +8,7 @@
         "psychology",
         "decision-making",
         "thinking",
-        "memory"
+        "memories"
     ],
     "category": "Principles",
     "icon": "FaBrain",
@@ -29,7 +29,7 @@
         {
             "title": "Rosy Retrospection - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Rosy_retrospection",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Stumbling on Happiness - Daniel Gilbert",

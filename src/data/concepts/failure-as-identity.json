@@ -3,7 +3,7 @@
     "name": "Failure as Identity",
     "summary": "The harmful transformation of failure from an action (I failed) into an identity (I am a failure).",
     "explanation": "Failure has been transformed from an action (I failed) into an identity (I am a failure). This is especially true in a fixed mindset, where people believe their abilities are static and unchangeable. When failure becomes part of your identity rather than just something that happened, it can severely damage confidence and prevent future attempts. The antidote is adopting a growth mindset, where failure is seen as a learning opportunity and a normal part of the path to success, not a reflection of who you are.",
-    "tags": ["psychology", "failure", "identity", "mindset", "confidence"],
+    "tags": ["psychology", "failures", "identities", "mindsets", "confidence"],
     "category": "Concepts",
     "icon": "FaUserSlash",
     "featured": false,
@@ -16,7 +16,7 @@
         {
             "title": "Why Nobody Likes a Loser (NYT)",
             "url": "https://www.nytimes.com/1999/08/21/arts/why-nobody-likes-a-loser-failure-no-a-bump-on-the-road-to-success.html",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [],

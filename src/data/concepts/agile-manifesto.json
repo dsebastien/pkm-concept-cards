@@ -29,19 +29,19 @@
         {
             "title": "Manifesto for Agile Software Development",
             "url": "https://agilemanifesto.org/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Principles behind the Agile Manifesto",
             "url": "https://agilemanifesto.org/principles.html",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
         {
             "title": "Agile Manifesto - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Agile_software_development",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Knowii Community",

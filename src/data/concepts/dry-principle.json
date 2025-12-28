@@ -5,7 +5,7 @@
     "explanation": "Don't Repeat Yourself (DRY) is a principle aimed at reducing repetition of information. In knowledge management, it means avoiding duplicating information across multiple notes or locations. However, DRY is a guideline, not an absolute rule - repeating yourself in a knowledge base is sometimes okay. There are different ways to present the same ideas, different points of view to explore, many layers of reality and shades of gray. The key is being intentional about duplication rather than letting it happen accidentally.",
     "tags": [
         "best-practices",
-        "organization",
+        "organizations",
         "principles"
     ],
     "category": "Principles",
@@ -16,7 +16,7 @@
     ],
     "relatedConcepts": [
         "lift-principle",
-        "organization",
+        "organizations",
         "ssot"
     ],
     "relatedNotes": [

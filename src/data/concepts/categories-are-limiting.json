@@ -5,7 +5,7 @@
     "explanation": "The principle that 'Categories Are Limiting' challenges traditional hierarchical organization in knowledge management. Each idea is, by nature, atomic—it can be connected, used, and reused in different contexts. When you can only associate an idea with one category, it becomes stuck in a single dimension while it may actually be relevant to many different domains.\n\nCategories lead to intellectual poverty because they hinder the cross-pollination of ideas. In science and academia, there has been a tradition of exploring topics in isolation (biology, physics, mathematics, etc.). This hyper-specialization limits the possibilities of connecting and reusing ideas across domains. Many discoveries are made at the intersections of fields.\n\nIdeas should not live in isolation. Instead of rigid folder hierarchies, knowledge management benefits from more flexible approaches:\n- **Tags**: Allow multiple classifications per item\n- **Links**: Create explicit connections between related ideas\n- **Maps of Content (MoCs)**: Provide contextual organization without rigid hierarchy\n- **Backlinks**: Enable discovery of unexpected connections\n\nThis principle encourages building a web of interconnected knowledge rather than siloed categories.",
     "tags": [
         "pkm",
-        "organization",
+        "organizations",
         "principles",
         "knowledge-management",
         "categorization"

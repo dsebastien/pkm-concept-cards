@@ -4,7 +4,7 @@
     "summary": "Recurring types of failures that share common characteristics and causes.",
     "explanation": "Failure patterns are recurring types of failures that share common characteristics, causes, and potential solutions. Recognizing patterns enables: prediction (anticipating likely failure modes), prevention (addressing common causes), and faster recovery (having practiced solutions). Common failure patterns include: overconfidence failures (underestimating complexity), coordination failures (breakdowns between parties), scaling failures (what worked small fails large), and attention failures (missing important information). Pattern recognition requires: documenting failures systematically, analyzing across cases, and identifying common elements. Organizations can build: failure pattern libraries, pattern-aware checklists, and pattern-based training. Individual patterns often reflect: recurring blind spots, skill gaps, or environmental factors. Identifying personal failure patterns enables: targeted improvement, appropriate caution, and self-awareness. The anti-pattern is treating each failure as unique without recognizing recurrence. For knowledge workers, understanding failure patterns means: tracking your own recurring failures, learning from others' documented patterns, and proactively addressing identified patterns before they cause failure.",
     "tags": [
-        "failure",
+        "failures",
         "patterns",
         "learning",
         "prevention",

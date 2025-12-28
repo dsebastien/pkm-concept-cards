@@ -8,7 +8,7 @@
         "solopreneurship",
         "lifestyle",
         "work-life-balance",
-        "business"
+        "businesses"
     ],
     "category": "Concepts",
     "icon": "FaHome",
@@ -31,7 +31,7 @@
         {
             "title": "Calm businesses are a viable path too",
             "url": "https://www.dsebastien.net/developassions-newsletter-calm-business/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

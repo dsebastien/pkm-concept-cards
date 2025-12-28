@@ -7,7 +7,7 @@
         "cognitive-techniques",
         "knowledge-management",
         "learning",
-        "memory",
+        "memories",
         "mnemonic"
     ],
     "category": "Techniques",
@@ -34,7 +34,7 @@
         {
             "title": "Method of loci - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Method_of_loci",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Knowii Community",

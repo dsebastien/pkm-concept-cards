@@ -3,7 +3,7 @@
     "name": "Amara's Law",
     "summary": "We overestimate technology's short-term impact and underestimate its long-term impact.",
     "explanation": "Amara's Law states: 'We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.' This explains the hype cycle: initial excitement, disappointment when immediate transformation doesn't occur, then gradual but profound change over decades. Understanding Amara's Law helps calibrate expectations for new technologies (AI, blockchain) and reminds us that lasting change often comes slowly, then all at once.",
-    "tags": ["technology", "mental-models", "principles"],
+    "tags": ["technologies", "mental-models", "principles"],
     "category": "Principles",
     "icon": "FaMicrochip",
     "featured": false,

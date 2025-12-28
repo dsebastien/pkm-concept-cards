@@ -5,8 +5,8 @@
     "explanation": "Minimum effective dose (MED) is the smallest amount of input that produces a desired outcome - beyond which additional input provides no additional benefit and may even cause harm. Borrowed from pharmacology, the concept applies broadly: water boils at 100°C - more heat doesn't make it 'more boiled.' The principle suggests: find the minimum that works, additional effort beyond MED is wasted, and optimization means precision not maximization. Applications include: exercise (optimal recovery requires just enough stimulus), learning (minimum repetitions for retention), and productivity (smallest effort for desired result). MED thinking challenges: 'more is better' assumptions, perfectionism, and over-engineering. Identifying MED requires: experimentation, measurement, and willingness to stop at 'enough.' Risks include: underestimating the dose needed (ineffective) and confusing minimum with easy (MED may still require significant effort). For knowledge workers, MED thinking suggests: finding what actually produces results, eliminating effort that doesn't add value, and accepting 'good enough' when more doesn't help.",
     "tags": [
         "productivity",
-        "efficiency",
-        "optimization",
+        "efficiencies",
+        "optimizations",
         "minimalism",
         "effectiveness"
     ],
@@ -19,8 +19,8 @@
         "Optimal dose"
     ],
     "relatedConcepts": [
-        "efficiency",
-        "optimization",
+        "efficiencies",
+        "optimizations",
         "pareto-principle",
         "essentialism",
         "diminishing-returns",

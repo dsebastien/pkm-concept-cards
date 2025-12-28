@@ -4,7 +4,7 @@
     "summary": "A methodology for creating design systems by breaking interfaces into fundamental building blocks.",
     "explanation": "Atomic Design is a methodology developed by Brad Frost for creating design systems. It provides a mental model for crafting user interfaces in a more deliberate and hierarchical manner, inspired by chemistry's concept of atoms combining to form molecules and organisms.\n\nThe Five Levels of Atomic Design:\n\n1. Atoms: The basic building blocks - HTML tags like labels, inputs, buttons, and other elements that can't be broken down further without losing functionality.\n\n2. Molecules: Simple groups of atoms functioning together as a unit. A search form combining a label, input field, and button is a molecule.\n\n3. Organisms: Complex UI components composed of groups of molecules and/or atoms. A website header containing a logo, navigation, and search form is an organism.\n\n4. Templates: Page-level objects that place components into a layout and articulate the design's underlying content structure. Templates are like wireframes showing where content will live.\n\n5. Pages: Specific instances of templates with real content in place. Pages are the final manifestation where users interact with the design.\n\nKey Benefits:\n\n- Promotes consistency across the interface through reusable components\n- Creates a shared vocabulary between designers and developers\n- Enables faster development through component reuse\n- Makes designs easier to test and maintain\n- Scales well as products grow in complexity\n\nAtomic Design pairs well with component-based frameworks like React, Vue, and Angular, where the methodology's hierarchy maps naturally to component structures.",
     "tags": [
-        "design",
+        "designs",
         "ui-design",
         "design-systems",
         "components",
@@ -24,12 +24,12 @@
         {
             "title": "Atomic Design by Brad Frost",
             "url": "https://atomicdesign.bradfrost.com/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Atomic Design - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Atomic_design",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

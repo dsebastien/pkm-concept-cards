@@ -5,7 +5,7 @@
     "explanation": "Human-in-the-loop (HITL) is a design approach where humans remain actively involved in AI systems' decision-making processes - reviewing, approving, correcting, or overriding AI outputs. Instead of full automation, humans and AI collaborate with appropriate oversight. Why HITL matters: AI systems make errors (hallucinations, biases), some decisions require human judgment (ethical, contextual), accountability requires human involvement, and trust builds through verification. Implementation patterns: approval workflows (human reviews before AI action), exception handling (human handles edge cases), feedback loops (human corrections improve AI), and supervision (human monitors AI operation). When HITL is essential: high-stakes decisions (medical, legal, financial), novel situations (outside training distribution), ethical considerations (value judgments), and regulatory requirements. Tradeoffs: HITL adds latency and cost, humans can become rubber-stampers (automation bias), and scaling is limited by human capacity. Designing good HITL: make human review meaningful (not just clicking 'approve'), surface relevant information, enable easy correction, and collect feedback to improve AI. For knowledge workers, HITL thinking means: maintaining appropriate oversight, not blindly trusting AI, and designing workflows where human judgment adds value.",
     "tags": [
         "ai",
-        "design",
+        "designs",
         "safety",
         "workflows",
         "oversight"

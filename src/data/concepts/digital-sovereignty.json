@@ -4,7 +4,7 @@
     "summary": "The ability to maintain control over your own digital life, data, and technology choices.",
     "explanation": "Digital sovereignty is the principle and practice of maintaining control over your digital life - your data, identity, workflows, and technology choices. It contrasts with digital dependency where platforms, corporations, or governments control your digital existence. Key dimensions include: data sovereignty (owning and controlling your data), platform sovereignty (ability to leave services without losing access), identity sovereignty (controlling your digital identity), and tool sovereignty (using tools you can modify or replace). Threats to digital sovereignty: platform lock-in (data trapped in proprietary formats), service dependencies (relying on services that could disappear), surveillance capitalism (data harvested without meaningful consent), and arbitrary policy changes (terms of service you can't negotiate). Strategies for digital sovereignty: use open formats and standards, maintain data exports and backups, prefer interoperable tools, self-host where practical, and evaluate services by exit cost. Digital sovereignty doesn't mean isolation from digital services - it means maintaining agency and options. For knowledge workers, digital sovereignty ensures: continuity (not dependent on any single service), privacy (meaningful control over personal data), and freedom (ability to adapt tools to needs).",
     "tags": [
-        "technology",
+        "technologies",
         "privacy",
         "independence",
         "data",

@@ -6,7 +6,7 @@
     "tags": [
         "core-concept",
         "knowledge-management",
-        "organization",
+        "organizations",
         "productivity"
     ],
     "category": "Core Concepts",
@@ -27,12 +27,12 @@
         {
             "title": "10 Essential Knowledge Management Methods Every Professional Should Master",
             "url": "https://www.dsebastien.net/10-essential-knowledge-management-methods-every-professional-should-master/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "The Hidden Cost of Ignoring Knowledge Management",
             "url": "https://www.dsebastien.net/what-you-are-missing-without-knowledge-management/",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

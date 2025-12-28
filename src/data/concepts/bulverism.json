@@ -3,7 +3,7 @@
     "name": "Bulverism",
     "summary": "A logical fallacy that assumes an opponent is wrong and then explains why they came to hold that wrong belief.",
     "explanation": "Bulverism is a logical fallacy coined by C.S. Lewis, named after a fictional character Ezekiel Bulver. It occurs when someone assumes their opponent is wrong without first proving it, and then proceeds to explain why the opponent came to hold that mistaken belief.\n\nHow It Works:\n\n1. Assume the opponent's position is wrong (without proof)\n2. Skip the step of actually demonstrating why it's wrong\n3. Instead, explain the psychological or social reasons why they believe it\n4. Treat the explanation as if it disproves the position\n\nExamples:\n\n- 'You only believe in capitalism because you're wealthy.' (Doesn't address whether capitalism is valid)\n- 'Of course you think women are equal - you're a woman.' (Doesn't address the merits of equality)\n- 'You just oppose this policy because of your political party.' (Doesn't evaluate the policy)\n\nWhy It's a Fallacy:\n\nExplaining why someone holds a belief says nothing about whether the belief is true or false. Even if we correctly identify why someone believes something, that doesn't make the belief wrong. A mathematician might believe 2+2=4 because of their education, but their belief is still correct.\n\nRelated Fallacies:\n\n- Ad hominem: Attacking the person rather than the argument\n- Genetic fallacy: Judging something by its origin\n- Psychoanalysis as argument: Using psychological explanation to dismiss ideas\n\nDefense:\n\nWhen encountering Bulverism, redirect to the actual argument: 'That may explain why I believe it, but is what I'm saying actually true or false?'",
-    "tags": ["logic", "fallacies", "critical-thinking", "argumentation", "philosophy"],
+    "tags": ["logic", "fallacies", "critical-thinking", "argumentation", "philosophies"],
     "category": "Principles",
     "icon": "FaExclamationCircle",
     "featured": false,
@@ -14,7 +14,7 @@
         {
             "title": "Bulverism - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Bulverism",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

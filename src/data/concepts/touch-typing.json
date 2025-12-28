@@ -9,7 +9,7 @@
         "skills",
         "ergonomics",
         "writing",
-        "efficiency"
+        "efficiencies"
     ],
     "category": "Techniques",
     "icon": "FaKeyboard",
@@ -27,7 +27,7 @@
         {
             "title": "Touch typing - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Touch_typing",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [
@@ -71,17 +71,17 @@
         {
             "title": "TypingClub - Free Touch Typing Course",
             "url": "https://www.typingclub.com/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Keybr - Typing Practice",
             "url": "https://www.keybr.com/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "MonkeyType - Minimalist Typing Test",
             "url": "https://monkeytype.com/",
-            "type": "website"
+            "type": "websites"
         }
     ]
 }

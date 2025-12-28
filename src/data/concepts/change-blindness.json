@@ -5,7 +5,7 @@
     "explanation": "Change blindness is the failure to notice changes in visual scenes that occur during brief visual disruptions (like eye movements, blinks, or scene cuts). People can miss major changes - swapped conversation partners, disappearing objects, or altered colors - if the change occurs during an interruption. Change blindness reveals: we don't perceive as continuously as we think, visual memory across disruptions is limited, and attention is required to detect change. The effect is stronger when: changes are outside the focus of attention, changes occur gradually, and observers aren't expecting change. Change blindness has practical implications: eyewitness testimony is less reliable than assumed, important changes may go unnoticed, and continuous monitoring doesn't guarantee change detection. For knowledge workers, understanding change blindness suggests: actively checking for changes rather than assuming you'd notice, documenting states to compare, and not overestimating your awareness of gradual shifts.",
     "tags": [
         "attention",
-        "perception",
+        "perceptions",
         "cognition",
         "psychology",
         "awareness"
@@ -20,9 +20,9 @@
     ],
     "relatedConcepts": [
         "inattentional-blindness",
-        "perception",
+        "perceptions",
         "visual-attention",
-        "memory",
+        "memories",
         "awareness",
         "gradual-change"
     ],

@@ -3,7 +3,7 @@
     "name": "Habitus",
     "summary": "Bourdieu's concept of deeply ingrained habits, skills, and dispositions acquired through life experience.",
     "explanation": "Habitus is a concept developed by French sociologist Pierre Bourdieu to describe the deeply ingrained habits, skills, and dispositions that people acquire through their life experiences, particularly through socialization in their social class and cultural environment.\n\nCore Concept:\n\nHabitus represents the physical embodiment of cultural capital - the deeply internalized master patterns that guide our behavior, tastes, preferences, and perceptions. It's not just what we know, but how we carry ourselves, speak, and interact with the world.\n\nKey Characteristics:\n\n1. Embodied: Habitus is inscribed in the body - posture, gestures, ways of speaking, even physical movements\n\n2. Durable: Once acquired, these dispositions are long-lasting and resistant to change\n\n3. Transposable: The same habitus generates practices across different fields (work, art, food, politics)\n\n4. Unconscious: Most of habitus operates below conscious awareness\n\nHow Habitus Forms:\n\n- Family upbringing and early socialization\n- Educational experiences\n- Social class position\n- Cultural environment\n- Professional training\n\nRelationship to Capital and Field:\n\nBourdieu saw habitus as part of a triad with 'field' (social arena) and 'capital' (resources). Your habitus determines how comfortably you navigate different social fields and how you accumulate and deploy various forms of capital.\n\nImplications:\n\n- Explains how social inequality perpetuates across generations\n- Shows why 'fitting in' to different social contexts varies by background\n- Illuminates the subtle ways class and culture shape behavior\n- Helps understand why changing deeply ingrained behaviors is so difficult",
-    "tags": ["sociology", "psychology", "culture", "bourdieu", "behavior", "social-theory"],
+    "tags": ["sociology", "psychology", "cultures", "bourdieu", "behaviors", "social-theory"],
     "category": "Principles",
     "icon": "FaUserCircle",
     "featured": false,
@@ -14,7 +14,7 @@
         {
             "title": "Habitus (sociology) - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Habitus_(sociology)",
-            "type": "website"
+            "type": "websites"
         }
     ],
     "references": [

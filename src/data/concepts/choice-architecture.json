@@ -8,7 +8,7 @@
         "mental-model",
         "behavioral-economics",
         "thinking",
-        "design"
+        "designs"
     ],
     "category": "Frameworks",
     "icon": "FaLightbulb",
@@ -40,7 +40,7 @@
         {
             "title": "Choice Architecture - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Choice_architecture",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Clarity 101 Workshop",

@@ -3,7 +3,7 @@
     "name": "Lifetime Value (LTV)",
     "summary": "The total revenue expected from a customer over the entire relationship.",
     "explanation": "Lifetime Value (LTV) predicts the total revenue a business can expect from a single customer account throughout their relationship. It's crucial for understanding how much you can spend to acquire customers (CAC) while remaining profitable. LTV increases with retention, upsells, and referrals. For creators and knowledge entrepreneurs, understanding LTV shifts focus from one-time sales to building lasting relationships, creating product ecosystems, and maximizing value per audience member over time.",
-    "tags": ["business", "metrics", "revenue"],
+    "tags": ["businesses", "metrics", "revenues"],
     "category": "Concepts",
     "icon": "FaChartLine",
     "featured": false,

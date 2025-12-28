@@ -5,7 +5,7 @@
     "explanation": "Outlining is a method of organizing ideas hierarchically using indentation, numbering, or bullet points to show the relationships between concepts. This technique can be used before writing to plan and structure content, during note-taking to capture hierarchical information, or after reading to summarize material. Outlines create a visual structure that reveals how ideas relate to one another, from main topics to supporting details. Digital outliner tools like Workflowy, Dynalist, and Roam Research have expanded outlining capabilities with features like collapsible sections, linking, and tagging. Effective outlining helps thinkers see the big picture while managing details, making it valuable for academic writing, project planning, and knowledge organization.",
     "tags": [
         "note-taking",
-        "organization",
+        "organizations",
         "planning",
         "writing"
     ],
@@ -29,7 +29,7 @@
         {
             "title": "Outline (list) - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Outline_(list)",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Obsidian Starter Kit",

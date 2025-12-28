@@ -6,7 +6,7 @@
     "tags": [
         "psychology",
         "personality",
-        "behavior",
+        "behaviors",
         "manipulation",
         "self-awareness"
     ],
@@ -29,12 +29,12 @@
         {
             "title": "Dark Triad Test",
             "url": "https://www.idrlabs.com/dark-triad/test.php",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Dark triad - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Dark_triad",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Journaling Deep Dive Workshop",

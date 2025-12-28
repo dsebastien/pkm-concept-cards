@@ -5,7 +5,7 @@
     "explanation": "\"Creativity is just connecting things\" is a principle famously articulated by Steve Jobs in a 1996 Wired interview. The insight is that truly creative people don't invent ideas from nothing - they connect existing experiences and knowledge in novel ways. As Jobs explained, \"When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things.\"\n\nThis principle has profound implications for knowledge management and learning. It suggests that creativity is not a mystical talent but a skill that can be cultivated by: (1) exposing yourself to diverse ideas and experiences, (2) making connections between seemingly unrelated concepts, and (3) building systems that facilitate serendipitous encounters between ideas.\n\nIn PKM, this translates to practices like cross-linking notes, using tags to surface unexpected connections, and deliberately exploring ideas outside your core domain. Tools like Zettelkasten, knowledge graphs, and linked note systems are essentially creativity engines - they help you see connections you might otherwise miss.\n\nThe broader philosophical point is that all knowledge builds on what came before. Newton famously said he stood on the shoulders of giants. Innovation happens at intersections, where ideas from different fields collide and combine to form something new.",
     "tags": [
         "creativity",
-        "innovation",
+        "innovations",
         "thinking",
         "connections",
         "synthesis"
@@ -31,7 +31,7 @@
         {
             "title": "Steve Jobs: The Next Insanely Great Thing (Wired, 1996)",
             "url": "https://www.wired.com/1996/02/jobs-2/",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Knowledge Management for Beginners",

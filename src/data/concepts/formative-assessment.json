@@ -5,8 +5,8 @@
     "explanation": "Formative assessment is evaluation that occurs during the learning process, providing feedback that helps learners improve. Unlike summative assessment (final tests and grades), formative assessment is low-stakes, frequent, and focused on growth. Examples include: quick quizzes, exit tickets, draft feedback, think-pair-share, and checking for understanding. Effective formative assessment: identifies gaps while there's time to address them, guides instructional adjustments, engages learners in monitoring their own understanding, and provides specific actionable feedback. Research shows frequent formative assessment significantly improves learning outcomes. For self-learners and knowledge workers, formative assessment principles suggest: testing yourself frequently during learning, seeking feedback on work-in-progress, using study tools that show what you know vs. don't know, and treating early mistakes as information rather than failure.",
     "tags": [
         "education",
-        "assessment",
-        "feedback",
+        "assessments",
+        "feedbacks",
         "learning",
         "teaching"
     ],
@@ -19,7 +19,7 @@
     ],
     "relatedConcepts": [
         "summative-assessment",
-        "feedback",
+        "feedbacks",
         "testing-effect",
         "mastery-learning",
         "metacognition",

@@ -7,7 +7,7 @@
         "cognitive-techniques",
         "knowledge-management",
         "learning",
-        "memory",
+        "memories",
         "study-techniques"
     ],
     "category": "Techniques",
@@ -29,7 +29,7 @@
         {
             "title": "Mnemonic - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Mnemonic",
-            "type": "website"
+            "type": "websites"
         },
         {
             "title": "Make It Stick by Peter Brown",

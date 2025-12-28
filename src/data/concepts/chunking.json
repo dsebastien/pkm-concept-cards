@@ -6,8 +6,8 @@
     "tags": [
         "cognition",
         "learning",
-        "memory",
-        "organization"
+        "memories",
+        "organizations"
     ],
     "category": "Techniques",
     "icon": "FaCubes",
@@ -19,7 +19,7 @@
         "atomic-notes",
         "cognitive-load",
         "moc",
-        "organization",
+        "organizations",
         "rule-of-3"
     ],
     "relatedNotes": [

@@ -4,11 +4,11 @@
     "summary": "The proportion of attempts that result in failure, used to calibrate expectations and strategies.",
     "explanation": "Failure rate is the proportion of attempts that result in failure, used to calibrate expectations, evaluate strategies, and normalize setbacks. Understanding base failure rates prevents: unrealistic expectations, premature quitting, and attributing system-level patterns to personal inadequacy. Examples of common failure rates: venture capital investments (~90% failure), job applications (~95%+ rejection), and scientific experiments (majority don't work). Knowing these rates helps: set realistic goals, plan for sufficient attempts, and maintain motivation through expected failures. Failure rates vary by: domain complexity, skill level, and market conditions. They can be influenced by: skill improvement, strategy changes, and market timing. Tracking personal failure rates enables: strategy evaluation, skill assessment, and realistic planning. A rising failure rate might indicate: inadequate skill for the challenge, poor strategy, or particularly difficult conditions. For knowledge workers, understanding failure rates means: researching base rates before starting, planning for statistically expected failures, and using failure rate trends to evaluate approaches rather than individual outcomes.",
     "tags": [
-        "failure",
+        "failures",
         "statistics",
         "expectations",
         "planning",
-        "strategy"
+        "strategies"
     ],
     "category": "Concepts",
     "icon": "FaChartLine",
@@ -22,7 +22,7 @@
         "base-rates",
         "expectations",
         "planning",
-        "strategy",
+        "strategies",
         "statistics",
         "persistence"
     ],
