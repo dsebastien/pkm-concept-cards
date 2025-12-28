@@ -254,16 +254,32 @@ const HomePage: React.FC = () => {
         (concept: Concept) => {
             // Preserve search params when opening modal
             const params = searchParams.toString()
-            navigate(`/concept/${concept.id}${params ? `?${params}` : ''}`)
+            // Preserve context: if on a tag or category page, navigate within that context
+            if (tagName) {
+                navigate(`/tag/${tagName}/concept/${concept.id}${params ? `?${params}` : ''}`)
+            } else if (categoryName) {
+                navigate(
+                    `/category/${categoryName}/concept/${concept.id}${params ? `?${params}` : ''}`
+                )
+            } else {
+                navigate(`/concept/${concept.id}${params ? `?${params}` : ''}`)
+            }
         },
-        [navigate, searchParams]
+        [navigate, searchParams, tagName, categoryName]
     )
 
     const handleCloseDetails = useCallback(() => {
         // Preserve search params when closing modal
         const params = searchParams.toString()
-        navigate(`/${params ? `?${params}` : ''}`)
-    }, [navigate, searchParams])
+        // Preserve context: if on a tag or category page, stay on that page
+        if (tagName) {
+            navigate(`/tag/${tagName}${params ? `?${params}` : ''}`)
+        } else if (categoryName) {
+            navigate(`/category/${categoryName}${params ? `?${params}` : ''}`)
+        } else {
+            navigate(`/${params ? `?${params}` : ''}`)
+        }
+    }, [navigate, searchParams, tagName, categoryName])
 
     const handleTagClick = useCallback(
         (tag: string) => {

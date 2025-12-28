@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import { FaBrain, FaDice, FaCompass } from 'react-icons/fa'
+import { FaBrain, FaDice, FaCompass, FaStar } from 'react-icons/fa'
 
 const Header: React.FC = () => {
     return (
@@ -26,6 +26,16 @@ const Header: React.FC = () => {
 
                     {/* Navigation Links */}
                     <div className='flex items-center gap-2 sm:gap-3'>
+                        {/* Featured Button */}
+                        <Link
+                            to='/featured'
+                            className='flex items-center gap-2 rounded-lg bg-amber-500/10 px-3 py-2 text-amber-400 transition-colors hover:bg-amber-500/20 sm:px-4'
+                            title='Featured Concepts'
+                        >
+                            <FaStar className='h-5 w-5' />
+                            <span className='hidden sm:inline'>Featured</span>
+                        </Link>
+
                         {/* Random Concept Button */}
                         <Link
                             to='/random'
