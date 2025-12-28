@@ -96,7 +96,19 @@ import {
     FaBullseye,
     FaCalendarDay,
     FaCheckCircle,
-    FaCircleNotch
+    FaCircleNotch,
+    FaTachometerAlt,
+    FaSortNumericUp,
+    FaListUl,
+    FaUserEdit,
+    FaCheckDouble,
+    FaUserTie,
+    FaUserShield,
+    FaUserFriends,
+    FaLevelUpAlt,
+    FaChartBar,
+    FaFileContract,
+    FaWater
 } from 'react-icons/fa'
 import { SiObsidian, SiSubstack, SiBluesky } from 'react-icons/si'
 import { FaXTwitter, FaThreads } from 'react-icons/fa6'
@@ -199,6 +211,18 @@ const iconMap: Record<string, IconType> = {
     FaCalendarDay,
     FaCheckCircle,
     FaCircleNotch,
+    FaTachometerAlt,
+    FaSortNumericUp,
+    FaListUl,
+    FaUserEdit,
+    FaCheckDouble,
+    FaUserTie,
+    FaUserShield,
+    FaUserFriends,
+    FaLevelUpAlt,
+    FaChartBar,
+    FaFileContract,
+    FaWater,
     SiObsidian,
     SiSubstack,
     SiBluesky,
@@ -308,7 +332,19 @@ const iconColors: Record<string, string> = {
     SiSubstack: 'text-orange-400',
     SiBluesky: 'text-sky-400',
     FaXTwitter: 'text-gray-200',
-    FaThreads: 'text-gray-200'
+    FaThreads: 'text-gray-200',
+    FaTachometerAlt: 'text-blue-400',
+    FaSortNumericUp: 'text-indigo-400',
+    FaListUl: 'text-teal-400',
+    FaUserEdit: 'text-purple-400',
+    FaCheckDouble: 'text-green-400',
+    FaUserTie: 'text-blue-500',
+    FaUserShield: 'text-cyan-400',
+    FaUserFriends: 'text-teal-400',
+    FaLevelUpAlt: 'text-orange-400',
+    FaChartBar: 'text-indigo-400',
+    FaFileContract: 'text-amber-400',
+    FaWater: 'text-blue-400'
 }
 
 // Category fallback icons (emojis)

@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
     return (
         <footer className='border-primary/10 bg-background border-t pt-12 pb-20 sm:pt-16 sm:pb-24 md:pt-20 md:pb-28 lg:pt-24 lg:pb-32'>
             <div className='xg:px-24 mx-auto max-w-7xl px-6 sm:px-10 md:px-16 lg:px-20 xl:px-32'>
-                <div className='grid grid-cols-1 gap-10 sm:gap-12 md:grid-cols-3 lg:gap-16'>
+                <div className='grid grid-cols-1 gap-10 sm:gap-12 md:grid-cols-2 lg:grid-cols-4 lg:gap-12'>
                     {/* Logo and Description */}
                     <div className='flex flex-col gap-4'>
                         <Link to='/' className='flex items-center gap-3'>
@@ -35,76 +35,125 @@ const Footer: React.FC = () => {
                         <p className='text-primary/70 text-sm'>
                             A curated collection of concepts, methods, and principles.
                         </p>
-                        <Link
-                            to='/featured'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaStar className='h-4 w-4' />
-                            Featured
-                        </Link>
-                        <Link
-                            to='/unexplored'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaCompass className='h-4 w-4' />
-                            Unexplored
-                        </Link>
-                        <Link
-                            to='/random'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaDice className='h-4 w-4' />
-                            Random Concept
-                        </Link>
-                        <Link
-                            to='/categories'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaFolder className='h-4 w-4' />
-                            Categories
-                        </Link>
-                        <Link
-                            to='/statistics'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaChartBar className='h-4 w-4' />
-                            Statistics
-                        </Link>
-                        <Link
-                            to='/disclaimer'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaFileContract className='h-4 w-4' />
-                            Disclaimer
-                        </Link>
-                        <Link
-                            to='/books'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaBook className='h-4 w-4' />
-                            Books
-                        </Link>
-                        <Link
-                            to='/articles'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaNewspaper className='h-4 w-4' />
-                            Articles
-                        </Link>
-                        <Link
-                            to='/references'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaLink className='h-4 w-4' />
-                            References
-                        </Link>
-                        <Link
-                            to='/notes'
-                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
-                        >
-                            <FaStickyNote className='h-4 w-4' />
-                            Notes
-                        </Link>
+                        <div className='flex flex-wrap gap-3 pt-2'>
+                            {socialsData.socials.map((social) => (
+                                <a
+                                    key={social.url}
+                                    href={social.url}
+                                    target='_blank'
+                                    rel='noopener noreferrer'
+                                    className='transition-transform hover:scale-110'
+                                    aria-label={social.name}
+                                    title={social.name}
+                                >
+                                    <ConceptIcon icon={social.icon} category='' size='md' />
+                                </a>
+                            ))}
+                        </div>
+                    </div>
+
+                    {/* Explore */}
+                    <div>
+                        <h3 className='mb-4 font-semibold'>Explore</h3>
+                        <ul className='space-y-2 text-sm'>
+                            <li>
+                                <Link
+                                    to='/featured'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaStar className='h-4 w-4' />
+                                    Featured
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/unexplored'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaCompass className='h-4 w-4' />
+                                    Unexplored
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/random'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaDice className='h-4 w-4' />
+                                    Random Concept
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/categories'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaFolder className='h-4 w-4' />
+                                    Categories
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/statistics'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaChartBar className='h-4 w-4' />
+                                    Statistics
+                                </Link>
+                            </li>
+                        </ul>
+                    </div>
+
+                    {/* Content */}
+                    <div>
+                        <h3 className='mb-4 font-semibold'>Content</h3>
+                        <ul className='space-y-2 text-sm'>
+                            <li>
+                                <Link
+                                    to='/books'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaBook className='h-4 w-4' />
+                                    Books
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/articles'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaNewspaper className='h-4 w-4' />
+                                    Articles
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/references'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaLink className='h-4 w-4' />
+                                    References
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/notes'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaStickyNote className='h-4 w-4' />
+                                    Notes
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/disclaimer'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaFileContract className='h-4 w-4' />
+                                    Disclaimer
+                                </Link>
+                            </li>
+                        </ul>
                     </div>
 
                     {/* Resources */}
@@ -125,26 +174,6 @@ const Footer: React.FC = () => {
                                 </li>
                             ))}
                         </ul>
-                    </div>
-
-                    {/* Connect */}
-                    <div>
-                        <h3 className='mb-4 font-semibold'>Connect</h3>
-                        <div className='flex flex-wrap gap-3'>
-                            {socialsData.socials.map((social) => (
-                                <a
-                                    key={social.url}
-                                    href={social.url}
-                                    target='_blank'
-                                    rel='noopener noreferrer'
-                                    className='transition-transform hover:scale-110'
-                                    aria-label={social.name}
-                                    title={social.name}
-                                >
-                                    <ConceptIcon icon={social.icon} category='' size='md' />
-                                </a>
-                            ))}
-                        </div>
                     </div>
                 </div>
 
