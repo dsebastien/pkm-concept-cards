@@ -16,6 +16,9 @@
     "scripts": {
         "add-product-links": "bun ./scripts/add-product-links.ts",
         "dedupe-concepts": "tsx ./scripts/dedupe-concepts.ts",
+        "validate": "tsx ./scripts/validate-concepts.ts",
+        "validate:quick": "tsx ./scripts/validate-concepts.ts --skip-urls",
+        "validate:fix": "tsx ./scripts/validate-concepts.ts --skip-urls --fix-relations",
         "dev": "vite",
         "build": "tsc && vite build && tsx scripts/generate-static-pages.ts && tsx scripts/generate-sitemap.ts && tsx scripts/generate-llms-txt.ts",
         "preview": "vite preview",
