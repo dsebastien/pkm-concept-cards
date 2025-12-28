@@ -1,0 +1,42 @@
+{
+    "id": "think-pair-share",
+    "name": "Think-Pair-Share",
+    "summary": "A collaborative learning structure: individual thinking, partner discussion, then class sharing.",
+    "explanation": "Think-Pair-Share is a simple but effective collaborative learning strategy with three stages: Think (students consider a question or problem individually for a set time), Pair (students discuss their thoughts with a partner), Share (pairs share insights with the larger group). The structure ensures everyone engages, not just those who immediately raise hands. Benefits include: increased participation, processing time before speaking, reduced anxiety through small-group first, exposure to diverse perspectives, and development of listening skills. The pause for individual thinking is crucial - it prevents extroverts from dominating and gives introverts processing time. For knowledge workers, this structure can improve meetings and problem-solving sessions: individual reflection, paired discussion, then group synthesis produces better outcomes than jumping straight to group discussion.",
+    "tags": [
+        "education",
+        "collaboration",
+        "discussion",
+        "active-learning",
+        "teaching"
+    ],
+    "category": "Techniques",
+    "icon": "FaComments",
+    "featured": false,
+    "aliases": [
+        "TPS",
+        "Think pair share"
+    ],
+    "relatedConcepts": [
+        "peer-instruction",
+        "active-learning",
+        "collaborative-learning",
+        "socratic-seminar",
+        "group-discussion"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

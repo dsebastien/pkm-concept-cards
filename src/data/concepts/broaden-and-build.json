@@ -1,0 +1,49 @@
+{
+    "id": "broaden-and-build",
+    "name": "Broaden and Build",
+    "summary": "Barbara Fredrickson's theory that positive emotions expand awareness and build lasting resources.",
+    "explanation": "Broaden-and-build is Barbara Fredrickson's influential theory explaining why positive emotions matter beyond feeling good. The theory proposes two mechanisms: Broaden - positive emotions expand momentary thought-action repertoires. Unlike negative emotions that narrow focus (fight/flight), positive emotions open us to new possibilities, ideas, and actions. We literally see more, think more flexibly, and consider more options. Build - this broadened awareness builds lasting resources: intellectual (new learning), physical (play builds coordination), social (connection builds relationships), and psychological (resilience, optimism). These resources persist after the emotion fades, creating an 'upward spiral' where positive emotions build resources that generate more positive experiences. The theory has practical implications: cultivating positive emotions isn't frivolous but builds capacity for future challenges. For knowledge workers, broaden-and-build explains why positive emotions improve creativity, problem-solving, and resilience.",
+    "tags": [
+        "happiness",
+        "positive-psychology",
+        "emotions",
+        "creativity",
+        "resilience"
+    ],
+    "category": "Concepts",
+    "icon": "FaExpandAlt",
+    "featured": false,
+    "aliases": [
+        "Fredrickson theory",
+        "Broaden and build theory",
+        "Positivity spiral"
+    ],
+    "relatedConcepts": [
+        "positive-emotions",
+        "upward-spiral",
+        "resilience",
+        "creativity",
+        "happiness-advantage",
+        "flourishing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Positivity by Barbara Fredrickson",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

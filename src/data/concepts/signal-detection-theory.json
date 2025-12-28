@@ -1,0 +1,44 @@
+{
+    "id": "signal-detection-theory",
+    "name": "Signal Detection Theory",
+    "summary": "A framework for understanding how we distinguish meaningful information (signal) from noise.",
+    "explanation": "Signal detection theory (SDT) is a framework from psychophysics that helps explain how we distinguish meaningful information (signal) from irrelevant background (noise). The theory introduces key concepts: hits (correctly detecting signal), misses (failing to detect signal), false alarms (detecting signal when it's noise), and correct rejections (correctly ignoring noise). Different situations require different detection thresholds - airport security sets low thresholds (many false alarms acceptable to avoid misses), while medical tests balance differently depending on disease severity and treatment risks. Applied to information overload, SDT explains: why we often check notifications (low miss rate prioritized), why filtering is hard (genuine signal sometimes looks like noise), and why we get desensitized (too many false alarms). For knowledge workers, SDT thinking helps: calibrate information filters appropriately, recognize the inherent tradeoff between missing important and being interrupted by unimportant, and design systems with appropriate sensitivity.",
+    "tags": [
+        "information",
+        "psychology",
+        "decision-making",
+        "filtering",
+        "cognition"
+    ],
+    "category": "Concepts",
+    "icon": "FaSignal",
+    "featured": false,
+    "aliases": [
+        "SDT",
+        "Signal vs noise",
+        "Detection theory"
+    ],
+    "relatedConcepts": [
+        "signal-to-noise",
+        "information-filtering",
+        "information-triage",
+        "false-positives",
+        "attention-management",
+        "decision-thresholds"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

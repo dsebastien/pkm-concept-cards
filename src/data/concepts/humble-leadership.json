@@ -1,0 +1,49 @@
+{
+    "id": "humble-leadership",
+    "name": "Humble Leadership",
+    "summary": "Leadership that prioritizes learning, admits limitations, and values others' contributions.",
+    "explanation": "Humble leadership is characterized by: accurate self-assessment (knowing strengths and weaknesses), appreciation of others' contributions, openness to new ideas and feedback, and focus on collective success over personal glory. Humble leaders ask questions rather than providing all answers, acknowledge what they don't know, share credit generously, and create environments where others feel safe to contribute. Research shows humble leadership increases team psychological safety, learning behavior, and performance. Importantly, humility doesn't mean weakness or lack of confidence - humble leaders can be decisive and assertive while remaining open and learning-oriented. Edgar Schein emphasizes 'humble inquiry' - genuinely curious questions that build relationships. The challenge is that organizations often reward self-promotion, making humility seem like career risk. For knowledge workers, practicing humble leadership means: asking more than telling, crediting others publicly, and treating every interaction as a learning opportunity.",
+    "tags": [
+        "leadership",
+        "humility",
+        "learning",
+        "character",
+        "team-building"
+    ],
+    "category": "Concepts",
+    "icon": "FaHandHoldingHeart",
+    "featured": false,
+    "aliases": [
+        "Humility in leadership",
+        "Modest leadership",
+        "Learner leadership"
+    ],
+    "relatedConcepts": [
+        "level-5-leadership",
+        "servant-leadership",
+        "intellectual-humility",
+        "psychological-safety",
+        "learning-culture",
+        "feedback-culture"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Humble Inquiry by Edgar Schein",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

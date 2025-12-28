@@ -1,0 +1,49 @@
+{
+    "id": "authentic-leadership",
+    "name": "Authentic Leadership",
+    "summary": "Leading through genuine self-expression, values alignment, and transparent relationships.",
+    "explanation": "Authentic leadership emphasizes leading as your true self rather than adopting a persona or following a leadership template. Bill George's framework identifies five dimensions: purpose (understanding your motivations), values (knowing and acting on your principles), relationships (building genuine connections), self-discipline (consistent behavior aligned with values), and heart (showing compassion). Authentic leaders are: self-aware (know their strengths, weaknesses, and emotional patterns), transparent (share information and admit mistakes), ethical (decisions guided by internalized moral standards), and balanced (consider multiple perspectives before acting). The approach recognizes that people follow leaders they trust, and trust comes from genuineness. Critics note that complete authenticity isn't always appropriate (some emotions shouldn't be fully expressed) and that authentic leadership is harder for those from underrepresented groups who face bias against their authentic selves. For knowledge workers, authentic leadership builds: psychological safety, genuine engagement, and sustainable relationships.",
+    "tags": [
+        "leadership",
+        "authenticity",
+        "values",
+        "trust",
+        "self-awareness"
+    ],
+    "category": "Concepts",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": [
+        "Genuine leadership",
+        "True leadership",
+        "Values-based leadership"
+    ],
+    "relatedConcepts": [
+        "servant-leadership",
+        "emotional-intelligence",
+        "self-awareness",
+        "vulnerability",
+        "trust-building",
+        "integrity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "True North by Bill George",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

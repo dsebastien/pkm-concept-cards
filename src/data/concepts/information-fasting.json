@@ -1,0 +1,44 @@
+{
+    "id": "information-fasting",
+    "name": "Information Fasting",
+    "summary": "Deliberately abstaining from information consumption to clear mental clutter and reset attention.",
+    "explanation": "Information fasting is the practice of temporarily abstaining from information consumption - news, social media, books, podcasts, and other inputs. Like food fasting, the purpose is to give digestive systems (in this case, cognitive) a rest and reset. Information fasting differs from digital detox because it includes all information sources, not just digital ones. Benefits include: clearing mental backlog, noticing what information you actually miss, breaking consumption compulsions, and creating space for original thought. The practice reveals how much cognitive energy goes to processing rather than producing. Fasting periods can range from hours to weeks, with longer fasts often generating significant insights about true information needs versus habitual consumption. For knowledge workers, periodic information fasting helps: distinguish essential from habitual inputs, restore creative capacity, and test which information streams actually serve your work.",
+    "tags": [
+        "information",
+        "mindfulness",
+        "productivity",
+        "attention",
+        "digital-wellness"
+    ],
+    "category": "Techniques",
+    "icon": "FaBan",
+    "featured": false,
+    "aliases": [
+        "Info fasting",
+        "Media fasting",
+        "Input fasting"
+    ],
+    "relatedConcepts": [
+        "digital-detox",
+        "news-diet",
+        "information-minimalism",
+        "creative-input-output-balance",
+        "attention-restoration",
+        "cognitive-rest"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

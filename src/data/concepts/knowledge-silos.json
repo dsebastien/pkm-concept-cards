@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-silos",
+    "name": "Knowledge Silos",
+    "summary": "Organizational barriers that prevent information sharing across teams and departments.",
+    "explanation": "Knowledge silos occur when information, expertise, and insights are trapped within specific teams, departments, or individuals rather than flowing freely through an organization. Silos form because of: organizational structure (departments as boundaries), incentive misalignment (rewarding individual over shared success), lack of communication channels, competitive dynamics, and simple convenience (easier not to share). Silos cause: duplicated work, missed opportunities for synergy, inconsistent approaches, slower innovation, and organizational fragility when key individuals leave. Breaking silos requires: cross-functional initiatives, shared metrics, communication platforms, communities of practice, job rotation, and leadership modeling of information sharing. However, some boundaries are healthy - complete openness can overwhelm and distract. For knowledge workers, awareness of silos helps: seek information proactively across boundaries, contribute to shared knowledge, and recognize when organizational structure creates information barriers.",
+    "tags": [
+        "collaboration",
+        "organizations",
+        "knowledge-management",
+        "communication",
+        "culture"
+    ],
+    "category": "Concepts",
+    "icon": "FaBoxes",
+    "featured": false,
+    "aliases": [
+        "Information silos",
+        "Organizational silos",
+        "Departmental silos"
+    ],
+    "relatedConcepts": [
+        "cross-functional-teams",
+        "knowledge-sharing",
+        "organizational-culture",
+        "communication-barriers",
+        "documentation",
+        "collaboration"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

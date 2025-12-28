@@ -1,0 +1,48 @@
+{
+    "id": "outliers",
+    "name": "Outliers",
+    "summary": "Malcolm Gladwell's analysis of the hidden factors behind extraordinary success.",
+    "explanation": "Outliers, from Malcolm Gladwell's book of the same name, examines what makes high-achievers different. Gladwell's thesis: success comes from the accumulation of advantages - some earned, many not. Key insights include: the 10,000 hour rule (mastery requires extensive practice), the importance of timing (birth year relative to cutoffs, historical context), cultural legacy (values and practices inherited from ancestors), and meaningful work (autonomy, complexity, and effort-reward connection). The Beatles had Hamburg; Bill Gates had unique early computer access. Gladwell argues we focus too much on individual characteristics and too little on advantages of family, culture, and historical moment. For knowledge workers, Outliers suggests: seeking accumulative advantages, recognizing hidden privileges, creating conditions where effort pays off, and understanding that context matters as much as capability.",
+    "tags": [
+        "success",
+        "opportunity",
+        "timing",
+        "context",
+        "achievement"
+    ],
+    "category": "Concepts",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": [
+        "Outlier theory",
+        "Gladwell outliers"
+    ],
+    "relatedConcepts": [
+        "10000-hour-rule",
+        "luck-and-success",
+        "compound-effect",
+        "cumulative-advantage",
+        "deliberate-practice",
+        "matthew-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Outliers by Malcolm Gladwell",
+            "url": "https://amzn.to/3DoV9FT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

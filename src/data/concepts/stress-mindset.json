@@ -1,0 +1,48 @@
+{
+    "id": "stress-mindset",
+    "name": "Stress Mindset",
+    "summary": "Your beliefs about stress - whether you view it as enhancing or debilitating - affects how it actually impacts you.",
+    "explanation": "Stress mindset, researched by Alia Crum, refers to whether you believe stress is enhancing (improving performance, growth, and health) or debilitating (harming performance and health). Remarkably, research shows that your mindset about stress influences its actual effects. People with a 'stress-is-enhancing' mindset experience fewer negative symptoms, show better work performance, and have more adaptive physiological responses than those with a 'stress-is-debilitating' mindset - even when facing similar stressors. This doesn't mean denying harmful stress, but rather recognizing that stress can be a catalyst for growth and performance. To shift your stress mindset: acknowledge the stress rather than avoiding it, recognize how stress is helping (increased focus, motivation, energy), and use the stress response as a resource rather than fighting it. For knowledge workers, cultivating a stress-is-enhancing mindset can transform how challenges affect you.",
+    "tags": [
+        "stress",
+        "mindset",
+        "psychology",
+        "performance",
+        "wellbeing"
+    ],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Beliefs about stress",
+        "Stress beliefs"
+    ],
+    "relatedConcepts": [
+        "eustress",
+        "growth-mindset",
+        "cognitive-reappraisal",
+        "resilience",
+        "reframing",
+        "self-efficacy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Upside of Stress by Kelly McGonigal",
+            "url": "https://amzn.to/3DoS9CT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "leading-by-example",
+    "name": "Leading by Example",
+    "summary": "Influencing others through personal behavior rather than just words or directives.",
+    "explanation": "Leading by example means demonstrating the behaviors, attitudes, and work ethic you want to see in others. It's based on the principle that actions speak louder than words - people watch what leaders do, not just what they say. This includes: working hard when asking for hard work, showing respect when expecting respectful treatment, admitting mistakes when wanting honest culture, and following the same rules you set for others. Leading by example works because: humans learn by observation (social learning theory), hypocrisy destroys credibility, and visible commitment inspires reciprocal effort. The challenge is that leaders are always being observed - consistency is required across contexts. For knowledge workers, leading by example matters whether in formal leadership or not: peers observe work habits, junior colleagues model senior behavior, and influence often comes from demonstrated competence rather than position.",
+    "tags": [
+        "leadership",
+        "influence",
+        "behavior",
+        "integrity",
+        "culture"
+    ],
+    "category": "Concepts",
+    "icon": "FaWalking",
+    "featured": false,
+    "aliases": [
+        "Walk the talk",
+        "Modeling behavior",
+        "Behavioral leadership"
+    ],
+    "relatedConcepts": [
+        "authentic-leadership",
+        "integrity",
+        "role-modeling",
+        "organizational-culture",
+        "trust-building",
+        "social-learning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

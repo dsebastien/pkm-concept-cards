@@ -1,0 +1,49 @@
+{
+    "id": "sponsorship",
+    "name": "Sponsorship",
+    "summary": "Active career advocacy by senior leaders who use their influence to advance someone's opportunities.",
+    "explanation": "Sponsorship goes beyond mentorship - sponsors don't just advise, they actively advocate for protégés and use their political capital to create opportunities. Sponsors: recommend people for stretch assignments, advocate in promotion decisions, provide visibility to senior leaders, protect during organizational changes, and open doors to opportunities. The key distinction is that mentors talk to you while sponsors talk about you - in rooms where decisions are made. Research by Sylvia Ann Hewlett shows sponsorship is often the missing ingredient for talented individuals who aren't advancing. Sponsors take real risk by attaching their reputation to someone. For this reason, sponsors choose protégés carefully - they need assurance of competence and loyalty. The sponsorship relationship is reciprocal: protégés must deliver results that reflect well on sponsors. For knowledge workers, finding sponsors requires: demonstrating capability, building genuine relationships with senior leaders, and making it easy for potential sponsors to advocate for you.",
+    "tags": [
+        "career",
+        "leadership",
+        "advocacy",
+        "advancement",
+        "relationships"
+    ],
+    "category": "Concepts",
+    "icon": "FaHandshake",
+    "featured": false,
+    "aliases": [
+        "Career sponsorship",
+        "Professional advocacy",
+        "Executive sponsorship"
+    ],
+    "relatedConcepts": [
+        "mentorship",
+        "career-advancement",
+        "networking",
+        "political-capital",
+        "visibility",
+        "executive-presence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Forget a Mentor, Find a Sponsor by Sylvia Ann Hewlett",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

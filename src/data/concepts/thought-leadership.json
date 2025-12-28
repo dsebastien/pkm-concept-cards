@@ -1,0 +1,44 @@
+{
+    "id": "thought-leadership",
+    "name": "Thought Leadership",
+    "summary": "Establishing expertise and influence through sharing innovative ideas and original perspectives.",
+    "explanation": "Thought leadership is the practice of establishing yourself or your organization as an authoritative voice in a particular domain by creating and sharing valuable, original ideas. Thought leaders: identify emerging trends before others, challenge conventional wisdom with evidence, provide frameworks others find useful, and consistently contribute insights that advance the field. Effective thought leadership requires: deep expertise (you must actually know more), original thinking (not just repeating others), consistent sharing (through writing, speaking, etc.), and genuine value to audience (not just self-promotion). Benefits include: career advancement, business development, influence in your field, and personal brand building. Risks include: overextending beyond expertise, becoming more about marketing than substance, and time investment. For knowledge workers, thought leadership offers a path to influence without formal authority, builds professional reputation, and forces continuous learning to stay ahead.",
+    "tags": [
+        "leadership",
+        "expertise",
+        "influence",
+        "content-creation",
+        "professional-brand"
+    ],
+    "category": "Concepts",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": [
+        "Expertise leadership",
+        "Industry thought leader",
+        "Opinion leadership"
+    ],
+    "relatedConcepts": [
+        "personal-branding",
+        "expertise-development",
+        "content-marketing",
+        "writing-practice",
+        "speaking-skills",
+        "influence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

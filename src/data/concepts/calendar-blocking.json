@@ -1,0 +1,49 @@
+{
+    "id": "calendar-blocking",
+    "name": "Calendar Blocking",
+    "summary": "Scheduling specific blocks on your calendar for different types of work or activities.",
+    "explanation": "Calendar blocking is the practice of scheduling specific time blocks on your calendar for particular activities - not just meetings but also focused work, planning, email processing, and personal time. This transforms the calendar from a reactive meeting log into a proactive time allocation tool. Benefits include: ensuring important work gets scheduled (not just urgent work), creating visual representation of time allocation, making it easier to say no (time is visibly committed), and reducing decision fatigue about what to do when. Effective calendar blocking requires: realistic time estimates, buffer time between blocks, flexibility for the unexpected, and regular review of whether blocks match priorities. Common blocks include: deep work, administrative tasks, meetings, email/messages, and personal activities. For knowledge workers, calendar blocking helps: protect time for cognitively demanding work, visualize true time availability, and align how time is spent with stated priorities.",
+    "tags": [
+        "time",
+        "productivity",
+        "planning",
+        "focus",
+        "systems"
+    ],
+    "category": "Techniques",
+    "icon": "FaCalendarCheck",
+    "featured": false,
+    "aliases": [
+        "Time blocking",
+        "Block scheduling",
+        "Calendar management"
+    ],
+    "relatedConcepts": [
+        "time-blocking",
+        "time-boxing",
+        "deep-work",
+        "maker-vs-manager-schedule",
+        "protecting-time",
+        "time-management"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

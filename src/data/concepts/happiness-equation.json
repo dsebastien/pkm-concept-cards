@@ -1,0 +1,49 @@
+{
+    "id": "happiness-equation",
+    "name": "Happiness Equation",
+    "summary": "The formula H = S + C + V suggesting happiness comes from set-point, conditions, and voluntary activities.",
+    "explanation": "The happiness equation H = S + C + V, proposed by Sonja Lyubomirsky, breaks down what determines happiness: S (set-point, roughly 50%) represents genetics and temperament - a relatively stable baseline. C (circumstances, roughly 10%) includes life conditions like income, health, and marital status - factors that matter less than expected after basic needs are met. V (voluntary activities, roughly 40%) covers intentional actions and habits - where we have the most control. This equation has practical implications: don't overinvest in changing circumstances (they matter less than assumed), and focus on activities within your control (they matter more than assumed). The percentages are approximations, and individual variation exists. Critics note the model may oversimplify, but its core insight remains valuable. For knowledge workers, the happiness equation suggests: investing more in happiness habits, less in chasing external circumstances, and accepting but not being limited by natural temperament.",
+    "tags": [
+        "happiness",
+        "psychology",
+        "wellbeing",
+        "model",
+        "positive-psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaCalculator",
+    "featured": false,
+    "aliases": [
+        "Lyubomirsky equation",
+        "Happiness formula",
+        "40% solution"
+    ],
+    "relatedConcepts": [
+        "happiness-set-point",
+        "happiness-habits",
+        "hedonic-adaptation",
+        "subjective-wellbeing",
+        "intentional-activity",
+        "circumstances"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The How of Happiness by Sonja Lyubomirsky",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

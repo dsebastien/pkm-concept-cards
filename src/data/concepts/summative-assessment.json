@@ -1,0 +1,43 @@
+{
+    "id": "summative-assessment",
+    "name": "Summative Assessment",
+    "summary": "Evaluation at the end of a learning period to measure what has been learned.",
+    "explanation": "Summative assessment evaluates learning at the end of an instructional period - final exams, end-of-unit tests, capstone projects, or certifications. Its primary purpose is measuring and documenting what was learned, often for grades, credentials, or accountability. Unlike formative assessment (during learning for improvement), summative assessment is typically higher-stakes and focuses on achievement rather than growth. Effective summative assessment: aligns with learning objectives, uses appropriate measurement methods, and provides reliable evidence of competence. Criticisms include: encouraging 'teaching to the test,' creating anxiety, and providing feedback too late to be useful. For knowledge workers, understanding the distinction helps: use low-stakes testing for learning (formative) while preparing appropriately for high-stakes evaluation (summative).",
+    "tags": [
+        "education",
+        "assessment",
+        "evaluation",
+        "testing",
+        "learning"
+    ],
+    "category": "Concepts",
+    "icon": "FaClipboardCheck",
+    "featured": false,
+    "aliases": [
+        "Assessment of learning",
+        "Final assessment"
+    ],
+    "relatedConcepts": [
+        "formative-assessment",
+        "testing-effect",
+        "grades",
+        "certification",
+        "learning-objectives",
+        "backward-design"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

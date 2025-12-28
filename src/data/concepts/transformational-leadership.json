@@ -1,0 +1,44 @@
+{
+    "id": "transformational-leadership",
+    "name": "Transformational Leadership",
+    "summary": "Leadership that inspires followers to transcend self-interest and achieve exceptional outcomes.",
+    "explanation": "Transformational leadership, developed by James MacGregor Burns and Bernard Bass, describes leaders who inspire followers to achieve extraordinary outcomes by connecting work to higher purpose, stimulating intellectual growth, and treating individuals with personal attention. The four components are: idealized influence (being a role model worth emulating), inspirational motivation (articulating compelling vision), intellectual stimulation (encouraging creativity and new thinking), and individualized consideration (attending to each person's needs and development). Transformational leaders transform both the organization and the people in it - followers develop their own leadership capabilities. This contrasts with transactional leadership (based on exchanges and rewards). Research shows transformational leadership correlates with higher satisfaction, motivation, and performance. For knowledge workers, transformational leadership is powerful because: meaning drives engagement more than incentives, creativity requires psychological safety to take risks, and the best talent wants growth opportunities.",
+    "tags": [
+        "leadership",
+        "inspiration",
+        "vision",
+        "change",
+        "motivation"
+    ],
+    "category": "Concepts",
+    "icon": "FaRocket",
+    "featured": false,
+    "aliases": [
+        "Inspirational leadership",
+        "Visionary leadership style",
+        "Burns-Bass leadership"
+    ],
+    "relatedConcepts": [
+        "servant-leadership",
+        "visionary-leadership",
+        "charismatic-leadership",
+        "inspiring-others",
+        "purpose-driven-leadership",
+        "empowering-leadership"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

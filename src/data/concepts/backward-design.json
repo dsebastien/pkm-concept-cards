@@ -1,0 +1,48 @@
+{
+    "id": "backward-design",
+    "name": "Backward Design",
+    "summary": "Starting curriculum design with desired outcomes, then planning assessment and instruction to achieve them.",
+    "explanation": "Backward design, popularized by Wiggins and McTighe in 'Understanding by Design,' reverses traditional curriculum planning. Instead of starting with content and activities, you begin with the end: What should students know and be able to do? Then work backward: How will we know if they learned it (assessment)? What activities will help them get there (instruction)? The three stages are: identify desired results, determine acceptable evidence, and plan learning experiences. This prevents 'coverage' without understanding and ensures alignment between goals, assessment, and instruction. For knowledge workers and self-learners, backward design principles apply to: starting projects with clear success criteria, defining how you'll know you've learned something, and designing practice around actual performance needs rather than just accumulating information.",
+    "tags": [
+        "education",
+        "curriculum",
+        "design",
+        "planning",
+        "assessment"
+    ],
+    "category": "Methods",
+    "icon": "FaArrowLeft",
+    "featured": false,
+    "aliases": [
+        "Backward planning",
+        "Backward curriculum design"
+    ],
+    "relatedConcepts": [
+        "understanding-by-design",
+        "learning-objectives",
+        "goal-setting",
+        "reverse-goal-setting",
+        "assessment",
+        "inversion-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Understanding by Design by Wiggins & McTighe",
+            "url": "https://amzn.to/3DoT9DT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

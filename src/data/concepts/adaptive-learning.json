@@ -1,0 +1,43 @@
+{
+    "id": "adaptive-learning",
+    "name": "Adaptive Learning",
+    "summary": "Technology-driven systems that adjust content and difficulty based on learner performance.",
+    "explanation": "Adaptive learning uses technology to dynamically adjust the learning experience based on learner performance and behavior. Algorithms analyze responses to determine knowledge level, identify gaps, and serve appropriate content. If you master a concept quickly, the system moves on; if you struggle, it provides more practice or alternative explanations. Adaptive systems can adjust: difficulty level, content sequencing, question types, and pacing. Benefits include: efficient use of learning time (no re-learning what you know), immediate gap identification, personalized practice, and data-driven insights. Platforms like Khan Academy, Duolingo, and various corporate training systems use adaptive approaches. For knowledge workers, adaptive learning platforms are valuable for: skill building in structured domains, efficient test prep, and maintaining competence through personalized spaced repetition.",
+    "tags": [
+        "education",
+        "technology",
+        "learning",
+        "algorithms",
+        "personalization"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Intelligent tutoring",
+        "Adaptive education technology"
+    ],
+    "relatedConcepts": [
+        "personalized-learning",
+        "spaced-repetition",
+        "mastery-learning",
+        "artificial-intelligence",
+        "learning-analytics",
+        "zone-of-proximal-development"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

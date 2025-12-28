@@ -1,0 +1,49 @@
+{
+    "id": "servant-leadership",
+    "name": "Servant Leadership",
+    "summary": "A leadership philosophy prioritizing service to team members and enabling their growth and success.",
+    "explanation": "Servant leadership, introduced by Robert Greenleaf, inverts the traditional leadership pyramid - the leader's primary role is to serve those they lead rather than being served by them. This philosophy holds that by focusing on team members' growth, wellbeing, and success, the leader enables better outcomes for everyone including the organization. Key practices include: active listening, empathy, healing (helping others overcome challenges), awareness, persuasion over authority, conceptualization (big-picture thinking), foresight, stewardship, commitment to people's growth, and building community. Servant leaders ask 'how can I help you succeed?' rather than 'how can you help me succeed?' Research shows servant leadership increases employee engagement, trust, and organizational citizenship. Critics note it can be slower than directive approaches and may not suit crisis situations. For knowledge workers, servant leadership is particularly effective because: creative work requires intrinsic motivation, talented individuals have options, and sustainable performance comes from genuine care.",
+    "tags": [
+        "leadership",
+        "management",
+        "service",
+        "empowerment",
+        "organizational-culture"
+    ],
+    "category": "Concepts",
+    "icon": "FaHandsHelping",
+    "featured": false,
+    "aliases": [
+        "Service leadership",
+        "Leader as servant",
+        "Greenleaf leadership"
+    ],
+    "relatedConcepts": [
+        "transformational-leadership",
+        "authentic-leadership",
+        "empowering-leadership",
+        "humble-leadership",
+        "level-5-leadership",
+        "coaching-leadership"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Servant Leadership by Robert Greenleaf",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

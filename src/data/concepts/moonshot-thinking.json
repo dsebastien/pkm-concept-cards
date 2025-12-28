@@ -1,0 +1,48 @@
+{
+    "id": "moonshot-thinking",
+    "name": "Moonshot Thinking",
+    "summary": "Pursuing radical, seemingly impossible breakthroughs rather than incremental improvements.",
+    "explanation": "Moonshot thinking, named after Kennedy's audacious goal to land on the moon, involves pursuing radical breakthroughs that seem impossible. Unlike incremental innovation, moonshots aim to solve big problems in entirely new ways. Google X, Astro Teller's 'moonshot factory,' defines moonshots as having three elements: a huge problem, a radical solution, and breakthrough technology that could make it possible. The psychological power of moonshots: they inspire and attract talent, they force novel thinking, and they're more motivating than safe goals. However, moonshot thinking has risks: most moonshots fail, it can distract from valuable incremental work, and not all problems need revolutionary solutions. For knowledge workers, moonshot thinking is valuable for: identifying limiting assumptions, inspiring bold action, and occasionally attempting genuine breakthroughs - while maintaining a portfolio that includes more certain bets.",
+    "tags": [
+        "success",
+        "innovation",
+        "ambition",
+        "goals",
+        "breakthrough"
+    ],
+    "category": "Concepts",
+    "icon": "FaMoon",
+    "featured": false,
+    "aliases": [
+        "Moonshots",
+        "Big hairy audacious goals"
+    ],
+    "relatedConcepts": [
+        "10x-thinking",
+        "big-hairy-audacious-goals",
+        "first-principles",
+        "disruptive-innovation",
+        "vision-casting",
+        "breakthrough"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "How Google Works by Eric Schmidt",
+            "url": "https://amzn.to/3DpX9HT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

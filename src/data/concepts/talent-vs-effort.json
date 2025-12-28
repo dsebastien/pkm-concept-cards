@@ -1,0 +1,48 @@
+{
+    "id": "talent-vs-effort",
+    "name": "Talent vs Effort",
+    "summary": "The debate about whether innate ability or sustained effort matters more for achievement.",
+    "explanation": "The talent versus effort debate questions how much success depends on innate ability versus sustained hard work. Research suggests both matter, but effort is often undervalued. Angela Duckworth's 'grit' research shows that talent times effort equals skill, and skill times effort equals achievement - making effort count twice. While talent provides starting advantages, deliberate practice and persistence often prove more important for high achievement. The belief in talent-as-primary can be harmful: it creates fixed mindset, discourages persistence when things get hard, and ignores how 'natural talent' often reflects early advantages and hidden practice. However, ignoring talent entirely is also unrealistic - not everyone can achieve anything with enough effort. The practical takeaway: effort matters enormously and is within your control; focus there while finding domains where your natural tendencies help.",
+    "tags": [
+        "success",
+        "effort",
+        "talent",
+        "mindset",
+        "achievement"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Nature versus nurture",
+        "Effort versus ability"
+    ],
+    "relatedConcepts": [
+        "growth-mindset",
+        "deliberate-practice",
+        "grit",
+        "10000-hour-rule",
+        "self-efficacy",
+        "persistence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Grit by Angela Duckworth",
+            "url": "https://amzn.to/3DpW9GT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

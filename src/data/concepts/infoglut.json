@@ -1,0 +1,44 @@
+{
+    "id": "infoglut",
+    "name": "Infoglut",
+    "summary": "An overwhelming excess of available information that hampers rather than helps decision-making.",
+    "explanation": "Infoglut refers to the state of having so much information available that it becomes counterproductive - more data leads to worse decisions, slower action, and greater confusion. The term captures how information abundance creates problems similar to scarcity: just as too little food causes starvation, too much information causes paralysis. Infoglut manifests as: analysis paralysis when all options seem equally valid, inability to distinguish important from trivial information, constant context-switching between sources, and decision regret from always knowing what you didn't consider. The irony of infoglut is that the solution (more research) often worsens the problem. For knowledge workers, infoglut is particularly challenging because: learning is part of the job, knowing less feels irresponsible, and the line between necessary and excessive research is unclear. Managing infoglut requires: setting decision deadlines, embracing good-enough decisions, and recognizing when additional information has diminishing returns.",
+    "tags": [
+        "information",
+        "overload",
+        "decisions",
+        "productivity",
+        "attention"
+    ],
+    "category": "Concepts",
+    "icon": "FaWater",
+    "featured": false,
+    "aliases": [
+        "Information glut",
+        "Data deluge",
+        "Information flood"
+    ],
+    "relatedConcepts": [
+        "information-fatigue-syndrome",
+        "data-smog",
+        "analysis-paralysis",
+        "decision-fatigue",
+        "information-filtering",
+        "satisficing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

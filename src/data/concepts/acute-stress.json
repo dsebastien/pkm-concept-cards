@@ -1,0 +1,44 @@
+{
+    "id": "acute-stress",
+    "name": "Acute Stress",
+    "summary": "Short-term stress response to immediate challenges or threats that resolves when the situation passes.",
+    "explanation": "Acute stress is the immediate, short-term stress response to a specific challenge or threat. It's the body's evolved mechanism for handling danger: heart rate increases, stress hormones release, senses sharpen, and energy mobilizes for action. Once the challenge passes, the body returns to baseline. This is stress working as designed - adaptive, time-limited, and followed by recovery. Examples include: public speaking, near-miss accidents, deadline pressure, or difficult conversations. Acute stress can even be performance-enhancing (eustress) when perceived as challenge rather than threat. The key distinction from chronic stress is resolution and recovery - acute stress has a clear end point and the body restores homeostasis. Problems occur when acute stressors pile up without recovery, or when the acute response is disproportionate to actual threat (anxiety disorders).",
+    "tags": [
+        "stress",
+        "physiology",
+        "psychology",
+        "health",
+        "performance"
+    ],
+    "category": "Concepts",
+    "icon": "FaBolt",
+    "featured": false,
+    "aliases": [
+        "Short-term stress",
+        "Immediate stress",
+        "Situational stress"
+    ],
+    "relatedConcepts": [
+        "chronic-stress",
+        "eustress",
+        "stress-response",
+        "cortisol",
+        "fight-or-flight",
+        "recovery"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

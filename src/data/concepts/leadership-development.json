@@ -1,0 +1,44 @@
+{
+    "id": "leadership-development",
+    "name": "Leadership Development",
+    "summary": "Intentional processes to build leadership capabilities through experiences, relationships, and education.",
+    "explanation": "Leadership development refers to the systematic activities designed to enhance individuals' leadership capabilities. The 70-20-10 model suggests learning comes from: challenging assignments (70%), relationships like mentoring and coaching (20%), and formal education (10%). Effective development combines all three. Key approaches include: stretch assignments (roles beyond current capability), action learning (solving real problems while learning), executive coaching, leadership programs, mentoring, job rotations, and feedback mechanisms. Development should target: self-awareness, strategic thinking, leading change, developing others, and specific organizational needs. Challenges include: measuring development ROI, transferring learning to practice, and sustaining behavior change. Research shows development works best when: integrated with real work, supported by organizational culture, and reinforced over time. For knowledge workers, leadership development is increasingly important because: technical expertise alone isn't sufficient for advancement, and leadership is increasingly distributed.",
+    "tags": [
+        "leadership",
+        "development",
+        "learning",
+        "career",
+        "capability-building"
+    ],
+    "category": "Concepts",
+    "icon": "FaSeedling",
+    "featured": false,
+    "aliases": [
+        "Leader development",
+        "Leadership training",
+        "Leadership learning"
+    ],
+    "relatedConcepts": [
+        "leadership-pipeline",
+        "coaching-leadership",
+        "mentorship",
+        "stretch-assignments",
+        "feedback",
+        "self-awareness"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

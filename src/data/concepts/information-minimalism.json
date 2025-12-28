@@ -1,0 +1,49 @@
+{
+    "id": "information-minimalism",
+    "name": "Information Minimalism",
+    "summary": "Deliberately consuming less information to create space for deeper thinking and meaningful work.",
+    "explanation": "Information minimalism is the practice of intentionally limiting information consumption to essentials, paralleling physical minimalism's focus on owning less. The approach recognizes that in an age of abundance, curation is more valuable than access. Information minimalism involves: identifying information that genuinely serves your goals, eliminating habitual consumption that adds no value, creating systems that surface important information without constant monitoring, and accepting ignorance of most news and trends as the price of focus. This differs from being uninformed - it's about strategic information selection. Benefits include: reduced decision fatigue, deeper engagement with chosen inputs, more time for creation vs. consumption, and clearer thinking from less cognitive clutter. For knowledge workers, information minimalism is particularly powerful because: quality of inputs determines quality of outputs, attention is the true scarce resource, and the best ideas often come from depth rather than breadth.",
+    "tags": [
+        "minimalism",
+        "information",
+        "productivity",
+        "attention",
+        "intentional-living"
+    ],
+    "category": "Concepts",
+    "icon": "FaMinus",
+    "featured": false,
+    "aliases": [
+        "Info minimalism",
+        "Selective information consumption",
+        "Minimal information diet"
+    ],
+    "relatedConcepts": [
+        "digital-minimalism",
+        "news-diet",
+        "information-filtering",
+        "essentialism",
+        "deep-work",
+        "attention-management"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Digital Minimalism by Cal Newport",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

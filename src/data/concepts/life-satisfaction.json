@@ -1,0 +1,44 @@
+{
+    "id": "life-satisfaction",
+    "name": "Life Satisfaction",
+    "summary": "The cognitive judgment of one's life as a whole against personal standards and aspirations.",
+    "explanation": "Life satisfaction is the cognitive component of subjective wellbeing - a reflective judgment about how well your life matches your aspirations and standards. Unlike momentary happiness (emotional state), life satisfaction is a broader evaluation considering your life as a whole. It involves comparing: where you are vs. where you want to be, your life vs. relevant others, and your present vs. past. Life satisfaction is influenced by: achievement of goals, quality of relationships, alignment with values, and perception of progress. Interestingly, life satisfaction can differ from daily emotional experience - someone might be satisfied with life while experiencing current stress. The Satisfaction with Life Scale (SWLS) measures this construct through questions like 'In most ways my life is close to ideal.' For knowledge workers, life satisfaction provides: a meaningful success metric beyond achievement, a check on whether daily choices align with deeper priorities, and motivation to address misalignment.",
+    "tags": [
+        "happiness",
+        "wellbeing",
+        "meaning",
+        "self-reflection",
+        "quality-of-life"
+    ],
+    "category": "Concepts",
+    "icon": "FaThumbsUp",
+    "featured": false,
+    "aliases": [
+        "Overall life satisfaction",
+        "Life contentment",
+        "Quality of life assessment"
+    ],
+    "relatedConcepts": [
+        "subjective-wellbeing",
+        "values-clarification",
+        "life-audit",
+        "goal-achievement",
+        "eudaimonia",
+        "self-reflection"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

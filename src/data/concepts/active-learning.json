@@ -1,0 +1,48 @@
+{
+    "id": "active-learning",
+    "name": "Active Learning",
+    "summary": "Learning through active engagement - discussion, problem-solving, and application - rather than passive listening.",
+    "explanation": "Active learning is any approach that engages students in the learning process beyond passive listening or reading. It includes: discussions, problem-solving, case studies, simulations, peer instruction, writing activities, and hands-on projects. Research consistently shows active learning outperforms traditional lecturing for conceptual understanding, retention, and transfer. The key principle is that learning happens through mental effort and engagement, not passive exposure. Active learning works because it: requires retrieval and application of knowledge, provides immediate feedback on understanding, develops deeper processing, and increases motivation through engagement. For knowledge workers and self-learners, applying active learning principles means: taking notes in your own words, teaching concepts to others, solving problems rather than just reading solutions, and actively questioning and connecting information.",
+    "tags": [
+        "learning",
+        "education",
+        "teaching",
+        "engagement",
+        "pedagogy"
+    ],
+    "category": "Methods",
+    "icon": "FaHandPointUp",
+    "featured": false,
+    "aliases": [
+        "Engaged learning",
+        "Participatory learning"
+    ],
+    "relatedConcepts": [
+        "flipped-classroom",
+        "peer-instruction",
+        "problem-based-learning",
+        "think-pair-share",
+        "testing-effect",
+        "socratic-method"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Make It Stick by Peter Brown",
+            "url": "https://amzn.to/3DpT8v2",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

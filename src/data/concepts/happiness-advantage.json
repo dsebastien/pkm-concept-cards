@@ -1,0 +1,49 @@
+{
+    "id": "happiness-advantage",
+    "name": "Happiness Advantage",
+    "summary": "The finding that happiness leads to success more than success leads to happiness.",
+    "explanation": "The Happiness Advantage, named by Shawn Achor, reverses the common formula: rather than 'success leads to happiness,' research shows 'happiness leads to success.' Positive brains are more creative, productive, resilient, and perform better on every business outcome measured. The brain at positive performs 31% more productively than negative, neutral, or stressed. This occurs because positive emotions: broaden thinking (seeing more possibilities), build resources (relationships, skills, health), and improve engagement and motivation. The practical implication is profound: instead of pursuing success hoping it brings happiness, cultivate happiness to enable success. Achor's research in corporate and educational settings consistently shows this effect. Key practices include: gratitude, journaling, exercise, meditation, and acts of kindness. For knowledge workers, the happiness advantage means: investing in wellbeing isn't self-indulgent but performance-enhancing, and positive teams outperform negative ones.",
+    "tags": [
+        "happiness",
+        "success",
+        "performance",
+        "productivity",
+        "positive-psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaTrophy",
+    "featured": false,
+    "aliases": [
+        "Positive advantage",
+        "Happiness-success link",
+        "Achor happiness"
+    ],
+    "relatedConcepts": [
+        "positive-psychology",
+        "broaden-and-build",
+        "performance",
+        "productivity",
+        "resilience",
+        "positive-emotions"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Happiness Advantage by Shawn Achor",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

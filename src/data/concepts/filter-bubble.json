@@ -1,0 +1,49 @@
+{
+    "id": "filter-bubble",
+    "name": "Filter Bubble",
+    "summary": "The intellectual isolation created when algorithms show only information matching existing preferences and beliefs.",
+    "explanation": "Filter bubble, a term coined by Eli Pariser, describes how personalization algorithms create isolated information environments. As platforms learn your preferences, they show more of what you already agree with and less of what might challenge you. This creates invisible intellectual isolation - you don't know what you're not seeing. Filter bubbles have concerning effects: confirmation of existing beliefs, decreased exposure to diverse perspectives, difficulty understanding opposing viewpoints, and an increasingly fragmented shared reality. Unlike consciously chosen information filters, filter bubbles operate invisibly and without consent. They differ from echo chambers (which involve deliberate selection of agreeable sources) because they're algorithmically imposed. For knowledge workers, awareness of filter bubbles is crucial because: diverse inputs drive creativity, challenging information improves thinking, and professional expertise requires broad perspective. Counter-measures include: actively seeking opposing views, varying information sources, and using less personalized platforms.",
+    "tags": [
+        "information",
+        "algorithms",
+        "bias",
+        "technology",
+        "critical-thinking"
+    ],
+    "category": "Concepts",
+    "icon": "FaCircle",
+    "featured": false,
+    "aliases": [
+        "Algorithmic bubble",
+        "Personalization bubble",
+        "Information cocoon"
+    ],
+    "relatedConcepts": [
+        "echo-chamber",
+        "confirmation-bias",
+        "algorithmic-curation",
+        "information-diversity",
+        "perspective-taking",
+        "news-diet"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Filter Bubble by Eli Pariser",
+            "url": "https://amzn.to/3Dp07MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

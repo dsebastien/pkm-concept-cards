@@ -1,0 +1,44 @@
+{
+    "id": "charismatic-leadership",
+    "name": "Charismatic Leadership",
+    "summary": "Leadership through extraordinary personal qualities that inspire devotion and followership.",
+    "explanation": "Charismatic leadership refers to influence based on exceptional personal qualities that inspire admiration and devotion. Charismatic leaders are perceived as extraordinary - possessing vision, confidence, unconventional behavior, and the ability to articulate ideas compellingly. Max Weber first described charismatic authority as distinct from traditional or rational-legal authority. Characteristics include: strong vision articulation, sensitivity to environment, sensitivity to member needs, personal risk-taking, and unconventional behavior. Charismatic leadership can produce: exceptional motivation, rapid organizational change, and intense loyalty. However, risks include: over-reliance on the leader, ethical concerns (charisma can serve any cause), succession problems, and groupthink from uncritical followers. For knowledge workers, understanding charismatic leadership helps: recognize its power and risks, develop some charismatic qualities (especially compelling communication), and maintain critical thinking even around magnetic leaders.",
+    "tags": [
+        "leadership",
+        "charisma",
+        "influence",
+        "personality",
+        "inspiration"
+    ],
+    "category": "Concepts",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": [
+        "Charisma",
+        "Magnetic leadership",
+        "Personality-based leadership"
+    ],
+    "relatedConcepts": [
+        "transformational-leadership",
+        "visionary-leadership",
+        "leadership-presence",
+        "influence",
+        "persuasion",
+        "cult-of-personality"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

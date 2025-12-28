@@ -1,0 +1,49 @@
+{
+    "id": "news-diet",
+    "name": "News Diet",
+    "summary": "Intentionally limiting or structuring news consumption to protect attention and mental wellbeing.",
+    "explanation": "A news diet involves deliberately restricting or structuring news consumption rather than engaging with the 24/7 news cycle. Rolf Dobelli's 'Stop Reading the News' argues that most news is irrelevant to our lives, negatively biased, attention-fragmenting, and gives the illusion of knowledge without providing understanding. A news diet might include: consuming news weekly rather than daily, reading long-form analysis instead of breaking updates, focusing on local and actionable information, or avoiding news entirely. Benefits include: reduced anxiety (news is designed to provoke), better attention (no constant checking), more time for deeper learning, and often better understanding (less noise, more signal). Critics argue informed citizenship requires engagement, but counter-arguments note that important news finds you, and understanding comes from books and analysis rather than headlines. For knowledge workers, a news diet protects: deep work capacity, emotional equilibrium, and the ability to focus on what you can actually influence.",
+    "tags": [
+        "news",
+        "information",
+        "attention",
+        "digital-wellness",
+        "mindfulness"
+    ],
+    "category": "Techniques",
+    "icon": "FaNewspaper",
+    "featured": false,
+    "aliases": [
+        "Low information diet",
+        "News fast",
+        "Selective news consumption"
+    ],
+    "relatedConcepts": [
+        "digital-detox",
+        "information-fasting",
+        "information-filtering",
+        "attention-management",
+        "doomscrolling",
+        "information-minimalism"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Stop Reading the News by Rolf Dobelli",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

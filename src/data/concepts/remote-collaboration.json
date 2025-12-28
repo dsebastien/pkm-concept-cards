@@ -1,0 +1,49 @@
+{
+    "id": "remote-collaboration",
+    "name": "Remote Collaboration",
+    "summary": "Working effectively with others across geographic distance using digital tools and practices.",
+    "explanation": "Remote collaboration involves working productively with team members who are not physically co-located, using digital tools and adapted practices. Key challenges include: reduced informal communication, time zone coordination, technology dependence, and maintaining team cohesion. Effective remote collaboration requires: intentional communication (over-communicating context that would be obvious in person), documentation (writing decisions and context), appropriate tools (video, chat, project management), and relationship building (virtual social time). Successful remote teams often: default to async where possible, reserve sync time for high-value interactions, create documentation culture, and invest extra effort in onboarding. Benefits include: access to broader talent, reduced commute, flexibility, and focused work time. Challenges include: isolation, work-life boundary blur, and reduced serendipitous connection. For knowledge workers, remote collaboration skills are increasingly essential as distributed work becomes more common.",
+    "tags": [
+        "collaboration",
+        "remote-work",
+        "communication",
+        "tools",
+        "distributed-teams"
+    ],
+    "category": "Concepts",
+    "icon": "FaGlobe",
+    "featured": false,
+    "aliases": [
+        "Distributed collaboration",
+        "Virtual collaboration",
+        "Remote teamwork"
+    ],
+    "relatedConcepts": [
+        "asynchronous-communication",
+        "synchronous-communication",
+        "documentation",
+        "remote-work",
+        "virtual-meetings",
+        "distributed-teams"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Remote by Jason Fried and DHH",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "fawn-response",
+    "name": "Fawn Response",
+    "summary": "A trauma response of people-pleasing and appeasing to avoid conflict and create safety.",
+    "explanation": "The fawn response, added to the classic fight/flight/freeze model by Pete Walker, describes a survival strategy of appeasing and pleasing others to avoid threat. It develops when fighting back isn't safe and fleeing isn't possible, so the person learns to create safety through compliance, caretaking, and anticipating others' needs. While adaptive in dangerous situations (like abusive environments), fawning becomes problematic when it persists beyond actual threat: chronic people-pleasing, difficulty saying no, loss of personal identity, codependency, and prioritizing others' needs to the detriment of one's own. Signs include: automatic agreement, difficulty identifying own preferences, excessive apologizing, and fear of others' negative reactions. Healing involves: recognizing the pattern, developing tolerance for others' discomfort, learning to identify and express own needs, and building a sense of safety independent of others' approval.",
+    "tags": [
+        "trauma",
+        "psychology",
+        "behavior",
+        "stress",
+        "relationships"
+    ],
+    "category": "Concepts",
+    "icon": "FaHandsPraying",
+    "featured": false,
+    "aliases": [
+        "Fawning",
+        "People-pleasing response",
+        "Appease response"
+    ],
+    "relatedConcepts": [
+        "freeze-response",
+        "stress-response",
+        "trauma",
+        "codependency",
+        "boundaries",
+        "self-compassion"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Complex PTSD by Pete Walker",
+            "url": "https://amzn.to/3DpS9AT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

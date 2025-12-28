@@ -1,0 +1,47 @@
+{
+    "id": "peer-instruction",
+    "name": "Peer Instruction",
+    "summary": "A teaching method where students teach and learn from each other through structured discussion.",
+    "explanation": "Peer instruction, developed by Eric Mazur at Harvard for physics teaching, is an evidence-based teaching method that has students teach each other. The typical format: present a concept briefly, pose a conceptual question, have students answer individually, then discuss with peers to convince each other, then re-answer. Peer instruction works because: explaining to peers reveals and addresses misunderstandings, students speak the same 'language' as fellow novices, and the social engagement increases attention and motivation. Research shows significant learning gains compared to traditional lectures. For knowledge workers, peer instruction principles suggest: forming study groups, explaining concepts to colleagues, and using teaching as a learning tool (even to an imaginary audience). The act of explaining deepens your own understanding.",
+    "tags": [
+        "education",
+        "teaching",
+        "social-learning",
+        "active-learning",
+        "discussion"
+    ],
+    "category": "Methods",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Mazur peer instruction",
+        "Peer learning"
+    ],
+    "relatedConcepts": [
+        "active-learning",
+        "think-pair-share",
+        "feynman-technique",
+        "social-learning",
+        "collaborative-learning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Peer Instruction by Eric Mazur",
+            "url": "https://amzn.to/3DpU9ET",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

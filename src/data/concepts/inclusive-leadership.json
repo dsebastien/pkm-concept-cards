@@ -1,0 +1,44 @@
+{
+    "id": "inclusive-leadership",
+    "name": "Inclusive Leadership",
+    "summary": "Leadership that actively creates belonging and values diverse perspectives and contributions.",
+    "explanation": "Inclusive leadership involves actively creating environments where all individuals feel valued, respected, and empowered to contribute fully. Inclusive leaders: demonstrate visible commitment to diversity, acknowledge their own biases and limitations, show curiosity about others' perspectives, exhibit cultural intelligence, practice effective collaboration, and ensure all voices are heard. Research shows inclusive leadership increases team performance, innovation, and psychological safety. Key behaviors include: asking whose voice is missing, ensuring equitable speaking time, challenging homogeneous thinking, and adapting communication styles. Inclusive leadership goes beyond avoiding discrimination to actively leveraging diversity. The business case is clear: diverse teams with inclusive leadership outperform homogeneous ones, especially on complex, creative tasks. For knowledge workers, practicing inclusive leadership means: noticing and correcting for whose ideas get heard, actively seeking different perspectives, and examining assumptions about competence and fit.",
+    "tags": [
+        "leadership",
+        "inclusion",
+        "diversity",
+        "belonging",
+        "equity"
+    ],
+    "category": "Concepts",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Inclusion leadership",
+        "Diversity leadership",
+        "Belonging leadership"
+    ],
+    "relatedConcepts": [
+        "psychological-safety",
+        "diversity-of-thought",
+        "cultural-intelligence",
+        "unconscious-bias",
+        "team-dynamics",
+        "belonging"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

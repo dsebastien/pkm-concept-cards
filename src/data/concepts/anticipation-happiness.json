@@ -1,0 +1,44 @@
+{
+    "id": "anticipation-happiness",
+    "name": "Anticipation Happiness",
+    "summary": "The positive emotions derived from looking forward to future experiences and events.",
+    "explanation": "Anticipation happiness refers to the pleasure derived from looking forward to future positive experiences. Research shows anticipation can provide as much or more happiness than the experience itself - a vacation brings joy for weeks before, not just during the trip. This occurs because: imagining future experiences activates positive emotions now, uncertainty adds excitement, and anticipation can be prolonged while experiences end. This has practical implications: planning experiences in advance extends happiness, having things to look forward to boosts current mood, and spacing positive events maintains ongoing anticipation. The effect is stronger for experiences than material purchases - buying a thing provides less anticipation pleasure than planning a trip. For knowledge workers, leveraging anticipation means: always having something to look forward to, planning experiences in advance, and recognizing that the planning and waiting are part of the enjoyment.",
+    "tags": [
+        "happiness",
+        "anticipation",
+        "experiences",
+        "future",
+        "planning"
+    ],
+    "category": "Concepts",
+    "icon": "FaCalendarAlt",
+    "featured": false,
+    "aliases": [
+        "Looking forward",
+        "Pre-experience happiness",
+        "Anticipatory pleasure"
+    ],
+    "relatedConcepts": [
+        "savoring",
+        "experience-over-things",
+        "delayed-gratification",
+        "planning",
+        "hope",
+        "positive-emotions"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

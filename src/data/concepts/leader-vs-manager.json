@@ -1,0 +1,49 @@
+{
+    "id": "leader-vs-manager",
+    "name": "Leader vs Manager",
+    "summary": "The distinction between inspiring change and vision (leadership) versus organizing and executing (management).",
+    "explanation": "The leader vs. manager distinction highlights two complementary but different functions. Managers focus on: planning, organizing, controlling, executing, efficiency, doing things right, stability, and working within systems. Leaders focus on: vision, inspiration, change, influence, effectiveness, doing the right things, innovation, and challenging systems. As Warren Bennis put it: 'Managers do things right; leaders do the right thing.' John Kotter's view is that management is about coping with complexity (planning, organizing, problem-solving) while leadership is about coping with change (setting direction, aligning people, motivating). Both are essential - organizations need efficient execution (management) and adaptive change (leadership). The same person often needs both capabilities in different situations. For knowledge workers, understanding this distinction helps: recognize when to push for efficiency versus innovation, develop both skill sets, and appreciate that promotion to 'management' actually requires developing leadership skills.",
+    "tags": [
+        "leadership",
+        "management",
+        "roles",
+        "organizations",
+        "career"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserTie",
+    "featured": false,
+    "aliases": [
+        "Leadership vs management",
+        "Leading vs managing",
+        "Leader-manager distinction"
+    ],
+    "relatedConcepts": [
+        "transformational-leadership",
+        "transactional-leadership",
+        "organizational-leadership",
+        "management-skills",
+        "strategic-thinking",
+        "vision-setting"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "On Becoming a Leader by Warren Bennis",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

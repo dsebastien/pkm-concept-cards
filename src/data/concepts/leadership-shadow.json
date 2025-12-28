@@ -1,0 +1,44 @@
+{
+    "id": "leadership-shadow",
+    "name": "Leadership Shadow",
+    "summary": "The lasting impact leaders have on culture and behavior through what they say, do, prioritize, and measure.",
+    "explanation": "The leadership shadow refers to the pervasive influence leaders cast through their behaviors, priorities, and focus - often extending far beyond their direct interactions. The concept recognizes that everything a leader does (and doesn't do) sends signals: what they pay attention to, how they react to crises, what behaviors they reward or tolerate, and how they spend their time. The shadow has four dimensions: what leaders say (verbal messages), what they do (observable behaviors), what they prioritize (resource allocation), and what they measure (metrics and rewards). Leaders' shadows can be positive (inspiring excellence, creating safety) or negative (breeding fear, enabling dysfunction). The shadow extends beyond intent - leaders are observed more than they realize, and interpretations may differ from intentions. For knowledge workers, understanding leadership shadows helps: recognize how leaders influence culture unconsciously, manage your own emerging shadow, and understand why stated values sometimes don't match experienced reality.",
+    "tags": [
+        "leadership",
+        "culture",
+        "influence",
+        "behavior",
+        "organizations"
+    ],
+    "category": "Concepts",
+    "icon": "FaImage",
+    "featured": false,
+    "aliases": [
+        "Leader's shadow",
+        "Leadership influence",
+        "Shadow of the leader"
+    ],
+    "relatedConcepts": [
+        "organizational-culture",
+        "leading-by-example",
+        "implicit-messages",
+        "tone-at-the-top",
+        "behavioral-norms",
+        "cultural-artifacts"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

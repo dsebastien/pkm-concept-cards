@@ -1,0 +1,43 @@
+{
+    "id": "tend-and-befriend",
+    "name": "Tend and Befriend",
+    "summary": "A stress response alternative to fight-or-flight, especially common in women - nurturing and seeking social support.",
+    "explanation": "Tend-and-befriend, identified by Shelley Taylor, is a stress response pattern that involves nurturing behavior (tend) and seeking social connection (befriend) rather than fighting or fleeing. While the fight-or-flight model was developed primarily from male subjects, research on women revealed this alternative pattern. Under stress, 'tending' involves protecting offspring and creating safety, while 'befriending' involves seeking social support networks. This response appears linked to oxytocin (released during nurturing and bonding) and may be modulated by estrogen. Both men and women can display tend-and-befriend responses, though it appears more common in women. For knowledge workers, this suggests: social connection is a legitimate stress management strategy, helping others can reduce your own stress, and reaching out during difficulty is adaptive, not weak.",
+    "tags": [
+        "stress",
+        "psychology",
+        "social",
+        "gender",
+        "coping"
+    ],
+    "category": "Concepts",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Tend and befriend response",
+        "Social stress response"
+    ],
+    "relatedConcepts": [
+        "stress-response",
+        "social-support",
+        "oxytocin",
+        "resilience",
+        "buffer-hypothesis",
+        "community"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "time-scarcity-mindset",
+    "name": "Time Scarcity Mindset",
+    "summary": "A mental framework that perceives time as perpetually insufficient, driving rushed behavior.",
+    "explanation": "Time scarcity mindset is a psychological orientation that perceives time as chronically insufficient, regardless of actual availability. This mindset creates: rushed behavior, difficulty being present, anxiety about wasted time, and paradoxically, wasted time through poor decisions. Sendhil Mullainathan's scarcity research shows that feeling time-poor tunnels attention on immediate demands while neglecting important but non-urgent matters - the same way financial scarcity affects decision-making. The mindset becomes self-reinforcing: feeling time-poor leads to rushing, which leads to mistakes and rework, which creates actual time shortage, confirming the scarcity belief. Breaking the cycle requires: recognizing time scarcity as partly mindset, not just circumstance, creating slack for the unexpected, and practicing presence over perpetual planning. For knowledge workers, addressing time scarcity mindset means: examining beliefs about time, building buffers, and recognizing when rushing is habitual rather than necessary.",
+    "tags": [
+        "time",
+        "mindset",
+        "scarcity",
+        "psychology",
+        "productivity"
+    ],
+    "category": "Concepts",
+    "icon": "FaRunning",
+    "featured": false,
+    "aliases": [
+        "Time famine mentality",
+        "Chronic time pressure",
+        "Temporal scarcity"
+    ],
+    "relatedConcepts": [
+        "time-poverty",
+        "scarcity-mindset",
+        "urgency-addiction",
+        "abundance-mindset",
+        "rushing",
+        "present-moment"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Scarcity by Sendhil Mullainathan",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

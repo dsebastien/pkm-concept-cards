@@ -1,0 +1,44 @@
+{
+    "id": "cross-functional-teams",
+    "name": "Cross-Functional Teams",
+    "summary": "Teams composed of members with different functional expertise working toward shared goals.",
+    "explanation": "Cross-functional teams bring together members from different functional areas (engineering, design, marketing, etc.) to work on shared objectives. This contrasts with functional teams where all members share a specialty. Benefits include: reduced handoffs and delays, faster decision-making (all expertise at table), broader perspective on problems, improved communication across functions, and end-to-end ownership. Challenges include: conflicting priorities with functional homes, varying work styles and vocabularies, and potential for conflict from different perspectives. Successful cross-functional teams require: clear shared goals, sufficient authority to execute, psychological safety for diverse views, and management support across functions. They're particularly effective for: product development, process improvement, strategic initiatives, and customer-focused work. For knowledge workers, cross-functional experience develops: broader perspective, collaboration skills, and appreciation for different disciplines.",
+    "tags": [
+        "collaboration",
+        "teams",
+        "organizations",
+        "agile",
+        "product-development"
+    ],
+    "category": "Concepts",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Multidisciplinary teams",
+        "Integrated teams",
+        "Product teams"
+    ],
+    "relatedConcepts": [
+        "knowledge-silos",
+        "team-dynamics",
+        "agile-methodology",
+        "product-development",
+        "collaboration",
+        "diverse-perspectives"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

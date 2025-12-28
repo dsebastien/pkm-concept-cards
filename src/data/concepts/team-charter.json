@@ -1,0 +1,44 @@
+{
+    "id": "team-charter",
+    "name": "Team Charter",
+    "summary": "A document defining a team's purpose, goals, roles, and operating principles.",
+    "explanation": "A team charter is a foundational document that articulates a team's mission, objectives, membership, roles, and operating guidelines. It typically includes: purpose/mission (why the team exists), goals (what it will accomplish), scope (boundaries of responsibility), roles and responsibilities, decision-making authority, communication practices, and success measures. Charters serve multiple functions: aligning members on purpose, clarifying expectations, providing onboarding reference, and creating accountability. The charter development process is as important as the document - it forces conversations about assumptions and priorities. Charters should be: co-created by the team, specific enough to guide behavior, regularly reviewed, and updated as circumstances change. For knowledge workers, team charters help: reduce misalignment, speed up team formation, and provide reference when confusion arises about purpose or process.",
+    "tags": [
+        "collaboration",
+        "teams",
+        "planning",
+        "alignment",
+        "documentation"
+    ],
+    "category": "Tools",
+    "icon": "FaScroll",
+    "featured": false,
+    "aliases": [
+        "Team constitution",
+        "Team mission statement",
+        "Team operating agreement"
+    ],
+    "relatedConcepts": [
+        "working-agreements",
+        "team-purpose",
+        "role-clarity",
+        "goal-setting",
+        "team-dynamics",
+        "kickoff"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

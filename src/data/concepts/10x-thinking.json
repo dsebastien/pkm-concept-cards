@@ -1,0 +1,43 @@
+{
+    "id": "10x-thinking",
+    "name": "10x Thinking",
+    "summary": "Thinking in orders of magnitude rather than incremental improvements - aiming for ten times better.",
+    "explanation": "10x thinking means setting goals that are ten times larger than incremental improvements, forcing fundamentally different approaches. While 10% improvement often means doing the same thing slightly better, 10x requires rethinking the entire approach. Popularized by Google and other tech companies, 10x thinking argues that: big goals attract bigger talent and resources, constraints force creativity, truly transformative solutions require aiming high, and paradoxically, 10x goals may be easier than 2x goals because they break conventional thinking. The mindset shift: instead of 'how do we improve this by 10%?' ask 'what would it take to make this 10 times better/faster/cheaper?' This forces consideration of: new technologies, different business models, removed assumptions, and first-principles redesign. For knowledge workers, 10x thinking can reveal that small thinking limits more than resources do.",
+    "tags": [
+        "success",
+        "ambition",
+        "innovation",
+        "goals",
+        "thinking"
+    ],
+    "category": "Concepts",
+    "icon": "FaTimes",
+    "featured": false,
+    "aliases": [
+        "10x goals",
+        "Order of magnitude thinking"
+    ],
+    "relatedConcepts": [
+        "moonshot-thinking",
+        "first-principles",
+        "big-hairy-audacious-goals",
+        "innovation-mindset",
+        "breakthrough-thinking",
+        "ambitious-goals"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

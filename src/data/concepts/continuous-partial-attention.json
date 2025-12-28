@@ -1,0 +1,44 @@
+{
+    "id": "continuous-partial-attention",
+    "name": "Continuous Partial Attention",
+    "summary": "The state of constantly scanning for new information while never fully focusing on any single thing.",
+    "explanation": "Continuous partial attention (CPA), coined by Linda Stone, describes the modern condition of keeping attention continuously split across multiple information streams - email, messages, social media, notifications - while never fully engaging with any one. Unlike multitasking (which attempts to accomplish multiple tasks), CPA is about not missing anything, driven by FOMO and the fear of being disconnected. CPA creates: a constant low-level stress from monitoring, inability to engage deeply with any single task, reduced quality of all activities, and exhaustion from perpetual alertness. The behavior is self-reinforcing because: platforms reward constant checking, important messages occasionally do arrive, and the checking habit becomes automatic. CPA particularly damages: creative work requiring immersion, relationship quality during interactions, and cognitive recovery that requires full disengagement. For knowledge workers, breaking CPA patterns requires: recognizing the costs of always-on attention, creating protected focus periods, and accepting that some messages can wait.",
+    "tags": [
+        "attention",
+        "focus",
+        "multitasking",
+        "digital-wellness",
+        "productivity"
+    ],
+    "category": "Concepts",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": [
+        "CPA",
+        "Split attention",
+        "Partial attention"
+    ],
+    "relatedConcepts": [
+        "notification-fatigue",
+        "context-switching",
+        "deep-work",
+        "attention-residue",
+        "fomo",
+        "single-tasking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,42 @@
+{
+    "id": "flipped-classroom",
+    "name": "Flipped Classroom",
+    "summary": "A teaching model where content is learned at home and class time is used for practice and discussion.",
+    "explanation": "The flipped classroom inverts traditional teaching: students encounter new material (lectures, readings, videos) before class, then use class time for active practice, discussion, and problem-solving with instructor support. Instead of passively receiving information in class and struggling alone with homework, students struggle with content at home where they can pause and rewind, then get help during class when they most need it. Benefits include: more active classroom time, personalized pacing, immediate instructor feedback, and development of self-directed learning skills. Challenges include: student compliance with pre-work, creating quality pre-class materials, and the initial transition effort. For knowledge workers, the flipped model suggests: front-loading information gathering before collaborative sessions, and using synchronous time for interaction rather than one-way information transfer.",
+    "tags": [
+        "education",
+        "teaching",
+        "learning",
+        "pedagogy",
+        "active-learning"
+    ],
+    "category": "Methods",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Inverted classroom",
+        "Flipped learning"
+    ],
+    "relatedConcepts": [
+        "active-learning",
+        "self-directed-learning",
+        "peer-instruction",
+        "blended-learning",
+        "just-in-time-learning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

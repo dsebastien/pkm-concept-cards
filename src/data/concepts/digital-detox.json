@@ -1,0 +1,49 @@
+{
+    "id": "digital-detox",
+    "name": "Digital Detox",
+    "summary": "Intentional periods of disconnection from digital devices and online platforms to restore mental clarity.",
+    "explanation": "Digital detox involves deliberately disconnecting from digital devices, social media, and online content for a defined period. The practice addresses how constant connectivity creates: attention fragmentation, comparison stress, notification addiction, and reduced capacity for deep thinking. Detox approaches range from brief daily periods (phone-free mornings) to extended retreats (weekend or week-long disconnection). Benefits reported include: improved sleep, reduced anxiety, better relationships, enhanced creativity, and renewed perspective on digital habits. Digital detox isn't anti-technology but pro-intentionality - the goal is conscious choice rather than compulsive use. Challenges include: withdrawal symptoms are real, work expectations may conflict, and returning to old patterns post-detox. For knowledge workers, regular digital detox supports: cognitive restoration, perspective on what information actually matters, and testing which digital habits are serving you versus using you.",
+    "tags": [
+        "digital-wellness",
+        "technology",
+        "mindfulness",
+        "attention",
+        "self-care"
+    ],
+    "category": "Techniques",
+    "icon": "FaPlug",
+    "featured": false,
+    "aliases": [
+        "Tech detox",
+        "Digital sabbath",
+        "Unplugging"
+    ],
+    "relatedConcepts": [
+        "information-fasting",
+        "digital-minimalism",
+        "attention-restoration",
+        "notification-fatigue",
+        "screen-time",
+        "mindful-technology-use"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Digital Minimalism by Cal Newport",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

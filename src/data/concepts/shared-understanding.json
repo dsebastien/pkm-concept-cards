@@ -1,0 +1,44 @@
+{
+    "id": "shared-understanding",
+    "name": "Shared Understanding",
+    "summary": "Common knowledge, perspectives, and mental models that enable effective team collaboration.",
+    "explanation": "Shared understanding refers to the common knowledge, aligned mental models, and mutual perspectives that enable teams to work together effectively. It includes: shared vocabulary (same words mean same things), common context (understanding background and constraints), aligned goals (agreement on what success looks like), and mutual knowledge of skills and preferences. Without shared understanding, teams experience: miscommunication, rework, conflict from different assumptions, and coordination failures. Building shared understanding requires: explicit discussion of assumptions, collaborative problem-solving, documentation of decisions and rationale, and regular synchronization. Techniques include: pair/mob work, design discussions, retrospectives, and shared documentation. Shared understanding is particularly valuable for: complex projects, cross-functional work, and distributed teams. For knowledge workers, investing in shared understanding pays dividends through: reduced miscommunication, faster decision-making, and better outcomes.",
+    "tags": [
+        "collaboration",
+        "communication",
+        "teams",
+        "alignment",
+        "mental-models"
+    ],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Common understanding",
+        "Shared mental models",
+        "Team alignment"
+    ],
+    "relatedConcepts": [
+        "communication",
+        "team-dynamics",
+        "documentation",
+        "alignment",
+        "mental-models",
+        "collaboration"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

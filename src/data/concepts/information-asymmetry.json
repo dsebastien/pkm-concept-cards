@@ -1,0 +1,44 @@
+{
+    "id": "information-asymmetry",
+    "name": "Information Asymmetry",
+    "summary": "A situation where one party has more or better information than another, creating imbalanced dynamics.",
+    "explanation": "Information asymmetry occurs when one party in a transaction or relationship has more, better, or different information than the other. This creates power imbalances and can lead to: adverse selection (bad actors exploiting their information advantage), moral hazard (people taking risks when others bear consequences), and market failures (where informed parties extract value from uninformed ones). Classic examples include: used car markets (seller knows car history), insurance (buyer knows their risk profile), and employment (candidate knows their true abilities). In the digital age, information asymmetry has shifted - companies now have vast data advantages over consumers. Understanding information asymmetry helps: recognize when you're the uninformed party, take steps to reduce gaps before important decisions, and build systems that align incentives despite asymmetry. For knowledge workers, awareness of information asymmetry improves: negotiation outcomes, vendor selection, and recognition of when expertise is being exploited.",
+    "tags": [
+        "information",
+        "economics",
+        "decision-making",
+        "power",
+        "strategy"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Information imbalance",
+        "Knowledge asymmetry",
+        "Informational advantage"
+    ],
+    "relatedConcepts": [
+        "adverse-selection",
+        "moral-hazard",
+        "principal-agent-problem",
+        "due-diligence",
+        "negotiation",
+        "transparency"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

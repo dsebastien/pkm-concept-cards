@@ -1,0 +1,42 @@
+{
+    "id": "differentiated-instruction",
+    "name": "Differentiated Instruction",
+    "summary": "Adapting teaching methods, content, and assessment to meet diverse learner needs.",
+    "explanation": "Differentiated instruction is a teaching philosophy and set of practices that adapt instruction to meet the varied needs of diverse learners. Teachers differentiate based on: student readiness (current skill level), interest (what engages them), and learning profile (how they learn best). Differentiation can occur in: content (what is learned), process (how it's learned), product (how understanding is demonstrated), and environment (the learning setting). Rather than one-size-fits-all instruction, differentiation provides multiple pathways to understanding. Techniques include: tiered assignments, flexible grouping, learning contracts, choice boards, and varied assessment options. For self-directed learners and knowledge workers, differentiation principles suggest: choosing resources that match your current level, using learning methods that work for you, and demonstrating understanding in ways that suit your strengths.",
+    "tags": [
+        "education",
+        "teaching",
+        "diversity",
+        "personalization",
+        "pedagogy"
+    ],
+    "category": "Methods",
+    "icon": "FaUsersCog",
+    "featured": false,
+    "aliases": [
+        "Differentiation",
+        "Adaptive instruction"
+    ],
+    "relatedConcepts": [
+        "personalized-learning",
+        "universal-design-for-learning",
+        "zone-of-proximal-development",
+        "learning-styles",
+        "multiple-intelligences"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

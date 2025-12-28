@@ -1,0 +1,42 @@
+{
+    "id": "hidden-curriculum",
+    "name": "Hidden Curriculum",
+    "summary": "The unwritten lessons, values, and norms taught implicitly through school culture and structure.",
+    "explanation": "The hidden curriculum refers to the implicit lessons, norms, and values transmitted through the structure and culture of educational institutions - beyond the explicit, official curriculum. Examples include: learning to sit still and comply (preparation for workplace obedience), competition through grading (individualism), time management through schedules (industrial-era punctuality), and social hierarchy through classroom dynamics. The hidden curriculum can reinforce existing social structures and inequalities. It's 'hidden' because it's typically unexamined and unquestioned. Awareness of hidden curriculum helps: understand why certain behaviors are rewarded, question whether implicit lessons serve learners' interests, and design learning environments that intentionally teach desired values. For knowledge workers, recognizing hidden curriculum in workplace training and culture helps understand what's really being taught.",
+    "tags": [
+        "education",
+        "sociology",
+        "culture",
+        "institutions",
+        "values"
+    ],
+    "category": "Concepts",
+    "icon": "FaEyeSlash",
+    "featured": false,
+    "aliases": [
+        "Implicit curriculum",
+        "Unwritten lessons"
+    ],
+    "relatedConcepts": [
+        "organizational-culture",
+        "socialization",
+        "norms",
+        "assumptions",
+        "systems-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

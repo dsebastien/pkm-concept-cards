@@ -1,0 +1,43 @@
+{
+    "id": "personalized-learning",
+    "name": "Personalized Learning",
+    "summary": "Tailoring education to individual needs, strengths, interests, and pace.",
+    "explanation": "Personalized learning adapts the educational experience to individual learners rather than using one-size-fits-all approaches. Dimensions of personalization include: content (what to learn), pace (how fast), path (what sequence), and approach (how to learn). It recognizes that learners differ in: prior knowledge, learning preferences, interests, goals, and optimal challenge levels. Personalization can be: learner-driven (student choice), teacher-driven (differentiated instruction), or technology-driven (adaptive systems). Benefits include: increased engagement, better learning outcomes, and development of self-direction skills. Challenges include: resource intensity, assessment complexity, and ensuring breadth along with depth. For self-directed learners and knowledge workers, personalizing your own learning means: understanding your learning style, choosing resources that match your level, and designing learning paths aligned with your specific goals.",
+    "tags": [
+        "education",
+        "learning",
+        "individual-differences",
+        "teaching",
+        "customization"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserEdit",
+    "featured": false,
+    "aliases": [
+        "Individualized learning",
+        "Customized learning"
+    ],
+    "relatedConcepts": [
+        "adaptive-learning",
+        "differentiated-instruction",
+        "self-directed-learning",
+        "mastery-learning",
+        "learning-styles",
+        "zone-of-proximal-development"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "level-5-leadership",
+    "name": "Level 5 Leadership",
+    "summary": "The highest level of leadership combining fierce professional will with personal humility.",
+    "explanation": "Level 5 Leadership, identified by Jim Collins in 'Good to Great,' describes leaders who achieve lasting organizational excellence through a paradoxical blend of personal humility and professional will. Level 5 leaders: channel ego into the organization rather than themselves, attribute success to others and luck while taking responsibility for failures, demonstrate unwavering resolve toward goals, and focus on building enduring greatness beyond their tenure. Collins found this leadership style in every company that made the leap from good to great. The five levels are: highly capable individual, contributing team member, competent manager, effective leader, and Level 5 executive. Unlike charismatic leaders who often leave dependent organizations, Level 5 leaders build capabilities that persist. For knowledge workers, Level 5 leadership principles apply beyond executives: channeling ambition toward impact rather than recognition, building rather than taking credit, and developing others who can surpass you.",
+    "tags": [
+        "leadership",
+        "humility",
+        "excellence",
+        "ambition",
+        "character"
+    ],
+    "category": "Concepts",
+    "icon": "FaMedal",
+    "featured": false,
+    "aliases": [
+        "Collins Level 5",
+        "Good to Great leadership",
+        "Humble ambition"
+    ],
+    "relatedConcepts": [
+        "humble-leadership",
+        "servant-leadership",
+        "ego-management",
+        "organizational-excellence",
+        "legacy-thinking",
+        "succession-planning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Good to Great by Jim Collins",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

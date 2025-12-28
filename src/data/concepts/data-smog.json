@@ -1,0 +1,49 @@
+{
+    "id": "data-smog",
+    "name": "Data Smog",
+    "summary": "The pollution-like effect of excessive, low-quality information that clouds thinking and judgment.",
+    "explanation": "Data smog, coined by journalist David Shenk, is the metaphor comparing information overload to environmental pollution. Just as smog obscures vision and damages health, data smog clouds judgment and impairs thinking. The concept emphasizes that information isn't inherently good - like any resource, it can become toxic in excess. Data smog characteristics include: important signals lost in noise, quality degraded by quantity, processing becoming more costly than the information is worth, and constant low-grade cognitive stress. Unlike physical pollution, data smog is invisible and even celebrated (being busy, staying informed). The metaphor helpfully suggests solutions from environmentalism: filtering, reduction, protection, and collective action. For knowledge workers, recognizing data smog means: treating information diet as seriously as physical diet, building personal filters and curation systems, and accepting that less information often means better thinking.",
+    "tags": [
+        "information",
+        "overload",
+        "metaphor",
+        "digital-wellness",
+        "attention"
+    ],
+    "category": "Concepts",
+    "icon": "FaCloud",
+    "featured": false,
+    "aliases": [
+        "Information pollution",
+        "Digital noise",
+        "Info smog"
+    ],
+    "relatedConcepts": [
+        "infoglut",
+        "signal-to-noise",
+        "information-filtering",
+        "news-diet",
+        "information-minimalism",
+        "attention-pollution"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Data Smog by David Shenk",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

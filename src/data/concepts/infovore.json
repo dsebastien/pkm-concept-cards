@@ -1,0 +1,44 @@
+{
+    "id": "infovore",
+    "name": "Infovore",
+    "summary": "A person with an insatiable appetite for information, constantly seeking new knowledge and data.",
+    "explanation": "Infovore describes someone who compulsively consumes information - news, articles, books, podcasts, social media - driven by curiosity and the dopamine hit of learning something new. The term, combining 'information' and the Latin 'vorare' (to devour), captures both the positive (genuine curiosity, love of learning) and potentially negative (compulsive consumption, information hoarding) aspects. Infovore behavior is reinforced by: novelty-seeking brain circuits, the illusion that more information always helps, and digital platforms designed to maximize engagement. While curiosity is valuable, problematic infovore patterns include: consuming without applying, breadth without depth, information as procrastination, and collection becoming the goal rather than use. For knowledge workers, recognizing infovore tendencies is important because: consumption can masquerade as productivity, the joy of learning can prevent the harder work of creating, and knowing more doesn't automatically mean thinking better.",
+    "tags": [
+        "information",
+        "learning",
+        "curiosity",
+        "behavior",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": [
+        "Information junkie",
+        "Knowledge seeker",
+        "Info addict"
+    ],
+    "relatedConcepts": [
+        "shiny-object-syndrome",
+        "information-hoarding",
+        "curiosity",
+        "collector-vs-creator",
+        "learning-addiction",
+        "information-snacking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

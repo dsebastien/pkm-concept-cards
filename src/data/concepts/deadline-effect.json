@@ -1,0 +1,44 @@
+{
+    "id": "deadline-effect",
+    "name": "Deadline Effect",
+    "summary": "The phenomenon of increased productivity and focus as deadlines approach.",
+    "explanation": "The deadline effect describes the surge in productivity that occurs as deadlines approach. Work that could have been done over weeks often gets completed in final days or hours. This happens because deadlines: create urgency that overcomes procrastination, force prioritization (no time for perfection), trigger focused attention (no distractions allowed), and make the abstract concrete (consequences become real). While useful, deadline effect has downsides: quality may suffer under time pressure, stress increases, and dependency on external deadlines prevents self-direction. The effect can be harnessed by: creating artificial deadlines before real ones, making deadlines public (social pressure), and using short iterations with frequent deadlines. Note that unrealistic deadlines backfire - if people don't believe they're achievable, the motivating effect disappears. For knowledge workers, understanding the deadline effect helps: structure work to leverage urgency appropriately, avoid unhealthy dependence on last-minute pressure, and create healthy deadline cultures.",
+    "tags": [
+        "time",
+        "productivity",
+        "motivation",
+        "deadlines",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaExclamation",
+    "featured": false,
+    "aliases": [
+        "Deadline pressure",
+        "Last-minute productivity",
+        "Deadline motivation"
+    ],
+    "relatedConcepts": [
+        "parkinsons-law",
+        "procrastination",
+        "time-boxing",
+        "urgency",
+        "student-syndrome",
+        "time-pressure"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

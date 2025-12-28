@@ -1,0 +1,44 @@
+{
+    "id": "information-triage",
+    "name": "Information Triage",
+    "summary": "Rapidly sorting incoming information by urgency and importance to allocate attention effectively.",
+    "explanation": "Information triage borrows from medical emergency protocols to describe the rapid sorting of information inputs by priority. Just as ER doctors must quickly decide which patients need immediate attention, knowledge workers must constantly evaluate which information deserves cognitive resources. Effective information triage involves: quick initial assessment (does this need attention at all?), categorization by urgency vs. importance, clear criteria for each category, and ruthless elimination of what doesn't matter. The skill is particularly crucial because: input always exceeds processing capacity, treating all information equally wastes attention, and many sources deliberately hide their true priority. Information triage differs from to-do prioritization - it's about whether something enters your system at all. For knowledge workers, developing triage skills means: creating explicit criteria for different information types, building rapid assessment habits, and being willing to let information pass without engagement.",
+    "tags": [
+        "information",
+        "prioritization",
+        "productivity",
+        "attention",
+        "decision-making"
+    ],
+    "category": "Techniques",
+    "icon": "FaFilter",
+    "featured": false,
+    "aliases": [
+        "Info triage",
+        "Priority filtering",
+        "Information sorting"
+    ],
+    "relatedConcepts": [
+        "information-filtering",
+        "eisenhower-matrix",
+        "attention-management",
+        "email-overload",
+        "notification-fatigue",
+        "decision-fatigue"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

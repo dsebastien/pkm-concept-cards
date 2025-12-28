@@ -1,0 +1,44 @@
+{
+    "id": "information-snacking",
+    "name": "Information Snacking",
+    "summary": "Consuming small, bite-sized pieces of information rather than engaging with substantial, nourishing content.",
+    "explanation": "Information snacking describes the modern habit of consuming information in small, disconnected bites - tweets, headlines, short videos, notifications - rather than engaging with deeper, more substantial content. Like food snacking, it provides instant satisfaction without real nourishment. Information snacking is problematic because: understanding requires context that snippets lack, complex ideas can't be compressed into sound bites, the habit weakens capacity for sustained attention, and the impression of being informed masks actual ignorance. The behavior is encouraged by: mobile devices (perfect for quick hits), platform design (optimized for engagement metrics), and busy schedules (feeling like there's no time for depth). Information snacking creates a paradox: more time 'learning' leads to less actual knowledge. For knowledge workers, reducing information snacking means: scheduling time for long-form content, recognizing the false efficiency of snippets, and rebuilding attention spans capable of depth.",
+    "tags": [
+        "information",
+        "attention",
+        "learning",
+        "habits",
+        "digital-wellness"
+    ],
+    "category": "Concepts",
+    "icon": "FaCookie",
+    "featured": false,
+    "aliases": [
+        "Info snacking",
+        "Bite-sized learning",
+        "Shallow consumption"
+    ],
+    "relatedConcepts": [
+        "continuous-partial-attention",
+        "deep-reading",
+        "attention-span",
+        "infovore",
+        "social-media-consumption",
+        "information-diet"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

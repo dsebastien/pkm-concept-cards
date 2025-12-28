@@ -1,0 +1,44 @@
+{
+    "id": "echo-chamber",
+    "name": "Echo Chamber",
+    "summary": "An environment where beliefs are amplified by repetition within a closed system of like-minded people.",
+    "explanation": "An echo chamber is a social or informational environment where you encounter only opinions and information that reinforce your existing beliefs. Unlike filter bubbles (algorithmically created), echo chambers are often consciously constructed through choice of friends, news sources, and communities. Echo chambers create: reinforcement of existing views, increasing certainty about potentially wrong beliefs, radicalization through repeated exposure, and inability to understand or empathize with outside perspectives. The dynamics are self-reinforcing: people inside don't recognize they're in one, contrarian voices leave or are excluded, and internal consensus feels like broader agreement. Social media amplifies echo chambers by making it easy to curate homogeneous feeds and by algorithmic boosting of engagement (which conflict generates). For knowledge workers, recognizing echo chambers matters because: intellectual diversity improves thinking, career success requires understanding different stakeholders, and expertise requires testing ideas against opposing views.",
+    "tags": [
+        "information",
+        "social-dynamics",
+        "bias",
+        "critical-thinking",
+        "communication"
+    ],
+    "category": "Concepts",
+    "icon": "FaComment",
+    "featured": false,
+    "aliases": [
+        "Information bubble",
+        "Ideological cocoon",
+        "Opinion silo"
+    ],
+    "relatedConcepts": [
+        "filter-bubble",
+        "confirmation-bias",
+        "groupthink",
+        "polarization",
+        "intellectual-humility",
+        "perspective-taking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

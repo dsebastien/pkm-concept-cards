@@ -1,0 +1,42 @@
+{
+    "id": "spiral-curriculum",
+    "name": "Spiral Curriculum",
+    "summary": "Revisiting topics at increasing complexity as learners develop - building depth through repetition.",
+    "explanation": "Spiral curriculum, proposed by Jerome Bruner, involves revisiting topics, subjects, or themes multiple times throughout education, each time at increasing depth and complexity. Rather than covering a topic once and moving on, spiral curriculum returns to core ideas repeatedly, building on prior learning. Each encounter reinforces previous learning while adding new dimensions. For example, fractions might be introduced with physical objects in early grades, revisited with number lines, then with operations, then with algebraic applications. Benefits include: strengthening memory through spaced repetition, building connections between related concepts, allowing for increasing abstraction as cognitive development proceeds, and preventing the isolation of knowledge. For knowledge workers and self-learners, spiral principles suggest: returning to foundational material at new skill levels, deepening rather than only broadening, and viewing review as advancement rather than repetition.",
+    "tags": [
+        "education",
+        "curriculum",
+        "learning",
+        "design",
+        "pedagogy"
+    ],
+    "category": "Concepts",
+    "icon": "FaSpiral",
+    "featured": false,
+    "aliases": [
+        "Spiraling curriculum",
+        "Bruner's spiral"
+    ],
+    "relatedConcepts": [
+        "spaced-repetition",
+        "scaffolding-learning",
+        "zone-of-proximal-development",
+        "prior-knowledge",
+        "progressive-complexity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

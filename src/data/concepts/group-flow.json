@@ -1,0 +1,49 @@
+{
+    "id": "group-flow",
+    "name": "Group Flow",
+    "summary": "A collective state where teams experience synchrony, optimal performance, and shared engagement.",
+    "explanation": "Group flow extends the individual flow concept to teams - a collective state where members experience synchrony, heightened performance, and shared immersion in the work. Keith Sawyer's research identifies conditions for group flow: shared goal, close listening, complete concentration, sense of control, blending of egos, equal participation, familiarity, constant communication, and moving the action forward. When achieved, group flow produces: exceptional performance, innovative solutions, and intense satisfaction. It differs from individual flow by requiring: coordination of individual states, mutual responsiveness, and shared rather than solo activity. Group flow is more fragile than individual flow - disruption by any member affects all. It's more common in: creative collaboration, sports teams, musical groups, and high-performing work teams. For knowledge workers, creating conditions for group flow means: protecting collaborative time, establishing shared language, and building team trust and familiarity.",
+    "tags": [
+        "collaboration",
+        "flow",
+        "performance",
+        "teams",
+        "creativity"
+    ],
+    "category": "Concepts",
+    "icon": "FaSync",
+    "featured": false,
+    "aliases": [
+        "Team flow",
+        "Collective flow",
+        "Collaborative flow"
+    ],
+    "relatedConcepts": [
+        "flow-state",
+        "team-dynamics",
+        "collaboration",
+        "deep-work",
+        "creative-collaboration",
+        "peak-performance"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Group Genius by Keith Sawyer",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

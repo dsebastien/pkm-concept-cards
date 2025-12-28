@@ -1,0 +1,48 @@
+{
+    "id": "understanding-by-design",
+    "name": "Understanding by Design",
+    "summary": "The Wiggins & McTighe framework for curriculum design focused on enduring understanding and transfer.",
+    "explanation": "Understanding by Design (UbD) is a curriculum framework by Grant Wiggins and Jay McTighe focused on developing deep understanding and transfer ability rather than just content coverage. The framework uses backward design through three stages: desired results (what should students understand and be able to do?), evidence (how will we know they understand?), and learning plan (what activities will build understanding?). Key concepts include: 'big ideas' (core concepts that anchor learning), 'essential questions' (provocative questions that guide inquiry), 'enduring understandings' (insights that last beyond the class), and 'transfer' (applying learning to new situations). UbD explicitly distinguishes 'understanding' from 'knowing' - understanding means being able to explain, interpret, apply, and have perspective. For knowledge workers, UbD principles suggest focusing on transferable insights over accumulated facts.",
+    "tags": [
+        "education",
+        "curriculum",
+        "design",
+        "understanding",
+        "transfer"
+    ],
+    "category": "Frameworks",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "UbD",
+        "Wiggins McTighe framework"
+    ],
+    "relatedConcepts": [
+        "backward-design",
+        "learning-transfer",
+        "essential-questions",
+        "first-principles",
+        "deep-learning",
+        "blooms-taxonomy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Understanding by Design by Wiggins & McTighe",
+            "url": "https://amzn.to/3DoT9DT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

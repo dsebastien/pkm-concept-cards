@@ -1,0 +1,44 @@
+{
+    "id": "mentorship",
+    "name": "Mentorship",
+    "summary": "A developmental relationship where an experienced person guides another's growth and career.",
+    "explanation": "Mentorship is a relationship in which a more experienced or knowledgeable person (mentor) guides a less experienced person (mentee) in their professional and personal development. Effective mentorship provides: career guidance, psychosocial support, skill development, network access, and wisdom from experience. Unlike coaching (which focuses on specific skills or goals), mentorship is typically broader and longer-term. Good mentors: share experiences honestly including failures, ask questions rather than just advising, make connections and open doors, provide safe space for discussing challenges, and adapt to mentee needs. Good mentees: come prepared with specific questions, are open to feedback, take action on advice, respect mentor's time, and keep mentors updated on progress. For knowledge workers, mentorship accelerates learning by: providing shortcuts from others' experience, offering perspective on career decisions, and expanding professional networks.",
+    "tags": [
+        "leadership",
+        "development",
+        "relationships",
+        "career",
+        "learning"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserFriends",
+    "featured": false,
+    "aliases": [
+        "Mentoring",
+        "Mentor relationship",
+        "Professional mentorship"
+    ],
+    "relatedConcepts": [
+        "coaching-leadership",
+        "sponsorship",
+        "leadership-development",
+        "career-guidance",
+        "networking",
+        "role-models"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

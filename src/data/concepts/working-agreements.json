@@ -1,0 +1,44 @@
+{
+    "id": "working-agreements",
+    "name": "Working Agreements",
+    "summary": "Explicit team agreements about how members will work together and treat each other.",
+    "explanation": "Working agreements are explicit, team-created guidelines about how team members will work together. Unlike imposed rules, they are collaboratively developed and owned by the team. Common areas covered include: communication norms (response times, meeting etiquette), collaboration practices (code review processes, pair programming), decision-making approaches, conflict handling, and work-life boundaries. Effective working agreements are: specific enough to be actionable, few enough to remember, regularly reviewed and updated, and genuinely agreed upon (not just accepted). Benefits include: reduced friction from unclear expectations, faster norm establishment for new members, and reference point for addressing issues. The process of creating agreements is as valuable as the agreements themselves - it surfaces assumptions and creates shared understanding. For knowledge workers, working agreements help: reduce ambiguity, align expectations, and create shared accountability for team culture.",
+    "tags": [
+        "collaboration",
+        "teams",
+        "norms",
+        "agreements",
+        "facilitation"
+    ],
+    "category": "Techniques",
+    "icon": "FaFileContract",
+    "featured": false,
+    "aliases": [
+        "Team agreements",
+        "Team norms",
+        "Team contract"
+    ],
+    "relatedConcepts": [
+        "team-charter",
+        "team-dynamics",
+        "psychological-safety",
+        "expectations-setting",
+        "team-culture",
+        "retrospectives"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

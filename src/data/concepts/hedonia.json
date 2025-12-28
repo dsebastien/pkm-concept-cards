@@ -1,0 +1,44 @@
+{
+    "id": "hedonia",
+    "name": "Hedonia",
+    "summary": "The pursuit of pleasure and positive emotional experiences as a path to wellbeing.",
+    "explanation": "Hedonia refers to wellbeing defined as maximizing pleasure and positive emotions while minimizing pain and negative emotions. Rooted in Epicurean philosophy, hedonic wellbeing focuses on feeling good - experiences of joy, contentment, and pleasure. The hedonic view holds that the best life is the one with the most positive experiences. This contrasts with eudaimonic wellbeing (meaning and flourishing). Hedonic psychology studies: what makes people feel good, how to increase positive affect, and the nature of pleasure. Critiques include: pleasure adapts (hedonic treadmill), pure pleasure-seeking can undermine meaning, and immediate gratification may conflict with long-term wellbeing. However, hedonia isn't simply hedonism - it recognizes that positive emotions have value and pursuing pleasure is legitimate. For knowledge workers, understanding hedonia helps: recognize the legitimate role of feeling good, avoid dismissing pleasure as superficial, and balance enjoyment with meaning.",
+    "tags": [
+        "happiness",
+        "pleasure",
+        "wellbeing",
+        "philosophy",
+        "emotions"
+    ],
+    "category": "Concepts",
+    "icon": "FaSun",
+    "featured": false,
+    "aliases": [
+        "Hedonic wellbeing",
+        "Pleasure-based happiness",
+        "Hedonism"
+    ],
+    "relatedConcepts": [
+        "eudaimonia",
+        "pleasure-vs-meaning",
+        "positive-emotions",
+        "hedonic-adaptation",
+        "subjective-wellbeing",
+        "happiness"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "leadership-presence",
+    "name": "Leadership Presence",
+    "summary": "The ability to project confidence, authenticity, and authority that inspires trust and followership.",
+    "explanation": "Leadership presence is the quality that makes others see someone as a leader - a combination of how you carry yourself, communicate, and connect with others. It's the impression you make before you speak and the impact that lingers after. Key elements include: gravitas (confidence, decisiveness, composure under pressure), communication (speaking skills, active listening, assertiveness), and appearance (appropriate dress, posture, energy). Presence isn't about being imposing or domineering - it's about being fully present, genuinely engaged, and projecting that you're capable and trustworthy. Unlike charisma (which some have naturally), presence can be developed through: managing physical cues (posture, eye contact, voice), developing expertise (confidence from competence), practicing mindfulness (being fully present), and authentic expression (not performing but being real). For knowledge workers, developing presence helps: influence without authority, represent teams effectively, and create psychological safety through calm competence.",
+    "tags": [
+        "leadership",
+        "presence",
+        "communication",
+        "influence",
+        "professional-development"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserCircle",
+    "featured": false,
+    "aliases": [
+        "Executive bearing",
+        "Leadership aura",
+        "Command presence"
+    ],
+    "relatedConcepts": [
+        "executive-presence",
+        "charisma",
+        "gravitas",
+        "body-language",
+        "communication-skills",
+        "confidence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

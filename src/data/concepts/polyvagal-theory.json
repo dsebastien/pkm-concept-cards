@@ -1,0 +1,48 @@
+{
+    "id": "polyvagal-theory",
+    "name": "Polyvagal Theory",
+    "summary": "Stephen Porges' theory of a three-part nervous system hierarchy: social engagement, fight/flight, and freeze.",
+    "explanation": "Polyvagal Theory, developed by Stephen Porges, describes the autonomic nervous system as having three hierarchical states: ventral vagal (social engagement), sympathetic (fight/flight), and dorsal vagal (freeze/shutdown). We cycle through these states based on perceived safety. Ventral vagal: feeling safe, connected, able to socially engage - this is optimal for learning, creativity, and connection. Sympathetic: mobilized for action, anxious, or angry - useful for actual threats but chronic activation is harmful. Dorsal vagal: shutdown, disconnection, dissociation - the primitive response to overwhelming threat. The theory explains why connection calms (co-regulation), why trauma can cause shutdown, and why feeling safe is prerequisite for higher functions. For knowledge workers, understanding polyvagal theory helps: recognize your state, create conditions for ventral vagal access (safety, connection), and understand why stress impairs cognitive function.",
+    "tags": [
+        "psychology",
+        "nervous-system",
+        "stress",
+        "trauma",
+        "physiology"
+    ],
+    "category": "Concepts",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": [
+        "Porges theory",
+        "Three-part nervous system"
+    ],
+    "relatedConcepts": [
+        "vagal-tone",
+        "nervous-system-regulation",
+        "stress-response",
+        "freeze-response",
+        "psychological-safety",
+        "window-of-tolerance"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Polyvagal Theory by Stephen Porges",
+            "url": "https://amzn.to/3DpR9yT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

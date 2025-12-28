@@ -1,0 +1,49 @@
+{
+    "id": "positivity-ratio",
+    "name": "Positivity Ratio",
+    "summary": "The balance of positive to negative emotional experiences that predicts flourishing.",
+    "explanation": "The positivity ratio refers to the balance of positive to negative emotional experiences and its relationship to flourishing. Barbara Fredrickson's research suggested ratios above approximately 3:1 (three positive experiences for each negative) characterize flourishing individuals and high-performing teams. While the specific mathematical ratio has been challenged, the core insight remains valuable: the balance of positive to negative emotions matters more than just the presence of positives. Negative emotions are necessary and useful - they provide information and motivation. But excessive negativity without sufficient positivity undermines wellbeing and performance. The practical application: actively cultivate positive experiences to shift your ratio, without suppressing or ignoring legitimate negative emotions. For knowledge workers, understanding positivity ratios helps: recognize when overall emotional balance is off, take action to increase positives, and appreciate that some negativity is healthy and informative.",
+    "tags": [
+        "happiness",
+        "emotions",
+        "wellbeing",
+        "positive-psychology",
+        "flourishing"
+    ],
+    "category": "Concepts",
+    "icon": "FaPercentage",
+    "featured": false,
+    "aliases": [
+        "Losada ratio",
+        "3:1 ratio",
+        "Positivity balance"
+    ],
+    "relatedConcepts": [
+        "positive-emotions",
+        "broaden-and-build",
+        "negativity-bias",
+        "flourishing",
+        "emotional-balance",
+        "wellbeing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Positivity by Barbara Fredrickson",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

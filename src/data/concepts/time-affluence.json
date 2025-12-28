@@ -1,0 +1,49 @@
+{
+    "id": "time-affluence",
+    "name": "Time Affluence",
+    "summary": "The subjective feeling of having abundant time, enabling presence and intentional choices.",
+    "explanation": "Time affluence is the subjective experience of having sufficient or abundant time - feeling unhurried, able to be present, and having space for meaningful activities. Unlike objective free time (hours available), time affluence is psychological - it's about perception and relationship with time. Research by Ashley Whillans shows time affluence correlates strongly with wellbeing, often more than material affluence. Time-affluent people report: greater happiness, lower stress, better health behaviors, and stronger relationships. Creating time affluence doesn't require more hours but: protecting existing time from fragmentation, reducing rushed transitions, being present rather than mentally elsewhere, and valuing time as highly as money. Counter-intuitively, giving time away (volunteering) can increase time affluence by shifting perspective. For knowledge workers, cultivating time affluence means: treating time as the scarce resource it is, making choices that prioritize time over money when possible, and designing rhythms that feel unhurried.",
+    "tags": [
+        "time",
+        "wellbeing",
+        "lifestyle",
+        "mindset",
+        "abundance"
+    ],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Time wealth",
+        "Temporal abundance",
+        "Unhurried time"
+    ],
+    "relatedConcepts": [
+        "time-poverty",
+        "time-freedom",
+        "slow-living",
+        "presence",
+        "wellbeing",
+        "life-design"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Time Smart by Ashley Whillans",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

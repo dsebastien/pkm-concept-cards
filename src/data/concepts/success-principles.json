@@ -1,0 +1,48 @@
+{
+    "id": "success-principles",
+    "name": "Success Principles",
+    "summary": "Timeless patterns and practices that consistently contribute to achievement across domains.",
+    "explanation": "Success principles are patterns that reliably contribute to achievement across different domains and contexts. While tactics change, principles remain constant. Common success principles include: clarity of purpose (knowing what you want), consistent action (showing up regularly), delayed gratification (investing now for future returns), continuous learning (adapting and improving), relationship building (success through others), resilience (persisting through setbacks), and value creation (focusing on contribution). These principles appear across self-help, business, and personal development literature because they work. However, principles must be adapted to context and individual circumstances - there's no universal formula. For knowledge workers, studying success principles helps: identify what you're missing, create frameworks for decisions, and build systems around proven patterns rather than reinventing approaches.",
+    "tags": [
+        "success",
+        "principles",
+        "wisdom",
+        "patterns",
+        "achievement"
+    ],
+    "category": "Concepts",
+    "icon": "FaKey",
+    "featured": false,
+    "aliases": [
+        "Laws of success",
+        "Keys to success"
+    ],
+    "relatedConcepts": [
+        "first-principles",
+        "mental-models",
+        "high-performance-habits",
+        "compound-effect",
+        "persistence",
+        "timeless-wisdom"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Success Principles by Jack Canfield",
+            "url": "https://amzn.to/3Dp19NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

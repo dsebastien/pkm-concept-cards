@@ -1,0 +1,44 @@
+{
+    "id": "hedonic-adaptation",
+    "name": "Hedonic Adaptation",
+    "summary": "The tendency to return to baseline happiness levels despite major positive or negative changes.",
+    "explanation": "Hedonic adaptation is the psychological process by which people return to their baseline level of happiness despite major positive or negative life changes. Win the lottery or become paralyzed - research shows people adapt more than expected and return toward their previous happiness levels. This explains why: new purchases quickly lose their thrill, promotions provide only temporary boosts, and even significant losses become bearable over time. Hedonic adaptation is both blessing and curse - it provides resilience to hardship but undermines lasting happiness from achievements. Understanding adaptation helps: set realistic expectations about life changes, focus on activities that resist adaptation (relationships, experiences, growth), and appreciate that lasting happiness comes from recurring sources rather than single events. For knowledge workers, awareness of hedonic adaptation prevents: overinvesting in material rewards, neglecting relationship and growth needs, and expecting external success to permanently satisfy.",
+    "tags": [
+        "happiness",
+        "psychology",
+        "wellbeing",
+        "adaptation",
+        "expectations"
+    ],
+    "category": "Concepts",
+    "icon": "FaUndo",
+    "featured": false,
+    "aliases": [
+        "Happiness adaptation",
+        "Hedonic set-point",
+        "Emotional adaptation"
+    ],
+    "relatedConcepts": [
+        "hedonic-treadmill",
+        "happiness-set-point",
+        "gratitude",
+        "savoring",
+        "experience-over-things",
+        "baseline-happiness"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

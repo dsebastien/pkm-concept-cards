@@ -1,0 +1,49 @@
+{
+    "id": "time-poverty",
+    "name": "Time Poverty",
+    "summary": "The chronic feeling of having too little time despite increases in objective free time.",
+    "explanation": "Time poverty describes the subjective experience of having insufficient time - a chronic feeling of rushing, being overwhelmed, and having too much to do. Paradoxically, despite labor-saving devices and shorter work weeks, many people feel more time-poor than previous generations. Time poverty results from: fragmentation (many small tasks vs. blocks of time), increased commitments (more options means more obligations), work intensification (expectations of constant availability), and choice overload (decision fatigue from endless options). Time poverty has real consequences: stress, reduced wellbeing, worse decision-making, and strained relationships. The solution isn't just more time - highly successful people feel time-poor while those with abundant time may not. It requires: intentional time design, saying no to low-value activities, and shifting mindset around time scarcity. For knowledge workers, addressing time poverty means: protecting blocks of time, reducing commitments, and recognizing time poverty as a perception that can be shifted.",
+    "tags": [
+        "time",
+        "productivity",
+        "stress",
+        "wellbeing",
+        "modern-life"
+    ],
+    "category": "Concepts",
+    "icon": "FaHourglass",
+    "featured": false,
+    "aliases": [
+        "Time famine",
+        "Time stress",
+        "Time pressure"
+    ],
+    "relatedConcepts": [
+        "time-affluence",
+        "time-scarcity-mindset",
+        "time-confetti",
+        "busyness-trap",
+        "overwhelm",
+        "time-freedom"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Time Smart by Ashley Whillans",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

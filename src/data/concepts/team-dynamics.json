@@ -1,0 +1,44 @@
+{
+    "id": "team-dynamics",
+    "name": "Team Dynamics",
+    "summary": "The behavioral patterns and psychological forces that influence how teams function and perform.",
+    "explanation": "Team dynamics refers to the unconscious, psychological forces that influence team behavior, decision-making, and performance. These include: power relationships, communication patterns, roles people assume, norms that develop, and how conflict is handled. Bruce Tuckman's model describes stages: forming (polite, orientation), storming (conflict emerges), norming (agreements develop), and performing (high function). Healthy dynamics include: open communication, shared goals, mutual respect, constructive conflict, and distributed participation. Unhealthy dynamics include: dominant individuals, passive-aggressive behavior, hidden agendas, scapegoating, and groupthink. Leaders influence dynamics through: modeling desired behavior, addressing issues early, creating structures that support healthy interaction, and intervening when patterns become destructive. For knowledge workers, understanding team dynamics helps: navigate complex team situations, contribute to healthy patterns, and recognize when dysfunction is systemic rather than individual.",
+    "tags": [
+        "collaboration",
+        "teams",
+        "psychology",
+        "communication",
+        "group-behavior"
+    ],
+    "category": "Concepts",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Group dynamics",
+        "Team behavior",
+        "Team interactions"
+    ],
+    "relatedConcepts": [
+        "psychological-safety",
+        "trust-building",
+        "conflict-resolution",
+        "group-decision-making",
+        "team-roles",
+        "norming"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

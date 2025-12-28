@@ -1,0 +1,49 @@
+{
+    "id": "temporal-landmarks",
+    "name": "Temporal Landmarks",
+    "summary": "Significant dates that create psychological fresh starts and motivation for new behaviors.",
+    "explanation": "Temporal landmarks are dates that stand out in time and create psychological effects - they prompt reflection, separate the present self from the past, and motivate new behaviors. Examples include: new years, birthdays, Mondays, first of the month, and life transitions. Research by Katy Milkman shows people are more likely to start new behaviors (exercise, diets, savings) after temporal landmarks - the 'fresh start effect.' These landmarks work by: creating a sense of new beginning, enabling psychological distance from past failures, and providing natural points for goal setting and review. You can leverage temporal landmarks by: timing goal starts to landmarks, creating personal meaningful dates, and using them for periodic life review. Artificially created landmarks (declaring 'today is day one') can also work if imbued with significance. For knowledge workers, temporal landmarks provide: natural goal-setting points, motivation for behavior change, and structure for reflection and planning.",
+    "tags": [
+        "time",
+        "motivation",
+        "goals",
+        "behavior-change",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaFlag",
+    "featured": false,
+    "aliases": [
+        "Fresh start dates",
+        "Milestone dates",
+        "Significant dates"
+    ],
+    "relatedConcepts": [
+        "fresh-start-effect",
+        "goal-setting",
+        "new-year-resolutions",
+        "habit-formation",
+        "behavior-change",
+        "reflection"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "How to Change by Katy Milkman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

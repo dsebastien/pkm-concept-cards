@@ -1,0 +1,48 @@
+{
+    "id": "high-performance-habits",
+    "name": "High Performance Habits",
+    "summary": "Brendon Burchard's research-based framework of six habits that drive sustained excellence.",
+    "explanation": "High Performance Habits, based on Brendon Burchard's research, identifies six habits that differentiate consistent high performers: Seek Clarity (know who you want to be and what matters), Generate Energy (maintain physical and mental vitality), Raise Necessity (create internal and external reasons to excel), Increase Productivity (focus on outputs that matter), Develop Influence (positively shape how others think and behave), and Demonstrate Courage (express ideas, take action despite fear). The research found these habits matter more than demographics, personality, or industry. Key insight: high performance is about habits anyone can develop, not just innate talent. The habits are 'deliberate' - they require conscious effort and practice to maintain. For knowledge workers, these habits provide a framework for sustained excellence without burnout, emphasizing both performance and wellbeing.",
+    "tags": [
+        "performance",
+        "habits",
+        "productivity",
+        "excellence",
+        "success"
+    ],
+    "category": "Frameworks",
+    "icon": "FaRocket",
+    "featured": false,
+    "aliases": [
+        "HPH",
+        "Burchard habits"
+    ],
+    "relatedConcepts": [
+        "peak-performance",
+        "keystone-habits",
+        "energy-management",
+        "clarity",
+        "productivity",
+        "deliberate-practice"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "High Performance Habits by Brendon Burchard",
+            "url": "https://amzn.to/3DpY9KT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

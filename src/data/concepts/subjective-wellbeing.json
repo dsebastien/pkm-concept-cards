@@ -1,0 +1,44 @@
+{
+    "id": "subjective-wellbeing",
+    "name": "Subjective Wellbeing",
+    "summary": "A person's own evaluation of their life including emotional experiences and life satisfaction.",
+    "explanation": "Subjective wellbeing (SWB) is the scientific term for how people evaluate their own lives. It has two components: affective (the balance of positive to negative emotions) and cognitive (life satisfaction judgments). High SWB means: frequent positive emotions, infrequent negative emotions, and satisfaction with life overall. SWB is 'subjective' because it relies on individual assessment rather than external criteria - what makes one person satisfied may not work for another. Research shows SWB correlates with: better health, longer life, better relationships, and higher productivity. Factors that influence SWB include: relationships, meaningful work, health, autonomy, and basic needs met. Importantly, income increases SWB only up to a point (meeting needs). For knowledge workers, understanding SWB helps: define personal wellbeing goals, track progress meaningfully, and recognize that wellbeing is multi-dimensional - happiness alone isn't the whole picture.",
+    "tags": [
+        "happiness",
+        "wellbeing",
+        "psychology",
+        "life-satisfaction",
+        "emotions"
+    ],
+    "category": "Concepts",
+    "icon": "FaSmile",
+    "featured": false,
+    "aliases": [
+        "SWB",
+        "Personal wellbeing",
+        "Self-assessed happiness"
+    ],
+    "relatedConcepts": [
+        "life-satisfaction",
+        "positive-emotions",
+        "happiness",
+        "flourishing",
+        "eudaimonia",
+        "quality-of-life"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

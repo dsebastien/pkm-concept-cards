@@ -1,0 +1,42 @@
+{
+    "id": "socratic-seminar",
+    "name": "Socratic Seminar",
+    "summary": "A formal discussion based on questioning, where participants explore ideas through dialogue.",
+    "explanation": "A Socratic seminar is a formal, structured discussion method based on Socratic dialogue - exploring ideas through questions rather than debate or lecture. Participants read a common text, then engage in discussion driven by open-ended questions. The leader asks questions to deepen thinking rather than provide answers. Key features: focus on text or shared content, open-ended questions without single 'correct' answers, participants speak to each other (not just the leader), building on others' ideas, and valuing inquiry over winning arguments. Socratic seminars develop: critical thinking, textual analysis, listening skills, articulation of ideas, and comfort with ambiguity. For knowledge workers, Socratic seminar principles improve discussion quality: asking genuine questions, building on others' contributions, and pursuing understanding rather than positioning.",
+    "tags": [
+        "education",
+        "discussion",
+        "critical-thinking",
+        "dialogue",
+        "questioning"
+    ],
+    "category": "Methods",
+    "icon": "FaQuestion",
+    "featured": false,
+    "aliases": [
+        "Socratic dialogue",
+        "Socratic discussion"
+    ],
+    "relatedConcepts": [
+        "socratic-method",
+        "critical-thinking",
+        "active-learning",
+        "inquiry-based-learning",
+        "questioning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

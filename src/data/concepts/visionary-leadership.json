@@ -1,0 +1,44 @@
+{
+    "id": "visionary-leadership",
+    "name": "Visionary Leadership",
+    "summary": "Leadership centered on creating and communicating compelling visions of the future.",
+    "explanation": "Visionary leadership focuses on articulating a compelling picture of a possible future that inspires others to work toward it. Visionary leaders: see possibilities others miss, communicate future states vividly, connect individual work to larger purpose, and maintain focus on long-term direction while managing short-term demands. The power of vision lies in its ability to: align diverse efforts without detailed coordination, motivate through meaning rather than incentives, provide decision criteria (does this advance the vision?), and attract talent who share the aspiration. Effective visions are: imaginable (convey clear picture), desirable (appeal to stakeholders), feasible (realistic given effort), focused (clear enough to guide decisions), flexible (allow individual initiative), and communicable (can be explained quickly). For knowledge workers, visionary leadership helps: maintain motivation during difficult work, connect daily tasks to meaningful outcomes, and build teams around shared aspirations.",
+    "tags": [
+        "leadership",
+        "vision",
+        "strategy",
+        "inspiration",
+        "purpose"
+    ],
+    "category": "Concepts",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": [
+        "Vision leadership",
+        "Strategic vision",
+        "Future-focused leadership"
+    ],
+    "relatedConcepts": [
+        "transformational-leadership",
+        "strategic-thinking",
+        "purpose-driven-leadership",
+        "mission-vision-values",
+        "inspiring-others",
+        "change-leadership"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

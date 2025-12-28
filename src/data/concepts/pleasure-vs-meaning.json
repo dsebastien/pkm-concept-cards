@@ -1,0 +1,49 @@
+{
+    "id": "pleasure-vs-meaning",
+    "name": "Pleasure vs Meaning",
+    "summary": "The distinction between hedonic happiness (feeling good) and eudaimonic wellbeing (living well).",
+    "explanation": "Pleasure vs. meaning represents a fundamental distinction in wellbeing research. Hedonic wellbeing focuses on maximizing pleasure and minimizing pain - feeling good in the moment. Eudaimonic wellbeing focuses on living according to values, pursuing growth, and contributing to something larger - living well over time. These often diverge: parenting, creative struggle, and challenging work can be meaningful without being pleasurable, while entertainment can be pleasurable without contributing to meaning. Research suggests the most fulfilling lives integrate both - experiencing pleasure while also pursuing meaningful goals. Pure pleasure-seeking leads to emptiness; pure meaning-seeking can lead to burnout and joylessness. The balance is personal - some need more hedonic emphasis, others more meaning. For knowledge workers, understanding this distinction helps: make better life design choices, recognize why achievement alone may not satisfy, and intentionally cultivate both dimensions.",
+    "tags": [
+        "happiness",
+        "meaning",
+        "pleasure",
+        "philosophy",
+        "wellbeing"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScaleRight",
+    "featured": false,
+    "aliases": [
+        "Hedonia vs eudaimonia",
+        "Feeling good vs living well",
+        "Happiness types"
+    ],
+    "relatedConcepts": [
+        "eudaimonia",
+        "hedonia",
+        "meaningful-pursuits",
+        "authentic-happiness",
+        "life-satisfaction",
+        "flourishing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Authentic Happiness by Martin Seligman",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

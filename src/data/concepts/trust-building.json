@@ -1,0 +1,49 @@
+{
+    "id": "trust-building",
+    "name": "Trust Building",
+    "summary": "The deliberate actions that establish and strengthen interpersonal and team trust over time.",
+    "explanation": "Trust building is the process of establishing confidence in others' reliability, intentions, and competence. Trust has multiple dimensions: competence trust (belief in ability), integrity trust (belief in honesty and ethics), and benevolence trust (belief they have your interests at heart). Trust is built through: consistent follow-through on commitments, transparent communication, admitting mistakes, sharing credit, and showing vulnerability. The 'trust equation' by Maister suggests trust = (credibility + reliability + intimacy) / self-orientation. High self-interest destroys trust regardless of other factors. Trust building takes time but can be destroyed quickly - recovery requires even more time. Different cultures have different trust assumptions: some start with trust until broken, others require trust be earned. For knowledge workers, trust building is essential because: collaboration requires it, influence depends on it, and psychological safety requires team trust.",
+    "tags": [
+        "collaboration",
+        "trust",
+        "relationships",
+        "communication",
+        "team-building"
+    ],
+    "category": "Concepts",
+    "icon": "FaHandshake",
+    "featured": false,
+    "aliases": [
+        "Building trust",
+        "Trust development",
+        "Establishing trust"
+    ],
+    "relatedConcepts": [
+        "psychological-safety",
+        "vulnerability",
+        "integrity",
+        "reliability",
+        "transparency",
+        "team-dynamics"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Speed of Trust by Stephen Covey",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

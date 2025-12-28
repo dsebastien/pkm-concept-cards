@@ -1,0 +1,43 @@
+{
+    "id": "performance-approach",
+    "name": "Performance Approach",
+    "summary": "Focusing on demonstrating competence and outperforming others rather than learning.",
+    "explanation": "A performance approach (or performance orientation) focuses on demonstrating ability, outperforming others, and achieving favorable judgments. Individuals with this orientation ask 'how can I prove I'm capable?' and 'how do I compare to others?' rather than focusing on learning. Performance goals can be approach-oriented (seeking to demonstrate competence) or avoidance-oriented (seeking to avoid appearing incompetent). Research shows that while performance-approach goals can drive achievement in some contexts (especially competitive ones), they also have downsides: avoidance of challenging tasks that might reveal limitations, surface-level learning strategies, reduced intrinsic motivation, and lower persistence after setbacks. The performance approach can be useful for known-competence domains but problematic for learning new skills. For knowledge workers, awareness of this orientation helps recognize when fear of looking incompetent might be limiting growth.",
+    "tags": [
+        "mindset",
+        "goals",
+        "motivation",
+        "achievement",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Performance orientation",
+        "Performance goals"
+    ],
+    "relatedConcepts": [
+        "mastery-approach",
+        "fixed-mindset",
+        "extrinsic-motivation",
+        "fear-of-failure",
+        "perfectionism",
+        "social-comparison"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

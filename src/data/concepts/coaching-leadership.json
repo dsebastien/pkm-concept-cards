@@ -1,0 +1,49 @@
+{
+    "id": "coaching-leadership",
+    "name": "Coaching Leadership",
+    "summary": "A leadership style focused on developing others through questions, feedback, and guided discovery.",
+    "explanation": "Coaching leadership applies coaching principles to everyday management: developing people by helping them discover their own answers rather than providing solutions. This style uses: powerful questions that provoke thinking, active listening, constructive feedback, and support for goal-setting and action. Michael Bungay Stanier's 'The Coaching Habit' distills this to seven essential questions including 'What's the real challenge here?' and 'What was most useful for you?' Coaching leadership works because: self-discovered solutions are more owned, the process develops problem-solving capability, and it creates a learning culture. It requires: patience (coaching takes longer than telling), genuine belief in others' capability, and skill in asking rather than advising. Coaching isn't always appropriate - sometimes directing is needed. But as a default approach, it develops more capable, autonomous teams. For knowledge workers, coaching leadership is especially relevant because: experts often resist being told what to do, and creative work requires ownership.",
+    "tags": [
+        "leadership",
+        "coaching",
+        "development",
+        "questions",
+        "management"
+    ],
+    "category": "Concepts",
+    "icon": "FaChalkboardTeacher",
+    "featured": false,
+    "aliases": [
+        "Leader as coach",
+        "Coaching management",
+        "Developmental leadership"
+    ],
+    "relatedConcepts": [
+        "situational-leadership",
+        "empowering-leadership",
+        "servant-leadership",
+        "mentorship",
+        "feedback",
+        "active-listening"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Coaching Habit by Michael Bungay Stanier",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

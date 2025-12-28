@@ -1,0 +1,44 @@
+{
+    "id": "empowering-leadership",
+    "name": "Empowering Leadership",
+    "summary": "Leadership that develops others' capabilities and autonomy rather than creating dependence.",
+    "explanation": "Empowering leadership focuses on developing followers' self-leadership capabilities, encouraging autonomous decision-making, and removing barriers to their success. Rather than solving problems for people, empowering leaders help people develop the skills to solve problems themselves. Key behaviors include: sharing power (giving real decision-making authority), developing competence (providing resources, training, coaching), removing obstacles (using leader position to clear blockers), and expressing confidence (communicating belief in others' capabilities). Empowering leadership works because: autonomy is intrinsically motivating, decisions made closer to information are often better, and developing others multiplies impact. The approach requires: tolerating imperfect outcomes as people learn, resisting the urge to intervene, and genuinely believing in others' potential. For knowledge workers, empowering leadership is especially effective because: creative work requires ownership, experts often know best, and micromanagement kills motivation.",
+    "tags": [
+        "leadership",
+        "empowerment",
+        "autonomy",
+        "development",
+        "delegation"
+    ],
+    "category": "Concepts",
+    "icon": "FaPowerOff",
+    "featured": false,
+    "aliases": [
+        "Empowerment leadership",
+        "Enabling leadership",
+        "Autonomy-supporting leadership"
+    ],
+    "relatedConcepts": [
+        "servant-leadership",
+        "delegation",
+        "autonomy",
+        "trust",
+        "coaching-leadership",
+        "self-leadership"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

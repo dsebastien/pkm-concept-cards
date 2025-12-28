@@ -1,0 +1,43 @@
+{
+    "id": "microlearning",
+    "name": "Microlearning",
+    "summary": "Learning in small, focused units that can be consumed in short time periods.",
+    "explanation": "Microlearning delivers content in small, focused chunks - typically 3-10 minutes - that target specific learning objectives. Rather than hour-long lectures, microlearning uses short videos, flashcards, quick quizzes, or bite-sized readings. It aligns with how modern attention works and fits into busy schedules. Benefits include: reduced cognitive load, flexibility to learn in spare moments, immediate applicability, and easier updating of content. Microlearning works particularly well for: skill refreshers, just-in-time knowledge, procedural tasks, and spaced repetition systems. However, it's less suited for complex topics requiring sustained focus and deep understanding - breaking these into micro-pieces can fragment comprehension. For knowledge workers, microlearning is valuable for: continuous skill maintenance, staying current in rapidly changing fields, and maximizing learning from scattered available time.",
+    "tags": [
+        "learning",
+        "education",
+        "content",
+        "attention",
+        "efficiency"
+    ],
+    "category": "Methods",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": [
+        "Bite-sized learning",
+        "Micro-content learning"
+    ],
+    "relatedConcepts": [
+        "just-in-time-learning",
+        "spaced-repetition",
+        "chunking",
+        "cognitive-load",
+        "mobile-learning",
+        "atomic-notes"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

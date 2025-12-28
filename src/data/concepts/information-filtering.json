@@ -1,0 +1,44 @@
+{
+    "id": "information-filtering",
+    "name": "Information Filtering",
+    "summary": "Systematic processes for screening and selecting relevant information while blocking noise.",
+    "explanation": "Information filtering refers to the deliberate systems and habits that reduce information input to manageable, relevant streams. Unlike information triage (rapid sorting), filtering happens upstream - preventing unwanted information from reaching you at all. Effective filtering operates at multiple levels: technological (email rules, notification settings, ad blockers), environmental (physical workspace, device access), social (curated feeds, trusted sources), and cognitive (clear criteria for what matters). Good filters are: specific to your goals (not generic 'productivity' tips), regularly maintained (as needs change), and layered (multiple filters catch what single ones miss). The goal isn't zero information but optimal signal-to-noise ratio. For knowledge workers, building strong filters is essential because: willpower is finite (better to not see distractions than resist them), attention is the real scarce resource, and proactive filtering beats reactive ignoring.",
+    "tags": [
+        "information",
+        "filtering",
+        "productivity",
+        "attention",
+        "systems"
+    ],
+    "category": "Techniques",
+    "icon": "FaFilter",
+    "featured": false,
+    "aliases": [
+        "Info filtering",
+        "Content curation",
+        "Signal filtering"
+    ],
+    "relatedConcepts": [
+        "information-triage",
+        "digital-minimalism",
+        "attention-management",
+        "notification-fatigue",
+        "news-diet",
+        "filter-bubble"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

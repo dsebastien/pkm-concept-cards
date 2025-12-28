@@ -1,0 +1,48 @@
+{
+    "id": "peak-performance",
+    "name": "Peak Performance",
+    "summary": "Optimal functioning state where skills, focus, and energy align for exceptional output.",
+    "explanation": "Peak performance refers to a state where you perform at your highest capability - your skills, focus, energy, and conditions align for exceptional output. It's related to but distinct from flow state; peak performance is the result, flow is often the experience during it. Factors affecting peak performance include: physical state (sleep, nutrition, exercise), psychological state (confidence, focus, motivation), environmental conditions (freedom from distraction, right tools), skill level (competence in the domain), and challenge calibration (matched to ability). Peak performance isn't about constant maximum effort but creating conditions for excellence when it matters. Strategies include: identifying your peak performance windows (chronotype, energy rhythms), reducing friction and distractions, building pre-performance routines, and strategic recovery to enable future peaks.",
+    "tags": [
+        "performance",
+        "productivity",
+        "excellence",
+        "optimization",
+        "focus"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Optimal performance",
+        "Top performance"
+    ],
+    "relatedConcepts": [
+        "flow-state",
+        "deep-work",
+        "biological-prime-time",
+        "high-performance-habits",
+        "energy-management",
+        "focus"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Peak Performance by Brad Stulberg",
+            "url": "https://amzn.to/3DoX9JT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "coordination-costs",
+    "name": "Coordination Costs",
+    "summary": "The overhead required for multiple people to work together effectively on shared goals.",
+    "explanation": "Coordination costs are the time, effort, and resources required for multiple people to work together - beyond what they'd spend working individually. These include: communication overhead (meetings, messages, documentation), synchronization efforts (aligning understanding, scheduling), decision-making processes (reaching agreement), and handoff costs (transferring work between people). Fred Brooks observed that adding people to projects often increases coordination costs faster than it adds capacity - hence the 'mythical man-month.' Strategies to reduce coordination costs include: modular work with clear interfaces, asynchronous communication defaults, clear ownership and decision rights, good documentation, and appropriate team sizes. The goal isn't zero coordination - collaboration creates value - but optimizing the ratio of coordination cost to collaboration benefit. For knowledge workers, awareness of coordination costs helps: design better work structures, avoid over-meeting, and recognize when adding people may slow rather than speed work.",
+    "tags": [
+        "collaboration",
+        "productivity",
+        "teams",
+        "organizations",
+        "efficiency"
+    ],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Collaboration overhead",
+        "Communication overhead",
+        "Team coordination"
+    ],
+    "relatedConcepts": [
+        "brooks-law",
+        "team-size",
+        "communication-overhead",
+        "meeting-culture",
+        "async-by-default",
+        "modularity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Mythical Man-Month by Fred Brooks",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

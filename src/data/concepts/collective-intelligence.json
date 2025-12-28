@@ -1,0 +1,49 @@
+{
+    "id": "collective-intelligence",
+    "name": "Collective Intelligence",
+    "summary": "The enhanced capability that emerges when groups think and learn together effectively.",
+    "explanation": "Collective intelligence describes the enhanced problem-solving and learning capability that emerges when groups collaborate effectively - producing insights and solutions that exceed what any individual could achieve. Research shows groups have measurable 'collective intelligence' (c factor) that predicts performance across diverse tasks. This c factor correlates with: member social sensitivity, equal distribution of conversation, and proportion of women on team. Collective intelligence requires: diversity of perspectives, independence of thought before convergence, and effective aggregation mechanisms. It fails when: conformity pressure dominates, expertise is ignored, or dominant individuals override group input. Technologies like prediction markets and structured deliberation can harness collective intelligence. For knowledge workers, cultivating collective intelligence means: seeking diverse viewpoints, creating space for independent thinking, and designing processes that aggregate rather than average insights.",
+    "tags": [
+        "collaboration",
+        "intelligence",
+        "teams",
+        "problem-solving",
+        "innovation"
+    ],
+    "category": "Concepts",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": [
+        "Group intelligence",
+        "Swarm intelligence",
+        "Wisdom of crowds"
+    ],
+    "relatedConcepts": [
+        "diversity-of-thought",
+        "group-decision-making",
+        "wisdom-of-crowds",
+        "groupthink",
+        "collaboration",
+        "emergence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Wisdom of Crowds by James Surowiecki",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

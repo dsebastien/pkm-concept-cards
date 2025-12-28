@@ -1,0 +1,49 @@
+{
+    "id": "conflict-resolution",
+    "name": "Conflict Resolution",
+    "summary": "The methods and processes used to facilitate peaceful ending of workplace disagreements.",
+    "explanation": "Conflict resolution encompasses the methods used to facilitate the peaceful ending of conflict and disagreement. In workplaces, conflict is inevitable and can be constructive (task-focused, improving outcomes) or destructive (relationship-damaging, reducing performance). The Thomas-Kilmann model identifies five conflict styles: competing (win-lose), collaborating (win-win), compromising (partial win), avoiding (lose-lose), and accommodating (lose-win). Each style suits different situations. Effective resolution requires: separating people from problems, focusing on interests not positions, generating options for mutual gain, and using objective criteria. Key skills include: active listening, reframing issues, managing emotions, and finding common ground. Unresolved conflict creates: reduced productivity, damaged relationships, increased turnover, and toxic culture. For knowledge workers, conflict resolution skills enable: navigating disagreements professionally, maintaining relationships despite differences, and turning conflict into improved outcomes.",
+    "tags": [
+        "collaboration",
+        "conflict",
+        "communication",
+        "negotiation",
+        "relationships"
+    ],
+    "category": "Techniques",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Dispute resolution",
+        "Conflict management",
+        "Managing disagreement"
+    ],
+    "relatedConcepts": [
+        "difficult-conversations",
+        "active-listening",
+        "negotiation",
+        "emotional-intelligence",
+        "team-dynamics",
+        "psychological-safety"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Crucial Conversations by Patterson et al.",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

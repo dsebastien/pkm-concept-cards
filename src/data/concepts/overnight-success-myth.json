@@ -1,0 +1,43 @@
+{
+    "id": "overnight-success-myth",
+    "name": "Overnight Success Myth",
+    "summary": "The illusion that successful people achieved their success quickly, hiding years of work behind the scenes.",
+    "explanation": "The overnight success myth is the false perception that successful people achieved their position quickly and easily, when in reality most 'overnight successes' took years of invisible work. We see the success but not the failures, pivots, and persistence that preceded it. This myth is harmful because it: sets unrealistic expectations (if success isn't quick, something's wrong), discourages persistence (they made it look easy, so I must not have what it takes), and misattributes success to talent rather than sustained effort. Most 'breakout' achievements represent years of skill-building, relationship-cultivating, and iterating on ideas. The media amplifies this by covering arrivals, not journeys. For knowledge workers, understanding this myth helps: maintain persistence during the unglamorous building phase, appreciate that visible success represents hidden work, and trust the process of gradual improvement.",
+    "tags": [
+        "success",
+        "persistence",
+        "mindset",
+        "patience",
+        "effort"
+    ],
+    "category": "Concepts",
+    "icon": "FaCalendarTimes",
+    "featured": false,
+    "aliases": [
+        "Iceberg of success",
+        "Ten-year overnight success"
+    ],
+    "relatedConcepts": [
+        "compound-effect",
+        "patience",
+        "persistence",
+        "survivorship-bias",
+        "deliberate-practice",
+        "success-spiral"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

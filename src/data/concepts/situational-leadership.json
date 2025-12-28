@@ -1,0 +1,44 @@
+{
+    "id": "situational-leadership",
+    "name": "Situational Leadership",
+    "summary": "Adapting leadership style based on the development level and needs of each team member.",
+    "explanation": "Situational leadership, developed by Hersey and Blanchard, proposes that effective leaders adapt their style to match followers' readiness levels. The model identifies four leadership styles: directing (high task, low relationship - for enthusiastic beginners), coaching (high task, high relationship - for disillusioned learners), supporting (low task, high relationship - for capable but cautious performers), and delegating (low task, low relationship - for self-reliant achievers). The key insight is that no single style works universally - what a new employee needs differs from what an experienced expert needs. Leaders must assess: ability (skills and knowledge) and willingness (confidence and motivation) for each task, then match their style accordingly. The same person may need different styles for different tasks. For knowledge workers, situational leadership is valuable because: work varies in novelty and complexity, individual development is ongoing, and autonomy should increase as competence grows.",
+    "tags": [
+        "leadership",
+        "management",
+        "adaptability",
+        "development",
+        "coaching"
+    ],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Adaptive leadership",
+        "Hersey-Blanchard model",
+        "Leadership flexibility"
+    ],
+    "relatedConcepts": [
+        "coaching-leadership",
+        "delegation",
+        "employee-development",
+        "skill-will-matrix",
+        "leadership-styles",
+        "management-styles"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

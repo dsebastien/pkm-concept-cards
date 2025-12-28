@@ -1,0 +1,42 @@
+{
+    "id": "universal-design-for-learning",
+    "name": "Universal Design for Learning",
+    "summary": "A framework providing flexible approaches to meet all learners' needs from the start.",
+    "explanation": "Universal Design for Learning (UDL) is a framework based on research in neuroscience and education that provides flexibility in how information is presented, how students demonstrate learning, and how students engage. Rather than retrofitting accommodations for individual needs, UDL builds in flexibility from the start. The three principles are: Multiple means of Engagement (the 'why' of learning - motivating learners), Multiple means of Representation (the 'what' - presenting information in different ways), and Multiple means of Action & Expression (the 'how' - allowing varied ways to demonstrate learning). Examples include: offering text, audio, and visual versions of content; allowing written, oral, or multimedia demonstrations; and providing choice in topics and tools. For knowledge workers designing training or content, UDL principles improve accessibility and effectiveness for diverse audiences.",
+    "tags": [
+        "education",
+        "accessibility",
+        "design",
+        "inclusion",
+        "learning"
+    ],
+    "category": "Frameworks",
+    "icon": "FaUniversalAccess",
+    "featured": false,
+    "aliases": [
+        "UDL",
+        "Universal Design"
+    ],
+    "relatedConcepts": [
+        "differentiated-instruction",
+        "accessibility",
+        "inclusive-design",
+        "personalized-learning",
+        "multiple-intelligences"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

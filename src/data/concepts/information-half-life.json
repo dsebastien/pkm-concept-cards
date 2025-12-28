@@ -1,0 +1,44 @@
+{
+    "id": "information-half-life",
+    "name": "Information Half-Life",
+    "summary": "The time period over which information loses half its value or relevance.",
+    "explanation": "Information half-life describes how quickly information becomes obsolete or loses value. Like radioactive decay, different types of information have different half-lives: breaking news becomes stale within hours, technical documentation may last years, and timeless principles persist for centuries. Understanding information half-life helps prioritize learning: time spent on quickly-decaying information (current events, trending topics) may be wasted if that information is irrelevant by tomorrow. Conversely, investing in long-half-life knowledge (fundamental principles, human nature, systems thinking) compounds over time. The concept suggests a strategy: consume less news (short half-life) and more books (longer half-life), focus on principles over tactics, and ask 'will this matter in 10 years?' before investing attention. For knowledge workers, information half-life thinking means: building knowledge bases that remain valuable, avoiding over-investment in transient trends, and recognizing that timeless information is the best investment.",
+    "tags": [
+        "information",
+        "knowledge",
+        "learning",
+        "wisdom",
+        "time"
+    ],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Knowledge decay",
+        "Information obsolescence",
+        "Knowledge shelf-life"
+    ],
+    "relatedConcepts": [
+        "lindy-effect",
+        "timeless-wisdom",
+        "news-diet",
+        "evergreen-content",
+        "first-principles",
+        "mental-models"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

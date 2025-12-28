@@ -1,0 +1,44 @@
+{
+    "id": "devil-advocate",
+    "name": "Devil's Advocate",
+    "summary": "A designated role for challenging assumptions and arguments to improve group thinking.",
+    "explanation": "The devil's advocate is a role deliberately assigned to challenge the prevailing opinion, find flaws in arguments, and present counterarguments - not from personal belief but to strengthen group thinking. The term originates from the Catholic Church's practice of assigning someone to argue against sainthood candidates. In decision-making, the devil's advocate: surfaces hidden assumptions, identifies weaknesses before they become problems, reduces conformity pressure, and legitimizes dissent. The role works because: challenge is expected (not personal), the challenger has permission to be difficult, and the focus is on improving ideas not attacking people. Effective use requires: clear role assignment, genuine engagement (not token opposition), rotating the role, and ensuring advocacy is constructive. Risks include: becoming routine and ignored, or creating genuinely adversarial dynamics. For knowledge workers, the devil's advocate technique helps: improve proposals before presentation, test assumptions, and avoid groupthink.",
+    "tags": [
+        "collaboration",
+        "critical-thinking",
+        "decision-making",
+        "teams",
+        "problem-solving"
+    ],
+    "category": "Techniques",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": [
+        "Advocatus diaboli",
+        "Designated dissenter",
+        "Constructive opposition"
+    ],
+    "relatedConcepts": [
+        "groupthink",
+        "group-decision-making",
+        "red-team",
+        "pre-mortem",
+        "critical-thinking",
+        "assumption-testing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

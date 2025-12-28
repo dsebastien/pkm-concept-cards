@@ -1,0 +1,49 @@
+{
+    "id": "email-overload",
+    "name": "Email Overload",
+    "summary": "The overwhelming burden of excessive email volume that consumes time and fragments attention.",
+    "explanation": "Email overload describes the state where email volume exceeds the ability to process it effectively, creating stress, missed messages, and constant catch-up efforts. The average knowledge worker receives 120+ emails daily, spending hours managing an inbox that never reaches zero. Email overload occurs because: email is asynchronous (senders don't see recipient burden), CC culture multiplies volume, email creates email (every reply may generate responses), and it becomes default for communication that might work better elsewhere. The costs include: significant time on low-value messages, attention fragmentation from constant checking, anxiety about unread items, and displacement of deep work. Email overload differs from being busy - it's specifically about the tool creating work rather than enabling it. For knowledge workers, managing email overload requires: reducing incoming volume (unsubscribes, filters, communication norms), processing efficiently (batching, templates, quick decisions), and recognizing email as a tool to be controlled rather than a master to be served.",
+    "tags": [
+        "email",
+        "productivity",
+        "communication",
+        "attention",
+        "time-management"
+    ],
+    "category": "Concepts",
+    "icon": "FaEnvelope",
+    "featured": false,
+    "aliases": [
+        "Inbox overload",
+        "Email overwhelm",
+        "Email stress"
+    ],
+    "relatedConcepts": [
+        "notification-fatigue",
+        "inbox-zero",
+        "batch-processing",
+        "attention-management",
+        "context-switching",
+        "communication-protocols"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "A World Without Email by Cal Newport",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

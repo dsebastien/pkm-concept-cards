@@ -1,0 +1,49 @@
+{
+    "id": "empathic-listening",
+    "name": "Empathic Listening",
+    "summary": "Listening with the intent to understand the speaker's perspective and emotional experience.",
+    "explanation": "Empathic listening goes beyond active listening to genuinely understand another person's perspective and emotional experience. Stephen Covey describes it as listening with the intent to understand rather than to reply. It involves: suspending judgment, setting aside your own agenda, tuning into feelings not just facts, and checking understanding through reflection. Empathic listening differs from: sympathetic listening (feeling sorry for someone), solution-oriented listening (jumping to fix problems), and evaluative listening (judging what's said). The practice requires: giving full attention, observing non-verbal cues, reflecting back what you hear, and validating emotions without necessarily agreeing. Benefits include: deeper understanding, stronger relationships, reduced conflict, and the other person feeling genuinely heard. For knowledge workers, empathic listening improves: client relationships, team collaboration, conflict resolution, and understanding user needs.",
+    "tags": [
+        "collaboration",
+        "listening",
+        "empathy",
+        "communication",
+        "relationships"
+    ],
+    "category": "Techniques",
+    "icon": "FaHeartbeat",
+    "featured": false,
+    "aliases": [
+        "Empathetic listening",
+        "Deep listening",
+        "Understanding listening"
+    ],
+    "relatedConcepts": [
+        "active-listening",
+        "empathy",
+        "emotional-intelligence",
+        "perspective-taking",
+        "rapport-building",
+        "nonviolent-communication"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "7 Habits of Highly Effective People by Stephen Covey",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

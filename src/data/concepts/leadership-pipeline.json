@@ -1,0 +1,49 @@
+{
+    "id": "leadership-pipeline",
+    "name": "Leadership Pipeline",
+    "summary": "A framework for developing leaders at each organizational level with appropriate skills and values.",
+    "explanation": "The leadership pipeline, developed by Charan, Drotter, and Noel, describes the series of passages leaders must navigate as they advance, each requiring different skills, time applications, and work values. The six passages are: managing self to managing others, managing others to managing managers, managing managers to functional manager, functional to business manager, business manager to group manager, and group manager to enterprise leader. Each transition requires: learning new skills, changing time allocation, and shifting values about what matters. Problems occur when leaders are promoted but don't make required shifts - they continue applying previous-level approaches. The pipeline model helps organizations: identify leadership gaps, design appropriate development, avoid promoting based solely on current performance, and create clear expectations for each level. For knowledge workers, understanding the pipeline clarifies: what the next level actually requires, whether you want to make those transitions, and how to prepare for advancement.",
+    "tags": [
+        "leadership",
+        "development",
+        "career",
+        "succession",
+        "organizational-design"
+    ],
+    "category": "Concepts",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": [
+        "Leadership development pipeline",
+        "Leadership transitions",
+        "Charan pipeline"
+    ],
+    "relatedConcepts": [
+        "succession-planning",
+        "leadership-development",
+        "career-progression",
+        "skill-transition",
+        "management-levels",
+        "peter-principle"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Leadership Pipeline by Ram Charan",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

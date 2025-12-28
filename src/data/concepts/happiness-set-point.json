@@ -1,0 +1,49 @@
+{
+    "id": "happiness-set-point",
+    "name": "Happiness Set Point",
+    "summary": "The baseline level of happiness to which individuals tend to return over time.",
+    "explanation": "The happiness set-point theory proposes that each person has a relatively stable baseline level of subjective wellbeing, largely determined by genetics and personality, to which they tend to return after life's ups and downs. Studies suggest genetics account for roughly 50% of happiness variation, with circumstances contributing about 10% and intentional activities about 40%. This doesn't mean happiness is fixed - the 40% from activities represents significant room for influence through practices like gratitude, mindfulness, and meaningful relationships. The set-point also isn't immutable - sustained effort, changed circumstances, or traumatic events can shift it. The practical implication is that: one-time changes (raises, moves) have limited lasting impact, while ongoing activities matter more. For knowledge workers, understanding the set-point means: investing in sustainable happiness practices rather than pursuing single achievements, and recognizing that lasting wellbeing requires ongoing cultivation.",
+    "tags": [
+        "happiness",
+        "psychology",
+        "wellbeing",
+        "genetics",
+        "baseline"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Set-point theory",
+        "Baseline happiness",
+        "Happiness thermostat"
+    ],
+    "relatedConcepts": [
+        "hedonic-adaptation",
+        "hedonic-treadmill",
+        "subjective-wellbeing",
+        "happiness-habits",
+        "positive-psychology",
+        "wellbeing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The How of Happiness by Sonja Lyubomirsky",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

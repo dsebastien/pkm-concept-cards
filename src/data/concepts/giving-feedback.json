@@ -1,0 +1,49 @@
+{
+    "id": "giving-feedback",
+    "name": "Giving Feedback",
+    "summary": "The skill of providing constructive information to help others improve their performance.",
+    "explanation": "Giving feedback effectively is a crucial skill that enables growth while maintaining relationships. Effective feedback is: specific (concrete examples rather than generalizations), timely (close to the behavior), behavior-focused (what someone did, not who they are), balanced (acknowledging strengths alongside growth areas), and actionable (clear path for improvement). The SBI model structures feedback around: Situation (when and where), Behavior (what you observed), and Impact (the effect it had). Kim Scott's Radical Candor advocates caring personally while challenging directly - avoiding both ruinous empathy (caring without challenging) and obnoxious aggression (challenging without caring). Common pitfalls include: sandwich feedback (insincere praise undermines criticism), vague feedback (leaves recipient confused), and delayed feedback (loses relevance). For knowledge workers, feedback-giving skill enables: developing others, maintaining high standards, and building trust through honest communication.",
+    "tags": [
+        "collaboration",
+        "feedback",
+        "communication",
+        "development",
+        "leadership"
+    ],
+    "category": "Techniques",
+    "icon": "FaComment",
+    "featured": false,
+    "aliases": [
+        "Providing feedback",
+        "Constructive criticism",
+        "Performance feedback"
+    ],
+    "relatedConcepts": [
+        "receiving-feedback",
+        "radical-candor",
+        "difficult-conversations",
+        "coaching-leadership",
+        "growth-mindset",
+        "psychological-safety"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Radical Candor by Kim Scott",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

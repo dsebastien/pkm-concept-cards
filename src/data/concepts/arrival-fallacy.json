@@ -1,0 +1,48 @@
+{
+    "id": "arrival-fallacy",
+    "name": "Arrival Fallacy",
+    "summary": "The false belief that reaching a goal will bring lasting happiness and fulfillment.",
+    "explanation": "The arrival fallacy, coined by Tal Ben-Shahar, is the mistaken belief that once you 'arrive' - achieve a goal, reach a milestone, get the promotion, buy the house - you'll finally be happy. In reality, the happiness from achievement is typically brief before a new goal emerges and satisfaction fades. This is related to the hedonic treadmill (adapting to improvements). The arrival fallacy creates: perpetual postponement of happiness ('I'll be happy when...'), disappointment upon arrival, and the feeling that something is wrong when achievement doesn't satisfy. The antidote isn't to stop pursuing goals but to: enjoy the journey itself, find meaning in process not just outcomes, practice gratitude for current circumstances, and set goals for growth rather than just happiness. For knowledge workers, recognizing the arrival fallacy helps: appreciate current achievements, find fulfillment in daily work, and avoid the endless chase that never satisfies.",
+    "tags": [
+        "success",
+        "happiness",
+        "psychology",
+        "goals",
+        "fulfillment"
+    ],
+    "category": "Concepts",
+    "icon": "FaFlagCheckered",
+    "featured": false,
+    "aliases": [
+        "When-I-arrive thinking",
+        "Destination addiction"
+    ],
+    "relatedConcepts": [
+        "hedonic-treadmill",
+        "success-without-fulfillment",
+        "gratitude",
+        "process-over-outcome",
+        "happiness-in-the-moment",
+        "meaning-and-purpose"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Happier by Tal Ben-Shahar",
+            "url": "https://amzn.to/3DoZ9LT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

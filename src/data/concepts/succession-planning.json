@@ -1,0 +1,44 @@
+{
+    "id": "succession-planning",
+    "name": "Succession Planning",
+    "summary": "Systematic preparation for leadership transitions to ensure organizational continuity.",
+    "explanation": "Succession planning is the deliberate process of identifying and developing people who can fill key roles when current leaders depart. Effective succession planning: identifies critical positions, assesses current talent, develops high-potential individuals, creates development opportunities, and ensures smooth transitions. This differs from replacement planning (simply naming backups) because it focuses on development and readiness, not just identification. Benefits include: reduced disruption from departures, better leader development, increased retention (people see paths forward), and organizational resilience. Challenges include: unpredictable timing, resistance from current leaders, and difficulty assessing potential versus performance. Best practices include: starting early, providing stretch assignments, creating exposure opportunities, and having honest conversations about development needs. For knowledge workers, understanding succession planning helps: recognize development opportunities, position for advancement, and contribute to team continuity.",
+    "tags": [
+        "leadership",
+        "talent-management",
+        "planning",
+        "continuity",
+        "development"
+    ],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Leadership succession",
+        "Talent pipeline",
+        "Replacement planning"
+    ],
+    "relatedConcepts": [
+        "leadership-pipeline",
+        "leadership-development",
+        "talent-management",
+        "high-potential-development",
+        "organizational-continuity",
+        "career-pathing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

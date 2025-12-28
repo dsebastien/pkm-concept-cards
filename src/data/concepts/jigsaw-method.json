@@ -1,0 +1,42 @@
+{
+    "id": "jigsaw-method",
+    "name": "Jigsaw Method",
+    "summary": "A collaborative learning technique where each student becomes an expert on one piece and teaches others.",
+    "explanation": "The jigsaw method, developed by Elliot Aronson, structures collaborative learning so each member of a group becomes an expert on one part of a larger topic, then teaches that part to others. Like a jigsaw puzzle, each piece is essential to complete the whole. The process: divide content into segments, assign each member a segment, have them study and discuss with 'expert groups' (others studying the same segment), then return to home groups where each member teaches their piece. Benefits include: positive interdependence (everyone's contribution matters), individual accountability, deep processing through teaching, exposure to multiple perspectives, and development of communication skills. For knowledge workers, jigsaw principles apply to: dividing research tasks in teams, cross-training specialists, and structuring meetings where different people share different expertise.",
+    "tags": [
+        "education",
+        "collaboration",
+        "teaching",
+        "groups",
+        "active-learning"
+    ],
+    "category": "Techniques",
+    "icon": "FaPuzzlePiece",
+    "featured": false,
+    "aliases": [
+        "Jigsaw learning",
+        "Jigsaw classroom"
+    ],
+    "relatedConcepts": [
+        "cooperative-learning",
+        "peer-instruction",
+        "cross-functional-teams",
+        "division-of-labor",
+        "teaching-as-learning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,43 @@
+{
+    "id": "mastery-learning",
+    "name": "Mastery Learning",
+    "summary": "An approach where students must demonstrate competence before progressing to new material.",
+    "explanation": "Mastery learning, developed by Benjamin Bloom, holds that given enough time and appropriate instruction, nearly all students can achieve mastery. Instead of fixed time with variable achievement, mastery learning uses fixed achievement criteria with variable time. Students must demonstrate competence (typically 80-90% mastery) before moving to new material. Those who don't meet criteria receive additional time and alternative instruction. This prevents knowledge gaps from accumulating and compounding over time. Research shows mastery learning produces significant gains compared to traditional approaches. For knowledge workers and self-learners, applying mastery principles means: not moving on until you truly understand, building solid foundations before advanced topics, and recognizing that 'sort of understanding' creates problems later.",
+    "tags": [
+        "education",
+        "learning",
+        "assessment",
+        "pedagogy",
+        "competence"
+    ],
+    "category": "Methods",
+    "icon": "FaMedal",
+    "featured": false,
+    "aliases": [
+        "Bloom's mastery learning",
+        "Learning for mastery"
+    ],
+    "relatedConcepts": [
+        "competency-based-education",
+        "formative-assessment",
+        "zone-of-proximal-development",
+        "adaptive-learning",
+        "blooms-taxonomy",
+        "deliberate-practice"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "authentic-happiness",
+    "name": "Authentic Happiness",
+    "summary": "Martin Seligman's framework combining positive emotions, engagement, and meaning for wellbeing.",
+    "explanation": "Authentic Happiness is Martin Seligman's original positive psychology framework, proposing that genuine wellbeing comes from three elements: positive emotions (the pleasant life), engagement (the engaged life using signature strengths), and meaning (the meaningful life through purpose). This challenged the disease model of psychology by focusing on what makes life worth living rather than just reducing suffering. Seligman later expanded this to PERMA: Positive emotions, Engagement, Relationships, Meaning, and Accomplishment. The framework suggests happiness isn't just feeling good but living fully - using strengths, connecting with others, and contributing to something larger. Key practices include: identifying and using signature strengths, cultivating gratitude, building relationships, and finding meaning. For knowledge workers, authentic happiness provides: a comprehensive wellbeing framework, specific intervention targets, and recognition that lasting satisfaction requires more than pleasure.",
+    "tags": [
+        "happiness",
+        "positive-psychology",
+        "wellbeing",
+        "strengths",
+        "meaning"
+    ],
+    "category": "Concepts",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": [
+        "Seligman happiness",
+        "PERMA",
+        "Genuine happiness"
+    ],
+    "relatedConcepts": [
+        "positive-psychology",
+        "flourishing",
+        "character-strengths",
+        "meaning-and-purpose",
+        "engagement",
+        "wellbeing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Authentic Happiness by Martin Seligman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

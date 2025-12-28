@@ -1,0 +1,49 @@
+{
+    "id": "meaningful-pursuits",
+    "name": "Meaningful Pursuits",
+    "summary": "Activities that provide purpose and significance beyond mere pleasure or achievement.",
+    "explanation": "Meaningful pursuits are activities that provide a sense of purpose, significance, and connection to something larger than oneself. Unlike hedonic activities (pleasure-seeking), meaningful pursuits contribute to: personal growth, helping others, creating lasting value, and expressing core values. Examples include: raising children, creating art, community service, mentoring, building something lasting, and pursuing mastery. Meaning and pleasure often diverge - caring for a sick relative is meaningful but not pleasurable, while entertainment is pleasant but may lack meaning. Research shows meaningful activities contribute more to lasting life satisfaction than pleasurable ones. The challenge is that meaningful pursuits often require effort, delayed gratification, and accepting difficulty - they're not immediately rewarding. For knowledge workers, cultivating meaningful pursuits means: connecting work to larger purpose, investing in activities that build legacy, and balancing pleasure with significance.",
+    "tags": [
+        "happiness",
+        "meaning",
+        "purpose",
+        "fulfillment",
+        "values"
+    ],
+    "category": "Concepts",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": [
+        "Purpose-driven activities",
+        "Meaningful work",
+        "Significant pursuits"
+    ],
+    "relatedConcepts": [
+        "eudaimonia",
+        "purpose",
+        "meaning-and-purpose",
+        "ikigai",
+        "legacy",
+        "values-alignment"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Man's Search for Meaning by Viktor Frankl",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

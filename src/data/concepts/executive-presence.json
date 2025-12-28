@@ -1,0 +1,49 @@
+{
+    "id": "executive-presence",
+    "name": "Executive Presence",
+    "summary": "The qualities that signal readiness for senior leadership: gravitas, communication, and appearance.",
+    "explanation": "Executive presence (EP) refers to the combination of qualities that indicate someone is ready for and capable of senior leadership roles. Research by Sylvia Ann Hewlett identifies three pillars: gravitas (how you act - confidence, poise under pressure, decisiveness, speaking truth to power), communication (how you speak - commanding, engaging, assertive, listening), and appearance (how you look - polished, appropriate, fit). EP is often cited as the missing ingredient when talented individuals don't advance - they have the skills but don't 'seem' like leaders. This creates challenges: EP standards often encode bias against diverse leadership styles, women and minorities may face penalties for behaviors rewarded in majority groups, and 'presence' can prioritize style over substance. However, understanding EP helps navigate organizational realities while working to change them. For knowledge workers seeking advancement, developing EP means: projecting confidence without arrogance, communicating with impact, and ensuring appearance doesn't undermine substance.",
+    "tags": [
+        "leadership",
+        "career",
+        "advancement",
+        "communication",
+        "professional-development"
+    ],
+    "category": "Concepts",
+    "icon": "FaBriefcase",
+    "featured": false,
+    "aliases": [
+        "EP",
+        "Senior presence",
+        "Leadership gravitas"
+    ],
+    "relatedConcepts": [
+        "leadership-presence",
+        "gravitas",
+        "career-advancement",
+        "impression-management",
+        "communication-skills",
+        "professional-image"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Executive Presence by Sylvia Ann Hewlett",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

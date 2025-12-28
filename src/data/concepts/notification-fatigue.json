@@ -1,0 +1,44 @@
+{
+    "id": "notification-fatigue",
+    "name": "Notification Fatigue",
+    "summary": "Mental exhaustion and desensitization caused by constant digital alerts and interruptions.",
+    "explanation": "Notification fatigue is the cognitive and emotional exhaustion from continuous digital interruptions - app alerts, email notifications, social media pings, and system messages. The fatigue develops because: each notification demands attention assessment, frequent interruptions prevent deep work, the brain stays in reactive mode, and eventually all alerts blend into background noise. This creates a paradox where notifications meant to inform become ignored, causing missed important messages alongside dismissed trivial ones. Research shows notifications harm productivity even when ignored - the mere awareness of unread items creates cognitive load. Notification fatigue symptoms include: reflexive device checking, anxiety when disconnected, difficulty concentrating, and failure to respond to genuinely important alerts. For knowledge workers, managing notification fatigue requires: aggressive reduction of notification sources, batching rather than real-time delivery, and rebuilding sensitivity through periods of notification-free work.",
+    "tags": [
+        "notifications",
+        "attention",
+        "productivity",
+        "digital-wellness",
+        "focus"
+    ],
+    "category": "Concepts",
+    "icon": "FaBell",
+    "featured": false,
+    "aliases": [
+        "Alert fatigue",
+        "Push notification overload",
+        "Digital interruption fatigue"
+    ],
+    "relatedConcepts": [
+        "continuous-partial-attention",
+        "context-switching",
+        "deep-work",
+        "digital-detox",
+        "attention-residue",
+        "email-overload"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

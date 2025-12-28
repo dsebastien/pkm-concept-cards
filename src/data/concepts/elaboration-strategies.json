@@ -1,0 +1,53 @@
+{
+    "id": "elaboration-strategies",
+    "name": "Elaboration Strategies",
+    "summary": "Learning techniques that connect new information to existing knowledge through explanation and examples.",
+    "explanation": "Elaboration strategies involve adding meaning to new information by connecting it to what you already know. Rather than trying to memorize in isolation, elaboration creates rich, interconnected understanding. Key techniques include: elaborative interrogation (asking 'why?' and 'how?'), self-explanation (explaining to yourself how new information relates to known information), creating analogies, generating examples, and making connections across domains. Elaboration works because: it builds on existing memory structures, creates multiple retrieval paths, forces deeper processing, and reveals gaps in understanding. Research shows elaboration significantly improves learning compared to simple rereading. For knowledge workers, elaboration is central to PKM - linking notes, asking why, generating examples, and building a web of connected knowledge rather than isolated facts.",
+    "tags": [
+        "learning",
+        "memory",
+        "study-techniques",
+        "cognition",
+        "education"
+    ],
+    "category": "Techniques",
+    "icon": "FaExpandArrowsAlt",
+    "featured": false,
+    "aliases": [
+        "Elaborative learning",
+        "Deep processing"
+    ],
+    "relatedConcepts": [
+        "elaboration",
+        "elaborative-interrogation",
+        "connected-notes",
+        "linking",
+        "feynman-technique",
+        "analogical-learning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Make It Stick by Peter Brown",
+            "url": "https://amzn.to/3DpT8v2",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

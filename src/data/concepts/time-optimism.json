@@ -1,0 +1,44 @@
+{
+    "id": "time-optimism",
+    "name": "Time Optimism",
+    "summary": "The tendency to underestimate how long tasks will take and overcommit future time.",
+    "explanation": "Time optimism is the persistent tendency to underestimate how long tasks will take and overestimate how much can be accomplished in available time. It drives planning fallacy and leads to: chronic overcommitment, missed deadlines, rushed work, and stress from unrealistic expectations. Time optimism occurs because: we imagine best-case scenarios, ignore past experience of overruns, underweight potential obstacles, and forget the many small tasks that consume time. We treat future time as magically more abundant than present time - 'I'm busy now but will have more time next month.' Countermeasures include: reference class forecasting (using similar past tasks as baseline), adding buffer time by default, tracking actual time spent to calibrate estimates, and the 'realistic pessimist' mindset for planning. For knowledge workers, managing time optimism means: systematically adding buffer to estimates, learning from past overruns, and recognizing future you will be as busy as present you.",
+    "tags": [
+        "time",
+        "planning",
+        "bias",
+        "productivity",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaGlasses",
+    "featured": false,
+    "aliases": [
+        "Optimism bias (time)",
+        "Underestimation bias",
+        "Temporal optimism"
+    ],
+    "relatedConcepts": [
+        "planning-fallacy",
+        "overcommitment",
+        "buffer-time",
+        "estimation",
+        "cognitive-bias",
+        "project-planning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
