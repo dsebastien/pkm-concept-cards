@@ -162,25 +162,10 @@ const Header: React.FC = () => {
                                 <span className='hidden xl:inline'>Website</span>
                             </a>
 
-                            {/* Menu links - visible on lg+ screens */}
-                            <div className='hidden items-center gap-2 lg:flex'>
-                                {menuLinks.map((link) => (
-                                    <Link
-                                        key={link.to}
-                                        to={link.to}
-                                        className={`flex items-center gap-2 rounded-lg px-3 py-2 transition-colors xl:px-4 ${link.color}`}
-                                        title={link.label}
-                                    >
-                                        {link.icon}
-                                        <span className='hidden xl:inline'>{link.label}</span>
-                                    </Link>
-                                ))}
-                            </div>
-
-                            {/* Hamburger Menu Button - visible on smaller screens */}
+                            {/* Hamburger Menu Button - always visible */}
                             <button
                                 onClick={() => setIsMenuOpen(!isMenuOpen)}
-                                className='bg-primary/10 hover:bg-primary/20 flex h-10 w-10 items-center justify-center rounded-lg transition-colors lg:hidden'
+                                className='bg-primary/10 hover:bg-primary/20 flex h-10 w-10 items-center justify-center rounded-lg transition-colors'
                                 aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
                                 aria-expanded={isMenuOpen}
                             >
@@ -195,29 +180,36 @@ const Header: React.FC = () => {
                 </nav>
             </header>
 
-            {/* Mobile Fullscreen Overlay Menu */}
+            {/* Fullscreen Overlay Menu */}
             <div
-                className={`bg-background/98 fixed inset-0 z-40 flex flex-col backdrop-blur-md transition-all duration-300 lg:hidden ${
+                className={`bg-background/98 fixed inset-0 z-40 flex flex-col backdrop-blur-md transition-all duration-300 ${
                     isMenuOpen ? 'visible opacity-100' : 'pointer-events-none invisible opacity-0'
                 }`}
                 style={{ top: '64px' }}
                 onClick={() => setIsMenuOpen(false)}
             >
-                <div className='flex flex-1 flex-col items-center justify-center gap-4 p-6'>
-                    {menuLinks.map((link) => (
-                        <Link
-                            key={link.to}
-                            to={link.to}
-                            className={`flex w-full max-w-xs items-center justify-center gap-3 rounded-xl px-6 py-4 text-lg font-medium transition-all hover:scale-105 ${link.color}`}
-                        >
-                            {link.icon}
-                            <span>{link.label}</span>
-                        </Link>
-                    ))}
+                <div className='flex-1 overflow-y-auto p-6'>
+                    {/* Grid on desktop, compact list on mobile */}
+                    <div className='mx-auto grid max-w-4xl grid-cols-2 gap-3 sm:grid-cols-3 sm:gap-4 md:grid-cols-4 md:gap-6'>
+                        {menuLinks.map((link) => (
+                            <Link
+                                key={link.to}
+                                to={link.to}
+                                className={`flex flex-col items-center justify-center gap-2 rounded-xl p-4 text-center transition-all hover:scale-105 sm:gap-3 sm:p-6 md:p-8 ${link.color}`}
+                            >
+                                <span className='text-2xl sm:text-3xl md:text-4xl'>
+                                    {link.icon}
+                                </span>
+                                <span className='text-sm font-medium sm:text-base md:text-lg'>
+                                    {link.label}
+                                </span>
+                            </Link>
+                        ))}
+                    </div>
                 </div>
 
                 {/* Close hint */}
-                <div className='text-primary/40 pb-8 text-center text-sm'>
+                <div className='text-primary/40 shrink-0 py-4 text-center text-sm'>
                     Tap anywhere or press ESC to close
                 </div>
             </div>
