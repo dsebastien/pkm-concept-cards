@@ -1,0 +1,49 @@
+{
+    "id": "positive-sum-game",
+    "name": "Positive-Sum Game",
+    "summary": "A situation where total value can expand so all participants can benefit simultaneously.",
+    "explanation": "A positive-sum game is a situation where the total value or 'pie' can expand, meaning all participants can benefit - there doesn't have to be a loser for there to be a winner. This contrasts with zero-sum games where one party's gain is another's loss. Examples of positive-sum games: trade (both parties value what they receive more than what they give), collaboration (combined output exceeds what individuals could produce alone), knowledge sharing (ideas don't diminish when shared), and relationship building (trust and goodwill can grow mutually). Why positive-sum thinking matters: most important human endeavors are positive-sum, zero-sum thinking in positive-sum contexts creates unnecessary conflict, and recognizing positive-sum opportunities enables cooperation. Creating positive-sum outcomes: focus on expanding value rather than just claiming it, find integrative solutions that serve multiple interests, invest in relationships (trust compounds), and share knowledge freely (it multiplies). Positive-sum mindset: approach situations asking 'how can everyone win?' rather than 'how do I beat them?' For knowledge workers, positive-sum thinking helps: build productive collaborations, negotiate better deals, create rather than just compete, and recognize that helping others often helps yourself.",
+    "tags": [
+        "game-theory",
+        "economics",
+        "cooperation",
+        "strategy",
+        "thinking"
+    ],
+    "category": "Concepts",
+    "icon": "FaHandshake",
+    "featured": false,
+    "aliases": [
+        "Win-win",
+        "Non-zero-sum game",
+        "Growing pie"
+    ],
+    "relatedConcepts": [
+        "zero-sum-positive-sum",
+        "game-theory",
+        "cooperation",
+        "negotiation",
+        "value-creation",
+        "abundance-mindset"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Nonzero by Robert Wright",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

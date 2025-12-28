@@ -1,0 +1,44 @@
+{
+    "id": "continuous-community-framework",
+    "name": "Continuous Community Framework",
+    "summary": "A model for building sustained engagement and value in communities over time.",
+    "explanation": "The Continuous Community Framework is a model for building and nurturing communities that create sustained engagement and value over time. Rather than sporadic interactions, it emphasizes ongoing relationship development and value creation. Core elements: continuous value creation (regular content, events, and resources), progressive engagement (paths from newcomer to core contributor), feedback loops (learning from community to improve), and sustainable rhythms (regular cadences that maintain momentum). Phases of community development: founding (initial members, establishing culture), growth (attracting and onboarding new members), maturation (developing leadership and self-organization), and renewal (adapting to changing needs). Key practices: welcome rituals (onboarding new members meaningfully), contribution paths (clear ways to participate and advance), recognition systems (acknowledging contributions), and community spaces (where interaction happens). Success metrics: engagement depth (not just numbers), value exchanged (what members give and receive), retention (do people stay?), and community health (culture, trust, safety). For knowledge workers, the framework helps: build sustainable professional communities, create value through collective intelligence, and develop lasting professional networks.",
+    "tags": [
+        "community",
+        "frameworks",
+        "engagement",
+        "relationships",
+        "growth"
+    ],
+    "category": "Frameworks",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Community building framework",
+        "Sustained community model",
+        "Continuous engagement"
+    ],
+    "relatedConcepts": [
+        "community-building",
+        "engagement",
+        "network-effects",
+        "social-capital",
+        "eventual-reciprocity",
+        "belonging"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "scqa-storytelling",
+    "name": "SCQA Storytelling Model",
+    "summary": "A narrative framework: Situation, Complication, Question, Answer for persuasive communication.",
+    "explanation": "SCQA is a storytelling framework for structuring persuasive communication, developed from Barbara Minto's Pyramid Principle. It creates compelling narratives by establishing context before presenting solutions. The four elements: Situation - establish the context everyone agrees on. Set the scene with facts and shared understanding that the audience will recognize and accept. Complication - introduce what has changed or what's wrong. This creates tension and engages the audience by showing why the current state is problematic. Question - the question that naturally arises from the complication. What should we do? How do we solve this? The audience should be mentally asking this before you answer. Answer - your solution, recommendation, or main message. This is what you want them to take away, positioned as the answer to their now-burning question. Why SCQA works: it follows natural narrative patterns (setup, conflict, resolution), builds engagement (audience wants to know the answer), and makes recommendations feel inevitable rather than imposed. Applications: presentations, proposals, memos, and any persuasive communication. For knowledge workers, SCQA provides: a reliable structure for making cases, a way to turn analysis into story, and a framework that makes complex information accessible and compelling.",
+    "tags": [
+        "communication",
+        "storytelling",
+        "frameworks",
+        "persuasion",
+        "presentations"
+    ],
+    "category": "Frameworks",
+    "icon": "FaComments",
+    "featured": false,
+    "aliases": [
+        "SCQA framework",
+        "Minto SCQA",
+        "Situation-Complication-Question-Answer"
+    ],
+    "relatedConcepts": [
+        "storytelling",
+        "narrative-structure",
+        "persuasion",
+        "communication",
+        "presentation",
+        "pyramid-principle"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Pyramid Principle by Barbara Minto",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
