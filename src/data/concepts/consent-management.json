@@ -1,0 +1,44 @@
+{
+    "id": "consent-management",
+    "name": "Consent Management",
+    "summary": "The process of obtaining, recording, and respecting user permission for data collection and use.",
+    "explanation": "Consent management is the process of obtaining, recording, and respecting user permission for collecting and using their personal data. Valid consent under modern privacy regulations must be: freely given (no coercion), specific (for stated purposes), informed (clear explanation provided), and unambiguous (active opt-in, not pre-checked boxes). Consent types: opt-in (explicit permission required before processing), opt-out (processing unless user objects), and granular consent (separate permissions for different purposes). Consent management involves: clear privacy notices (what data, why, how long), easy-to-use consent interfaces (not dark patterns), preference centers (users can modify choices), and consent records (documented proof of permission). Challenges include: consent fatigue (users click through without reading), legitimate interest exceptions (some processing doesn't require consent), and changing purposes (need fresh consent for new uses). Best practices: make consent meaningful (real choices, clear consequences), respect user decisions (don't manipulate), and make withdrawal easy (revoking consent should be as easy as giving it). For knowledge workers, consent management means: respecting user privacy choices, implementing honest consent mechanisms, and treating consent as ongoing relationship, not one-time checkbox.",
+    "tags": [
+        "privacy",
+        "compliance",
+        "user-experience",
+        "data",
+        "ethics"
+    ],
+    "category": "Concepts",
+    "icon": "FaCheckSquare",
+    "featured": false,
+    "aliases": [
+        "Privacy consent",
+        "User consent",
+        "Permission management"
+    ],
+    "relatedConcepts": [
+        "data-privacy",
+        "personal-data",
+        "data-minimization",
+        "gdpr",
+        "transparency",
+        "user-rights"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

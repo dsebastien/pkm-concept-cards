@@ -1,0 +1,44 @@
+{
+    "id": "right-to-be-forgotten",
+    "name": "Right to Be Forgotten",
+    "summary": "The right to have personal data erased when it's no longer needed or consent is withdrawn.",
+    "explanation": "The right to be forgotten (or right to erasure) is the legal right to have personal data deleted by organizations that hold it. Under GDPR, individuals can request erasure when: data is no longer necessary for its original purpose, consent is withdrawn, data was unlawfully processed, or erasure is required by law. Limitations exist: the right doesn't apply when data is needed for legal obligations, public interest, scientific research, or exercising free speech. How it works in practice: submit deletion request, organization must respond within specified time (30 days under GDPR), and if data was shared with others, they must be informed of erasure request. Challenges include: technical difficulty of complete deletion (backups, logs), balancing with other rights (public interest, free speech), and the 'Streisand effect' (requesting removal can draw attention). Related concepts: data retention policies (how long data is kept), the right of access (knowing what data exists), and the right to rectification (correcting inaccurate data). For knowledge workers, the right to be forgotten means: implementing deletion capabilities, respecting user requests, understanding that data collection creates ongoing obligations, and recognizing users' control over their information.",
+    "tags": [
+        "privacy",
+        "rights",
+        "compliance",
+        "data",
+        "law"
+    ],
+    "category": "Concepts",
+    "icon": "FaEraser",
+    "featured": false,
+    "aliases": [
+        "Right to erasure",
+        "Data deletion rights",
+        "RTBF"
+    ],
+    "relatedConcepts": [
+        "data-privacy",
+        "personal-data",
+        "consent-management",
+        "gdpr",
+        "data-retention",
+        "user-rights"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

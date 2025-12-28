@@ -1,0 +1,44 @@
+{
+    "id": "privacy-by-design",
+    "name": "Privacy by Design",
+    "summary": "Building privacy protections into systems from the start rather than adding them later.",
+    "explanation": "Privacy by Design is the approach of building privacy protections into the design of systems, processes, and products from the beginning - rather than treating privacy as an afterthought or compliance checkbox. The seven foundational principles: 1) Proactive not reactive (prevent problems before they occur), 2) Privacy as default (users don't have to take action to protect themselves), 3) Privacy embedded in design (not bolted on afterward), 4) Full functionality (avoid false tradeoffs between privacy and features), 5) End-to-end security (protect data throughout its lifecycle), 6) Visibility and transparency (operations remain open to scrutiny), 7) Respect for user privacy (keep the user's interests central). Why it matters: retrofitting privacy is expensive and often ineffective, privacy violations can't always be undone, and user trust once lost is hard to regain. Implementation involves: privacy impact assessments early in projects, default settings that protect privacy, data minimization in architecture, and encryption and security by default. For knowledge workers, Privacy by Design means: considering privacy from project inception, choosing privacy-respecting tools, and treating privacy as a feature, not a burden.",
+    "tags": [
+        "privacy",
+        "design",
+        "principles",
+        "security",
+        "architecture"
+    ],
+    "category": "Principles",
+    "icon": "FaDraftingCompass",
+    "featured": false,
+    "aliases": [
+        "PbD",
+        "Privacy-first design",
+        "Built-in privacy"
+    ],
+    "relatedConcepts": [
+        "data-privacy",
+        "data-minimization",
+        "security-by-design",
+        "default-effect",
+        "user-trust",
+        "ethical-design"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

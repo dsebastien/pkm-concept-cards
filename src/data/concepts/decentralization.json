@@ -1,0 +1,44 @@
+{
+    "id": "decentralization",
+    "name": "Decentralization",
+    "summary": "Distributing control, data, or operations across multiple independent nodes rather than centralizing.",
+    "explanation": "Decentralization is the distribution of control, data, or operations across multiple independent nodes rather than concentrating them in a single central authority. It applies to: data (distributed storage), computation (distributed processing), governance (distributed decision-making), and networks (peer-to-peer rather than client-server). Benefits of decentralization: resilience (no single point of failure), censorship resistance (no single entity to pressure), reduced trust requirements (verify rather than trust), and distributed power (no monopoly control). Decentralization spectrum: from fully centralized (single authority) through federated (multiple authorities cooperating) to fully decentralized (no authority, peer-to-peer). Examples: email (federated - many servers, interoperable), blockchain (decentralized - distributed consensus), BitTorrent (decentralized file sharing), and Mastodon/Fediverse (federated social). Tradeoffs: centralization is often more efficient, decentralization can be slower and more complex, user experience may suffer, and coordination becomes harder. Not all decentralization is equal - 'decentralization theater' can hide practical centralization. For knowledge workers, decentralization offers: reduced dependency on single providers, more resilient systems, and alternative models for services - but requires understanding the real distribution of control.",
+    "tags": [
+        "technology",
+        "systems",
+        "architecture",
+        "governance",
+        "networks"
+    ],
+    "category": "Concepts",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": [
+        "Distributed systems",
+        "Peer-to-peer",
+        "Non-centralized"
+    ],
+    "relatedConcepts": [
+        "digital-sovereignty",
+        "self-hosted",
+        "local-first",
+        "federation",
+        "resilience",
+        "single-point-of-failure"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

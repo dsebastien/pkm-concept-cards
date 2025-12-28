@@ -1,0 +1,44 @@
+{
+    "id": "data-ownership",
+    "name": "Data Ownership",
+    "summary": "The concept of having property-like rights over data you create or that pertains to you.",
+    "explanation": "Data ownership is the concept that individuals or entities should have property-like rights over data - particularly data they create or that pertains to them. It's a contested concept because data differs from physical property: it can be copied infinitely, multiple parties can 'use' the same data simultaneously, and determining who 'owns' derived or aggregated data is complex. Perspectives on data ownership: individual rights view (my data belongs to me), creator rights view (I own data I generate), collector view (organizations own data they collect), and public good view (some data should be shared). Practical questions: Who controls access? Who can profit from it? Who decides how it's used? Who bears liability for misuse? Current reality: in most jurisdictions, data ownership is poorly defined legally, terms of service often transfer rights, and practical control matters more than legal ownership. Moving toward data ownership: data portability (ability to take your data elsewhere), data trusts (collective governance), personal data stores (individual control), and regulation (defining rights and obligations). For knowledge workers, data ownership questions help: think about data rights, evaluate services' data practices, and consider ethical implications of data collection.",
+    "tags": [
+        "privacy",
+        "data",
+        "rights",
+        "ethics",
+        "governance"
+    ],
+    "category": "Concepts",
+    "icon": "FaFileContract",
+    "featured": false,
+    "aliases": [
+        "Data rights",
+        "Data property",
+        "Information ownership"
+    ],
+    "relatedConcepts": [
+        "data-privacy",
+        "digital-sovereignty",
+        "data-portability",
+        "personal-data",
+        "data-governance",
+        "intellectual-property"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

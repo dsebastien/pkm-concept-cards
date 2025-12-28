@@ -1,0 +1,44 @@
+{
+    "id": "self-hosted",
+    "name": "Self-Hosted",
+    "summary": "Running services on infrastructure you control rather than relying on third-party providers.",
+    "explanation": "Self-hosting means running applications and services on infrastructure you control (your own server, home lab, or VPS) rather than relying on third-party SaaS providers. Examples include: hosting your own email server, running a personal cloud (Nextcloud), self-hosted note-taking, password managers, and communication tools. Benefits of self-hosting: full data control (your server, your data), privacy (no third-party access), customization (modify as needed), no vendor lock-in (switch or migrate freely), and cost efficiency (often cheaper at scale). Challenges include: technical expertise required, maintenance burden (updates, security, backups), reliability responsibility (no SLA, you're the support), and initial setup complexity. What to consider self-hosting: services with sensitive data (passwords, documents), high-value/frequent-use applications, and anything where vendor continuity concerns you. What might not be worth self-hosting: services requiring high reliability, those with complex requirements, and things where managed services provide significant value. Self-hosting exists on a spectrum: from fully managed VPS to bare metal in your home. For knowledge workers, self-hosting offers: data sovereignty, customization freedom, and independence - balanced against the time and expertise required to maintain it.",
+    "tags": [
+        "technology",
+        "privacy",
+        "independence",
+        "infrastructure",
+        "control"
+    ],
+    "category": "Concepts",
+    "icon": "FaServer",
+    "featured": false,
+    "aliases": [
+        "Self-hosting",
+        "Home lab",
+        "Personal server"
+    ],
+    "relatedConcepts": [
+        "local-first",
+        "digital-sovereignty",
+        "data-ownership",
+        "vendor-lock-in",
+        "decentralization",
+        "privacy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

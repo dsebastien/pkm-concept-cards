@@ -1,0 +1,44 @@
+{
+    "id": "data-breach",
+    "name": "Data Breach",
+    "summary": "A security incident where protected or confidential data is accessed by unauthorized parties.",
+    "explanation": "A data breach is a security incident where protected, confidential, or sensitive data is accessed, stolen, or exposed by unauthorized parties. Breaches can result from: external attacks (hacking, malware), insider threats (malicious or negligent employees), accidents (misconfigured servers, lost devices), and third-party compromises (vendor breaches). Types of breached data: personal identifiable information (PII), financial data, health records, credentials, intellectual property, and communications. Consequences include: identity theft for affected individuals, regulatory fines for organizations, reputational damage, legal liability, and operational disruption. Prevention involves: security fundamentals (encryption, access controls, patching), employee training, incident detection systems, and vendor security assessment. Response requirements: contain the breach, assess the damage, notify affected parties and regulators, and remediate vulnerabilities. The breach landscape: breaches are increasingly common, costs are rising, and no organization is immune. For knowledge workers, understanding data breaches helps: protect personal information, implement security practices, respond appropriately to breach notifications, and recognize that data protection is everyone's responsibility.",
+    "tags": [
+        "security",
+        "privacy",
+        "risk",
+        "incidents",
+        "data"
+    ],
+    "category": "Concepts",
+    "icon": "FaUnlockAlt",
+    "featured": false,
+    "aliases": [
+        "Security breach",
+        "Data leak",
+        "Information breach"
+    ],
+    "relatedConcepts": [
+        "data-confidentiality",
+        "data-privacy",
+        "security",
+        "encryption",
+        "risk-management",
+        "incident-response"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

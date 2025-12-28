@@ -1,0 +1,44 @@
+{
+    "id": "personal-data",
+    "name": "Personal Data",
+    "summary": "Any information that can identify or be used to identify an individual person.",
+    "explanation": "Personal data is any information that relates to an identified or identifiable natural person. This includes: direct identifiers (name, ID numbers, email), indirect identifiers (location, IP address, device IDs), and sensitive categories (health, religion, sexuality, political views, biometrics). What makes data 'personal': if it can be used alone or combined with other data to identify someone. Even 'anonymous' data can become personal through re-identification. Categories of concern: personal identifiable information (PII) - directly identifies (name, SSN), quasi-identifiers - can identify in combination (zip code + birthdate + gender), and behavioral data (browsing history, purchases). Why personal data protection matters: it reveals intimate details of life, misuse causes real harm, power imbalances exist between individuals and collectors, and once exposed, data can't be 'unexposed.' Regulations like GDPR give individuals rights over their personal data: access, correction, deletion, portability, and consent to processing. For knowledge workers, understanding personal data helps: comply with regulations, protect your own information, and make ethical decisions about data handling in systems you build or use.",
+    "tags": [
+        "privacy",
+        "data",
+        "identity",
+        "compliance",
+        "rights"
+    ],
+    "category": "Concepts",
+    "icon": "FaIdCard",
+    "featured": false,
+    "aliases": [
+        "PII",
+        "Personally identifiable information",
+        "Personal information"
+    ],
+    "relatedConcepts": [
+        "data-privacy",
+        "data-minimization",
+        "consent-management",
+        "right-to-be-forgotten",
+        "data-protection",
+        "identity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
