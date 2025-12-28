@@ -1,0 +1,44 @@
+{
+    "id": "type-i-type-ii-errors",
+    "name": "Type I and Type II Errors",
+    "summary": "False positives (detecting an effect that isn't there) and false negatives (missing an effect that exists).",
+    "explanation": "Type I and Type II errors are the two ways statistical inference can go wrong. Type I error (false positive): concluding there's an effect when there isn't one - like a fire alarm going off when there's no fire. Type II error (false negative): concluding there's no effect when there actually is one - like a fire alarm failing to detect a real fire. The tradeoff: reducing one type of error typically increases the other. Stricter criteria (lower alpha) reduce false positives but increase false negatives. More lenient criteria do the opposite. Which error is worse depends on context: in medical screening, false negatives (missing disease) may be more serious; in criminal trials, false positives (convicting innocent) are considered worse. Related concepts: alpha (probability of Type I error, often set at 0.05), beta (probability of Type II error), and power (1-beta, probability of correctly detecting real effects). For knowledge workers, understanding these errors helps: recognize that absence of evidence isn't evidence of absence, choose appropriate thresholds based on error costs, and understand why replication matters (single studies can err either way).",
+    "tags": [
+        "statistics",
+        "research",
+        "decision-making",
+        "errors",
+        "methodology"
+    ],
+    "category": "Concepts",
+    "icon": "FaExclamationCircle",
+    "featured": false,
+    "aliases": [
+        "False positive/negative",
+        "Alpha and beta errors",
+        "Statistical errors"
+    ],
+    "relatedConcepts": [
+        "statistical-significance",
+        "sample-size",
+        "decision-making",
+        "signal-vs-noise",
+        "base-rate",
+        "sensitivity-specificity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

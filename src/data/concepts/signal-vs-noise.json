@@ -1,0 +1,49 @@
+{
+    "id": "signal-vs-noise",
+    "name": "Signal vs Noise",
+    "summary": "Distinguishing meaningful patterns from random variation or irrelevant information.",
+    "explanation": "Signal vs noise is the challenge of distinguishing meaningful patterns (signal) from random variation or irrelevant information (noise). In any data or observation, both are present - the question is which is which. Signal characteristics: consistent, reproducible, predictive, and causally connected to outcomes. Noise characteristics: random, inconsistent, non-reproducible, and unconnected to what matters. The challenge: humans are pattern-seekers who often find signal in pure noise (pareidolia, conspiracy thinking, technical analysis). More data sometimes increases noise faster than signal (information overload). Ways to improve signal-to-noise ratio: aggregate data (average out noise), filter irrelevant information, focus on robust patterns (replicate across contexts), and be skeptical of single observations. Questions to ask: Would this pattern replicate? Is there a plausible mechanism? Could this be random variation? What's the base rate of false patterns? For knowledge workers, signal vs noise thinking helps: consume information more wisely, avoid acting on noise, focus on what actually predicts outcomes, and recognize that more information isn't always better if it's mostly noise.",
+    "tags": [
+        "statistics",
+        "information",
+        "thinking",
+        "data",
+        "analysis"
+    ],
+    "category": "Concepts",
+    "icon": "FaWaveSquare",
+    "featured": false,
+    "aliases": [
+        "Signal-to-noise ratio",
+        "Pattern vs randomness",
+        "Information vs noise"
+    ],
+    "relatedConcepts": [
+        "information-overload",
+        "pattern-recognition",
+        "variance",
+        "filtering",
+        "critical-thinking",
+        "data-analysis"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Signal and the Noise by Nate Silver",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

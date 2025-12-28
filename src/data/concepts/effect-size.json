@@ -1,0 +1,44 @@
+{
+    "id": "effect-size",
+    "name": "Effect Size",
+    "summary": "A measure of the magnitude or practical importance of a finding, independent of sample size.",
+    "explanation": "Effect size measures the magnitude of a difference or relationship - how big an effect actually is, not just whether it exists. Unlike statistical significance (which depends heavily on sample size), effect size indicates practical importance. Common measures include: Cohen's d (standardized difference between means), correlation coefficient r, odds ratios, and percentage differences. Why effect size matters: with large enough samples, trivially small effects become 'significant'; effect size reveals if the effect is meaningful. Small effect (d=0.2): barely noticeable, may not be practically important. Medium effect (d=0.5): noticeable to careful observer. Large effect (d=0.8): obvious to casual observer. Best practices: always report effect size alongside significance, interpret in context (small effects can matter if they're easy to implement), and compare to other interventions in the field. Effect size thinking asks: 'how much?' rather than 'is there an effect?' For knowledge workers, understanding effect size helps: evaluate whether research findings matter practically, compare interventions fairly, and avoid being impressed by 'significant' findings that are actually tiny.",
+    "tags": [
+        "statistics",
+        "research",
+        "measurement",
+        "analysis",
+        "evidence"
+    ],
+    "category": "Concepts",
+    "icon": "FaRuler",
+    "featured": false,
+    "aliases": [
+        "Magnitude of effect",
+        "Practical significance",
+        "Cohen's d"
+    ],
+    "relatedConcepts": [
+        "statistical-significance",
+        "sample-size",
+        "research-literacy",
+        "evidence-based-practice",
+        "confidence-interval",
+        "measurement"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

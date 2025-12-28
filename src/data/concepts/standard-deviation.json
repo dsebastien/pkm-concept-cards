@@ -1,0 +1,44 @@
+{
+    "id": "standard-deviation",
+    "name": "Standard Deviation",
+    "summary": "A measure of how spread out values are from the mean.",
+    "explanation": "Standard deviation measures how spread out values are from the average - the typical distance of observations from the mean. Low standard deviation: values cluster tightly around the mean (consistent, predictable). High standard deviation: values spread widely (variable, less predictable). In normally distributed data: ~68% of values fall within 1 standard deviation of the mean, ~95% within 2, ~99.7% within 3. Practical applications: quality control (variation within tolerance?), risk assessment (how variable are returns?), comparing variability (which process is more consistent?), and identifying outliers (values beyond 2-3 standard deviations are unusual). Related concepts: variance (standard deviation squared), coefficient of variation (standard deviation relative to mean), and range (simpler but cruder measure of spread). Limitations: assumes values are meaningful to average (not always true), sensitive to outliers, and can be misleading in skewed or multimodal distributions. For knowledge workers, standard deviation helps: understand and communicate variability, set realistic expectations (outcomes vary), identify unusual observations, and compare consistency across processes or time periods.",
+    "tags": [
+        "statistics",
+        "measurement",
+        "variability",
+        "data",
+        "analysis"
+    ],
+    "category": "Concepts",
+    "icon": "FaExpandArrowsAlt",
+    "featured": false,
+    "aliases": [
+        "SD",
+        "Sigma",
+        "Spread"
+    ],
+    "relatedConcepts": [
+        "variance",
+        "mean-median-mode",
+        "normal-distribution",
+        "confidence-interval",
+        "outliers",
+        "variability"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

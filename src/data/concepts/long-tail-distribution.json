@@ -1,0 +1,49 @@
+{
+    "id": "long-tail-distribution",
+    "name": "Long Tail Distribution",
+    "summary": "A distribution where many low-frequency items collectively represent significant aggregate value.",
+    "explanation": "The long tail describes distributions where a large number of items each with small individual quantities collectively represent a significant portion of total value. Traditional business focused on hits (the 'head') - few products with high demand. Long tail economics shows the aggregate value of many niche products can equal or exceed the hits. Chris Anderson's key insight: when distribution costs approach zero (digital), the long tail becomes profitable. Examples: Amazon sells many books that traditional stores couldn't stock profitably; Spotify's obscure tracks collectively get massive plays; YouTube's niche videos aggregate huge viewership. Long tail implications: markets expand beyond hits, niches become viable, personalization enables finding your tail, and aggregators who can serve the whole tail win. Limitations: the tail may be long but thin (little revenue per item), discovery remains challenging (how do people find niche items?), and hits often still dominate revenue. For knowledge workers, long tail thinking helps: recognize niche opportunities, understand platform economics, serve specific audiences rather than competing for mass market, and value accumulated small contributions.",
+    "tags": [
+        "statistics",
+        "economics",
+        "business",
+        "distribution",
+        "digital"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Long tail economics",
+        "Niche aggregation",
+        "Tail economics"
+    ],
+    "relatedConcepts": [
+        "power-law",
+        "pareto-principle",
+        "network-effects",
+        "platform-economics",
+        "niche-markets",
+        "aggregation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Long Tail by Chris Anderson",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "correlation-vs-causation",
+    "name": "Correlation vs Causation",
+    "summary": "The critical distinction between two things occurring together and one actually causing the other.",
+    "explanation": "Correlation vs causation is the fundamental distinction between two variables being associated (they move together) and one actually causing the other. Correlation means: when A increases, B tends to increase (or decrease). Causation means: A directly produces B. The problem: correlation is easy to observe, causation is hard to prove. Common traps include: confusing correlation for causation (ice cream sales and drowning both rise in summer - but ice cream doesn't cause drowning; heat causes both), reverse causation (A correlates with B, but B causes A, not vice versa), and confounding variables (hidden third factor causes both). Establishing causation requires: temporal precedence (cause precedes effect), mechanism (plausible explanation), elimination of alternatives (controlling for confounds), and ideally experimental manipulation. Questions to ask: Is there a plausible mechanism? Could causation be reversed? What third factors might explain both? Would intervention on A change B? For knowledge workers, this distinction helps: evaluate research claims critically, avoid acting on spurious patterns, and recognize that 'data shows correlation' doesn't mean 'data proves causation.'",
+    "tags": [
+        "statistics",
+        "critical-thinking",
+        "research",
+        "logic",
+        "analysis"
+    ],
+    "category": "Concepts",
+    "icon": "FaNotEqual",
+    "featured": true,
+    "aliases": [
+        "Correlation is not causation",
+        "Spurious correlation",
+        "Causal inference"
+    ],
+    "relatedConcepts": [
+        "confounding-variables",
+        "scientific-method",
+        "critical-thinking",
+        "base-rate",
+        "statistical-significance",
+        "research-literacy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Book of Why by Judea Pearl",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

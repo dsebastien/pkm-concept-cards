@@ -1,0 +1,44 @@
+{
+    "id": "mean-median-mode",
+    "name": "Mean, Median, and Mode",
+    "summary": "Three different measures of central tendency, each useful in different contexts.",
+    "explanation": "Mean, median, and mode are three ways to describe the 'center' of a dataset, each with different properties. Mean (average): sum of values divided by count - sensitive to extreme values, useful when distribution is symmetric. Median (middle value): half of values above, half below - robust to outliers, better for skewed distributions. Mode (most common): most frequent value - useful for categorical data or identifying peaks. Why the distinction matters: in skewed distributions (like income), mean and median diverge significantly. Mean income might be pulled up by billionaires, while median reflects typical experience. Misleading statistics often cherry-pick whichever measure supports a narrative. Choosing the right measure: use median when outliers could distort (income, home prices), use mean when outliers are meaningful (total revenue, risk exposure), use mode for categorical data or finding typical cases. Questions to ask: Is this distribution skewed? What question am I really asking? Would a different measure tell a different story? For knowledge workers, understanding these measures helps: interpret statistics correctly, choose appropriate measures for analysis, and recognize when statistics might mislead.",
+    "tags": [
+        "statistics",
+        "data",
+        "analysis",
+        "measurement",
+        "mathematics"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartBar",
+    "featured": false,
+    "aliases": [
+        "Measures of central tendency",
+        "Average types",
+        "Central value"
+    ],
+    "relatedConcepts": [
+        "normal-distribution",
+        "outliers",
+        "standard-deviation",
+        "skewness",
+        "statistical-literacy",
+        "data-analysis"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

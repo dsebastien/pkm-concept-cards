@@ -1,0 +1,49 @@
+{
+    "id": "gamblers-fallacy",
+    "name": "Gambler's Fallacy",
+    "summary": "The mistaken belief that past random events affect the probability of future independent events.",
+    "explanation": "The gambler's fallacy is the mistaken belief that past outcomes of random, independent events affect future probabilities. After five heads in a row, people feel tails is 'due' - but the coin has no memory. Each flip is independent; the probability remains 50%. The fallacy confuses two different things: the law of large numbers (over many trials, frequencies converge to true probabilities) and individual event probability (which doesn't change based on history). Manifestations include: expecting 'correction' after streaks, believing luck is 'due to change', and making decisions based on past random outcomes. Related concepts: hot hand fallacy (believing streaks mean something in random processes), regression to mean (extreme values do tend toward average - but through statistics, not causation). When the fallacy doesn't apply: if events aren't independent (drawing cards without replacement), or if there's information in history (skillful performance isn't purely random). For knowledge workers, avoiding the gambler's fallacy means: recognizing independent events, not expecting random processes to 'correct' themselves, and distinguishing statistical patterns from causal mechanisms.",
+    "tags": [
+        "statistics",
+        "cognitive-biases",
+        "probability",
+        "thinking",
+        "randomness"
+    ],
+    "category": "Concepts",
+    "icon": "FaDice",
+    "featured": false,
+    "aliases": [
+        "Monte Carlo fallacy",
+        "Fallacy of maturity of chances",
+        "Due fallacy"
+    ],
+    "relatedConcepts": [
+        "probability",
+        "law-of-large-numbers",
+        "randomness",
+        "cognitive-biases",
+        "regression-to-mean",
+        "independence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

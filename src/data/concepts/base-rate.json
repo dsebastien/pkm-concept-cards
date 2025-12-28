@@ -1,0 +1,49 @@
+{
+    "id": "base-rate",
+    "name": "Base Rate",
+    "summary": "The underlying probability of an event before considering specific evidence or conditions.",
+    "explanation": "The base rate is the underlying probability of an event occurring in a population before considering any specific evidence. Base rate neglect (or base rate fallacy) is the tendency to ignore this background probability when evaluating new information. Classic example: if a disease affects 1 in 10,000 people and a test is 99% accurate, a positive result still only means ~1% chance of having the disease (because false positives vastly outnumber true positives when the base rate is low). Base rates matter for: medical diagnosis (rare diseases), hiring decisions (success rates in roles), predictions (frequency of events), and risk assessment (actual probability of outcomes). To use base rates properly: start with the background probability, update based on evidence (Bayesian reasoning), and recognize when specific information should override base rates versus when it shouldn't. Base rate neglect occurs because: specific information is vivid and compelling, base rates are abstract, and we're drawn to narratives over statistics. For knowledge workers, base rate thinking helps: make better predictions, evaluate claims realistically, and avoid overreacting to specific but statistically weak evidence.",
+    "tags": [
+        "statistics",
+        "probability",
+        "cognitive-biases",
+        "decision-making",
+        "thinking"
+    ],
+    "category": "Concepts",
+    "icon": "FaPercent",
+    "featured": false,
+    "aliases": [
+        "Prior probability",
+        "Background rate",
+        "Base rate fallacy"
+    ],
+    "relatedConcepts": [
+        "bayes-theorem",
+        "probability",
+        "cognitive-biases",
+        "representativeness-heuristic",
+        "statistical-thinking",
+        "decision-making"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

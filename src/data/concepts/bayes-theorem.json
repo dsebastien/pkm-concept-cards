@@ -1,0 +1,49 @@
+{
+    "id": "bayes-theorem",
+    "name": "Bayes' Theorem",
+    "summary": "A mathematical framework for updating beliefs based on new evidence.",
+    "explanation": "Bayes' theorem is a mathematical formula for updating the probability of a hypothesis based on new evidence. It answers: given what I now know, how should I revise my beliefs? The formula: P(H|E) = P(E|H) × P(H) / P(E) - the probability of hypothesis given evidence equals likelihood of evidence given hypothesis, times prior probability, divided by overall evidence probability. In practice: start with a prior belief (base rate), observe evidence, update belief proportionally to how much that evidence supports the hypothesis. Bayesian thinking involves: acknowledging uncertainty in beliefs, updating incrementally with new information, weighing evidence by its diagnosticity, and maintaining calibrated confidence. Key insights: strong priors require strong evidence to change, some evidence is more diagnostic than others, and beliefs should change gradually with evidence. Bayesian reasoning helps avoid: overconfidence (priors often too extreme), underweighting evidence (not updating enough), and base rate neglect (ignoring priors entirely). For knowledge workers, Bayesian thinking provides: a framework for reasoning under uncertainty, a way to integrate new information systematically, and a mindset of probabilistic rather than binary beliefs.",
+    "tags": [
+        "statistics",
+        "probability",
+        "thinking",
+        "decision-making",
+        "mathematics"
+    ],
+    "category": "Concepts",
+    "icon": "FaCalculator",
+    "featured": true,
+    "aliases": [
+        "Bayesian reasoning",
+        "Bayesian inference",
+        "Belief updating"
+    ],
+    "relatedConcepts": [
+        "base-rate",
+        "probability",
+        "evidence",
+        "uncertainty",
+        "prior-beliefs",
+        "decision-making"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

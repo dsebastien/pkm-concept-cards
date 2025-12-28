@@ -1,0 +1,49 @@
+{
+    "id": "simpsons-paradox",
+    "name": "Simpson's Paradox",
+    "summary": "A phenomenon where trends in aggregated data reverse when data is separated into subgroups.",
+    "explanation": "Simpson's paradox occurs when a trend appears in aggregated data but reverses or disappears when the data is separated into subgroups. Classic example: Treatment A might appear better overall, but Treatment B is better for both mild and severe cases - the paradox arises because severe cases (where outcomes are worse regardless) were more likely to receive Treatment A. The paradox reveals: aggregation can fundamentally distort reality, averages can lie, and the 'right' conclusion depends on causal structure. It occurs when: there's a lurking variable (confounder) that affects both the grouping and the outcome, and the groups have different compositions. Resolving Simpson's paradox requires: understanding the causal structure (what causes what?), knowing the right level of analysis (should we aggregate or not?), and recognizing that statistics alone can't answer causal questions. Real examples appear in: medical studies (treatment effectiveness), hiring data (discrimination claims), and educational outcomes. For knowledge workers, awareness of Simpson's paradox helps: question aggregated statistics, look for confounding variables, and recognize that the same data can support opposite conclusions depending on how it's sliced.",
+    "tags": [
+        "statistics",
+        "critical-thinking",
+        "analysis",
+        "paradox",
+        "data"
+    ],
+    "category": "Concepts",
+    "icon": "FaPuzzlePiece",
+    "featured": false,
+    "aliases": [
+        "Reversal paradox",
+        "Yule-Simpson effect",
+        "Aggregation paradox"
+    ],
+    "relatedConcepts": [
+        "confounding-variables",
+        "correlation-vs-causation",
+        "statistical-literacy",
+        "data-analysis",
+        "base-rate",
+        "critical-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Book of Why by Judea Pearl",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

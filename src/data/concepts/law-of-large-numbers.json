@@ -1,0 +1,44 @@
+{
+    "id": "law-of-large-numbers",
+    "name": "Law of Large Numbers",
+    "summary": "The principle that averages of random samples converge to expected values as sample size increases.",
+    "explanation": "The law of large numbers states that as a sample size grows, its average converges to the true expected value. Flip a fair coin 10 times - you might get 70% heads. Flip it 10,000 times - you'll get very close to 50% heads. Implications include: small samples are unreliable (high variance, extreme results possible), large samples are stable (averages converge), and patience is required for true patterns to emerge. This law explains: why casinos always win long-term (edge plays out over many bets), why insurance works (averaging over many policies), and why early results can be misleading (insufficient data). Common mistakes: expecting small samples to behave like large ones (gambler's fallacy), concluding too quickly from limited data, and not recognizing when sample size is insufficient. The law does NOT mean: past results affect future probabilities (each event is independent), or that extreme streaks 'correct' themselves. For knowledge workers, the law of large numbers suggests: don't overinterpret small samples, build systems that benefit from volume (repetition reveals truth), and recognize that early volatility doesn't indicate long-term outcomes.",
+    "tags": [
+        "statistics",
+        "probability",
+        "mathematics",
+        "sampling",
+        "risk"
+    ],
+    "category": "Principles",
+    "icon": "FaChartBar",
+    "featured": false,
+    "aliases": [
+        "LLN",
+        "Bernoulli's theorem",
+        "Convergence of averages"
+    ],
+    "relatedConcepts": [
+        "sample-size",
+        "central-limit-theorem",
+        "variance",
+        "expected-value",
+        "gamblers-fallacy",
+        "probability"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

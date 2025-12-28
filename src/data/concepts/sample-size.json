@@ -1,0 +1,44 @@
+{
+    "id": "sample-size",
+    "name": "Sample Size",
+    "summary": "The number of observations in a study, critical for the reliability and precision of findings.",
+    "explanation": "Sample size is the number of observations in a study or dataset - a critical determinant of how much you can learn from data. Why sample size matters: larger samples give more precise estimates (narrower confidence intervals), more statistical power (ability to detect real effects), and more reliable conclusions (less influenced by random variation). Problems with small samples: estimates are imprecise (high uncertainty), findings are unreliable (won't replicate), and extreme results are common (can be misleading). Problems with extremely large samples: trivially small effects become 'significant', costs may outweigh benefits, and practical significance gets lost. Determining appropriate sample size involves: power analysis (how many needed to detect expected effect?), considering effect size (smaller effects need larger samples), and balancing cost with precision. Rules of thumb vary by field, but more is generally better until diminishing returns. The key question: is this sample large enough to answer the question with acceptable precision? For knowledge workers, sample size thinking helps: evaluate credibility of findings, recognize when conclusions are premature, and understand that 'the data says' depends heavily on how much data there is.",
+    "tags": [
+        "statistics",
+        "research",
+        "methodology",
+        "analysis",
+        "reliability"
+    ],
+    "category": "Concepts",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "n",
+        "Number of observations",
+        "Study size"
+    ],
+    "relatedConcepts": [
+        "statistical-significance",
+        "effect-size",
+        "confidence-interval",
+        "law-of-large-numbers",
+        "research-methodology",
+        "statistical-power"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

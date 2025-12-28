@@ -1,0 +1,49 @@
+{
+    "id": "small-sample-fallacy",
+    "name": "Small Sample Fallacy",
+    "summary": "The error of drawing strong conclusions from insufficient data.",
+    "explanation": "The small sample fallacy (or law of small numbers) is the error of drawing confident conclusions from insufficient data - treating small samples as if they were representative of larger populations. The fallacy manifests as: overconfidence in patterns (seeing trends in noise), overgeneralizing from limited experience (one example becomes a rule), and underestimating variability (expecting small samples to look like large ones). Why it happens: we're pattern-seekers who find signal in noise, small samples often show extreme values (which are memorable), and we underestimate random variation. Examples: judging a restaurant by one meal, concluding a strategy works from few tries, or believing stereotypes based on limited encounters. Corrections include: demanding larger samples before concluding, expecting high variability in small datasets, asking 'how would I feel if the next few observations were opposite?', and distinguishing genuine patterns from statistical artifacts. The law of large numbers is real; the law of small numbers is a cognitive illusion. For knowledge workers, avoiding this fallacy means: not overinterpreting early results, maintaining appropriate uncertainty, and recognizing that anecdotes aren't data.",
+    "tags": [
+        "statistics",
+        "cognitive-biases",
+        "thinking",
+        "probability",
+        "research"
+    ],
+    "category": "Concepts",
+    "icon": "FaMinus",
+    "featured": false,
+    "aliases": [
+        "Law of small numbers",
+        "Insufficient sample",
+        "Hasty generalization"
+    ],
+    "relatedConcepts": [
+        "law-of-large-numbers",
+        "sample-size",
+        "cognitive-biases",
+        "anecdotal-evidence",
+        "variance",
+        "generalization"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

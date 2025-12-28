@@ -1,0 +1,44 @@
+{
+    "id": "variance",
+    "name": "Variance",
+    "summary": "A measure of the spread of values, calculated as the average squared deviation from the mean.",
+    "explanation": "Variance measures how spread out data points are from their mean - specifically, the average of squared deviations from the mean. Higher variance means more spread; lower variance means values cluster tightly. Variance is the square of standard deviation. Why squared: it makes all deviations positive (negatives don't cancel positives), and it penalizes large deviations more heavily. Practical interpretations: low variance means predictability and consistency; high variance means uncertainty and volatility. Applications include: portfolio risk (variance of returns), quality control (variance in production), and uncertainty quantification. Related concepts: standard deviation (square root of variance, same units as data), coefficient of variation (variance relative to mean), and covariance (how two variables vary together). Bias-variance tradeoff: in machine learning, reducing variance (making predictions more consistent) often increases bias (systematic error), and vice versa. For knowledge workers, understanding variance helps: quantify uncertainty and risk, recognize when outcomes are predictable vs volatile, compare variability across different scales, and make better decisions under uncertainty.",
+    "tags": [
+        "statistics",
+        "measurement",
+        "risk",
+        "uncertainty",
+        "analysis"
+    ],
+    "category": "Concepts",
+    "icon": "FaExpandArrowsAlt",
+    "featured": false,
+    "aliases": [
+        "Statistical variance",
+        "Spread",
+        "Dispersion"
+    ],
+    "relatedConcepts": [
+        "standard-deviation",
+        "mean-median-mode",
+        "normal-distribution",
+        "risk",
+        "uncertainty",
+        "volatility"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "selection-bias",
+    "name": "Selection Bias",
+    "summary": "Distortion in analysis caused by non-random sampling or systematic exclusion of data.",
+    "explanation": "Selection bias occurs when the sample studied is not representative of the population you want to understand, leading to distorted conclusions. Common forms include: survivorship bias (only seeing successes, not failures), self-selection bias (volunteers differ from non-volunteers), attrition bias (dropouts differ from completers), and publication bias (positive results more likely published). Selection bias is insidious because: the bias isn't visible in the data you have (you can't see what's missing), conclusions can be completely wrong (not just slightly off), and it affects both research and everyday reasoning. Examples: evaluating mutual funds based only on those still operating (survivors), learning from successful entrepreneurs without studying failed ones, or judging a program by graduates who completed it. Detecting selection bias: ask 'what's missing from this data?', consider who/what was excluded, and think about how the sample was generated. Mitigating selection bias: random sampling, intention-to-treat analysis, seeking disconfirming cases, and actively looking for what's absent. For knowledge workers, selection bias awareness helps: evaluate evidence more critically, recognize limitations in data, and avoid learning wrong lessons from incomplete information.",
+    "tags": [
+        "statistics",
+        "research",
+        "cognitive-biases",
+        "critical-thinking",
+        "analysis"
+    ],
+    "category": "Concepts",
+    "icon": "FaFilter",
+    "featured": false,
+    "aliases": [
+        "Sampling bias",
+        "Sample selection bias",
+        "Non-response bias"
+    ],
+    "relatedConcepts": [
+        "survivorship-bias",
+        "confirmation-bias",
+        "sample-size",
+        "research-literacy",
+        "critical-thinking",
+        "data-quality"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "central-limit-theorem",
+    "name": "Central Limit Theorem",
+    "summary": "The principle that averages of random samples tend toward normal distribution regardless of underlying distribution.",
+    "explanation": "The central limit theorem (CLT) states that when you take many random samples and compute their averages, these averages will be approximately normally distributed - regardless of the shape of the original distribution. This explains why normal distributions are so common: many real-world measurements are averages or sums of many factors. Key conditions: samples must be independent, sample size must be 'large enough' (often 30+), and the original distribution must have finite variance. Implications include: we can use normal distribution tools even for non-normal data (when working with averages), larger samples give more precise estimates (sampling distribution narrows), and confidence intervals and hypothesis tests work broadly (justified by CLT). Limitations: CLT doesn't apply when samples aren't independent, for very small samples, or for distributions without finite variance (fat-tailed). The CLT is why: poll margins of error make sense, quality control statistics work, and we can make inferences from samples. For knowledge workers, the CLT explains: why averaging works for estimation, why larger samples are better, and provides theoretical grounding for statistical inference.",
+    "tags": [
+        "statistics",
+        "probability",
+        "mathematics",
+        "sampling",
+        "theory"
+    ],
+    "category": "Principles",
+    "icon": "FaBell",
+    "featured": false,
+    "aliases": [
+        "CLT",
+        "Limit theorem",
+        "Sampling distribution theorem"
+    ],
+    "relatedConcepts": [
+        "normal-distribution",
+        "law-of-large-numbers",
+        "sample-size",
+        "confidence-interval",
+        "sampling",
+        "standard-deviation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

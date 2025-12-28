@@ -1,0 +1,44 @@
+{
+    "id": "statistical-significance",
+    "name": "Statistical Significance",
+    "summary": "A measure of whether observed results are likely due to chance or represent a real effect.",
+    "explanation": "Statistical significance indicates whether an observed result is likely due to chance or represents a real effect. Typically expressed as a p-value: the probability of seeing results this extreme if there were no real effect. Convention: p < 0.05 is 'significant' (less than 5% chance of occurring by random chance). Critical limitations: significant doesn't mean important (tiny effects can be significant with large samples), not significant doesn't mean no effect (might just lack power), the 0.05 threshold is arbitrary, and p-values don't measure probability the hypothesis is true. Common misunderstandings: p-value is NOT the probability the null hypothesis is true, significance doesn't equal practical importance, and p-hacking (testing many things until something is significant) invalidates results. Better practice: report effect sizes alongside significance, consider practical significance, use confidence intervals, and pre-register analyses. The replication crisis revealed: many 'significant' findings don't replicate. For knowledge workers, understanding statistical significance helps: interpret research claims critically, recognize that 'statistically significant' requires context, and avoid being fooled by p-values alone.",
+    "tags": [
+        "statistics",
+        "research",
+        "probability",
+        "analysis",
+        "science"
+    ],
+    "category": "Concepts",
+    "icon": "FaCheckDouble",
+    "featured": false,
+    "aliases": [
+        "p-value",
+        "Significance testing",
+        "Null hypothesis testing"
+    ],
+    "relatedConcepts": [
+        "effect-size",
+        "sample-size",
+        "confidence-interval",
+        "type-i-type-ii-errors",
+        "research-literacy",
+        "replication-crisis"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "ergodicity",
+    "name": "Ergodicity",
+    "summary": "Whether time averages equal ensemble averages - a crucial distinction for risk and decision-making.",
+    "explanation": "Ergodicity is a mathematical property describing whether the average outcome for one person over time equals the average outcome across many people at one time. In ergodic systems, these are equivalent. In non-ergodic systems, they diverge - often catastrophically. Classic example: Russian roulette. The 'ensemble average' (average across 100 people playing once) shows 83% survive. But the 'time average' (one person playing 100 times) approaches certain death. Expected value is positive, but no individual should play. Most real-world decisions are non-ergodic: you can't 'ensemble average' your way out of individual ruin. Consequences for decision-making: avoid risks of ruin (no recovery possible), maximize geometric rather than arithmetic returns, prioritize survival over optimization, and recognize that 'expected value' can be misleading. Non-ergodic thinking explains: why insurance is rational despite negative expected value, why diversification matters beyond reducing variance, and why 'average' outcomes don't predict individual trajectories. For knowledge workers, ergodicity thinking helps: evaluate risks that could end the game, recognize when statistical averages don't apply to individuals, and prioritize robustness over optimization.",
+    "tags": [
+        "statistics",
+        "probability",
+        "risk",
+        "decision-making",
+        "complexity"
+    ],
+    "category": "Concepts",
+    "icon": "FaInfinity",
+    "featured": true,
+    "aliases": [
+        "Time vs ensemble averages",
+        "Non-ergodicity",
+        "Ergodic theory"
+    ],
+    "relatedConcepts": [
+        "expected-value",
+        "risk-management",
+        "fat-tails",
+        "ruin",
+        "probability",
+        "decision-making"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Skin in the Game by Nassim Taleb",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
