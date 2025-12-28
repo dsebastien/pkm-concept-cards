@@ -1,0 +1,49 @@
+{
+    "id": "existentialism",
+    "name": "Existentialism",
+    "summary": "A philosophy emphasizing individual existence, freedom, choice, and the creation of meaning.",
+    "explanation": "Existentialism is a philosophical movement emphasizing individual existence, freedom, choice, and the creation of personal meaning. Core themes: existence precedes essence (you define yourself through choices, not predetermined nature), radical freedom (you're always free to choose, even in constraints), responsibility (freedom brings total responsibility for your choices), authenticity (living true to yourself, not conforming to external expectations), and anxiety (awareness of freedom and mortality creates existential anxiety). Key ideas: 'bad faith' (denying your freedom or responsibility), 'the absurd' (gap between human desire for meaning and universe's indifference), and 'creating meaning' (since meaning isn't given, we must create it). Key thinkers: Sartre, Camus, Heidegger, Kierkegaard, de Beauvoir. Existentialism confronts: meaninglessness (the challenge of creating purpose), death (mortality shapes how we live), isolation (fundamental aloneness of existence), and freedom (the burden of choice). For knowledge workers, existentialism offers: framework for personal meaning-making, permission to create your own path, understanding of anxiety as inherent to freedom, and challenge to live authentically rather than by others' expectations.",
+    "tags": [
+        "philosophy",
+        "meaning",
+        "freedom",
+        "authenticity",
+        "existence"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserAlt",
+    "featured": false,
+    "aliases": [
+        "Existentialist philosophy",
+        "Philosophy of existence",
+        "Existential thought"
+    ],
+    "relatedConcepts": [
+        "meaning",
+        "authenticity",
+        "freedom",
+        "anxiety",
+        "absurdism",
+        "philosophy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Man's Search for Meaning by Viktor Frankl",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

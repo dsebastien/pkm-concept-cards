@@ -1,0 +1,49 @@
+{
+    "id": "neostoicism",
+    "name": "Neostoicism",
+    "summary": "Modern revival of Stoic philosophy adapted for contemporary life and challenges.",
+    "explanation": "Neostoicism is the modern revival and adaptation of ancient Stoic philosophy for contemporary life. While classical Stoicism developed in ancient Greece and Rome, neostoicism applies these principles to modern challenges: work stress, digital distraction, consumerism, and anxiety. Core principles retained: focus on what you can control (dichotomy of control), virtue as the highest good, equanimity in face of adversity, living according to nature/reason, and memento mori (remembering mortality). Modern adaptations: cognitive behavioral therapy connections (examining thoughts), productivity applications (focus, resilience), secular approach (philosophy without metaphysical commitments), and practical exercises (negative visualization, journaling). Key neostoic thinkers: Massimo Pigliucci, Ryan Holiday, William Irvine. Why neostoicism resonates today: ancient wisdom for timeless human struggles, practical philosophy (actionable, not just theoretical), antidote to anxiety and overthinking, and compatible with modern psychology. For knowledge workers, neostoicism offers: framework for managing stress, perspective on setbacks and challenges, practices for equanimity, and philosophical foundation for professional resilience.",
+    "tags": [
+        "philosophy",
+        "stoicism",
+        "resilience",
+        "wisdom",
+        "modern-philosophy"
+    ],
+    "category": "Concepts",
+    "icon": "FaColumns",
+    "featured": false,
+    "aliases": [
+        "Modern Stoicism",
+        "Contemporary Stoicism",
+        "Applied Stoicism"
+    ],
+    "relatedConcepts": [
+        "stoicism",
+        "dichotomy-of-control",
+        "stoic-values",
+        "resilience",
+        "equanimity",
+        "philosophy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Obstacle Is the Way by Ryan Holiday",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
