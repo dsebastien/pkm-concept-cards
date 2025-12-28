@@ -1,5 +1,6 @@
-import { useEffect, useRef, useMemo, useState } from 'react'
+import { useEffect, useRef, useMemo, useState, useCallback } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import confetti from 'canvas-confetti'
 import {
     FaTimes,
     FaExternalLinkAlt,
@@ -22,6 +23,43 @@ import Markdown from '@/components/ui/markdown'
 import type { ConceptDetailModalProps } from '@/types/concept-detail-modal-props.intf'
 import type { Reference } from '@/types/reference.intf'
 import type { Book } from '@/types/book.intf'
+
+// Confetti celebration animation
+const triggerConfetti = () => {
+    const duration = 3000
+    const end = Date.now() + duration
+
+    const frame = () => {
+        confetti({
+            particleCount: 3,
+            angle: 60,
+            spread: 55,
+            origin: { x: 0, y: 0.7 },
+            colors: ['#e5007d', '#ff1493', '#ffd700', '#00ff88', '#00bfff']
+        })
+        confetti({
+            particleCount: 3,
+            angle: 120,
+            spread: 55,
+            origin: { x: 1, y: 0.7 },
+            colors: ['#e5007d', '#ff1493', '#ffd700', '#00ff88', '#00bfff']
+        })
+
+        if (Date.now() < end) {
+            requestAnimationFrame(frame)
+        }
+    }
+
+    // Initial burst
+    confetti({
+        particleCount: 100,
+        spread: 70,
+        origin: { y: 0.6 },
+        colors: ['#e5007d', '#ff1493', '#ffd700', '#00ff88', '#00bfff']
+    })
+
+    frame()
+}
 
 // Icons for reference types (books are displayed separately via BookList)
 const referenceTypeIcons: Record<string, React.ReactNode> = {
@@ -135,6 +173,53 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
         const nextIndex = currentIndex === sortedConcepts.length - 1 ? 0 : currentIndex + 1
         return sortedConcepts[nextIndex]
     }, [sortedConcepts, currentIndex])
+
+    // Track if collection was not fully explored when modal opened
+    const wasNotAllExploredOnOpen = useRef(false)
+    const lastCollectionKey = useRef<string>('')
+
+    // Generate a stable key for the current collection
+    const collectionKey = useMemo(() => {
+        return sortedConcepts.map((c) => c.id).join(',')
+    }, [sortedConcepts])
+
+    // Check if all concepts are explored
+    const checkAllExplored = useCallback(() => {
+        if (!isExplored || sortedConcepts.length === 0) return false
+        return sortedConcepts.every((c) => isExplored(c.id))
+    }, [sortedConcepts, isExplored])
+
+    // Capture state when modal opens or collection changes
+    useEffect(() => {
+        if (isOpen && concept) {
+            // If collection changed, reset the tracking
+            if (collectionKey !== lastCollectionKey.current) {
+                lastCollectionKey.current = collectionKey
+                // Check if NOT all explored when we open
+                wasNotAllExploredOnOpen.current = !checkAllExplored()
+            }
+        }
+    }, [isOpen, concept, collectionKey, checkAllExplored])
+
+    // Check for collection completion after concept is marked as explored
+    useEffect(() => {
+        if (!isOpen || !concept) return
+
+        // Small delay to ensure parent's markAsExplored has run
+        const timer = setTimeout(() => {
+            const allExplored = checkAllExplored()
+
+            // Show confetti only if:
+            // 1. All concepts are now explored
+            // 2. They weren't all explored when we opened the modal
+            if (allExplored && wasNotAllExploredOnOpen.current) {
+                triggerConfetti()
+                wasNotAllExploredOnOpen.current = false // Prevent re-triggering
+            }
+        }, 150)
+
+        return () => clearTimeout(timer)
+    }, [isOpen, concept, checkAllExplored])
 
     const handlePrevious = () => {
         if (prevConcept && sortedConcepts.length > 1) {
