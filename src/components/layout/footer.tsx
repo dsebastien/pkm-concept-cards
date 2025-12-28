@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import { FaHeart, FaBrain, FaDice, FaChartBar, FaCompass, FaFolder } from 'react-icons/fa'
+import { FaHeart, FaBrain, FaDice, FaChartBar, FaCompass, FaFolder, FaStar } from 'react-icons/fa'
 import resourcesData from '@/data/resources.json'
 import socialsData from '@/data/socials.json'
 import ConceptIcon from '@/components/concepts/concept-icon'
@@ -42,6 +42,13 @@ const Footer: React.FC = () => {
                         >
                             <FaFolder className='h-4 w-4' />
                             Categories
+                        </Link>
+                        <Link
+                            to='/featured'
+                            className='text-primary/70 hover:text-secondary mt-2 inline-flex items-center gap-2 text-sm transition-colors'
+                        >
+                            <FaStar className='h-4 w-4' />
+                            Featured
                         </Link>
                         <Link
                             to='/unexplored'

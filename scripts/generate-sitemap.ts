@@ -102,6 +102,14 @@ function generateSitemap(): string {
         priority: '0.7'
     })
 
+    // Add featured page
+    urls.push({
+        loc: `${BASE_URL}/featured`,
+        lastmod: today,
+        changefreq: 'weekly',
+        priority: '0.7'
+    })
+
     // Add each concept page
     for (const concept of concepts) {
         urls.push({
@@ -170,10 +178,11 @@ function writeSitemap(): void {
     console.log(`  - Random: 1 URL`)
     console.log(`  - Unexplored: 1 URL`)
     console.log(`  - Categories listing: 1 URL`)
+    console.log(`  - Featured: 1 URL`)
     console.log(`  - Concepts: ${concepts.length} URLs`)
     console.log(`  - Tags: ${allTags.length} URLs`)
     console.log(`  - Category pages: ${allCategories.length} URLs`)
-    console.log(`  - Total: ${concepts.length + allTags.length + allCategories.length + 5} URLs`)
+    console.log(`  - Total: ${concepts.length + allTags.length + allCategories.length + 6} URLs`)
 }
 
 writeSitemap()

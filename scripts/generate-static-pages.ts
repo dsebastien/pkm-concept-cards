@@ -1162,15 +1162,148 @@ mkdirSync(categoriesListingDir, { recursive: true })
 writeFileSync(join(categoriesListingDir, 'index.html'), generateCategoriesListingPageHtml())
 console.log('  ✓ Created categories listing page')
 
+// Generate featured concepts page
+console.log('Generating featured concepts page...')
+function generateFeaturedPageHtml(): string {
+    const featuredUrl = `${BASE_URL}/featured`
+    const title = 'Featured Concepts - Concepts'
+    const featuredConcepts = concepts.filter((c) => c.featured)
+    const description = `Explore ${featuredConcepts.length} featured concepts. Highlighted concepts worth exploring first.`
+
+    let html = indexHtml
+
+    // Update <title>
+    html = html.replace(/<title>.*?<\/title>/, `<title>${escapeHtml(title)}</title>`)
+
+    // Update canonical URL
+    html = html.replace(
+        /<link\s+rel="canonical"\s+href="[^"]*"\s*\/?>/,
+        `<link rel="canonical" href="${featuredUrl}" />`
+    )
+
+    // Update meta description
+    html = html.replace(
+        /<meta\s+name="description"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="description" content="${escapeHtml(description)}" />`
+    )
+
+    // Update Open Graph tags
+    html = html.replace(
+        /<meta\s+property="og:url"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:url" content="${featuredUrl}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:title"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:title" content="${escapeHtml(title)}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:description"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:description" content="${escapeHtml(description)}" />`
+    )
+
+    // Update Twitter tags
+    html = html.replace(
+        /<meta\s+name="twitter:url"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:url" content="${featuredUrl}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:title"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:title" content="${escapeHtml(title)}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:description"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:description" content="${escapeHtml(description)}" />`
+    )
+
+    // Generate featured page schema
+    const featuredSchema = {
+        '@context': 'https://schema.org',
+        '@graph': [
+            {
+                '@type': 'CollectionPage',
+                '@id': `${featuredUrl}#webpage`,
+                'name': title,
+                'description': description,
+                'url': featuredUrl,
+                'creator': { '@id': `${BASE_URL}/#person` },
+                'publisher': { '@id': `${BASE_URL}/#organization` },
+                'isPartOf': {
+                    '@type': 'WebSite',
+                    '@id': `${BASE_URL}/#website`,
+                    'name': 'Concepts',
+                    'url': BASE_URL
+                },
+                'inLanguage': 'en'
+            },
+            authorSchema,
+            publisherSchema,
+            {
+                '@type': 'BreadcrumbList',
+                '@id': `${featuredUrl}#breadcrumb`,
+                'itemListElement': [
+                    {
+                        '@type': 'ListItem',
+                        'position': 1,
+                        'name': 'Home',
+                        'item': BASE_URL
+                    },
+                    {
+                        '@type': 'ListItem',
+                        'position': 2,
+                        'name': 'Featured',
+                        'item': featuredUrl
+                    }
+                ]
+            }
+        ]
+    }
+
+    html = html.replace(
+        /<script type="application\/ld\+json">[\s\S]*?<\/script>/,
+        `<script type="application/ld+json">\n${JSON.stringify(featuredSchema, null, 12)}\n        </script>`
+    )
+
+    // Generate noscript content for featured page
+    const noscriptContent = `
+    <noscript>
+        <article class="noscript-content" style="max-width: 800px; margin: 0 auto; padding: 2rem; font-family: system-ui, sans-serif;">
+            <h1>Featured Concepts</h1>
+            <p>Highlighted concepts worth exploring first</p>
+            <p><strong>Total featured:</strong> ${featuredConcepts.length}</p>
+            <h2>Featured Concepts</h2>
+            <ul>
+${featuredConcepts
+    .sort((a, b) => a.name.localeCompare(b.name))
+    .map(
+        (c) =>
+            `                <li><a href="/concept/${c.id}">${escapeHtml(c.name)}</a> - ${escapeHtml(c.summary)}</li>`
+    )
+    .join('\n')}
+            </ul>
+            <p><a href="/">← Back to all concepts</a></p>
+        </article>
+    </noscript>`
+
+    html = html.replace('</body>', `${noscriptContent}\n    </body>`)
+
+    return html
+}
+
+const featuredDir = join(distDir, 'featured')
+mkdirSync(featuredDir, { recursive: true })
+writeFileSync(join(featuredDir, 'index.html'), generateFeaturedPageHtml())
+console.log('  ✓ Created featured concepts page')
+
 // Create 404.html for GitHub Pages fallback (copy of index.html)
 writeFileSync(join(distDir, '404.html'), indexHtml)
 console.log('  ✓ Created 404.html fallback')
 
-console.log(`\n✓ Static pages generated: ${conceptCount + tagCount + categoryCount + 5} total`)
+console.log(`\n✓ Static pages generated: ${conceptCount + tagCount + categoryCount + 6} total`)
 console.log(`  - Homepage: 1`)
 console.log(`  - Statistics: 1`)
 console.log(`  - Random: 1`)
 console.log(`  - Categories listing: 1`)
+console.log(`  - Featured: 1`)
 console.log(`  - Concepts: ${conceptCount}`)
 console.log(`  - Tags: ${tagCount}`)
 console.log(`  - Category pages: ${categoryCount}`)
