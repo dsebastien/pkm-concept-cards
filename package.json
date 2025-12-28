@@ -15,6 +15,7 @@
     "homepage": "https://concepts.dsebastien.net",
     "scripts": {
         "add-product-links": "bun ./scripts/add-product-links.ts",
+        "dedupe-concepts": "tsx ./scripts/dedupe-concepts.ts",
         "dev": "vite",
         "build": "tsc && vite build && tsx scripts/generate-static-pages.ts && tsx scripts/generate-sitemap.ts && tsx scripts/generate-llms-txt.ts",
         "preview": "vite preview",
