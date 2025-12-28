@@ -1,0 +1,56 @@
+{
+    "id": "personal-operating-system",
+    "name": "Personal Operating System",
+    "summary": "A framework for how you organize life, make decisions, and operate on a daily basis.",
+    "explanation": "A Personal Operating System (POS) is your intentionally designed framework for how you live, work, and make decisions. Like a computer's OS manages resources and runs programs, your POS includes your values, principles, habits, routines, systems, and decision-making frameworks. Components typically include: core values and principles (your foundation), goals and vision (your direction), habits and routines (daily operations), productivity systems (task and time management), information management (PKM), decision frameworks (how you choose), and review processes (iteration and improvement). The value of making this explicit is that you can consciously design and optimize it rather than operating on unconscious defaults. Your POS should be documented (often in a PKM system), regularly reviewed, and continuously refined. It's not about rigidity but about intentional design that frees mental energy for creative work.",
+    "tags": [
+        "systems",
+        "personal-organization",
+        "productivity",
+        "life-design",
+        "frameworks"
+    ],
+    "category": "Systems",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": [
+        "Life OS",
+        "Personal system",
+        "Operating framework"
+    ],
+    "relatedConcepts": [
+        "personal-system",
+        "lifeos",
+        "pkm",
+        "gtd",
+        "second-brain",
+        "periodic-reviews",
+        "personal-manifesto",
+        "habits-define-identity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,43 @@
+{
+    "id": "overlearning",
+    "name": "Overlearning",
+    "summary": "Continuing practice beyond initial mastery to achieve deeper retention and automaticity.",
+    "explanation": "Overlearning is the process of continuing to practice or study something after you've reached initial proficiency. While it might seem like wasted effort, overlearning provides significant benefits: stronger memory traces, greater resistance to forgetting under stress, faster retrieval, and automaticity (performing without conscious thought). Musicians, athletes, and emergency responders rely on overlearning to perform flawlessly under pressure. However, overlearning has diminishing returns - the first repetitions after mastery provide the most benefit. Research suggests stopping practice after 50-100% additional repetitions beyond mastery. For knowledge workers, overlearning is valuable for: critical skills that must work under pressure, foundational knowledge that supports higher-level thinking, and frequently-used procedures. But for most learning, time is better spent on spaced repetition or learning new material rather than excessive overlearning.",
+    "tags": [
+        "learning",
+        "memory",
+        "deliberate-practice",
+        "mastery",
+        "skill-building"
+    ],
+    "category": "Concepts",
+    "icon": "FaRedo",
+    "featured": false,
+    "aliases": [
+        "Over-practice",
+        "Practice beyond mastery"
+    ],
+    "relatedConcepts": [
+        "deliberate-practice",
+        "automaticity",
+        "spaced-repetition",
+        "four-stages-of-competence",
+        "chunking",
+        "mastery-learning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

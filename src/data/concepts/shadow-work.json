@@ -1,0 +1,54 @@
+{
+    "id": "shadow-work",
+    "name": "Shadow Work",
+    "summary": "The process of exploring and integrating unconscious aspects of your personality.",
+    "explanation": "Shadow work, based on Carl Jung's concept of the 'shadow,' involves exploring and integrating the parts of yourself you've repressed, denied, or hidden - often because they were deemed unacceptable during childhood. The shadow contains not just negative traits (anger, selfishness, jealousy) but also positive ones (creativity, power, sexuality) that were suppressed. These disowned parts don't disappear; they operate unconsciously, often emerging as projections onto others, self-sabotage, or emotional triggers. Shadow work involves: recognizing what triggers strong reactions in others (often mirror suppressed traits), examining recurring patterns and self-defeating behaviors, accepting these parts exist without judgment, and consciously integrating them. While often done with therapeutic support, journaling, dream analysis, and honest self-reflection can help. Integration doesn't mean acting on shadow impulses but acknowledging and channeling that energy constructively.",
+    "tags": [
+        "psychology",
+        "jung",
+        "self-awareness",
+        "personal-growth",
+        "unconscious"
+    ],
+    "category": "Concepts",
+    "icon": "FaMoon",
+    "featured": false,
+    "aliases": [
+        "Shadow integration",
+        "Jungian shadow work"
+    ],
+    "relatedConcepts": [
+        "self-awareness",
+        "inner-critic",
+        "journaling",
+        "self-sabotage",
+        "cognitive-behavioral-therapy",
+        "emotional-intelligence",
+        "projection"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Owning Your Own Shadow by Robert Johnson",
+            "url": "https://amzn.to/3DkWnRs",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Journaling Deep Dive Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

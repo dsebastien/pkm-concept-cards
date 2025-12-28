@@ -1,0 +1,49 @@
+{
+    "id": "self-efficacy",
+    "name": "Self-Efficacy",
+    "summary": "Your belief in your ability to succeed in specific situations or accomplish specific tasks.",
+    "explanation": "Self-efficacy, developed by psychologist Albert Bandura, refers to your belief in your ability to succeed in specific situations or accomplish particular tasks. Unlike general self-confidence, self-efficacy is domain-specific - you might have high self-efficacy for public speaking but low self-efficacy for coding. Bandura identified four sources of self-efficacy: mastery experiences (past successes), vicarious experiences (seeing others succeed), verbal persuasion (encouragement from others), and physiological states (how you interpret stress and emotions). High self-efficacy leads to greater effort, persistence, and resilience. For knowledge workers, building self-efficacy in key skills is crucial for tackling challenging projects. Start with small wins to build mastery, find role models who've achieved similar goals, and reframe anxiety as excitement rather than fear.",
+    "tags": [
+        "psychology",
+        "motivation",
+        "confidence",
+        "bandura",
+        "personal-growth"
+    ],
+    "category": "Concepts",
+    "icon": "FaFistRaised",
+    "featured": false,
+    "aliases": [
+        "Self-belief",
+        "Task-specific confidence"
+    ],
+    "relatedConcepts": [
+        "growth-mindset",
+        "impostor-syndrome",
+        "learned-helplessness",
+        "locus-of-control",
+        "small-wins",
+        "deliberate-practice",
+        "four-stages-of-competence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Self-Efficacy: The Exercise of Control by Albert Bandura",
+            "url": "https://amzn.to/3Dm8CtB",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

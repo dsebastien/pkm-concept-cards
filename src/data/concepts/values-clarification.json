@@ -1,0 +1,54 @@
+{
+    "id": "values-clarification",
+    "name": "Values Clarification",
+    "summary": "The process of identifying, examining, and prioritizing your personal values.",
+    "explanation": "Values clarification is the process of discovering what truly matters to you by examining your beliefs, behaviors, and life choices. Values are core principles that guide decisions and define what you consider important - things like integrity, creativity, family, adventure, security, or growth. The process often involves exercises like: ranking values from a list, identifying values from peak life experiences, noticing what triggers strong emotional reactions, and examining how you actually spend time and money. Once clarified, values serve as a decision-making compass and help explain internal conflicts (often caused by competing values). For knowledge workers, values clarification helps align work with meaning, set appropriate boundaries, and make career decisions that won't lead to regret. Many people discover their stated values don't match their lived values, creating an opportunity for intentional realignment.",
+    "tags": [
+        "values",
+        "self-awareness",
+        "personal-growth",
+        "decision-making",
+        "life-design"
+    ],
+    "category": "Techniques",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": [
+        "Value identification",
+        "Core values discovery"
+    ],
+    "relatedConcepts": [
+        "personal-value-system",
+        "values-and-beliefs",
+        "personal-manifesto",
+        "ikigai",
+        "life-audit",
+        "decision-making-power",
+        "regret-minimization-framework"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Values Factor by John F. Demartini",
+            "url": "https://amzn.to/4gMpZ3T",
+            "type": "book"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

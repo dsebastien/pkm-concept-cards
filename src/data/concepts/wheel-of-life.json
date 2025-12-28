@@ -1,0 +1,49 @@
+{
+    "id": "wheel-of-life",
+    "name": "Wheel of Life",
+    "summary": "A visual tool for assessing satisfaction across different life domains to identify areas needing attention.",
+    "explanation": "The Wheel of Life is a coaching and self-assessment tool that helps visualize satisfaction levels across key life areas. Typically drawn as a circle divided into 8-12 segments representing domains like career, finances, health, relationships, family, personal growth, fun/recreation, and physical environment. You rate each area from 1-10 (center to edge), then connect the ratings to see if your 'wheel' is balanced enough to roll smoothly. A bumpy wheel indicates imbalance that can cause life to feel rough. The tool's power lies in its visual simplicity - imbalances become immediately obvious. It's commonly used in: coaching sessions, periodic reviews (quarterly/annually), life transitions, and when feeling generally 'off' but unsure why. The goal isn't perfect 10s everywhere (that's unrealistic), but conscious awareness of where you're investing energy and where neglect might be causing problems.",
+    "tags": [
+        "self-assessment",
+        "coaching",
+        "life-design",
+        "periodic-reviews",
+        "visualization"
+    ],
+    "category": "Tools",
+    "icon": "FaDharmachakra",
+    "featured": false,
+    "aliases": [
+        "Life wheel",
+        "Balance wheel",
+        "Life assessment wheel"
+    ],
+    "relatedConcepts": [
+        "life-audit",
+        "work-life-balance",
+        "values-clarification",
+        "periodic-reviews",
+        "goal-setting",
+        "personal-development-plan"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

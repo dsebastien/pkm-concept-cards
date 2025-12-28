@@ -1,0 +1,49 @@
+{
+    "id": "self-transcendence",
+    "name": "Self-Transcendence",
+    "summary": "Going beyond self-interest to connect with something larger than oneself.",
+    "explanation": "Self-transcendence refers to experiences and orientations that go beyond the individual self - connecting with something larger such as other people, nature, the universe, or a higher purpose. Maslow later added self-transcendence above self-actualization in his hierarchy, recognizing that the highest human development involves moving beyond personal concerns. Viktor Frankl emphasized that meaning comes from self-transcendent pursuits - focusing on others or a cause rather than oneself. Self-transcendence can occur through: service to others, spiritual practice, creative work, parenting, being part of something larger (movements, communities), experiences of awe in nature or art, and selfless love. Research links self-transcendence to greater wellbeing, reduced death anxiety, and deeper life satisfaction. For knowledge workers, self-transcendence suggests the most fulfilling work connects individual contribution to larger human progress.",
+    "tags": [
+        "psychology",
+        "spirituality",
+        "meaning",
+        "maslow",
+        "personal-growth"
+    ],
+    "category": "Concepts",
+    "icon": "FaInfinity",
+    "featured": false,
+    "aliases": [
+        "Transcending the self",
+        "Beyond ego"
+    ],
+    "relatedConcepts": [
+        "self-actualization",
+        "maslows-hierarchy-of-needs",
+        "peak-experiences",
+        "logotherapy",
+        "eudaimonia",
+        "meaning-and-purpose",
+        "ikigai"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Man's Search for Meaning by Viktor Frankl",
+            "url": "https://amzn.to/3DnK8pT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,50 @@
+{
+    "id": "inner-critic",
+    "name": "Inner Critic",
+    "summary": "The internal voice of harsh self-judgment and negative self-evaluation.",
+    "explanation": "The inner critic is that internal voice that judges, criticizes, and often harshly evaluates yourself. It might say things like 'You're not good enough,' 'Who do you think you are?' or 'You'll definitely fail.' While it often claims to be protective (preventing humiliation or failure), it usually causes more harm than help, contributing to anxiety, procrastination, and low self-esteem. The inner critic often developed from internalized messages from parents, teachers, or culture. Strategies for working with it include: recognizing it as a voice, not truth; giving it a name to create distance; understanding what it's trying to protect you from; responding with self-compassion; and distinguishing between healthy self-reflection and destructive self-attack. The goal isn't to silence it completely but to reduce its power and balance it with self-encouragement.",
+    "tags": [
+        "psychology",
+        "self-awareness",
+        "mental-health",
+        "self-compassion",
+        "mindset"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserTimes",
+    "featured": false,
+    "aliases": [
+        "Internal critic",
+        "Negative self-talk",
+        "Self-criticism"
+    ],
+    "relatedConcepts": [
+        "self-compassion",
+        "limiting-beliefs",
+        "impostor-syndrome",
+        "positive-self-talk",
+        "cognitive-distortions",
+        "perfectionism",
+        "shadow-work"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Self-Compassion by Kristin Neff",
+            "url": "https://amzn.to/3VhMpQ4",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

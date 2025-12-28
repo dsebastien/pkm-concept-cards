@@ -1,0 +1,48 @@
+{
+    "id": "comfort-zone",
+    "name": "Comfort Zone",
+    "summary": "A psychological state where activities feel familiar, routine, and safe, often limiting growth.",
+    "explanation": "The comfort zone is a psychological state in which a person feels familiar, safe, and at ease. While essential for recovery and stability, staying exclusively in your comfort zone limits learning and growth. Beyond the comfort zone lies the 'stretch zone' (also called learning or growth zone) where optimal development occurs - challenging enough to grow but not so overwhelming you shut down. Past that is the 'panic zone' where stress becomes counterproductive. The key is regularly expanding your comfort zone by taking calculated risks, embracing discomfort as a growth signal, and building tolerance for uncertainty. However, constant discomfort isn't the goal either - sustainable growth involves cycling between stretching and consolidating. For knowledge workers, this means taking on challenging projects, sharing work publicly, and developing new skills while maintaining a stable base.",
+    "tags": [
+        "psychology",
+        "personal-growth",
+        "learning",
+        "risk-taking",
+        "mindset"
+    ],
+    "category": "Concepts",
+    "icon": "FaCouch",
+    "featured": false,
+    "aliases": [
+        "Zone of comfort",
+        "Safe zone"
+    ],
+    "relatedConcepts": [
+        "growth-mindset",
+        "zone-of-proximal-development",
+        "deliberate-practice",
+        "fear-of-failure",
+        "resilience",
+        "stress-inoculation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Feel the Fear and Do It Anyway by Susan Jeffers",
+            "url": "https://amzn.to/4gJTkBW",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

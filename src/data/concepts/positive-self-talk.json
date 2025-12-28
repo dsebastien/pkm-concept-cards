@@ -1,0 +1,49 @@
+{
+    "id": "positive-self-talk",
+    "name": "Positive Self-Talk",
+    "summary": "Intentionally using supportive, encouraging internal dialogue to improve mindset and performance.",
+    "explanation": "Positive self-talk is the practice of consciously directing your internal dialogue toward supportive, encouraging, and constructive thoughts. It's not about toxic positivity or ignoring problems, but about speaking to yourself as you would to a good friend - with honesty, compassion, and encouragement. Research shows that positive self-talk improves performance, reduces anxiety, and builds resilience. Effective techniques include: reframing negative statements ('I can't do this' becomes 'This is challenging, and I'm learning'), using 'you' or your name for distance ('You've got this, Sarah'), focusing on effort rather than outcome ('I will prepare thoroughly' vs 'I must win'), and catching automatic negative thoughts to consciously replace them. For knowledge workers, positive self-talk is crucial when facing challenges, learning new skills, or recovering from setbacks. It's a skill that strengthens with practice.",
+    "tags": [
+        "psychology",
+        "mindset",
+        "mental-health",
+        "self-improvement",
+        "performance"
+    ],
+    "category": "Techniques",
+    "icon": "FaCommentDots",
+    "featured": false,
+    "aliases": [
+        "Self-encouragement",
+        "Internal cheerleader"
+    ],
+    "relatedConcepts": [
+        "inner-critic",
+        "self-compassion",
+        "growth-mindset",
+        "cognitive-reappraisal",
+        "cognitive-distortions",
+        "affirmations",
+        "resilience"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "What to Say When You Talk to Your Self by Shad Helmstetter",
+            "url": "https://amzn.to/3DpQ9X6",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

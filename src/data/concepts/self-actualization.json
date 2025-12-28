@@ -1,0 +1,49 @@
+{
+    "id": "self-actualization",
+    "name": "Self-Actualization",
+    "summary": "Maslow's highest need - realizing your full potential and becoming the best version of yourself.",
+    "explanation": "Self-actualization sits at the top of Abraham Maslow's hierarchy of needs, representing the desire to realize one's full potential and become everything one is capable of becoming. Unlike lower needs (survival, safety, belonging, esteem), self-actualization is about growth rather than deficiency. Self-actualized people tend to be creative, spontaneous, accepting of themselves and others, and focused on problems outside themselves. They experience frequent 'peak experiences' - moments of profound meaning and connection. Maslow estimated only about 2% of people fully reach this level, but working toward it is a lifelong journey. For knowledge workers, self-actualization connects to finding meaningful work, continuous growth, and contributing something unique to the world. PKM supports this by helping clarify values, track growth, and connect disparate ideas into personal insights.",
+    "tags": [
+        "psychology",
+        "personal-growth",
+        "maslow",
+        "motivation",
+        "potential"
+    ],
+    "category": "Concepts",
+    "icon": "FaMountain",
+    "featured": false,
+    "aliases": [
+        "Self-realization",
+        "Peak of Maslow's pyramid"
+    ],
+    "relatedConcepts": [
+        "maslows-hierarchy-of-needs",
+        "growth-mindset",
+        "ikigai",
+        "peak-experiences",
+        "eudaimonia",
+        "self-transcendence",
+        "intrinsic-motivation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Motivation and Personality by Abraham Maslow",
+            "url": "https://amzn.to/4gKMqZP",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

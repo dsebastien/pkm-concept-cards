@@ -1,0 +1,48 @@
+{
+    "id": "productive-failure",
+    "name": "Productive Failure",
+    "summary": "Struggling with problems before receiving instruction leads to deeper learning than instruction-first approaches.",
+    "explanation": "Productive failure is a learning design where students attempt to solve problems before being taught the relevant concepts or procedures. While they typically fail to find correct solutions, this struggle activates prior knowledge, highlights gaps in understanding, and primes the mind for subsequent instruction. Research by Manu Kapur shows that students who experience productive failure often outperform those who receive direct instruction first, particularly on transfer problems and conceptual understanding. The key is that failure is followed by instruction that addresses the gaps revealed. This challenges traditional teach-then-practice approaches. For knowledge workers, productive failure suggests: attempting challenges before looking up solutions, embracing confusion as a learning signal, and allowing time for struggle before seeking help. The struggle itself is a crucial part of deep learning, not an obstacle to it.",
+    "tags": [
+        "learning",
+        "problem-solving",
+        "education",
+        "cognitive-science",
+        "failure"
+    ],
+    "category": "Concepts",
+    "icon": "FaFlask",
+    "featured": false,
+    "aliases": [
+        "Learning from struggle",
+        "Struggle-first learning"
+    ],
+    "relatedConcepts": [
+        "desirable-difficulties",
+        "zone-of-proximal-development",
+        "failing-forward",
+        "growth-mindset",
+        "problem-based-learning",
+        "constructivism"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

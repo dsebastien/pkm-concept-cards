@@ -1,10 +1,13 @@
-import { useMemo } from 'react'
-import { Link, useNavigate } from 'react-router'
+import { useMemo, useCallback } from 'react'
+import { Link, useNavigate, useParams } from 'react-router'
 import { FaFolder, FaArrowLeft, FaArrowRight } from 'react-icons/fa'
 import Section from '@/components/ui/section'
 import { AnimatedPage, AnimatedHero, motion } from '@/components/ui/animated'
 import AnimatedCounter from '@/components/ui/animated-counter'
+import ConceptDetailModal from '@/components/concepts/concept-detail-modal'
 import { conceptsData } from '@/data'
+import { useExploredConcepts } from '@/hooks/use-explored-concepts'
+import type { Concept } from '@/types/concept'
 
 interface CategoryData {
     name: string
@@ -40,7 +43,9 @@ const iconColors = [
 ]
 
 const CategoriesPage: React.FC = () => {
+    const { conceptId } = useParams<{ conceptId?: string }>()
     const navigate = useNavigate()
+    const { isExplored } = useExploredConcepts()
 
     const categoryData = useMemo(() => {
         const concepts = conceptsData.concepts
@@ -68,9 +73,45 @@ const CategoriesPage: React.FC = () => {
         }
     }, [])
 
-    const handleCategoryClick = (category: string) => {
-        navigate(`/category/${encodeURIComponent(category)}`)
-    }
+    // Selected concept for modal
+    const selectedConcept = useMemo(() => {
+        if (!conceptId) return null
+        return conceptsData.concepts.find((c) => c.id === conceptId) || null
+    }, [conceptId])
+
+    const isDetailModalOpen = !!selectedConcept
+
+    const handleCategoryClick = useCallback(
+        (category: string) => {
+            navigate(`/category/${encodeURIComponent(category)}`)
+        },
+        [navigate]
+    )
+
+    const handleCloseDetails = useCallback(() => {
+        navigate('/categories')
+    }, [navigate])
+
+    const handleNavigateToConcept = useCallback(
+        (concept: Concept) => {
+            navigate(`/categories/concept/${concept.id}`)
+        },
+        [navigate]
+    )
+
+    const handleTagClick = useCallback(
+        (tag: string) => {
+            navigate(`/tag/${encodeURIComponent(tag)}`)
+        },
+        [navigate]
+    )
+
+    const handleCategoryClickFromModal = useCallback(
+        (category: string) => {
+            navigate(`/category/${encodeURIComponent(category)}`)
+        },
+        [navigate]
+    )
 
     return (
         <AnimatedPage>
@@ -170,6 +211,18 @@ const CategoriesPage: React.FC = () => {
                     </div>
                 </div>
             </Section>
+
+            {/* Detail Modal */}
+            <ConceptDetailModal
+                concept={selectedConcept}
+                allConcepts={conceptsData.concepts}
+                isOpen={isDetailModalOpen}
+                onClose={handleCloseDetails}
+                onNavigateToConcept={handleNavigateToConcept}
+                onTagClick={handleTagClick}
+                onCategoryClick={handleCategoryClickFromModal}
+                isExplored={isExplored}
+            />
         </AnimatedPage>
     )
 }

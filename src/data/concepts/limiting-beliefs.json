@@ -1,0 +1,49 @@
+{
+    "id": "limiting-beliefs",
+    "name": "Limiting Beliefs",
+    "summary": "Self-imposed mental constraints that hold you back from reaching your potential.",
+    "explanation": "Limiting beliefs are deeply held assumptions about yourself, others, or the world that constrain what you think is possible. Common examples include 'I'm not creative,' 'I'm too old to learn that,' or 'People like me don't succeed at this.' These beliefs often form in childhood or from past failures and operate unconsciously. They become self-fulfilling prophecies: if you believe you can't do something, you don't try, which confirms the belief. Identifying limiting beliefs requires honest self-reflection - notice when you use absolute language ('always,' 'never,' 'can't') or when fear seems disproportionate to the actual risk. Challenge them by finding counter-examples, reframing them as growth opportunities, and taking small actions that contradict them. The goal isn't blind optimism but accurate, empowering beliefs that serve your growth.",
+    "tags": [
+        "psychology",
+        "mindset",
+        "personal-growth",
+        "self-awareness",
+        "beliefs"
+    ],
+    "category": "Concepts",
+    "icon": "FaLock",
+    "featured": false,
+    "aliases": [
+        "Self-limiting beliefs",
+        "Mental blocks"
+    ],
+    "relatedConcepts": [
+        "growth-mindset",
+        "cognitive-distortions",
+        "learned-helplessness",
+        "self-efficacy",
+        "inner-critic",
+        "values-and-beliefs",
+        "belief-system-defenses"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Mindset by Carol Dweck",
+            "url": "https://amzn.to/4gNQBqZ",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "peak-experiences",
+    "name": "Peak Experiences",
+    "summary": "Maslow's concept of transcendent moments of profound joy, wonder, and meaning.",
+    "explanation": "Peak experiences, described by Abraham Maslow, are transcendent moments characterized by feelings of limitless horizons, being more powerful yet more helpless than ever before, great ecstasy, wonder, and awe. During peak experiences, people report losing track of time and space, feeling integrated and whole, perceiving the world as unified and meaningful. These moments often occur during: creative breakthroughs, athletic achievements, spiritual experiences, profound connections with others, encounters with nature or art, or moments of insight. Maslow believed peak experiences were more common in self-actualizing people but available to everyone. They can't be forced but conditions can be cultivated: reducing defensiveness, being open to experience, pursuing meaningful activities, and practicing presence. Understanding peak experiences helps identify what activities and contexts bring you closest to optimal human experience, informing life design and career choices.",
+    "tags": [
+        "psychology",
+        "maslow",
+        "transcendence",
+        "wellbeing",
+        "meaning"
+    ],
+    "category": "Concepts",
+    "icon": "FaMountain",
+    "featured": false,
+    "aliases": [
+        "Transcendent experiences",
+        "Optimal experiences"
+    ],
+    "relatedConcepts": [
+        "self-actualization",
+        "flow-state",
+        "maslows-hierarchy-of-needs",
+        "eudaimonia",
+        "mindfulness",
+        "ikigai",
+        "self-transcendence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Toward a Psychology of Being by Abraham Maslow",
+            "url": "https://amzn.to/3DnQz8T",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

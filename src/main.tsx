@@ -27,7 +27,9 @@ ReactDOM.createRoot(rootElement).render(
                     <Route path='/tag/:tagName' element={<HomePage />} />
                     <Route path='/category/:categoryName' element={<HomePage />} />
                     <Route path='/categories' element={<CategoriesPage />} />
+                    <Route path='/categories/concept/:conceptId' element={<CategoriesPage />} />
                     <Route path='/featured' element={<FeaturedPage />} />
+                    <Route path='/featured/concept/:conceptId' element={<FeaturedPage />} />
                     <Route path='/random' element={<RandomConceptPage />} />
                     <Route path='/statistics' element={<StatisticsPage />} />
                     <Route path='/unexplored' element={<UnexploredPage />} />

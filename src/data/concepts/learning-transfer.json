@@ -1,0 +1,49 @@
+{
+    "id": "learning-transfer",
+    "name": "Learning Transfer",
+    "summary": "The ability to apply knowledge or skills learned in one context to new, different situations.",
+    "explanation": "Learning transfer refers to applying knowledge, skills, or strategies learned in one context to a different context. This is often the ultimate goal of education - not just performing well on tests about what was taught, but using that learning in real-world situations. Transfer can be 'near' (applying to similar contexts) or 'far' (applying to very different contexts). Unfortunately, transfer is notoriously difficult - people often fail to apply knowledge to contexts even slightly different from where they learned it. Factors that improve transfer include: learning underlying principles rather than surface procedures, practicing with varied examples, explicitly teaching for transfer, making connections between contexts, and developing metacognitive awareness. For knowledge workers, intentionally building transfer means: seeking underlying principles, practicing in multiple contexts, and actively looking for connections between domains.",
+    "tags": [
+        "learning",
+        "education",
+        "cognitive-science",
+        "application",
+        "skill-building"
+    ],
+    "category": "Concepts",
+    "icon": "FaExternalLinkAlt",
+    "featured": false,
+    "aliases": [
+        "Transfer of learning",
+        "Knowledge transfer",
+        "Skill transfer"
+    ],
+    "relatedConcepts": [
+        "near-vs-far-transfer",
+        "analogical-learning",
+        "first-principles",
+        "mental-models",
+        "interleaving",
+        "cross-pollination-of-ideas"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "How People Learn II",
+            "url": "https://amzn.to/3DnM9Tk",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

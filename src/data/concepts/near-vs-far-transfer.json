@@ -1,0 +1,43 @@
+{
+    "id": "near-vs-far-transfer",
+    "name": "Near vs Far Transfer",
+    "summary": "Near transfer applies to similar contexts; far transfer applies to very different domains - and is much harder.",
+    "explanation": "Near transfer occurs when learning applies to contexts very similar to the original learning situation - same type of problems, similar domains, comparable settings. Far transfer applies learning to very different contexts - different domains, novel problems, unfamiliar settings. Research consistently shows near transfer is relatively easy, but far transfer is difficult and rare. Claims that skills like 'critical thinking' or 'learning to code' transfer broadly are often overstated. What transfers tends to be: deep structural understanding rather than surface procedures, abstract principles rather than specific examples, and metacognitive strategies. For knowledge workers wanting far transfer, focus on: learning principles rather than just procedures, deliberately connecting ideas across domains, using analogical thinking, and practicing in varied contexts. Be skeptical of claims that any single skill or subject produces broad cognitive enhancement.",
+    "tags": [
+        "learning",
+        "cognitive-science",
+        "education",
+        "skill-building",
+        "transfer"
+    ],
+    "category": "Concepts",
+    "icon": "FaArrowsAlt",
+    "featured": false,
+    "aliases": [
+        "Transfer distance",
+        "Types of transfer"
+    ],
+    "relatedConcepts": [
+        "learning-transfer",
+        "analogical-learning",
+        "first-principles",
+        "mental-models",
+        "domain-expertise",
+        "t-shaped-skills"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

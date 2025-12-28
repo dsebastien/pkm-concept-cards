@@ -1,0 +1,48 @@
+{
+    "id": "analogical-learning",
+    "name": "Analogical Learning",
+    "summary": "Learning through comparison and analogy - mapping structures from familiar domains to new ones.",
+    "explanation": "Analogical learning uses comparisons between a familiar domain (the source) and a new domain (the target) to facilitate understanding. When learning about electricity, comparing it to water flowing through pipes helps map concepts: voltage is like water pressure, current like flow rate. Analogies work by highlighting structural similarities while acknowledging surface differences. Effective analogical learning involves: choosing good source analogs, explicitly mapping correspondences, noting where the analogy breaks down, and eventually building direct understanding of the target domain. Research shows comparing multiple analogies is often more effective than using just one. For knowledge workers, analogical thinking is crucial for: understanding new domains quickly, explaining complex concepts to others, creative problem-solving, and making connections across fields. Building a rich repertoire of mental models provides source analogs for future learning.",
+    "tags": [
+        "learning",
+        "thinking",
+        "creativity",
+        "cognitive-science",
+        "problem-solving"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Learning by analogy",
+        "Analogical reasoning"
+    ],
+    "relatedConcepts": [
+        "mental-models",
+        "learning-transfer",
+        "first-principles",
+        "cross-pollination-of-ideas",
+        "lateral-thinking",
+        "feynman-technique"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Surfaces and Essences by Douglas Hofstadter",
+            "url": "https://amzn.to/3DoN8pQ",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

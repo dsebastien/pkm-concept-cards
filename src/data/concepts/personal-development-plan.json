@@ -1,0 +1,50 @@
+{
+    "id": "personal-development-plan",
+    "name": "Personal Development Plan",
+    "summary": "A structured approach to intentional growth and skill development over time.",
+    "explanation": "A Personal Development Plan (PDP) is a structured document outlining your growth goals, the skills and knowledge you want to develop, and the actions you'll take to achieve them. Unlike vague intentions, a PDP makes development concrete and trackable. Key components include: self-assessment (current skills, strengths, gaps), goal setting (what you want to achieve/become), action plans (specific steps, resources, timelines), and review mechanisms (how you'll track progress). Effective PDPs are: specific enough to be actionable, realistic yet stretching, aligned with values and long-term vision, regularly reviewed and updated, and balanced across life domains. They're commonly used in: career development, academic settings, coaching relationships, and personal annual planning. For knowledge workers, a PDP helps ensure continuous growth rather than letting skills stagnate, and provides direction for learning investments.",
+    "tags": [
+        "personal-growth",
+        "planning",
+        "goal-setting",
+        "career",
+        "learning"
+    ],
+    "category": "Tools",
+    "icon": "FaRoute",
+    "featured": false,
+    "aliases": [
+        "PDP",
+        "Growth plan",
+        "Development roadmap"
+    ],
+    "relatedConcepts": [
+        "goal-setting",
+        "smart-goals",
+        "life-design",
+        "values-clarification",
+        "life-audit",
+        "periodic-reviews",
+        "continuous-improvement"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

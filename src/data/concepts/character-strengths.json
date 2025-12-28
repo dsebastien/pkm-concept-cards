@@ -1,0 +1,54 @@
+{
+    "id": "character-strengths",
+    "name": "Character Strengths",
+    "summary": "The VIA classification of 24 positive personality traits organized under six core virtues.",
+    "explanation": "Character strengths are positive traits that energize you and feel authentic when expressed. The VIA (Values in Action) Classification, developed by Martin Seligman and Christopher Peterson, identifies 24 character strengths organized under six core virtues: Wisdom (creativity, curiosity, open-mindedness, love of learning, perspective), Courage (bravery, persistence, integrity, vitality), Humanity (love, kindness, social intelligence), Justice (teamwork, fairness, leadership), Temperance (forgiveness, humility, prudence, self-regulation), and Transcendence (appreciation of beauty, gratitude, hope, humor, spirituality). Research shows using your top 'signature strengths' daily increases happiness and engagement. Unlike skills, strengths feel effortless and energizing. The VIA assessment (free online) helps identify your unique profile. For knowledge workers, knowing your strengths helps choose fulfilling work, collaborate effectively, and understand why some tasks drain you while others energize you.",
+    "tags": [
+        "psychology",
+        "positive-psychology",
+        "personal-growth",
+        "self-awareness",
+        "strengths"
+    ],
+    "category": "Concepts",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": [
+        "VIA Character Strengths",
+        "Signature strengths"
+    ],
+    "relatedConcepts": [
+        "positive-psychology",
+        "values-clarification",
+        "sparketype",
+        "ikigai",
+        "self-awareness",
+        "multiple-intelligences",
+        "perma-model"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Character Strengths and Virtues by Peterson & Seligman",
+            "url": "https://amzn.to/3DnoP4R",
+            "type": "book"
+        },
+        {
+            "title": "VIA Character Strengths Survey",
+            "url": "https://www.viacharacter.org/survey/account/register",
+            "type": "website"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

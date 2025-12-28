@@ -1,0 +1,50 @@
+{
+    "id": "life-audit",
+    "name": "Life Audit",
+    "summary": "A systematic review of all life areas to identify what's working, what's not, and what needs to change.",
+    "explanation": "A life audit is a structured self-assessment process where you evaluate different areas of your life to gain clarity on your current situation, satisfaction levels, and desired changes. Typically it covers domains like career, relationships, health, finances, personal growth, recreation, environment, and contribution. The process involves: rating satisfaction in each area (often 1-10), identifying gaps between current and desired states, uncovering root causes, and creating action plans. Life audits work well as annual or semi-annual reviews, often done at natural transition points like New Year or birthdays. They prevent drift - the tendency to let life happen to you rather than directing it. For knowledge workers, a life audit can reveal whether you're investing time in what truly matters, highlight neglected areas, and ensure career success doesn't come at the cost of wellbeing or relationships.",
+    "tags": [
+        "self-reflection",
+        "planning",
+        "personal-growth",
+        "periodic-reviews",
+        "life-design"
+    ],
+    "category": "Techniques",
+    "icon": "FaClipboardCheck",
+    "featured": false,
+    "aliases": [
+        "Life review",
+        "Life assessment",
+        "Personal audit"
+    ],
+    "relatedConcepts": [
+        "wheel-of-life",
+        "periodic-reviews",
+        "life-design",
+        "values-clarification",
+        "goal-setting",
+        "personal-manifesto",
+        "ikigai"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

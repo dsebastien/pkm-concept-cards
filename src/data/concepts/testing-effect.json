@@ -1,0 +1,54 @@
+{
+    "id": "testing-effect",
+    "name": "Testing Effect",
+    "summary": "Learning is enhanced when you retrieve information through testing rather than just re-reading or reviewing.",
+    "explanation": "The testing effect (also called retrieval practice or the retrieval effect) demonstrates that actively recalling information strengthens memory more than passive re-reading. When you test yourself - whether through flashcards, practice problems, or simply trying to recall what you learned - you're not just assessing knowledge, you're enhancing it. Each retrieval attempt strengthens neural pathways and improves long-term retention. Research shows that even unsuccessful retrieval attempts (followed by feedback) improve learning more than additional study time. This challenges the common intuition that testing merely measures learning. For knowledge workers and learners, this means: quiz yourself regularly, use flashcard apps like Anki, practice explaining concepts without notes, and embrace the struggle of retrieval as a feature, not a bug. The testing effect combines powerfully with spaced repetition for optimal long-term learning.",
+    "tags": [
+        "learning",
+        "memory",
+        "cognitive-science",
+        "study-techniques",
+        "retrieval"
+    ],
+    "category": "Concepts",
+    "icon": "FaQuestionCircle",
+    "featured": false,
+    "aliases": [
+        "Retrieval practice",
+        "Retrieval effect",
+        "Test-enhanced learning"
+    ],
+    "relatedConcepts": [
+        "active-recall",
+        "spaced-repetition",
+        "desirable-difficulties",
+        "generation-effect",
+        "forgetting-curve",
+        "leitner-system"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Make It Stick by Peter Brown",
+            "url": "https://amzn.to/3DpT8v2",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

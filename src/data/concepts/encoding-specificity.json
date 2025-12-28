@@ -1,0 +1,43 @@
+{
+    "id": "encoding-specificity",
+    "name": "Encoding Specificity",
+    "summary": "Memory retrieval is better when the context at recall matches the context during learning.",
+    "explanation": "The encoding specificity principle, established by Endel Tulving, states that memory retrieval is most effective when the cues present at recall match the cues present during encoding (learning). This includes physical environment, emotional state, and even body position. Famous experiments showed that divers who learned underwater recalled better underwater, and those who learned on land recalled better on land. This explains why you might forget why you walked into a room but remember when you return to where you started. For learners, this suggests: studying in conditions similar to where you'll need the knowledge, using consistent retrieval cues, and being aware that context-dependent memory can both help and hinder recall. However, deliberately varying study contexts can also create more flexible, context-independent learning.",
+    "tags": [
+        "learning",
+        "memory",
+        "cognitive-science",
+        "psychology",
+        "recall"
+    ],
+    "category": "Concepts",
+    "icon": "FaMapPin",
+    "featured": false,
+    "aliases": [
+        "Context-dependent memory",
+        "Encoding-retrieval match"
+    ],
+    "relatedConcepts": [
+        "state-dependent-learning",
+        "memory-palace",
+        "chunking",
+        "episodic-memory",
+        "semantic-memory",
+        "mnemonic-devices"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

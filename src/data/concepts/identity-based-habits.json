@@ -1,0 +1,49 @@
+{
+    "id": "identity-based-habits",
+    "name": "Identity-Based Habits",
+    "summary": "Changing behavior by focusing on who you want to become, not what you want to achieve.",
+    "explanation": "Identity-based habits, popularized by James Clear in Atomic Habits, shift the focus from outcome-based goals to identity change. Instead of 'I want to write a book' (outcome), you think 'I am a writer' (identity). This approach works because we naturally act in alignment with our self-image. Every action becomes a vote for the type of person you want to become. When your identity shifts, habits become expressions of who you are rather than obligations to fulfill. The process: decide who you want to be, prove it to yourself with small wins, and let evidence accumulate. For example, someone building a reading habit doesn't just read - they become 'a reader.' This makes the behavior more sustainable because you're not fighting against your identity but expressing it.",
+    "tags": [
+        "habits",
+        "behavior-change",
+        "identity",
+        "personal-growth",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaFingerprint",
+    "featured": false,
+    "aliases": [
+        "Identity-based change",
+        "Habit identity"
+    ],
+    "relatedConcepts": [
+        "habit-loop",
+        "habit-stacking",
+        "keystone-habits",
+        "habits-define-identity",
+        "compound-effect",
+        "small-wins",
+        "growth-mindset"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Atomic Habits by James Clear",
+            "url": "https://amzn.to/3ZqkV2t",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

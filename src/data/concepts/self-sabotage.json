@@ -1,0 +1,44 @@
+{
+    "id": "self-sabotage",
+    "name": "Self-Sabotage",
+    "summary": "Unconscious behaviors and thought patterns that undermine your own success and goals.",
+    "explanation": "Self-sabotage refers to behaviors or thought patterns that create problems in daily life and interfere with long-standing goals. Common forms include procrastination, negative self-talk, perfectionism, substance abuse, self-medication, comfort eating, and avoiding opportunities. Self-sabotage often stems from: fear of failure (if you don't try, you can't fail), fear of success (success brings new pressures), low self-worth (believing you don't deserve success), need for control (creating the outcome you expect), or secondary gains (the behavior serves some purpose). Addressing self-sabotage requires: recognizing patterns without judgment, understanding the underlying fear or belief, developing self-compassion, creating accountability, starting small to build confidence, and sometimes seeking professional help. For knowledge workers, self-sabotage might appear as missing deadlines, under-preparing for presentations, or consistently underperforming despite capability.",
+    "tags": [
+        "psychology",
+        "behavior",
+        "self-awareness",
+        "personal-growth",
+        "habits"
+    ],
+    "category": "Concepts",
+    "icon": "FaBomb",
+    "featured": false,
+    "aliases": [
+        "Self-defeating behavior",
+        "Self-handicapping"
+    ],
+    "relatedConcepts": [
+        "inner-critic",
+        "limiting-beliefs",
+        "procrastination",
+        "fear-of-failure",
+        "shadow-work",
+        "self-compassion",
+        "impostor-syndrome"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

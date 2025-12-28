@@ -1,0 +1,50 @@
+{
+    "id": "eudaimonia",
+    "name": "Eudaimonia",
+    "summary": "Aristotle's concept of flourishing, living well, and fulfilling one's potential through virtue.",
+    "explanation": "Eudaimonia (Greek: εὐδαιμονία) is Aristotle's term for the highest human good - often translated as 'happiness,' 'flourishing,' or 'well-being,' but meaning something deeper than mere pleasure. For Aristotle, eudaimonia is achieved through living virtuously, exercising reason, and fulfilling one's function (ergon) as a human being. It's not a feeling but a way of living - activity in accordance with virtue over a complete life. Modern positive psychology distinguishes eudaimonic wellbeing (meaning, growth, authenticity) from hedonic wellbeing (pleasure, comfort). Research suggests eudaimonic pursuits lead to deeper, more sustainable satisfaction. For knowledge workers, eudaimonia suggests focusing on mastery, meaningful contribution, and virtue rather than just achievement or pleasure. It's about being good, not just feeling good - and paradoxically, being good often leads to feeling good as a byproduct.",
+    "tags": [
+        "philosophy",
+        "aristotle",
+        "wellbeing",
+        "meaning",
+        "virtue"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Flourishing",
+        "Human flourishing",
+        "The good life"
+    ],
+    "relatedConcepts": [
+        "self-actualization",
+        "positive-psychology",
+        "perma-model",
+        "ikigai",
+        "meaning-and-purpose",
+        "stoicism",
+        "arete"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Nicomachean Ethics by Aristotle",
+            "url": "https://amzn.to/3DkM3Tn",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
