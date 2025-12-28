@@ -1,0 +1,40 @@
+{
+    "id": "waterfall-methodology",
+    "name": "Waterfall Methodology",
+    "summary": "A sequential project management approach where phases flow downward like a waterfall.",
+    "explanation": "The Waterfall methodology is a linear, sequential approach to project management where progress flows steadily downward through distinct phases. Each phase must be completed before the next begins, like water flowing over a series of steps.\n\nThe classic phases:\n\n1. **Requirements** - Gather and document all requirements upfront\n2. **Design** - Create system architecture and detailed design\n3. **Implementation** - Build the system according to design\n4. **Verification/Testing** - Test against requirements\n5. **Deployment** - Release to production\n6. **Maintenance** - Ongoing support and updates\n\nKey characteristics:\n\n- Sequential progression through phases\n- Extensive upfront planning and documentation\n- Formal sign-offs between phases (gates)\n- Changes are difficult and expensive once a phase completes\n- Emphasis on comprehensive documentation\n- Clear milestones and deliverables\n\nWhen Waterfall works well:\n\n- Requirements are well-understood and stable\n- Technology is mature and understood\n- Short projects with clear scope\n- Regulatory environments requiring documentation\n- Hardware projects or physical construction\n- Integration with external systems requiring fixed specs\n\nLimitations:\n\n- Late discovery of problems (testing comes last)\n- Difficulty accommodating change\n- Customer doesn't see working product until late\n- Assumes perfect understanding upfront\n- Risk of building the wrong thing\n- Long time to market\n\nWaterfall vs. Agile:\n\nWaterfall is often contrasted with Agile methodologies. Waterfall assumes you can know everything upfront; Agile assumes you'll learn as you go. The Agile Manifesto was largely a response to Waterfall's limitations in software development.\n\nModern perspective:\n\nFew teams use pure Waterfall today in software. However, elements of Waterfall thinking (upfront planning, phase gates, documentation) are often combined with iterative approaches in hybrid methodologies.",
+    "tags": [
+        "project-management",
+        "methodologies",
+        "planning",
+        "software-development",
+        "sequential",
+        "traditional"
+    ],
+    "category": "Frameworks",
+    "icon": "FaWater",
+    "featured": false,
+    "aliases": [
+        "Waterfall Model",
+        "Traditional Project Management",
+        "Linear Sequential Model"
+    ],
+    "relatedConcepts": [
+        "agile-manifesto",
+        "scrum",
+        "critical-path-method",
+        "project-charter",
+        "work-breakdown-structure"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Waterfall model - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Waterfall_model",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

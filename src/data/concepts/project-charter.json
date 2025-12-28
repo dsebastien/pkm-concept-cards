@@ -1,0 +1,40 @@
+{
+    "id": "project-charter",
+    "name": "Project Charter",
+    "summary": "A foundational document that formally authorizes a project and defines its scope.",
+    "explanation": "A project charter is a formal document that authorizes a project's existence and provides the project manager with authority to apply organizational resources. It serves as the foundational reference document throughout the project lifecycle.\n\nKey components of a project charter:\n\n1. **Project Purpose and Justification**\n   - Why are we doing this?\n   - Business need or opportunity\n   - Strategic alignment\n\n2. **Objectives and Success Criteria**\n   - What will be delivered?\n   - How will success be measured?\n   - Specific, measurable goals\n\n3. **Scope Overview**\n   - High-level deliverables\n   - What's included and excluded\n   - Key boundaries and constraints\n\n4. **Stakeholders**\n   - Project sponsor\n   - Key stakeholders\n   - Project manager\n   - Core team members\n\n5. **Timeline and Milestones**\n   - Target start and end dates\n   - Key milestone dates\n   - Dependencies on other initiatives\n\n6. **Budget and Resources**\n   - High-level budget estimate\n   - Resource requirements\n   - Funding source\n\n7. **Risks and Assumptions**\n   - Known risks\n   - Key assumptions\n   - Constraints\n\n8. **Authority and Approvals**\n   - Project manager's authority level\n   - Decision-making rights\n   - Sponsor signature\n\nWhy project charters matter:\n\n- Creates shared understanding of project scope\n- Formally authorizes resource allocation\n- Establishes project manager's authority\n- Serves as reference when scope creep occurs\n- Provides basis for saying no to out-of-scope requests\n\nThe charter should be concise (typically 1-3 pages) - it's not a detailed project plan. It's created during project initiation and approved by the sponsor before detailed planning begins.\n\nIn agile contexts, the charter might be lighter weight but the core purpose remains: alignment on what we're doing, why, and who's responsible.",
+    "tags": [
+        "project-management",
+        "planning",
+        "documentation",
+        "governance",
+        "scope",
+        "initiation"
+    ],
+    "category": "Techniques",
+    "icon": "FaFileContract",
+    "featured": false,
+    "aliases": [
+        "Project Initiation Document",
+        "PID",
+        "Project Brief"
+    ],
+    "relatedConcepts": [
+        "stakeholder-management",
+        "scope-creep",
+        "raci-matrix",
+        "work-breakdown-structure",
+        "team-charter"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Project charter - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Project_charter",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

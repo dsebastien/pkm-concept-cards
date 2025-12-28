@@ -1,0 +1,40 @@
+{
+    "id": "stakeholder-management",
+    "name": "Stakeholder Management",
+    "summary": "The systematic process of identifying, analyzing, and engaging project stakeholders.",
+    "explanation": "Stakeholder management is the practice of identifying all parties affected by or who can affect a project, understanding their interests and influence, and developing strategies to effectively engage them. It's critical for project success and organizational effectiveness.\n\nThe stakeholder management process:\n\n1. **Identify Stakeholders**\n   - Who is affected by the project?\n   - Who has influence over the project?\n   - Who has a vested interest in the outcome?\n   - Consider internal and external stakeholders\n\n2. **Analyze Stakeholders**\n   Power/Interest Grid:\n   - High Power, High Interest: Manage closely\n   - High Power, Low Interest: Keep satisfied\n   - Low Power, High Interest: Keep informed\n   - Low Power, Low Interest: Monitor\n\n   Also assess:\n   - Current attitude (supporter, neutral, resistor)\n   - Key concerns and motivations\n   - What they need from the project\n   - Communication preferences\n\n3. **Plan Engagement**\n   - Determine engagement approach for each group\n   - Define communication frequency and channels\n   - Identify who owns each relationship\n   - Prepare for resistance and objections\n\n4. **Engage and Monitor**\n   - Execute communication plan\n   - Gather feedback regularly\n   - Adjust strategies based on response\n   - Manage expectations proactively\n\nKey stakeholder groups:\n\n- Sponsors and executives\n- Team members and their managers\n- End users and customers\n- Vendors and partners\n- Regulatory bodies\n- Affected departments\n\nCommunication strategies:\n\n- Regular status updates\n- Milestone reviews\n- One-on-one meetings for key stakeholders\n- Town halls for broader groups\n- Written reports and dashboards\n\nCommon challenges:\n\n- Conflicting stakeholder interests\n- Stakeholders with hidden agendas\n- Changing stakeholder priorities\n- Stakeholder fatigue\n- Under-engaging resistant stakeholders",
+    "tags": [
+        "project-management",
+        "communication",
+        "relationships",
+        "strategy",
+        "leadership",
+        "politics"
+    ],
+    "category": "Techniques",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Stakeholder Engagement",
+        "Stakeholder Analysis"
+    ],
+    "relatedConcepts": [
+        "product-owner",
+        "raci-matrix",
+        "project-charter",
+        "conflict-resolution",
+        "trust-building",
+        "communication"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Stakeholder management - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stakeholder_management",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

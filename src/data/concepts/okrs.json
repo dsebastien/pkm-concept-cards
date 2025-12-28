@@ -1,0 +1,45 @@
+{
+    "id": "okrs",
+    "name": "OKRs",
+    "summary": "A goal-setting framework using Objectives and measurable Key Results.",
+    "explanation": "OKRs (Objectives and Key Results) is a goal-setting framework that helps organizations, teams, and individuals define and track objectives and their outcomes. Popularized by Intel's Andy Grove and later by Google's John Doerr, OKRs have become a staple in high-growth companies.\n\nThe structure:\n\n**Objective** - What you want to achieve\n- Qualitative and inspirational\n- Ambitious but achievable\n- Time-bound (typically quarterly)\n- Should be memorable and motivating\n\n**Key Results** - How you'll measure progress\n- Quantitative and measurable\n- 3-5 per objective\n- Specific and time-bound\n- Outcome-focused (not activities)\n\nExample:\n\nObjective: Become the market leader in customer satisfaction\n- KR1: Achieve NPS score of 70+ (currently 55)\n- KR2: Reduce customer support response time to under 2 hours\n- KR3: Reach 95% customer retention rate\n\nKey principles:\n\n1. Transparency - OKRs are public throughout the organization\n2. Alignment - Connect individual OKRs to team and company goals\n3. Stretch - Set ambitious goals (achieving 70% is often success)\n4. Decoupling - Separate from compensation/performance reviews\n5. Regular check-ins - Weekly or bi-weekly progress reviews\n\nTypes of OKRs:\n\n- Committed OKRs (must achieve, ~100% confidence)\n- Aspirational OKRs (moonshots, ~70% achievement is success)\n\nBenefits:\n\n- Focus - Forces prioritization of what matters most\n- Alignment - Connects individual work to company strategy\n- Tracking - Provides measurable progress indicators\n- Engagement - Gives clarity on what success looks like\n\nCommon mistakes:\n\n- Too many OKRs (3-5 objectives max)\n- Key Results that are tasks, not outcomes\n- Setting and forgetting (need regular review)\n- Tying directly to bonuses (encourages sandbagging)",
+    "tags": [
+        "goal-setting",
+        "frameworks",
+        "management",
+        "strategy",
+        "metrics",
+        "performance"
+    ],
+    "category": "Frameworks",
+    "icon": "FaBullseye",
+    "featured": false,
+    "aliases": [
+        "Objectives and Key Results",
+        "OKR Framework"
+    ],
+    "relatedConcepts": [
+        "smart-goals",
+        "kpis",
+        "north-star-metric",
+        "goal-setting",
+        "performance-reviews",
+        "big-hairy-audacious-goals"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Measure What Matters by John Doerr",
+            "url": "https://www.amazon.com/dp/0525536221?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "OKR - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/OKR",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

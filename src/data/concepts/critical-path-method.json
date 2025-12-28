@@ -1,0 +1,39 @@
+{
+    "id": "critical-path-method",
+    "name": "Critical Path Method",
+    "summary": "A project scheduling technique identifying the longest sequence of dependent tasks.",
+    "explanation": "The Critical Path Method (CPM) is a project scheduling algorithm that identifies the sequence of tasks that determines the minimum project duration. Any delay in critical path tasks directly delays the entire project.\n\nCore concepts:\n\n**Critical Path** - The longest sequence of dependent tasks from project start to finish. It represents the shortest possible project duration.\n\n**Float/Slack** - The amount of time a task can be delayed without affecting the project end date. Critical path tasks have zero float.\n\n**Dependencies** - Relationships between tasks:\n- Finish-to-Start (FS): Task B starts when A finishes\n- Start-to-Start (SS): Tasks begin together\n- Finish-to-Finish (FF): Tasks end together\n- Start-to-Finish (SF): Rare, task B finishes when A starts\n\nCalculating the critical path:\n\n1. List all tasks and their durations\n2. Identify dependencies between tasks\n3. Create a network diagram\n4. Perform forward pass (calculate earliest start/finish)\n5. Perform backward pass (calculate latest start/finish)\n6. Calculate float (latest start - earliest start)\n7. Tasks with zero float form the critical path\n\nExample:\n- Task A (3 days) → Task B (5 days) → Task D (2 days) = 10 days\n- Task A (3 days) → Task C (2 days) → Task D (2 days) = 7 days\n- Critical path: A → B → D (10 days)\n- Task C has 3 days of float\n\nUsing CPM in project management:\n\n- Focus attention on critical tasks\n- Identify where delays will impact schedule\n- Find opportunities for parallel work\n- Determine where adding resources helps\n- Make informed trade-off decisions\n\nLimitations:\n\n- Assumes accurate duration estimates\n- Doesn't account for resource constraints\n- Static - needs recalculation as project progresses\n- Doesn't handle uncertainty well (use PERT for that)\n\nCPM is most valuable for complex projects with many interdependent tasks where understanding the schedule drivers is critical.",
+    "tags": [
+        "project-management",
+        "planning",
+        "scheduling",
+        "techniques",
+        "dependencies",
+        "optimization"
+    ],
+    "category": "Techniques",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": [
+        "CPM",
+        "Critical Path Analysis",
+        "CPA"
+    ],
+    "relatedConcepts": [
+        "work-breakdown-structure",
+        "project-charter",
+        "waterfall-methodology",
+        "dependencies"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Critical path method - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Critical_path_method",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

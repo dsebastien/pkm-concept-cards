@@ -1,0 +1,41 @@
+{
+    "id": "kpis",
+    "name": "KPIs",
+    "summary": "Key Performance Indicators that measure progress toward important objectives.",
+    "explanation": "Key Performance Indicators (KPIs) are quantifiable measurements used to evaluate the success of an organization, team, or individual in achieving objectives. They provide focus, accountability, and a basis for data-driven decisions.\n\nCharacteristics of effective KPIs:\n\n1. Aligned - Connected to strategic objectives\n2. Measurable - Quantifiable with clear data sources\n3. Actionable - Team can influence the outcome\n4. Timely - Measured with appropriate frequency\n5. Simple - Easy to understand and communicate\n\nTypes of KPIs:\n\n**Leading indicators** - Predict future performance\n- Pipeline value (predicts revenue)\n- Customer engagement (predicts retention)\n- Training completion (predicts capability)\n\n**Lagging indicators** - Measure outcomes\n- Revenue achieved\n- Customer churn rate\n- Employee turnover\n\nExamples by function:\n\n**Sales:** Revenue, conversion rate, deal size, sales cycle length\n**Marketing:** CAC, leads generated, website traffic, brand awareness\n**Engineering:** Deployment frequency, defect rate, uptime, velocity\n**Customer Success:** NPS, churn rate, expansion revenue, time-to-value\n**HR:** Employee engagement, retention rate, time-to-hire\n\nBest practices:\n\n- Limit to 5-7 KPIs per team/area (focus matters)\n- Balance leading and lagging indicators\n- Review and update regularly (KPIs can become stale)\n- Visualize on dashboards for transparency\n- Understand the tradeoffs between metrics\n\nPitfalls to avoid:\n\n- Vanity metrics that don't drive decisions\n- Gaming - optimizing the metric, not the outcome\n- Too many KPIs (losing focus)\n- Ignoring qualitative context\n- Setting and forgetting\n\nKPIs work best when combined with a goal-setting framework like OKRs - KPIs provide the ongoing health metrics while OKRs drive change and improvement.",
+    "tags": [
+        "metrics",
+        "management",
+        "performance",
+        "strategy",
+        "measurement",
+        "data-driven"
+    ],
+    "category": "Techniques",
+    "icon": "FaChartBar",
+    "featured": false,
+    "aliases": [
+        "Key Performance Indicators",
+        "Performance Metrics",
+        "Business Metrics"
+    ],
+    "relatedConcepts": [
+        "okrs",
+        "north-star-metric",
+        "goodharts-law",
+        "smart-goals",
+        "performance-reviews",
+        "success-metrics"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Performance indicator - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Performance_indicator",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}

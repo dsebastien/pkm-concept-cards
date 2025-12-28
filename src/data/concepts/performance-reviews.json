@@ -1,0 +1,42 @@
+{
+    "id": "performance-reviews",
+    "name": "Performance Reviews",
+    "summary": "Formal assessments of employee performance, typically conducted annually or semi-annually.",
+    "explanation": "Performance reviews are structured evaluations of an employee's job performance and contribution, typically conducted at regular intervals. While often criticized, well-designed review processes remain important for feedback, development, and organizational alignment.\n\nPurposes of performance reviews:\n\n1. Feedback - Provide clear assessment of performance\n2. Development - Identify growth areas and create plans\n3. Recognition - Acknowledge contributions and achievements\n4. Alignment - Connect individual work to company goals\n5. Compensation - Inform decisions about pay and promotion\n6. Documentation - Create a record for HR purposes\n\nCommon review formats:\n\n- Annual reviews (traditional, often criticized as too infrequent)\n- Semi-annual reviews (better frequency)\n- Continuous performance management (modern approach)\n- 360-degree feedback (multi-source input)\n- Self-assessments combined with manager ratings\n\nComponents of effective reviews:\n\n1. Backward-looking: What was accomplished?\n   - Goals achieved vs. set\n   - Key accomplishments\n   - Areas needing improvement\n   - Demonstrated competencies\n\n2. Forward-looking: What's next?\n   - Goals for next period\n   - Development priorities\n   - Career aspirations\n   - Support needed\n\nBest practices:\n\n- No surprises - feedback should be ongoing throughout the year\n- Specific examples, not vague generalizations\n- Balanced - acknowledge strengths and growth areas\n- Two-way conversation, not a monologue\n- Document agreements and action items\n- Follow up on development plans\n\nModern trends:\n\n- Continuous feedback replacing annual events\n- Separation of development from compensation discussions\n- More frequent, lighter-weight check-ins\n- Real-time feedback tools and apps\n- Focus on growth mindset and coaching\n\nCommon pitfalls:\n\n- Recency bias (only remembering recent events)\n- Halo/horn effect (one aspect colors everything)\n- Central tendency (rating everyone average)\n- Comparing employees to each other, not expectations\n- Making it one-directional (no employee input)",
+    "tags": [
+        "management",
+        "feedback",
+        "development",
+        "human-resources",
+        "performance",
+        "careers"
+    ],
+    "category": "Techniques",
+    "icon": "FaClipboardCheck",
+    "featured": false,
+    "aliases": [
+        "Performance Appraisals",
+        "Performance Evaluations",
+        "Annual Reviews"
+    ],
+    "relatedConcepts": [
+        "giving-feedback",
+        "receiving-feedback",
+        "one-on-one-meetings",
+        "360-degree-feedback",
+        "okrs",
+        "kpis",
+        "personal-development-plan"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Performance appraisal - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Performance_appraisal",
+            "type": "website"
+        }
+    ],
+    "tutorials": []
+}
