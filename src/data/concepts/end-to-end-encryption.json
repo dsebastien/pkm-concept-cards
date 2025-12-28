@@ -1,0 +1,44 @@
+{
+    "id": "end-to-end-encryption",
+    "name": "End-to-End Encryption",
+    "summary": "Encryption where only communicating parties can read messages, not even service providers.",
+    "explanation": "End-to-end encryption (E2EE) is a communication system where only the sender and recipient can read the messages - not the service provider, not network operators, not anyone in between. The encryption keys exist only on the endpoints (your devices). How it differs from regular encryption: normal HTTPS encrypts data between you and a server (the server can read your data); E2EE means even the server can't decrypt your content. Benefits include: true privacy (only you and recipient can read messages), protection from service compromises (hackers who breach servers can't read encrypted content), and protection from insider threats (employees can't access your communications). Examples: Signal, WhatsApp (messages), ProtonMail (email), and some cloud storage services. Limitations: metadata may still be visible (who talked to whom, when), key verification can be complex (how do you know it's really them?), and backup/sync can compromise encryption (if backups aren't also E2EE). For knowledge workers, E2EE provides: confidential communications, protection for sensitive information, and privacy from surveillance - essential for discussing confidential matters digitally.",
+    "tags": [
+        "security",
+        "privacy",
+        "encryption",
+        "communication",
+        "technology"
+    ],
+    "category": "Concepts",
+    "icon": "FaLockOpen",
+    "featured": false,
+    "aliases": [
+        "E2EE",
+        "E2E encryption",
+        "Client-side encryption"
+    ],
+    "relatedConcepts": [
+        "encryption",
+        "data-confidentiality",
+        "data-privacy",
+        "zero-knowledge",
+        "secure-communication",
+        "privacy-by-design"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

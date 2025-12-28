@@ -1,0 +1,44 @@
+{
+    "id": "data-privacy",
+    "name": "Data Privacy",
+    "summary": "The right and ability to control how personal information is collected, used, and shared.",
+    "explanation": "Data privacy is the right and ability to control how personal information is collected, used, shared, and retained. It encompasses: collection limits (what data is gathered), use restrictions (how it can be used), sharing controls (who can access it), and retention policies (how long it's kept). Why data privacy matters: personal data reveals intimate details of life, misuse can cause real harm (identity theft, discrimination, manipulation), and power imbalances exist between individuals and data collectors. Privacy principles include: informed consent (knowing what's collected and why), purpose limitation (data used only for stated purposes), data minimization (collect only what's needed), and individual rights (access, correction, deletion). Threats to privacy: surveillance capitalism (business models based on data extraction), data breaches (unauthorized access), function creep (data used beyond original purpose), and aggregation (combining data reveals more than individual pieces). Privacy protection involves: understanding what you share, using privacy-preserving tools, exercising legal rights, and supporting privacy-respecting services. For knowledge workers, data privacy means: protecting personal information, respecting others' privacy in systems you build, and understanding the value and risks of data.",
+    "tags": [
+        "privacy",
+        "security",
+        "data",
+        "rights",
+        "technology"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserShield",
+    "featured": true,
+    "aliases": [
+        "Information privacy",
+        "Personal data protection",
+        "Privacy rights"
+    ],
+    "relatedConcepts": [
+        "data-confidentiality",
+        "consent-management",
+        "data-minimization",
+        "privacy-by-design",
+        "personal-data",
+        "digital-sovereignty"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "data-confidentiality",
+    "name": "Data Confidentiality",
+    "summary": "Protecting data from unauthorized access and ensuring only authorized parties can view it.",
+    "explanation": "Data confidentiality is the property that data is protected from unauthorized access - ensuring only those who should have access can view or use the information. It's one of the three pillars of information security (CIA: Confidentiality, Integrity, Availability). Confidentiality applies to: data at rest (stored on devices), data in transit (moving over networks), and data in use (while being processed). Threats to confidentiality: unauthorized access (hacking, insider threats), interception (eavesdropping on communications), social engineering (manipulating people to reveal information), and data leakage (accidental exposure). Protecting confidentiality involves: access controls (authentication, authorization), encryption (making data unreadable without keys), network security (secure protocols, firewalls), physical security (protecting devices and facilities), and policies (handling procedures, classification). Not all data requires the same protection - classification helps allocate resources appropriately (public, internal, confidential, secret). For knowledge workers, confidentiality means: protecting sensitive information, using encryption for private communications, understanding what data needs protection, and being careful about what you share and with whom.",
+    "tags": [
+        "security",
+        "privacy",
+        "data",
+        "protection",
+        "encryption"
+    ],
+    "category": "Concepts",
+    "icon": "FaLock",
+    "featured": false,
+    "aliases": [
+        "Data secrecy",
+        "Information confidentiality",
+        "Access control"
+    ],
+    "relatedConcepts": [
+        "data-integrity",
+        "data-availability",
+        "encryption",
+        "data-privacy",
+        "access-control",
+        "security"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

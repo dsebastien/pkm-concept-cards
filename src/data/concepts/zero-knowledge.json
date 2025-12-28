@@ -1,0 +1,44 @@
+{
+    "id": "zero-knowledge",
+    "name": "Zero Knowledge",
+    "summary": "A principle where service providers cannot access user data, even if they wanted to.",
+    "explanation": "Zero knowledge is a privacy principle where a service provider has no ability to access your data - they literally cannot read it even if they wanted to, were hacked, or were compelled by authorities. The provider has 'zero knowledge' of your content. How it works: your data is encrypted on your device before being sent to the server, using keys that only you possess. The server stores encrypted data but can never decrypt it. Zero knowledge vs regular encryption: regular services encrypt data but hold the keys (they can decrypt if needed); zero knowledge means they never have the keys. Benefits include: maximum privacy (no one can access your data without your key), protection from breaches (stolen encrypted data is useless), and trustless security (you don't have to trust the provider). Tradeoffs: password recovery may be impossible (lost key = lost data), some features are harder (search, sharing may be limited), and you must verify the implementation (claims aren't always reality). Zero knowledge services: some password managers, encrypted storage, and secure note-taking apps. For knowledge workers, zero knowledge provides: ultimate privacy for sensitive information, protection independent of provider trustworthiness.",
+    "tags": [
+        "security",
+        "privacy",
+        "encryption",
+        "trust",
+        "technology"
+    ],
+    "category": "Concepts",
+    "icon": "FaEyeSlash",
+    "featured": false,
+    "aliases": [
+        "Zero-knowledge encryption",
+        "Zero-knowledge architecture",
+        "No-knowledge"
+    ],
+    "relatedConcepts": [
+        "end-to-end-encryption",
+        "encryption",
+        "data-confidentiality",
+        "privacy-by-design",
+        "trust",
+        "data-privacy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

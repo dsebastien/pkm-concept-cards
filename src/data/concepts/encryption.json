@@ -1,0 +1,44 @@
+{
+    "id": "encryption",
+    "name": "Encryption",
+    "summary": "The process of encoding data so only authorized parties with the correct key can read it.",
+    "explanation": "Encryption is the process of encoding information so that only authorized parties with the correct decryption key can read it. It transforms readable data (plaintext) into unreadable form (ciphertext) using mathematical algorithms. Types of encryption: symmetric (same key encrypts and decrypts - fast, used for data), asymmetric (public/private key pairs - slower, enables key exchange and digital signatures), and hybrid (combines both). Where encryption is used: communications (HTTPS, messaging apps), storage (disk encryption, encrypted backups), and authentication (password hashing, digital certificates). Key management challenges: keys must be kept secure, lost keys mean lost data, and key distribution requires secure channels. Strong encryption is effectively unbreakable with current technology - security depends on key strength and protection. Encryption limitations: doesn't protect against compromised endpoints, metadata may reveal information even if content is encrypted, and key management is often the weakest link. For knowledge workers, encryption provides: privacy for communications, protection for stored data, security for sensitive information, and is essential for operating safely in digital environments.",
+    "tags": [
+        "security",
+        "privacy",
+        "technology",
+        "cryptography",
+        "protection"
+    ],
+    "category": "Concepts",
+    "icon": "FaKey",
+    "featured": false,
+    "aliases": [
+        "Data encryption",
+        "Cryptography",
+        "Encoding"
+    ],
+    "relatedConcepts": [
+        "data-confidentiality",
+        "end-to-end-encryption",
+        "data-privacy",
+        "security",
+        "key-management",
+        "hashing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "data-integrity",
+    "name": "Data Integrity",
+    "summary": "The accuracy, consistency, and reliability of data throughout its lifecycle.",
+    "explanation": "Data integrity refers to the accuracy, consistency, and reliability of data throughout its entire lifecycle - from creation through storage, use, and eventual deletion. It's one of the three pillars of information security (CIA: Confidentiality, Integrity, Availability). Dimensions of integrity include: accuracy (data correctly represents reality), consistency (data agrees across systems and time), completeness (no missing elements), and validity (data conforms to required formats and rules). Threats to integrity: accidental modification (human error, software bugs), malicious alteration (attacks, tampering), degradation (bit rot, media failure), and synchronization failures (conflicts between copies). Ensuring integrity involves: access controls (limit who can modify), audit trails (track changes), checksums and hashes (detect alterations), validation rules (prevent invalid data), and backup verification (ensure backups are intact). Integrity failures can be catastrophic: corrupted financial records, altered medical data, or tampered evidence. For knowledge workers, data integrity means: trusting that data is what it should be, implementing checks to catch corruption, maintaining accurate records, and designing systems that preserve integrity through changes.",
+    "tags": [
+        "security",
+        "data",
+        "quality",
+        "reliability",
+        "systems"
+    ],
+    "category": "Concepts",
+    "icon": "FaShieldAlt",
+    "featured": false,
+    "aliases": [
+        "Information integrity",
+        "Data accuracy",
+        "Data reliability"
+    ],
+    "relatedConcepts": [
+        "data-availability",
+        "data-confidentiality",
+        "data-quality",
+        "security",
+        "backup",
+        "validation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

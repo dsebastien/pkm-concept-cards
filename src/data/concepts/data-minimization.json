@@ -1,0 +1,44 @@
+{
+    "id": "data-minimization",
+    "name": "Data Minimization",
+    "summary": "The principle of collecting and retaining only the data that is necessary for a specific purpose.",
+    "explanation": "Data minimization is the principle of collecting and retaining only the minimum personal data necessary to accomplish a specific purpose - no more data than needed, kept no longer than required. It's a core principle of privacy regulations like GDPR. The principle asks: Do we need this data? Do we need this much detail? Do we need to keep it this long? Why it matters: data you don't have can't be breached, misused, or become a liability. More data means more risk with often marginal benefit. Implementation involves: collection limits (only gather what's necessary), purpose specification (clear reason for each data point), retention limits (delete when no longer needed), and anonymization (remove identifying information when possible). Benefits include: reduced breach impact (less data to steal), lower compliance burden (less data to protect), improved trust (users appreciate minimal collection), and forced clarity (must define why data is needed). Challenges: organizations often collect data 'just in case', analytics wants more data, and defining 'necessary' requires judgment. For knowledge workers, data minimization means: questioning data collection, protecting privacy by default, and recognizing that less data is often better.",
+    "tags": [
+        "privacy",
+        "security",
+        "data",
+        "principles",
+        "compliance"
+    ],
+    "category": "Principles",
+    "icon": "FaCompressArrowsAlt",
+    "featured": false,
+    "aliases": [
+        "Data economy",
+        "Minimal data collection",
+        "Need-to-know basis"
+    ],
+    "relatedConcepts": [
+        "data-privacy",
+        "privacy-by-design",
+        "consent-management",
+        "data-protection",
+        "gdpr",
+        "personal-data"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

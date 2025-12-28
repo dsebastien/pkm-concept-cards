@@ -1,0 +1,44 @@
+{
+    "id": "data-availability",
+    "name": "Data Availability",
+    "summary": "The assurance that data and systems are accessible when needed by authorized users.",
+    "explanation": "Data availability is the assurance that data and systems are accessible when needed by authorized users. It's one of the three pillars of information security (CIA: Confidentiality, Integrity, Availability). High availability matters because: unavailable data is effectively lost (even temporarily), downtime has real costs (business, safety, productivity), and some data is time-critical (delays reduce value). Threats to availability: hardware failure (disks, servers), software bugs (crashes, corruption), network issues (connectivity loss), attacks (DoS, ransomware), and disasters (fire, flood, power loss). Ensuring availability involves: redundancy (multiple copies, backup systems), fault tolerance (systems continue despite failures), backup and recovery (ability to restore), geographic distribution (survive site-specific disasters), and monitoring (detect and respond to issues). Availability is often measured as 'nines': 99% (3.65 days downtime/year), 99.9% (8.76 hours), 99.99% (52.6 minutes). Higher availability requires exponentially more investment. For knowledge workers, data availability means: ensuring access to information when needed, planning for failures, and balancing availability requirements with cost and complexity.",
+    "tags": [
+        "security",
+        "data",
+        "reliability",
+        "systems",
+        "infrastructure"
+    ],
+    "category": "Concepts",
+    "icon": "FaServer",
+    "featured": false,
+    "aliases": [
+        "System availability",
+        "High availability",
+        "Uptime"
+    ],
+    "relatedConcepts": [
+        "data-integrity",
+        "data-confidentiality",
+        "backup",
+        "redundancy",
+        "disaster-recovery",
+        "reliability"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
