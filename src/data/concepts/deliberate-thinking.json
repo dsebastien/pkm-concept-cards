@@ -1,0 +1,49 @@
+{
+    "id": "deliberate-thinking",
+    "name": "Deliberate Thinking",
+    "summary": "Conscious, effortful thinking applied intentionally to complex problems.",
+    "explanation": "Deliberate thinking is the conscious, effortful mode of cognition we engage when facing complex or important problems - as opposed to automatic, intuitive thinking. It requires attention, energy, and intention. Kahneman's System 2 captures this: slow, analytical, logical reasoning that we deploy for difficult calculations, complex decisions, and careful analysis. Characteristics include: conscious effort (feels like work), sequential processing (one step at a time), rule-following (logical operations), and self-aware (can monitor own thinking). When to use deliberate thinking: important decisions, complex problems, when intuition might be biased, unfamiliar situations, and when errors are costly. Limitations: it's slow, effortful, and depletes mental energy. We can't (and shouldn't) deliberate about everything. The skill is knowing when to engage deliberate thinking versus trusting intuition. Developing deliberate thinking: practice structured analysis, challenge your first impressions, ask 'what am I missing?', and create space (time, environment) for deep thought. For knowledge workers, deliberate thinking is essential for: strategic decisions, complex problem-solving, quality work, and avoiding costly errors from hasty judgment.",
+    "tags": [
+        "thinking",
+        "cognition",
+        "decision-making",
+        "analysis",
+        "metacognition"
+    ],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "System 2 thinking",
+        "Effortful thinking",
+        "Conscious reasoning"
+    ],
+    "relatedConcepts": [
+        "critical-thinking",
+        "metacognition",
+        "decision-making",
+        "deep-work",
+        "analytical-thinking",
+        "cognitive-load"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

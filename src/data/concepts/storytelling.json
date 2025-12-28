@@ -1,0 +1,49 @@
+{
+    "id": "storytelling",
+    "name": "Storytelling",
+    "summary": "Using narrative techniques to communicate ideas, engage audiences, and make content memorable.",
+    "explanation": "Storytelling is the art of using narrative techniques to communicate ideas, engage audiences, and make content memorable. Stories are how humans naturally process and remember information - we're wired for narrative. Why storytelling works: engages emotions (facts tell, stories sell), creates engagement (people want to know what happens next), aids memory (narratives are easier to remember than lists), and builds connection (we relate to characters and situations). Story elements: character (someone to follow), conflict (challenge or problem), journey (progression through events), and resolution (how it ends). Storytelling in non-fiction: case studies (real examples as narratives), anecdotes (brief illustrative stories), personal stories (your experience), and problem-solution (framing as narrative arc). Using storytelling: open with story (hook attention), illustrate concepts with examples (make abstract concrete), and structure as journey (take readers somewhere). Not everything needs to be story: balance narrative with direct explanation, don't force stories where they don't fit. For knowledge workers, storytelling skills help: make presentations compelling, write engaging content, communicate complex ideas accessibly, and build rapport with audiences.",
+    "tags": [
+        "writing",
+        "communication",
+        "narrative",
+        "engagement",
+        "creativity"
+    ],
+    "category": "Techniques",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": [
+        "Narrative",
+        "Story craft",
+        "Narrative communication"
+    ],
+    "relatedConcepts": [
+        "narrative-structure",
+        "communication",
+        "audience-awareness",
+        "engagement",
+        "presentation",
+        "show-dont-tell"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Story by Robert McKee",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

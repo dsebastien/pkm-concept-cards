@@ -1,0 +1,49 @@
+{
+    "id": "clarity-writing",
+    "name": "Clarity (Writing)",
+    "summary": "The quality of writing that makes meaning immediately understandable to readers.",
+    "explanation": "Clarity in writing is the quality that makes meaning immediately understandable to readers - they grasp what you mean without re-reading or guessing. Clear writing respects readers' time and attention. Elements of clarity: precise word choice (saying exactly what you mean), logical structure (ideas in sensible order), explicit connections (transitions showing relationships), and appropriate complexity (neither oversimplified nor unnecessarily complex). Clarity principles: one idea per sentence, concrete over abstract, active voice (usually), short words over long (when meaning is same), and front-load key information. Clarity enemies: jargon (when not needed), vague words (stuff, things, aspects), passive voice (when it hides responsibility), and complex structures (when simple works). Testing clarity: read aloud (hear confusion), have others read (do they understand?), return after time (fresh eyes catch issues), and check assumptions (is context needed?). Clarity vs sophistication: clear writing can be sophisticated - complexity should serve meaning, not obscure it. Simple doesn't mean simplistic. For knowledge workers, clarity is essential: unclear writing wastes readers' time, obscures good ideas, and undermines credibility. Clear communication is professional communication.",
+    "tags": [
+        "writing",
+        "communication",
+        "clarity",
+        "professional",
+        "craft"
+    ],
+    "category": "Concepts",
+    "icon": "FaGlasses",
+    "featured": false,
+    "aliases": [
+        "Clear writing",
+        "Plain language",
+        "Readability"
+    ],
+    "relatedConcepts": [
+        "writing-process",
+        "editing",
+        "conciseness",
+        "audience-awareness",
+        "communication",
+        "simplicity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Style: Lessons in Clarity and Grace by Joseph Williams",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

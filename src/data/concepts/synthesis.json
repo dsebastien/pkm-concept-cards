@@ -1,0 +1,44 @@
+{
+    "id": "synthesis",
+    "name": "Synthesis",
+    "summary": "Combining multiple ideas, sources, or elements into a coherent new whole.",
+    "explanation": "Synthesis is the cognitive process of combining multiple ideas, sources, perspectives, or elements into a coherent new whole that is more than the sum of its parts. It's a higher-order thinking skill that moves beyond summarizing to creating integrated understanding. How synthesis differs: summary compresses (same ideas, fewer words); analysis breaks apart (understanding components); synthesis combines (creating new understanding from parts). The synthesis process: gather diverse inputs, identify connections and patterns, reconcile contradictions, and construct integrated understanding. Levels of synthesis: connecting ideas within a single source, integrating multiple sources on one topic, synthesizing across disciplines, and creating novel frameworks from disparate inputs. Skills involved: pattern recognition, abstraction, integration, and creative recombination. Challenges: requires holding multiple ideas simultaneously, finding the 'throughline' that connects, and knowing what to include versus exclude. Synthesis is essential for: research (integrating literature), learning (connecting new knowledge to existing), and creation (combining influences into original work). For knowledge workers, synthesis is the key skill for: making sense of information abundance, creating valuable insights, and developing unique perspectives that integrate diverse inputs.",
+    "tags": [
+        "thinking",
+        "learning",
+        "creativity",
+        "integration",
+        "knowledge"
+    ],
+    "category": "Concepts",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": [
+        "Integrative thinking",
+        "Combining ideas",
+        "Knowledge synthesis"
+    ],
+    "relatedConcepts": [
+        "analytical-thinking",
+        "critical-thinking",
+        "pattern-recognition",
+        "creativity",
+        "learning",
+        "sense-making"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

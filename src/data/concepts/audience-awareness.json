@@ -1,0 +1,44 @@
+{
+    "id": "audience-awareness",
+    "name": "Audience Awareness",
+    "summary": "Understanding and writing for the specific people who will read your content.",
+    "explanation": "Audience awareness is understanding and writing for the specific people who will read your content - considering their knowledge, needs, expectations, and context when making writing decisions. Audience factors: knowledge level (what do they already know?), needs (what do they want from this?), context (how will they encounter this?), and expectations (what genre conventions apply?). How audience shapes writing: vocabulary (technical terms vs plain language), depth (introductory vs advanced), tone (formal vs casual), and focus (what matters to them). Audience analysis: who specifically will read this? what do they know? what do they need? how will they use this? and what objections might they have? Writing for multiple audiences: consider primary audience (optimize for them), acknowledge secondary audiences, or create different versions. Common mistakes: assuming too much knowledge (jargon without explanation), assuming too little (patronizing), and forgetting audience entirely (writing for yourself). For knowledge workers, audience awareness is essential: effective communication requires meeting readers where they are, not where you are. Writing that ignores audience fails even if technically correct.",
+    "tags": [
+        "writing",
+        "communication",
+        "empathy",
+        "strategy",
+        "craft"
+    ],
+    "category": "Concepts",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Reader awareness",
+        "Writing for audience",
+        "Audience-centered writing"
+    ],
+    "relatedConcepts": [
+        "writing-process",
+        "clarity-writing",
+        "empathy",
+        "communication",
+        "tone",
+        "user-experience"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "writing-process",
+    "name": "Writing Process",
+    "summary": "The stages and workflow of creating written content from idea to finished piece.",
+    "explanation": "The writing process encompasses the stages involved in creating written content - from initial idea through planning, drafting, revision, to final publication. Understanding this process helps writers work more effectively and produces better results. Common stages: prewriting (brainstorming, research, outlining), drafting (getting ideas down without perfectionism), revising (improving structure, clarity, and argument), editing (fixing sentences, word choice), and proofreading (catching errors). Key insight: these stages aren't strictly linear - good writing involves cycling back through stages as needed. The process varies by writer and project, but separating stages often helps. Why process matters: trying to do everything at once (generate ideas, write perfectly, edit) creates cognitive overload and writer's block. Separating generation from evaluation makes both easier. Developing your process: experiment with different approaches, notice what works for you, build routines around productive patterns, and adapt process to different writing types. For knowledge workers, understanding the writing process helps: overcome writer's block, produce better quality writing, write more efficiently, and recognize that rough drafts are supposed to be rough.",
+    "tags": [
+        "writing",
+        "creativity",
+        "process",
+        "productivity",
+        "communication"
+    ],
+    "category": "Concepts",
+    "icon": "FaPenFancy",
+    "featured": true,
+    "aliases": [
+        "Writing workflow",
+        "Composition process",
+        "Writing stages"
+    ],
+    "relatedConcepts": [
+        "drafting",
+        "editing",
+        "revision",
+        "freewriting",
+        "writers-block",
+        "creative-process"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

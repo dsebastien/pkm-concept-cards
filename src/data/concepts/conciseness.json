@@ -1,0 +1,49 @@
+{
+    "id": "conciseness",
+    "name": "Conciseness",
+    "summary": "Expressing ideas in as few words as possible while preserving meaning and clarity.",
+    "explanation": "Conciseness is expressing ideas in as few words as possible while preserving full meaning and clarity. It's not about being brief at the expense of completeness, but about efficiency - no wasted words. Why conciseness matters: respects readers' time, increases impact (fewer words = each matters more), improves readability, and demonstrates clear thinking. Conciseness techniques: eliminate redundancy (brief summary → summary), cut filler words (really, very, basically), reduce phrases to words (at this point in time → now), use strong verbs (made a decision → decided), and cut unnecessary modifiers. What to cut: throat-clearing (it should be noted that...), hedging (somewhat, fairly, rather), empty phrases (in order to, the fact that), and repetition of ideas. Conciseness vs completeness: the goal is necessary and sufficient - include everything needed, nothing more. Being too brief can sacrifice clarity or meaning. Finding the balance: draft fully, then cut ruthlessly. Ask of each word: does this add meaning? Could this be shorter without losing information? For knowledge workers, concise writing is professional writing - it demonstrates respect for readers and confidence in your ideas.",
+    "tags": [
+        "writing",
+        "communication",
+        "clarity",
+        "efficiency",
+        "craft"
+    ],
+    "category": "Concepts",
+    "icon": "FaCompressAlt",
+    "featured": false,
+    "aliases": [
+        "Brevity",
+        "Economy of words",
+        "Tight writing"
+    ],
+    "relatedConcepts": [
+        "clarity-writing",
+        "editing",
+        "communication",
+        "simplicity",
+        "writing-process",
+        "active-voice"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Elements of Style by Strunk and White",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

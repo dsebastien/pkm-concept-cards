@@ -1,0 +1,44 @@
+{
+    "id": "drafting",
+    "name": "Drafting",
+    "summary": "The stage of writing where you get ideas down without worrying about perfection.",
+    "explanation": "Drafting is the writing stage focused on getting ideas down on paper without worrying about perfection. The goal is capturing thoughts, not producing polished prose. 'Write drunk, edit sober' captures the spirit - lower your standards to enable flow. Key principles: silence the inner critic (perfectionism kills drafts), focus on completion over quality (you can't edit a blank page), write forward (don't stop to fix things), and accept messiness (drafts are supposed to be rough). Drafting techniques: freewriting (continuous writing without stopping), focused drafting (following outline but not editing), and discovery drafting (writing to find out what you think). Common mistakes: editing while drafting (destroys momentum), perfectionism (nothing gets written), and going back to fix (interrupts flow). The draft mindset: this is raw material, not finished product. Give yourself permission to write badly. Every good piece of writing was once a terrible first draft. After drafting: step away before revising, read with fresh eyes, and then begin the work of improvement. For knowledge workers, effective drafting enables: overcoming blank page paralysis, capturing ideas quickly, and producing raw material that can be refined into quality writing.",
+    "tags": [
+        "writing",
+        "creativity",
+        "process",
+        "productivity",
+        "flow"
+    ],
+    "category": "Techniques",
+    "icon": "FaPen",
+    "featured": false,
+    "aliases": [
+        "First draft",
+        "Rough draft",
+        "Initial writing"
+    ],
+    "relatedConcepts": [
+        "writing-process",
+        "freewriting",
+        "revision",
+        "editing",
+        "writers-block",
+        "flow-state"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

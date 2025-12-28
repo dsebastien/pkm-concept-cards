@@ -1,0 +1,44 @@
+{
+    "id": "voice-writing",
+    "name": "Voice (Writing)",
+    "summary": "The distinctive style, personality, and perspective that makes writing recognizably yours.",
+    "explanation": "Voice in writing is the distinctive style, personality, and perspective that makes your writing recognizably yours - the sense that a specific person wrote this. It emerges from word choice, sentence rhythm, perspective, and personality coming through the prose. Components of voice: diction (formal vs casual, abstract vs concrete), syntax (sentence patterns, length variation), tone (serious, playful, authoritative), rhythm (how sentences flow), and perspective (how you see and present ideas). Finding your voice: write a lot (voice emerges through practice), notice what feels natural, read writers you admire, experiment with different styles, and don't imitate too closely. Voice vs style: voice is deeper - your underlying sensibility; style can be adjusted for context while voice remains. Authentic voice: comes from writing genuinely, not performing or imitating. Readers can sense authenticity. Developing voice: write regularly, read widely, trust your instincts, and let personality come through. Voice varies appropriately by context (casual blog vs formal report) while maintaining underlying authenticity. For knowledge workers, developing a distinctive voice helps: stand out in crowded information landscape, build connection with readers, and make writing more engaging and memorable.",
+    "tags": [
+        "writing",
+        "creativity",
+        "style",
+        "authenticity",
+        "communication"
+    ],
+    "category": "Concepts",
+    "icon": "FaMicrophone",
+    "featured": false,
+    "aliases": [
+        "Writer's voice",
+        "Authorial voice",
+        "Writing style"
+    ],
+    "relatedConcepts": [
+        "writing-process",
+        "authenticity",
+        "style",
+        "tone",
+        "audience-awareness",
+        "personal-branding"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

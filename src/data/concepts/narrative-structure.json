@@ -1,0 +1,44 @@
+{
+    "id": "narrative-structure",
+    "name": "Narrative Structure",
+    "summary": "The framework organizing how a story or piece of content unfolds over time.",
+    "explanation": "Narrative structure is the framework organizing how a story or content unfolds - the sequence and arrangement of elements that shape the reader's experience. Good structure guides readers through content in a satisfying, logical way. Classic structures: three-act structure (setup, confrontation, resolution), hero's journey (departure, initiation, return), inverted pyramid (most important first), and problem-solution (establish problem, present solution). Structure elements: opening (hook, establish context), rising action (build tension, develop ideas), climax/key insight (main point), and resolution (conclusion, implications). Choosing structure: match structure to purpose - journalism uses inverted pyramid, stories use narrative arc, tutorials use progressive steps. Structure creates: pacing (how content unfolds), expectations (readers anticipate patterns), and satisfaction (well-structured endings feel complete). Structure problems: buried lede (key point too late), meandering (no clear progression), anticlimax (weak ending), and no structure (random arrangement). For knowledge workers, understanding structure helps: organize complex content, guide readers effectively, and create satisfying documents that accomplish their purpose.",
+    "tags": [
+        "writing",
+        "structure",
+        "storytelling",
+        "organization",
+        "communication"
+    ],
+    "category": "Concepts",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": [
+        "Story structure",
+        "Content structure",
+        "Dramatic structure"
+    ],
+    "relatedConcepts": [
+        "storytelling",
+        "writing-process",
+        "organization",
+        "outlining",
+        "pacing",
+        "information-architecture"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

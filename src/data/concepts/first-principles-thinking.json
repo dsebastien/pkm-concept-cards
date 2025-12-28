@@ -1,0 +1,44 @@
+{
+    "id": "first-principles-thinking",
+    "name": "First Principles Thinking",
+    "summary": "Breaking problems down to fundamental truths and reasoning up from there.",
+    "explanation": "First principles thinking is the practice of breaking problems down to their most fundamental truths - the basic elements that cannot be reduced further - and reasoning up from there. Instead of reasoning by analogy (what has worked before?), you rebuild understanding from the ground up. The process: identify assumptions (what do you believe about this problem?), break down to fundamentals (what is certainly true?), and rebuild from scratch (what conclusions follow from first principles?). Famous example: Elon Musk on battery costs - instead of accepting 'batteries are expensive,' examining the cost of raw materials (nickel, cobalt, lithium) showed potential for dramatic cost reduction. When to use first principles: challenging conventional wisdom, tackling problems everyone says are impossible, seeking breakthrough innovation, and understanding deeply rather than superficially. Limitations: it's effortful, sometimes analogy is appropriate (not everything needs reinvention), and you might miss practical knowledge embedded in conventions. Balance is key: use analogies for efficiency but first principles when conventions seem wrong or problems need fresh approaches. For knowledge workers, first principles thinking enables: questioning assumptions, finding innovative solutions, and building deep understanding rather than surface knowledge.",
+    "tags": [
+        "thinking",
+        "problem-solving",
+        "innovation",
+        "fundamentals",
+        "reasoning"
+    ],
+    "category": "Techniques",
+    "icon": "FaCubes",
+    "featured": true,
+    "aliases": [
+        "Fundamental reasoning",
+        "Ground-up thinking",
+        "Aristotelian method"
+    ],
+    "relatedConcepts": [
+        "critical-thinking",
+        "mental-models",
+        "innovation",
+        "assumptions",
+        "deep-understanding",
+        "problem-solving"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

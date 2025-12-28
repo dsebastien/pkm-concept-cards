@@ -1,0 +1,44 @@
+{
+    "id": "steelmanning",
+    "name": "Steelmanning",
+    "summary": "Engaging with the strongest version of an opposing argument rather than the weakest.",
+    "explanation": "Steelmanning is the practice of engaging with the strongest possible version of an opposing argument, rather than attacking a weak version (strawmanning). You construct the most compelling case for a position you disagree with before critiquing it. Why steelman: you might discover the opposing view is actually correct (or partially so), you understand the real crux of disagreement, your critique becomes more powerful (you've addressed the best objections), and you demonstrate intellectual honesty. How to steelman: genuinely try to understand why smart people hold this view, construct the argument they would make if articulating it perfectly, include their best evidence and reasoning, and only then respond. Signs of good steelmanning: the person you're steelmanning would say 'yes, that's my position'; you could pass an ideological Turing test; and you've found merit in the opposing view. Steelmanning is intellectually humble: it acknowledges you might be wrong and takes opposing views seriously. It's also pragmatic: convincing someone requires addressing their actual beliefs, not caricatures. For knowledge workers, steelmanning improves: critical thinking (you understand issues deeply), communication (you address real concerns), and decision-making (you've considered the best counterarguments).",
+    "tags": [
+        "thinking",
+        "argumentation",
+        "critical-thinking",
+        "communication",
+        "intellectual-honesty"
+    ],
+    "category": "Techniques",
+    "icon": "FaShieldAlt",
+    "featured": false,
+    "aliases": [
+        "Steel man argument",
+        "Strongest interpretation",
+        "Charitable interpretation"
+    ],
+    "relatedConcepts": [
+        "critical-thinking",
+        "intellectual-humility",
+        "argumentation",
+        "perspective-taking",
+        "dialectical-thinking",
+        "debate"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

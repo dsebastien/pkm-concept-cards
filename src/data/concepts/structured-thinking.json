@@ -1,0 +1,44 @@
+{
+    "id": "structured-thinking",
+    "name": "Structured Thinking",
+    "summary": "Applying frameworks and systematic approaches to organize and analyze complex problems.",
+    "explanation": "Structured thinking is the practice of applying frameworks, models, and systematic approaches to organize and analyze complex problems. Instead of thinking randomly about an issue, structured thinking provides scaffolding for thorough, consistent analysis. Why it helps: reduces cognitive load (framework guides attention), ensures completeness (checklists prevent missing elements), enables communication (shared structures allow collaboration), and improves consistency (same approach yields comparable results). Common structures include: MECE (Mutually Exclusive, Collectively Exhaustive), issue trees (breaking problems into sub-problems), 2x2 matrices (mapping two dimensions), and frameworks like SWOT, Porter's Five Forces, or jobs-to-be-done. Using structured thinking: define the problem clearly, select appropriate framework, work through systematically, and adapt structure as needed. Limitations: frameworks can constrain creative thinking, may miss what doesn't fit the structure, and can become mechanical. The goal is structured yet flexible thinking - using frameworks as tools, not cages. For knowledge workers, structured thinking enables: tackling complex problems systematically, communicating analysis clearly, ensuring thorough coverage, and building on established frameworks rather than starting from scratch.",
+    "tags": [
+        "thinking",
+        "frameworks",
+        "analysis",
+        "problem-solving",
+        "methodology"
+    ],
+    "category": "Concepts",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": [
+        "Framework thinking",
+        "Systematic thinking",
+        "Organized analysis"
+    ],
+    "relatedConcepts": [
+        "mental-models",
+        "analytical-thinking",
+        "problem-solving",
+        "frameworks",
+        "mece",
+        "critical-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

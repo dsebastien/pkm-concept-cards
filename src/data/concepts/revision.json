@@ -1,0 +1,44 @@
+{
+    "id": "revision",
+    "name": "Revision",
+    "summary": "Reworking writing at the structural and conceptual level to improve ideas and organization.",
+    "explanation": "Revision is the writing stage focused on reworking content at the structural and conceptual level - improving ideas, argument, organization, and flow between sections. It's bigger-picture work than editing (which focuses on sentences). Revision addresses: ideas (is the argument sound? are key points missing?), structure (is the organization logical? does the order work?), focus (is there a clear throughline? does everything serve the purpose?), and depth (are claims supported? is treatment thorough enough?). Revision requires: distance (time away from the draft), fresh perspective (reading as if new to the content), and willingness to change (not just tweak but rethink). Revision actions: reordering sections, cutting unnecessary material, expanding underdeveloped parts, strengthening weak arguments, and clarifying the central point. The revision mindset: nothing is sacred - be willing to delete pages, rewrite sections, and restructure completely. Good revision often means significant changes, not minor adjustments. Revision sequence: typically address structural issues before line editing (why polish sentences you might cut?). For knowledge workers, skilled revision transforms rough drafts into coherent, compelling pieces through thoughtful restructuring and development of ideas.",
+    "tags": [
+        "writing",
+        "process",
+        "improvement",
+        "structure",
+        "craft"
+    ],
+    "category": "Techniques",
+    "icon": "FaRedoAlt",
+    "featured": false,
+    "aliases": [
+        "Rewriting",
+        "Structural editing",
+        "Content revision"
+    ],
+    "relatedConcepts": [
+        "writing-process",
+        "editing",
+        "drafting",
+        "structure",
+        "clarity-writing",
+        "feedback"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
