@@ -1,0 +1,44 @@
+{
+    "id": "time-wealth",
+    "name": "Time Wealth",
+    "summary": "Having discretionary time for meaningful activities, often more valuable than financial wealth.",
+    "explanation": "Time wealth refers to having discretionary time - hours you can allocate according to your values rather than external demands. Unlike time affluence (feeling unhurried), time wealth emphasizes actual control over time allocation. Time wealth enables: pursuing meaningful projects, maintaining relationships, health activities, and simply being rather than doing. Research suggests time wealth may contribute more to wellbeing than financial wealth beyond a threshold. Time wealth can be built by: increasing income to buy back time (outsourcing, services), decreasing expenses to reduce required work, designing work with flexibility, and reducing commitments. The tradeoff between time wealth and financial wealth is central to life design - many sacrifice time for money when money for time would increase wellbeing more. For knowledge workers, pursuing time wealth means: valuing time in decisions, designing work for flexibility, and recognizing that the ability to choose how you spend time is itself valuable.",
+    "tags": [
+        "time",
+        "wealth",
+        "freedom",
+        "lifestyle",
+        "life-design"
+    ],
+    "category": "Concepts",
+    "icon": "FaGem",
+    "featured": false,
+    "aliases": [
+        "Temporal wealth",
+        "Time richness",
+        "Discretionary time"
+    ],
+    "relatedConcepts": [
+        "time-affluence",
+        "time-freedom",
+        "financial-independence",
+        "lifestyle-design",
+        "work-life-balance",
+        "wellbeing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

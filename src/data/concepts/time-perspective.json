@@ -1,0 +1,49 @@
+{
+    "id": "time-perspective",
+    "name": "Time Perspective",
+    "summary": "An individual's habitual orientation toward past, present, or future that shapes behavior.",
+    "explanation": "Time perspective, researched extensively by Philip Zimbardo, describes how individuals habitually relate to time - whether oriented primarily toward past, present, or future. Zimbardo identifies profiles: past-negative (dwelling on regrets), past-positive (nostalgia, tradition), present-hedonistic (pleasure now), present-fatalistic (what happens, happens), and future-oriented (planning, goal pursuit). Each has strengths and costs: future orientation correlates with achievement but can miss present enjoyment; present hedonism brings pleasure but may sacrifice long-term goals. The 'balanced time perspective' combines: positive past (providing identity and meaning), moderate present hedonism (enjoying life), and future orientation (pursuing goals). Time perspective affects: decisions, relationships, health behaviors, and life satisfaction. For knowledge workers, understanding time perspective helps: recognize personal biases (too future-focused may mean missing life), make balanced decisions, and understand why others make different choices about time.",
+    "tags": [
+        "time",
+        "psychology",
+        "decision-making",
+        "mindset",
+        "personality"
+    ],
+    "category": "Concepts",
+    "icon": "FaHistory",
+    "featured": false,
+    "aliases": [
+        "Temporal orientation",
+        "Time orientation",
+        "Zimbardo time perspective"
+    ],
+    "relatedConcepts": [
+        "present-bias",
+        "future-discounting",
+        "delayed-gratification",
+        "mindfulness",
+        "goal-orientation",
+        "life-satisfaction"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Time Paradox by Philip Zimbardo",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

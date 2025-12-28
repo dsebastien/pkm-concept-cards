@@ -1,0 +1,49 @@
+{
+    "id": "protecting-time",
+    "name": "Protecting Time",
+    "summary": "Actively defending blocks of time from interruptions, requests, and competing demands.",
+    "explanation": "Protecting time is the active practice of defending time blocks from interruption, encroachment, and competing demands. Unlike passive time management (filling empty slots), protecting time requires: saying no to requests, setting boundaries, and treating time as a finite resource worth defending. Protection methods include: blocking calendars for focus work, communicating unavailability, closing communication channels, and developing cultural permission for uninterrupted time. Protection is necessary because: others will fill your time if you don't, interruptions impose asymmetric costs (cheap for interrupter, expensive for interrupted), and important but non-urgent work has no natural defender. The challenge is that time protection can seem antisocial or uncooperative - developing skill at saying no gracefully is essential. For knowledge workers, protecting time is particularly critical because: creative work requires uninterrupted blocks, and the ease of communication means constant potential interruption.",
+    "tags": [
+        "time",
+        "productivity",
+        "boundaries",
+        "focus",
+        "deep-work"
+    ],
+    "category": "Techniques",
+    "icon": "FaShieldAlt",
+    "featured": false,
+    "aliases": [
+        "Time protection",
+        "Defending time",
+        "Time boundaries"
+    ],
+    "relatedConcepts": [
+        "time-blocking",
+        "saying-no",
+        "boundaries",
+        "deep-work",
+        "interruption-management",
+        "focus"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "present-bias",
+    "name": "Present Bias",
+    "summary": "The tendency to disproportionately prefer immediate rewards over larger future rewards.",
+    "explanation": "Present bias is the tendency to weight immediate outcomes more heavily than future outcomes, leading to choices that favor now over later - even when waiting would be objectively better. It's why we: eat cake instead of dieting, scroll social media instead of working on goals, and spend rather than save. Present bias differs from simple time preference (valuing $100 now over $100 later makes sense) because it's disproportionate and reverses as options approach. We might prefer $120 in 31 days over $100 in 30 days, but choose $100 today over $120 tomorrow - the same one-day delay valued differently depending on proximity. This explains procrastination, undersaving, and other self-control failures. Countermeasures include: commitment devices (making future choices now), reducing friction for desired behaviors, and increasing present-moment awareness of future consequences. For knowledge workers, understanding present bias helps: design systems that work with this tendency, recognize when immediate desires conflict with stated goals, and create structures that protect future interests.",
+    "tags": [
+        "time",
+        "psychology",
+        "bias",
+        "decision-making",
+        "self-control"
+    ],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Hyperbolic discounting",
+        "Myopic choice",
+        "Now bias"
+    ],
+    "relatedConcepts": [
+        "temporal-discounting",
+        "delayed-gratification",
+        "procrastination",
+        "self-control",
+        "commitment-devices",
+        "instant-gratification"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

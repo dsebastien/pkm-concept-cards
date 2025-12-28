@@ -1,0 +1,44 @@
+{
+    "id": "future-discounting",
+    "name": "Future Discounting",
+    "summary": "Valuing future outcomes less than equivalent present outcomes, often to an irrational degree.",
+    "explanation": "Future discounting describes how we systematically value future outcomes less than present ones. Some discounting is rational - a dollar today is worth more than a dollar next year due to opportunity cost and uncertainty. But humans often discount far more steeply than rationality justifies, especially for near-term delays. We treat our future selves almost as strangers, readily sacrificing their wellbeing for present comfort. This explains: undersaving for retirement (decades away feels unreal), health neglect (consequences are distant), and procrastination (future effort seems easier). Future discounting is steeper for: losses versus gains, smaller versus larger amounts, and shorter versus longer delays. Countermeasures include: making the future vivid (aging apps, visualization), pre-commitment, and building identity connection to future self. For knowledge workers, understanding future discounting helps: design systems that protect long-term interests, recognize when short-term thinking dominates, and build habits that serve the future.",
+    "tags": [
+        "time",
+        "psychology",
+        "decision-making",
+        "bias",
+        "future"
+    ],
+    "category": "Concepts",
+    "icon": "FaPercentage",
+    "featured": false,
+    "aliases": [
+        "Temporal discounting",
+        "Time discounting",
+        "Future devaluation"
+    ],
+    "relatedConcepts": [
+        "present-bias",
+        "temporal-discounting",
+        "delayed-gratification",
+        "long-term-thinking",
+        "future-self",
+        "intertemporal-choice"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

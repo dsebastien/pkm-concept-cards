@@ -1,0 +1,44 @@
+{
+    "id": "time-investment",
+    "name": "Time Investment",
+    "summary": "Spending time now in ways that create returns of time, value, or capability in the future.",
+    "explanation": "Time investment is the practice of spending time now in ways that create future returns - more time, more capability, or more value. Unlike time spending (consumption that depletes time), time investment generates compounding benefits. Examples include: learning skills that increase efficiency, building systems that automate recurring tasks, developing relationships that create opportunities, and improving health that enables future productivity. Good time investments have: leveraged returns (spend time once, benefit repeatedly), compounding effects (benefits build on each other), and alignment with goals. The challenge is that investment requires short-term sacrifice - the benefits are delayed while the cost is immediate. Present bias makes time consumption feel better than time investment. For knowledge workers, thinking in terms of time investment means: evaluating activities by future returns not just present enjoyment, building reusable assets, and recognizing that some time 'spent' is actually invested.",
+    "tags": [
+        "time",
+        "investment",
+        "productivity",
+        "long-term-thinking",
+        "leverage"
+    ],
+    "category": "Concepts",
+    "icon": "FaSeedling",
+    "featured": false,
+    "aliases": [
+        "Investing time",
+        "Time ROI",
+        "Strategic time use"
+    ],
+    "relatedConcepts": [
+        "leverage",
+        "compound-effect",
+        "delayed-gratification",
+        "skill-building",
+        "systems-building",
+        "long-term-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

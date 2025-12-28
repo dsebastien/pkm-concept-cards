@@ -1,0 +1,49 @@
+{
+    "id": "urgency-addiction",
+    "name": "Urgency Addiction",
+    "summary": "The compulsive need for urgent tasks and crises, avoiding important but non-urgent work.",
+    "explanation": "Urgency addiction is the pattern of gravitating toward urgent tasks while neglecting important but non-urgent work. It manifests as: constantly fighting fires, feeling productive only under pressure, seeking adrenaline from deadlines, and discomfort with unstructured time. Urgency is addictive because it: provides clear direction (no ambiguity about what to do), creates dopamine hits from completion, and offers external validation (visible busyness). The cost is that important work - relationships, health, strategic thinking, prevention - gets perpetually deferred. Urgency addiction is reinforced by: organizational cultures that reward reactive work, technology that makes everything seem urgent, and personal avoidance of difficult important work. Breaking urgency addiction requires: recognizing the pattern, scheduling important non-urgent work, creating artificial urgency for important items, and building tolerance for less stimulating work. For knowledge workers, urgency addiction prevents: strategic thinking, relationship building, and the deep work that creates lasting value.",
+    "tags": [
+        "time",
+        "productivity",
+        "habits",
+        "stress",
+        "prioritization"
+    ],
+    "category": "Concepts",
+    "icon": "FaBolt",
+    "featured": false,
+    "aliases": [
+        "Busy addiction",
+        "Crisis addiction",
+        "Adrenaline work"
+    ],
+    "relatedConcepts": [
+        "eisenhower-matrix",
+        "important-vs-urgent",
+        "busyness-trap",
+        "stress-addiction",
+        "procrastination",
+        "deep-work"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "First Things First by Stephen Covey",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

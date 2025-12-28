@@ -1,0 +1,44 @@
+{
+    "id": "temporal-discounting",
+    "name": "Temporal Discounting",
+    "summary": "The behavioral economics concept of reduced valuation of rewards as they are delayed in time.",
+    "explanation": "Temporal discounting is the behavioral economics term for how the subjective value of a reward decreases as the delay to receiving it increases. A $100 reward available immediately might be valued at $100, while the same reward in a year might subjectively feel worth only $80. The rate of discounting varies: steep discounters strongly prefer immediate rewards (impulsive); shallow discounters maintain value for delayed rewards (patient). Discounting tends to be hyperbolic rather than exponential - value drops quickly for near delays, then flattens. This creates preference reversals: choosing larger-later when both are distant but smaller-sooner when both are near. Factors affecting discount rates include: age (children discount steeply), substance issues (associated with steep discounting), and emotional state (stress increases discounting). For knowledge workers, understanding temporal discounting explains: why goals fail despite good intentions, how to structure incentives effectively, and why commitment devices and pre-commitment are valuable.",
+    "tags": [
+        "time",
+        "behavioral-economics",
+        "decision-making",
+        "psychology",
+        "value"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Delay discounting",
+        "Intertemporal choice",
+        "Time preference"
+    ],
+    "relatedConcepts": [
+        "future-discounting",
+        "present-bias",
+        "behavioral-economics",
+        "self-control",
+        "delayed-gratification",
+        "impulsivity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
