@@ -28,7 +28,8 @@
         "commit": "cz",
         "cm": "npm run commit",
         "commit:lint": "commitlint --from HEAD~1 --to HEAD --verbose",
-        "release": "read -p 'Enter tag name: ' TAG && git tag \"$TAG\" && git push origin \"$TAG\" && echo \"Tag $TAG created and pushed. Deployment will start automatically.\""
+        "release": "read -p 'Enter tag name: ' TAG && git tag \"$TAG\" && git push origin \"$TAG\" && echo \"Tag $TAG created and pushed. Deployment will start automatically.\"",
+	"push": "git push && git push --tags"
     },
     "lint-staged": {
         "**/*": "prettier --write --ignore-unknown"
