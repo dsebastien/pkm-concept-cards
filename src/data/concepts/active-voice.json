@@ -1,0 +1,49 @@
+{
+    "id": "active-voice",
+    "name": "Active Voice",
+    "summary": "Sentence construction where the subject performs the action, creating clearer, more direct prose.",
+    "explanation": "Active voice is sentence construction where the subject performs the action: 'The team completed the project' rather than passive 'The project was completed by the team.' Active voice generally creates clearer, more direct, more engaging prose. Why active voice works: shorter (fewer words needed), clearer (who did what is obvious), more engaging (subjects doing things), and more accountable (names the actor). Passive structure: '[object] was [verbed] by [subject]' - the recipient of action comes first, the actor may be omitted entirely. When passive is appropriate: the actor is unknown or unimportant, you want to emphasize the recipient of action, in scientific writing conventions, or when deliberately obscuring responsibility. Converting to active: identify who/what is doing the action, make that the subject, restructure accordingly. 'Mistakes were made' becomes 'We made mistakes.' Passive voice isn't grammatically wrong - it's a choice. The principle: default to active voice, use passive deliberately when it serves a purpose. For knowledge workers, active voice creates: professional, direct communication that takes responsibility and respects readers' time.",
+    "tags": [
+        "writing",
+        "clarity",
+        "grammar",
+        "style",
+        "communication"
+    ],
+    "category": "Concepts",
+    "icon": "FaRunning",
+    "featured": false,
+    "aliases": [
+        "Active construction",
+        "Active sentences",
+        "Direct voice"
+    ],
+    "relatedConcepts": [
+        "clarity-writing",
+        "conciseness",
+        "editing",
+        "style",
+        "professional-writing",
+        "accountability"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Elements of Style by Strunk and White",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "writers-block",
+    "name": "Writer's Block",
+    "summary": "The experience of being unable to write, often due to perfectionism, fear, or unclear thinking.",
+    "explanation": "Writer's block is the experience of being unable to write - staring at a blank page without words coming. It's not a mysterious affliction but usually has identifiable causes. Common causes: perfectionism (standards too high for drafts), fear (of judgment, failure, or not being good enough), unclear thinking (not knowing what you want to say), overwhelm (project seems too big), and wrong starting point (beginning at the beginning instead of where energy is). Solutions by cause: for perfectionism - write badly on purpose, lower standards for drafts; for fear - write privately, remember no one sees drafts; for unclear thinking - freewrite, talk it out, do more research; for overwhelm - break into smaller pieces, start anywhere; for wrong starting point - skip to the interesting part. Preventive practices: regular writing routine (habit overcomes resistance), freewriting (maintain writing fluency), and good note-taking (material ready when you write). Reframes: writer's block is often 'thinking block' - the writing will flow when you know what to say. For knowledge workers, understanding writer's block helps: diagnose the actual problem, apply appropriate solutions, and develop practices that prevent blocks from forming.",
+    "tags": [
+        "writing",
+        "creativity",
+        "productivity",
+        "challenges",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaBan",
+    "featured": false,
+    "aliases": [
+        "Writing block",
+        "Blank page paralysis",
+        "Creative block"
+    ],
+    "relatedConcepts": [
+        "writing-process",
+        "drafting",
+        "freewriting",
+        "perfectionism",
+        "fear-of-failure",
+        "creative-resistance"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The War of Art by Steven Pressfield",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "writing-routine",
+    "name": "Writing Routine",
+    "summary": "Consistent habits and practices that support regular, productive writing.",
+    "explanation": "A writing routine is a consistent set of habits and practices that support regular, productive writing. Rather than waiting for inspiration, routines make writing a reliable part of life. Components of a writing routine: time (when you write), place (where you write), duration (how long), triggers (what initiates writing), and rituals (actions that signal writing time). Why routines work: reduce decision fatigue (no daily 'should I write?' debate), build momentum (consistency creates habit), train your brain (routine signals 'writing mode'), and accumulate output (small daily amounts compound). Building a routine: start small (even 15 minutes), be consistent (same time, same place), protect the time (treat it as non-negotiable), and adjust based on results. Common patterns: morning pages (first thing), fixed daily time, session-based (pomodoros), and project-based (intensive sprints). What to include: warm-up activities, writing itself, and review/planning. Sustainable routines: fit your life, don't rely on motivation, and survive disruption (easy to restart). For knowledge workers, a writing routine transforms writing from sporadic struggle to consistent output - the key to building a body of work over time.",
+    "tags": [
+        "writing",
+        "habits",
+        "productivity",
+        "consistency",
+        "practice"
+    ],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Writing habit",
+        "Writing practice",
+        "Daily writing"
+    ],
+    "relatedConcepts": [
+        "writing-process",
+        "habits",
+        "consistency",
+        "productivity",
+        "writers-block",
+        "deep-work"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

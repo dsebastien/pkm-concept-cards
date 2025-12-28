@@ -1,0 +1,49 @@
+{
+    "id": "freewriting",
+    "name": "Freewriting",
+    "summary": "A technique of continuous writing without stopping, editing, or self-censoring.",
+    "explanation": "Freewriting is the practice of writing continuously for a set time without stopping to edit, correct, or even think too hard about what you're writing. The pen keeps moving (or fingers keep typing) no matter what. The rules: set a timer (10-20 minutes), write without stopping, don't edit or cross out, don't worry about quality, and if stuck, write 'I'm stuck' until something comes. Why it works: bypasses the inner critic (no time to judge), accesses subconscious (what emerges surprises you), builds writing fluency (practice without pressure), and generates raw material (mine later for good bits). Uses for freewriting: overcoming writer's block, generating ideas, warming up before focused writing, processing thoughts on a topic, and discovering what you think. Focused freewriting: start with a prompt or question, then freewrite about that topic. What you get: most will be unusable, but valuable nuggets emerge. The point isn't the output - it's accessing flow and capturing thoughts without interference. For knowledge workers, freewriting is a powerful tool for: breaking through blocks, exploring ideas, processing complex situations, and maintaining writing fluency even when not working on specific projects.",
+    "tags": [
+        "writing",
+        "creativity",
+        "technique",
+        "thinking",
+        "productivity"
+    ],
+    "category": "Techniques",
+    "icon": "FaFeatherAlt",
+    "featured": false,
+    "aliases": [
+        "Free writing",
+        "Stream of consciousness",
+        "Automatic writing"
+    ],
+    "relatedConcepts": [
+        "writing-process",
+        "drafting",
+        "writers-block",
+        "creativity",
+        "morning-pages",
+        "brainstorming"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Writing Down the Bones by Natalie Goldberg",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
