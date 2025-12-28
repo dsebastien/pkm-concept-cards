@@ -32,7 +32,10 @@ const getColumnCount = (containerWidth: number): number => {
 const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
     ({ concepts, viewMode, onShowDetails, onTagClick, onCategoryClick, isExplored }) => {
         const parentRef = useRef<HTMLDivElement>(null)
-        const [containerWidth, setContainerWidth] = useState(1024)
+        // Initialize with actual window width to prevent flash of wrong layout
+        const [containerWidth, setContainerWidth] = useState(() =>
+            typeof window !== 'undefined' ? window.innerWidth : 1024
+        )
 
         // Observe container resize
         useEffect(() => {
@@ -59,12 +62,16 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
         const rowCount =
             viewMode === 'grid' ? Math.ceil(concepts.length / columnCount) : concepts.length
 
-        // Estimate row height
+        // Estimate row height - use larger estimate on mobile where titles wrap
         const estimateSize = useCallback(() => {
-            return viewMode === 'grid'
-                ? CARD_MIN_HEIGHT_GRID + BADGE_PADDING + BADGE_PADDING // top and bottom padding for badges
-                : CARD_HEIGHT_LIST + LIST_GAP
-        }, [viewMode])
+            if (viewMode === 'grid') {
+                return CARD_MIN_HEIGHT_GRID + BADGE_PADDING + BADGE_PADDING // top and bottom padding for badges
+            }
+            // List view: estimate based on container width
+            // On mobile (<640px), titles often wrap to 2 lines, need more height
+            const isMobile = containerWidth < 640
+            return (isMobile ? 120 : CARD_HEIGHT_LIST) + LIST_GAP
+        }, [viewMode, containerWidth])
 
         const virtualizer = useVirtualizer({
             count: rowCount,
@@ -72,20 +79,13 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
             estimateSize,
             overscan: OVERSCAN,
             paddingStart: 0,
-            paddingEnd: 0,
-            // Enable dynamic measurement for list view to handle variable heights
-            measureElement:
-                viewMode === 'list'
-                    ? (element) => {
-                          return element.getBoundingClientRect().height
-                      }
-                    : undefined
+            paddingEnd: 0
         })
 
-        // Remeasure when viewMode or columnCount changes
+        // Remeasure when viewMode, columnCount, or containerWidth changes
         useEffect(() => {
             virtualizer.measure()
-        }, [viewMode, columnCount, virtualizer])
+        }, [viewMode, columnCount, containerWidth, virtualizer])
 
         const virtualItems = virtualizer.getVirtualItems()
 
@@ -139,9 +139,14 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
             )
         }
 
+        // Key changes when crossing mobile breakpoint to force virtualizer remount
+        const isMobile = containerWidth < 640
+        const listKey = `list-${isMobile ? 'mobile' : 'desktop'}`
+
         if (viewMode === 'list') {
             return (
                 <div
+                    key={listKey}
                     ref={parentRef}
                     className='h-[calc(100vh-200px)] min-h-[800px] overflow-auto'
                     style={{ contain: 'strict' }}
@@ -157,10 +162,9 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
                             return (
                                 <div
                                     key={concept.id}
-                                    data-index={virtualRow.index}
-                                    ref={virtualizer.measureElement}
                                     className='absolute top-0 left-0 w-full'
                                     style={{
+                                        height: `${virtualRow.size}px`,
                                         transform: `translateY(${virtualRow.start}px)`
                                     }}
                                 >
