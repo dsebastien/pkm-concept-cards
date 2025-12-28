@@ -1,0 +1,44 @@
+{
+    "id": "procrastination-types",
+    "name": "Procrastination Types",
+    "summary": "Different patterns and causes of procrastination requiring different intervention strategies.",
+    "explanation": "Procrastination isn't monolithic - research identifies distinct types with different causes and solutions. Common types include: Anxious procrastinators (avoid due to fear of failure or judgment), Perfectionist procrastinators (delay until conditions are perfect), Overwhelmed procrastinators (can't start due to task magnitude), Pleasure-seeking procrastinators (prefer immediate gratification), Decisional procrastinators (avoid committing to choices), and Rebellious procrastinators (resist external deadlines). Each type responds to different interventions: anxious procrastinators need safety and self-compassion; perfectionists need permission for imperfection; overwhelmed types need task breakdown; pleasure-seekers need temptation bundling or removal; decisional types need structured frameworks; rebellious types need autonomy or intrinsic motivation. Identifying your procrastination type helps: target the right intervention, avoid strategies that don't match your pattern, and develop self-awareness about triggers. For knowledge workers, understanding procrastination types enables: more effective self-management and helping others with different patterns.",
+    "tags": [
+        "procrastination",
+        "psychology",
+        "productivity",
+        "self-awareness",
+        "behavior"
+    ],
+    "category": "Concepts",
+    "icon": "FaListAlt",
+    "featured": false,
+    "aliases": [
+        "Procrastinator types",
+        "Kinds of procrastination",
+        "Procrastination patterns"
+    ],
+    "relatedConcepts": [
+        "procrastination",
+        "fear-of-failure",
+        "perfectionism",
+        "overwhelm",
+        "self-regulation",
+        "behavior-change"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

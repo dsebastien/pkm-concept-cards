@@ -1,0 +1,44 @@
+{
+    "id": "attention-restoration",
+    "name": "Attention Restoration",
+    "summary": "The recovery of focused attention capacity through exposure to restorative environments.",
+    "explanation": "Attention Restoration Theory (ART), developed by Rachel and Stephen Kaplan, explains how depleted attention capacity can be restored through exposure to certain environments. The theory distinguishes directed attention (effortful focus that depletes) from fascination (effortless attention that restores). Restorative environments provide: being away (psychological distance from demands), extent (scope that occupies the mind), fascination (effortless engagement), and compatibility (alignment with inclinations). Nature is particularly restorative because it provides 'soft fascination' - engaging enough to allow directed attention to rest but not demanding. Research shows nature exposure improves: focus, mood, and cognitive performance. Restoration can also come from: sleep, meditation, and environments that don't demand directed attention. For knowledge workers, understanding attention restoration helps: recognize when attention is depleted, seek restorative experiences proactively, and design work rhythms that include restoration, not just work.",
+    "tags": [
+        "attention",
+        "restoration",
+        "nature",
+        "wellbeing",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaTree",
+    "featured": false,
+    "aliases": [
+        "ART",
+        "Restorative attention",
+        "Attention recovery"
+    ],
+    "relatedConcepts": [
+        "nature-exposure",
+        "cognitive-restoration",
+        "rest",
+        "recovery",
+        "directed-attention-fatigue",
+        "restorative-environments"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

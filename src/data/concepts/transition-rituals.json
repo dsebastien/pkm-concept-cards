@@ -1,0 +1,49 @@
+{
+    "id": "transition-rituals",
+    "name": "Transition Rituals",
+    "summary": "Routines that mark the shift between different work modes or between work and rest.",
+    "explanation": "Transition rituals are routines that mark the shift between different modes of activity - from work to rest, between projects, or from one type of work to another. They help the brain switch contexts cleanly rather than leaving attention residue from previous activities. Examples include: a shutdown ritual ending the workday (reviewing tomorrow, closing loops), a decompression practice between tasks (brief walk, breathing exercise), or a context-switching routine between different projects. Transition rituals serve multiple functions: psychological closure on prior activity, mental preparation for next activity, and clear boundaries between domains. Cal Newport advocates a 'shutdown complete' ritual that signals work is done, preventing evening rumination. For knowledge workers, transition rituals are especially valuable because: knowledge work lacks natural boundaries, attention residue from prior tasks impairs focus, and without rituals, work tends to bleed into all time.",
+    "tags": [
+        "procrastination",
+        "productivity",
+        "rituals",
+        "boundaries",
+        "transitions"
+    ],
+    "category": "Techniques",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Context-switching rituals",
+        "Boundary rituals",
+        "Mode-switching routines"
+    ],
+    "relatedConcepts": [
+        "starting-ritual",
+        "shutdown-ritual",
+        "context-switching",
+        "attention-residue",
+        "work-life-boundaries",
+        "focus"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

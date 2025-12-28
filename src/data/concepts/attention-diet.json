@@ -1,0 +1,44 @@
+{
+    "id": "attention-diet",
+    "name": "Attention Diet",
+    "summary": "Deliberately controlling the information and stimuli you expose your attention to.",
+    "explanation": "An attention diet, analogous to a food diet, involves deliberately controlling the information and stimuli you expose yourself to. Just as food diet affects physical health, attention diet affects mental clarity, emotional state, and cognitive performance. Mark Manson advocates: cutting out 'junk' information (sensationalized news, addictive content), increasing 'nutritious' information (books, thoughtful content), and being intentional about attention allocation. An attention diet might include: limiting news consumption, curating social media feeds, choosing books over articles, and reducing notification exposure. The goal isn't information avoidance but intentional consumption. Benefits include: reduced anxiety, improved focus, more time for deep engagement, and better information quality. Challenges include: FOMO, social pressure, and the addictive design of attention junk. For knowledge workers, an attention diet supports: clearer thinking, reduced distraction, and time for meaningful work.",
+    "tags": [
+        "attention",
+        "information",
+        "digital-wellness",
+        "intentionality",
+        "self-management"
+    ],
+    "category": "Techniques",
+    "icon": "FaUtensils",
+    "featured": false,
+    "aliases": [
+        "Information diet",
+        "Media diet",
+        "Mental diet"
+    ],
+    "relatedConcepts": [
+        "information-diet",
+        "news-diet",
+        "digital-minimalism",
+        "attention-management",
+        "information-filtering",
+        "mindful-consumption"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

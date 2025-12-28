@@ -1,0 +1,49 @@
+{
+    "id": "starting-ritual",
+    "name": "Starting Ritual",
+    "summary": "A consistent routine that signals the transition into focused work mode.",
+    "explanation": "A starting ritual is a consistent sequence of actions that signals your brain it's time to begin focused work. The ritual creates a transition from distraction to concentration, building an association between the routine and productive work. Examples include: making a specific tea, reviewing goals for the session, putting on particular music, setting a timer, or arranging the workspace. Starting rituals work because: consistency builds automatic associations, the ritual provides a buffer from prior context, and completing the ritual creates psychological permission to begin. Key principles: keep it short (1-5 minutes), be consistent (same elements each time), and protect it from variation. Starting rituals are particularly valuable for: work requiring creative focus, environments with many distractions, and people who struggle with task initiation. For knowledge workers, developing a starting ritual means: creating a reliable on-ramp to deep work that doesn't depend on feeling motivated or inspired.",
+    "tags": [
+        "procrastination",
+        "productivity",
+        "rituals",
+        "focus",
+        "routines"
+    ],
+    "category": "Techniques",
+    "icon": "FaPlay",
+    "featured": false,
+    "aliases": [
+        "Work ritual",
+        "Focus ritual",
+        "Pre-work routine"
+    ],
+    "relatedConcepts": [
+        "transition-rituals",
+        "deep-work",
+        "action-triggers",
+        "task-initiation",
+        "routines",
+        "focus"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

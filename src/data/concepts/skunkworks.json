@@ -1,0 +1,44 @@
+{
+    "id": "skunkworks",
+    "name": "Skunkworks",
+    "summary": "A small, autonomous team given freedom to work on breakthrough innovations outside normal structures.",
+    "explanation": "Skunkworks (from Lockheed's famous division) describes small, autonomous teams operating outside normal organizational constraints to develop breakthrough innovations. Characteristics include: small team size, high autonomy, minimal bureaucracy, top-level sponsorship, and physical or organizational separation from mainstream operations. The model works because: talented people can move faster without constraints, radical ideas are protected from corporate antibodies, and focus is maintained without competing priorities. Famous examples include: Lockheed's original Skunk Works (SR-71, F-117), Apple's Macintosh team, and Google's early Gmail development. Challenges include: reintegration with main organization, potential resentment from regular employees, and sustainability after initial project. The approach suits: breakthrough projects requiring different processes, competitive crises requiring rapid response, and explorations that would be killed in normal review processes. For knowledge workers, understanding skunkworks helps: recognize when radical separation is needed and how to operate effectively in constrained environments.",
+    "tags": [
+        "innovation",
+        "organizations",
+        "teams",
+        "autonomy",
+        "breakthroughs"
+    ],
+    "category": "Concepts",
+    "icon": "FaPlane",
+    "featured": false,
+    "aliases": [
+        "Skunk works",
+        "Innovation lab",
+        "Tiger team"
+    ],
+    "relatedConcepts": [
+        "intrapreneurship",
+        "radical-innovation",
+        "autonomy",
+        "innovation-culture",
+        "organizational-design",
+        "moonshot"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

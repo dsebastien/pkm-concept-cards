@@ -1,0 +1,49 @@
+{
+    "id": "idea-sex",
+    "name": "Idea Sex",
+    "summary": "The concept that innovation comes from ideas combining and reproducing like biological organisms.",
+    "explanation": "Idea sex, Matt Ridley's vivid metaphor, describes how ideas combine and reproduce like biological organisms, creating new ideas that inherit characteristics from their 'parents.' Just as sexual reproduction creates genetic diversity and enables evolution, the meeting and mating of ideas creates intellectual diversity and enables innovation. This explains why: cities are innovation hubs (more idea encounters), trade accelerates progress (ideas cross boundaries), and interdisciplinary work yields insights (different idea 'species' meet). The internet accelerates idea sex by enabling: global idea exchange, niche communities where related ideas concentrate, and rapid recombination. Implications include: exposure to diverse ideas matters for innovation, protecting ideas from mixing (silos, secrecy) slows progress, and the best innovations come from unlikely pairings. For knowledge workers, enabling idea sex means: seeking diverse intellectual inputs, participating in communities where ideas circulate, and actively working to connect concepts from different domains.",
+    "tags": [
+        "creativity",
+        "innovation",
+        "ideas",
+        "evolution",
+        "metaphor"
+    ],
+    "category": "Concepts",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": [
+        "Idea mating",
+        "Idea reproduction",
+        "Memetic evolution"
+    ],
+    "relatedConcepts": [
+        "combinatorial-creativity",
+        "cross-pollination",
+        "memes",
+        "evolution-of-ideas",
+        "collective-intelligence",
+        "serendipity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Rational Optimist by Matt Ridley",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

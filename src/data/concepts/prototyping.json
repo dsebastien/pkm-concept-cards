@@ -1,0 +1,44 @@
+{
+    "id": "prototyping",
+    "name": "Prototyping",
+    "summary": "Creating preliminary versions of products or ideas to test concepts and gather feedback.",
+    "explanation": "Prototyping is the practice of creating preliminary versions of products, services, or ideas to test assumptions and gather feedback before committing to full development. Prototypes range from: low-fidelity (paper sketches, mockups) to high-fidelity (working software, 3D printed models). The purpose isn't to build something perfect but to learn quickly - what works, what doesn't, and what needs to change. Key principles include: build the minimum needed to test your question, expect to throw away prototypes, and test with real users not just team members. Prototyping is central to design thinking, lean startup, and agile methodologies. Benefits include: failing fast and cheap, getting concrete feedback, and aligning stakeholders around tangible artifacts. For knowledge workers, prototyping applies beyond products: prototyping processes, organizational structures, and even career experiments. The mindset is: test before committing, learn from reality, and iterate based on feedback.",
+    "tags": [
+        "innovation",
+        "design",
+        "testing",
+        "iteration",
+        "feedback"
+    ],
+    "category": "Techniques",
+    "icon": "FaDraftingCompass",
+    "featured": false,
+    "aliases": [
+        "Prototype development",
+        "Rapid prototyping",
+        "MVP building"
+    ],
+    "relatedConcepts": [
+        "minimum-viable-product",
+        "rapid-experimentation",
+        "design-thinking",
+        "iteration",
+        "user-testing",
+        "fail-fast"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

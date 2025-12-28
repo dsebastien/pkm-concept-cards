@@ -1,0 +1,49 @@
+{
+    "id": "attention-economy",
+    "name": "Attention Economy",
+    "summary": "An economic framework where human attention is the scarce resource being traded and monetized.",
+    "explanation": "The attention economy is a framework recognizing that in an information-rich world, human attention becomes the scarce resource. Companies, media, apps, and content compete for attention because capturing it enables monetization through advertising, engagement, and data. Herbert Simon predicted this in 1971: 'a wealth of information creates a poverty of attention.' The attention economy explains: why free services exist (you pay with attention), why platforms are addictive by design, and why it's increasingly difficult to focus. Implications include: your attention has economic value others are extracting, environmental design matters (surroundings compete for attention), and protecting attention is protecting a valuable resource. Critics note the attention economy incentivizes: outrage over nuance, addiction over wellbeing, and short-term engagement over long-term value. For knowledge workers, understanding the attention economy helps: recognize what's competing for attention, protect this scarce resource, and make conscious choices about attention allocation.",
+    "tags": [
+        "attention",
+        "economics",
+        "technology",
+        "digital-wellness",
+        "society"
+    ],
+    "category": "Concepts",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": [
+        "Economy of attention",
+        "Attention marketplace",
+        "Attention capitalism"
+    ],
+    "relatedConcepts": [
+        "attention-merchants",
+        "attention-capitalism",
+        "digital-distraction",
+        "social-media",
+        "advertising",
+        "attention-management"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Attention Merchants by Tim Wu",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

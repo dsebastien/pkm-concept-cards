@@ -1,0 +1,44 @@
+{
+    "id": "task-initiation",
+    "name": "Task Initiation",
+    "summary": "The executive function skill of beginning tasks without excessive delay or procrastination.",
+    "explanation": "Task initiation is the executive function skill of starting tasks independently and without excessive delay. It's distinct from task completion - many people can work productively once started but struggle with beginning. Task initiation difficulties manifest as: waiting until the last minute, needing external pressure to start, excessive preparation before beginning, and feeling 'stuck' at the starting point. Factors affecting task initiation include: task clarity (unclear tasks are harder to start), emotional associations (dreaded tasks resist initiation), energy levels (low energy impairs initiation), and environmental cues (surroundings may not signal 'work'). Strategies for improving task initiation: break tasks into micro-steps (first action crystal clear), create starting rituals, reduce friction to beginning, set artificial deadlines, and use external accountability. For knowledge workers, task initiation is often the critical bottleneck - improving it may matter more than improving how you work once started.",
+    "tags": [
+        "procrastination",
+        "executive-function",
+        "productivity",
+        "starting",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaFlagCheckered",
+    "featured": false,
+    "aliases": [
+        "Starting tasks",
+        "Getting started",
+        "Beginning work"
+    ],
+    "relatedConcepts": [
+        "activation-energy",
+        "starting-ritual",
+        "resistance-to-starting",
+        "executive-function",
+        "procrastination",
+        "momentum"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

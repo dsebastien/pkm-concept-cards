@@ -1,0 +1,44 @@
+{
+    "id": "attention-as-currency",
+    "name": "Attention as Currency",
+    "summary": "Viewing attention as a limited resource that can be spent, invested, or wasted.",
+    "explanation": "Attention as currency is a mental model treating attention as a finite resource to be allocated deliberately - like money. Every attention decision is a spending choice: giving attention to one thing means not giving it to another. This framing helps: recognize the true cost of 'free' content (you pay with attention), evaluate attention investments (what return do I get?), and protect attention like you'd protect money. Like currency, attention can be: spent wisely or wasted, invested for future returns, or stolen/extracted by others. Unlike money, attention can't be saved - each moment's attention is use-it-or-lose-it. The currency metaphor suggests practices like: attention budgeting (allocating attention deliberately), attention ROI (evaluating attention investments), and attention protection (guarding against theft). For knowledge workers, treating attention as currency means: making explicit allocation decisions, recognizing opportunity costs, and valuing attention at its true worth.",
+    "tags": [
+        "attention",
+        "mental-model",
+        "productivity",
+        "value",
+        "decision-making"
+    ],
+    "category": "Concepts",
+    "icon": "FaCoins",
+    "featured": false,
+    "aliases": [
+        "Attention value",
+        "Attention allocation",
+        "Attention budgeting"
+    ],
+    "relatedConcepts": [
+        "attention-economy",
+        "opportunity-cost",
+        "resource-allocation",
+        "attention-management",
+        "time-investment",
+        "mental-models"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

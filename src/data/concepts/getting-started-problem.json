@@ -1,0 +1,44 @@
+{
+    "id": "getting-started-problem",
+    "name": "Getting Started Problem",
+    "summary": "The specific challenge of initiating work, often harder than the work itself.",
+    "explanation": "The getting-started problem describes the specific challenge of beginning work - often the hardest part of any task. Many people can work productively once started but face significant psychological barriers to initiation. The problem manifests as: chronic delays before beginning, elaborate preparation that never becomes action, waiting for 'right conditions' that never arrive, and disproportionate anxiety about starting compared to doing. Causes include: fear of imperfection (starting makes mediocrity real), overwhelm (unclear where to begin), loss aversion (starting means committing), and task aversiveness (unpleasant tasks are harder to begin). Solutions target the specific starting barrier: making first step trivially small, using external triggers, committing publicly, starting imperfectly, and building starting rituals. For knowledge workers, solving the getting-started problem is often more valuable than optimizing how you work once started - starting is the critical bottleneck.",
+    "tags": [
+        "procrastination",
+        "productivity",
+        "starting",
+        "psychology",
+        "barriers"
+    ],
+    "category": "Concepts",
+    "icon": "FaQuestionCircle",
+    "featured": false,
+    "aliases": [
+        "Start problem",
+        "Initiation barrier",
+        "Beginning challenge"
+    ],
+    "relatedConcepts": [
+        "task-initiation",
+        "resistance-to-starting",
+        "activation-energy",
+        "starting-ritual",
+        "fear-of-failure",
+        "perfectionism"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

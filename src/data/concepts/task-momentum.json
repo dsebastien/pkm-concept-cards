@@ -1,0 +1,44 @@
+{
+    "id": "task-momentum",
+    "name": "Task Momentum",
+    "summary": "The tendency for ongoing work to continue more easily than starting or restarting.",
+    "explanation": "Task momentum refers to the phenomenon where work in progress continues more easily than work that must be started or restarted. Like physical momentum, tasks in motion require less effort to maintain than to initiate. This explains: why interruptions are costly (momentum must be rebuilt), why long breaks create restart resistance, and why partially completed tasks feel easier than new ones. Momentum is maintained by: protecting work sessions from interruption, leaving clear restart points when stopping, and ending sessions mid-flow rather than at completion (the Hemingway technique). Momentum is lost by: context switching, extended breaks, and completing tasks without immediately starting the next. For knowledge workers, understanding task momentum means: structuring work to protect ongoing momentum, leaving 'on-ramps' for future sessions (clear next steps, partial drafts), and recognizing that short focused sessions may accomplish more than long fragmented ones.",
+    "tags": [
+        "procrastination",
+        "productivity",
+        "focus",
+        "work",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaTachometerAlt",
+    "featured": false,
+    "aliases": [
+        "Work momentum",
+        "Flow continuation",
+        "Productive inertia"
+    ],
+    "relatedConcepts": [
+        "momentum-building",
+        "flow-state",
+        "context-switching",
+        "interruption-costs",
+        "attention-residue",
+        "deep-work"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

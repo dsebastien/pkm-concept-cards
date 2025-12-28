@@ -1,0 +1,44 @@
+{
+    "id": "selective-attention",
+    "name": "Selective Attention",
+    "summary": "The cognitive process of focusing on specific stimuli while filtering out others.",
+    "explanation": "Selective attention is the cognitive ability to focus on particular stimuli while filtering out irrelevant information. It's how you can follow one conversation at a noisy party (the 'cocktail party effect') or read despite background noise. Selective attention involves: choosing what to focus on, maintaining that focus, and suppressing competing stimuli. It operates through both enhancement (boosting relevant signals) and suppression (dampening irrelevant ones). Selective attention is limited - divided attention degrades performance. Famous demonstrations include: the gorilla experiment (intense focus causes blindness to unexpected stimuli) and change blindness studies. Factors affecting selective attention include: salience (loud, moving things capture attention), relevance (what matters gets noticed), and cognitive load (less selectivity when tired). For knowledge workers, understanding selective attention helps: design environments that support focus, recognize attention limitations, and appreciate that what you're not attending to isn't being processed.",
+    "tags": [
+        "attention",
+        "cognition",
+        "psychology",
+        "focus",
+        "perception"
+    ],
+    "category": "Concepts",
+    "icon": "FaFilter",
+    "featured": false,
+    "aliases": [
+        "Focused attention",
+        "Attentional filtering",
+        "Attention selection"
+    ],
+    "relatedConcepts": [
+        "divided-attention",
+        "inattentional-blindness",
+        "cocktail-party-effect",
+        "attention-filtering",
+        "focus",
+        "perception"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

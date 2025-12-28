@@ -1,0 +1,44 @@
+{
+    "id": "attention-span",
+    "name": "Attention Span",
+    "summary": "The length of time one can concentrate on a task without becoming distracted.",
+    "explanation": "Attention span refers to the duration one can maintain focused concentration on a task before distraction or attention wandering occurs. Claims of decreasing attention spans (often citing 'goldfish' comparisons) are largely unsupported by rigorous research - attention is context-dependent, not fixed. What has changed is: the environment (more competing stimuli), expectations (instant gratification more available), and measurement (we're more aware of distraction). Factors affecting attention span include: task engagement (interesting tasks hold attention longer), external distractions, internal state (fatigue, stress), and practice (attention can be trained). Rather than a fixed capacity, attention span is better understood as: varying by context, improvable through practice, and affected by environmental design. For knowledge workers, understanding attention span means: not treating it as fixed, designing environments that support sustained focus, and recognizing that capacity for attention to important work can be developed.",
+    "tags": [
+        "attention",
+        "focus",
+        "cognition",
+        "productivity",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Focus duration",
+        "Concentration span",
+        "Attention capacity"
+    ],
+    "relatedConcepts": [
+        "sustained-attention",
+        "focus",
+        "distraction",
+        "attention-training",
+        "concentration",
+        "deep-work"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

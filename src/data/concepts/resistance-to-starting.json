@@ -1,0 +1,49 @@
+{
+    "id": "resistance-to-starting",
+    "name": "Resistance to Starting",
+    "summary": "The psychological barrier that makes beginning tasks more difficult than continuing them.",
+    "explanation": "Resistance to starting is the psychological phenomenon where beginning a task feels significantly harder than continuing it once started. This resistance often exceeds the actual difficulty of the work itself. Steven Pressfield calls this force 'Resistance' (capitalized) - an adversary that opposes creative work. Resistance manifests as: procrastination, distraction-seeking, rationalizing delays, and physical discomfort at the thought of starting. The resistance typically: peaks right before beginning, decreases once work starts, and is strongest for important or meaningful work. Understanding resistance helps because: it's predictable (expect it for important work), it's not personal (everyone experiences it), and it's a compass (what you resist may be what matters most). Strategies include: acknowledging resistance without obeying it, making starting as easy as possible, using momentum from easier tasks, and creating external accountability. For knowledge workers, treating resistance as normal rather than as a personal failing helps maintain progress on meaningful work.",
+    "tags": [
+        "procrastination",
+        "creativity",
+        "psychology",
+        "productivity",
+        "starting"
+    ],
+    "category": "Concepts",
+    "icon": "FaStop",
+    "featured": false,
+    "aliases": [
+        "The Resistance",
+        "Starting friction",
+        "Beginning barrier"
+    ],
+    "relatedConcepts": [
+        "task-initiation",
+        "activation-energy",
+        "creative-resistance",
+        "fear-of-failure",
+        "avoidance",
+        "momentum"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The War of Art by Steven Pressfield",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "temporal-motivation-theory",
+    "name": "Temporal Motivation Theory",
+    "summary": "A theory explaining how motivation changes based on the timing of rewards and costs.",
+    "explanation": "Temporal Motivation Theory (TMT), developed by Piers Steel and Cornelius König, integrates insights from expectancy theory, need theory, and hyperbolic discounting to explain motivation and procrastination. The core insight: motivation isn't static but changes over time as deadlines approach or recede. TMT explains why: we prefer tasks with immediate rewards, motivation spikes as deadlines near, and distant rewards motivate poorly despite their objective value. The theory predicts when procrastination is most likely: tasks with delayed rewards, low personal value, or uncertain outcomes. TMT synthesizes into the procrastination equation, providing intervention strategies for each component. The temporal aspect is key - the same task at different times has different motivational pull. For knowledge workers, TMT helps: understand why motivation fluctuates, design work structures that account for temporal effects, and create artificial deadlines that leverage approaching-deadline motivation.",
+    "tags": [
+        "procrastination",
+        "motivation",
+        "psychology",
+        "theory",
+        "time"
+    ],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "TMT",
+        "Steel-König theory",
+        "Time-based motivation"
+    ],
+    "relatedConcepts": [
+        "procrastination-equation",
+        "temporal-discounting",
+        "deadline-effect",
+        "motivation",
+        "hyperbolic-discounting",
+        "expectancy-theory"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Procrastination Equation by Piers Steel",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

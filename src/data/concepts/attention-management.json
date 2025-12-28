@@ -1,0 +1,49 @@
+{
+    "id": "attention-management",
+    "name": "Attention Management",
+    "summary": "The practice of deliberately controlling where attention goes rather than letting it be captured.",
+    "explanation": "Attention management is the practice of deliberately controlling attention allocation rather than allowing it to be captured by whatever is most salient, urgent, or addictive. Unlike time management (organizing when to do things), attention management focuses on the quality of engagement during those times. Key practices include: environment design (removing distractions), ritual development (creating attention-supporting habits), attention training (building focus capacity), and intention setting (deciding where attention should go). Maura Thomas emphasizes that in the attention economy, managing attention is more important than managing time - you can have time available but attention elsewhere. Attention management requires: awareness of attention patterns, proactive protection of focus, and recognition that attention is under siege. For knowledge workers, attention management is increasingly critical because: the environment is designed to capture attention, and the value of knowledge work depends on focus quality, not just time spent.",
+    "tags": [
+        "attention",
+        "productivity",
+        "focus",
+        "self-management",
+        "skills"
+    ],
+    "category": "Techniques",
+    "icon": "FaUserCog",
+    "featured": false,
+    "aliases": [
+        "Managing attention",
+        "Focus management",
+        "Attention control"
+    ],
+    "relatedConcepts": [
+        "time-management",
+        "deep-work",
+        "distraction-management",
+        "environment-design",
+        "focus",
+        "intentional-living"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Attention Management by Maura Thomas",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

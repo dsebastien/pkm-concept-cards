@@ -1,0 +1,44 @@
+{
+    "id": "intention-action-gap",
+    "name": "Intention-Action Gap",
+    "summary": "The difference between what people intend to do and what they actually do.",
+    "explanation": "The intention-action gap describes the common disconnect between intentions and behaviors. People intend to exercise, eat healthy, save money, or be more productive - but often don't follow through. Research shows: intentions are necessary but not sufficient for behavior change, and the gap can be surprisingly large (many people who intend to vote, recycle, or exercise don't). Factors widening the gap include: lack of specific plans (vague intentions vs. concrete actions), environmental barriers, competing priorities, and failure to anticipate obstacles. Bridging the gap requires: implementation intentions (specific if-then plans), environmental design (making good behavior easier), and reducing friction for intended actions. The gap is particularly problematic because: people overestimate their future follow-through, and systems designed assuming people will act on intentions often fail. For knowledge workers, closing the intention-action gap means: focusing less on motivation and more on action systems that convert intentions into behaviors.",
+    "tags": [
+        "procrastination",
+        "behavior-change",
+        "psychology",
+        "intentions",
+        "action"
+    ],
+    "category": "Concepts",
+    "icon": "FaArrowRight",
+    "featured": false,
+    "aliases": [
+        "Say-do gap",
+        "Knowing-doing gap",
+        "Behavior gap"
+    ],
+    "relatedConcepts": [
+        "implementation-intentions",
+        "akrasia",
+        "behavior-change",
+        "habit-formation",
+        "friction",
+        "environment-design"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "productive-procrastination",
+    "name": "Productive Procrastination",
+    "summary": "Doing useful but lower-priority tasks to avoid more important or difficult work.",
+    "explanation": "Productive procrastination occurs when you delay important work by doing other useful but lower-priority tasks. You might clean your desk, organize files, or work on minor projects while avoiding the critical task. It feels productive because work is getting done, but it's still procrastination. Productive procrastination is particularly insidious because: it's hard to recognize (you're busy), it provides accomplishment feelings (tasks complete), and it's easy to rationalize (it needed doing anyway). The key distinction: are you doing this task now because it's most important, or because you're avoiding something harder? Productive procrastination often involves: tasks that are urgent but not important, visible or quantifiable work over impactful work, and comfortable tasks over challenging ones. For knowledge workers, recognizing productive procrastination helps: distinguish busyness from progress, notice avoidance patterns, and redirect energy to what matters most even when it's uncomfortable.",
+    "tags": [
+        "procrastination",
+        "productivity",
+        "avoidance",
+        "prioritization",
+        "self-awareness"
+    ],
+    "category": "Concepts",
+    "icon": "FaCheckSquare",
+    "featured": false,
+    "aliases": [
+        "Priority displacement",
+        "Useful procrastination",
+        "Busy-work procrastination"
+    ],
+    "relatedConcepts": [
+        "structured-procrastination",
+        "eisenhower-matrix",
+        "important-vs-urgent",
+        "avoidance",
+        "displacement-activity",
+        "busyness-trap"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

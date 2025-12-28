@@ -1,0 +1,44 @@
+{
+    "id": "intrapreneurship",
+    "name": "Intrapreneurship",
+    "summary": "Entrepreneurial behavior within established organizations to drive innovation and new ventures.",
+    "explanation": "Intrapreneurship describes entrepreneurial behavior within established organizations - employees who act like entrepreneurs, taking initiative to innovate and create new value. Intrapreneurs identify opportunities, secure resources, take calculated risks, and drive new products or business models within corporate constraints. Benefits for organizations include: innovation without startup risk, retaining entrepreneurial employees, and leveraging existing assets. Benefits for individuals include: entrepreneurial experience with stable employment, access to corporate resources, and impact at scale. Successful intrapreneurship requires: organizational support (resources, protection, pathways), individual skills (initiative, resilience, navigation of politics), and right matching of opportunity to context. Challenges include: bureaucratic resistance, conflicting incentives (rewarding risk in risk-averse cultures), and difficulty protecting nascent ideas from corporate pressures. For knowledge workers, intrapreneurship offers: a path to entrepreneurial work within employment, skills development for future ventures, and opportunity for meaningful impact.",
+    "tags": [
+        "innovation",
+        "entrepreneurship",
+        "organizations",
+        "initiative",
+        "career"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserTie",
+    "featured": false,
+    "aliases": [
+        "Corporate entrepreneurship",
+        "Internal entrepreneurship",
+        "Corporate ventures"
+    ],
+    "relatedConcepts": [
+        "entrepreneurship",
+        "innovation-culture",
+        "skunkworks",
+        "initiative",
+        "corporate-innovation",
+        "ownership-mindset"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

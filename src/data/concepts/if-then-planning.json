@@ -1,0 +1,44 @@
+{
+    "id": "if-then-planning",
+    "name": "If-Then Planning",
+    "summary": "Creating specific plans linking situations to actions: 'If X happens, I will do Y.'",
+    "explanation": "If-then planning (also called implementation intentions) is the practice of creating specific conditional plans: 'If situation X occurs, then I will perform behavior Y.' Research by Peter Gollwitzer shows this format dramatically increases follow-through compared to vague intentions. Examples: 'If I finish my morning coffee, I will work on my most important task' or 'If I feel the urge to check social media, I will take three deep breaths instead.' If-then plans work because: they pre-decide actions (removing in-the-moment deliberation), create strong situation-behavior links (automatic triggering), and leverage habit formation mechanisms. Effective if-then plans are: specific (not vague situations or actions), realistic (situations you'll actually encounter), and rehearsed (mentally practiced). For knowledge workers, if-then planning helps: overcome procrastination by removing decision points, automate positive behaviors, and create reliable routines without relying on motivation or willpower in the moment.",
+    "tags": [
+        "procrastination",
+        "planning",
+        "behavior-change",
+        "habits",
+        "productivity"
+    ],
+    "category": "Techniques",
+    "icon": "FaCodeBranch",
+    "featured": false,
+    "aliases": [
+        "Implementation intentions",
+        "Conditional planning",
+        "Trigger-action planning"
+    ],
+    "relatedConcepts": [
+        "implementation-intentions",
+        "action-triggers",
+        "habit-stacking",
+        "pre-commitment",
+        "automaticity",
+        "behavior-change"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "pivot-or-persevere",
+    "name": "Pivot or Persevere",
+    "summary": "The structured decision to either change course based on learning or continue current direction.",
+    "explanation": "Pivot or persevere is a key lean startup concept: the structured decision point where you assess learning and decide whether to fundamentally change direction (pivot) or continue the current approach (persevere). A pivot isn't abandonment - it's keeping one foot planted while changing direction: same vision, different strategy. Types of pivots include: customer segment (different users), problem (different need), solution (different approach), channel, revenue model, or platform. The decision requires: clear success metrics defined upfront, honest assessment of progress, and willingness to admit when things aren't working. Persevering despite evidence requires examining whether you're avoiding difficult pivots. Pivoting too easily may mean never giving ideas enough time. The key is systematizing the decision: regular pivot-or-persevere meetings with pre-defined criteria. For knowledge workers, pivot-or-persevere thinking applies to: career decisions, project directions, and personal development approaches.",
+    "tags": [
+        "innovation",
+        "decisions",
+        "strategy",
+        "startups",
+        "adaptation"
+    ],
+    "category": "Concepts",
+    "icon": "FaDirections",
+    "featured": false,
+    "aliases": [
+        "Strategic pivot",
+        "Course correction",
+        "Direction change"
+    ],
+    "relatedConcepts": [
+        "lean-startup",
+        "validated-learning",
+        "sunk-cost-fallacy",
+        "strategic-flexibility",
+        "decision-points",
+        "experimentation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Lean Startup by Eric Ries",
+            "url": "https://amzn.to/3Dp08MT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
