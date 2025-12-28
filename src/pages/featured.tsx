@@ -1,11 +1,13 @@
-import { useMemo, useCallback } from 'react'
+import { useMemo, useCallback, useState, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router'
 import { FaStar, FaArrowLeft, FaArrowRight } from 'react-icons/fa'
 import Section from '@/components/ui/section'
 import { AnimatedPage, AnimatedHero, motion } from '@/components/ui/animated'
 import AnimatedCounter from '@/components/ui/animated-counter'
 import ConceptIcon from '@/components/concepts/concept-icon'
+import ConceptDetailModal from '@/components/concepts/concept-detail-modal'
 import { conceptsData } from '@/data'
+import { useExploredConcepts } from '@/hooks/use-explored-concepts'
 import type { Concept } from '@/types/concept'
 
 // Colors for concept cards
@@ -24,6 +26,8 @@ const cardColors = [
 
 const FeaturedPage: React.FC = () => {
     const navigate = useNavigate()
+    const { isExplored, markAsExplored } = useExploredConcepts()
+    const [selectedConcept, setSelectedConcept] = useState<Concept | null>(null)
 
     const featuredData = useMemo(() => {
         const concepts = conceptsData.concepts
@@ -41,13 +45,56 @@ const FeaturedPage: React.FC = () => {
         }
     }, [])
 
-    const handleShowDetails = useCallback(
-        (concept: Concept) => {
-            // Navigate to canonical concept URL with from param
-            navigate(`/concept/${concept.id}?from=/featured`)
+    const handleShowDetails = useCallback((concept: Concept) => {
+        setSelectedConcept(concept)
+        // Update URL for shareability without navigation
+        window.history.pushState({}, '', `/concept/${concept.id}?from=/featured`)
+    }, [])
+
+    const handleCloseDetails = useCallback(() => {
+        setSelectedConcept(null)
+        // Restore URL to featured page
+        window.history.pushState({}, '', '/featured')
+    }, [])
+
+    const handleNavigateToConcept = useCallback((concept: Concept) => {
+        setSelectedConcept(concept)
+        // Update URL for the new concept
+        window.history.replaceState({}, '', `/concept/${concept.id}?from=/featured`)
+    }, [])
+
+    const handleTagClick = useCallback(
+        (tag: string) => {
+            navigate(`/tag/${encodeURIComponent(tag)}`)
         },
         [navigate]
     )
+
+    const handleCategoryClick = useCallback(
+        (category: string) => {
+            navigate(`/category/${encodeURIComponent(category)}`)
+        },
+        [navigate]
+    )
+
+    // Mark concept as explored when modal opens
+    useEffect(() => {
+        if (selectedConcept) {
+            markAsExplored(selectedConcept.id)
+        }
+    }, [selectedConcept, markAsExplored])
+
+    // Handle browser back button
+    useEffect(() => {
+        const handlePopState = () => {
+            // If we're back on /featured, close the modal
+            if (window.location.pathname === '/featured') {
+                setSelectedConcept(null)
+            }
+        }
+        window.addEventListener('popstate', handlePopState)
+        return () => window.removeEventListener('popstate', handlePopState)
+    }, [])
 
     return (
         <AnimatedPage>
@@ -143,6 +190,18 @@ const FeaturedPage: React.FC = () => {
                     </div>
                 </div>
             </Section>
+
+            {/* Detail Modal */}
+            <ConceptDetailModal
+                concept={selectedConcept}
+                allConcepts={featuredData.featuredConcepts}
+                isOpen={!!selectedConcept}
+                onClose={handleCloseDetails}
+                onNavigateToConcept={handleNavigateToConcept}
+                onTagClick={handleTagClick}
+                onCategoryClick={handleCategoryClick}
+                isExplored={isExplored}
+            />
         </AnimatedPage>
     )
 }

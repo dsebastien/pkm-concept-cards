@@ -116,25 +116,35 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
         })
     }, [allConcepts])
 
-    // Find current index and prev/next concepts
+    // Find current index and prev/next concepts (carousel style - wraps around)
     const currentIndex = useMemo(() => {
         if (!concept) return -1
         return sortedConcepts.findIndex((c) => c.id === concept.id)
     }, [concept, sortedConcepts])
 
-    const prevConcept = currentIndex > 0 ? sortedConcepts[currentIndex - 1] : null
-    const nextConcept =
-        currentIndex < sortedConcepts.length - 1 ? sortedConcepts[currentIndex + 1] : null
+    const prevConcept = useMemo(() => {
+        if (sortedConcepts.length === 0 || currentIndex === -1) return null
+        // Wrap to last item if at the beginning
+        const prevIndex = currentIndex === 0 ? sortedConcepts.length - 1 : currentIndex - 1
+        return sortedConcepts[prevIndex]
+    }, [sortedConcepts, currentIndex])
+
+    const nextConcept = useMemo(() => {
+        if (sortedConcepts.length === 0 || currentIndex === -1) return null
+        // Wrap to first item if at the end
+        const nextIndex = currentIndex === sortedConcepts.length - 1 ? 0 : currentIndex + 1
+        return sortedConcepts[nextIndex]
+    }, [sortedConcepts, currentIndex])
 
     const handlePrevious = () => {
-        if (prevConcept) {
+        if (prevConcept && sortedConcepts.length > 1) {
             setSlideDirection('right')
             onNavigateToConcept(prevConcept)
         }
     }
 
     const handleNext = () => {
-        if (nextConcept) {
+        if (nextConcept && sortedConcepts.length > 1) {
             setSlideDirection('left')
             onNavigateToConcept(nextConcept)
         }
@@ -144,9 +154,9 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
         const handleKeyDown = (e: KeyboardEvent) => {
             if (e.key === 'Escape') {
                 onClose()
-            } else if (e.key === 'ArrowLeft' && prevConcept) {
+            } else if (e.key === 'ArrowLeft' && sortedConcepts.length > 1) {
                 handlePrevious()
-            } else if (e.key === 'ArrowRight' && nextConcept) {
+            } else if (e.key === 'ArrowRight' && sortedConcepts.length > 1) {
                 handleNext()
             }
         }
@@ -435,9 +445,9 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                     {/* Previous Button */}
                                     <button
                                         onClick={handlePrevious}
-                                        disabled={!prevConcept}
+                                        disabled={sortedConcepts.length <= 1}
                                         className={`flex items-center gap-2 rounded-lg px-3 py-2 font-medium transition-colors sm:px-4 sm:py-3 ${
-                                            prevConcept
+                                            sortedConcepts.length > 1
                                                 ? 'bg-primary/10 hover:bg-primary/20 text-primary'
                                                 : 'text-primary/30 bg-primary/5 cursor-not-allowed'
                                         }`}
@@ -445,7 +455,7 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                         title={
                                             prevConcept
                                                 ? `Previous: ${prevConcept.name}`
-                                                : 'No previous concept'
+                                                : 'No other concepts'
                                         }
                                     >
                                         <FaChevronLeft className='h-4 w-4' />
@@ -463,9 +473,9 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                     {/* Next Button */}
                                     <button
                                         onClick={handleNext}
-                                        disabled={!nextConcept}
+                                        disabled={sortedConcepts.length <= 1}
                                         className={`flex items-center gap-2 rounded-lg px-3 py-2 font-medium transition-colors sm:px-4 sm:py-3 ${
-                                            nextConcept
+                                            sortedConcepts.length > 1
                                                 ? 'bg-primary/10 hover:bg-primary/20 text-primary'
                                                 : 'text-primary/30 bg-primary/5 cursor-not-allowed'
                                         }`}
@@ -473,7 +483,7 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                         title={
                                             nextConcept
                                                 ? `Next: ${nextConcept.name}`
-                                                : 'No next concept'
+                                                : 'No other concepts'
                                         }
                                     >
                                         <span className='hidden sm:inline'>Next</span>

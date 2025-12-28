@@ -1,18 +1,20 @@
-import { useMemo, useState, useCallback } from 'react'
+import { useMemo, useState, useCallback, useEffect } from 'react'
 import { Link, useNavigate } from 'react-router'
 import { FaCompass, FaArrowLeft, FaEnvelope, FaTh, FaList } from 'react-icons/fa'
 import Section from '@/components/ui/section'
 import { AnimatedPage, AnimatedHero, motion } from '@/components/ui/animated'
 import AnimatedCounter from '@/components/ui/animated-counter'
 import VirtualizedConceptList from '@/components/concepts/virtualized-concept-list'
+import ConceptDetailModal from '@/components/concepts/concept-detail-modal'
 import { conceptsData } from '@/data'
 import { useExploredConcepts } from '@/hooks/use-explored-concepts'
 import type { Concept } from '@/types/concept'
 
 const UnexploredPage: React.FC = () => {
     const navigate = useNavigate()
-    const { isExplored } = useExploredConcepts()
+    const { isExplored, markAsExplored } = useExploredConcepts()
     const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid')
+    const [selectedConcept, setSelectedConcept] = useState<Concept | null>(null)
 
     const unexploredConcepts = useMemo(() => {
         return conceptsData.concepts
@@ -30,13 +32,42 @@ const UnexploredPage: React.FC = () => {
     const exploredCount = totalConcepts - unexploredCount
     const progressPercentage = Math.round((exploredCount / totalConcepts) * 100)
 
-    const handleShowDetails = useCallback(
-        (concept: Concept) => {
-            // Navigate to canonical concept URL with from param
-            navigate(`/concept/${concept.id}?from=/unexplored`)
-        },
-        [navigate]
-    )
+    const handleShowDetails = useCallback((concept: Concept) => {
+        setSelectedConcept(concept)
+        // Update URL for shareability without navigation
+        window.history.pushState({}, '', `/concept/${concept.id}?from=/unexplored`)
+    }, [])
+
+    const handleCloseDetails = useCallback(() => {
+        setSelectedConcept(null)
+        // Restore URL to unexplored page
+        window.history.pushState({}, '', '/unexplored')
+    }, [])
+
+    const handleNavigateToConcept = useCallback((concept: Concept) => {
+        setSelectedConcept(concept)
+        // Update URL for the new concept
+        window.history.replaceState({}, '', `/concept/${concept.id}?from=/unexplored`)
+    }, [])
+
+    // Mark concept as explored when modal opens
+    useEffect(() => {
+        if (selectedConcept) {
+            markAsExplored(selectedConcept.id)
+        }
+    }, [selectedConcept, markAsExplored])
+
+    // Handle browser back button
+    useEffect(() => {
+        const handlePopState = () => {
+            // If we're back on /unexplored, close the modal
+            if (window.location.pathname === '/unexplored') {
+                setSelectedConcept(null)
+            }
+        }
+        window.addEventListener('popstate', handlePopState)
+        return () => window.removeEventListener('popstate', handlePopState)
+    }, [])
 
     const handleTagClick = useCallback(
         (tag: string) => {
@@ -243,6 +274,18 @@ const UnexploredPage: React.FC = () => {
                     />
                 </div>
             </Section>
+
+            {/* Detail Modal */}
+            <ConceptDetailModal
+                concept={selectedConcept}
+                allConcepts={unexploredConcepts}
+                isOpen={!!selectedConcept}
+                onClose={handleCloseDetails}
+                onNavigateToConcept={handleNavigateToConcept}
+                onTagClick={handleTagClick}
+                onCategoryClick={handleCategoryClick}
+                isExplored={isExplored}
+            />
         </AnimatedPage>
     )
 }

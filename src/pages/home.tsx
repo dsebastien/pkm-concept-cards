@@ -260,15 +260,15 @@ const HomePage: React.FC = () => {
                 fromPath = `/category/${categoryName}`
             }
 
-            // Navigate to canonical concept URL with from param
-            const params = new URLSearchParams()
+            // Navigate to canonical concept URL, preserving filter params
+            const params = new URLSearchParams(searchParams)
             if (fromPath !== '/') {
                 params.set('from', fromPath)
             }
             const queryString = params.toString()
             navigate(`/concept/${concept.id}${queryString ? `?${queryString}` : ''}`)
         },
-        [navigate, tagName, categoryName]
+        [navigate, tagName, categoryName, searchParams]
     )
 
     const handleCloseDetails = useCallback(() => {
@@ -277,7 +277,11 @@ const HomePage: React.FC = () => {
         if (fromPath) {
             navigate(fromPath)
         } else {
-            navigate('/')
+            // Return to home with current filters preserved (excluding 'from')
+            const params = new URLSearchParams(searchParams)
+            params.delete('from')
+            const queryString = params.toString()
+            navigate(`/${queryString ? `?${queryString}` : ''}`)
         }
     }, [navigate, searchParams])
 
@@ -558,7 +562,7 @@ const HomePage: React.FC = () => {
             {/* Detail Modal */}
             <ConceptDetailModal
                 concept={selectedConcept}
-                allConcepts={conceptsData.concepts}
+                allConcepts={sortedConcepts}
                 isOpen={isDetailModalOpen}
                 onClose={handleCloseDetails}
                 onNavigateToConcept={handleShowDetails}
