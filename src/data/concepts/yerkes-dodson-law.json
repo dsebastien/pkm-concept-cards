@@ -1,0 +1,44 @@
+{
+    "id": "yerkes-dodson-law",
+    "name": "Yerkes-Dodson Law",
+    "summary": "Performance increases with arousal up to a point, then decreases with too much arousal.",
+    "explanation": "The Yerkes-Dodson Law describes the relationship between arousal (stress, anxiety, motivation) and performance: performance improves with increased arousal up to an optimal point, beyond which further arousal causes performance to decline. The relationship forms an inverted U-curve. Key implications: some stress is beneficial (eustress improves focus and energy), too little arousal causes poor performance (boredom, lack of motivation), too much arousal also causes poor performance (anxiety, overwhelm), and optimal arousal varies by task (simple tasks tolerate higher arousal; complex tasks require lower arousal). Practical applications: for difficult cognitive work, manage anxiety and create calm conditions; for simple or physical tasks, some pressure can help; and recognize when you're on the wrong side of the curve (too stressed or too relaxed). Finding your optimal zone: notice when you perform best, calibrate challenge level, and use techniques to increase or decrease arousal as needed. For knowledge workers, the Yerkes-Dodson Law explains: why some pressure helps productivity, why too much stress undermines complex thinking, and why managing arousal is key to peak performance.",
+    "tags": [
+        "psychology",
+        "performance",
+        "stress",
+        "productivity",
+        "laws"
+    ],
+    "category": "Principles",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Arousal-performance curve",
+        "Optimal arousal",
+        "Stress-performance relationship"
+    ],
+    "relatedConcepts": [
+        "stress",
+        "performance",
+        "anxiety",
+        "flow-state",
+        "eustress",
+        "productivity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

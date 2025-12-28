@@ -1,0 +1,44 @@
+{
+    "id": "cingulate-cortex",
+    "name": "Cingulate Cortex",
+    "summary": "A brain region involved in emotion, decision-making, and cognitive control.",
+    "explanation": "The cingulate cortex is a brain region located above the corpus callosum, involved in emotion processing, decision-making, and cognitive control. It's part of the limbic system and serves as a bridge between emotion and cognition. Key functions: error detection (recognizing when things go wrong), conflict monitoring (detecting competing responses), emotional regulation (modulating emotional responses), and attention allocation (directing focus). The anterior cingulate cortex (ACC) is particularly important for: detecting discrepancies between expected and actual outcomes, pain processing (both physical and social pain), and reward-based decision-making. The posterior cingulate is involved in: self-referential thinking, memory retrieval, and the default mode network. Why it matters for understanding yourself: the ACC is active when you feel conflicted, make difficult decisions, or notice mistakes. Dysfunction is linked to depression, anxiety, and OCD. For knowledge workers, understanding the cingulate cortex helps: appreciate the neural basis of decision difficulty, understand why errors feel aversive, and recognize the brain systems underlying self-monitoring and correction.",
+    "tags": [
+        "neuroscience",
+        "brain",
+        "decision-making",
+        "emotions",
+        "cognition"
+    ],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "ACC",
+        "Anterior cingulate",
+        "Cingulate gyrus"
+    ],
+    "relatedConcepts": [
+        "prefrontal-cortex",
+        "limbic-system",
+        "decision-making",
+        "emotional-control",
+        "error-detection",
+        "attention"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

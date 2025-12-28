@@ -1,0 +1,44 @@
+{
+    "id": "attentional-process",
+    "name": "Attentional Process",
+    "summary": "The cognitive mechanisms that control what information we select, focus on, and process.",
+    "explanation": "Attentional processes are the cognitive mechanisms that control what information we select, focus on, and process from the overwhelming stream of sensory input. Attention is a limited resource that must be allocated strategically. Types of attention: selective attention (focusing on one thing while ignoring others), divided attention (processing multiple streams simultaneously), sustained attention (maintaining focus over time), and executive attention (top-down control of focus). Attentional mechanisms: bottom-up (stimulus-driven, automatic - loud noises grab attention), top-down (goal-driven, voluntary - searching for a specific item), and filtering (blocking irrelevant information). Why attention matters: it's the gateway to consciousness (what you don't attend to, you don't experience), it's limited (can't attend to everything), and it's controllable (but requires effort). Attention and performance: focus enables depth, divided attention reduces quality, and attention training improves capacity. For knowledge workers, understanding attentional processes helps: design work environments that support focus, recognize attention as a finite resource to protect, and develop practices that strengthen attentional control.",
+    "tags": [
+        "attention",
+        "cognition",
+        "focus",
+        "psychology",
+        "processing"
+    ],
+    "category": "Concepts",
+    "icon": "FaCrosshairs",
+    "featured": false,
+    "aliases": [
+        "Attention mechanisms",
+        "Attentional control",
+        "Cognitive attention"
+    ],
+    "relatedConcepts": [
+        "attention",
+        "focus",
+        "selective-attention",
+        "sustained-attention",
+        "cognitive-load",
+        "executive-function"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

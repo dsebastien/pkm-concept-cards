@@ -1,0 +1,44 @@
+{
+    "id": "parkinsons-law",
+    "name": "Parkinson's Law",
+    "summary": "Work expands to fill the time available for its completion.",
+    "explanation": "Parkinson's Law states that work expands to fill the time available for its completion. Give yourself a week for a task that could take a day, and it will take the full week. The more time we have to do something, the longer it takes. Why this happens: with abundant time, we add unnecessary complexity, overthink decisions, allow more interruptions, and don't prioritize ruthlessly. Counterintuitively, tight deadlines often produce better work - constraints force focus on what really matters. Applications include: set shorter deadlines than seem comfortable (artificial urgency), use timeboxing (fixed time forces completion), embrace 'good enough' (perfectionism fills time), and question time estimates (are they based on need or available time?). Parkinson's Law extensions: work also expands to fill budget, staff, and other resources available. Organizations accumulate bureaucracy to justify their existence. Using this strategically: procrastinating on a task can sometimes avoid wasting too much time on it - when you start without time to waste, you focus on what matters. For knowledge workers, Parkinson's Law suggests: set aggressive deadlines, protect against time inflation, and recognize that more time doesn't always mean better results.",
+    "tags": [
+        "productivity",
+        "time-management",
+        "laws",
+        "work",
+        "efficiency"
+    ],
+    "category": "Principles",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Work expands to fill time",
+        "Time inflation",
+        "Deadline effect"
+    ],
+    "relatedConcepts": [
+        "time-management",
+        "deadlines",
+        "timeboxing",
+        "productivity",
+        "focus",
+        "constraints"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

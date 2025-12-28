@@ -1,0 +1,44 @@
+{
+    "id": "double-diamond-process",
+    "name": "Double Diamond Process",
+    "summary": "A design process with two phases of divergent then convergent thinking for problem-finding and solving.",
+    "explanation": "The Double Diamond is a design process framework consisting of two connected diamonds, each representing a phase of divergent thinking followed by convergent thinking. It's used for innovation, problem-solving, and ensuring you're solving the right problem. First diamond (Problem Space): Diverge - explore the problem space broadly (problem finding, research, discovery), then Converge - narrow down to the right problem (problem prioritization, problem definition). Second diamond (Solution Space): Diverge - explore many possible solutions (ideation, prototyping), then Converge - select and refine the best solution (testing, implementation). Why it works: prevents jumping to solutions before understanding problems, ensures you're solving the right problem, balances creativity with focus, and makes the design process explicit. Key insight: many projects fail not because of poor solutions, but because they solved the wrong problem. The first diamond prevents this. The diamonds represent natural rhythms: expand to explore, contract to decide, expand to create, contract to deliver. For knowledge workers, the Double Diamond provides: a structured approach to complex problems, explicit phases for divergent and convergent thinking, and a framework that applies beyond design to any problem-solving.",
+    "tags": [
+        "design",
+        "problem-solving",
+        "innovation",
+        "process",
+        "frameworks"
+    ],
+    "category": "Frameworks",
+    "icon": "FaGem",
+    "featured": false,
+    "aliases": [
+        "Double diamond",
+        "Design Council diamond",
+        "4D design process"
+    ],
+    "relatedConcepts": [
+        "design-thinking",
+        "divergent-thinking",
+        "convergent-thinking",
+        "problem-solving",
+        "innovation",
+        "ideation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

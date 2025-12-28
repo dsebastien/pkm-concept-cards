@@ -1,0 +1,44 @@
+{
+    "id": "autonomic-nervous-system",
+    "name": "Autonomic Nervous System",
+    "summary": "The nervous system division controlling involuntary functions like heart rate and digestion.",
+    "explanation": "The autonomic nervous system (ANS) is the division of the nervous system that controls involuntary body functions - things that happen automatically without conscious control. It has two main branches that work in opposition to maintain balance. Sympathetic nervous system ('fight or flight'): activates during stress, increases heart rate, dilates pupils, inhibits digestion, and releases adrenaline. It prepares the body for action. Parasympathetic nervous system ('rest and digest'): activates during relaxation, slows heart rate, constricts pupils, promotes digestion, and conserves energy. It supports recovery and restoration. Balance is key: modern life often keeps us in sympathetic dominance (chronic stress). Health requires regular parasympathetic activation. You can influence the ANS through: breathing (slow exhales activate parasympathetic), exercise (healthy stress followed by recovery), sleep (restoration is parasympathetic), and relaxation practices (meditation, yoga). For knowledge workers, understanding the ANS helps: recognize signs of chronic stress, use techniques to activate relaxation, and understand why recovery is essential for sustainable performance.",
+    "tags": [
+        "neuroscience",
+        "nervous-system",
+        "health",
+        "stress",
+        "biology"
+    ],
+    "category": "Concepts",
+    "icon": "FaSitemap",
+    "featured": false,
+    "aliases": [
+        "ANS",
+        "Involuntary nervous system",
+        "Visceral nervous system"
+    ],
+    "relatedConcepts": [
+        "vagus-nerve",
+        "stress-response",
+        "fight-or-flight",
+        "relaxation-response",
+        "heart-rate-variability",
+        "nervous-system"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

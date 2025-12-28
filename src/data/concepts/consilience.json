@@ -1,0 +1,49 @@
+{
+    "id": "consilience",
+    "name": "Consilience",
+    "summary": "When evidence from multiple independent sources converges to support the same conclusion.",
+    "explanation": "Consilience is when evidence from multiple, independent sources converge or agree to support a conclusion. The term, popularized by E.O. Wilson, describes the unity of knowledge - when findings from different disciplines or methods point to the same truth. Why consilience matters: single sources of evidence can be wrong, but when unrelated investigations reach the same conclusion, confidence increases dramatically. It's like triangulation - multiple perspectives converging on one point. Examples of consilience: evolution is supported by genetics, paleontology, comparative anatomy, and biogeography independently; climate change is confirmed by temperature records, ice cores, sea levels, and ecological changes. Applying consilience: seek evidence from multiple sources, value agreement across different methodologies, be suspicious when evidence only comes from one source, and recognize that interdisciplinary convergence is stronger than disciplinary consensus. Consilience differs from consensus: consensus is agreement among people; consilience is agreement among evidence types. For knowledge workers, consilience thinking helps: evaluate claims more rigorously, build stronger arguments, and recognize when conclusions are well-supported versus when they rest on thin evidence.",
+    "tags": [
+        "thinking",
+        "evidence",
+        "knowledge",
+        "epistemology",
+        "reasoning"
+    ],
+    "category": "Concepts",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": [
+        "Unity of knowledge",
+        "Convergent evidence",
+        "Evidential convergence"
+    ],
+    "relatedConcepts": [
+        "critical-thinking",
+        "evidence",
+        "triangulation",
+        "interdisciplinary",
+        "scientific-method",
+        "epistemology"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Consilience by E.O. Wilson",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

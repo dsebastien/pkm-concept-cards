@@ -1,0 +1,49 @@
+{
+    "id": "anchoring",
+    "name": "Anchoring",
+    "summary": "The cognitive bias where people rely heavily on the first piece of information they encounter.",
+    "explanation": "Anchoring is the cognitive bias where people rely heavily on the first piece of information they encounter (the 'anchor') when making decisions. Subsequent judgments are made by adjusting from this anchor, but adjustments are typically insufficient. How anchoring works: an initial value is presented, all subsequent estimates are influenced by it, even when the anchor is arbitrary or irrelevant. Classic study: people spun a wheel showing random numbers, then estimated the percentage of African countries in the UN - their estimates were heavily influenced by the random number. Where anchoring appears: negotiations (first offer sets expectations), pricing (original price makes sale price seem good), estimates (initial numbers bias final estimates), and performance reviews (early impressions anchor evaluations). Using anchoring ethically: in sales, present higher anchor first then reveal true offering; in negotiations, make first offer strategically. Defending against anchoring: recognize when anchors are being used, consciously consider the anchor's relevance, and generate your own anchor before seeing others'. For knowledge workers, understanding anchoring helps: negotiate better, make less biased decisions, and recognize when your thinking is being manipulated by arbitrary starting points.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "negotiation",
+        "thinking"
+    ],
+    "category": "Concepts",
+    "icon": "FaAnchor",
+    "featured": false,
+    "aliases": [
+        "Anchoring bias",
+        "Anchoring effect",
+        "Focalism"
+    ],
+    "relatedConcepts": [
+        "cognitive-biases",
+        "price-anchoring",
+        "negotiation",
+        "decision-making",
+        "heuristics",
+        "framing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

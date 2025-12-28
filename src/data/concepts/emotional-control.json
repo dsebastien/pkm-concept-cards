@@ -1,0 +1,44 @@
+{
+    "id": "emotional-control",
+    "name": "Emotional Control",
+    "summary": "The ability to manage and regulate emotional responses to situations.",
+    "explanation": "Emotional control is the ability to manage and regulate emotional responses - not suppressing emotions, but choosing how to respond to them. It's a core component of emotional intelligence. Components include: awareness (recognizing emotions as they arise), acceptance (acknowledging emotions without judgment), regulation (modulating emotional intensity), and expression (choosing how to respond). Techniques for emotional control: pause before reacting (create space between stimulus and response), cognitive reappraisal (reframe how you interpret situations), breathing techniques (physiological regulation), and perspective-taking (consider other viewpoints). Emotional control is not: suppression (ignoring emotions - harmful long-term), being emotionless (emotions provide valuable information), or never expressing feelings (appropriate expression is healthy). Benefits include: better decision-making (emotions don't hijack thinking), improved relationships (responding rather than reacting), reduced stress (not amplifying emotional experiences), and greater resilience (recovering from setbacks). Developing emotional control: practice mindfulness (notice emotions without acting), build emotional vocabulary (name emotions specifically), and reflect on triggers (understand what activates you). For knowledge workers, emotional control enables: professional conduct under pressure, difficult conversations, and sustained performance despite challenges.",
+    "tags": [
+        "psychology",
+        "emotions",
+        "self-regulation",
+        "emotional-intelligence",
+        "self-awareness"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Emotional regulation",
+        "Emotion management",
+        "Self-regulation"
+    ],
+    "relatedConcepts": [
+        "emotional-intelligence",
+        "cognitive-reappraisal",
+        "mindfulness",
+        "self-awareness",
+        "resilience",
+        "stress-management"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

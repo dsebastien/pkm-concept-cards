@@ -1,0 +1,44 @@
+{
+    "id": "hypothalamus",
+    "name": "Hypothalamus",
+    "summary": "A brain region that regulates hormones, body temperature, hunger, and other vital functions.",
+    "explanation": "The hypothalamus is a small but critical brain region located below the thalamus. It serves as the main link between the nervous system and the endocrine (hormone) system, regulating many vital body functions. Key functions: hormone regulation (controls pituitary gland, the 'master gland'), body temperature (thermostat function), hunger and thirst (appetite signals), sleep-wake cycles (circadian rhythm), and autonomic functions (heart rate, blood pressure). The hypothalamus connects: brain to body (translates neural signals to hormones), emotions to physiology (why feelings affect body), and environment to responses (adapts body to conditions). Hormone cascades: the hypothalamus triggers the pituitary, which triggers other glands (thyroid, adrenal, etc.), affecting metabolism, stress response, growth, and reproduction. Why it matters: the hypothalamus explains how psychological states affect physical health, why stress impacts so many body systems, and why circadian rhythms affect everything. For knowledge workers, understanding the hypothalamus helps: appreciate the mind-body connection, understand why sleep and stress management matter, and recognize how lifestyle affects hormones and health.",
+    "tags": [
+        "neuroscience",
+        "brain",
+        "hormones",
+        "regulation",
+        "health"
+    ],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Hypothalamic region",
+        "Master regulator",
+        "Neuroendocrine center"
+    ],
+    "relatedConcepts": [
+        "limbic-system",
+        "hormones",
+        "circadian-rhythm",
+        "stress-response",
+        "appetite",
+        "sleep"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

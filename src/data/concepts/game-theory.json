@@ -1,0 +1,49 @@
+{
+    "id": "game-theory",
+    "name": "Game Theory",
+    "summary": "The mathematical study of strategic decision-making between rational agents.",
+    "explanation": "Game theory is the mathematical study of strategic decision-making - analyzing situations where the outcome for each participant depends on the choices of all participants. It models how rational agents interact when their fates are interdependent. Key concepts: players (decision-makers), strategies (choices available), payoffs (outcomes of choices), and equilibrium (stable states where no one benefits from changing). Classic examples: Prisoner's Dilemma (cooperation vs defection), Chicken (who backs down?), Coordination games (matching expectations), and Zero-sum games (one wins, other loses). Nash Equilibrium: a state where no player can improve their outcome by unilaterally changing strategy - even if it's not optimal for the group. Game theory insights: rational individual choices can lead to collectively poor outcomes (tragedy of the commons), communication and commitment change dynamics, reputation matters in repeated games, and cooperation can emerge from self-interest. Applications: negotiations, competitive strategy, auction design, evolutionary biology, and political science. For knowledge workers, game theory provides: frameworks for analyzing strategic situations, understanding competitor behavior, and designing incentives and mechanisms.",
+    "tags": [
+        "strategy",
+        "decision-making",
+        "economics",
+        "mathematics",
+        "competition"
+    ],
+    "category": "Concepts",
+    "icon": "FaChess",
+    "featured": false,
+    "aliases": [
+        "Strategic theory",
+        "Decision theory",
+        "Interactive decision theory"
+    ],
+    "relatedConcepts": [
+        "zero-sum-positive-sum",
+        "prisoners-dilemma",
+        "nash-equilibrium",
+        "strategy",
+        "negotiation",
+        "cooperation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Art of Strategy by Avinash Dixit",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

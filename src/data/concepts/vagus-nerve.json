@@ -1,0 +1,44 @@
+{
+    "id": "vagus-nerve",
+    "name": "Vagus Nerve",
+    "summary": "The longest cranial nerve connecting the brain to major organs, key to the relaxation response.",
+    "explanation": "The vagus nerve is the longest cranial nerve, running from the brainstem through the neck and thorax to the abdomen. It connects the brain to the heart, lungs, and digestive system, and is crucial for the parasympathetic 'rest and digest' response. Key functions: slowing heart rate, regulating digestion, controlling inflammation, and enabling the relaxation response. Vagal tone: the strength of vagal activity - higher tone means better ability to relax, recover from stress, and regulate emotions. Stimulating the vagus nerve activates: the parasympathetic nervous system, calming the body, lowering heart rate, and reducing stress response. Vagus nerve stimulation techniques: slow deep breathing (especially long exhales), cold water exposure, singing/humming/chanting, meditation, and exercise. Why it matters: in modern life, we're often in sympathetic (fight/flight) mode. Vagal activation is the antidote - it's how we calm down. Polyvagal theory expands understanding of how vagal states affect social behavior. For knowledge workers, vagus nerve knowledge helps: manage stress through breathing, understand the relaxation response, and use specific techniques to shift from stressed to calm states.",
+    "tags": [
+        "neuroscience",
+        "nervous-system",
+        "stress",
+        "relaxation",
+        "health"
+    ],
+    "category": "Concepts",
+    "icon": "FaHeartbeat",
+    "featured": false,
+    "aliases": [
+        "Cranial nerve X",
+        "Vagal nerve",
+        "Pneumogastric nerve"
+    ],
+    "relatedConcepts": [
+        "autonomic-nervous-system",
+        "stress-response",
+        "relaxation",
+        "breathing",
+        "heart-rate-variability",
+        "polyvagal-theory"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "cognitive-dissonance",
+    "name": "Cognitive Dissonance",
+    "summary": "The mental discomfort from holding contradictory beliefs or behaving inconsistently with beliefs.",
+    "explanation": "Cognitive dissonance is the mental discomfort experienced when holding two contradictory beliefs, or when behavior conflicts with beliefs. This discomfort motivates people to reduce the inconsistency - often by changing beliefs to match behavior rather than vice versa. How it manifests: after behaving in a certain way for some time, people tend to justify their actions, aligning beliefs with behavior. Bought an expensive item? You'll convince yourself it was a great purchase. Made a poor decision? You'll find reasons why it was actually smart. Classic study: people paid $1 to lie about a boring task rated it more enjoyable than those paid $20 - the $1 group needed to justify why they lied for so little. Implications: we're not as rational as we think (beliefs follow behavior), commitment deepens over time (justification accumulates), and changing minds is hard (admitting dissonance is uncomfortable). Using this knowledge: recognize when you're rationalizing, be suspicious of beliefs that conveniently align with past actions, and understand why people resist information that challenges their choices. For knowledge workers, understanding cognitive dissonance helps: make more objective decisions, understand stakeholder resistance, and recognize self-justification in yourself and others.",
+    "tags": [
+        "psychology",
+        "cognitive-biases",
+        "thinking",
+        "behavior",
+        "beliefs"
+    ],
+    "category": "Concepts",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": [
+        "Dissonance",
+        "Belief-behavior conflict",
+        "Post-decision rationalization"
+    ],
+    "relatedConcepts": [
+        "rationalization",
+        "confirmation-bias",
+        "commitment-consistency",
+        "sunk-cost-effect",
+        "self-justification",
+        "beliefs"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Mistakes Were Made (But Not by Me) by Carol Tavris",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
