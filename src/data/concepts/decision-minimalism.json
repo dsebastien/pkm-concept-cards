@@ -1,0 +1,44 @@
+{
+    "id": "decision-minimalism",
+    "name": "Decision Minimalism",
+    "summary": "Reducing daily decisions to preserve mental energy for what matters most.",
+    "explanation": "Decision minimalism is the practice of deliberately reducing the number of decisions you make each day to preserve mental energy for important choices. The approach is based on: decision fatigue (choices deplete willpower), opportunity cost (mental energy spent on trivial decisions isn't available for important ones), and cognitive load (fewer decisions means clearer thinking). Tactics include: standardizing routine choices (same breakfast, work uniform), automating recurring decisions (subscriptions, scheduled tasks), using rules instead of case-by-case judgment, and batching similar decisions. Famous practitioners include: Steve Jobs (same outfit daily), Obama (limited clothing choices), and many entrepreneurs. Decision minimalism isn't about avoiding all decisions but about: being strategic about where to spend decision energy, creating systems for routine choices, and reserving cognitive resources for high-impact decisions. For knowledge workers, decision minimalism helps: reduce mental fatigue, improve decision quality for important choices, and create space for creative and strategic thinking.",
+    "tags": [
+        "productivity",
+        "decision-making",
+        "minimalism",
+        "energy",
+        "focus"
+    ],
+    "category": "Techniques",
+    "icon": "FaFilter",
+    "featured": false,
+    "aliases": [
+        "Decision reduction",
+        "Choice minimalism",
+        "Automated decisions"
+    ],
+    "relatedConcepts": [
+        "decision-fatigue",
+        "minimalism",
+        "routines",
+        "willpower",
+        "automation",
+        "systems"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

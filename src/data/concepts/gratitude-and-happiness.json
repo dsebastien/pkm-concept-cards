@@ -1,0 +1,44 @@
+{
+    "id": "gratitude-and-happiness",
+    "name": "Gratitude and Happiness",
+    "summary": "The research-supported relationship between gratitude practice and increased wellbeing.",
+    "explanation": "Gratitude and happiness are strongly connected through research-supported mechanisms. Studies consistently find that gratitude practice increases subjective wellbeing, life satisfaction, and positive emotions while decreasing depression and anxiety. The relationship works through: attention shifting (gratitude directs focus to positives), savoring (extending positive experiences through appreciation), reframing (finding positives in difficulties), and social connection (expressed gratitude strengthens relationships). The relationship is: causal (gratitude interventions increase happiness), bidirectional (happier people also practice more gratitude), and dose-dependent (more practice, more benefit, up to a point). Importantly, gratitude works alongside rather than replacing other happiness factors - it's one tool among many. The relationship applies across: ages, cultures, and circumstances, though the specific forms may vary. Challenges include: forcing gratitude when genuinely unhappy (which can backfire) and ignoring real problems in favor of 'being grateful.' For knowledge workers, understanding this connection motivates: consistent gratitude practice, using gratitude during difficult periods, and building appreciation into daily routines.",
+    "tags": [
+        "gratitude",
+        "happiness",
+        "wellbeing",
+        "psychology",
+        "research"
+    ],
+    "category": "Concepts",
+    "icon": "FaSmile",
+    "featured": false,
+    "aliases": [
+        "Gratitude-happiness link",
+        "Thankfulness and joy",
+        "Appreciation and wellbeing"
+    ],
+    "relatedConcepts": [
+        "gratitude-practice",
+        "gratitude-benefits",
+        "happiness",
+        "positive-psychology",
+        "wellbeing",
+        "life-satisfaction"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

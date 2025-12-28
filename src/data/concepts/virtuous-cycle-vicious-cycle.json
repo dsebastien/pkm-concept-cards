@@ -1,0 +1,44 @@
+{
+    "id": "virtuous-cycle-vicious-cycle",
+    "name": "Virtuous Cycle vs Vicious Cycle",
+    "summary": "Self-reinforcing feedback loops that spiral upward (virtuous) or downward (vicious).",
+    "explanation": "Virtuous cycles and vicious cycles are self-reinforcing feedback loops where initial conditions create effects that amplify themselves over time. Virtuous cycle: positive momentum builds on itself (success breeds success) - for example, exercise increases energy, which enables more exercise. Vicious cycle: negative momentum compounds (failure breeds failure) - for example, stress causes poor sleep, which causes more stress. Key characteristics: both are self-reinforcing, both can be hard to escape, and both start small and grow. Identifying cycles helps: recognize when to invest in starting virtuous cycles (initial effort yields compounding returns), recognize when to break vicious cycles (intervention prevents downward spiral), and understand leverage points (where small changes have big effects). Starting virtuous cycles: find the easiest entry point, protect early fragile momentum, and let success build on success. Breaking vicious cycles: identify the weakest link, intervene decisively, and replace with virtuous alternative. For knowledge workers, understanding these cycles helps: build positive momentum in projects and habits, recognize when struggling indicates a vicious cycle needing intervention, and design systems that tend toward virtuous rather than vicious dynamics.",
+    "tags": [
+        "systems-thinking",
+        "feedback-loops",
+        "momentum",
+        "change",
+        "dynamics"
+    ],
+    "category": "Concepts",
+    "icon": "FaRecycle",
+    "featured": false,
+    "aliases": [
+        "Positive feedback loops",
+        "Self-reinforcing cycles",
+        "Compounding dynamics"
+    ],
+    "relatedConcepts": [
+        "feedback-loops",
+        "systems-thinking",
+        "compound-effect",
+        "momentum",
+        "leverage-points",
+        "downward-spiral"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "failure-wisdom",
+    "name": "Failure Wisdom",
+    "summary": "The accumulated insight and judgment that comes from experiencing and reflecting on failures.",
+    "explanation": "Failure wisdom is the accumulated insight, judgment, and perspective that comes from experiencing and deeply reflecting on failures. Unlike surface learning ('don't do that again'), failure wisdom involves: understanding underlying dynamics, recognizing patterns across failures, and developing intuition about risk and opportunity. Failure wisdom enables: better judgment in novel situations, appropriate humility, and ability to help others navigate similar challenges. The wisdom develops through: reflection rather than just experience, pattern recognition across failures, and integration of lessons into intuitive judgment. Not all failure produces wisdom - some people fail repeatedly without learning. Wisdom requires: willingness to examine failures honestly, ability to extract generalizable lessons, and time to integrate insights. Failure wisdom differs from: failure knowledge (knowing what happened), failure skills (specific techniques learned), and failure resilience (ability to recover). For knowledge workers, developing failure wisdom means: reflecting deeply on significant failures, seeking patterns and principles, and developing judgment that helps navigate future uncertainty.",
+    "tags": [
+        "failure",
+        "wisdom",
+        "learning",
+        "experience",
+        "judgment"
+    ],
+    "category": "Concepts",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": [
+        "Wisdom from failure",
+        "Failure insight",
+        "Earned wisdom"
+    ],
+    "relatedConcepts": [
+        "learning-from-failure",
+        "wisdom",
+        "experience",
+        "judgment",
+        "reflection",
+        "pattern-recognition"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

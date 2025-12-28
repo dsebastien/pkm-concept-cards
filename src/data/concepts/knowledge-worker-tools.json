@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-worker-tools",
+    "name": "Knowledge Worker Tools",
+    "summary": "Software, systems, and methods that enable effective cognitive and information work.",
+    "explanation": "Knowledge worker tools are software, systems, and methods that enable effective cognitive and information work. Categories include: thinking tools (note-taking, outlining, mind mapping), productivity tools (task management, calendars, automation), collaboration tools (communication, document sharing, project management), and creation tools (writing, design, coding). Effective tool selection requires: understanding personal workflow, avoiding tool proliferation, and optimizing for output rather than features. Key principles include: tools should serve work (not the reverse), fewer integrated tools often beat many specialized ones, and mastering tools deeply beats superficial use of many. Tool trends include: connected note-taking (Roam, Obsidian), AI augmentation, and cross-platform integration. Challenges include: tool overwhelm, constant switching costs, and mistaking tool management for actual work. For knowledge workers, effective tool use means: selecting tools thoughtfully, mastering chosen tools deeply, regularly evaluating tool effectiveness, and avoiding the productivity trap of endless tool optimization.",
+    "tags": [
+        "knowledge-work",
+        "tools",
+        "productivity",
+        "software",
+        "systems"
+    ],
+    "category": "Concepts",
+    "icon": "FaTools",
+    "featured": false,
+    "aliases": [
+        "Productivity tools",
+        "Knowledge management tools",
+        "Work tools"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "personal-knowledge-management",
+        "note-taking",
+        "task-management",
+        "productivity",
+        "software"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

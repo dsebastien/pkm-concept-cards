@@ -1,0 +1,44 @@
+{
+    "id": "scope-creep",
+    "name": "Scope Creep",
+    "summary": "The gradual expansion of project boundaries beyond original definitions.",
+    "explanation": "Scope creep is the gradual expansion of a project's scope beyond its original definitions, often occurring incrementally through small changes that seem reasonable individually but cumulatively transform the project. Characteristics include: changes happen gradually (no single decision to expand), each addition seems small ('just one more thing'), and the cumulative effect is large (project becomes unrecognizable). Causes include: unclear initial scope, stakeholder additions, gold-plating (adding unrequested features), and poor change management. Consequences include: missed deadlines, budget overruns, quality degradation, and project failure. Preventing scope creep requires: clear initial scope definition, change management processes, ability to say no, and regular scope reviews. Some expansion may be appropriate (scope evolution) but should be: conscious, evaluated against tradeoffs, and formally accepted. For knowledge workers, managing scope creep means: defining boundaries clearly, recognizing when scope is shifting, pushing back on additions that compromise core goals, and distinguishing essential evolution from problematic expansion.",
+    "tags": [
+        "project-management",
+        "planning",
+        "productivity",
+        "boundaries",
+        "work"
+    ],
+    "category": "Concepts",
+    "icon": "FaExpandArrowsAlt",
+    "featured": false,
+    "aliases": [
+        "Feature creep",
+        "Scope expansion",
+        "Project creep"
+    ],
+    "relatedConcepts": [
+        "project-management",
+        "boundaries",
+        "planning",
+        "just-noticeable-difference",
+        "essentialism",
+        "saying-no"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

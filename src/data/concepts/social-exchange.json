@@ -1,0 +1,44 @@
+{
+    "id": "social-exchange",
+    "name": "Social Exchange",
+    "summary": "A sociological theory viewing human relationships as involving exchange of resources and rewards.",
+    "explanation": "Social exchange theory is a sociological and psychological framework that views human relationships as involving the exchange of resources, rewards, and costs. The theory proposes that people evaluate relationships by comparing costs and benefits, and continue relationships where rewards exceed costs. Key elements include: rewards (positive outcomes like approval, information, help), costs (negative outcomes like time, effort, stress), and comparison level (expectations based on past experience). Unlike economic exchange, social exchange involves: uncertain reciprocity (no guarantee of return), diffuse obligations (no specific repayment expected), and relationship-building (exchange creates bonds). The theory explains: relationship formation (seeking beneficial connections), relationship maintenance (continuing positive exchanges), and relationship dissolution (when costs exceed benefits). Critics note that the theory underemphasizes: altruism, emotional bonds, and non-rational behavior. For knowledge workers, social exchange theory suggests: understanding what you offer and receive in relationships, balancing give and take over time, and recognizing that productive professional relationships involve mutual value creation.",
+    "tags": [
+        "reciprocity",
+        "sociology",
+        "relationships",
+        "psychology",
+        "theory"
+    ],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Social exchange theory",
+        "Relationship economics",
+        "Exchange theory"
+    ],
+    "relatedConcepts": [
+        "reciprocity-principle",
+        "relationships",
+        "networking",
+        "favor-economy",
+        "social-capital",
+        "costs-benefits"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "gratitude-science",
+    "name": "Gratitude Science",
+    "summary": "The research field studying the causes, effects, and mechanisms of gratitude.",
+    "explanation": "Gratitude science is the research field studying the causes, correlates, effects, and mechanisms of gratitude. Key researchers include Robert Emmons, Michael McCullough, and the Greater Good Science Center at UC Berkeley. The field has established: gratitude's positive effects on wellbeing, relationship benefits of expressed gratitude, neural correlates of grateful states, and effective gratitude interventions. Research methods include: randomized controlled trials of gratitude practices, longitudinal studies of gratitude development, and neuroimaging of gratitude processing. Key findings include: gratitude journaling increases happiness, gratitude letters boost wellbeing, and gratitude correlates with prosocial behavior. The science addresses: what gratitude is (a positive emotion, a virtue, a disposition), how it works (mechanisms and pathways), and how to cultivate it (effective interventions). Limitations include: self-report measurement challenges, individual variation in response, and questions about long-term effects. For knowledge workers, understanding gratitude science provides: evidence-based motivation for practice, guidance on effective techniques, and understanding of how gratitude benefits work.",
+    "tags": [
+        "gratitude",
+        "research",
+        "psychology",
+        "science",
+        "positive-psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaFlask",
+    "featured": false,
+    "aliases": [
+        "Gratitude research",
+        "Science of thankfulness",
+        "Gratitude studies"
+    ],
+    "relatedConcepts": [
+        "gratitude-practice",
+        "gratitude-benefits",
+        "positive-psychology",
+        "research",
+        "wellbeing",
+        "evidence-based"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Greater Good Science Center",
+            "url": "https://greatergood.berkeley.edu/",
+            "type": "website"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

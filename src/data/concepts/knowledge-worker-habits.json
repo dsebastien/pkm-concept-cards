@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-worker-habits",
+    "name": "Knowledge Worker Habits",
+    "summary": "Recurring behaviors that support effective cognitive and information work.",
+    "explanation": "Knowledge worker habits are recurring behaviors that support effective cognitive and information work. Unlike industrial work where processes are externally defined, knowledge workers must develop personal practices that enable productivity. Key habit categories include: attention habits (protecting focus, managing interruptions), learning habits (continuous education, reading), organization habits (managing information, tasks), and recovery habits (rest, renewal). Effective habits include: morning routines for deep work, regular review practices, consistent capture systems, and protective boundaries around focus time. Habit development for knowledge workers is challenging because: work varies (no single routine works), environments differ (home, office, travel), and demands fluctuate (busy and slow periods). Building effective habits requires: experimentation (finding what works), consistency (maintaining practices), and evolution (adapting as work changes). For knowledge workers, developing strong habits means: identifying practices that enable your best work, building consistency around key behaviors, and regularly evaluating whether habits serve current needs.",
+    "tags": [
+        "knowledge-work",
+        "habits",
+        "productivity",
+        "personal-development",
+        "routines"
+    ],
+    "category": "Concepts",
+    "icon": "FaRedo",
+    "featured": false,
+    "aliases": [
+        "Professional habits",
+        "Work habits",
+        "Productivity habits"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "habits",
+        "routines",
+        "productivity",
+        "deep-work",
+        "attention-management"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "fail-fast",
+    "name": "Fail Fast",
+    "summary": "A strategy of quickly testing ideas to discover failures early when correction is cheap.",
+    "explanation": "Fail fast is a strategy of quickly testing ideas, hypotheses, and approaches to discover failures early when correction is cheap and learning is most valuable. Rather than investing heavily before validation, fail fast approaches: test core assumptions quickly, use minimum viable experiments, and iterate based on rapid feedback. The principle originated in software development but applies broadly to: product development, strategy testing, and personal decisions. Fail fast is valuable because: early failures are less costly, they provide directional information, and they enable rapid iteration toward success. The approach requires: willingness to surface failures quickly, low-cost testing mechanisms, and ability to pivot based on results. Fail fast is misunderstood when it means: being reckless, not preparing adequately, or failing without learning. Proper fail fast involves: thoughtful hypothesis formation, efficient testing design, and rigorous learning from results. For knowledge workers, fail fast means: testing ideas before over-investing, seeking early feedback, and treating negative results as valuable direction rather than defeat.",
+    "tags": [
+        "failure",
+        "strategy",
+        "innovation",
+        "experimentation",
+        "lean"
+    ],
+    "category": "Principles",
+    "icon": "FaBolt",
+    "featured": false,
+    "aliases": [
+        "Fail quickly",
+        "Fast failure",
+        "Rapid experimentation"
+    ],
+    "relatedConcepts": [
+        "experimentation",
+        "iteration",
+        "lean-startup",
+        "mvp",
+        "hypothesis-testing",
+        "feedback-loops"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Lean Startup by Eric Ries",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

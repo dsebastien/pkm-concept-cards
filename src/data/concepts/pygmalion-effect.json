@@ -1,0 +1,44 @@
+{
+    "id": "pygmalion-effect",
+    "name": "Pygmalion Effect",
+    "summary": "Higher expectations lead to improved performance due to changed behavior toward those expected to succeed.",
+    "explanation": "The Pygmalion effect is the phenomenon where higher expectations of someone lead to improved performance, because those expectations influence behavior toward them. Named after the Greek myth (and the Rosenthal-Jacobson experiment), teachers who believed certain students would excel treated them differently - more warmth, more feedback, more opportunity - and those students actually did improve more. The mechanism works through: differential treatment (giving more attention, challenge, feedback), climate (creating a supportive atmosphere), input (providing more teaching), and output (allowing more opportunities to respond). The effect applies to: classrooms, workplaces, relationships, and parenting. The reverse (Golem effect) shows that low expectations lead to worse performance. Understanding the effect enables: intentionally setting high expectations, recognizing when expectations are limiting performance, and creating environments that communicate belief in potential. For knowledge workers, the Pygmalion effect suggests: the power of others' expectations on your performance, your expectations' impact on those you lead, and the importance of communicating belief in potential.",
+    "tags": [
+        "psychology",
+        "expectations",
+        "leadership",
+        "performance",
+        "education"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Rosenthal effect",
+        "Expectation effect",
+        "High expectation benefit"
+    ],
+    "relatedConcepts": [
+        "self-fulfilling-prophecy",
+        "expectations",
+        "leadership",
+        "motivation",
+        "growth-mindset",
+        "performance"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

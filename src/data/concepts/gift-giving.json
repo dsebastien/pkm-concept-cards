@@ -1,0 +1,49 @@
+{
+    "id": "gift-giving",
+    "name": "Gift Giving",
+    "summary": "The practice of presenting something to someone without expectation of direct payment.",
+    "explanation": "Gift giving is the practice of presenting something to someone without expectation of direct payment or immediate return. Anthropologist Marcel Mauss's classic work 'The Gift' revealed that gift exchange is central to social structure across cultures. Gifts create: social bonds (connecting giver and receiver), obligations (diffuse reciprocity), and status (demonstrating generosity). Effective gift giving involves: thoughtfulness (showing you understand the recipient), appropriateness (matching context and relationship), and generosity (giving more than expected). Gift giving dynamics include: the obligation to give (social expectations), the obligation to receive (rejecting gifts damages relationships), and the obligation to reciprocate (completing the cycle). In professional contexts, gifts raise: boundary concerns (when do gifts become problematic?), power dynamics (gifts from superiors vs. peers), and cultural variations (gift practices differ significantly). The practice extends beyond physical objects to: time, attention, knowledge, and connections. For knowledge workers, gift giving includes: sharing expertise, making introductions, and offering help - with awareness of the social dynamics gifts create.",
+    "tags": [
+        "reciprocity",
+        "anthropology",
+        "relationships",
+        "culture",
+        "generosity"
+    ],
+    "category": "Concepts",
+    "icon": "FaGift",
+    "featured": false,
+    "aliases": [
+        "Gifting",
+        "Present giving",
+        "Gift exchange"
+    ],
+    "relatedConcepts": [
+        "reciprocity-principle",
+        "reciprocity-norm",
+        "generosity-principle",
+        "relationships",
+        "social-bonds",
+        "obligation-principle"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Gift by Marcel Mauss",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

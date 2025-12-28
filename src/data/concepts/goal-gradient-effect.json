@@ -1,0 +1,44 @@
+{
+    "id": "goal-gradient-effect",
+    "name": "Goal Gradient Effect",
+    "summary": "The tendency to increase effort as we approach a goal.",
+    "explanation": "The goal gradient effect is the tendency for people to increase effort and motivation as they approach a goal - like a horse running faster as it nears the finish line. Originally observed in rats running mazes faster near the end, the effect applies broadly to human motivation. Implications include: making progress visible accelerates effort, artificial progress (like pre-stamped loyalty cards) increases completion rates, and breaking large goals into smaller milestones leverages the effect repeatedly. The effect explains: why projects often finish in sprints, why gamification with progress bars works, and why the 'last 10%' can feel more motivating than the first. Applications include: designing progress tracking, creating milestone structures, and understanding motivation patterns. The effect can be counterproductive if: you always push hardest at the end (unsustainable pace), or overlook the harder early stages where motivation is lowest. For knowledge workers, the goal gradient effect suggests: making progress visible, breaking large projects into milestones, and understanding that early-project motivation challenges are normal.",
+    "tags": [
+        "psychology",
+        "motivation",
+        "goals",
+        "behavior",
+        "productivity"
+    ],
+    "category": "Concepts",
+    "icon": "FaFlag",
+    "featured": false,
+    "aliases": [
+        "Goal proximity effect",
+        "Finish line effect",
+        "Progress acceleration"
+    ],
+    "relatedConcepts": [
+        "motivation",
+        "goals",
+        "progress",
+        "gamification",
+        "milestones",
+        "momentum"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

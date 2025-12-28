@@ -1,0 +1,44 @@
+{
+    "id": "safe-to-fail",
+    "name": "Safe-to-Fail",
+    "summary": "Experiments designed so that failure produces learning without catastrophic consequences.",
+    "explanation": "Safe-to-fail is a design principle for experiments where potential failure produces valuable learning without catastrophic consequences. Originating from Cynefin framework thinking, safe-to-fail experiments are: small enough that failure is survivable, designed to provide clear feedback, and structured for rapid learning. Key characteristics include: bounded investment (failure doesn't break the bank), reversibility (can undo or recover), clear success/failure criteria, and learning extraction mechanisms. Safe-to-fail contrasts with: fail-safe (preventing failure entirely), high-stakes experiments (where failure is catastrophic), and uncontrolled experimentation (learning isn't captured). Designing safe-to-fail involves: identifying the riskiest assumptions, creating minimal tests, establishing clear metrics, and planning for both success and failure outcomes. Organizations use safe-to-fail to: explore complex situations, test innovations, and navigate uncertainty. For knowledge workers, safe-to-fail thinking means: testing ideas with limited investment, designing experiments with bounded downside, and structuring work so that failures are informative rather than destructive.",
+    "tags": [
+        "failure",
+        "experimentation",
+        "innovation",
+        "risk-management",
+        "strategy"
+    ],
+    "category": "Concepts",
+    "icon": "FaFlask",
+    "featured": false,
+    "aliases": [
+        "Safe to fail experiments",
+        "Contained failures",
+        "Bounded experiments"
+    ],
+    "relatedConcepts": [
+        "experimentation",
+        "fail-fast",
+        "risk-management",
+        "cynefin",
+        "innovation",
+        "learning-by-doing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "four-noble-truths",
+    "name": "Four Noble Truths",
+    "summary": "The Buddha's core teaching on the nature of suffering and the path to liberation.",
+    "explanation": "The Four Noble Truths are the Buddha's foundational teaching, framed as a physician diagnosing and treating illness: 1) Dukkha (suffering exists): life inevitably includes suffering, dissatisfaction, and unease. 2) Samudaya (origin): suffering arises from craving, attachment, and aversion. 3) Nirodha (cessation): suffering can end through releasing craving and attachment. 4) Magga (path): the Noble Eightfold Path leads to the cessation of suffering. The truths work together as: diagnosis (acknowledging suffering), etiology (understanding causes), prognosis (possibility of cure), and prescription (path to healing). The framework is practical rather than metaphysical - focused on reducing suffering here and now. The truths don't promise elimination of pain but freedom from the additional suffering we create through craving and resistance. They're not pessimistic - they affirm that suffering is workable. For knowledge workers, the Four Noble Truths offer: framework for understanding workplace suffering, recognition that much suffering is self-created, and practical path toward greater peace and effectiveness.",
+    "tags": [
+        "philosophy",
+        "buddhism",
+        "wisdom",
+        "suffering",
+        "spirituality"
+    ],
+    "category": "Frameworks",
+    "icon": "FaDharmachakra",
+    "featured": true,
+    "aliases": [
+        "Buddha's core teaching",
+        "Noble Truths",
+        "Buddhist fundamentals"
+    ],
+    "relatedConcepts": [
+        "buddhism",
+        "dukkha",
+        "noble-eightfold-path",
+        "suffering",
+        "attachment",
+        "liberation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

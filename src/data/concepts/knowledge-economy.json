@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-economy",
+    "name": "Knowledge Economy",
+    "summary": "An economic system where knowledge and information are primary drivers of value creation.",
+    "explanation": "The knowledge economy is an economic system where knowledge, information, and intellectual capabilities are primary drivers of value creation, growth, and competitive advantage. Unlike industrial economies based on physical production, knowledge economies are characterized by: intangible assets (intellectual property, expertise), information products (software, content, data), and service orientation (consulting, education, healthcare). Key features include: rapid technological change, high education premium, global information flows, and innovation-driven competition. Implications for workers include: continuous learning necessity, skill obsolescence risk, and creative work premium. Implications for organizations include: talent as key asset, innovation as survival requirement, and knowledge management as strategic priority. Challenges include: inequality (knowledge workers vs. others), measurement difficulties (valuing intangibles), and sustainability questions (attention economy concerns). For knowledge workers, understanding the knowledge economy means: investing in continuous skill development, building transferable capabilities, and recognizing that intellectual capital is your primary asset.",
+    "tags": [
+        "knowledge-work",
+        "economics",
+        "society",
+        "future-of-work",
+        "business"
+    ],
+    "category": "Concepts",
+    "icon": "FaGlobeAmericas",
+    "featured": false,
+    "aliases": [
+        "Information economy",
+        "Knowledge-based economy",
+        "Intellectual economy"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "intellectual-capital",
+        "innovation",
+        "future-of-work",
+        "education",
+        "technology"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

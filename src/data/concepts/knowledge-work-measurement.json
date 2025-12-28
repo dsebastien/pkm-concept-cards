@@ -1,0 +1,49 @@
+{
+    "id": "knowledge-work-measurement",
+    "name": "Knowledge Work Measurement",
+    "summary": "Approaches to evaluating the productivity and effectiveness of cognitive work.",
+    "explanation": "Knowledge work measurement refers to approaches for evaluating the productivity and effectiveness of cognitive work. Unlike manufacturing where output is countable, knowledge work measurement is inherently challenging. Drucker called knowledge worker productivity the great challenge of our era. Measurement challenges include: output is often intangible, quality matters more than quantity, valuable work may not be immediately visible, and activity doesn't equal productivity. Common approaches include: output-based (deliverables completed), outcome-based (results achieved), time-based (hours worked), and process-based (activities performed). Problems with measurement include: gaming metrics (optimizing for measure not value), measuring wrong things (activity not impact), and demotivating effects (surveillance feeling). Better approaches involve: focusing on outcomes over output, emphasizing quality over quantity, and combining quantitative and qualitative assessment. For knowledge workers, effective measurement means: defining what valuable output looks like in your role, tracking meaningful metrics, avoiding vanity metrics, and communicating value in terms organizations understand.",
+    "tags": [
+        "knowledge-work",
+        "measurement",
+        "productivity",
+        "metrics",
+        "management"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartBar",
+    "featured": false,
+    "aliases": [
+        "Measuring knowledge work",
+        "Knowledge worker metrics",
+        "Cognitive work evaluation"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "productivity",
+        "metrics",
+        "effectiveness",
+        "performance",
+        "management"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Effective Executive by Peter Drucker",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

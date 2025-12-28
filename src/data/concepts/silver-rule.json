@@ -1,0 +1,44 @@
+{
+    "id": "silver-rule",
+    "name": "Silver Rule",
+    "summary": "The ethical principle to not do to others what you would not want done to you.",
+    "explanation": "The Silver Rule is the negative formulation of the Golden Rule: do not do to others what you would not want done to yourself. While the Golden Rule prescribes positive action, the Silver Rule prohibits harmful action. The distinction matters: the Golden Rule might require imposing your preferences on others (helping when they don't want help), while the Silver Rule simply requires not harming. Confucius expressed it: 'What you do not want done to yourself, do not do to others.' Rabbi Hillel stated: 'What is hateful to you, do not do to your neighbor.' The Silver Rule is: more easily followed (avoiding harm is clearer than doing good), less likely to impose (not requiring action, only restraint), and more universally applicable (harm avoidance is more uniform than desire fulfillment). Some see it as minimum morality - a floor not a ceiling. The two rules work together: Silver Rule as minimum standard, Golden Rule as aspiration. For knowledge workers, the Silver Rule means: not treating colleagues in ways you'd resent, avoiding harmful actions, and respecting others' autonomy.",
+    "tags": [
+        "ethics",
+        "wisdom",
+        "philosophy",
+        "morality",
+        "restraint"
+    ],
+    "category": "Principles",
+    "icon": "FaShieldAlt",
+    "featured": false,
+    "aliases": [
+        "Negative Golden Rule",
+        "Do no harm",
+        "Avoid what you'd hate"
+    ],
+    "relatedConcepts": [
+        "golden-rule",
+        "ethics",
+        "harm-avoidance",
+        "restraint",
+        "morality",
+        "reciprocity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

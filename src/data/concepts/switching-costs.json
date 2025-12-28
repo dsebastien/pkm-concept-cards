@@ -1,0 +1,44 @@
+{
+    "id": "switching-costs",
+    "name": "Switching Costs",
+    "summary": "The costs incurred when changing from one product, service, or state to another.",
+    "explanation": "Switching costs are the costs incurred when changing from one product, service, state, or approach to another. These include: financial costs (actual money to switch), time costs (effort to transition), learning costs (mastering new systems), psychological costs (discomfort of change), and relationship costs (breaking connections). Switching costs explain: why people stay with inferior options, why first-mover advantage can persist, and why change is harder than it 'should' be. High switching costs create: lock-in (difficult to leave), inertia (staying despite alternatives), and stickiness (users remain even when unhappy). Understanding switching costs helps: evaluate decisions to switch (are benefits worth costs?), recognize when costs are keeping you stuck, and design for reduced switching costs when appropriate. They can be: real (actual resource costs) or perceived (overestimated difficulty). For knowledge workers, switching costs explain: resistance to changing tools, stickiness of workflows, and the value of standardization - and suggest evaluating both costs of switching and costs of staying.",
+    "tags": [
+        "decision-making",
+        "economics",
+        "change",
+        "strategy",
+        "behavior"
+    ],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Cost of switching",
+        "Change costs",
+        "Transition costs"
+    ],
+    "relatedConcepts": [
+        "status-quo-bias",
+        "change",
+        "lock-in",
+        "transition-costs",
+        "decision-making",
+        "inertia"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

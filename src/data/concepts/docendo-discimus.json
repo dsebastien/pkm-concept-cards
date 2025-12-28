@@ -1,0 +1,44 @@
+{
+    "id": "docendo-discimus",
+    "name": "Docendo Discimus",
+    "summary": "The Latin phrase meaning 'by teaching, we learn' - teaching as a path to deeper understanding.",
+    "explanation": "Docendo discimus (Latin for 'by teaching, we learn') is an ancient principle attributed to Seneca, capturing how teaching deepens the teacher's own understanding. The concept works because teaching requires: organizing knowledge clearly, identifying gaps in understanding, explaining at fundamental levels, and answering unexpected questions. Benefits of teaching include: discovering what you don't truly understand, strengthening memory through retrieval and articulation, deepening comprehension through explanation, and seeing knowledge from new perspectives. The principle applies beyond formal teaching to: explaining ideas to colleagues, writing about concepts, and mentoring others. The Feynman Technique leverages this - explaining something simply reveals whether you truly understand it. Teaching also motivates learning - knowing you'll teach creates purpose and engagement. For knowledge workers, docendo discimus suggests: explaining ideas to test understanding, writing about what you learn, mentoring others to deepen your own expertise, and using teaching as a learning strategy.",
+    "tags": [
+        "philosophy",
+        "wisdom",
+        "learning",
+        "teaching",
+        "education"
+    ],
+    "category": "Concepts",
+    "icon": "FaChalkboardTeacher",
+    "featured": false,
+    "aliases": [
+        "By teaching we learn",
+        "Teaching to learn",
+        "Learning through teaching"
+    ],
+    "relatedConcepts": [
+        "feynman-technique",
+        "learning",
+        "teaching",
+        "mentorship",
+        "explanation",
+        "understanding"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "mental-accounting",
+    "name": "Mental Accounting",
+    "summary": "The tendency to treat money differently based on subjective categories.",
+    "explanation": "Mental accounting is the cognitive process of treating money differently based on subjective categories - even though money is fungible (interchangeable). Identified by Richard Thaler, examples include: treating 'found money' (windfalls) as more spendable, being more careful with 'hard-earned' money, maintaining separate 'budgets' that shouldn't be violated, and evaluating purchases differently based on category. The phenomenon explains: why people might have credit card debt while maintaining savings (different mental accounts), why a $10 parking fee is more upsetting at a $20 event than $200 event, and why bonus money is spent differently than salary. Mental accounting can be: helpful (budgeting through categories), harmful (irrational distinctions), and exploitable (marketers manipulate perceived categories). Understanding it enables: recognizing when categories are causing irrational behavior, using categories strategically (setting aside money for specific purposes), and seeing through marketing that manipulates mental accounts. For knowledge workers, mental accounting awareness helps: make more rational financial decisions and understand how we categorize resources beyond just money.",
+    "tags": [
+        "psychology",
+        "economics",
+        "decision-making",
+        "finance",
+        "behavior"
+    ],
+    "category": "Concepts",
+    "icon": "FaWallet",
+    "featured": false,
+    "aliases": [
+        "Psychological accounting",
+        "Money categorization",
+        "Budget compartments"
+    ],
+    "relatedConcepts": [
+        "behavioral-economics",
+        "cognitive-biases",
+        "decision-making",
+        "budgeting",
+        "framing",
+        "rationality"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Misbehaving by Richard Thaler",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

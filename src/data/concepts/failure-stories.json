@@ -1,0 +1,44 @@
+{
+    "id": "failure-stories",
+    "name": "Failure Stories",
+    "summary": "Narratives about failures that provide learning, connection, and encouragement to others.",
+    "explanation": "Failure stories are narratives about failures, setbacks, and mistakes that provide learning, connection, and encouragement. Unlike success stories which are common, failure stories counter: survivorship bias (only hearing from winners), unrealistic expectations (success without failure), and isolation (believing you're the only one who fails). Effective failure stories include: genuine vulnerability, lessons learned, and emotional honesty. They differ from: humblebrags (failures that led to success), strategic failures (calculated risks that didn't pay off), and trivial failures (setbacks without stakes). Sharing failure stories requires: psychological safety, appropriate context, and willingness to be genuinely vulnerable. The practice benefits: tellers (processing experiences, connecting with others), listeners (learning vicariously, feeling less alone), and organizations (building learning culture, encouraging risk-taking). Pitfalls include: performative vulnerability, excessive focus on eventual success, and inappropriate sharing contexts. For knowledge workers, sharing failure stories means: being honest about setbacks, extracting and sharing lessons, and creating psychological safety for others to share their failures.",
+    "tags": [
+        "failure",
+        "storytelling",
+        "vulnerability",
+        "learning",
+        "connection"
+    ],
+    "category": "Concepts",
+    "icon": "FaBook",
+    "featured": false,
+    "aliases": [
+        "Failure narratives",
+        "Setback stories",
+        "Lesson stories"
+    ],
+    "relatedConcepts": [
+        "failure-resume",
+        "learning-from-failure",
+        "vulnerability",
+        "psychological-safety",
+        "storytelling",
+        "mentorship"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

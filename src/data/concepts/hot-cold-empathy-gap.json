@@ -1,0 +1,44 @@
+{
+    "id": "hot-cold-empathy-gap",
+    "name": "Hot-Cold Empathy Gap",
+    "summary": "The difficulty of predicting how we'll feel or act when in a different emotional state.",
+    "explanation": "The hot-cold empathy gap is the difficulty of predicting how we'll feel, want, or behave when in a different emotional state than our current one. In a 'cold' (calm, rational) state, we underestimate the power of 'hot' (emotional, aroused) states - and vice versa. Examples include: when calm, underestimating how hard it will be to resist temptation when stressed; when full, underestimating future hunger; when rested, underplanning for tired-self's limitations. The gap affects: willpower predictions, commitment reliability, and empathy for others in different states. Implications include: plans made in cold states may not survive hot states, we misjudge past hot-state decisions from cold perspective, and supporting structures (not just intentions) are needed for hot-state moments. Bridging the gap involves: planning for the other state, creating commitments that survive state changes, and building empathy for your other-state self. For knowledge workers, understanding this gap means: not trusting cold-state commitments alone, preparing support for difficult moments, and having compassion for hot-state decisions.",
+    "tags": [
+        "psychology",
+        "decision-making",
+        "emotions",
+        "self-awareness",
+        "planning"
+    ],
+    "category": "Concepts",
+    "icon": "FaTemperatureHigh",
+    "featured": false,
+    "aliases": [
+        "Empathy gap",
+        "State-dependent prediction",
+        "Hot state cold state"
+    ],
+    "relatedConcepts": [
+        "willpower",
+        "self-awareness",
+        "planning",
+        "emotional-states",
+        "self-prediction",
+        "commitment-devices"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

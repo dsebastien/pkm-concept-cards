@@ -1,0 +1,49 @@
+{
+    "id": "knowledge-work-productivity",
+    "name": "Knowledge Work Productivity",
+    "summary": "Effective output in cognitive and information-based professional work.",
+    "explanation": "Knowledge work productivity refers to effective output in cognitive and information-based professional work. Unlike manufacturing productivity (units per hour), knowledge work productivity is complex to define and measure. Drucker called it 'the challenge of the 21st century.' Key aspects include: output quality (not just quantity), cognitive efficiency (thinking effectively), attention management (protecting focus), and sustainable performance (avoiding burnout). Challenges include: output is often intangible, quality matters more than quantity, measurement is difficult, and busyness doesn't equal productivity. Cal Newport argues that clarity about what constitutes valuable output is essential - without it, shallow work often substitutes for deep work. Productivity approaches include: deep work scheduling, reducing context switching, managing energy not just time, and designing environments for focus. For knowledge workers, improving productivity means: defining what valuable output looks like in your role, protecting time for deep work, managing attention systematically, and measuring meaningful outcomes rather than activity.",
+    "tags": [
+        "knowledge-work",
+        "productivity",
+        "effectiveness",
+        "work",
+        "performance"
+    ],
+    "category": "Concepts",
+    "icon": "FaTachometerAlt",
+    "featured": false,
+    "aliases": [
+        "Cognitive productivity",
+        "Information work productivity",
+        "White-collar productivity"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "deep-work",
+        "productivity",
+        "effectiveness",
+        "attention-management",
+        "output"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

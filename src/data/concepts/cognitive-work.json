@@ -1,0 +1,44 @@
+{
+    "id": "cognitive-work",
+    "name": "Cognitive Work",
+    "summary": "Work that primarily involves thinking, analysis, problem-solving, and mental processing.",
+    "explanation": "Cognitive work refers to work that primarily involves thinking, analysis, problem-solving, and mental processing rather than physical labor. It encompasses: analytical thinking (breaking down complex problems), creative thinking (generating novel ideas), decision-making (evaluating options and choosing), learning (acquiring new knowledge), and communication (conveying complex ideas). Cognitive work has unique characteristics: it's invisible (outputs not always tangible), it's variable (quality fluctuates), it's demanding (cognitive resources deplete), and it requires conditions (environment affects performance). Effective cognitive work requires: appropriate difficulty levels (not too easy or hard), adequate rest (cognitive resources need replenishment), environmental support (quiet, appropriate tools), and motivation (engagement with the work). Understanding cognitive work helps: design better work practices, create supportive environments, and maintain sustainable performance. For knowledge workers, optimizing cognitive work means: scheduling demanding work for peak energy, managing cognitive load, creating focus-supporting environments, and recovering adequately between intensive periods.",
+    "tags": [
+        "knowledge-work",
+        "cognition",
+        "thinking",
+        "work",
+        "productivity"
+    ],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Mental work",
+        "Thinking work",
+        "Brain work"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "deep-work",
+        "cognitive-load",
+        "thinking",
+        "problem-solving",
+        "creativity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

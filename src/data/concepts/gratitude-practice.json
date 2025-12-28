@@ -1,0 +1,49 @@
+{
+    "id": "gratitude-practice",
+    "name": "Gratitude Practice",
+    "summary": "Intentional activities designed to cultivate and express appreciation for life's positives.",
+    "explanation": "Gratitude practice refers to intentional activities designed to cultivate and express appreciation for the positive aspects of life, relationships, and experiences. Research by Robert Emmons and others demonstrates significant wellbeing benefits from regular gratitude practice. Core practices include: gratitude journaling (writing what you're thankful for), gratitude meditation (focusing attention on blessings), gratitude letters (writing thanks to specific people), and mental noting (acknowledging good moments throughout the day). Gratitude practice works by: shifting attention from negatives to positives, countering hedonic adaptation (taking good things for granted), and strengthening relationships through expressed appreciation. Effective practice involves: specificity (noting particular things rather than vague 'life'), consistency (regular practice builds benefits), and variety (mixing up practices prevents staleness). Barriers include: negativity bias (brain naturally focuses on threats), busy-ness (no time set aside), and cynicism (dismissing practice as naive). For knowledge workers, gratitude practice means: building regular gratitude habits, expressing appreciation to colleagues, and maintaining perspective on positives amid work challenges.",
+    "tags": [
+        "gratitude",
+        "wellbeing",
+        "psychology",
+        "habits",
+        "positive-psychology"
+    ],
+    "category": "Techniques",
+    "icon": "FaPrayingHands",
+    "featured": true,
+    "aliases": [
+        "Practicing gratitude",
+        "Gratitude habits",
+        "Thankfulness practice"
+    ],
+    "relatedConcepts": [
+        "gratitude-journal",
+        "gratitude-meditation",
+        "positive-psychology",
+        "wellbeing",
+        "mindfulness",
+        "happiness"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thanks! by Robert Emmons",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

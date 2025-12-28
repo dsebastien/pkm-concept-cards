@@ -1,0 +1,44 @@
+{
+    "id": "bright-lines",
+    "name": "Bright Lines",
+    "summary": "Clear, absolute rules that eliminate decision-making and reduce temptation.",
+    "explanation": "Bright lines are clear, absolute rules that eliminate the need for case-by-case decision-making in the moment. Unlike flexible guidelines, bright lines are non-negotiable: 'I don't drink alcohol' rather than 'I drink moderately.' Bright lines work because: decisions fatigue willpower, ambiguity creates negotiation space, and absolute rules reduce temptation's leverage. Examples include: 'I don't work on Sundays' (vs. 'I try to rest on weekends'), 'I don't check email before 10am,' and 'I always exercise on Tuesdays.' Effective bright lines are: specific (clear when violated), meaningful (worth maintaining), and enforceable (you control compliance). They're particularly useful for: behaviors where moderation is difficult, areas where you've struggled with willpower, and commitments that define identity. Bright lines can become limiting if: too rigid in genuinely exceptional circumstances, or used for every decision (decision fatigue from another source). For knowledge workers, bright lines help: protect deep work time, maintain work-life boundaries, and eliminate decision fatigue around recurring choices.",
+    "tags": [
+        "psychology",
+        "habits",
+        "willpower",
+        "boundaries",
+        "decision-making"
+    ],
+    "category": "Concepts",
+    "icon": "FaRulerHorizontal",
+    "featured": false,
+    "aliases": [
+        "Bright line rules",
+        "Absolute boundaries",
+        "Non-negotiable rules"
+    ],
+    "relatedConcepts": [
+        "willpower",
+        "boundaries",
+        "habits",
+        "decision-fatigue",
+        "commitment",
+        "rules"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "learning-from-failure",
+    "name": "Learning from Failure",
+    "summary": "The practice of extracting lessons and insights from failures to improve future performance.",
+    "explanation": "Learning from failure is the practice of extracting lessons, insights, and improvements from failures to enhance future performance. While often discussed, genuine learning from failure is rarer than assumed - many people fail without learning. Effective learning requires: honest assessment (not defensive attribution), systematic analysis (not just emotional processing), and applied lessons (not just understanding). Barriers to learning include: ego protection (blaming external factors), cognitive dissonance (avoiding uncomfortable insights), and lack of feedback (not knowing what went wrong). The learning process involves: documenting what happened, analyzing contributing factors, identifying actionable lessons, and implementing changes. Organizations can promote learning through: psychological safety, blameless post-mortems, and institutional memory systems. Individual practices include: failure journals, personal retrospectives, and mentor debriefs. For knowledge workers, learning from failure means: treating every significant failure as a learning opportunity, being honest about personal contributions to failures, and implementing changes rather than just understanding them.",
+    "tags": [
+        "failure",
+        "learning",
+        "improvement",
+        "reflection",
+        "personal-development"
+    ],
+    "category": "Concepts",
+    "icon": "FaGraduationCap",
+    "featured": true,
+    "aliases": [
+        "Failure-based learning",
+        "Learning from mistakes",
+        "Failure lessons"
+    ],
+    "relatedConcepts": [
+        "failure-analysis",
+        "failure-mindset",
+        "reflection",
+        "continuous-improvement",
+        "growth-mindset",
+        "experience"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Black Box Thinking by Matthew Syed",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

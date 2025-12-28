@@ -1,0 +1,44 @@
+{
+    "id": "obligation-principle",
+    "name": "Obligation Principle",
+    "summary": "The psychological mechanism that creates feelings of debt and duty to repay after receiving.",
+    "explanation": "The obligation principle describes the psychological mechanism that creates feelings of debt and duty after receiving gifts, favors, or concessions from others. When someone does something for us, we experience psychological discomfort until the debt is repaid, driving reciprocal behavior. This principle is: universal (across all cultures), automatic (operates unconsciously), and powerful (influences behavior even against self-interest). The mechanism served evolutionary purposes: enabling cooperation, creating mutual aid networks, and building trust. However, the principle can be exploited through: unsolicited favors (creating unwanted obligations), imbalanced exchanges (small gifts for large returns), and strategic concessions (the rejection-then-retreat technique). The discomfort of obligation varies by: relationship closeness, cultural norms, and individual personality. Managing obligation involves: recognizing when it's being manipulated, feeling permission to decline reciprocation of manipulative 'gifts,' and distinguishing genuine generosity from tactical giving. For knowledge workers, understanding obligation means: not creating unwanted obligations in others, recognizing exploitation, and responding to genuine kindness without excessive obligation anxiety.",
+    "tags": [
+        "reciprocity",
+        "psychology",
+        "influence",
+        "social-norms",
+        "behavior"
+    ],
+    "category": "Concepts",
+    "icon": "FaLink",
+    "featured": false,
+    "aliases": [
+        "Debt principle",
+        "Felt obligation",
+        "Duty to repay"
+    ],
+    "relatedConcepts": [
+        "reciprocity-principle",
+        "reciprocity-bias",
+        "influence",
+        "social-pressure",
+        "cognitive-biases",
+        "manipulation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

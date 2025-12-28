@@ -1,0 +1,44 @@
+{
+    "id": "gratitude-habits",
+    "name": "Gratitude Habits",
+    "summary": "Regular, automatic practices that cultivate and express appreciation in daily life.",
+    "explanation": "Gratitude habits are regular, automatic practices integrated into daily routines that cultivate and express appreciation. Unlike occasional gratitude reflection, habits build gratitude into life's structure through consistent repetition. Common gratitude habits include: morning gratitude (starting day with appreciation), mealtime gratitude (thankfulness before eating), evening gratitude (reviewing day's blessings), and gratitude triggers (using cues to prompt thankfulness). Building habits requires: choosing specific times and contexts, starting small (one thing to be grateful for), and linking to existing routines. Effective habits are: consistent (same time/trigger), simple (easy to complete), and genuine (not rote repetition). Habits work because: they remove decision-making, they accumulate benefits over time, and they eventually become automatic. Challenges include: habit decay (forgetting over time), staleness (same things become routine), and inauthenticity (going through motions). For knowledge workers, gratitude habits might include: beginning meetings with appreciations, daily end-of-day gratitude noting, or weekly reflection on week's positives.",
+    "tags": [
+        "gratitude",
+        "habits",
+        "routines",
+        "wellbeing",
+        "practice"
+    ],
+    "category": "Techniques",
+    "icon": "FaRedo",
+    "featured": false,
+    "aliases": [
+        "Gratitude routines",
+        "Daily gratitude",
+        "Habitual thankfulness"
+    ],
+    "relatedConcepts": [
+        "gratitude-practice",
+        "habits",
+        "routines",
+        "habit-stacking",
+        "daily-gratitude",
+        "consistency"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

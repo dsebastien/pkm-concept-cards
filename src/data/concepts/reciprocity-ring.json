@@ -1,0 +1,49 @@
+{
+    "id": "reciprocity-ring",
+    "name": "Reciprocity Ring",
+    "summary": "A structured exercise where people make requests and offer help within a group.",
+    "explanation": "The Reciprocity Ring is a structured group exercise developed by Wayne Baker and Cheryl Baker where participants make requests for help and offer to help others. The exercise works by: each person stating a meaningful request, everyone considering how they can help, and connections forming across the group. The ring format overcomes: reluctance to ask for help, lack of awareness of others' needs, and the 'looking for opportunities to give' barrier. Results often include: unexpected connections, requests fulfilled through group knowledge, and revelation of hidden resources within networks. The exercise demonstrates that: people want to help but often don't know how, groups contain more resources than members realize, and structured asking creates giving opportunities. Organizations use reciprocity rings to: build collaborative culture, surface hidden knowledge, and strengthen connections. Best practices include: genuine requests (not too easy), diverse participants, and follow-up on connections made. For knowledge workers, reciprocity rings show the power of: asking explicitly, offering help proactively, and creating structured opportunities for generalized reciprocity.",
+    "tags": [
+        "reciprocity",
+        "networking",
+        "collaboration",
+        "exercises",
+        "community"
+    ],
+    "category": "Techniques",
+    "icon": "FaCircle",
+    "featured": false,
+    "aliases": [
+        "Give and get exercise",
+        "Request circle",
+        "Help circle"
+    ],
+    "relatedConcepts": [
+        "reciprocity-principle",
+        "generalized-reciprocity",
+        "networking",
+        "collaboration",
+        "community-building",
+        "asking-for-help"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Give and Take by Adam Grant",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

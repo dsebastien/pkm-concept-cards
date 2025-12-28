@@ -1,0 +1,49 @@
+{
+    "id": "preference-falsification",
+    "name": "Preference Falsification",
+    "summary": "Misrepresenting one's preferences to conform to perceived social expectations.",
+    "explanation": "Preference falsification (term coined by economist Timur Kuran) is the act of misrepresenting one's genuine preferences to conform to perceived social expectations. People publicly express views different from their private beliefs due to: social pressure (fear of disapproval), career concerns (risk to professional standing), and safety (avoiding conflict or danger). Consequences include: collective illusions (everyone thinks everyone else believes something few actually believe), fragile stability (apparent consensus can collapse suddenly when revealed as false), preference cascade (once some speak up, others follow rapidly), and information distortion (decision-makers get false signals). Preference falsification occurs in: political opinions (especially in polarized environments), organizational culture (false agreement in meetings), and social norms (behaviors people criticize but privately engage in). Understanding preference falsification helps: recognize that apparent consensus may be illusory, create psychological safety for authentic expression, and anticipate sudden shifts when falsification ends. For knowledge workers, this explains: why meetings produce false consensus, why organizations are surprised by employee departures, and the value of anonymous feedback channels.",
+    "tags": [
+        "psychology",
+        "social-dynamics",
+        "conformity",
+        "communication",
+        "truth"
+    ],
+    "category": "Concepts",
+    "icon": "FaMask",
+    "featured": false,
+    "aliases": [
+        "False conformity",
+        "Public vs private preferences",
+        "Pluralistic ignorance"
+    ],
+    "relatedConcepts": [
+        "conformity",
+        "social-proof",
+        "groupthink",
+        "psychological-safety",
+        "authenticity",
+        "pluralistic-ignorance"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Private Truths, Public Lies by Timur Kuran",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

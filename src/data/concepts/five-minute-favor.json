@@ -1,0 +1,49 @@
+{
+    "id": "five-minute-favor",
+    "name": "Five-Minute Favor",
+    "summary": "Adam Rifkin's concept of helping others in ways that take little time but create significant value.",
+    "explanation": "The five-minute favor is a concept popularized by Adam Rifkin, one of the most connected people in Silicon Valley. The idea is to regularly help others in ways that take five minutes or less but create disproportionate value for the recipient. Examples include: making introductions, sharing relevant articles, providing quick feedback, writing recommendations, and offering brief advice. The approach works because: small actions can have large impacts, aggregated small helps build substantial relationship capital, and the cost is minimal compared to benefit created. The practice embodies 'otherish' giving - generous but sustainable. Keys to effective five-minute favors include: listening for opportunities to help, having useful things to offer (knowledge, connections), and following through consistently. The approach contrasts with: refusing to help without reciprocity, waiting for large help opportunities, and overcommitting to draining requests. For knowledge workers, adopting the five-minute favor means: actively looking for quick help opportunities, making helping a default rather than exception, and building a reputation as someone who creates value without keeping score.",
+    "tags": [
+        "reciprocity",
+        "networking",
+        "generosity",
+        "productivity",
+        "relationships"
+    ],
+    "category": "Techniques",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Quick favor",
+        "Micro-help",
+        "Low-cost giving"
+    ],
+    "relatedConcepts": [
+        "give-and-take",
+        "giving-first",
+        "networking",
+        "generosity-principle",
+        "relationship-building",
+        "social-capital"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Give and Take by Adam Grant",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "absurdism",
+    "name": "Absurdism",
+    "summary": "Camus's philosophy confronting the conflict between human meaning-seeking and an indifferent universe.",
+    "explanation": "Absurdism is the philosophy developed by Albert Camus that confronts the fundamental conflict between humans' desire for meaning and the universe's apparent indifference. The 'absurd' is this confrontation: we seek meaning, the universe offers none. Camus identifies three responses: suicide (rejecting the confrontation), philosophical suicide (accepting unearned meaning through religion or ideology), and revolt (living despite absurdity). Camus advocates revolt: acknowledging the absurd while living fully anyway. 'One must imagine Sisyphus happy' - even endless, meaningless effort can be embraced. The absurd hero: acknowledges life's lack of inherent meaning, refuses false consolation, creates meaning through living fully, and revolts against despair through engagement. Absurdism differs from nihilism (it doesn't conclude nothing matters) and existentialism (less emphasis on freedom creating essence). For knowledge workers, absurdism suggests: acknowledging work may lack cosmic significance, creating meaning through engagement anyway, and finding joy in the doing rather than needing external validation of meaning.",
+    "tags": [
+        "philosophy",
+        "existentialism",
+        "camus",
+        "meaning",
+        "wisdom"
+    ],
+    "category": "Concepts",
+    "icon": "FaQuestion",
+    "featured": false,
+    "aliases": [
+        "The absurd",
+        "Camus philosophy",
+        "Meaninglessness and revolt"
+    ],
+    "relatedConcepts": [
+        "existentialism",
+        "meaning",
+        "nihilism",
+        "revolt",
+        "sisyphus",
+        "camus"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Myth of Sisyphus by Albert Camus",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-curation",
+    "name": "Knowledge Curation",
+    "summary": "The selective gathering, organization, and maintenance of valuable knowledge resources.",
+    "explanation": "Knowledge curation is the selective gathering, organization, and maintenance of valuable knowledge resources, analogous to museum curation. Unlike passive collection, curation involves: selective acquisition (choosing what to include), meaningful organization (creating navigable structures), contextual enrichment (adding metadata and connections), and active maintenance (updating and pruning). In the age of information abundance, curation becomes increasingly valuable - the ability to find the signal in the noise. Curation adds value through: filtering (removing low-value content), organizing (making knowledge findable), contextualizing (explaining relevance and relationships), and maintaining (keeping knowledge current). Curation differs from collection (which is passive) and creation (which generates new content). Effective curation requires: subject matter expertise, understanding of audience needs, and systems for organization. For knowledge workers, practicing knowledge curation means: selectively saving valuable resources, organizing collections meaningfully, maintaining and updating curated knowledge, and sharing curated collections when valuable to others.",
+    "tags": [
+        "knowledge-work",
+        "curation",
+        "organization",
+        "information-management",
+        "personal-knowledge-management"
+    ],
+    "category": "Techniques",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": [
+        "Curating knowledge",
+        "Information curation",
+        "Content curation"
+    ],
+    "relatedConcepts": [
+        "personal-knowledge-management",
+        "knowledge-organization",
+        "information-filtering",
+        "note-taking",
+        "second-brain",
+        "content-strategy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

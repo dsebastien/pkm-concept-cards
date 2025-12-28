@@ -1,0 +1,44 @@
+{
+    "id": "failure-acceptance",
+    "name": "Failure Acceptance",
+    "summary": "Acknowledging failure without excessive self-criticism while maintaining motivation to improve.",
+    "explanation": "Failure acceptance is the practice of acknowledging failure without excessive self-criticism while maintaining motivation to learn and improve. Unlike denial (pretending failure didn't happen) or rumination (obsessing over failure), acceptance involves: recognizing reality, processing emotions appropriately, and moving forward constructively. The practice draws from: self-compassion research (treating yourself kindly after failure), ACT therapy (accepting difficult experiences while committed to values), and growth mindset (failure as learning opportunity). Acceptance is not: resignation (giving up on improvement), approval (thinking failure is good), or suppression (ignoring the emotional impact). The process involves: acknowledging what happened, allowing emotional response, avoiding harsh self-judgment, extracting lessons, and recommitting to goals. Failure acceptance protects against: shame spirals, learned helplessness, and fear-based risk avoidance. It enables: faster recovery, clearer thinking about causes, and sustained motivation. For knowledge workers, failure acceptance means: processing setbacks without catastrophizing, maintaining self-worth separate from performance, and using failures as information rather than identity.",
+    "tags": [
+        "failure",
+        "acceptance",
+        "psychology",
+        "resilience",
+        "self-compassion"
+    ],
+    "category": "Concepts",
+    "icon": "FaCheck",
+    "featured": false,
+    "aliases": [
+        "Accepting failure",
+        "Failure processing",
+        "Healthy failure response"
+    ],
+    "relatedConcepts": [
+        "self-compassion",
+        "failure-recovery",
+        "resilience",
+        "acceptance",
+        "growth-mindset",
+        "emotional-regulation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

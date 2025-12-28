@@ -1,0 +1,49 @@
+{
+    "id": "wabi-sabi",
+    "name": "Wabi-Sabi",
+    "summary": "The Japanese aesthetic of finding beauty in imperfection, impermanence, and incompleteness.",
+    "explanation": "Wabi-sabi is a Japanese aesthetic and worldview that finds beauty in imperfection, impermanence, and incompleteness. Wabi originally meant the loneliness of nature; sabi referred to aged, weathered beauty. Together they describe: appreciation for asymmetry and irregularity, beauty in natural processes of aging and wear, and value in simplicity and understatement. Wabi-sabi contrasts with: perfectionism (valuing flawlessness), permanence seeking (resisting change), and excess (over-decoration and complexity). The aesthetic appears in: traditional tea ceremonies, pottery with deliberate imperfections, weathered wood and stone, and minimalist design. Wabi-sabi as a philosophy involves: accepting impermanence, releasing attachment to perfection, and finding beauty in what is rather than what should be. The concept challenges modern tendencies toward: perfection obsession, newness worship, and digital polish. For knowledge workers, wabi-sabi offers: liberation from perfectionism, appreciation for iteration over final products, and recognition that imperfect done is better than perfect never completed.",
+    "tags": [
+        "philosophy",
+        "aesthetics",
+        "wisdom",
+        "imperfection",
+        "japanese-culture"
+    ],
+    "category": "Concepts",
+    "icon": "FaLeaf",
+    "featured": false,
+    "aliases": [
+        "Beauty in imperfection",
+        "Imperfect beauty",
+        "Worn beauty"
+    ],
+    "relatedConcepts": [
+        "perfectionism",
+        "impermanence",
+        "minimalism",
+        "kintsugi-mindset",
+        "acceptance",
+        "simplicity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Wabi-Sabi: For Artists, Designers, Poets & Philosophers by Leonard Koren",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

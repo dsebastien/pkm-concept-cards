@@ -1,0 +1,44 @@
+{
+    "id": "value-alignment",
+    "name": "Value Alignment",
+    "summary": "Matching behavior, decisions, and life design to personal core values.",
+    "explanation": "Value alignment is the practice of matching behavior, decisions, and life design to personal core values - living in accordance with what you believe matters most. Misalignment occurs when: stated values differ from lived values, daily actions contradict priorities, and work or relationships conflict with core beliefs. Alignment involves: identifying core values (what truly matters to you), auditing life against values (where is behavior misaligned?), and adjusting toward alignment (changing behavior or environment). Benefits of alignment include: reduced internal conflict, greater sense of integrity, improved decision-making, and increased life satisfaction. Barriers include: lack of clarity about values, social pressure toward misalignment, and short-term incentives contradicting long-term values. Achieving alignment requires: reflection on values, honesty about current state, and willingness to make changes. Value alignment is ongoing - as life changes, alignment requires continuous attention. For knowledge workers, value alignment means: choosing work that reflects values, making decisions consistently with priorities, and recognizing when misalignment is causing dissatisfaction.",
+    "tags": [
+        "values",
+        "integrity",
+        "self-awareness",
+        "decision-making",
+        "meaning"
+    ],
+    "category": "Concepts",
+    "icon": "FaCompass",
+    "featured": false,
+    "aliases": [
+        "Living your values",
+        "Values-based living",
+        "Integrity living"
+    ],
+    "relatedConcepts": [
+        "values",
+        "integrity",
+        "purpose",
+        "authenticity",
+        "decision-making",
+        "meaning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

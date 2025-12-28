@@ -1,0 +1,44 @@
+{
+    "id": "mere-measurement-effect",
+    "name": "Mere Measurement Effect",
+    "summary": "The phenomenon where asking about intentions increases the likelihood of those behaviors.",
+    "explanation": "The mere measurement effect (or question-behavior effect) is the phenomenon where asking people about their intentions to perform a behavior increases the likelihood they will actually perform it. Simply measuring intentions changes behavior. Mechanisms include: making intentions salient (bringing to conscious attention), creating cognitive dissonance (pressure to be consistent), and activating relevant knowledge (priming related concepts). The effect has been demonstrated for: voting (asking if you'll vote increases voting), purchasing (asking about buying increases purchases), exercising (asking about exercise increases activity), and health behaviors (asking about checkups increases attendance). Applications include: surveys that influence behavior they measure, self-monitoring effects (tracking changes behavior), and commitment devices (stated intentions become more binding). Limitations: effect is modest in size, works better for socially desirable behaviors, and decays over time. For knowledge workers, the mere measurement effect suggests: tracking goals increases achievement, stating intentions publicly creates commitment, and being aware that measurement influences what's measured.",
+    "tags": [
+        "psychology",
+        "behavior",
+        "measurement",
+        "intentions",
+        "commitment"
+    ],
+    "category": "Concepts",
+    "icon": "FaClipboardCheck",
+    "featured": false,
+    "aliases": [
+        "Question-behavior effect",
+        "Self-prophecy effect",
+        "Measurement reactivity"
+    ],
+    "relatedConcepts": [
+        "commitment-consistency",
+        "observer-effect",
+        "self-monitoring",
+        "hawthorne-effect",
+        "intentions",
+        "behavior-change"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

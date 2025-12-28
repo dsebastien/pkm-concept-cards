@@ -1,0 +1,49 @@
+{
+    "id": "cognitive-switching-penalty",
+    "name": "Cognitive Switching Penalty",
+    "summary": "The mental cost and time lost when shifting between different tasks or contexts.",
+    "explanation": "Cognitive switching penalty refers to the mental cost, time loss, and performance degradation that occurs when shifting between different tasks or contexts. Research shows: task switching isn't instantaneous - mental residue from the previous task persists, recovery takes time, and frequent switching compounds losses. The penalty includes: time to reorient (loading context into working memory), attention residue (thoughts from previous task lingering), and quality degradation (shallow engagement with each task). Factors affecting severity include: task complexity, task similarity, and switching frequency. The penalty is: worse for complex tasks, reduced with related tasks, and cumulative with frequent switches. Even 'quick' interruptions cause significant penalties - checking email for 'just a minute' can cost 15+ minutes of recovery. For knowledge workers, understanding this penalty suggests: batching similar tasks, protecting focus time, minimizing context switches, and recognizing that multitasking's apparent efficiency is often illusory.",
+    "tags": [
+        "productivity",
+        "cognition",
+        "focus",
+        "context-switching",
+        "attention"
+    ],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Task switching cost",
+        "Context switch penalty",
+        "Multitasking cost"
+    ],
+    "relatedConcepts": [
+        "context-switching",
+        "focus",
+        "attention-residue",
+        "deep-work",
+        "monotasking",
+        "productivity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

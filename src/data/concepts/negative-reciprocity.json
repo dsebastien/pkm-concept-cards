@@ -1,0 +1,44 @@
+{
+    "id": "negative-reciprocity",
+    "name": "Negative Reciprocity",
+    "summary": "Exchange where one party attempts to maximize gain at the other's expense.",
+    "explanation": "Negative reciprocity is a form of exchange where one party attempts to maximize their gain at the other party's expense, taking more than they give. This is the opposite end of the reciprocity spectrum from generalized reciprocity. Forms include: hard bargaining (extracting maximum advantage), theft and fraud (taking without exchange), and exploitation (using power imbalances). Negative reciprocity characterizes: antagonistic relationships, transactions with strangers, and competitive contexts. While often viewed negatively, some forms (like tough negotiation) are socially acceptable in certain contexts. The approach damages: trust, relationships, and long-term cooperation potential. It may provide short-term gain but typically fails over time as reputation spreads and partners avoid repeat interactions. Signs of negative reciprocity in others include: unwillingness to give, constant extraction, and violated commitments. Protection involves: recognizing patterns, maintaining boundaries, and withdrawing from exploitative relationships. For knowledge workers, understanding negative reciprocity means: identifying takers early, protecting against exploitation, and building reputation as a fair dealer rather than an exploiter.",
+    "tags": [
+        "reciprocity",
+        "exchange",
+        "exploitation",
+        "anthropology",
+        "relationships"
+    ],
+    "category": "Concepts",
+    "icon": "FaMinusCircle",
+    "featured": false,
+    "aliases": [
+        "Exploitative exchange",
+        "Taking behavior",
+        "Extractive reciprocity"
+    ],
+    "relatedConcepts": [
+        "reciprocity-principle",
+        "balanced-reciprocity",
+        "give-and-take",
+        "exploitation",
+        "trust",
+        "boundaries"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

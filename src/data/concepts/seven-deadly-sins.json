@@ -1,0 +1,44 @@
+{
+    "id": "seven-deadly-sins",
+    "name": "Seven Deadly Sins",
+    "summary": "The Christian tradition's list of fundamental vices that lead to other sins.",
+    "explanation": "The Seven Deadly Sins are a classification of fundamental vices in Christian moral teaching that lead to other sins. The traditional list: Pride (excessive self-esteem, considering oneself better than others), Greed (excessive desire for wealth or possessions), Wrath (uncontrolled anger or hatred), Envy (resentment of others' advantages), Lust (excessive sexual desire), Gluttony (overindulgence in food or drink), and Sloth (spiritual laziness, avoiding work). These are 'deadly' not as sins causing death but as 'capital' sins - sources from which other sins flow. Each has corresponding virtues: humility, charity, patience, kindness, chastity, temperance, and diligence. The framework offers: systematic understanding of human tendencies, diagnostic tool for self-examination, and guidance for character development. Though from Christian tradition, the vices identified appear across cultures as recognized obstacles to flourishing. For knowledge workers, the framework helps identify: tendencies that undermine effectiveness (pride creating blind spots, envy poisoning relationships), and virtues to cultivate (diligence in work, temperance in consumption).",
+    "tags": [
+        "philosophy",
+        "christianity",
+        "ethics",
+        "wisdom",
+        "virtue"
+    ],
+    "category": "Frameworks",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": [
+        "Capital sins",
+        "Cardinal sins",
+        "Deadly vices"
+    ],
+    "relatedConcepts": [
+        "virtue",
+        "ethics",
+        "cardinal-virtues",
+        "character",
+        "morality",
+        "self-examination"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

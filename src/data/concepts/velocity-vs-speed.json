@@ -1,0 +1,44 @@
+{
+    "id": "velocity-vs-speed",
+    "name": "Velocity vs Speed",
+    "summary": "Distinguishing productive progress toward goals from mere activity or motion.",
+    "explanation": "Velocity vs speed distinguishes productive progress from mere activity. In physics: speed is how fast you're moving; velocity is how fast you're moving in a specific direction. For productivity: speed is amount of activity; velocity is rate of progress toward meaningful goals. High speed, low velocity looks like: being very busy but not advancing priorities, lots of motion without progress, and effort without results. High velocity requires: clear direction (knowing what matters), appropriate speed (not too slow, not frenetically fast), and focused effort (energy on the right things). The distinction matters because: activity feels productive (busyness can mask lack of progress), speed is visible (but velocity requires measuring against goals), and optimization differs (speed asks 'how to do more?'; velocity asks 'is this the right thing?'). Increasing velocity involves: clarifying priorities (what direction are we going?), reducing wasted motion (activity not toward goals), and measuring outcomes (not just inputs). For knowledge workers, the velocity vs speed distinction helps: recognize when busyness isn't progress, focus on outcomes over activity, and avoid confusing motion with advancement.",
+    "tags": [
+        "productivity",
+        "effectiveness",
+        "goals",
+        "progress",
+        "priorities"
+    ],
+    "category": "Concepts",
+    "icon": "FaTachometerAlt",
+    "featured": false,
+    "aliases": [
+        "Progress vs activity",
+        "Motion vs progress",
+        "Productive velocity"
+    ],
+    "relatedConcepts": [
+        "effectiveness",
+        "priorities",
+        "goals",
+        "busyness",
+        "productivity",
+        "direction"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

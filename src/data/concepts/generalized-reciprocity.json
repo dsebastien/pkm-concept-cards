@@ -1,0 +1,44 @@
+{
+    "id": "generalized-reciprocity",
+    "name": "Generalized Reciprocity",
+    "summary": "Giving without expectation of direct return, trusting the community to reciprocate over time.",
+    "explanation": "Generalized reciprocity is a form of exchange where giving occurs without expectation of direct return from the recipient. Instead, givers trust that they will receive from the community or society over time. This differs from balanced reciprocity (direct exchange) and represents the most altruistic form of exchange. Anthropologist Marshall Sahlins identified this as characteristic of close-knit groups like families and tight communities. Generalized reciprocity is enabled by: high trust, long time horizons, strong social bonds, and community norms supporting contribution. Examples include: open source software contributions, Wikipedia editing, community volunteering, and family support. The form creates: stronger communities, deeper relationships, and greater collective resources. It requires: trust that others will also contribute, patience for indirect returns, and willingness to contribute without tracking. Generalized reciprocity strengthens networks because: it reduces transaction costs, builds social capital, and creates abundance mindset. For knowledge workers, practicing generalized reciprocity means: contributing to communities without scorekeeping, sharing knowledge freely, and trusting that generosity returns through unexpected channels.",
+    "tags": [
+        "reciprocity",
+        "generosity",
+        "community",
+        "anthropology",
+        "altruism"
+    ],
+    "category": "Concepts",
+    "icon": "FaInfinity",
+    "featured": false,
+    "aliases": [
+        "Diffuse reciprocity",
+        "Pay-it-forward reciprocity",
+        "Altruistic exchange"
+    ],
+    "relatedConcepts": [
+        "reciprocity-principle",
+        "paying-it-forward",
+        "balanced-reciprocity",
+        "community-building",
+        "open-source",
+        "social-capital"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

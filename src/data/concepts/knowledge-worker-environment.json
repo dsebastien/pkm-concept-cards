@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-worker-environment",
+    "name": "Knowledge Worker Environment",
+    "summary": "Physical and digital spaces designed to support cognitive and information work.",
+    "explanation": "Knowledge worker environment refers to physical and digital spaces designed to support cognitive and information work. Unlike manufacturing where environments are designed for physical tasks, knowledge work environments must support: focus (enabling concentration), collaboration (when needed), creativity (stimulating thinking), and wellbeing (sustainable performance). Physical environment factors include: noise levels, lighting, ergonomics, and visual environment. Digital environment factors include: tool accessibility, notification management, and information organization. Key tensions include: open collaboration spaces vs. private focus areas, digital connectivity vs. attention protection, and standardized setups vs. individual preferences. Effective environments are: adaptable (different modes for different work), controlled (worker has agency), and aligned (supporting rather than hindering work). Remote work has highlighted environment importance - workers with poor home environments struggle. For knowledge workers, optimizing environment means: designing spaces that support your work modes, managing digital environment deliberately, and advocating for appropriate organizational environments.",
+    "tags": [
+        "knowledge-work",
+        "environment",
+        "workspace",
+        "productivity",
+        "design"
+    ],
+    "category": "Concepts",
+    "icon": "FaDesktop",
+    "featured": false,
+    "aliases": [
+        "Work environment",
+        "Workspace design",
+        "Knowledge work space"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "focus-environment",
+        "remote-work",
+        "productivity",
+        "ergonomics",
+        "workspace"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

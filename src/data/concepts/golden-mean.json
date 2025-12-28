@@ -1,0 +1,49 @@
+{
+    "id": "golden-mean",
+    "name": "Golden Mean",
+    "summary": "Aristotle's principle that virtue lies between extremes of excess and deficiency.",
+    "explanation": "The Golden Mean is Aristotle's principle that virtue (arete) lies between two vices - one of excess, one of deficiency. Courage is the mean between cowardice (too little) and recklessness (too much). Generosity is between miserliness and profligacy. The doctrine holds that: virtuous action occupies a middle ground, both extremes are vicious, and finding the mean requires wisdom (phronesis). Important clarifications: the mean is relative to the person and situation (not exact middle), some actions have no mean (murder is always wrong), and finding the mean requires experience and judgment. The Golden Mean provides: practical guidance for developing character, framework for evaluating actions, and recognition that virtue requires balance. The concept applies to: personal qualities, responses to situations, and life choices. It connects to moderation (sophrosyne) but is more specific about how moderation operates. For knowledge workers, the Golden Mean suggests: avoiding extremes in work habits, finding appropriate levels of various qualities (assertiveness, risk-taking, collaboration), and developing judgment about what each situation requires.",
+    "tags": [
+        "philosophy",
+        "wisdom",
+        "virtue",
+        "balance",
+        "moderation"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Doctrine of the mean",
+        "Aristotelian mean",
+        "Middle way virtue"
+    ],
+    "relatedConcepts": [
+        "virtue",
+        "moderation",
+        "sophrosyne",
+        "phronesis",
+        "balance",
+        "middle-way"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Nicomachean Ethics by Aristotle",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

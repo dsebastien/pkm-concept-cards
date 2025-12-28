@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-debt",
+    "name": "Knowledge Debt",
+    "summary": "Accumulated learning you need to do but haven't, creating future liability.",
+    "explanation": "Knowledge debt (by analogy with technical debt) refers to accumulated learning you need to do but haven't yet completed, creating a liability that compounds over time. Like financial debt, knowledge debt: accumulates interest (gaps become harder to fill as knowledge builds on knowledge), has opportunity costs (inability to use knowledge you don't have), and can become overwhelming (too much debt paralyzes). Knowledge debt accrues when: skipping fundamentals to move fast, not updating skills as fields evolve, and postponing learning for urgent tasks. Symptoms include: struggling with concepts that build on gaps, feeling increasingly behind, and needing more time for tasks that should be routine. Managing knowledge debt involves: identifying highest-priority gaps, scheduling learning time, and not creating more debt than necessary. Unlike technical debt (sometimes strategic), knowledge debt is rarely worth accruing intentionally. For knowledge workers, addressing knowledge debt means: auditing knowledge gaps, prioritizing foundational learning, and treating skill development as essential maintenance, not optional luxury.",
+    "tags": [
+        "learning",
+        "knowledge-work",
+        "skills",
+        "development",
+        "debt"
+    ],
+    "category": "Concepts",
+    "icon": "FaBookOpen",
+    "featured": false,
+    "aliases": [
+        "Learning debt",
+        "Skill debt",
+        "Competency gap"
+    ],
+    "relatedConcepts": [
+        "learning",
+        "skills",
+        "technical-debt",
+        "professional-development",
+        "continuous-learning",
+        "knowledge-gaps"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

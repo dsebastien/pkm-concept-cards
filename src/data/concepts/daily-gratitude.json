@@ -1,0 +1,44 @@
+{
+    "id": "daily-gratitude",
+    "name": "Daily Gratitude",
+    "summary": "The habit of practicing gratitude every day through structured reflection or expression.",
+    "explanation": "Daily gratitude is the habit of practicing gratitude every day through structured reflection, journaling, or expression. The daily cadence provides: consistent practice that builds cumulative benefits, regular attention direction toward positives, and habit formation through repetition. Common daily gratitude formats include: morning gratitude (starting day with appreciation), evening gratitude (reviewing day's blessings), and moment-based (noting gratitude throughout day). Daily practice differs from occasional gratitude in: habit strength (becomes automatic), cumulative effect (benefits build), and mindset shift (gratitude becomes default lens). Implementation requires: choosing a consistent time, linking to existing routines, and maintaining minimal effort (even one thing counts). Challenges include: staleness (same entries daily), forgetting (missing days breaks momentum), and superficiality (rushing through without feeling). Research suggests that while daily practice has benefits, even weekly practice is valuable - the key is consistency at whatever frequency works. For knowledge workers, daily gratitude provides: regular stress relief, maintained perspective, and steady wellbeing enhancement.",
+    "tags": [
+        "gratitude",
+        "daily-practice",
+        "habits",
+        "routines",
+        "wellbeing"
+    ],
+    "category": "Techniques",
+    "icon": "FaCalendarDay",
+    "featured": false,
+    "aliases": [
+        "Everyday gratitude",
+        "Daily thankfulness",
+        "Regular gratitude"
+    ],
+    "relatedConcepts": [
+        "gratitude-practice",
+        "gratitude-habits",
+        "daily-practices",
+        "routines",
+        "consistency",
+        "habit-formation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

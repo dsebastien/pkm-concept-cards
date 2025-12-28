@@ -1,0 +1,44 @@
+{
+    "id": "kairos",
+    "name": "Kairos",
+    "summary": "The Greek concept of the right or opportune moment for action.",
+    "explanation": "Kairos is an ancient Greek concept meaning the right, critical, or opportune moment for action. Unlike chronos (sequential, quantitative time), kairos is qualitative - not how much time but when is the right time. The concept involves: recognizing when conditions are ripe, seizing appropriate moments, and understanding that timing matters as much as action itself. In Greek rhetoric, kairos meant speaking the right words at the right moment for maximum effect. The concept appears in: decision-making (waiting for the right moment), creativity (inspiration when it comes), and relationships (knowing when to speak or act). Kairos requires: attentiveness (noticing opportunities), judgment (recognizing ripeness), and courage (acting when the moment arrives). Missing kairos moments means opportunities that don't return in the same form. For knowledge workers, understanding kairos means: recognizing when conditions favor action, not forcing outcomes before their time, and developing sensitivity to timing in decisions, communications, and interventions.",
+    "tags": [
+        "philosophy",
+        "wisdom",
+        "time",
+        "opportunity",
+        "timing"
+    ],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Right moment",
+        "Opportune time",
+        "Timing wisdom"
+    ],
+    "relatedConcepts": [
+        "timing",
+        "opportunity",
+        "decision-making",
+        "carpe-diem",
+        "awareness",
+        "action"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

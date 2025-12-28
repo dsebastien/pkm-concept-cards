@@ -1,0 +1,44 @@
+{
+    "id": "failure-mindset",
+    "name": "Failure Mindset",
+    "summary": "A perspective that views failure as necessary feedback and opportunity rather than defeat.",
+    "explanation": "Failure mindset is a perspective that views failure as necessary feedback and opportunity rather than defeat or reflection of personal worth. This mindset reframes failure from: threat to opportunity, judgment to learning, ending to beginning. People with healthy failure mindsets: expect failure as part of any worthwhile pursuit, analyze failures for lessons, and maintain motivation despite setbacks. The mindset differs from: ignoring failure (still hurts, still analyzed), seeking failure (failure for its own sake has no value), and false positivity (genuine disappointment is acknowledged). Building a failure mindset involves: separating performance from identity, developing failure recovery practices, and cultivating examples of successful people who failed repeatedly. The mindset protects against: perfectionism paralysis, fear-based conservatism, and resilience collapse after inevitable setbacks. Cultural and organizational context matters - some environments punish failure, making healthy mindsets difficult to maintain. For knowledge workers, developing a failure mindset means: reframing setbacks as experiments, documenting lessons learned, and maintaining confidence that failure is data rather than destiny.",
+    "tags": [
+        "failure",
+        "mindset",
+        "resilience",
+        "learning",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Failure perspective",
+        "Failure attitude",
+        "Anti-failure-fear mindset"
+    ],
+    "relatedConcepts": [
+        "growth-mindset",
+        "learning-from-failure",
+        "resilience",
+        "fear-of-failure",
+        "failure-acceptance",
+        "psychological-safety"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

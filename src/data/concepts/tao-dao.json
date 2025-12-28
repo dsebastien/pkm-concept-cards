@@ -1,0 +1,49 @@
+{
+    "id": "tao-dao",
+    "name": "Tao (Dao)",
+    "summary": "The fundamental concept in Taoism - the way, path, or natural order of the universe.",
+    "explanation": "Tao (or Dao) is the central concept in Taoist philosophy, roughly translated as 'the Way' - the fundamental nature, pattern, and source of everything that exists. The Tao is: the natural order underlying all phenomena, the source from which everything emerges, and the pattern that wise living follows. The Tao Te Ching begins: 'The Tao that can be spoken is not the eternal Tao' - indicating that the Tao transcends conceptualization. Key aspects include: the Tao as source (all things arise from it), the Tao as pattern (nature follows its principles), and the Tao as guide (aligning with it brings harmony). Living in accordance with the Tao involves: understanding natural principles, acting in harmony with circumstances, and releasing attachment to outcomes. The Tao manifests in: natural processes (seasons, growth), human affairs (appropriate action), and the balance of opposites (yin and yang). For knowledge workers, understanding Tao suggests: working with natural rhythms, aligning with rather than against circumstances, and finding the path of least resistance to meaningful outcomes.",
+    "tags": [
+        "philosophy",
+        "taoism",
+        "wisdom",
+        "metaphysics",
+        "spirituality"
+    ],
+    "category": "Concepts",
+    "icon": "FaYinYang",
+    "featured": false,
+    "aliases": [
+        "The Way",
+        "Dao",
+        "Natural order"
+    ],
+    "relatedConcepts": [
+        "wu-wei",
+        "yin-and-yang",
+        "middle-way",
+        "natural-rhythm",
+        "harmony",
+        "flow"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Tao Te Ching by Lao Tzu",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

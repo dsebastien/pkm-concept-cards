@@ -1,0 +1,49 @@
+{
+    "id": "pivotal-behaviors",
+    "name": "Pivotal Behaviors",
+    "summary": "The few high-leverage behaviors that drive disproportionate results in any change effort.",
+    "explanation": "Pivotal behaviors are the few high-leverage behaviors that drive disproportionate results in any change effort. Rather than trying to change everything, identify and focus on the 2-3 behaviors that will have the most impact. Characteristics of pivotal behaviors: high leverage (small change, big impact), actionable (specific and observable), recoverable (can try again after failure), and testable (can verify if happening). Finding pivotal behaviors involves: studying positive deviants (what do successful people do differently?), identifying crucial moments (when does success or failure happen?), and looking for root behaviors (what enables other good behaviors?). Examples: for health - going to bed at consistent time; for relationships - apologizing quickly after conflicts; for productivity - starting the most important task first thing. The concept comes from change research (Patterson, Grenny et al.) showing that trying to change many behaviors at once fails, while focusing on vital few succeeds. For knowledge workers, pivotal behaviors might include: morning ritual before email, weekly review habit, or capturing ideas immediately when they arise.",
+    "tags": [
+        "behavior-change",
+        "habits",
+        "leverage",
+        "change",
+        "effectiveness"
+    ],
+    "category": "Concepts",
+    "icon": "FaBullseye",
+    "featured": false,
+    "aliases": [
+        "Vital behaviors",
+        "Key behaviors",
+        "Leverage behaviors"
+    ],
+    "relatedConcepts": [
+        "keystone-habits",
+        "leverage-points",
+        "behavior-change",
+        "positive-deviance",
+        "pareto-principle",
+        "habits"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Influencer by Patterson et al.",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

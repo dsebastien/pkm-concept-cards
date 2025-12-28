@@ -1,0 +1,49 @@
+{
+    "id": "existential-authenticity",
+    "name": "Existential Authenticity",
+    "summary": "Living true to oneself by taking responsibility for creating one's own meaning and values.",
+    "explanation": "Existential authenticity is the ideal of living true to oneself by taking responsibility for creating one's own meaning, values, and way of being. Central to existentialist philosophy (Heidegger, Sartre, de Beauvoir), authenticity involves: owning your choices rather than deferring to others, creating meaning rather than accepting inherited values, and living according to your genuine self, not social roles. Inauthenticity (or 'bad faith') means: living as 'they' dictate, denying freedom and responsibility, and treating yourself as fixed object rather than free being. Authenticity is challenging because: we're thrown into a world with existing structures, social pressure toward conformity is strong, and freedom creates anxiety. Being authentic requires: self-awareness about choices and values, courage to deviate from convention when needed, and acceptance of responsibility for one's life. For knowledge workers, authenticity means: pursuing work aligned with genuine values, not just convention or expectation, taking responsibility for career direction, and living according to your own examined values.",
+    "tags": [
+        "philosophy",
+        "existentialism",
+        "authenticity",
+        "meaning",
+        "wisdom"
+    ],
+    "category": "Concepts",
+    "icon": "FaUser",
+    "featured": false,
+    "aliases": [
+        "Authentic living",
+        "Being authentic",
+        "True to self"
+    ],
+    "relatedConcepts": [
+        "existentialism",
+        "authenticity",
+        "meaning",
+        "freedom",
+        "responsibility",
+        "values"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Being and Time by Martin Heidegger",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

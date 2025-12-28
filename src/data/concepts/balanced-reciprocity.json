@@ -1,0 +1,44 @@
+{
+    "id": "balanced-reciprocity",
+    "name": "Balanced Reciprocity",
+    "summary": "A form of exchange where value given and received are roughly equivalent.",
+    "explanation": "Balanced reciprocity is a form of exchange where the value given and received are roughly equivalent, often within defined timeframes. Unlike generalized reciprocity (giving without expectation) or negative reciprocity (getting more than giving), balanced reciprocity involves: clear expectations of return, relatively immediate exchange, and equivalent value. Anthropologically, balanced reciprocity characterizes trade relationships rather than close kin relationships. Examples include: marketplace transactions, business partnerships, and professional quid pro quo. Balanced reciprocity is appropriate for: arm's length relationships, professional contexts, and situations requiring clear boundaries. It becomes problematic when: applied to close relationships (scorekeeping damages intimacy), rigidly enforced (preventing natural relationship flows), or used to avoid genuine connection. The form reflects social distance - closer relationships tend toward generalized reciprocity while distant relationships tend toward balanced exchange. For knowledge workers, balanced reciprocity is useful for: professional networking, transactional relationships, and clear expectations, but should give way to more generous approaches in deeper relationships and communities.",
+    "tags": [
+        "reciprocity",
+        "exchange",
+        "anthropology",
+        "relationships",
+        "trade"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Equivalent exchange",
+        "Tit-for-tat",
+        "Even exchange"
+    ],
+    "relatedConcepts": [
+        "reciprocity-principle",
+        "generalized-reciprocity",
+        "negative-reciprocity",
+        "social-exchange",
+        "trade",
+        "fairness"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

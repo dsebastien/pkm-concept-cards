@@ -1,0 +1,44 @@
+{
+    "id": "operating-rhythm",
+    "name": "Operating Rhythm",
+    "summary": "Recurring patterns of meetings, reviews, and activities that drive organizational execution.",
+    "explanation": "Operating rhythm refers to the recurring patterns of meetings, reviews, check-ins, and activities that drive execution in organizations or personal productivity systems. It provides: predictability (everyone knows what happens when), accountability (regular review points), coordination (synchronization across teams), and momentum (continuous forward progress). Components include: daily standups or check-ins, weekly planning and review, monthly/quarterly business reviews, and annual planning cycles. Benefits include: reduced coordination overhead (scheduled touchpoints), early problem detection (regular reviews catch issues), consistent execution (rhythm creates habit), and reduced decision fatigue (standardized cadence). Design considerations: frequency appropriate to work type, duration proportional to value, clear purpose for each element, and flexibility within structure. Common patterns: daily tactical, weekly strategic, monthly operational, quarterly directional. For knowledge workers, establishing operating rhythm means: designing personal review cadences, coordinating with team rhythms, and balancing structure with flexibility for deep work.",
+    "tags": [
+        "productivity",
+        "management",
+        "systems",
+        "execution",
+        "cadence"
+    ],
+    "category": "Concepts",
+    "icon": "FaHeartbeat",
+    "featured": false,
+    "aliases": [
+        "Business cadence",
+        "Execution rhythm",
+        "Management operating system"
+    ],
+    "relatedConcepts": [
+        "weekly-review",
+        "meetings",
+        "accountability",
+        "systems-thinking",
+        "execution",
+        "coordination"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

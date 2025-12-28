@@ -1,0 +1,49 @@
+{
+    "id": "sunk-cost-effect",
+    "name": "Sunk Cost Effect",
+    "summary": "The tendency to continue an endeavor because of past investment, regardless of future value.",
+    "explanation": "The sunk cost effect (or sunk cost fallacy) is the tendency to continue an endeavor because of past investment (time, money, effort) rather than future returns. Rationally, past costs are irrelevant to future decisions - only future costs and benefits matter. But psychologically, we: feel waste-aversion (not wanting past investment to be 'for nothing'), seek to justify past decisions, and escalate commitment to prove original choice was correct. Examples include: finishing a bad book because you started it, staying in bad relationships because of years invested, and continuing failing projects because of resources already spent. The fallacy leads to: poor resource allocation, delayed pivots, and accumulated losses. Overcoming it requires: focusing on future value, accepting sunk costs as sunk, and asking 'knowing what I know now, would I start this?' If no, exit regardless of past investment. For knowledge workers, recognizing sunk costs helps: make better project continuation decisions, exit failing ventures earlier, and avoid throwing good resources after bad.",
+    "tags": [
+        "psychology",
+        "decision-making",
+        "cognitive-biases",
+        "economics",
+        "rationality"
+    ],
+    "category": "Concepts",
+    "icon": "FaCoins",
+    "featured": false,
+    "aliases": [
+        "Sunk cost fallacy",
+        "Escalation of commitment",
+        "Concorde fallacy"
+    ],
+    "relatedConcepts": [
+        "cognitive-biases",
+        "decision-making",
+        "loss-aversion",
+        "rationality",
+        "opportunity-cost",
+        "commitment"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

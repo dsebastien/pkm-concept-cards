@@ -1,0 +1,49 @@
+{
+    "id": "deep-knowledge-work",
+    "name": "Deep Knowledge Work",
+    "summary": "Cognitively demanding professional work that requires sustained concentration and expertise.",
+    "explanation": "Deep knowledge work refers to cognitively demanding professional work that requires sustained concentration, expertise, and creative thinking. Building on Cal Newport's 'deep work' concept, deep knowledge work specifically emphasizes the knowledge-intensive nature of such work. Examples include: complex analysis, strategic thinking, creative problem-solving, sophisticated writing, and original research. Deep knowledge work is characterized by: high cognitive demand, need for extended focus, difficulty of replication or automation, and creation of significant value. It contrasts with shallow knowledge work: email, routine coordination, and easily replicated tasks. Enabling deep knowledge work requires: protected time blocks, appropriate environment, skill development, and organizational support. The value of deep knowledge work is increasing as shallow tasks become automated. Professionals who can consistently produce deep knowledge work have significant competitive advantage. For knowledge workers, prioritizing deep knowledge work means: scheduling focused blocks, developing relevant expertise, protecting attention, and demonstrating the value of such work to organizations.",
+    "tags": [
+        "knowledge-work",
+        "deep-work",
+        "productivity",
+        "focus",
+        "expertise"
+    ],
+    "category": "Concepts",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Deep cognitive work",
+        "Intensive knowledge work",
+        "Complex knowledge work"
+    ],
+    "relatedConcepts": [
+        "deep-work",
+        "knowledge-worker",
+        "focus",
+        "expertise",
+        "cognitive-work",
+        "concentration"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-work-future",
+    "name": "Knowledge Work Future",
+    "summary": "Emerging trends and potential trajectories for cognitive and information-based work.",
+    "explanation": "Knowledge work future encompasses emerging trends and potential trajectories for cognitive and information-based work. Key trends include: AI augmentation (tools that enhance human cognition), remote/distributed work (location-independent collaboration), automation of routine cognitive tasks, and continuous skill evolution requirements. Potential changes include: reduced demand for routine knowledge work, increased premium for creativity and judgment, new human-AI collaboration patterns, and shifting organizational structures. Uncertainties include: pace of AI capability growth, regulatory responses, and social adaptation. Skills likely to remain valuable include: complex problem-solving, creative thinking, interpersonal skills, and adaptability. Preparing for this future involves: developing adaptable skillsets, building capabilities that complement rather than compete with AI, and staying informed about trends. For knowledge workers, navigating the future means: continuous skill investment, embracing rather than resisting technological change, focusing on uniquely human contributions, and maintaining adaptability as the key meta-skill.",
+    "tags": [
+        "knowledge-work",
+        "future-of-work",
+        "trends",
+        "AI",
+        "career"
+    ],
+    "category": "Concepts",
+    "icon": "FaRocket",
+    "featured": false,
+    "aliases": [
+        "Future of knowledge work",
+        "Knowledge work trends",
+        "Cognitive work evolution"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "future-of-work",
+        "artificial-intelligence",
+        "automation",
+        "skills",
+        "adaptation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

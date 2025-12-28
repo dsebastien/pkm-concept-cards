@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-application",
+    "name": "Knowledge Application",
+    "summary": "Using accumulated knowledge effectively to solve problems and achieve goals.",
+    "explanation": "Knowledge application is using accumulated knowledge effectively to solve problems, make decisions, and achieve goals. It's the ultimate purpose of knowledge acquisition - knowledge that isn't applied provides no value. Application involves: recognizing relevant situations (knowing when knowledge applies), adapting knowledge (applying general principles to specific situations), and executing effectively (turning knowledge into action). Barriers to application include: inert knowledge (known but not accessed when relevant), transfer failure (difficulty applying knowledge to new contexts), and knowing-doing gap (knowledge without action). Improving application involves: practicing application (not just acquisition), connecting knowledge to use cases, and building habits that trigger appropriate knowledge. The gap between knowledge and application is often larger than the gap between ignorance and knowledge - we often know what to do but don't do it. For knowledge workers, effective knowledge application means: actively connecting learning to situations where it applies, practicing application not just understanding, and building systems that prompt appropriate knowledge use.",
+    "tags": [
+        "knowledge-work",
+        "application",
+        "learning",
+        "action",
+        "effectiveness"
+    ],
+    "category": "Concepts",
+    "icon": "FaBolt",
+    "featured": false,
+    "aliases": [
+        "Applying knowledge",
+        "Knowledge in action",
+        "Practical knowledge"
+    ],
+    "relatedConcepts": [
+        "learning",
+        "knowing-doing-gap",
+        "transfer-of-learning",
+        "practice",
+        "action",
+        "effectiveness"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

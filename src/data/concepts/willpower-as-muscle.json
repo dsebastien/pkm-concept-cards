@@ -1,0 +1,49 @@
+{
+    "id": "willpower-as-muscle",
+    "name": "Willpower as Muscle",
+    "summary": "The model that willpower can be strengthened through exercise and depleted through use.",
+    "explanation": "Willpower as muscle is the metaphor (associated with Roy Baumeister's research) that self-control operates like a muscle - it can be: strengthened through exercise, depleted through use, and recovered through rest. The model suggests: small willpower exercises build capacity, using willpower on one thing depletes it for other things, and self-control failure often results from depletion not character. Applications include: training willpower through small challenges, protecting willpower for important decisions, and not relying on depleted willpower. The model has been debated - some replication failures question the depletion aspect, while the strengthening aspect has more support. Alternative views suggest: beliefs about willpower affect depletion, motivation and meaning override depletion, and glucose isn't the simple mechanism initially proposed. Practically, the model remains useful for: not over-relying on willpower, building self-control through practice, and designing environments that reduce willpower demands. For knowledge workers, the model suggests: protecting willpower for high-value decisions, using habits and systems instead of willpower, and building willpower capacity through graduated challenges.",
+    "tags": [
+        "psychology",
+        "willpower",
+        "self-control",
+        "habits",
+        "behavior"
+    ],
+    "category": "Concepts",
+    "icon": "FaDumbbell",
+    "featured": false,
+    "aliases": [
+        "Self-control as muscle",
+        "Willpower strength model",
+        "Ego strength"
+    ],
+    "relatedConcepts": [
+        "willpower",
+        "ego-depletion",
+        "self-control",
+        "habits",
+        "decision-fatigue",
+        "discipline"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Willpower by Roy Baumeister",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

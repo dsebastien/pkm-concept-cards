@@ -1,0 +1,44 @@
+{
+    "id": "arete",
+    "name": "Arete",
+    "summary": "The Greek concept of excellence, virtue, and reaching one's highest potential.",
+    "explanation": "Arete is an ancient Greek concept meaning excellence, virtue, and the fulfillment of purpose - living up to one's fullest potential. For the Greeks, arete was: the highest quality of being, excellence specific to one's nature and role, and the goal of human development. Every person and thing has its own arete - a knife's arete is sharpness, a horse's is speed, a human's is rational and virtuous living. Arete involves: developing natural capacities, performing one's function excellently, and striving for the best in character and action. The concept connects to: eudaimonia (flourishing through arete), virtue ethics (arete as virtue), and self-actualization (reaching potential). Pursuing arete requires: self-knowledge (understanding your nature), practice (developing capacities), and commitment (ongoing striving). Arete is not comparison with others but becoming the best version of yourself. For knowledge workers, arete means: identifying your unique strengths and calling, developing your capacities to their fullest, and pursuing excellence in your specific work and life.",
+    "tags": [
+        "philosophy",
+        "wisdom",
+        "excellence",
+        "virtue",
+        "potential"
+    ],
+    "category": "Concepts",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": [
+        "Excellence",
+        "Virtue",
+        "Human excellence"
+    ],
+    "relatedConcepts": [
+        "eudaimonia",
+        "virtue",
+        "self-actualization",
+        "purpose",
+        "mastery",
+        "potential"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

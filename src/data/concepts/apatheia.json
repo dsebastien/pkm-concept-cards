@@ -1,0 +1,44 @@
+{
+    "id": "apatheia",
+    "name": "Apatheia",
+    "summary": "The Stoic state of freedom from destructive emotional disturbance.",
+    "explanation": "Apatheia is a Stoic term meaning freedom from destructive emotional disturbance - not the absence of all feeling but freedom from passions that cloud judgment and cause suffering. The Stoics distinguished between: pathē (destructive passions like rage, fear, envy) and eupatheiai (good emotions like joy, caution, reasonable wish). Apatheia involves: not being controlled by destructive emotions, maintaining equanimity amid disturbance, and responding rationally rather than reactively. It's achieved through: understanding what is within our control, accepting what isn't, and developing correct judgments about what truly matters. Apatheia is not suppression (which creates internal conflict) but transformation - emotions change when judgments change. The state enables: clear thinking in difficulty, appropriate response rather than reaction, and freedom from the suffering of uncontrolled passion. For knowledge workers, apatheia suggests: developing emotional regulation, not being thrown by workplace difficulties, and maintaining calm judgment under pressure.",
+    "tags": [
+        "philosophy",
+        "stoicism",
+        "wisdom",
+        "emotions",
+        "equanimity"
+    ],
+    "category": "Concepts",
+    "icon": "FaOm",
+    "featured": false,
+    "aliases": [
+        "Freedom from passion",
+        "Equanimity",
+        "Emotional freedom"
+    ],
+    "relatedConcepts": [
+        "stoicism",
+        "ataraxia",
+        "emotional-regulation",
+        "equanimity",
+        "mindfulness",
+        "calm"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

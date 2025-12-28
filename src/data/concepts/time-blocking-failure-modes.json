@@ -1,0 +1,49 @@
+{
+    "id": "time-blocking-failure-modes",
+    "name": "Time Blocking Failure Modes",
+    "summary": "Common ways time blocking fails and strategies to address them.",
+    "explanation": "Time blocking failure modes are the common ways this productivity technique breaks down. Understanding them helps make time blocking more robust. Common failures include: over-scheduling (no buffer between blocks leads to cascading delays), under-estimating (optimistic planning causes frustration), interruption vulnerability (blocks get destroyed by urgent requests), rigidity (inability to adapt when circumstances change), and planning overhead (spending too much time planning blocks). Solutions include: buffer blocks (scheduled slack time between tasks), realistic estimation (use historical data, add margins), interrupt batching (designated times for handling urgent matters), flexible structure (priorities rather than rigid assignments), and appropriate granularity (don't micromanage every minute). Design principles for robust time blocking: protect highest-priority work (schedule it first), match block size to task type (deep work needs longer blocks), review and adjust (learn from what actually happens), and maintain some unscheduled time (for overflow and opportunity). For knowledge workers, understanding failure modes helps: design more robust schedules, avoid common pitfalls, and adapt time blocking to personal working style rather than abandoning it when initial attempts fail.",
+    "tags": [
+        "productivity",
+        "time-management",
+        "planning",
+        "scheduling",
+        "failure-modes"
+    ],
+    "category": "Concepts",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": [
+        "Time blocking problems",
+        "Scheduling failures",
+        "Calendar blocking pitfalls"
+    ],
+    "relatedConcepts": [
+        "time-blocking",
+        "planning-fallacy",
+        "deep-work",
+        "productivity-systems",
+        "buffer-time",
+        "interruption-management"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

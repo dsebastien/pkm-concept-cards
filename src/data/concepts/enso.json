@@ -1,0 +1,44 @@
+{
+    "id": "enso",
+    "name": "Enso",
+    "summary": "The Zen circle - a symbol of enlightenment, strength, and the universe.",
+    "explanation": "Enso is the Japanese word for 'circle' and refers to the hand-drawn circle that is a central symbol in Zen Buddhism. Painted with a single brushstroke, the enso represents: enlightenment, strength, elegance, the universe, and mu (void). The enso is drawn in a single breath without correction - it captures: the present moment, the artist's state of mind, and acceptance of imperfection. Open ensos (with a gap) represent: incompleteness, movement, and development. Closed ensos represent: wholeness, perfection, and infinity. The practice of drawing enso is: meditation in action, expression of present state, and letting go of control. What makes a 'good' enso is not technical perfection but: authenticity, presence, and wu wei (effortless action). The symbol teaches: accepting imperfection, expressing naturally without correction, and the beauty of simplicity. For knowledge workers, enso suggests: valuing authentic expression over polished perfection, practicing presence in creative work, and finding meaning in simple, direct action.",
+    "tags": [
+        "philosophy",
+        "zen",
+        "art",
+        "wisdom",
+        "symbolism"
+    ],
+    "category": "Concepts",
+    "icon": "FaCircle",
+    "featured": false,
+    "aliases": [
+        "Zen circle",
+        "Circle of enlightenment",
+        "Ensō"
+    ],
+    "relatedConcepts": [
+        "zen",
+        "mu",
+        "wabi-sabi",
+        "mindfulness",
+        "simplicity",
+        "presence"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

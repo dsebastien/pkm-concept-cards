@@ -1,0 +1,44 @@
+{
+    "id": "phantom-workload",
+    "name": "Phantom Workload",
+    "summary": "Hidden work that consumes time and energy but doesn't appear in formal task lists.",
+    "explanation": "Phantom workload refers to the hidden work that consumes time and energy but doesn't appear in formal task lists, project plans, or work allocation. It includes: administrative overhead (expense reports, scheduling, status updates), context switching (mental effort of moving between tasks), emotional labor (managing relationships, handling difficult conversations), coordination work (aligning with others, clarifying misunderstandings), and maintenance tasks (keeping systems running, staying current). Phantom workload is problematic because: it's invisible in planning (leading to underestimation), it's not valued or recognized (creating frustration), it fragments attention (preventing deep work), and it accumulates silently (causing burnout). Addressing phantom workload requires: making it visible (tracking actual time use), reducing it where possible (eliminating unnecessary work), accounting for it in planning (realistic time estimates), and distributing it fairly (often falls disproportionately on certain roles). For knowledge workers, recognizing phantom workload helps: understand why days feel full despite few 'real' tasks, plan more realistically, and protect time for substantive work.",
+    "tags": [
+        "productivity",
+        "time-management",
+        "workload",
+        "planning",
+        "burnout"
+    ],
+    "category": "Concepts",
+    "icon": "FaGhost",
+    "featured": false,
+    "aliases": [
+        "Hidden work",
+        "Invisible workload",
+        "Shadow work"
+    ],
+    "relatedConcepts": [
+        "context-switching",
+        "administrative-burden",
+        "deep-work",
+        "planning-fallacy",
+        "burnout",
+        "time-audit"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

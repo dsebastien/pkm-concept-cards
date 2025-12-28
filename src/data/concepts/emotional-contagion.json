@@ -1,0 +1,49 @@
+{
+    "id": "emotional-contagion",
+    "name": "Emotional Contagion",
+    "summary": "The automatic transmission of emotions between people through social interaction.",
+    "explanation": "Emotional contagion is the phenomenon where emotions spread automatically between people through social interaction. We unconsciously: mimic others' facial expressions, synchronize with their body language, and subsequently feel the emotions associated with those expressions. The process works through: primitive emotional mimicry (mirror neurons), feedback from our own expressions (facial feedback hypothesis), and social synchronization. Contagion is: rapid (milliseconds), often unconscious, and bidirectional. Emotions spread through: direct contact, social networks, and even digital communication. Research shows: happiness, loneliness, anxiety, and enthusiasm all spread through networks, extending to friends of friends of friends. Implications include: being mindful of emotional environments, recognizing your emotions may reflect others', and understanding your emotional impact on those around you. For knowledge workers, emotional contagion suggests: awareness of team emotional climate, managing your own emotional expression, and choosing work environments and relationships that support positive emotional states.",
+    "tags": [
+        "psychology",
+        "emotions",
+        "social",
+        "influence",
+        "wellbeing"
+    ],
+    "category": "Concepts",
+    "icon": "FaHeartbeat",
+    "featured": false,
+    "aliases": [
+        "Emotion spread",
+        "Emotional transmission",
+        "Mood contagion"
+    ],
+    "relatedConcepts": [
+        "behavioral-contagion",
+        "empathy",
+        "social-influence",
+        "emotions",
+        "team-dynamics",
+        "mirror-neurons"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Connected by Nicholas Christakis",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

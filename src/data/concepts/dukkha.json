@@ -1,0 +1,44 @@
+{
+    "id": "dukkha",
+    "name": "Dukkha",
+    "summary": "The Buddhist concept of suffering, dissatisfaction, and the unsatisfactoriness of conditioned existence.",
+    "explanation": "Dukkha is the Pali term often translated as 'suffering' but more accurately meaning dissatisfaction, stress, or unsatisfactoriness inherent in conditioned existence. The Buddha taught three types: dukkha-dukkha (obvious suffering like pain and loss), viparinama-dukkha (suffering due to impermanence - even pleasant things end), and sankhara-dukkha (subtle dissatisfaction inherent in conditioned existence). Dukkha isn't pessimism but realistic acknowledgment that: life includes inevitable difficulties, pleasant experiences don't last, and grasping for permanent satisfaction is futile. The teaching's purpose is practical: clearly seeing dukkha motivates seeking liberation rather than more of what doesn't satisfy. Understanding dukkha leads to: reduced surprise at difficulties, lessened grasping at fleeting pleasures, and motivation for genuine solutions. The First Noble Truth isn't that everything is suffering but that suffering exists and should be understood. For knowledge workers, understanding dukkha helps: normalize workplace challenges, reduce attachment to temporary successes, and pursue sustainable satisfaction rather than grasping at fleeting pleasures.",
+    "tags": [
+        "philosophy",
+        "buddhism",
+        "wisdom",
+        "suffering",
+        "psychology"
+    ],
+    "category": "Concepts",
+    "icon": "FaExclamationCircle",
+    "featured": false,
+    "aliases": [
+        "Suffering",
+        "Dissatisfaction",
+        "Unsatisfactoriness"
+    ],
+    "relatedConcepts": [
+        "buddhism",
+        "four-noble-truths",
+        "suffering",
+        "impermanence",
+        "attachment",
+        "liberation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

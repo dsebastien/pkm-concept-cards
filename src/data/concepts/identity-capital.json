@@ -1,0 +1,49 @@
+{
+    "id": "identity-capital",
+    "name": "Identity Capital",
+    "summary": "Investments in who you are becoming - skills, experiences, and credentials that build identity.",
+    "explanation": "Identity capital is the collection of personal resources - skills, credentials, experiences, relationships, and characteristics - that define who we are and what we can offer the world. Coined by sociologist James Côté, the concept includes: educational achievements, professional skills, significant experiences, personal attributes, and network connections. Identity capital: accumulates through investment (effort, time, choices), enables future opportunities, and shapes who you become. Building identity capital involves: pursuing meaningful work, developing marketable skills, accumulating diverse experiences, and building valuable relationships. It differs from human capital (narrowly economic) by including: personal development, identity formation, and meaning-making. Identity capital matters especially in: emerging adulthood, career transitions, and uncertain economies. Underinvestment in identity capital creates: drift, limited options, and identity confusion. For knowledge workers, identity capital suggests: intentionally building skills and experiences, treating twenties as investment period, and recognizing that what you do shapes who you become.",
+    "tags": [
+        "psychology",
+        "identity",
+        "career",
+        "development",
+        "investment"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserGraduate",
+    "featured": false,
+    "aliases": [
+        "Personal capital",
+        "Self-investment",
+        "Identity development"
+    ],
+    "relatedConcepts": [
+        "identity",
+        "career-development",
+        "skills",
+        "experience",
+        "human-capital",
+        "personal-development"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Defining Decade by Meg Jay",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "knowledge-worker",
+    "name": "Knowledge Worker",
+    "summary": "A professional whose primary work involves creating, analyzing, and applying information.",
+    "explanation": "A knowledge worker is a professional whose primary work involves creating, analyzing, and applying information and knowledge rather than physical labor. Coined by Peter Drucker in 1959, the term describes: managers, analysts, programmers, researchers, designers, writers, and other professionals who 'think for a living.' Knowledge workers are characterized by: high education levels, specialized expertise, autonomous work styles, and output that is often intangible. Unlike manual workers where productivity is relatively straightforward to measure, knowledge worker productivity is complex and contested. Key challenges include: defining and measuring output, managing attention and focus, dealing with information overload, and balancing deep work with collaboration. The knowledge economy has made knowledge workers increasingly central to economic value creation. For knowledge workers, understanding this identity helps: optimize personal productivity, design appropriate work environments, advocate for suitable management approaches, and develop skills specific to knowledge-intensive work.",
+    "tags": [
+        "knowledge-work",
+        "productivity",
+        "career",
+        "work",
+        "professions"
+    ],
+    "category": "Concepts",
+    "icon": "FaUserTie",
+    "featured": true,
+    "aliases": [
+        "Knowledge professional",
+        "Information worker",
+        "Cognitive worker"
+    ],
+    "relatedConcepts": [
+        "knowledge-work-productivity",
+        "deep-work",
+        "cognitive-work",
+        "knowledge-economy",
+        "intellectual-capital",
+        "productivity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Effective Executive by Peter Drucker",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "know-thyself",
+    "name": "Know Thyself",
+    "summary": "The ancient Delphic maxim emphasizing self-knowledge as foundational to wisdom.",
+    "explanation": "Know Thyself (Greek: gnothi seauton) is an ancient maxim inscribed at the Temple of Apollo at Delphi, considered foundational to Greek philosophy. Self-knowledge involves: understanding your nature, capabilities, and limitations, recognizing your values, motivations, and biases, and being honest about your strengths and weaknesses. Socrates made this the foundation of philosophy - the unexamined life is not worth living. Self-knowledge enables: better decisions (understanding your actual situation), authentic living (acting in alignment with true self), and appropriate ambition (knowing what you can and should pursue). Methods for self-knowledge include: reflection, journaling, feedback seeking, and examining reactions and patterns. Barriers include: self-deception, ego protection, and lack of reflection time. The maxim also implies knowing your place - understanding human limitations versus divine knowledge. For knowledge workers, 'know thyself' means: understanding your work patterns, recognizing biases, identifying values, and building careers aligned with authentic self.",
+    "tags": [
+        "philosophy",
+        "wisdom",
+        "self-knowledge",
+        "reflection",
+        "ancient-wisdom"
+    ],
+    "category": "Concepts",
+    "icon": "FaMirror",
+    "featured": true,
+    "aliases": [
+        "Gnothi seauton",
+        "Self-knowledge",
+        "Know yourself"
+    ],
+    "relatedConcepts": [
+        "self-awareness",
+        "reflection",
+        "examined-life",
+        "wisdom",
+        "identity",
+        "authenticity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "tempus-fugit",
+    "name": "Tempus Fugit",
+    "summary": "The Latin phrase meaning 'time flies' - a reminder of time's swift passage.",
+    "explanation": "Tempus fugit (Latin for 'time flies') is an ancient phrase from Virgil's Georgics reminding us of time's rapid passage. The awareness it prompts involves: recognizing that time passes quickly, appreciating that current moments are fleeting, and motivating purposeful use of time. The phrase serves as: a memento (reminder of mortality and brevity), a motivator (spurring action on important matters), and a perspective-shifter (valuing present over assumed future). Understanding tempus fugit leads to: prioritizing what matters, not wasting time on trivial concerns, and appreciating current experiences. The concept complements carpe diem - time flies, so seize it. However, obsessing over time's passage can cause anxiety rather than purposeful action. The healthy response is: awareness without anxiety, urgency without panic, and appreciation without grasping. For knowledge workers, tempus fugit suggests: using time intentionally, not assuming endless future time for important projects, and maintaining perspective on how quickly careers and opportunities pass.",
+    "tags": [
+        "philosophy",
+        "wisdom",
+        "time",
+        "mortality",
+        "perspective"
+    ],
+    "category": "Concepts",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Time flies",
+        "Fleeting time",
+        "Time's passage"
+    ],
+    "relatedConcepts": [
+        "carpe-diem",
+        "impermanence",
+        "mortality",
+        "time-management",
+        "perspective",
+        "memento-mori"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "gratitude-letters",
+    "name": "Gratitude Letters",
+    "summary": "Written expressions of thankfulness to specific people for their positive impact.",
+    "explanation": "Gratitude letters are written expressions of thankfulness directed to specific people who have positively impacted your life. Research by Martin Seligman found that writing and delivering gratitude letters produces significant and lasting happiness increases. Effective gratitude letters: identify specific actions or qualities, explain their impact on you, express genuine emotion, and are personal rather than generic. The practice involves: choosing someone who has been meaningful, writing a heartfelt letter, and ideally reading it aloud to them. Benefits come from: processing and articulating gratitude, strengthening the relationship, and creating positive social exchange. The practice can also be done posthumously or for relationships where delivery isn't possible - the writing process itself has benefits. Variations include: gratitude visits (delivering in person), gratitude calls (reading over phone), and gratitude kept (writing without delivering). For knowledge workers, gratitude letters can: express appreciation to mentors, strengthen professional relationships, and process significant help received throughout career development.",
+    "tags": [
+        "gratitude",
+        "relationships",
+        "communication",
+        "wellbeing",
+        "practice"
+    ],
+    "category": "Techniques",
+    "icon": "FaEnvelope",
+    "featured": false,
+    "aliases": [
+        "Thank you letters",
+        "Appreciation letters",
+        "Gratitude visits"
+    ],
+    "relatedConcepts": [
+        "gratitude-practice",
+        "expressing-gratitude",
+        "thank-you-notes",
+        "relationships",
+        "positive-psychology",
+        "connection"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Flourish by Martin Seligman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

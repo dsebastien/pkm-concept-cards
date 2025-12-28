@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-work-culture",
+    "name": "Knowledge Work Culture",
+    "summary": "Organizational values, norms, and practices that shape cognitive and information work.",
+    "explanation": "Knowledge work culture refers to organizational values, norms, and practices that shape how cognitive and information work is done. Culture elements include: attitudes toward deep work vs. constant availability, learning and development emphasis, collaboration patterns, and autonomy levels. Healthy knowledge work cultures feature: respect for focused time, psychological safety, continuous learning support, and appropriate autonomy. Unhealthy cultures feature: constant interruption, blame-oriented responses, stagnation, and micromanagement. Culture shapes: whether deep work is possible, how knowledge is shared, whether people take risks, and whether learning is supported. Changing culture requires: leadership modeling, explicit norm-setting, system/process changes, and consistent reinforcement. Individuals can influence culture through: advocating for change, modeling desired behaviors, and finding like-minded collaborators. For knowledge workers, navigating culture means: understanding your organization's culture, working within or around constraints, contributing to positive culture development, and choosing organizations with compatible cultures.",
+    "tags": [
+        "knowledge-work",
+        "culture",
+        "organizations",
+        "workplace",
+        "values"
+    ],
+    "category": "Concepts",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Workplace culture",
+        "Organizational culture",
+        "Professional culture"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "organizational-culture",
+        "psychological-safety",
+        "learning-culture",
+        "deep-work",
+        "workplace"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

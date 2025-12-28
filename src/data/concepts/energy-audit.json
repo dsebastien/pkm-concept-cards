@@ -1,0 +1,44 @@
+{
+    "id": "energy-audit",
+    "name": "Energy Audit",
+    "summary": "Assessing what activities, people, and contexts give versus drain your energy.",
+    "explanation": "An energy audit is the practice of systematically assessing what activities, people, and contexts give versus drain your energy. The audit recognizes that: different activities have different energy costs and returns, energy patterns are personal (what energizes one person drains another), and awareness enables better design of days and work. The process involves: tracking energy levels throughout day, noting what preceded energy changes, and identifying patterns over time. Categories often include: energy-giving (leave you feeling more alive), energy-neutral, and energy-draining (leave you depleted). Factors to assess include: specific tasks, types of work, people and interactions, environments, and times of day. The audit enables: scheduling draining activities strategically, ensuring sufficient energy-giving activities, and redesigning work and life for better energy management. Audits can be: daily tracking for a period, retrospective reflection, or ongoing awareness practice. For knowledge workers, energy audits help: optimize schedules, make better role and project choices, and maintain sustainable energy levels.",
+    "tags": [
+        "energy",
+        "self-awareness",
+        "productivity",
+        "wellbeing",
+        "reflection"
+    ],
+    "category": "Techniques",
+    "icon": "FaBatteryHalf",
+    "featured": false,
+    "aliases": [
+        "Energy tracking",
+        "Energy assessment",
+        "Personal energy inventory"
+    ],
+    "relatedConcepts": [
+        "energy-management",
+        "self-awareness",
+        "productivity",
+        "wellbeing",
+        "time-audit",
+        "reflection"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

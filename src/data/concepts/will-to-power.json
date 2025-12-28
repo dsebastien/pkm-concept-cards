@@ -1,0 +1,49 @@
+{
+    "id": "will-to-power",
+    "name": "Will to Power",
+    "summary": "Nietzsche's concept of the fundamental drive toward growth, overcoming, and self-mastery.",
+    "explanation": "The Will to Power (Wille zur Macht) is Nietzsche's concept of the fundamental driving force of life - not power over others but power over oneself, growth, self-overcoming, and creative expression. The concept holds that: all life seeks to grow and express itself, self-mastery is higher than mastery of others, and creative expression is the highest form of power. Will to power manifests in: artists creating new forms, thinkers questioning assumptions, and individuals overcoming their limitations. It's misunderstood when seen as: mere domination (it's primarily self-overcoming), aggressive force (it includes subtle creation), or political doctrine (it's about individual development). The will to power contrasts with: will to pleasure (shallow satisfaction), will to survival (mere continuation), and will to power-over (dominance). Authentic power means: creating rather than merely consuming, overcoming one's previous limitations, and expressing one's unique potential. For knowledge workers, will to power suggests: pursuing creative excellence, continuously overcoming limitations, and self-mastery as the highest achievement.",
+    "tags": [
+        "philosophy",
+        "nietzsche",
+        "wisdom",
+        "power",
+        "self-mastery"
+    ],
+    "category": "Concepts",
+    "icon": "FaBolt",
+    "featured": false,
+    "aliases": [
+        "Wille zur Macht",
+        "Self-overcoming",
+        "Creative power"
+    ],
+    "relatedConcepts": [
+        "nietzsche",
+        "self-mastery",
+        "ubermensch",
+        "creativity",
+        "growth",
+        "potential"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Beyond Good and Evil by Friedrich Nietzsche",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

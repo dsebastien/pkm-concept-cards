@@ -1,0 +1,49 @@
+{
+    "id": "sludge",
+    "name": "Sludge",
+    "summary": "Friction in processes that makes desired actions harder or discourages beneficial behavior.",
+    "explanation": "Sludge is a term coined by Cass Sunstein to describe friction in processes that makes actions harder, slower, or more frustrating - discouraging people from doing things (including beneficial things). Unlike nudges that guide toward good choices, sludge creates obstacles. Examples include: complex forms that discourage benefit claims, hidden cancellation processes, bureaucratic requirements that prevent access, and multiple steps required for simple actions. Sludge can be: intentional (designed to discourage claims or cancellations), accidental (poorly designed processes), or historical (outdated requirements). Sludge auditing involves: identifying friction points, measuring their impact, and eliminating unnecessary obstacles. Legitimate friction exists (preventing errors, ensuring commitment), but much sludge is: unnecessary, harmful to users, and often protects institutional rather than individual interests. For knowledge workers, understanding sludge helps: design better processes, identify where systems discourage beneficial behavior, and advocate for removing unnecessary friction from workflows.",
+    "tags": [
+        "behavior",
+        "design",
+        "friction",
+        "systems",
+        "choice-architecture"
+    ],
+    "category": "Concepts",
+    "icon": "FaExclamationCircle",
+    "featured": false,
+    "aliases": [
+        "Process friction",
+        "Behavioral sludge",
+        "Administrative burden"
+    ],
+    "relatedConcepts": [
+        "nudge",
+        "friction",
+        "choice-architecture",
+        "activation-energy-psychology",
+        "user-experience",
+        "bureaucracy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Sludge by Cass Sunstein",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

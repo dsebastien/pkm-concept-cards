@@ -1,0 +1,44 @@
+{
+    "id": "zero-sum-positive-sum",
+    "name": "Zero-Sum vs Positive-Sum",
+    "summary": "Distinguishing situations where gains require losses from those where everyone can benefit.",
+    "explanation": "Zero-sum versus positive-sum distinguishes two fundamental types of situations. Zero-sum: one party's gain is another's loss (fixed pie), like poker where winnings equal losses. Positive-sum: total value can expand so everyone gains (growing pie), like trade where both parties benefit. The distinction matters because: strategies differ fundamentally (compete vs. cooperate), misidentifying situations causes problems (treating positive-sum as zero-sum leads to unnecessary conflict), and most important human endeavors are positive-sum. Common zero-sum situations: competitive sports, some negotiations, positional goods. Positive-sum situations: trade, collaboration, knowledge sharing, relationship building. Zero-sum thinking in positive-sum contexts: creates unnecessary conflict, prevents value creation, and damages relationships. Recognizing positive-sum opportunities enables: cooperation over competition, value creation over value capture, and win-win solutions. For knowledge workers, this distinction helps: approach collaboration constructively, recognize when competition is counterproductive, and create value rather than just claiming it.",
+    "tags": [
+        "economics",
+        "thinking",
+        "cooperation",
+        "strategy",
+        "relationships"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Fixed pie vs growing pie",
+        "Win-lose vs win-win",
+        "Sum games"
+    ],
+    "relatedConcepts": [
+        "cooperation",
+        "competition",
+        "game-theory",
+        "negotiation",
+        "value-creation",
+        "abundance-mindset"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

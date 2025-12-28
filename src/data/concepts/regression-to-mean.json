@@ -1,0 +1,49 @@
+{
+    "id": "regression-to-mean",
+    "name": "Regression to Mean",
+    "summary": "The statistical tendency for extreme values to be followed by values closer to the average.",
+    "explanation": "Regression to the mean is the statistical phenomenon where extreme values tend to be followed by values closer to the average. If performance is unusually high, subsequent performance is likely to be lower (and vice versa) - not because of any change, but because extreme values partly reflect random variation. This creates illusions: punishment seems to work (performance improves after reprimand for poor performance, but would anyway), praise seems counterproductive (performance drops after praise for good performance, but would anyway). Understanding regression to mean prevents: misattributing change (confusing regression with causation), overreacting to extremes (making changes that aren't needed), and developing superstitious practices (believing ineffective interventions work). Where regression to mean applies: sports performance, medical symptoms, business metrics, test scores - any domain with inherent variability. When evaluating interventions: compare to control group (would regression happen anyway?), use multiple measurements (single observations are unreliable), and look for sustained change (beyond regression effects). For knowledge workers, regression to mean suggests: don't overreact to single data points, recognize variability in performance, and evaluate changes against proper baselines.",
+    "tags": [
+        "statistics",
+        "thinking",
+        "cognitive-biases",
+        "decision-making",
+        "probability"
+    ],
+    "category": "Concepts",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Reversion to mean",
+        "Mean reversion",
+        "Statistical regression"
+    ],
+    "relatedConcepts": [
+        "cognitive-biases",
+        "statistical-thinking",
+        "base-rates",
+        "probability",
+        "variability",
+        "causation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

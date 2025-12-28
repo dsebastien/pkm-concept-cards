@@ -1,0 +1,44 @@
+{
+    "id": "self-fulfilling-prophecy",
+    "name": "Self-Fulfilling Prophecy",
+    "summary": "A prediction that causes itself to become true through the expectation's influence.",
+    "explanation": "A self-fulfilling prophecy is a prediction that causes itself to become true - the expectation of an event influences behaviors that bring the event about. Identified by sociologist Robert K. Merton, the mechanism works through: expectation shaping behavior, behavior influencing outcomes, and outcomes confirming the original expectation. Classic examples include: bank runs (fear of failure causes withdrawal causes failure), performance expectations (expecting someone to fail causes treatment that leads to failure), and market prophecies (predicting a crash causes selling causes crash). Self-fulfilling prophecies can be: positive (believing success leads to effort leads to success) or negative (expecting failure leads to reduced effort leads to failure). Understanding the concept enables: recognizing when expectations are shaping outcomes, intentionally setting positive expectations, and breaking negative cycles. Related concepts include: Pygmalion effect, placebo effect, and confirmation bias. For knowledge workers, awareness of self-fulfilling prophecies helps: set constructive expectations for self and others, recognize when negative expectations are causing poor outcomes, and use positive expectations strategically.",
+    "tags": [
+        "psychology",
+        "beliefs",
+        "causation",
+        "expectations",
+        "behavior"
+    ],
+    "category": "Concepts",
+    "icon": "FaCrystalBall",
+    "featured": false,
+    "aliases": [
+        "Expectation effects",
+        "Belief-creates-reality",
+        "Prophecy effect"
+    ],
+    "relatedConcepts": [
+        "pygmalion-effect",
+        "expectations",
+        "beliefs",
+        "confirmation-bias",
+        "mindset",
+        "placebo-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

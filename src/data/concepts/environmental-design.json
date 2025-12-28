@@ -1,0 +1,49 @@
+{
+    "id": "environmental-design",
+    "name": "Environmental Design",
+    "summary": "Shaping physical and digital surroundings to influence behavior and support goals.",
+    "explanation": "Environmental design is the practice of intentionally shaping physical and digital surroundings to influence behavior, support goals, and reduce reliance on willpower. The approach is based on: environment affects behavior more than we realize, changing environment is often easier than changing willpower, and design can make good behaviors easier and bad behaviors harder. Strategies include: visibility (making desired behaviors obvious), accessibility (making them easy), friction (adding obstacles to undesired behaviors), and cues (triggers for intended actions). Examples include: keeping healthy food visible, phone-free zones, organized workspace, and strategic placement of exercise equipment. Environmental design works because: it operates continuously (unlike willpower which fluctuates), it reduces decision load, and it makes desired behaviors path of least resistance. For knowledge workers, environmental design means: creating workspaces that support focus, designing digital environments that minimize distraction, and arranging physical spaces to cue productive behaviors.",
+    "tags": [
+        "psychology",
+        "behavior",
+        "environment",
+        "habits",
+        "design"
+    ],
+    "category": "Techniques",
+    "icon": "FaDraftingCompass",
+    "featured": false,
+    "aliases": [
+        "Choice architecture",
+        "Behavior design",
+        "Environment shaping"
+    ],
+    "relatedConcepts": [
+        "habits",
+        "choice-architecture",
+        "nudge",
+        "workspace",
+        "behavior-change",
+        "friction"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Atomic Habits by James Clear",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

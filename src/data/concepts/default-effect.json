@@ -1,0 +1,49 @@
+{
+    "id": "default-effect",
+    "name": "Default Effect",
+    "summary": "The power of pre-set options - people disproportionately stick with defaults.",
+    "explanation": "The default effect is the phenomenon where people disproportionately choose or accept pre-selected options, even when alternatives are readily available. Research shows dramatic effects: organ donation rates vary 4-85% based solely on default settings (opt-in vs. opt-out). Defaults are powerful because: choosing requires effort (staying with default is easier), defaults signal recommendations (perceived as suggested choice), and changing feels like loss (loss aversion). The effect applies to: software settings, financial products, healthcare choices, and subscription services. Understanding the default effect enables: designing better choice environments (setting beneficial defaults), protecting against manipulation (recognizing when defaults work against you), and reducing decision burden (accepting good defaults rather than optimizing). Ethically, defaults should: align with chooser's interests, be transparent, and remain easy to change. For knowledge workers, the default effect suggests: setting productive defaults for tools and environments, being aware when defaults work against you, and using defaults as a behavior change tool.",
+    "tags": [
+        "psychology",
+        "decision-making",
+        "behavior",
+        "choice-architecture",
+        "nudge"
+    ],
+    "category": "Concepts",
+    "icon": "FaCheckSquare",
+    "featured": false,
+    "aliases": [
+        "Default bias",
+        "Status quo preference",
+        "Pre-set option effect"
+    ],
+    "relatedConcepts": [
+        "choice-architecture",
+        "nudge",
+        "loss-aversion",
+        "status-quo-bias",
+        "decision-making",
+        "defaults"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Nudge by Thaler and Sunstein",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

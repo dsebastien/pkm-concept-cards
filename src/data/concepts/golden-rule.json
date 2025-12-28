@@ -1,0 +1,44 @@
+{
+    "id": "golden-rule",
+    "name": "Golden Rule",
+    "summary": "The ethical principle to treat others as you would want to be treated.",
+    "explanation": "The Golden Rule is the ethical principle to treat others as you would want to be treated. Appearing across virtually all world religions and ethical systems, it represents a near-universal moral standard. Versions include: 'Do unto others as you would have them do unto you' (Christian), 'What is hateful to you, do not do to your neighbor' (Jewish), and similar formulations in Buddhism, Hinduism, Islam, Confucianism, and secular ethics. The rule works by: using self-understanding as guide to treating others, creating reciprocal expectations, and establishing basic fairness. Limitations include: assuming others want what you want (they may not), cultural variations (treatment preferences differ), and power imbalances (equal treatment may not be equitable). The Platinum Rule addresses one limitation: treat others as they want to be treated. Despite limitations, the Golden Rule provides: accessible moral starting point, basis for cooperation, and universal moral language. For knowledge workers, the Golden Rule suggests: considering how you'd want to be treated in workplace interactions, applying fairness standards consistently, and building reciprocal professional relationships.",
+    "tags": [
+        "ethics",
+        "wisdom",
+        "philosophy",
+        "morality",
+        "relationships"
+    ],
+    "category": "Principles",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Ethic of reciprocity",
+        "Treat others as yourself",
+        "Do unto others"
+    ],
+    "relatedConcepts": [
+        "ethics",
+        "reciprocity",
+        "silver-rule",
+        "platinum-rule",
+        "empathy",
+        "morality"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

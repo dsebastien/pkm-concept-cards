@@ -1,0 +1,49 @@
+{
+    "id": "positive-deviance",
+    "name": "Positive Deviance",
+    "summary": "Finding and learning from individuals who succeed despite facing the same constraints as others.",
+    "explanation": "Positive deviance is an approach to change that finds individuals who succeed despite facing the same constraints and challenges as everyone else, then spreads their uncommon but successful behaviors. Rather than bringing solutions from outside, positive deviance discovers solutions that already exist within communities. The process involves: identifying outliers (who is succeeding where most fail?), studying their behaviors (what are they doing differently?), spreading practices (how can others adopt these behaviors?), and local ownership (solutions come from within, not imposed). Positive deviance has solved problems in: malnutrition (finding mothers whose children thrive on same resources), healthcare (finding units with better outcomes using same protocols), and education (finding teachers whose students excel despite same conditions). Why it works: solutions are already proven (they work in this context), locally sourced (culturally appropriate), and owned by community (not imposed by outsiders). For knowledge workers, positive deviance suggests: studying high performers facing same constraints, identifying specific behavioral differences, and adapting proven practices rather than inventing from scratch.",
+    "tags": [
+        "change",
+        "learning",
+        "problem-solving",
+        "leadership",
+        "innovation"
+    ],
+    "category": "Concepts",
+    "icon": "FaStar",
+    "featured": false,
+    "aliases": [
+        "Positive outliers",
+        "Bright spots",
+        "Uncommon success"
+    ],
+    "relatedConcepts": [
+        "pivotal-behaviors",
+        "best-practices",
+        "learning-from-others",
+        "change-management",
+        "benchmarking",
+        "role-models"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Switch by Chip and Dan Heath",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

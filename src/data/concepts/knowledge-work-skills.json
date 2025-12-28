@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-work-skills",
+    "name": "Knowledge Work Skills",
+    "summary": "Capabilities required for effective cognitive and information-based professional work.",
+    "explanation": "Knowledge work skills are capabilities required for effective cognitive and information-based professional work. Categories include: cognitive skills (analysis, synthesis, critical thinking), technical skills (domain expertise, tool proficiency), communication skills (writing, speaking, presenting), and meta-skills (learning, adaptation, self-management). Core knowledge work skills include: reading comprehension and information processing, writing clearly and effectively, logical reasoning and analysis, creative problem-solving, and technology fluency. Increasingly important skills include: learning ability (continuous skill development), attention management (protecting focus), digital literacy (navigating information environments), and collaboration (working effectively with others). Skills development for knowledge workers is challenging because: requirements change rapidly, time for development competes with work demands, and skills are often self-taught. For knowledge workers, building skills means: identifying highest-value capabilities to develop, creating deliberate practice opportunities, balancing depth with breadth, and treating skill development as an ongoing professional investment.",
+    "tags": [
+        "knowledge-work",
+        "skills",
+        "capability",
+        "professional-development",
+        "learning"
+    ],
+    "category": "Concepts",
+    "icon": "FaTools",
+    "featured": false,
+    "aliases": [
+        "Knowledge worker skills",
+        "Cognitive work skills",
+        "Professional capabilities"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "skill-development",
+        "learning",
+        "expertise",
+        "competencies",
+        "professional-development"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

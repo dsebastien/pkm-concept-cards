@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-retrieval",
+    "name": "Knowledge Retrieval",
+    "summary": "Finding and accessing stored knowledge when needed for application or reference.",
+    "explanation": "Knowledge retrieval is the process of finding and accessing stored knowledge when needed for application, reference, or further development. Effective retrieval is often the bottleneck in knowledge systems - knowledge stored but not findable provides no value. Retrieval approaches include: search (querying by keywords), browsing (navigating structures), association (following connections), and serendipitous discovery (unexpected finding). Factors affecting retrieval include: organization quality, search capabilities, memory of what exists, and time since storage. The 'collector's fallacy' describes having knowledge stored but unable to access it when needed. Improving retrieval involves: effective organization at input, good search systems, regular review (maintaining awareness of stored knowledge), and connection-building (linking related items). Digital tools offer powerful search, but also risk making retrieval dependent on specific platforms. For knowledge workers, effective retrieval means: organizing for findability, using capable search tools, regularly reviewing stored knowledge, and building connections that enable serendipitous rediscovery.",
+    "tags": [
+        "knowledge-work",
+        "retrieval",
+        "search",
+        "personal-knowledge-management",
+        "information"
+    ],
+    "category": "Concepts",
+    "icon": "FaSearch",
+    "featured": false,
+    "aliases": [
+        "Finding knowledge",
+        "Information retrieval",
+        "Knowledge access"
+    ],
+    "relatedConcepts": [
+        "personal-knowledge-management",
+        "knowledge-organization",
+        "search",
+        "memory",
+        "note-taking",
+        "information-systems"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

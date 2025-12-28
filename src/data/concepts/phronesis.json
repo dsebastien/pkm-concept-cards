@@ -1,0 +1,49 @@
+{
+    "id": "phronesis",
+    "name": "Phronesis",
+    "summary": "Aristotle's concept of practical wisdom - knowing what to do in specific situations.",
+    "explanation": "Phronesis is Aristotle's concept of practical wisdom - the capacity to discern the right course of action in particular circumstances. Unlike theoretical wisdom (sophia) which deals with universal truths, phronesis concerns: knowing what to do in specific situations, applying general principles to particular cases, and navigating moral and practical complexity. Phronesis involves: perception (seeing the situation clearly), judgment (determining what matters), deliberation (weighing options), and action (executing appropriately). It cannot be taught directly through rules because situations are unique - it develops through experience and reflection. Phronesis is the master virtue that guides application of other virtues - knowing when courage becomes recklessness or when generosity becomes foolishness. The person with phronesis has: good judgment, situational awareness, and ability to navigate ambiguity. For knowledge workers, phronesis means: developing judgment through experience, recognizing when rules need adaptation, and cultivating the wisdom to act appropriately in novel situations.",
+    "tags": [
+        "philosophy",
+        "wisdom",
+        "judgment",
+        "virtue",
+        "decision-making"
+    ],
+    "category": "Concepts",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": [
+        "Practical wisdom",
+        "Prudence",
+        "Situational wisdom"
+    ],
+    "relatedConcepts": [
+        "wisdom",
+        "judgment",
+        "virtue",
+        "decision-making",
+        "experience",
+        "ethics"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Nicomachean Ethics by Aristotle",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": "second-order-thinking",
+    "name": "Second-Order Thinking",
+    "summary": "Considering the consequences of consequences before making decisions.",
+    "explanation": "Second-order thinking is the practice of considering the consequences of consequences - looking beyond immediate effects to downstream impacts. First-order thinking asks: 'What happens next?' Second-order asks: 'And then what?' The distinction is crucial because: many decisions have obvious first-order benefits but harmful second-order effects, short-term gains can create long-term problems, and systems responses often counteract initial actions. Examples include: price controls (first-order: lower prices; second-order: shortages), antibiotics overuse (first-order: cure infection; second-order: resistance), and shortcuts (first-order: save time; second-order: technical debt). Second-order thinking is: harder than first-order, requires patience and imagination, and characterizes good strategic thinking. Practicing involves: always asking 'and then what?', considering who else responds and how, and looking for unintended consequences. For knowledge workers, second-order thinking helps: make better strategic decisions, anticipate problems, and understand why obvious solutions often fail.",
+    "tags": [
+        "thinking",
+        "decision-making",
+        "strategy",
+        "systems-thinking",
+        "consequences"
+    ],
+    "category": "Concepts",
+    "icon": "FaProjectDiagram",
+    "featured": true,
+    "aliases": [
+        "Consequential thinking",
+        "And-then-what thinking",
+        "Downstream effects"
+    ],
+    "relatedConcepts": [
+        "systems-thinking",
+        "decision-making",
+        "unintended-consequences",
+        "strategy",
+        "long-term-thinking",
+        "leverage-points"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

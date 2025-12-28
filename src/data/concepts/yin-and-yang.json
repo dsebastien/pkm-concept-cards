@@ -1,0 +1,44 @@
+{
+    "id": "yin-and-yang",
+    "name": "Yin and Yang",
+    "summary": "The Chinese philosophical concept of complementary opposites that create wholeness.",
+    "explanation": "Yin and Yang is a Chinese philosophical concept describing how complementary opposites create balance and wholeness. Yin represents: the receptive, dark, cool, feminine, passive, and internal. Yang represents: the active, bright, warm, masculine, dynamic, and external. Key principles include: opposites are complementary (not contradictory), each contains the seed of the other (the dots in the symbol), they transform into each other cyclically, and balance between them creates harmony. The concept applies to: nature (day/night, seasons), human experience (rest/activity, receiving/giving), and system dynamics (growth/decay, expansion/contraction). Understanding yin-yang involves: recognizing both aspects in every situation, appreciating the necessity of balance, and knowing when to emphasize each quality. Imbalance creates problems - too much yang creates burnout, too much yin creates stagnation. For knowledge workers, yin-yang thinking suggests: balancing deep work and collaboration, action and reflection, speaking and listening, and giving and receiving.",
+    "tags": [
+        "philosophy",
+        "taoism",
+        "wisdom",
+        "balance",
+        "duality"
+    ],
+    "category": "Concepts",
+    "icon": "FaYinYang",
+    "featured": true,
+    "aliases": [
+        "Yin-yang",
+        "Complementary opposites",
+        "Duality balance"
+    ],
+    "relatedConcepts": [
+        "tao-dao",
+        "balance",
+        "middle-way",
+        "harmony",
+        "wu-wei",
+        "integration"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

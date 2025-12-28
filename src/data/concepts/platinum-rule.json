@@ -1,0 +1,44 @@
+{
+    "id": "platinum-rule",
+    "name": "Platinum Rule",
+    "summary": "The ethical principle to treat others as they want to be treated.",
+    "explanation": "The Platinum Rule extends the Golden Rule: treat others as they want to be treated, not as you want to be treated. The principle acknowledges that: people differ in preferences, what feels good to you may not feel good to others, and respecting others means understanding their actual desires. The Platinum Rule requires: learning others' preferences, adapting your behavior to their needs, and not assuming similarity. Examples include: some people want direct feedback while others need gentler delivery, some appreciate public recognition while others prefer private acknowledgment, and different cultures have different expectations. The rule is more demanding than the Golden Rule because: it requires understanding others, not just projecting yourself, and adapting to their actual needs. Limitations include: not always knowing preferences, and some preferences shouldn't be accommodated. The rule is particularly valuable for: cross-cultural interactions, leadership, and customer service. For knowledge workers, the Platinum Rule suggests: learning colleagues' communication preferences, adapting feedback style to recipients, and recognizing that your preferences may not be universal.",
+    "tags": [
+        "ethics",
+        "wisdom",
+        "philosophy",
+        "relationships",
+        "empathy"
+    ],
+    "category": "Principles",
+    "icon": "FaCrown",
+    "featured": false,
+    "aliases": [
+        "Treat as they want",
+        "Adapted Golden Rule",
+        "Personalized treatment"
+    ],
+    "relatedConcepts": [
+        "golden-rule",
+        "silver-rule",
+        "empathy",
+        "communication",
+        "relationships",
+        "leadership"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

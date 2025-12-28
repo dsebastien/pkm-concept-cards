@@ -1,0 +1,49 @@
+{
+    "id": "premeditatio-malorum",
+    "name": "Premeditatio Malorum",
+    "summary": "The Stoic practice of negative visualization - imagining worst-case scenarios to build resilience.",
+    "explanation": "Premeditatio malorum (Latin for 'premeditation of evils') is a Stoic technique of deliberately imagining possible adversities, challenges, and worst-case scenarios. Rather than avoiding negative thoughts, Stoics actively contemplated: loss of loved ones, failure of projects, material losses, and their own mortality. The practice serves multiple purposes: it reduces anxiety about the future (what you've mentally faced loses power to frighten), builds gratitude for the present (imagining loss highlights what you have), and prepares resilience (you're not blindsided by adversity). Seneca recommended imagining financial ruin, exile, and death regularly. The practice differs from anxiety in being: controlled (you choose when to contemplate), purposeful (building resilience and gratitude), and time-limited (not endless rumination). Modern applications include: fear-setting (Tim Ferriss's version), contingency planning, and gratitude exercises based on imagining loss. For knowledge workers, premeditatio malorum means: regularly considering what could go wrong, appreciating what you have through imagined loss, and building mental preparedness for inevitable challenges.",
+    "tags": [
+        "philosophy",
+        "stoicism",
+        "wisdom",
+        "resilience",
+        "meditation"
+    ],
+    "category": "Techniques",
+    "icon": "FaEye",
+    "featured": false,
+    "aliases": [
+        "Negative visualization",
+        "Premeditation of adversity",
+        "Stoic visualization"
+    ],
+    "relatedConcepts": [
+        "stoicism",
+        "amor-fati",
+        "gratitude",
+        "resilience",
+        "fear-setting",
+        "memento-mori"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "A Guide to the Good Life by William Irvine",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

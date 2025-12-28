@@ -1,0 +1,44 @@
+{
+    "id": "celebrating-failure",
+    "name": "Celebrating Failure",
+    "summary": "Organizational practices that recognize and reward intelligent failures to promote learning.",
+    "explanation": "Celebrating failure refers to organizational practices that recognize and sometimes reward intelligent failures to promote experimentation, learning, and psychological safety. The practice might include: failure awards, public sharing of failure lessons, and recognition for well-executed experiments that didn't succeed. The purpose is to: signal that appropriate risk-taking is valued, reduce fear that inhibits innovation, and extract maximum learning from failures. Effective celebration distinguishes: intelligent failures (worth celebrating) from preventable ones (not worth celebrating), and genuine learning (celebrated) from carelessness (not celebrated). Critics note risks: performative celebration without real change, celebrating all failures indiscriminately, and confusing failure celebration with failure seeking. Authentic celebration involves: genuine appreciation for learning, focus on process quality not just outcomes, and systematic improvement based on lessons. For knowledge workers, celebrating failure means: sharing failure lessons with colleagues, recognizing others who took smart risks, and contributing to environments where appropriate experimentation is encouraged.",
+    "tags": [
+        "failure",
+        "culture",
+        "learning",
+        "innovation",
+        "psychological-safety"
+    ],
+    "category": "Concepts",
+    "icon": "FaAward",
+    "featured": false,
+    "aliases": [
+        "Failure awards",
+        "Rewarding failure",
+        "Failure recognition"
+    ],
+    "relatedConcepts": [
+        "psychological-safety",
+        "learning-culture",
+        "intelligent-failure",
+        "experimentation",
+        "innovation-culture",
+        "learning-from-failure"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

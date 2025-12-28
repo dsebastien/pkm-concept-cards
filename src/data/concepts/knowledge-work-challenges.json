@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-work-challenges",
+    "name": "Knowledge Work Challenges",
+    "summary": "Common difficulties faced by professionals doing cognitive and information work.",
+    "explanation": "Knowledge work challenges are common difficulties faced by professionals doing cognitive and information work. Unlike physical work with clear challenges (fatigue, safety), knowledge work challenges are often invisible and under-addressed. Key challenges include: attention fragmentation (constant interruptions), information overload (too much to process), productivity measurement (unclear output definitions), isolation (remote and individual work), and burnout (cognitive exhaustion). Specific challenges include: email/message overload, meeting proliferation, context switching costs, and shallow work crowding out deep work. Organizational challenges include: inadequate management understanding, environments designed for collaboration over focus, and metrics favoring activity over output. Individual challenges include: self-discipline requirements, motivation maintenance, and boundary setting. Addressing challenges requires: individual practices (habits, boundaries), organizational change (policies, culture), and tool support (technology that helps rather than hinders). For knowledge workers, understanding these challenges helps: advocate for better conditions, develop protective practices, and maintain sustainable performance.",
+    "tags": [
+        "knowledge-work",
+        "challenges",
+        "productivity",
+        "work",
+        "problems"
+    ],
+    "category": "Concepts",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": [
+        "Knowledge worker problems",
+        "Cognitive work difficulties",
+        "Professional challenges"
+    ],
+    "relatedConcepts": [
+        "knowledge-worker",
+        "information-overload",
+        "burnout",
+        "attention-fragmentation",
+        "deep-work",
+        "productivity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

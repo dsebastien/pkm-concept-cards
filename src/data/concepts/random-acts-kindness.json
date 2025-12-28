@@ -1,0 +1,44 @@
+{
+    "id": "random-acts-kindness",
+    "name": "Random Acts of Kindness",
+    "summary": "Unprompted, spontaneous acts of generosity toward others without expectation of return.",
+    "explanation": "Random acts of kindness are unprompted, spontaneous acts of generosity toward others, often strangers, without expectation of return or even recognition. The practice gained cultural momentum through books and movements emphasizing small, positive actions. Examples include: paying for a stranger's coffee, leaving encouraging notes, offering help unprompted, and anonymous giving. Research shows that performing random acts of kindness increases: happiness in the giver, positive emotions in recipients, and ripple effects through witnesses. The 'random' aspect emphasizes: spontaneity over obligation, freedom from reciprocity expectations, and discovery of unexpected opportunities. The practice connects to generalized reciprocity - contributing to a kinder world without tracking individual exchanges. Criticisms include: superficiality compared to sustained commitment, and potential for performative rather than genuine kindness. Effective practice involves: genuine motivation, attention to opportunities, and lack of expectation for recognition or return. For knowledge workers, random acts of kindness might include: unexpected helpful emails, spontaneous introductions, and sharing useful resources without prompting.",
+    "tags": [
+        "reciprocity",
+        "kindness",
+        "generosity",
+        "wellbeing",
+        "social-impact"
+    ],
+    "category": "Concepts",
+    "icon": "FaHeart",
+    "featured": false,
+    "aliases": [
+        "Acts of kindness",
+        "RAK",
+        "Spontaneous generosity"
+    ],
+    "relatedConcepts": [
+        "generosity-principle",
+        "paying-it-forward",
+        "generalized-reciprocity",
+        "happiness",
+        "altruism",
+        "prosocial-behavior"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

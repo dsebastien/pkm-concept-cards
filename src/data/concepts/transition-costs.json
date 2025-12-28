@@ -1,0 +1,49 @@
+{
+    "id": "transition-costs",
+    "name": "Transition Costs",
+    "summary": "The mental and temporal overhead of moving between different tasks or contexts.",
+    "explanation": "Transition costs are the mental and temporal overhead incurred when moving between different tasks, contexts, or modes of working. Every transition requires: context unloading (mentally closing out current task), context loading (preparing for new task), attention settling (achieving focus), and state recovery (reaching productive flow). These costs are often invisible but substantial - research suggests 15-25 minutes to fully recover from interruptions. Transition costs are higher when: tasks are cognitively different (coding to email is costlier than coding to debugging), interruption is unplanned (no mental preparation), and current task is complex (more to unload and reload). Reducing transition costs: batch similar tasks (reduce context switching), use transition rituals (signal brain to shift modes), complete natural stopping points (don't interrupt mid-thought), and manage interruptions (protect focus periods). Transition costs explain: why fragmented days feel exhausting, why multitasking is inefficient, and why deep work requires protected time. For knowledge workers, accounting for transition costs means: scheduling similar work together, protecting blocks from interruption, and recognizing that the 'cost' of a meeting includes transition time on both sides.",
+    "tags": [
+        "productivity",
+        "attention",
+        "context-switching",
+        "time-management",
+        "focus"
+    ],
+    "category": "Concepts",
+    "icon": "FaExchangeAlt",
+    "featured": false,
+    "aliases": [
+        "Context switching costs",
+        "Task switching overhead",
+        "Mode change costs"
+    ],
+    "relatedConcepts": [
+        "context-switching",
+        "attention-residue",
+        "deep-work",
+        "flow-state",
+        "task-batching",
+        "cognitive-load"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp09NT",
+            "type": "book"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

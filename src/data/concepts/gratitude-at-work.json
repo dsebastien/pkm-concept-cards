@@ -1,0 +1,44 @@
+{
+    "id": "gratitude-at-work",
+    "name": "Gratitude at Work",
+    "summary": "Applying gratitude practices in professional settings to improve culture and relationships.",
+    "explanation": "Gratitude at work involves applying gratitude practices in professional settings to improve culture, relationships, and performance. Workplace gratitude takes forms including: peer recognition, manager appreciation, team gratitude practices, and gratitude-focused meetings. Research shows workplace gratitude increases: job satisfaction, engagement, organizational citizenship behavior, and psychological safety while decreasing: turnover intentions, burnout, and workplace conflict. Implementation approaches include: recognition programs, gratitude walls, appreciation rituals in meetings, and leadership modeling. Barriers include: transactional cultures (seeing gratitude as soft), busyness (no time for appreciation), and cynicism (distrust of organized gratitude efforts). Authentic workplace gratitude requires: genuine appreciation (not mandated positivity), specific acknowledgment (not generic praise), and consistent practice (not occasional events). For knowledge workers, gratitude at work means: expressing appreciation to colleagues, receiving acknowledgment gracefully, and contributing to cultures where contribution is noticed and valued.",
+    "tags": [
+        "gratitude",
+        "workplace",
+        "culture",
+        "relationships",
+        "leadership"
+    ],
+    "category": "Concepts",
+    "icon": "FaBriefcase",
+    "featured": false,
+    "aliases": [
+        "Workplace gratitude",
+        "Professional appreciation",
+        "Office thankfulness"
+    ],
+    "relatedConcepts": [
+        "gratitude-practice",
+        "workplace-culture",
+        "employee-engagement",
+        "recognition",
+        "psychological-safety",
+        "team-dynamics"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

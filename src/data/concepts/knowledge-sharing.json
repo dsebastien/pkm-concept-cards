@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-sharing",
+    "name": "Knowledge Sharing",
+    "summary": "The practice of distributing knowledge, insights, and expertise to others.",
+    "explanation": "Knowledge sharing is the practice of distributing knowledge, insights, and expertise to others within organizations, communities, or networks. It enables: collective intelligence (combining individual knowledge), capability building (developing others), and efficiency (avoiding repeated learning). Forms include: documentation (written knowledge capture), teaching (active knowledge transfer), mentoring (ongoing guidance), and collaboration (working together and learning). Barriers include: competitive cultures (knowledge as power), time constraints (sharing takes effort), poor systems (nowhere to share effectively), and tacit knowledge difficulties (some knowledge is hard to articulate). Enabling factors include: psychological safety, recognition for sharing, effective platforms, and cultures that value teaching. Effective knowledge sharing requires: willingness to share, ability to articulate knowledge, appropriate channels, and recipients ready to receive. For knowledge workers, practicing knowledge sharing means: documenting useful insights, helping colleagues learn, building organizational knowledge bases, and creating cultures where sharing is normal and valued.",
+    "tags": [
+        "knowledge-work",
+        "collaboration",
+        "learning",
+        "organizations",
+        "communication"
+    ],
+    "category": "Concepts",
+    "icon": "FaShareAlt",
+    "featured": false,
+    "aliases": [
+        "Sharing knowledge",
+        "Knowledge distribution",
+        "Information sharing"
+    ],
+    "relatedConcepts": [
+        "knowledge-management",
+        "knowledge-transfer",
+        "collaboration",
+        "learning",
+        "documentation",
+        "organizational-learning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}

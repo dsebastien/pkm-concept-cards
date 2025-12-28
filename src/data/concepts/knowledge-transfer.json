@@ -1,0 +1,44 @@
+{
+    "id": "knowledge-transfer",
+    "name": "Knowledge Transfer",
+    "summary": "Moving knowledge from one person, group, or context to another.",
+    "explanation": "Knowledge transfer is the process of moving knowledge from one person, group, or context to another. It's essential for: organizational learning, succession planning, project handoffs, and capability building. Transfer mechanisms include: explicit transfer (documentation, training), tacit transfer (apprenticeship, working together), and embedded transfer (building knowledge into processes and tools). Challenges include: tacit knowledge is hard to transfer (it's often unconscious), context matters (what works in one situation may not in another), and motivation affects reception (people must want to learn). Effective transfer requires: willing senders, capable receivers, appropriate channels, and sufficient time. Common transfer situations include: employee onboarding, project transitions, mentorship relationships, and knowledge capture from departing experts. Knowledge transfer differs from knowledge sharing in emphasis - transfer focuses on ensuring knowledge actually moves and is usable by recipients. For knowledge workers, practicing knowledge transfer means: effectively onboarding others, documenting for successors, mentoring deliberately, and creating systems that preserve knowledge despite personnel changes.",
+    "tags": [
+        "knowledge-work",
+        "learning",
+        "organizations",
+        "communication",
+        "succession"
+    ],
+    "category": "Concepts",
+    "icon": "FaArrowsAlt",
+    "featured": false,
+    "aliases": [
+        "Transferring knowledge",
+        "Knowledge handoff",
+        "Capability transfer"
+    ],
+    "relatedConcepts": [
+        "knowledge-sharing",
+        "tacit-knowledge",
+        "explicit-knowledge",
+        "mentorship",
+        "onboarding",
+        "organizational-learning"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": []
+}
