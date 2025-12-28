@@ -1,0 +1,23 @@
+{
+    "id": "cap-theorem",
+    "name": "CAP Theorem",
+    "summary": "A theorem stating that distributed data stores can only guarantee two of three properties: Consistency, Availability, and Partition tolerance.",
+    "explanation": "The CAP Theorem, formulated by Eric Brewer, states that a distributed data store cannot simultaneously provide more than two of three guarantees: (1) Consistency - every read receives the most recent write, (2) Availability - every request receives a response (though not guaranteed to be the latest), (3) Partition tolerance - the system continues operating despite network failures between nodes. Since network partitions are inevitable in distributed systems, the practical choice is between CP (consistency + partition tolerance) and AP (availability + partition tolerance). Examples: Traditional databases like PostgreSQL prioritize CP; systems like Cassandra and DynamoDB favor AP with eventual consistency. Understanding CAP helps architects make informed trade-offs when designing distributed systems. Related concepts include PACELC (extending CAP to consider latency) and the BASE model (Basically Available, Soft state, Eventual consistency).",
+    "tags": ["distributed-systems", "databases", "architecture", "software-engineering", "systems-design"],
+    "category": "Software Development",
+    "icon": "FaNetworkWired",
+    "featured": false,
+    "aliases": ["Brewer's Theorem", "CAP Tradeoff"],
+    "relatedConcepts": ["systems-thinking", "technical-debt", "graceful-degradation-pkm"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {"title": "Designing Data-Intensive Applications by Martin Kleppmann", "url": "https://www.amazon.com/dp/1449373321?tag=dsebastien00-20"}
+    ],
+    "references": [
+        {"title": "CAP theorem - Wikipedia", "url": "https://en.wikipedia.org/wiki/CAP_theorem", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

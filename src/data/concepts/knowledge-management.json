@@ -37,6 +37,11 @@
     ],
     "references": [
         {
+            "title": "Knowledge management - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Knowledge_management",
+            "type": "website"
+        },
+        {
             "title": "Knowledge Management for Beginners Course",
             "url": "https://knowledge-management-for-beginners.com",
             "type": "other"

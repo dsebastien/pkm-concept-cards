@@ -29,6 +29,11 @@
     "articles": [],
     "references": [
         {
+            "title": "KISS principle - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/KISS_principle",
+            "type": "website"
+        },
+        {
             "title": "Personal Knowledge Management Coaching",
             "url": "https://store.dsebastien.net/l/pkm-coaching",
             "type": "other"

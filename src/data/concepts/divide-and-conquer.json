@@ -26,6 +26,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Divide-and-conquer algorithm - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm",
+            "type": "website"
+        },
+        {
             "title": "Clarity 101 Workshop",
             "url": "https://store.dsebastien.net/l/knowii-clarity-101",
             "type": "other"

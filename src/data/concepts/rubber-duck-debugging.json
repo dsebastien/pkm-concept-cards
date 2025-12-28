@@ -1,0 +1,23 @@
+{
+    "id": "rubber-duck-debugging",
+    "name": "Rubber Duck Debugging",
+    "summary": "A debugging technique where explaining code line-by-line to an inanimate object helps identify the source of bugs.",
+    "explanation": "Rubber Duck Debugging is a software engineering technique where a programmer debugs code by explaining it, line-by-line, to an inanimate object (traditionally a rubber duck). The process of articulating the code's purpose and behavior forces the developer to slow down and examine their assumptions, often revealing the bug in the process. Key benefits include: (1) Forces articulation - putting thoughts into words exposes fuzzy thinking, (2) Slows down cognition - prevents the mental shortcuts that let bugs hide, (3) Activates different brain processes - speaking uses different neural pathways than reading, (4) No dependency on others - available 24/7 without interrupting colleagues. The technique is referenced in 'The Pragmatic Programmer' and has become a beloved programming tradition. Any object can serve as the 'duck' - the key is the act of explaining, not the listener.",
+    "tags": ["debugging", "software-engineering", "problem-solving", "techniques", "programming"],
+    "category": "Software Development",
+    "icon": "FaBug",
+    "featured": false,
+    "aliases": ["Rubber Ducking", "Cardboard Programmer", "Confessional Debugging"],
+    "relatedConcepts": ["feynman-technique", "writing-is-thinking", "socratic-method", "first-principles"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {"title": "The Pragmatic Programmer by David Thomas and Andrew Hunt", "url": "https://www.amazon.com/dp/0135957052?tag=dsebastien00-20"}
+    ],
+    "references": [
+        {"title": "Rubber duck debugging - Wikipedia", "url": "https://en.wikipedia.org/wiki/Rubber_duck_debugging", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

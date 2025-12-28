@@ -34,6 +34,16 @@
     ],
     "references": [
         {
+            "title": "Creativity - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Creativity",
+            "type": "website"
+        },
+        {
+            "title": "Computational creativity - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Computational_creativity",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

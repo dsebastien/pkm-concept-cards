@@ -30,6 +30,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Concept map - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Concept_map",
+            "type": "website"
+        },
+        {
             "title": "Obsidian Starter Kit",
             "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
             "type": "other"

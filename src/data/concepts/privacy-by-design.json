@@ -27,6 +27,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Privacy by design - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Privacy_by_design",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

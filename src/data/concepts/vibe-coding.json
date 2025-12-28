@@ -1,0 +1,21 @@
+{
+    "id": "vibe-coding",
+    "name": "Vibe Coding",
+    "summary": "AI-assisted coding approach where developers guide AI agents through natural language to write and refine code.",
+    "explanation": "Vibe Coding is an emerging software development paradigm where developers work alongside AI coding assistants to produce code through natural language conversations. Rather than writing every line manually, developers describe their intent, review AI-generated code, and iterate through feedback. Key aspects include: (1) Conversational development - using plain English to specify requirements, (2) Review over writing - focusing on evaluating AI output rather than typing code, (3) Context engineering - providing AI with the right information to generate accurate code, (4) Iterative refinement - guiding AI through corrections and improvements. This approach shifts developer focus from syntax and implementation details to higher-level design thinking, problem decomposition, and quality assurance. Vibe Coding works best when combined with strong software engineering fundamentals, clear communication skills, and effective prompting techniques.",
+    "tags": ["ai-development", "productivity", "software-engineering", "workflows", "automation"],
+    "category": "Software Development",
+    "icon": "FaRobot",
+    "featured": true,
+    "aliases": ["AI-Assisted Coding", "Conversational Coding", "AI Pair Programming"],
+    "relatedConcepts": ["prompt-engineering", "context-engineering", "pair-programming", "code-review", "ai-assistants"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {"title": "Vibe Coding - Wikipedia", "url": "https://en.wikipedia.org/wiki/Vibe_coding", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

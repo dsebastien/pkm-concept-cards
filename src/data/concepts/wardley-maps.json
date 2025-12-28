@@ -27,6 +27,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Wardley map - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wardley_map",
+            "type": "website"
+        },
+        {
             "title": "Clarity 101 Workshop",
             "url": "https://store.dsebastien.net/l/knowii-clarity-101",
             "type": "other"

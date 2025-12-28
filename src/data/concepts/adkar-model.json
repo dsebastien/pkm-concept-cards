@@ -24,7 +24,13 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Adkar+model"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "ADKAR - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/ADKAR",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
     "dateModified": "2025-12-26"

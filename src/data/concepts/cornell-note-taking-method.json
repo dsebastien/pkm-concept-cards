@@ -33,9 +33,14 @@
     ],
     "references": [
         {
+            "title": "Cornell Notes - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cornell_Notes",
+            "type": "website"
+        },
+        {
             "title": "Cornell Note Taking System - Learning Strategies Center",
             "url": "https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Obsidian Starter Kit",

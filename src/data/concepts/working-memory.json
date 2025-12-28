@@ -25,7 +25,13 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Context+switching"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Working memory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Working_memory",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
     "dateModified": "2025-12-28"

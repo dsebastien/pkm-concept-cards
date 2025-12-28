@@ -1,0 +1,21 @@
+{
+    "id": "worse-is-better",
+    "name": "Worse Is Better",
+    "summary": "A software design philosophy arguing that simpler, 'worse' solutions often succeed over more complete but complex alternatives.",
+    "explanation": "Worse Is Better is a software design philosophy articulated by Richard P. Gabriel in 1989, comparing the 'New Jersey' style (simplicity-first) with the 'MIT' approach (correctness-first). The philosophy argues that simpler solutions with fewer features often win over more comprehensive alternatives because: (1) Simplicity enables adoption - easier to understand, implement, and port, (2) 'Good enough' ships faster - perfect is the enemy of done, (3) Viral growth - simple tools spread more easily, (4) Incremental improvement - starting simple allows organic evolution. The name is provocative—the 'worse' solution isn't actually worse overall, just worse on paper. Unix succeeded over more sophisticated alternatives partly through this approach. The principle applies to products, APIs, and features: sometimes shipping 80% is better than perfecting 100%.",
+    "tags": ["software-design", "philosophy", "simplicity", "software-engineering", "product-development"],
+    "category": "Software Development",
+    "icon": "FaBalanceScale",
+    "featured": false,
+    "aliases": ["New Jersey Style", "Simplicity First"],
+    "relatedConcepts": ["kiss-principle", "minimum-viable-product", "pareto-principle", "essentialism", "less-is-more"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {"title": "Worse is better - Wikipedia", "url": "https://en.wikipedia.org/wiki/Worse_is_better", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "domain-driven-design",
+    "name": "Domain-Driven Design",
+    "summary": "An approach to software development that centers the design on the core business domain and its logic.",
+    "explanation": "Domain-Driven Design (DDD) is an approach to software development that centers the project on the core business domain and domain logic. Introduced by Eric Evans, DDD provides patterns for aligning code with business reality. Key concepts include: (1) Ubiquitous Language - shared vocabulary between developers and domain experts, (2) Bounded Contexts - explicit boundaries within which a model applies, (3) Entities and Value Objects - distinguishing objects by identity vs. attributes, (4) Aggregates - clusters of objects treated as units, (5) Domain Events - significant occurrences in the domain, (6) Repositories - abstractions for data access. Strategic patterns include Context Mapping, Anti-Corruption Layers, and Shared Kernels. DDD is especially valuable for complex domains where business rules drive the design. The approach requires close collaboration with domain experts and investment in modeling, making it most suitable for projects where the complexity justifies the effort.",
+    "tags": ["architecture", "software-design", "software-engineering", "modeling", "methodologies"],
+    "category": "Software Development",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": ["DDD"],
+    "relatedConcepts": ["clean-architecture", "systems-thinking", "first-principles", "mental-models"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {"title": "Domain-Driven Design by Eric Evans", "url": "https://www.amazon.com/dp/0321125215?tag=dsebastien00-20"},
+        {"title": "Implementing Domain-Driven Design by Vaughn Vernon", "url": "https://www.amazon.com/dp/0321834577?tag=dsebastien00-20"}
+    ],
+    "references": [
+        {"title": "Domain-driven design - Wikipedia", "url": "https://en.wikipedia.org/wiki/Domain-driven_design", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "test-driven-development",
+    "name": "Test-Driven Development",
+    "summary": "A software development approach where tests are written before the code they validate, following a red-green-refactor cycle.",
+    "explanation": "Test-Driven Development (TDD) is a software development process where tests are written before the production code. The practice follows a 'Red-Green-Refactor' cycle: (1) Red - write a failing test for the desired functionality, (2) Green - write the minimum code to make the test pass, (3) Refactor - improve the code while keeping tests green. Benefits include: better design through testability constraints, living documentation, confidence in refactoring, fewer bugs reaching production, and faster debugging. TDD shifts thinking from 'how do I implement this?' to 'what should this do?' Critics note: initial slowdown, difficulty with UI and integration tests, and potential for brittle tests. TDD works best when combined with good testing practices, pair programming, and continuous integration. The approach was popularized by Kent Beck as part of Extreme Programming.",
+    "tags": ["testing", "software-engineering", "methodologies", "quality", "agile"],
+    "category": "Software Development",
+    "icon": "FaVial",
+    "featured": false,
+    "aliases": ["TDD", "Test-First Development"],
+    "relatedConcepts": ["pair-programming", "code-review", "continuous-improvement", "fail-fast", "agile-manifesto"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {"title": "Test Driven Development: By Example by Kent Beck", "url": "https://www.amazon.com/dp/0321146530?tag=dsebastien00-20"}
+    ],
+    "references": [
+        {"title": "Test-driven development - Wikipedia", "url": "https://en.wikipedia.org/wiki/Test-driven_development", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

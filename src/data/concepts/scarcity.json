@@ -30,7 +30,13 @@
             "url": "https://amzn.to/3L0o2YE"
         }
     ],
-    "references": [],
+    "references": [
+        {
+            "title": "Scarcity (social psychology) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Scarcity_(social_psychology)",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
     "dateModified": "2025-12-28"

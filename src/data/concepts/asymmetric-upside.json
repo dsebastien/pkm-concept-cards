@@ -40,9 +40,14 @@
     ],
     "references": [
         {
+            "title": "Convexity (finance) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Convexity_(finance)",
+            "type": "website"
+        },
+        {
             "title": "Farnam Street: Asymmetric Opportunities",
             "url": "https://fs.blog/asymmetric-opportunities/",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Clarity 101 Workshop",

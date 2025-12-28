@@ -1,0 +1,19 @@
+{
+    "id": "plan-more-review-less",
+    "name": "Plan More, Review Less",
+    "summary": "A development philosophy that emphasizes investing time in upfront planning to reduce the burden of reviewing completed work.",
+    "explanation": "Plan More, Review Less is a development practice that shifts quality assurance effort from reviewing finished code to designing solutions upfront. The principle states that 'five minutes spent planning saves you ten minutes in review.' Key insights include: (1) Plans are faster to evaluate than code - it's easier to assess an approach than examine diffs, (2) Early direction is cheaper to correct - agents and developers optimize for minimal changes once code exists, (3) Architecture hardens quickly - once patterns are established, changing direction becomes expensive, (4) Alignment before implementation - ensuring everyone agrees on the approach prevents wasted work. This is especially valuable in AI-assisted development where AI agents will follow the initial plan closely, making early planning crucial for avoiding architectural rework later.",
+    "tags": ["planning", "productivity", "software-engineering", "workflows", "ai-development"],
+    "category": "Software Development",
+    "icon": "FaClipboardList",
+    "featured": false,
+    "aliases": ["Shift Left Planning", "Upfront Design"],
+    "relatedConcepts": ["vibe-coding", "design-thinking", "pre-mortem-analysis", "backward-design"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

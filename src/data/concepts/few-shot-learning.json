@@ -29,6 +29,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Few-shot learning - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Few-shot_learning",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

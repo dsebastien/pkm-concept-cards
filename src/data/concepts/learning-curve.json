@@ -26,6 +26,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Learning curve - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Learning_curve",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

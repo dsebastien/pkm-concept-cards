@@ -43,6 +43,11 @@
     ],
     "references": [
         {
+            "title": "Bayesian probability - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bayesian_probability",
+            "type": "website"
+        },
+        {
             "title": "Clarity 101 Workshop",
             "url": "https://store.dsebastien.net/l/knowii-clarity-101",
             "type": "other"

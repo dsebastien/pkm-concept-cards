@@ -49,6 +49,11 @@
     ],
     "references": [
         {
+            "title": "Zettelkasten - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zettelkasten",
+            "type": "website"
+        },
+        {
             "title": "zettelkasten.de",
             "url": "https://zettelkasten.de",
             "type": "websites"

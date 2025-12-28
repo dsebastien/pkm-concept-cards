@@ -26,6 +26,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Technical debt - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Technical_debt",
+            "type": "website"
+        },
+        {
             "title": "Dev Concepts",
             "url": "https://dev-concepts.dev",
             "type": "other"

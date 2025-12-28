@@ -26,6 +26,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Directed acyclic graph - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Directed_acyclic_graph",
+            "type": "website"
+        },
+        {
             "title": "Dev Concepts",
             "url": "https://dev-concepts.dev",
             "type": "other"

@@ -35,9 +35,14 @@
     ],
     "references": [
         {
+            "title": "Markdown - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Markdown",
+            "type": "website"
+        },
+        {
             "title": "Markdown Guide",
             "url": "https://www.markdownguide.org",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Obsidian Starter Kit",

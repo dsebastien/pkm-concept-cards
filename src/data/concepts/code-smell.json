@@ -1,0 +1,24 @@
+{
+    "id": "code-smell",
+    "name": "Code Smell",
+    "summary": "Surface-level indicators in source code that suggest deeper problems in the design or implementation.",
+    "explanation": "A Code Smell is a surface indication in source code that usually corresponds to a deeper problem in the system. The term was popularized by Martin Fowler and Kent Beck. Code smells are not bugs—the code works—but they indicate weaknesses that may slow development or increase the risk of bugs. Common code smells include: (1) Long methods - functions doing too much, (2) Large classes - classes with too many responsibilities, (3) Feature envy - methods using other classes' data excessively, (4) Duplicate code - repeated logic across the codebase, (5) Dead code - unused code that remains, (6) Magic numbers - unexplained literal values, (7) Shotgun surgery - changes requiring edits in many places. Recognizing code smells is a key skill for maintaining code quality. The remedy is usually refactoring—restructuring code without changing its behavior.",
+    "tags": ["code-quality", "refactoring", "software-engineering", "programming", "best-practices"],
+    "category": "Software Development",
+    "icon": "FaExclamationTriangle",
+    "featured": false,
+    "aliases": ["Bad Code Smell", "Design Smell"],
+    "relatedConcepts": ["technical-debt", "dry-principle", "kiss-principle", "solid-principles"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {"title": "Refactoring: Improving the Design of Existing Code by Martin Fowler", "url": "https://www.amazon.com/dp/0134757599?tag=dsebastien00-20"},
+        {"title": "Clean Code by Robert C. Martin", "url": "https://www.amazon.com/dp/0132350882?tag=dsebastien00-20"}
+    ],
+    "references": [
+        {"title": "Code smell - Wikipedia", "url": "https://en.wikipedia.org/wiki/Code_smell", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

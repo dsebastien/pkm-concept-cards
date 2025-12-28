@@ -32,6 +32,11 @@
     "books": [],
     "references": [
         {
+            "title": "Scrum (software development) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Scrum_(software_development)",
+            "type": "website"
+        },
+        {
             "title": "Sprint Planning - Scrum Guide",
             "url": "https://scrumguides.org/scrum-guide.html#sprint-planning",
             "type": "website"

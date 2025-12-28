@@ -29,9 +29,14 @@
     "articles": [],
     "references": [
         {
+            "title": "Business model canvas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Business_model_canvas",
+            "type": "website"
+        },
+        {
             "title": "Business Model Generation",
             "url": "https://www.strategyzer.com/canvas/business-model-canvas",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Knowledge Worker Kit",

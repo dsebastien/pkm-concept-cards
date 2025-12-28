@@ -26,6 +26,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Prompt engineering - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prompt_engineering",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

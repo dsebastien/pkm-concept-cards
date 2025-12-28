@@ -34,9 +34,14 @@
     ],
     "references": [
         {
+            "title": "Bullet journal - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bullet_journal",
+            "type": "website"
+        },
+        {
             "title": "Bullet Journal Official Website",
             "url": "https://bulletjournal.com",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Obsidian Starter Kit",

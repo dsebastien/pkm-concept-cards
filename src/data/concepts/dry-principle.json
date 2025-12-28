@@ -24,6 +24,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Don't repeat yourself - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Don%27t_repeat_yourself",
+            "type": "website"
+        },
+        {
             "title": "Obsidian Starter Kit",
             "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
             "type": "other"

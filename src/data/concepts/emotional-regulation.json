@@ -29,7 +29,13 @@
     ],
     "relatedNotes": [],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Emotional self-regulation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emotional_self-regulation",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-28",
     "dateModified": "2025-12-28"

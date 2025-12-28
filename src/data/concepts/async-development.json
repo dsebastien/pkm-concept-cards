@@ -1,0 +1,19 @@
+{
+    "id": "async-development",
+    "name": "Async Development",
+    "summary": "A development workflow where tasks run in the background, allowing developers to work on multiple streams simultaneously.",
+    "explanation": "Async Development (also called Backgrounding) is a workflow pattern in AI-assisted development where coding agents work on extended tasks while developers handle other work simultaneously. Instead of synchronous pair programming with real-time dialogue, developers kick off longer tasks and check results later. Key aspects include: (1) Task parallelization - multiple AI agents working on different features, (2) Non-blocking workflow - developers continue productive work during agent execution, (3) Result review over process monitoring - focus on outcomes rather than watching progress, (4) Batch feedback - reviewing completed work rather than line-by-line collaboration. This approach requires: well-defined tasks, good test coverage for validation, and clear acceptance criteria. Benefits include higher throughput, reduced context switching, and better utilization of both human and AI time. The pattern is fundamental to scaling AI-assisted development beyond simple prompting.",
+    "tags": ["ai-development", "productivity", "workflows", "software-engineering", "automation"],
+    "category": "Software Development",
+    "icon": "FaTasks",
+    "featured": false,
+    "aliases": ["Backgrounding", "Background Development", "Parallel Development"],
+    "relatedConcepts": ["vibe-coding", "yolo-mode", "asynchronous-communication", "deep-work"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

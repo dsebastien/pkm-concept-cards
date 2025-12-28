@@ -1,0 +1,21 @@
+{
+    "id": "convention-over-configuration",
+    "name": "Convention Over Configuration",
+    "summary": "A software design paradigm that reduces decisions developers need to make by providing sensible defaults based on conventions.",
+    "explanation": "Convention Over Configuration is a software design paradigm that seeks to decrease the number of decisions developers need to make by providing sensible defaults. Instead of requiring explicit configuration for every aspect, the framework assumes standard conventions unless told otherwise. Key benefits include: (1) Reduced boilerplate - less configuration code to write and maintain, (2) Faster onboarding - new developers can follow established patterns, (3) Consistency - projects using the same framework look similar, (4) Focus on unique logic - developers spend time on business logic, not setup. Examples include: Ruby on Rails naming conventions (a Post model maps to a posts table), Next.js file-based routing, and Maven's standard directory layout. The trade-off is flexibility—convention-based systems may fight you when you need to deviate. The pattern is also called 'coding by convention.'",
+    "tags": ["software-design", "frameworks", "programming", "best-practices", "productivity"],
+    "category": "Software Development",
+    "icon": "FaCog",
+    "featured": false,
+    "aliases": ["Coding by Convention", "CoC"],
+    "relatedConcepts": ["kiss-principle", "dry-principle", "yagni", "design-thinking"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {"title": "Convention over configuration - Wikipedia", "url": "https://en.wikipedia.org/wiki/Convention_over_configuration", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

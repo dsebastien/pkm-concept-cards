@@ -35,6 +35,11 @@
     ],
     "references": [
         {
+            "title": "Retrieval-augmented generation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+            "type": "website"
+        },
+        {
             "title": "Knowledge Management for Beginners",
             "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
             "type": "other"

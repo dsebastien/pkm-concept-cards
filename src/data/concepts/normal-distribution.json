@@ -30,6 +30,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Normal distribution - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Normal_distribution",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

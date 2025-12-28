@@ -33,6 +33,11 @@
     ],
     "references": [
         {
+            "title": "Reinforcement learning from human feedback - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback",
+            "type": "website"
+        },
+        {
             "title": "AI Ghostwriter Guide",
             "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
             "type": "other"

@@ -28,6 +28,16 @@
     "articles": [],
     "references": [
         {
+            "title": "AI agent - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/AI_agent",
+            "type": "website"
+        },
+        {
+            "title": "Intelligent agent - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Intelligent_agent",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

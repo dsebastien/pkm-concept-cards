@@ -29,6 +29,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Transformer (deep learning architecture) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)",
+            "type": "website"
+        },
+        {
             "title": "Attention Is All You Need (Vaswani et al.)",
             "url": "https://arxiv.org/abs/1706.03762",
             "type": "paper"

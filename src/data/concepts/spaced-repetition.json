@@ -42,6 +42,11 @@
     ],
     "references": [
         {
+            "title": "Spaced repetition - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Spaced_repetition",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

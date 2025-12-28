@@ -24,7 +24,13 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/The+Schelling+Point"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Focal point (game theory) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Focal_point_(game_theory)",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
     "dateModified": "2025-12-28"

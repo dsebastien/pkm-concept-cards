@@ -34,9 +34,14 @@
     ],
     "references": [
         {
+            "title": "Values in Action Inventory of Strengths - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Values_in_Action_Inventory_of_Strengths",
+            "type": "website"
+        },
+        {
             "title": "VIA Character Strengths Survey",
             "url": "https://www.viacharacter.org/survey/account/register",
-            "type": "websites"
+            "type": "website"
         },
         {
             "title": "Knowii Community",

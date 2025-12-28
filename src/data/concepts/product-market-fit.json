@@ -24,7 +24,13 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Product+Market+Fit+(PMF)"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Product-market fit - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Product-market_fit",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
     "dateModified": "2025-12-28"

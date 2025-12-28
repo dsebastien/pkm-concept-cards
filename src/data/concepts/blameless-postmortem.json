@@ -1,0 +1,21 @@
+{
+    "id": "blameless-postmortem",
+    "name": "Blameless Postmortem",
+    "summary": "An incident review practice focused on understanding what happened and improving systems rather than assigning blame to individuals.",
+    "explanation": "A Blameless Postmortem is an approach to incident review that focuses on systemic improvements rather than individual fault. The practice recognizes that failures in complex systems rarely have a single root cause or culpable person. Key principles include: (1) Assume good intentions - people made the best decisions they could with available information, (2) Focus on systems, not individuals - ask 'what failed' not 'who failed', (3) Create psychological safety - people must feel safe sharing what happened, (4) Gather multiple perspectives - different viewpoints reveal the full picture, (5) Identify systemic improvements - change processes, tools, and safeguards. The format typically includes: timeline reconstruction, contributing factors, what went well, action items, and lessons learned. Google, Etsy, and other tech companies have championed this approach. Blameless postmortems build trust, encourage transparency, and lead to more effective improvements.",
+    "tags": ["incident-management", "culture", "software-engineering", "leadership", "teams"],
+    "category": "Software Development",
+    "icon": "FaClipboardCheck",
+    "featured": false,
+    "aliases": ["Blameless Post-Incident Review", "Incident Retrospective", "Learning Review"],
+    "relatedConcepts": ["psychological-safety", "continuous-improvement", "root-cause-analysis", "growth-mindset", "failure-as-feedback"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {"title": "Postmortem documentation - Wikipedia", "url": "https://en.wikipedia.org/wiki/Postmortem_documentation", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}

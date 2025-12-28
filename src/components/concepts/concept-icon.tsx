@@ -108,7 +108,15 @@ import {
     FaLevelUpAlt,
     FaChartBar,
     FaFileContract,
-    FaWater
+    FaWater,
+    FaRobot,
+    FaBolt,
+    FaBug,
+    FaHourglass,
+    FaCog,
+    FaVial,
+    FaFlag,
+    FaSearchPlus
 } from 'react-icons/fa'
 import { SiObsidian, SiSubstack, SiBluesky } from 'react-icons/si'
 import { FaXTwitter, FaThreads } from 'react-icons/fa6'
@@ -223,6 +231,14 @@ const iconMap: Record<string, IconType> = {
     FaChartBar,
     FaFileContract,
     FaWater,
+    FaRobot,
+    FaBolt,
+    FaBug,
+    FaHourglass,
+    FaCog,
+    FaVial,
+    FaFlag,
+    FaSearchPlus,
     SiObsidian,
     SiSubstack,
     SiBluesky,
@@ -344,17 +360,26 @@ const iconColors: Record<string, string> = {
     FaLevelUpAlt: 'text-orange-400',
     FaChartBar: 'text-indigo-400',
     FaFileContract: 'text-amber-400',
-    FaWater: 'text-blue-400'
+    FaWater: 'text-blue-400',
+    FaRobot: 'text-cyan-400',
+    FaBolt: 'text-yellow-400',
+    FaBug: 'text-red-400',
+    FaHourglass: 'text-amber-400',
+    FaCog: 'text-gray-400',
+    FaVial: 'text-green-400',
+    FaFlag: 'text-blue-400',
+    FaSearchPlus: 'text-cyan-400'
 }
 
 // Category fallback icons (emojis)
 const categoryFallbacks: Record<string, string> = {
-    Methods: '📝',
-    Systems: '🔄',
-    Principles: '💡',
-    Techniques: '🛠️',
-    Tools: '🔧',
-    Frameworks: '🏗️'
+    'Methods': '📝',
+    'Systems': '🔄',
+    'Principles': '💡',
+    'Techniques': '🛠️',
+    'Tools': '🔧',
+    'Frameworks': '🏗️',
+    'Software Development': '💻'
 }
 
 const sizeClasses = {

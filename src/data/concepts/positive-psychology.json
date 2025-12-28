@@ -30,9 +30,14 @@
     "articles": [],
     "references": [
         {
+            "title": "Positive psychology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Positive_psychology",
+            "type": "website"
+        },
+        {
             "title": "Authentic Happiness - Martin Seligman",
             "url": "https://www.authentichappiness.sas.upenn.edu/",
-            "type": "websites"
+            "type": "website"
         }
     ],
     "tutorials": [],

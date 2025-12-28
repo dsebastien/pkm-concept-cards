@@ -40,6 +40,11 @@
     ],
     "references": [
         {
+            "title": "Large language model - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Large_language_model",
+            "type": "website"
+        },
+        {
             "title": "Attention Is All You Need (Original Transformer Paper)",
             "url": "https://arxiv.org/abs/1706.03762",
             "type": "paper"

@@ -1,0 +1,22 @@
+{
+    "id": "semantic-versioning",
+    "name": "Semantic Versioning",
+    "summary": "A versioning scheme using MAJOR.MINOR.PATCH numbers to communicate the nature and impact of changes in software releases.",
+    "explanation": "Semantic Versioning (SemVer) is a versioning scheme that uses three numbers (MAJOR.MINOR.PATCH) to communicate the nature of changes. Rules: (1) MAJOR version - increment for incompatible API changes (breaking changes), (2) MINOR version - increment for backwards-compatible new functionality, (3) PATCH version - increment for backwards-compatible bug fixes. Additional labels for pre-release (1.0.0-alpha) and build metadata (1.0.0+build123) are supported. Benefits include: clear communication of change impact, predictable dependency management, and informed upgrade decisions. The scheme helps answer: 'Can I safely upgrade?' A minor bump means new features but no breaking changes. A major bump signals careful review needed. SemVer is widely adopted in package managers (npm, pip, cargo) and has become the de facto standard for versioning libraries and APIs.",
+    "tags": ["software-engineering", "releases", "best-practices", "communication", "standards"],
+    "category": "Software Development",
+    "icon": "FaCodeBranch",
+    "featured": false,
+    "aliases": ["SemVer", "Semantic Version"],
+    "relatedConcepts": ["continuous-improvement", "technical-debt"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {"title": "Semantic Versioning", "url": "https://semver.org/", "type": "website"},
+        {"title": "Software versioning - Wikipedia", "url": "https://en.wikipedia.org/wiki/Software_versioning", "type": "website"}
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-28",
+    "dateModified": "2025-12-28"
+}
