@@ -52,6 +52,9 @@ const concepts: Concept[] = conceptFiles.map((file) => {
 // Extract all unique tags from concepts
 const allTags = Array.from(new Set(concepts.flatMap((concept) => concept.tags))).sort()
 
+// Extract all unique categories from concepts (excluding 'All')
+const allCategories = Array.from(new Set(concepts.map((concept) => concept.category))).sort()
+
 // Get current date in YYYY-MM-DD format
 const today = new Date().toISOString().split('T')[0]
 
@@ -111,6 +114,16 @@ function generateSitemap(): string {
         })
     }
 
+    // Add each category page
+    for (const category of allCategories) {
+        urls.push({
+            loc: `${BASE_URL}/category/${encodeURIComponent(category)}`,
+            lastmod: today,
+            changefreq: 'weekly',
+            priority: '0.7'
+        })
+    }
+
     // Build XML
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -150,7 +163,8 @@ function writeSitemap(): void {
     console.log(`  - Unexplored: 1 URL`)
     console.log(`  - Concepts: ${concepts.length} URLs`)
     console.log(`  - Tags: ${allTags.length} URLs`)
-    console.log(`  - Total: ${concepts.length + allTags.length + 4} URLs`)
+    console.log(`  - Categories: ${allCategories.length} URLs`)
+    console.log(`  - Total: ${concepts.length + allTags.length + allCategories.length + 4} URLs`)
 }
 
 writeSitemap()

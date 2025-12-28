@@ -20,7 +20,11 @@ import { useExploredConcepts, type ExploredFilter } from '@/hooks/use-explored-c
 import type { Concept } from '@/types/concept'
 
 const HomePage: React.FC = () => {
-    const { conceptId, tagName } = useParams<{ conceptId?: string; tagName?: string }>()
+    const { conceptId, tagName, categoryName } = useParams<{
+        conceptId?: string
+        tagName?: string
+        categoryName?: string
+    }>()
     const navigate = useNavigate()
     const [searchParams, setSearchParams] = useSearchParams()
 
@@ -29,7 +33,10 @@ const HomePage: React.FC = () => {
 
     // Derive filter state from URL search params
     const searchQueryFromUrl = searchParams.get('q') || ''
-    const selectedCategory = searchParams.get('category') || 'All'
+    // If we're on a /category/:categoryName route, use that category
+    const selectedCategory = categoryName
+        ? decodeURIComponent(categoryName)
+        : searchParams.get('category') || 'All'
     const exploredFilter = (searchParams.get('explored') as ExploredFilter) || 'all'
     const selectedTags = useMemo(() => {
         // If we're on a /tag/:tagName route, use that tag
@@ -100,8 +107,22 @@ const HomePage: React.FC = () => {
     }, [])
 
     const setSelectedCategory = useCallback(
-        (category: string) => updateSearchParam('category', category),
-        [updateSearchParam]
+        (category: string) => {
+            // If we're on a /category/:categoryName route, navigate to home with new category
+            if (categoryName) {
+                const params = new URLSearchParams(searchParams)
+                if (category !== 'All') {
+                    params.set('category', category)
+                } else {
+                    params.delete('category')
+                }
+                const queryString = params.toString()
+                navigate(`/${queryString ? `?${queryString}` : ''}`)
+            } else {
+                updateSearchParam('category', category)
+            }
+        },
+        [categoryName, searchParams, navigate, updateSearchParam]
     )
     const setSelectedTags = useCallback(
         (tags: string[]) => {
@@ -252,22 +273,33 @@ const HomePage: React.FC = () => {
         [navigate]
     )
 
+    const handleCategoryClick = useCallback(
+        (category: string) => {
+            // Navigate to the category page
+            navigate(`/category/${encodeURIComponent(category)}`)
+        },
+        [navigate]
+    )
+
     // Stats
     const totalConcepts = conceptsData.concepts.length
     const featuredConcepts = conceptsData.concepts.filter((c) => c.featured).length
     const categoriesCount = conceptsData.categories.filter((c) => c !== 'All').length
 
-    // Decode the tag name for display
+    // Decode the tag/category name for display
     const decodedTagName = tagName ? decodeURIComponent(tagName) : null
+    const decodedCategoryName = categoryName ? decodeURIComponent(categoryName) : null
 
     // Update document title based on the current page
     useEffect(() => {
         if (decodedTagName) {
             document.title = `${decodedTagName} - Concepts`
+        } else if (decodedCategoryName) {
+            document.title = `${decodedCategoryName} - Concepts`
         } else {
             document.title = 'Concepts'
         }
-    }, [decodedTagName])
+    }, [decodedTagName, decodedCategoryName])
 
     return (
         <AnimatedPage>
@@ -283,6 +315,16 @@ const HomePage: React.FC = () => {
                                 Concepts tagged with "{decodedTagName}"
                             </p>
                         </>
+                    ) : decodedCategoryName ? (
+                        <>
+                            <h1 className='mb-6 text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl'>
+                                <span className='text-primary/60'>Category:</span>{' '}
+                                {decodedCategoryName}
+                            </h1>
+                            <p className='text-primary/70 mx-auto mb-8 max-w-2xl text-lg sm:text-xl md:text-2xl'>
+                                Concepts in the "{decodedCategoryName}" category
+                            </p>
+                        </>
                     ) : (
                         <>
                             <h1 className='mb-6 text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl'>
@@ -295,7 +337,7 @@ const HomePage: React.FC = () => {
                     )}
 
                     {/* Stats - only show on main page */}
-                    {!decodedTagName && (
+                    {!decodedTagName && !decodedCategoryName && (
                         <div className='mb-10 flex flex-wrap justify-center gap-6 sm:gap-10'>
                             <AnimatedStat delay={0.1}>
                                 <div className='text-center'>
@@ -399,6 +441,7 @@ const HomePage: React.FC = () => {
                     viewMode={viewMode}
                     onShowDetails={handleShowDetails}
                     onTagClick={handleTagClick}
+                    onCategoryClick={handleCategoryClick}
                     isExplored={isExplored}
                 />
             </Section>
@@ -494,6 +537,7 @@ const HomePage: React.FC = () => {
                 onClose={handleCloseDetails}
                 onNavigateToConcept={handleShowDetails}
                 onTagClick={handleTagClick}
+                onCategoryClick={handleCategoryClick}
                 isExplored={isExplored}
             />
 

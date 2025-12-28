@@ -72,6 +72,13 @@ const UnexploredPage: React.FC = () => {
         [navigate]
     )
 
+    const handleCategoryClick = useCallback(
+        (category: string) => {
+            navigate(`/category/${encodeURIComponent(category)}`)
+        },
+        [navigate]
+    )
+
     // All concepts explored - show congratulations
     if (unexploredCount === 0) {
         return (
@@ -256,6 +263,7 @@ const UnexploredPage: React.FC = () => {
                         viewMode={viewMode}
                         onShowDetails={handleShowDetails}
                         onTagClick={handleTagClick}
+                        onCategoryClick={handleCategoryClick}
                         isExplored={() => false}
                     />
                 </div>
@@ -269,6 +277,7 @@ const UnexploredPage: React.FC = () => {
                 onClose={handleCloseDetails}
                 onNavigateToConcept={handleNavigateToConcept}
                 onTagClick={handleTagClick}
+                onCategoryClick={handleCategoryClick}
                 isExplored={isExplored}
             />
         </AnimatedPage>

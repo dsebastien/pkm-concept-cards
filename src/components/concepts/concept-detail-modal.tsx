@@ -27,6 +27,7 @@ interface ConceptDetailModalProps {
     onClose: () => void
     onNavigateToConcept: (concept: Concept) => void
     onTagClick: (tag: string) => void
+    onCategoryClick: (category: string) => void
     isExplored?: (conceptId: string) => boolean
 }
 
@@ -78,6 +79,7 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
     onClose,
     onNavigateToConcept,
     onTagClick,
+    onCategoryClick,
     isExplored
 }) => {
     const modalRef = useRef<HTMLDivElement>(null)
@@ -273,9 +275,12 @@ const ConceptDetailModal: React.FC<ConceptDetailModalProps> = ({
                                     <div className='flex items-center gap-2'>
                                         <FaFolder className='text-secondary h-4 w-4' />
                                         <span className='text-primary/60 text-sm'>Category:</span>
-                                        <span className='text-sm font-medium'>
+                                        <button
+                                            onClick={() => onCategoryClick(concept.category)}
+                                            className='bg-primary/5 hover:bg-primary/10 text-primary/70 hover:text-primary/90 cursor-pointer rounded-full px-3 py-1 text-sm font-medium transition-colors'
+                                        >
                                             {concept.category}
-                                        </span>
+                                        </button>
                                     </div>
 
                                     {/* Tags */}

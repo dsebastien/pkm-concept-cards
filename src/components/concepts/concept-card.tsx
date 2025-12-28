@@ -8,12 +8,13 @@ interface ConceptCardProps {
     concept: Concept
     onShowDetails: (concept: Concept) => void
     onTagClick: (tag: string) => void
+    onCategoryClick: (category: string) => void
     viewMode: 'grid' | 'list'
     isExplored?: boolean
 }
 
 const ConceptCard: React.FC<ConceptCardProps> = memo(
-    ({ concept, onShowDetails, onTagClick, viewMode, isExplored = false }) => {
+    ({ concept, onShowDetails, onTagClick, onCategoryClick, viewMode, isExplored = false }) => {
         const handleCardClick = useCallback(() => {
             onShowDetails(concept)
         }, [onShowDetails, concept])
@@ -34,6 +35,14 @@ const ConceptCard: React.FC<ConceptCardProps> = memo(
                 onTagClick(tag)
             },
             [onTagClick]
+        )
+
+        const handleCategoryClick = useCallback(
+            (e: React.MouseEvent, category: string) => {
+                e.stopPropagation()
+                onCategoryClick(category)
+            },
+            [onCategoryClick]
         )
 
         if (viewMode === 'list') {
@@ -79,9 +88,12 @@ const ConceptCard: React.FC<ConceptCardProps> = memo(
                                     Explored
                                 </span>
                             )}
-                            <span className='bg-primary/10 text-primary/60 shrink-0 rounded-full px-2 py-0.5 text-xs'>
+                            <button
+                                onClick={(e) => handleCategoryClick(e, concept.category)}
+                                className='bg-primary/10 text-primary/60 hover:bg-primary/20 hover:text-primary/80 shrink-0 cursor-pointer rounded-full px-2 py-0.5 text-xs transition-colors'
+                            >
                                 {concept.category}
-                            </span>
+                            </button>
                         </div>
                         <p className='text-primary/60 mt-1 line-clamp-1 text-sm'>
                             {concept.summary}
@@ -162,9 +174,12 @@ const ConceptCard: React.FC<ConceptCardProps> = memo(
                                 <FaCheckCircle className='h-2.5 w-2.5' />
                             </span>
                         )}
-                        <span className='bg-primary/10 text-primary/60 rounded-full px-2 py-0.5 text-xs'>
+                        <button
+                            onClick={(e) => handleCategoryClick(e, concept.category)}
+                            className='bg-primary/10 text-primary/60 hover:bg-primary/20 hover:text-primary/80 cursor-pointer rounded-full px-2 py-0.5 text-xs transition-colors'
+                        >
                             {concept.category}
-                        </span>
+                        </button>
                     </div>
                 </div>
 
@@ -251,7 +266,8 @@ const ConceptCard: React.FC<ConceptCardProps> = memo(
             prevProps.viewMode === nextProps.viewMode &&
             prevProps.isExplored === nextProps.isExplored &&
             prevProps.onShowDetails === nextProps.onShowDetails &&
-            prevProps.onTagClick === nextProps.onTagClick
+            prevProps.onTagClick === nextProps.onTagClick &&
+            prevProps.onCategoryClick === nextProps.onCategoryClick
         )
     }
 )

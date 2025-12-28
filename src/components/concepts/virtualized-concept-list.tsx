@@ -8,6 +8,7 @@ interface VirtualizedConceptListProps {
     viewMode: 'grid' | 'list'
     onShowDetails: (concept: Concept) => void
     onTagClick: (tag: string) => void
+    onCategoryClick: (category: string) => void
     isExplored: (conceptId: string) => boolean
 }
 
@@ -25,7 +26,7 @@ const getColumnCount = (containerWidth: number): number => {
 }
 
 const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
-    ({ concepts, viewMode, onShowDetails, onTagClick, isExplored }) => {
+    ({ concepts, viewMode, onShowDetails, onTagClick, onCategoryClick, isExplored }) => {
         const parentRef = useRef<HTMLDivElement>(null)
         const [containerWidth, setContainerWidth] = useState(1024)
 
@@ -87,6 +88,13 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
             [onTagClick]
         )
 
+        const handleCategoryClick = useCallback(
+            (category: string) => {
+                onCategoryClick(category)
+            },
+            [onCategoryClick]
+        )
+
         // Memoize isExplored check to avoid recalculating
         const exploredMap = useMemo(() => {
             const map = new Map<string, boolean>()
@@ -119,7 +127,7 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
             return (
                 <div
                     ref={parentRef}
-                    className='h-[calc(100vh-400px)] min-h-[400px] overflow-auto'
+                    className='h-[calc(100vh-200px)] min-h-[800px] overflow-auto'
                     style={{ contain: 'strict' }}
                 >
                     <div
@@ -144,6 +152,7 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
                                             concept={concept}
                                             onShowDetails={handleShowDetails}
                                             onTagClick={handleTagClick}
+                                            onCategoryClick={handleCategoryClick}
                                             viewMode='list'
                                             isExplored={getIsExplored(concept.id)}
                                         />
@@ -160,7 +169,7 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
         return (
             <div
                 ref={parentRef}
-                className='-mx-3 h-[calc(100vh-400px)] min-h-[400px] overflow-auto px-3 pt-3'
+                className='-mx-3 h-[calc(100vh-200px)] min-h-[800px] overflow-auto px-3 pt-3'
             >
                 <div
                     className='relative w-full'
@@ -192,6 +201,7 @@ const VirtualizedConceptList: React.FC<VirtualizedConceptListProps> = memo(
                                             concept={concept}
                                             onShowDetails={handleShowDetails}
                                             onTagClick={handleTagClick}
+                                            onCategoryClick={handleCategoryClick}
                                             viewMode='grid'
                                             isExplored={getIsExplored(concept.id)}
                                         />

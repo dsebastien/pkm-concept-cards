@@ -45,6 +45,9 @@ const concepts: Concept[] = conceptFiles.map((file) => {
 // Extract all unique tags
 const allTags = Array.from(new Set(concepts.flatMap((concept) => concept.tags))).sort()
 
+// Extract all unique categories (excluding 'All')
+const allCategories = Array.from(new Set(concepts.map((concept) => concept.category))).sort()
+
 // Get all concept IDs
 const allConceptIds = concepts.map((concept) => concept.id)
 
@@ -437,6 +440,61 @@ function generateTagSchema(tag: string, encodedTag: string): string {
 }
 
 /**
+ * Generate CollectionPage JSON-LD schema for a category page
+ */
+function generateCategorySchema(category: string, encodedCategory: string): string {
+    const categoryUrl = `${BASE_URL}/category/${encodedCategory}`
+
+    const schema = {
+        '@context': 'https://schema.org',
+        '@graph': [
+            {
+                '@type': 'CollectionPage',
+                '@id': `${categoryUrl}#collection`,
+                'name': `${category} - Concepts`,
+                'description': `Explore concepts in the "${category}" category`,
+                'url': categoryUrl,
+                'creator': { '@id': `${BASE_URL}/#person` },
+                'publisher': { '@id': `${BASE_URL}/#organization` },
+                'isPartOf': {
+                    '@type': 'WebSite',
+                    '@id': `${BASE_URL}/#website`,
+                    'name': 'Concepts',
+                    'url': BASE_URL
+                },
+                'about': {
+                    '@type': 'Thing',
+                    'name': category
+                },
+                'inLanguage': 'en'
+            },
+            authorSchema,
+            publisherSchema,
+            {
+                '@type': 'BreadcrumbList',
+                '@id': `${categoryUrl}#breadcrumb`,
+                'itemListElement': [
+                    {
+                        '@type': 'ListItem',
+                        'position': 1,
+                        'name': 'Home',
+                        'item': BASE_URL
+                    },
+                    {
+                        '@type': 'ListItem',
+                        'position': 2,
+                        'name': category,
+                        'item': categoryUrl
+                    }
+                ]
+            }
+        ]
+    }
+
+    return JSON.stringify(schema, null, 12)
+}
+
+/**
  * Generate noscript content for a tag page
  */
 function generateTagNoscript(tag: string): string {
@@ -524,6 +582,99 @@ function generateTagPageHtml(tag: string, encodedTag: string): string {
 
     // Add noscript content before </body>
     const noscriptContent = generateTagNoscript(tag)
+    html = html.replace('</body>', `${noscriptContent}\n    </body>`)
+
+    return html
+}
+
+/**
+ * Generate noscript content for a category page
+ */
+function generateCategoryNoscript(category: string): string {
+    const categoryConcepts = concepts.filter((c) => c.category === category)
+
+    return `
+    <noscript>
+        <article class="noscript-content" style="max-width: 800px; margin: 0 auto; padding: 2rem; font-family: system-ui, sans-serif;">
+            <h1>${escapeHtml(category)} - Concepts</h1>
+            <p>Explore concepts in the "${escapeHtml(category)}" category</p>
+            <p><strong>Total concepts:</strong> ${categoryConcepts.length}</p>
+            <h2>Concepts</h2>
+            <ul>
+${categoryConcepts
+    .map(
+        (c) =>
+            `                <li><a href="/concept/${c.id}">${escapeHtml(c.name)}</a> - ${escapeHtml(c.summary)}</li>`
+    )
+    .join('\n')}
+            </ul>
+            <p><a href="/">← Back to all concepts</a></p>
+        </article>
+    </noscript>`
+}
+
+/**
+ * Generate customized HTML for a category page with appropriate meta tags
+ */
+function generateCategoryPageHtml(category: string, encodedCategory: string): string {
+    const categoryUrl = `${BASE_URL}/category/${encodedCategory}`
+    const title = `${category} - Concepts`
+    const description = `Explore concepts in the "${category}" category`
+
+    let html = indexHtml
+
+    // Update <title>
+    html = html.replace(/<title>.*?<\/title>/, `<title>${escapeHtml(title)}</title>`)
+
+    // Update canonical URL
+    html = html.replace(
+        /<link\s+rel="canonical"\s+href="[^"]*"\s*\/?>/,
+        `<link rel="canonical" href="${categoryUrl}" />`
+    )
+
+    // Update meta description
+    html = html.replace(
+        /<meta\s+name="description"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="description" content="${escapeHtml(description)}" />`
+    )
+
+    // Update Open Graph tags
+    html = html.replace(
+        /<meta\s+property="og:url"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:url" content="${categoryUrl}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:title"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:title" content="${escapeHtml(title)}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:description"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:description" content="${escapeHtml(description)}" />`
+    )
+
+    // Update Twitter tags
+    html = html.replace(
+        /<meta\s+name="twitter:url"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:url" content="${categoryUrl}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:title"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:title" content="${escapeHtml(title)}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:description"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:description" content="${escapeHtml(description)}" />`
+    )
+
+    // Replace JSON-LD schema with CollectionPage schema
+    const categorySchema = generateCategorySchema(category, encodedCategory)
+    html = html.replace(
+        /<script type="application\/ld\+json">[\s\S]*?<\/script>/,
+        `<script type="application/ld+json">\n${categorySchema}\n        </script>`
+    )
+
+    // Add noscript content before </body>
+    const noscriptContent = generateCategoryNoscript(category)
     html = html.replace('</body>', `${noscriptContent}\n    </body>`)
 
     return html
@@ -662,6 +813,22 @@ for (const tag of allTags) {
     tagCount++
 }
 console.log(`  ✓ Created ${tagCount} tag pages`)
+
+// Create directories and generate customized HTML for each category
+console.log('Generating static pages for categories...')
+let categoryCount = 0
+for (const category of allCategories) {
+    // URL-encode the category for the directory name
+    const encodedCategory = encodeURIComponent(category)
+    const categoryDir = join(distDir, 'category', encodedCategory)
+    mkdirSync(categoryDir, { recursive: true })
+
+    // Generate customized HTML with category-specific meta tags
+    const categoryHtml = generateCategoryPageHtml(category, encodedCategory)
+    writeFileSync(join(categoryDir, 'index.html'), categoryHtml)
+    categoryCount++
+}
+console.log(`  ✓ Created ${categoryCount} category pages`)
 
 // Generate statistics page
 console.log('Generating statistics page...')
@@ -866,10 +1033,11 @@ console.log('  ✓ Created random page')
 writeFileSync(join(distDir, '404.html'), indexHtml)
 console.log('  ✓ Created 404.html fallback')
 
-console.log(`\n✓ Static pages generated: ${conceptCount + tagCount + 4} total`)
+console.log(`\n✓ Static pages generated: ${conceptCount + tagCount + categoryCount + 4} total`)
 console.log(`  - Homepage: 1`)
 console.log(`  - Statistics: 1`)
 console.log(`  - Random: 1`)
 console.log(`  - Concepts: ${conceptCount}`)
 console.log(`  - Tags: ${tagCount}`)
+console.log(`  - Categories: ${categoryCount}`)
 console.log(`  - 404 fallback: 1`)
