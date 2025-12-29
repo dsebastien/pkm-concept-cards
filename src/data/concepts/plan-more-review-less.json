@@ -12,8 +12,24 @@
     "relatedNotes": [],
     "articles": [],
     "books": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Shift Left: Testing Earlier in the Software Development Lifecycle - IBM",
+            "url": "https://www.ibm.com/topics/shift-left-testing",
+            "type": "website"
+        },
+        {
+            "title": "The Value of Upfront Design in Software - Martin Fowler",
+            "url": "https://martinfowler.com/articles/designDead.html",
+            "type": "website"
+        },
+        {
+            "title": "Why Front-End Planning Is Critical for Project Success - PMI",
+            "url": "https://www.pmi.org/learning/library/front-end-planning-critical-project-success-7697",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

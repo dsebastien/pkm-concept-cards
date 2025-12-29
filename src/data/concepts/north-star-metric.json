@@ -24,9 +24,26 @@
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/North+Star+metrics"
     ],
-    "articles": [],
-    "references": [],
+    "articles": [
+        {
+            "title": "What is the North Star Metric? - Amplitude",
+            "url": "https://amplitude.com/blog/north-star-metric",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "The North Star Framework - Amplitude",
+            "url": "https://amplitude.com/north-star",
+            "type": "website"
+        },
+        {
+            "title": "North Star Metric - Growth Hackers",
+            "url": "https://growthhackers.com/growth-studies/north-star-metric",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

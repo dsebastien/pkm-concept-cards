@@ -25,8 +25,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Stoic+archer"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Stoicism and the Art of Archery by John Sellars",
+            "url": "https://modernstoicism.com/stoicism-and-the-art-of-archery/",
+            "type": "website"
+        },
+        {
+            "title": "The Metaphor of the Stoic Archer, Explained - Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/hide-and-seek/202207/the-metaphor-of-the-stoic-archer-explained",
+            "type": "website"
+        },
+        {
+            "title": "The Story of the Stoic Archer - The Stoic Gym",
+            "url": "https://thestoicgym.com/the-stoic-magazine/article/516",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

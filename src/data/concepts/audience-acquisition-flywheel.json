@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Audience+acquisition+flywheel"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Flywheel Effect: Why Amazon Is the Best Model for Strategy - Jim Collins",
+            "url": "https://www.jimcollins.com/concepts/the-flywheel.html",
+            "type": "website"
+        },
+        {
+            "title": "How to Build a Content Flywheel - Animalz",
+            "url": "https://www.animalz.co/blog/content-flywheel/",
+            "type": "website"
+        },
+        {
+            "title": "The Creator Flywheel: How to Build an Audience - Nathan Barry",
+            "url": "https://nathanbarry.com/audience/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

@@ -25,8 +25,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Unfair+advantage"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Running Lean Canvas: Unfair Advantage - Ash Maurya",
+            "url": "https://leanstack.com/unfair-advantage",
+            "type": "website"
+        },
+        {
+            "title": "Competitive Advantage: What It Is & Why It's Important - Investopedia",
+            "url": "https://www.investopedia.com/terms/c/competitive_advantage.asp",
+            "type": "website"
+        },
+        {
+            "title": "Build Your Unfair Advantage - Y Combinator",
+            "url": "https://www.ycombinator.com/library/5z-the-real-product-market-fit",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

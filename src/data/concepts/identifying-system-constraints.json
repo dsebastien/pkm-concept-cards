@@ -28,8 +28,24 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/How+to+identify+constraints+in+a+system"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Goal: A Process of Ongoing Improvement - Eliyahu M. Goldratt",
+            "url": "https://www.tocinstitute.org/the-goal-summary.html",
+            "type": "website"
+        },
+        {
+            "title": "Theory of Constraints - Lean Enterprise Institute",
+            "url": "https://www.lean.org/lexicon-terms/theory-of-constraints/",
+            "type": "website"
+        },
+        {
+            "title": "Finding and Fixing Bottlenecks - Kanbanize",
+            "url": "https://kanbanize.com/lean-management/bottleneck",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

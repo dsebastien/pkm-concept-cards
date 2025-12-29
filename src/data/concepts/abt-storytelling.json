@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/And+but+and+therefore+(ABT)+storytelling"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The ABT Narrative Framework - Randy Olson",
+            "url": "https://scienceneedsstory.com/abt-framework/",
+            "type": "website"
+        },
+        {
+            "title": "Houston, We Have a Narrative - Randy Olson Book",
+            "url": "https://www.amazon.com/Houston-We-Have-Narrative-Science/dp/022627084X",
+            "type": "website"
+        },
+        {
+            "title": "Using the ABT in Science Communication",
+            "url": "https://www.aaas.org/programs/communication-toolkit/abt",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

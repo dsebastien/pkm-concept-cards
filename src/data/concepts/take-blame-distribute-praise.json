@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Take+all+the+blame,+distribute+all+the+praise"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win - Jocko Willink",
+            "url": "https://echelonfront.com/extreme-ownership/",
+            "type": "website"
+        },
+        {
+            "title": "Good Leaders Take Blame, Give Credit - Inc.",
+            "url": "https://www.inc.com/lolly-daskal/good-leaders-take-blame-and-give-credit.html",
+            "type": "website"
+        },
+        {
+            "title": "The Psychology of Giving Credit vs. Taking Credit - Forbes",
+            "url": "https://www.forbes.com/sites/forbescoachescouncil/2018/07/23/the-power-of-giving-credit-where-credit-is-due/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-26"
+    "dateModified": "2025-12-29"
 }

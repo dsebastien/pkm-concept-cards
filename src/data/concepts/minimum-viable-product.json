@@ -43,9 +43,19 @@
             "title": "Minimum viable product - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Minimum_viable_product",
             "type": "website"
+        },
+        {
+            "title": "Minimum Viable Product: A Guide - Eric Ries",
+            "url": "https://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html",
+            "type": "website"
+        },
+        {
+            "title": "What is an MVP? Definition and Examples - Y Combinator",
+            "url": "https://www.ycombinator.com/library/4Q-what-is-an-mvp",
+            "type": "website"
         }
     ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

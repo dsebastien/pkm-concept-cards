@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Meet+them+where+they+are+at"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Meeting People Where They Are: A Framework for Effective Communication - HBR",
+            "url": "https://hbr.org/2021/05/to-get-people-to-change-make-change-easy",
+            "type": "website"
+        },
+        {
+            "title": "Adaptive Communication: Connecting with Your Audience - MindTools",
+            "url": "https://www.mindtools.com/axy2y7l/adapting-your-communication-style",
+            "type": "website"
+        },
+        {
+            "title": "The Art of Audience-Centered Communication - TED",
+            "url": "https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

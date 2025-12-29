@@ -29,8 +29,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Useful+mental+model+for+thinking+about+problems"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Cognitive Reappraisal: Definition and Examples - Verywell Mind",
+            "url": "https://www.verywellmind.com/reappraisal-a-healthy-emotion-regulation-technique-6889568",
+            "type": "website"
+        },
+        {
+            "title": "Stoic Philosophy and the Dichotomy of Control - Daily Stoic",
+            "url": "https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/",
+            "type": "website"
+        },
+        {
+            "title": "How Our Expectations Shape Reality - Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/the-science-behind-behavior/201811/how-our-expectations-shape-reality",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

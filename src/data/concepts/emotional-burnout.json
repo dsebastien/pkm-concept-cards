@@ -30,8 +30,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Emotional+burnout"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Burnout: An Overview - World Psychiatry Journal",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911781/",
+            "type": "paper"
+        },
+        {
+            "title": "Job Burnout: What It Is and How to Prevent It - Mayo Clinic",
+            "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642",
+            "type": "website"
+        },
+        {
+            "title": "Maslach Burnout Inventory - Mind Garden",
+            "url": "https://www.mindgarden.com/117-maslach-burnout-inventory-mbi",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

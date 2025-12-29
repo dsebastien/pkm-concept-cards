@@ -25,9 +25,26 @@
     "relatedNotes": [
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Luck+surface+area"
     ],
-    "articles": [],
-    "references": [],
+    "articles": [
+        {
+            "title": "How to Get Lucky: 20 Ways to Expand Your Luck Surface Area - Sahil Bloom",
+            "url": "https://sahilbloom.substack.com/p/how-to-get-lucky",
+            "type": "website"
+        },
+        {
+            "title": "Surface Area of Luck - ModelThinkers",
+            "url": "https://modelthinkers.com/mental-model/surface-area-of-luck",
+            "type": "website"
+        }
+    ],
+    "references": [
+        {
+            "title": "How to Increase Your Luck Surface Area - Jason Roberts (Original Post)",
+            "url": "https://www.codusoperandi.com/posts/increasing-your-luck-surface-area",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

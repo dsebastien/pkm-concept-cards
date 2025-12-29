@@ -28,8 +28,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Eventual+success"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Power of Showing Up - James Clear",
+            "url": "https://jamesclear.com/show-up",
+            "type": "website"
+        },
+        {
+            "title": "Grit: The Power of Passion and Perseverance - Angela Duckworth",
+            "url": "https://angeladuckworth.com/grit-book/",
+            "type": "website"
+        },
+        {
+            "title": "Consistency: The Key to Success - Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/the-gen-y-guide/201702/the-psychology-of-consistency",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/CORE+creativity+model"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Creative Process: What It Is and Its 5 Stages - MasterClass",
+            "url": "https://www.masterclass.com/articles/what-is-the-creative-process",
+            "type": "website"
+        },
+        {
+            "title": "Building a Second Brain: The Creative Process - Tiago Forte",
+            "url": "https://fortelabs.com/blog/the-4-levels-of-personal-knowledge-management/",
+            "type": "website"
+        },
+        {
+            "title": "A Model for Creativity and Innovation - Design Council",
+            "url": "https://www.designcouncil.org.uk/our-resources/the-double-diamond/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-26"
+    "dateModified": "2025-12-29"
 }

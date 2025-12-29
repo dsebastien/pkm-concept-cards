@@ -27,8 +27,24 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Allopathic+overload"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Allostatic Load: How Stress Affects Your Body - Cleveland Clinic",
+            "url": "https://my.clevelandclinic.org/health/symptoms/23532-allostatic-load",
+            "type": "website"
+        },
+        {
+            "title": "Cumulative Stress and Health Effects - American Psychological Association",
+            "url": "https://www.apa.org/topics/stress/cumulative-stress",
+            "type": "website"
+        },
+        {
+            "title": "Allostatic Load as a Marker of Cumulative Biological Risk - PNAS",
+            "url": "https://www.pnas.org/doi/10.1073/pnas.101475998",
+            "type": "paper"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

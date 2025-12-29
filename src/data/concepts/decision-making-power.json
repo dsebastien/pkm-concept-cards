@@ -20,8 +20,24 @@
     "relatedConcepts": [],
     "relatedNotes": [],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "RACI Chart: A Framework for Decision Rights - Atlassian",
+            "url": "https://www.atlassian.com/team-playbook/plays/raci-chart",
+            "type": "website"
+        },
+        {
+            "title": "Who Has the D? How Clear Decision Roles Enhance Organizational Performance - HBR",
+            "url": "https://hbr.org/2006/01/who-has-the-d-how-clear-decision-roles-enhance-organizational-performance",
+            "type": "website"
+        },
+        {
+            "title": "French and Raven's Five Forms of Power - MindTools",
+            "url": "https://www.mindtools.com/awgblxj/french-and-ravens-five-forms-of-power",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

@@ -27,8 +27,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Just-in-time+process"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Just-in-Time (JIT) Manufacturing - Toyota",
+            "url": "https://global.toyota/en/company/vision-and-philosophy/production-system/",
+            "type": "website"
+        },
+        {
+            "title": "Just in Time (JIT) - Lean Enterprise Institute",
+            "url": "https://www.lean.org/lexicon-terms/just-in-time/",
+            "type": "website"
+        },
+        {
+            "title": "The Toyota Production System - Taiichi Ohno",
+            "url": "https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

@@ -26,8 +26,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Default+alive+business"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Default Alive or Default Dead? - Paul Graham",
+            "url": "https://www.paulgraham.com/aord.html",
+            "type": "website"
+        },
+        {
+            "title": "Startup Burn Rates and How to Calculate Runway",
+            "url": "https://www.ycombinator.com/library/5B-startup-survival-guide",
+            "type": "website"
+        },
+        {
+            "title": "The Indie Hackers Approach to Default Alive Businesses",
+            "url": "https://www.indiehackers.com/post/default-alive-vs-default-dead-c7a3a84c9b",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/High-concept+ideas"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Made to Stick: Why Some Ideas Survive and Others Die - Chip & Dan Heath",
+            "url": "https://heathbrothers.com/books/made-to-stick/",
+            "type": "website"
+        },
+        {
+            "title": "The Art of the Elevator Pitch - Harvard Business Review",
+            "url": "https://hbr.org/2018/10/the-art-of-the-elevator-pitch",
+            "type": "website"
+        },
+        {
+            "title": "High Concept: How to Create, Develop, and Improve Ideas - Hollywood Lexicon",
+            "url": "https://filmindependent.org/blog/high-concept-explained/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

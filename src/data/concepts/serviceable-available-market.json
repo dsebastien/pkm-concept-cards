@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Serviceable+Available+Market+(SAM)"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "TAM SAM SOM: What Do They Mean & How Do You Calculate Them? - HubSpot",
+            "url": "https://blog.hubspot.com/marketing/tam-sam-som",
+            "type": "website"
+        },
+        {
+            "title": "Understanding TAM, SAM, and SOM - Corporate Finance Institute",
+            "url": "https://corporatefinanceinstitute.com/resources/valuation/tam-sam-som/",
+            "type": "website"
+        },
+        {
+            "title": "How to Calculate Market Size: TAM, SAM, SOM - Slidebean",
+            "url": "https://slidebean.com/blog/startups/tam-sam-som",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

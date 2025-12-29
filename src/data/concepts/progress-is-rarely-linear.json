@@ -27,8 +27,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Progress+is+rarely+linear"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Plateau of Latent Potential - James Clear (Atomic Habits)",
+            "url": "https://jamesclear.com/plateau-of-latent-potential",
+            "type": "website"
+        },
+        {
+            "title": "The Dip: When to Quit and When to Stick - Seth Godin",
+            "url": "https://seths.blog/thedip/",
+            "type": "website"
+        },
+        {
+            "title": "Learning Curves and Skill Acquisition - Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/brain-wise/201803/the-truth-about-the-learning-curve",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

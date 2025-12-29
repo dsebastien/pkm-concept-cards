@@ -28,8 +28,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Success+invites+success"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Matthew Effect: Accumulated Advantage - Farnam Street",
+            "url": "https://fs.blog/the-matthew-effect/",
+            "type": "website"
+        },
+        {
+            "title": "Success and Motivation: The Virtuous Cycle - Psychology Today",
+            "url": "https://www.psychologytoday.com/us/blog/the-right-mindset/201603/success-and-motivation",
+            "type": "website"
+        },
+        {
+            "title": "The Power of Small Wins - Harvard Business Review",
+            "url": "https://hbr.org/2011/05/the-power-of-small-wins",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

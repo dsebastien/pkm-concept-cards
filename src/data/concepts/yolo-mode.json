@@ -12,8 +12,24 @@
     "relatedNotes": [],
     "articles": [],
     "books": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Claude Code Documentation - Anthropic",
+            "url": "https://docs.anthropic.com/en/docs/claude-code",
+            "type": "website"
+        },
+        {
+            "title": "Agentic Coding: The Future of Software Development",
+            "url": "https://www.anthropic.com/research/swe-bench-sonnet",
+            "type": "website"
+        },
+        {
+            "title": "AI-Assisted Development Best Practices - GitHub",
+            "url": "https://github.blog/developer-skills/github-copilot/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

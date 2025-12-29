@@ -29,8 +29,24 @@
     ],
     "relatedNotes": [],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Window of Tolerance - Dan Siegel",
+            "url": "https://www.drdansiegel.com/resources/",
+            "type": "website"
+        },
+        {
+            "title": "Window of Tolerance - Good Therapy",
+            "url": "https://www.goodtherapy.org/blog/psychpedia/window-of-tolerance",
+            "type": "website"
+        },
+        {
+            "title": "Understanding the Window of Tolerance - NICABM",
+            "url": "https://www.nicabm.com/trauma-the-window-of-tolerance/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

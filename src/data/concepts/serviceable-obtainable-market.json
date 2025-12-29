@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Serviceable+Obtainable+Market+(SOM)"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "TAM SAM SOM: What Do They Mean & How Do You Calculate Them? - HubSpot",
+            "url": "https://blog.hubspot.com/marketing/tam-sam-som",
+            "type": "website"
+        },
+        {
+            "title": "Understanding TAM, SAM, and SOM - Corporate Finance Institute",
+            "url": "https://corporatefinanceinstitute.com/resources/valuation/tam-sam-som/",
+            "type": "website"
+        },
+        {
+            "title": "Market Sizing: TAM, SAM, SOM Explained - Toptal",
+            "url": "https://www.toptal.com/finance/market-sizing/total-addressable-market",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

@@ -27,8 +27,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Designing+for+emergence+is+key+for+emergence"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software - Steven Johnson",
+            "url": "https://stevenberlinjohnson.com/emergence-the-connected-lives-of-ants-brains-cities-and-software-7a75a6e80c9",
+            "type": "website"
+        },
+        {
+            "title": "Complex Adaptive Systems - Santa Fe Institute",
+            "url": "https://www.santafe.edu/what-is-complex-systems-science",
+            "type": "website"
+        },
+        {
+            "title": "Designing for Emergence in Organizations - MIT Sloan",
+            "url": "https://sloanreview.mit.edu/article/leading-in-an-age-of-emergence/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

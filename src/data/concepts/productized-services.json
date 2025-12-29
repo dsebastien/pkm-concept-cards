@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Productized+services"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Complete Guide to Productized Services - Brian Casel",
+            "url": "https://casjam.com/productized-services/",
+            "type": "website"
+        },
+        {
+            "title": "Built to Sell: Productizing Your Service Business - John Warrillow",
+            "url": "https://builttosell.com/",
+            "type": "website"
+        },
+        {
+            "title": "How to Productize a Service Business - SPI",
+            "url": "https://www.smartpassiveincome.com/blog/productize-service-business/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

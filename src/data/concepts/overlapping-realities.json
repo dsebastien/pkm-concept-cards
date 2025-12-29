@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Overlapping+realities"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Social Constructionism: Understanding Shared Reality - Simply Psychology",
+            "url": "https://www.simplypsychology.org/social-constructionism.html",
+            "type": "website"
+        },
+        {
+            "title": "Perspective Taking: Understanding Others' Points of View - Greater Good",
+            "url": "https://greatergood.berkeley.edu/topic/empathy/definition#what-is-perspective-taking",
+            "type": "website"
+        },
+        {
+            "title": "The Ladder of Inference - The Systems Thinker",
+            "url": "https://thesystemsthinker.com/the-ladder-of-inference/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

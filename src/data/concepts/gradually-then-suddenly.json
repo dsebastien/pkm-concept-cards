@@ -30,11 +30,27 @@
     "books": [
         {
             "title": "The Sun Also Rises - Ernest Hemingway",
-            "url": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises"
+            "url": "https://www.amazon.com/dp/0743297334?tag=dsebastien00-20"
         }
     ],
-    "references": [],
+    "references": [
+        {
+            "title": "Gradually, Then Suddenly - Morgan Housel",
+            "url": "https://www.collaborativefund.com/blog/gradually-then-suddenly/",
+            "type": "website"
+        },
+        {
+            "title": "The Power of Compounding - Farnam Street",
+            "url": "https://fs.blog/compound-growth/",
+            "type": "website"
+        },
+        {
+            "title": "How Change Happens: Gradually, Then Suddenly - James Clear",
+            "url": "https://jamesclear.com/marginal-gains",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

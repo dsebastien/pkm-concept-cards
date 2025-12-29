@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Circus+factor"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Bus Factor and Knowledge Risk in Software Teams",
+            "url": "https://www.leadingagile.com/2018/03/bus-factor/",
+            "type": "website"
+        },
+        {
+            "title": "Employee Retention Strategies - Harvard Business Review",
+            "url": "https://hbr.org/2021/09/who-is-driving-the-great-resignation",
+            "type": "website"
+        },
+        {
+            "title": "The Importance of Knowledge Sharing in Teams",
+            "url": "https://www.atlassian.com/team-playbook/plays/knowledge-sharing",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

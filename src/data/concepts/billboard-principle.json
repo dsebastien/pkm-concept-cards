@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Billboard+principle"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Billboard Web Design: How To Win Your Audience's Attention",
+            "url": "https://www.smashingmagazine.com/2010/10/billboard-web-design-how-to-win-your-audience-s-attention/",
+            "type": "website"
+        },
+        {
+            "title": "4 Tips and 1 Tool That Will Help You Perfect Your Slide Design (The Glance Test)",
+            "url": "https://www.duarte.com/blog/perfect-your-slide-design/",
+            "type": "website"
+        },
+        {
+            "title": "Concise, Scannable, and Objective: How to Write for the Web",
+            "url": "https://www.nngroup.com/articles/concise-scannable-and-objective-how-to-write-for-the-web/",
+            "type": "paper"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

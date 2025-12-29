@@ -24,12 +24,28 @@
     "articles": [],
     "books": [
         {
-            "title": "The Lean Startup",
-            "url": "http://theleanstartup.com/book"
+            "title": "The Lean Startup by Eric Ries",
+            "url": "https://www.amazon.com/dp/0307887898?tag=dsebastien00-20"
         }
     ],
-    "references": [],
+    "references": [
+        {
+            "title": "How to Start a Startup - Y Combinator's Startup Library",
+            "url": "https://www.ycombinator.com/library",
+            "type": "website"
+        },
+        {
+            "title": "The Startup Owner's Manual - Steve Blank",
+            "url": "https://steveblank.com/startup-tools/",
+            "type": "website"
+        },
+        {
+            "title": "Business Model Canvas - Strategyzer",
+            "url": "https://www.strategyzer.com/library/the-business-model-canvas",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

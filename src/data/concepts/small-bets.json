@@ -34,8 +34,24 @@
             "url": "https://amzn.to/3ZzKqTW"
         }
     ],
-    "references": [],
+    "references": [
+        {
+            "title": "Small Bets - Daniel Vassallo's Community",
+            "url": "https://smallbets.com",
+            "type": "website"
+        },
+        {
+            "title": "The Optionality Fallacy: How to Build an Antifragile Life",
+            "url": "https://nesslabs.com/optionality-fallacy",
+            "type": "website"
+        },
+        {
+            "title": "Building a Portfolio of Small Bets with Daniel Vassallo - The Bootstrapped Founder",
+            "url": "https://thebootstrappedfounder.com/a-conversation-with-daniel-vassallo/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

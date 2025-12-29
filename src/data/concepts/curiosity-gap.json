@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Curiosity+gap"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Psychology of Curiosity: A Review and Reinterpretation (Loewenstein, 1994)",
+            "url": "https://psycnet.apa.org/record/1994-41058-001",
+            "type": "paper"
+        },
+        {
+            "title": "The Psychology and Neuroscience of Curiosity (Kidd & Hayden, 2015)",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4635443/",
+            "type": "paper"
+        },
+        {
+            "title": "Should You Use a Curiosity Gap to Persuade Your Visitors to Click?",
+            "url": "https://copyhackers.com/2014/04/curiosity-gap/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

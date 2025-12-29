@@ -12,8 +12,24 @@
     "relatedNotes": [],
     "articles": [],
     "books": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Asynchronous Work: A Guide for Distributed Teams - GitLab Handbook",
+            "url": "https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/",
+            "type": "website"
+        },
+        {
+            "title": "The Benefits of Async: A Developer's Guide - Twist by Doist",
+            "url": "https://twist.com/remote-work-guides/async-communication",
+            "type": "website"
+        },
+        {
+            "title": "AI-Assisted Software Development - ACM Queue",
+            "url": "https://queue.acm.org/detail.cfm?id=3639406",
+            "type": "paper"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

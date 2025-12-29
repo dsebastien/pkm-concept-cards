@@ -25,8 +25,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Subject-Matter+Expert+(SME)"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "What Is a Subject Matter Expert and How to Become One - Indeed",
+            "url": "https://www.indeed.com/career-advice/finding-a-job/subject-matter-expert",
+            "type": "website"
+        },
+        {
+            "title": "How to Work with Subject Matter Experts - ATD",
+            "url": "https://www.td.org/insights/how-to-work-with-subject-matter-experts",
+            "type": "website"
+        },
+        {
+            "title": "The Role of Subject Matter Experts in Knowledge Management - KMWorld",
+            "url": "https://www.kmworld.com/Articles/Editorial/Features/The-role-of-subject-matter-experts-in-knowledge-management-147856.aspx",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

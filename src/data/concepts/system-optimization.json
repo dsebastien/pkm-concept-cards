@@ -28,8 +28,24 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Systems+are+optimal+when+they+minimize+energy+and+entropy"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Thinking in Systems: A Primer - Donella Meadows",
+            "url": "https://donellameadows.org/systems-thinking-book-sale/",
+            "type": "website"
+        },
+        {
+            "title": "The Second Law of Thermodynamics and Systems - MIT OpenCourseWare",
+            "url": "https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/",
+            "type": "website"
+        },
+        {
+            "title": "Lean Thinking: Eliminate Waste - Lean Enterprise Institute",
+            "url": "https://www.lean.org/explore-lean/what-is-lean/",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

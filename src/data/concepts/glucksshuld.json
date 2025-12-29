@@ -27,8 +27,24 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Gl%C3%BCcksshuld"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Survivor's Guilt - American Psychological Association",
+            "url": "https://www.apa.org/topics/trauma/survivors-guilt",
+            "type": "website"
+        },
+        {
+            "title": "The Psychology of Success Guilt - Greater Good Science Center",
+            "url": "https://greatergood.berkeley.edu/article/item/how_to_deal_with_success_guilt",
+            "type": "website"
+        },
+        {
+            "title": "Privilege Guilt and How to Cope - Verywell Mind",
+            "url": "https://www.verywellmind.com/privilege-guilt-understanding-and-coping-5208143",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

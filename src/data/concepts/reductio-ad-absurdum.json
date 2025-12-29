@@ -26,8 +26,29 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.04+Expressions/Reductio+ad+absurdum"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Reductio ad absurdum - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Reductio_ad_absurdum",
+            "type": "website"
+        },
+        {
+            "title": "Reductio ad Absurdum - Stanford Encyclopedia of Philosophy",
+            "url": "https://plato.stanford.edu/entries/logic-ancient/#RedAbsAbs",
+            "type": "paper"
+        },
+        {
+            "title": "Proof by Contradiction - Brilliant.org",
+            "url": "https://brilliant.org/wiki/proof-by-contradiction/",
+            "type": "website"
+        },
+        {
+            "title": "The Fallacy Files - Reductio ad Absurdum",
+            "url": "https://www.fallacyfiles.org/reductio.html",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

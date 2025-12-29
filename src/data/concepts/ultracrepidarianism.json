@@ -24,8 +24,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Ultracrepidarianism"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "Ultracrepidarianism: Speaking Beyond Your Expertise",
+            "url": "https://fs.blog/ultracrepidarianism/",
+            "type": "website"
+        },
+        {
+            "title": "The Limits of Expertise - Farnam Street",
+            "url": "https://fs.blog/circle-of-competence/",
+            "type": "website"
+        },
+        {
+            "title": "Origins of 'Sutor, ne ultra crepidam'",
+            "url": "https://www.phrases.org.uk/meanings/cobbler-stick-to-your-last.html",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

@@ -27,8 +27,24 @@
         "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Helper's+High"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "The Helper's High - Greater Good Science Center, UC Berkeley",
+            "url": "https://greatergood.berkeley.edu/article/item/the_helpers_high",
+            "type": "website"
+        },
+        {
+            "title": "Altruism, Happiness, and Health: It's Good to Be Good - Stephen G. Post",
+            "url": "https://greatergood.berkeley.edu/images/uploads/Post-AltruismHappinessHealth.pdf",
+            "type": "paper"
+        },
+        {
+            "title": "The Helper's High - PubMed (National Library of Medicine)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30424992/",
+            "type": "paper"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }

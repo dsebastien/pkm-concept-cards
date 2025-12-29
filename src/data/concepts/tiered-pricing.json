@@ -23,8 +23,24 @@
         "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Tiered+pricing"
     ],
     "articles": [],
-    "references": [],
+    "references": [
+        {
+            "title": "SaaS Pricing Strategy Guide - ProfitWell",
+            "url": "https://www.paddle.com/resources/saas-pricing-strategy",
+            "type": "website"
+        },
+        {
+            "title": "The Psychology of Pricing - Price Intelligently",
+            "url": "https://www.priceintelligently.com/blog/psychology-of-pricing",
+            "type": "website"
+        },
+        {
+            "title": "Good-Better-Best Pricing Strategy - HBR",
+            "url": "https://hbr.org/2018/09/the-good-better-best-approach-to-pricing",
+            "type": "website"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-29"
 }
