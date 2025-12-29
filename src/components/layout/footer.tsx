@@ -15,7 +15,8 @@ import {
     FaHistory,
     FaTag,
     FaCodeBranch,
-    FaGithub
+    FaGithub,
+    FaClipboardList
 } from 'react-icons/fa'
 import resourcesData from '@/data/resources.json'
 import socialsData from '@/data/socials.json'
@@ -180,6 +181,15 @@ const Footer: React.FC = () => {
                                 >
                                     <FaCodeBranch className='h-4 w-4' />
                                     Contributing
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    to='/changelog'
+                                    className='text-primary/70 hover:text-secondary inline-flex items-center gap-2 transition-colors'
+                                >
+                                    <FaClipboardList className='h-4 w-4' />
+                                    Changelog
                                 </Link>
                             </li>
                         </ul>

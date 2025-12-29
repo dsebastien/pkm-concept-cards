@@ -18,6 +18,7 @@ import NotesPage from './pages/notes'
 import HistoryPage from './pages/history'
 import TagsPage from './pages/tags'
 import ContributingPage from './pages/contributing'
+import ChangelogPage from './pages/changelog'
 
 const rootElement = document.getElementById('root')
 
@@ -52,6 +53,7 @@ ReactDOM.createRoot(rootElement).render(
                     <Route path='/tags' element={<TagsPage />} />
                     <Route path='/tags/:tagId' element={<TagsPage />} />
                     <Route path='/contributing' element={<ContributingPage />} />
+                    <Route path='/changelog' element={<ChangelogPage />} />
                 </Route>
             </Routes>
         </BrowserRouter>
