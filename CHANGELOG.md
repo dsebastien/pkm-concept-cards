@@ -1,10 +1,20 @@
-## [0.0.1](https://github.com/dsebastien/concept-cards/compare/7.3.0...0.0.1) (2025-12-29)
+## [7.7.0](https://github.com/dsebastien/concept-cards/compare/7.6.0...7.7.0) (2025-12-29)
+## [7.6.0](https://github.com/dsebastien/concept-cards/compare/7.5.0...7.6.0) (2025-12-29)
+## [7.5.0](https://github.com/dsebastien/concept-cards/compare/7.4.0...7.5.0) (2025-12-29)
 
 ### Features
 
+* **all:** updated concepts with more wikipedia links ([3a0e7f5](https://github.com/dsebastien/concept-cards/commit/3a0e7f5be06b04d0c38bda5bc67928f344f82954))
+## [7.4.0](https://github.com/dsebastien/concept-cards/compare/7.3.0...7.4.0) (2025-12-29)
+
+### Features
+
+* **all:** added changelog page ([b6605ef](https://github.com/dsebastien/concept-cards/commit/b6605ef4dceab2e2a4371152370473c1cef83d16))
 * **all:** added contributing page and OSS mention ([ea7fa65](https://github.com/dsebastien/concept-cards/commit/ea7fa6582db8e419fb4de7d577fb5999c4764868))
 * **all:** added more marketing and sales concepts ([8c57cc7](https://github.com/dsebastien/concept-cards/commit/8c57cc7e5fcd9952c81b8c65b084debaea74c4ca))
 * **all:** added new concepts, prompting techniques, etc ([5f12c34](https://github.com/dsebastien/concept-cards/commit/5f12c34d5a04cbe0b5944c99cfab0109910f4e9f))
+* **all:** added/updated concepts (wikipedia links and marketing/sales ([234ead6](https://github.com/dsebastien/concept-cards/commit/234ead6439c3888e08d6736c6e0002a969f82972))
+* **all:** improved release process with changelog ([e34ec01](https://github.com/dsebastien/concept-cards/commit/e34ec01a7404e8b036c544a8d093029f8ef5ae59))
 ## [7.3.0](https://github.com/dsebastien/concept-cards/compare/7.2.0...7.3.0) (2025-12-28)
 
 ### Features

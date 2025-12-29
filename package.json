@@ -1,7 +1,7 @@
 {
     "name": "concept-cards",
     "private": true,
-    "version": "0.0.1",
+    "version": "7.7.0",
     "description": "Concepts catalog website",
     "author": "Sébastien Dubois",
     "type": "module",
@@ -34,6 +34,7 @@
         "cm": "npm run commit",
         "commit:lint": "commitlint --from HEAD~1 --to HEAD --verbose",
         "release": "read -p 'Enter tag name: ' TAG && git tag \"$TAG\" && git push origin \"$TAG\" && echo \"Tag $TAG created and pushed. Deployment will start automatically.\"",
+        "release:update-version": "tsx scripts/update-version.ts",
         "release:changelog": "tsx scripts/generate-changelog.ts",
         "push": "git push && git push --tags"
     },

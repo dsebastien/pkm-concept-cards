@@ -54,13 +54,16 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
+            - name: Update package.json version
+              run: npm run release:update-version ${{ steps.tag.outputs.name }}
+
             - name: Generate changelog
               run: npm run release:changelog
 
-            - name: Commit changelog
+            - name: Commit release changes
               run: |
-                  git add CHANGELOG.md
-                  git commit -m "chore(release): update changelog for ${{ steps.tag.outputs.name }}" || echo "No changes to commit"
+                  git add package.json CHANGELOG.md
+                  git commit -m "chore(release): ${{ steps.tag.outputs.name }}" || echo "No changes to commit"
                   git push origin HEAD:main
 
             - name: Extract changelog for release notes
