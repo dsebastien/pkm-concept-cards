@@ -34,6 +34,7 @@
         "cm": "npm run commit",
         "commit:lint": "commitlint --from HEAD~1 --to HEAD --verbose",
         "release": "read -p 'Enter tag name: ' TAG && git tag \"$TAG\" && git push origin \"$TAG\" && echo \"Tag $TAG created and pushed. Deployment will start automatically.\"",
+        "release:changelog": "tsx scripts/generate-changelog.ts",
         "push": "git push && git push --tags"
     },
     "lint-staged": {
@@ -74,6 +75,8 @@
         "@types/react-dom": "19.2.3",
         "@vitejs/plugin-react": "5.1.1",
         "commitizen": "4.3.1",
+        "conventional-changelog-cli": "^5.0.0",
+        "conventional-changelog-conventionalcommits": "^9.1.0",
         "cz-customizable": "7.5.1",
         "eslint": "^9.36.0",
         "eslint-config-prettier": "^10.1.8",
