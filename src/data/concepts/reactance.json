@@ -1,0 +1,34 @@
+{
+    "id": "reactance",
+    "name": "Reactance",
+    "summary": "A psychological phenomenon where people resist or oppose rules, regulations, or persuasion attempts perceived as threatening their freedom or autonomy.",
+    "explanation": "Reactance is an emotional and motivational response that occurs when individuals perceive a threat to their freedom of choice or action. When people feel their options are being restricted or eliminated, they experience an unpleasant motivational state that drives them to restore their sense of autonomy, often by doing the exact opposite of what they are being told or persuaded to do.\n\nThe theory of psychological reactance was developed by social psychologist Jack Brehm in 1966. According to Brehm, when people believe they have free behaviors available to them, they will react emotionally and try to restore those freedoms when they perceive them to be threatened or eliminated. The strength of reactance depends on the importance of the threatened freedom, the proportion of freedoms threatened, and the strength of the threat.\n\nReactance manifests in many everyday situations. The 'forbidden fruit effect' exemplifies this: when something is prohibited, it often becomes more desirable. Teenage rebellion frequently stems from reactance - when parents impose strict rules, adolescents may rebel not because they necessarily disagree with the rules, but because their sense of autonomy feels threatened. In marketing, phrases like 'limited time offer' or 'only 3 left' can backfire if consumers feel manipulated, triggering reactance rather than urgency.\n\nUnderstanding reactance has important implications for persuasion and influence. To avoid triggering reactance, effective persuasion strategies include: providing choices rather than mandates, using suggestive language ('you might consider') rather than directive language ('you must'), acknowledging the person's autonomy and right to choose, presenting information neutrally and letting people draw their own conclusions, and avoiding high-pressure tactics that feel coercive.\n\nReactance is related to the concept of reverse psychology, where someone is persuaded to do something by telling them to do the opposite, deliberately triggering their reactance response. However, this tactic can be manipulative and may damage trust if the person realizes what is happening.\n\nIn organizational settings, understanding reactance helps leaders implement changes more effectively by involving employees in decision-making processes, explaining the rationale behind new policies, and preserving a sense of choice wherever possible. In healthcare, providers who present treatment options rather than dictating courses of action often see better patient compliance because they avoid triggering reactance.",
+    "tags": ["cognitive-biases", "persuasion", "psychology", "social-psychology", "motivation", "behaviors"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Psychological Reactance", "Reverse Psychology Effect"],
+    "relatedConcepts": ["scarcity"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "A Theory of Psychological Reactance by Jack W. Brehm",
+            "url": "https://www.amazon.com/dp/0127109501?tag=dsebastien00-20"
+        },
+        {
+            "title": "Influence: The Psychology of Persuasion by Robert B. Cialdini",
+            "url": "https://www.amazon.com/dp/006124189X?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Reactance (psychology) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Reactance_(psychology)",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}
