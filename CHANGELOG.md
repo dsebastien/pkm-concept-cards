@@ -1,3 +1,9 @@
+## [8.3.0](https://github.com/dsebastien/concept-cards/compare/8.2.0...8.3.0) (2025-12-30)
+
+### Features
+
+* **all:** added and reorganized categories and concepts ([44233be](https://github.com/dsebastien/concept-cards/commit/44233bef9cdd9bed9aae38d3b9bf7b5bc926bfbd))
+* **all:** reduced vertical space below filters ([e27671e](https://github.com/dsebastien/concept-cards/commit/e27671eb548027319462ed8fa58762b28ddcdaca))
 ## [8.2.0](https://github.com/dsebastien/concept-cards/compare/8.1.0...8.2.0) (2025-12-30)
 
 ### Features
