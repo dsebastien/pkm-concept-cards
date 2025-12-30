@@ -1,3 +1,8 @@
+## [8.4.0](https://github.com/dsebastien/concept-cards/compare/8.3.0...8.4.0) (2025-12-30)
+
+### Features
+
+* **all:** added/updated concepts ([cec35b8](https://github.com/dsebastien/concept-cards/commit/cec35b8a6e3a358d92c446d89ae1691e96db7e1d))
 ## [8.3.0](https://github.com/dsebastien/concept-cards/compare/8.2.0...8.3.0) (2025-12-30)
 
 ### Features
