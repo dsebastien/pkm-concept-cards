@@ -44,7 +44,8 @@ const ConceptsFilter: React.FC<ConceptsFilterProps> = ({
     }
 
     // Filters that are part of "More filters" section
-    const hasMoreFiltersActive = selectedTags.length > 0 || exploredFilter !== 'all'
+    const hasMoreFiltersActive =
+        selectedCategory !== 'All' || selectedTags.length > 0 || exploredFilter !== 'all'
 
     // All active filters (for clear all button)
     const hasActiveFilters = searchQuery || selectedCategory !== 'All' || hasMoreFiltersActive
@@ -115,29 +116,11 @@ const ConceptsFilter: React.FC<ConceptsFilterProps> = ({
                 </div>
             </div>
 
-            {/* Category Filter */}
-            <div className='flex flex-wrap gap-2'>
-                {categories.map((category) => (
-                    <button
-                        key={category}
-                        onClick={() => onCategoryChange(category)}
-                        className={cn(
-                            'rounded-full px-4 py-2 text-sm font-medium transition-colors',
-                            selectedCategory === category
-                                ? 'bg-secondary text-white'
-                                : 'bg-primary/5 text-primary/70 hover:bg-primary/10'
-                        )}
-                    >
-                        {category}
-                    </button>
-                ))}
-            </div>
-
             {/* Expandable Filters */}
             <details className='bg-background/30 border-primary/10 rounded-xl border'>
                 <summary className='text-primary/70 hover:text-primary flex cursor-pointer items-center gap-2 px-4 py-3 transition-colors'>
                     <FaFilter className='h-4 w-4' />
-                    <span>More Filters</span>
+                    <span>Filters</span>
                     {hasMoreFiltersActive && (
                         <span className='bg-secondary ml-2 rounded-full px-2 py-0.5 text-xs text-white'>
                             Active
@@ -145,6 +128,26 @@ const ConceptsFilter: React.FC<ConceptsFilterProps> = ({
                     )}
                 </summary>
                 <div className='border-primary/10 space-y-4 border-t p-4'>
+                    {/* Category Filter */}
+                    <div>
+                        <h4 className='text-primary/60 mb-2 text-sm font-medium'>Category</h4>
+                        <div className='flex flex-wrap gap-2'>
+                            {categories.map((category) => (
+                                <button
+                                    key={category}
+                                    onClick={() => onCategoryChange(category)}
+                                    className={cn(
+                                        'rounded-full px-3 py-1.5 text-sm transition-colors',
+                                        selectedCategory === category
+                                            ? 'bg-secondary text-white'
+                                            : 'bg-primary/5 text-primary/60 hover:bg-primary/10'
+                                    )}
+                                >
+                                    {category}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
                     {/* Explored Filter */}
                     <div>
                         <div className='mb-2 flex items-center justify-between'>
