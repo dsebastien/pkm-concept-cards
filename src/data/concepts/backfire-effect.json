@@ -1,0 +1,38 @@
+{
+    "id": "backfire-effect",
+    "name": "Backfire Effect",
+    "summary": "The phenomenon where correcting misinformation can paradoxically strengthen the original false belief.",
+    "explanation": "The Backfire Effect describes situations where presenting evidence against a strongly held belief causes people to hold that belief even more firmly. When our core beliefs are challenged, especially those tied to our identity or worldview, we may experience the correction as an attack and respond by doubling down on the original position. This effect was identified through research showing that factual corrections sometimes increase misperceptions among certain groups.\n\nThis effect is particularly pronounced when beliefs are tied to political identity, religious convictions, or other deeply held values. The psychological mechanism appears to involve the brain treating threats to our belief systems similar to physical threats, triggering defensive responses. Rather than updating our mental models with new information, we may selectively remember, reinterpret, or dismiss the correction to maintain cognitive consistency.\n\nHowever, it's worth noting that subsequent research has shown the backfire effect is not as universal as initially thought and may be limited to specific circumstances. Nonetheless, understanding this potential reaction is crucial for anyone trying to communicate accurate information effectively. Strategies to minimize backfire include affirming the person's values before presenting corrections, avoiding confrontational framing, and providing alternative explanations rather than simply debunking false beliefs.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "misinformation",
+        "belief-change",
+        "communication"
+    ],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Boomerang effect"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "belief-system-defenses",
+        "cognitive-dissonance",
+        "belief-in-belief"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Backfire effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Backfire_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

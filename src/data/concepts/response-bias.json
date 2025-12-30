@@ -1,0 +1,22 @@
+{
+    "id": "response-bias",
+    "name": "Response Bias",
+    "summary": "The tendency to respond to questions or surveys in ways that are influenced by factors other than the actual content being asked about.",
+    "explanation": "Response bias refers to a range of cognitive biases that affect how people respond to questions, particularly in surveys, questionnaires, and research studies. Rather than answering based solely on their true opinions or experiences, respondents may be influenced by factors such as social desirability, question wording, question order, or their own cognitive shortcuts. This can significantly distort data and lead to inaccurate conclusions in research and decision-making.\n\nCommon forms of response bias include acquiescence bias (tendency to agree with statements regardless of content), social desirability bias (answering in ways perceived as socially acceptable), extreme responding (consistently choosing extreme options), and central tendency bias (avoiding extreme responses). These biases can be triggered by the desire to please researchers, maintain a positive self-image, or simply reduce cognitive effort when answering questions.\n\nUnderstanding and mitigating response bias is crucial for researchers, marketers, and organizations that rely on survey data. Strategies include using balanced question wording, randomizing question order, including attention checks, ensuring anonymity to reduce social desirability pressure, and using behavioral measures alongside self-reports. Recognizing that people's stated preferences may differ from their actual behaviors is essential for interpreting any data collected through direct questioning.",
+    "tags": ["cognitive-biases", "psychology", "research", "surveys", "methodology"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Survey Bias", "Respondent Bias"],
+    "relatedConcepts": ["social-desirability-bias", "selection-bias", "confirmation-bias"],
+    "relatedNotes": [],
+    "references": [
+        {
+            "title": "Response bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Response_bias",
+            "type": "website"
+        }
+    ],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

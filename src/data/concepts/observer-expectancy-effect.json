@@ -1,0 +1,41 @@
+{
+    "id": "observer-expectancy-effect",
+    "name": "Observer-Expectancy Effect",
+    "summary": "A cognitive bias where a researcher's expectations unconsciously influence the participants or outcomes of an experiment.",
+    "explanation": "The Observer-Expectancy Effect, also known as the experimenter effect, occurs when researchers' cognitive biases cause them to unconsciously influence participants in an experiment. This can happen through subtle cues in body language, tone of voice, or the way questions are phrased. Even well-intentioned researchers can inadvertently communicate their expectations to subjects, who may then alter their behavior to match those expectations.\n\nThis effect is particularly problematic in psychological and social science research, but it can affect any field involving human interaction. A famous example is the case of Clever Hans, a horse that appeared to perform arithmetic but was actually responding to subtle cues from his trainer. In medical research, this effect is one reason why double-blind studies are considered the gold standard, as neither the participants nor the researchers know who receives the treatment versus placebo.\n\nTo mitigate the observer-expectancy effect, researchers employ various methodological safeguards including blind and double-blind experimental designs, standardized protocols, automated data collection, and having different people administer treatments versus measure outcomes. Understanding this bias is crucial not only for research but also for everyday situations like job interviews, teaching, and management, where our expectations of others can unconsciously influence their performance.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "research",
+        "science",
+        "decision-making"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Experimenter Effect",
+        "Experimenter Bias",
+        "Observer Effect",
+        "Expectancy Effect"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "pygmalion-effect",
+        "self-fulfilling-prophecy",
+        "selection-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Observer-expectancy Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Observer-expectancy_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

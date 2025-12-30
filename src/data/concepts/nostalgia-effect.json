@@ -1,0 +1,44 @@
+{
+    "id": "nostalgia-effect",
+    "name": "Nostalgia Effect",
+    "summary": "The tendency to prefer past choices, experiences, or products based on nostalgic feelings rather than objective evaluation.",
+    "explanation": "The Nostalgia Effect is a cognitive bias where people show preference for things from their past due to nostalgic feelings rather than their actual quality or utility. This bias causes individuals to remember past experiences, products, and choices more favorably than they actually were, leading to irrational preferences in current decision-making. The warm emotional glow associated with memories can override objective assessment of present alternatives.\n\nThis effect is widely exploited in marketing, where companies leverage nostalgic imagery, packaging, or references to appeal to consumers' fond memories. People often believe music from their youth was better, products from their childhood were of higher quality, or that \"things were better back then.\" These feelings persist even when objective evidence suggests that modern alternatives may be superior in many measurable ways.\n\nUnderstanding the nostalgia effect helps in making more rational decisions by separating genuine quality assessments from emotional attachments to the past. While nostalgia can provide psychological benefits like increased social connectedness and improved mood, it becomes problematic when it prevents us from adopting better solutions or appreciating current opportunities. Critical evaluation of whether past preferences are based on actual merit or simply emotional attachment can lead to better choices.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "emotions",
+        "memory"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Rosy Retrospection",
+        "Nostalgia Bias"
+    ],
+    "relatedConcepts": [
+        "status-quo-bias",
+        "endowment-effect",
+        "mere-exposure-effect",
+        "hindsight-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Rosy Retrospection - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rosy_retrospection",
+            "type": "website"
+        },
+        {
+            "title": "Nostalgia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nostalgia",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

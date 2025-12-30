@@ -1,0 +1,44 @@
+{
+    "id": "less-is-better-effect",
+    "name": "Less-is-Better Effect",
+    "summary": "The tendency to prefer a smaller, complete set over a larger set that includes inferior items when evaluating options separately.",
+    "explanation": "The less-is-better effect is a cognitive bias where people prefer a smaller quantity or set over a larger one when evaluating options individually, even though the larger option is objectively better. This counterintuitive phenomenon occurs because we tend to evaluate things based on how well they meet expectations for their category rather than on absolute measures. When a set contains low-quality items, they drag down our overall impression, even if the set also contains more high-quality items than a smaller comparison set.\n\nClassic experiments by Christopher Hsee demonstrated this effect vividly. Participants valued a set of 24 dinnerware pieces in perfect condition more highly than a set of 40 pieces that included some broken ones, even though the larger set contained more usable pieces. Similarly, a small cup overfilled with ice cream was valued more than a larger cup with the same amount of ice cream that looked underfilled. When presented with just one option, we use reference points like 'full' or 'complete' rather than absolute quantities.\n\nThis bias has significant implications for how we present and evaluate options. In separate evaluations, quality often matters more than quantity. A resume with fewer but more impressive achievements may be more persuasive than one padded with minor accomplishments. Understanding this effect helps in marketing, negotiation, and personal decision-making - sometimes less truly is perceived as better, and adding more can actually diminish perceived value.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "behavioral-economics",
+        "perceptions"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Less is more effect",
+        "Presenter's paradox"
+    ],
+    "relatedConcepts": [
+        "framing-effect",
+        "anchoring-bias",
+        "peak-end-rule",
+        "decoy-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Predictably Irrational by Dan Ariely",
+            "url": "https://www.amazon.com/dp/0061353248?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Less-is-better effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Less-is-better_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

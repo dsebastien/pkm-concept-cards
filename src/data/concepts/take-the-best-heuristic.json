@@ -1,0 +1,22 @@
+{
+    "id": "take-the-best-heuristic",
+    "name": "Take-the-Best Heuristic",
+    "summary": "A fast and frugal decision-making strategy that bases judgments on only the single most important differentiating cue between options.",
+    "explanation": "The take-the-best heuristic is a simple decision-making strategy from the 'fast and frugal heuristics' research program developed by Gerd Gigerenzer and colleagues. When comparing options, this approach examines cues in order of their validity (predictive power) and makes a decision as soon as a cue discriminates between the options. If the highest-validity cue does not differentiate the options, the next most valid cue is examined, continuing until a discriminating cue is found. The decision favors the option that is positive on that cue.\n\nRemarkably, research has shown that this simple heuristic often performs as well as or better than complex weighted algorithms that consider all available information. This 'less-is-more' effect occurs because in uncertain environments with limited data, using fewer cues reduces the risk of overfitting to noise. The heuristic is ecologically rational, meaning it is well-adapted to environments where cues have varying validity and information search is costly. It reflects how experts often make quick, accurate decisions by focusing on key indicators.\n\nThe take-the-best heuristic challenges the assumption that more information and more computation always lead to better decisions. It demonstrates that under uncertainty, simple strategies can be robust and effective. This has implications for areas ranging from medical diagnosis (where doctors often rely on a few key symptoms) to consumer choice (where people use simple rules rather than exhaustive comparison). Understanding when this heuristic is appropriate can help design better decision aids and appreciate the wisdom in intuitive judgment.",
+    "tags": ["cognitive-biases", "decision-making", "psychology", "heuristics", "rationality"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["TTB Heuristic", "One-Reason Decision Making"],
+    "relatedConcepts": ["fast-and-frugal-heuristics", "recognition-heuristic", "satisficing", "bounded-rationality"],
+    "relatedNotes": [],
+    "references": [
+        {
+            "title": "Take-the-best heuristic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Take-the-best_heuristic",
+            "type": "website"
+        }
+    ],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

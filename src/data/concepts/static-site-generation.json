@@ -30,6 +30,11 @@
     ],
     "references": [
         {
+            "title": "Static site generator - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Static_site_generator",
+            "type": "website"
+        },
+        {
             "title": "Dev Concepts",
             "url": "https://dev-concepts.dev",
             "type": "other"

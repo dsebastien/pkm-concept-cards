@@ -1,0 +1,39 @@
+{
+    "id": "primacy-effect",
+    "name": "Primacy Effect",
+    "summary": "The cognitive tendency to better remember and give more weight to information presented at the beginning of a sequence.",
+    "explanation": "The Primacy Effect is a cognitive bias where items, information, or impressions encountered first in a sequence are more easily recalled and carry more influence than those presented later. This effect is a component of the serial position effect, which also includes the recency effect for items at the end of a list. The primacy effect occurs because early items receive more attention and rehearsal time, allowing them to be transferred more effectively to long-term memory.\n\nThis bias has significant implications across many domains. In hiring, first impressions formed early in an interview often disproportionately influence final decisions. In presentations, opening points tend to be remembered better than middle content. In legal settings, evidence presented first may have an outsized impact on jury perceptions. Marketers leverage this effect by placing key messages at the beginning of advertisements, and teachers know that crucial concepts should be introduced at the start of lessons.\n\nUnderstanding the primacy effect can help both in communicating effectively and in making more balanced judgments. When presenting information, placing the most important points first maximizes their impact. When receiving information, being aware of this bias can prompt more careful evaluation of all data points rather than over-weighting initial information. Taking notes throughout a presentation or deliberately reviewing middle-section material can help counteract the natural tendency to remember beginnings best.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "memory",
+        "decision-making",
+        "communication"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "First Impression Bias",
+        "Serial Position Effect"
+    ],
+    "relatedConcepts": [
+        "recency-bias",
+        "anchoring-bias",
+        "halo-effect",
+        "first-impressions"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Serial Position Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Serial-position_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

@@ -1,0 +1,19 @@
+{
+    "id": "system-justification",
+    "name": "System Justification",
+    "summary": "The tendency to defend and bolster the status quo and existing social arrangements.",
+    "explanation": "System Justification is a psychological tendency to defend, bolster, and rationalize existing social, economic, and political arrangements, even when they may be disadvantageous to oneself or ones group. This includes defending the current system as fair, legitimate, and desirable while dismissing or minimizing evidence of its flaws. System justification helps explain why disadvantaged groups sometimes support policies and ideologies that work against their own interests.\\n\\nDeveloped by psychologists John Jost and Mahzarin Banaji, system justification theory proposes that people are motivated to see the systems they live under as fair and legitimate. This motivation can operate independently of and sometimes conflict with ego justification (defending oneself) and group justification (defending ones group). The theory helps explain phenomena like the endorsement of stereotypes by disadvantaged groups and resistance to social change even among those who would benefit from it.\\n\\nSystem justification has important implications for understanding political attitudes, resistance to reform, and the persistence of inequality. People high in system justification tend to oppose policies that would reduce inequality and are more likely to rationalize existing disparities as natural or deserved. Awareness of this bias can help in evaluating whether support for the status quo reflects genuine preference or defensive rationalization, and in understanding the psychological barriers to social change.",
+    "tags": ["cognitive-biases", "psychology", "social-psychology", "politics", "beliefs"],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["System Justification Bias", "Status Quo Rationalization"],
+    "relatedConcepts": ["status-quo-bias", "just-world-hypothesis", "confirmation-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [{"title": "A Theory of System Justification by John Jost", "url": "https://www.amazon.com/dp/0674244680?tag=dsebastien00-20"}],
+    "references": [{"title": "System justification - Wikipedia", "url": "https://en.wikipedia.org/wiki/System_justification", "type": "website"}],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

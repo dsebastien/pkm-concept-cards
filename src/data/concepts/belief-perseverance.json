@@ -1,0 +1,19 @@
+{
+    "id": "belief-perseverance",
+    "name": "Belief Perseverance",
+    "summary": "Maintaining beliefs despite encountering contradictory evidence.",
+    "explanation": "Belief Perseverance is the tendency to maintain ones beliefs even after the evidence supporting those beliefs has been completely discredited. Once people form an opinion or explanation, they resist changing their minds, sometimes even strengthening their original position when confronted with opposing evidence - a phenomenon known as the backfire effect. This bias reflects the human need for cognitive consistency and the discomfort of admitting we were wrong.\\n\\nThe classic demonstration of belief perseverance comes from experiments where participants were given false feedback about their performance on a task, then told the feedback was fabricated. Despite knowing the original information was false, participants self-assessments remained influenced by that discredited feedback. This shows how initial beliefs create a framework that persists even when its foundation is removed. People generate supporting reasons and memories that outlast the original evidence.\\n\\nBelief perseverance has profound implications for personal growth, education, and public discourse. It helps explain why corrections of misinformation often fail, why first impressions are so sticky, and why changing someones mind through argument alone is difficult. Overcoming this bias requires intellectual humility, actively seeking disconfirming evidence, and practicing the skill of updating beliefs. In knowledge management, documenting the reasoning behind beliefs helps identify when foundational evidence changes.",
+    "tags": ["cognitive-biases", "cognition", "psychology", "thinking", "beliefs"],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Backfire Effect", "Belief Persistence", "Conceptual Conservatism"],
+    "relatedConcepts": ["confirmation-bias", "cognitive-dissonance", "belief-system-defenses", "belief-in-belief"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [{"title": "Mistakes Were Made (But Not by Me) by Carol Tavris and Elliot Aronson", "url": "https://www.amazon.com/dp/0544574788?tag=dsebastien00-20"}],
+    "references": [{"title": "Belief perseverance - Wikipedia", "url": "https://en.wikipedia.org/wiki/Belief_perseverance", "type": "website"}],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

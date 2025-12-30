@@ -1,0 +1,37 @@
+{
+    "id": "distinction-bias",
+    "name": "Distinction Bias",
+    "summary": "The tendency to view options as more dissimilar when evaluating them simultaneously than when evaluating them separately.",
+    "explanation": "Distinction Bias occurs when people evaluate two or more options side by side and perceive greater differences between them than they would if evaluating each option independently. In joint evaluation mode, we focus intensely on the contrasts between alternatives, often magnifying small differences that would be imperceptible or irrelevant in actual experience. This can lead to choices that don't maximize our actual well-being.\n\nThis bias significantly impacts consumer decisions and life choices. For example, when comparing two job offers side by side, a $5,000 salary difference might seem crucial. However, once you're actually living with either salary, that difference may have minimal impact on day-to-day happiness. Similarly, when shopping for products, we might pay premiums for features that seem important in comparison but go unnoticed in actual use.\n\nResearchers Christopher Hsee and Jiao Zhang identified distinction bias as a key factor in mispredicting future satisfaction. To counter this bias, consider evaluating options one at a time (separate evaluation), focusing on absolute rather than relative attributes, and asking yourself whether the distinguishing features will matter in your daily experience with the chosen option.",
+    "tags": [
+        "cognitive-biases",
+        "decision-making",
+        "psychology",
+        "consumer-behavior",
+        "evaluation"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Comparison bias"
+    ],
+    "relatedConcepts": [
+        "framing-effect",
+        "decoy-effect",
+        "anchoring-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Distinction bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Distinction_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

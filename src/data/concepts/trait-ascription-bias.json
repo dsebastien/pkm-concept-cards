@@ -1,0 +1,39 @@
+{
+    "id": "trait-ascription-bias",
+    "name": "Trait Ascription Bias",
+    "summary": "Cognitive bias where people view themselves as more variable in behavior and personality than others, whom they see as more predictable.",
+    "explanation": "Trait Ascription Bias is a cognitive bias in which people perceive their own behavior and personality as highly variable and context-dependent while viewing others as having more fixed, predictable traits. When we think about ourselves, we recognize that our behavior varies significantly depending on the situation: we might be outgoing at a party but reserved at work, confident in familiar domains but anxious in new ones. However, when we observe others, we tend to see their behavior as reflecting stable personality traits rather than situational responses.\n\nThis asymmetry arises from differences in the information available to us about ourselves versus others. We have access to the full range of our own behavioral variations across many situations, while our observations of others are typically limited to specific contexts. Additionally, we experience our own internal states and can attribute our behavior to circumstances, whereas with others, we mainly observe external behavior without the same insight into their situational pressures. This bias is related to the fundamental attribution error but specifically concerns perceptions of variability.\n\nUnderstanding trait ascription bias has important implications for interpersonal relationships, hiring decisions, and self-understanding. It can lead us to unfairly judge others as having character flaws when their behavior might be situationally driven, just as our own behavior often is. In professional settings, it may cause us to write off colleagues based on limited observations. Recognizing this bias encourages greater empathy and the consideration that others, like ourselves, are complex individuals whose behavior varies with context rather than simple characters defined by fixed traits.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "social-psychology",
+        "relationships"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Actor-Observer Asymmetry",
+        "Trait Attribution Bias"
+    ],
+    "relatedConcepts": [
+        "fundamental-attribution-error",
+        "self-serving-bias",
+        "spotlight-effect",
+        "in-group-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Trait Ascription Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Trait_ascription_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

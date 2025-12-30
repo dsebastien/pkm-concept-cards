@@ -1,0 +1,22 @@
+{
+    "id": "reactive-devaluation",
+    "name": "Reactive Devaluation",
+    "summary": "The tendency to devalue proposals, ideas, or concessions simply because they originate from an adversary or someone perceived as having opposing interests.",
+    "explanation": "Reactive devaluation is a cognitive bias that causes people to dismiss or undervalue offers, proposals, or information when they come from a perceived adversary, competitor, or opposing party. This bias operates independently of the actual merit or content of the proposal. Even objectively beneficial offers may be rejected or viewed with suspicion simply because of their source, leading to missed opportunities and prolonged conflicts.\n\nThis bias is particularly prevalent in negotiations, political discourse, and interpersonal conflicts. Research by Lee Ross and colleagues demonstrated that the same peace proposal was rated significantly less favorably when attributed to the opposing side in a conflict. The bias stems from our tendency to assume that adversaries act in their own self-interest, leading us to conclude that any proposal they make must somehow benefit them at our expense.\n\nRecognizing reactive devaluation is crucial for effective negotiation and conflict resolution. Strategies to overcome it include evaluating proposals on their merits before learning their source, using neutral mediators, and consciously separating the message from the messenger. In organizational settings, this bias can impede collaboration between competing departments or teams, making it important to foster a culture that evaluates ideas objectively regardless of their origin.",
+    "tags": ["cognitive-biases", "decision-making", "psychology", "negotiations", "conflicts"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Source Devaluation"],
+    "relatedConcepts": ["confirmation-bias", "in-group-bias", "fundamental-attribution-error"],
+    "relatedNotes": [],
+    "references": [
+        {
+            "title": "Reactive devaluation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Reactive_devaluation",
+            "type": "website"
+        }
+    ],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

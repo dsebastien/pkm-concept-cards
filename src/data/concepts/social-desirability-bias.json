@@ -1,0 +1,38 @@
+{
+    "id": "social-desirability-bias",
+    "name": "Social Desirability Bias",
+    "summary": "Tendency to give responses that are socially acceptable or viewed favorably by others, rather than truthful answers.",
+    "explanation": "Social Desirability Bias is the tendency for people to respond to questions in ways that will be viewed favorably by others, rather than answering truthfully. This bias leads individuals to over-report good behavior and under-report bad behavior, particularly on sensitive topics such as income, drug use, sexual behavior, voting, charitable giving, and personal health habits. The bias operates both consciously, when people deliberately misrepresent themselves, and unconsciously, when people genuinely believe their inflated self-reports.\n\nThis bias poses significant challenges for research that relies on self-reported data. Survey responses about socially sensitive topics are often skewed in predictable directions, with people claiming to vote more often, exercise more, drink less, and hold more socially acceptable attitudes than they actually do. Researchers employ various techniques to mitigate this bias, including ensuring anonymity, using indirect questioning techniques, employing bogus pipeline methods where participants believe their true responses can be detected, and using behavioral measures rather than self-reports when possible.\n\nUnderstanding social desirability bias is important for interpreting research findings, designing surveys, and understanding human behavior more generally. In professional contexts, this bias affects job interviews, performance evaluations, and organizational surveys. In personal relationships, it influences how people present themselves and can create gaps between public personas and private realities. Awareness of this bias can promote more honest self-reflection and healthier skepticism about self-reported claims.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "research",
+        "communication"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Social Desirability Effect",
+        "Impression Management Bias"
+    ],
+    "relatedConcepts": [
+        "self-serving-bias",
+        "spotlight-effect",
+        "confirmation-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Social Desirability Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Social-desirability_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

@@ -1,0 +1,37 @@
+{
+    "id": "illusion-of-transparency",
+    "name": "Illusion of Transparency",
+    "summary": "The tendency to overestimate how well our internal mental states, emotions, and thoughts are apparent to others.",
+    "explanation": "The Illusion of Transparency is a cognitive bias where people believe their internal states - emotions, thoughts, and intentions - are more visible to others than they actually are. When we feel nervous during a presentation, we assume the audience can clearly see our anxiety. When we're harboring a secret, we feel certain others can read it on our face. In reality, our internal experiences are far less transparent to observers than we intuitively believe.\n\nThis illusion occurs because we are intimately aware of our own mental states and have difficulty adjusting for the fact that others don't have access to this information. We use our own knowledge as an anchor and insufficiently discount it when predicting what others perceive. Research by Thomas Gilovich, Victoria Medvec, and Kenneth Savitsky has demonstrated this effect across many contexts, from detecting liars to perceiving speakers' nervousness.\n\nThe illusion of transparency has important practical implications. In communication, it leads us to believe we've conveyed information more clearly than we have, since our intended meaning feels obvious to us. In social situations, it causes unnecessary anxiety - the nervousness we think everyone notices is often invisible to them. Understanding this bias can reduce social anxiety (others aren't scrutinizing you as much as you think), improve communication (don't assume others understand your implicit meaning), and encourage more explicit expression of thoughts and feelings.",
+    "tags": [
+        "cognitive-biases",
+        "social-psychology",
+        "communication",
+        "psychology",
+        "self-perception"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Transparency illusion"
+    ],
+    "relatedConcepts": [
+        "spotlight-effect",
+        "curse-of-knowledge",
+        "false-consensus-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Illusion of transparency - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Illusion_of_transparency",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

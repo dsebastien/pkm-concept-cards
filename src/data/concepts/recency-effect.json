@@ -1,0 +1,22 @@
+{
+    "id": "recency-effect",
+    "name": "Recency Effect",
+    "summary": "The tendency to better remember and give greater weight to the most recently presented items or information in a sequence.",
+    "explanation": "The recency effect is a cognitive phenomenon where people tend to recall items at the end of a list or sequence more accurately than those in the middle. This occurs because recent information is still held in short-term or working memory, making it readily accessible for recall. The effect is particularly strong when recall happens immediately after exposure, as the information has not yet been displaced by new inputs.\n\nThis bias has significant implications across many domains. In hiring, interviewers may disproportionately remember candidates interviewed last. In performance reviews, managers might overweight recent achievements or failures while discounting earlier performance. Investors may base decisions on the most recent market trends rather than long-term patterns. Jurors might be unduly influenced by closing arguments over earlier evidence.\n\nThe recency effect works in conjunction with the primacy effect (better recall of first items) to create the serial position effect. To counteract recency bias, it helps to take notes throughout experiences, review information from the entire period being considered, and implement structured evaluation criteria that weight all relevant time periods appropriately. Understanding this bias is essential for making balanced decisions that account for all available information, not just what was encountered most recently.",
+    "tags": ["cognitive-biases", "decision-making", "psychology", "memory", "learning"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Recency Bias", "End Effect"],
+    "relatedConcepts": ["serial-position-effect", "primacy-effect", "recency-bias", "fighting-recency-bias"],
+    "relatedNotes": [],
+    "references": [
+        {
+            "title": "Serial-position effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Serial-position_effect#Recency_effect",
+            "type": "website"
+        }
+    ],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

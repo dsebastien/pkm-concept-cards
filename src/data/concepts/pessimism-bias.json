@@ -1,0 +1,44 @@
+{
+    "id": "pessimism-bias",
+    "name": "Pessimism Bias",
+    "summary": "The tendency to overestimate the likelihood of negative outcomes and underestimate the probability of positive events.",
+    "explanation": "Pessimism Bias is a cognitive bias that causes people to consistently overestimate the probability of negative outcomes while underestimating positive possibilities. Unlike its counterpart, optimism bias, which leads to unrealistic positive expectations, pessimism bias creates an excessively negative view of future events. This can manifest as expecting projects to fail, anticipating rejection in social situations, or believing that things will generally go wrong.\n\nWhile a degree of caution can be adaptive and help with risk management, excessive pessimism bias can become debilitating. It can lead to missed opportunities when people avoid pursuing goals they believe are destined to fail, or cause unnecessary anxiety and stress from constantly anticipating negative outcomes. Research suggests that pessimism bias may be linked to depression and anxiety disorders, where negative thought patterns become self-reinforcing.\n\nAddressing pessimism bias involves developing more balanced and realistic assessments of probabilities. Cognitive behavioral techniques can help by challenging negative automatic thoughts and examining evidence for and against pessimistic predictions. Keeping track of predictions and their actual outcomes can reveal that negative expectations are often unfounded. While some pessimism serves as useful defensive pessimism for preparation, recognizing when it becomes excessive allows for more rational decision-making and improved well-being.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "thinking",
+        "emotions"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Negative Bias",
+        "Pessimistic Bias"
+    ],
+    "relatedConcepts": [
+        "optimism-bias",
+        "negativity-bias",
+        "catastrophizing",
+        "defensive-pessimism"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Pessimism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pessimism",
+            "type": "website"
+        },
+        {
+            "title": "Depressive Realism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Depressive_realism",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

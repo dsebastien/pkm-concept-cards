@@ -1,0 +1,38 @@
+{
+    "id": "google-effect",
+    "name": "Google Effect",
+    "summary": "The tendency to forget information that can be easily found online, treating the internet as an external memory source.",
+    "explanation": "The Google Effect, also known as digital amnesia, describes the tendency to forget information that is readily accessible through internet search engines. When we know that information can be easily retrieved online, our brains are less likely to encode it into long-term memory. Instead of remembering the facts themselves, we often remember where to find them - essentially treating search engines as an external hard drive for our memories.\n\nThis phenomenon was demonstrated in research by Betsy Sparrow, Jenny Liu, and Daniel Wegner published in 2011. Their experiments showed that people had better recall of information they believed had been erased from a computer than information they believed was saved. When people expect information to remain available, they invest less cognitive effort in remembering it. This represents a form of cognitive offloading - delegating mental work to external tools.\n\nThe implications of the Google Effect are debated. On one hand, it may free up cognitive resources for higher-order thinking rather than rote memorization. On the other hand, there are concerns about dependency on technology, reduced deep learning, and what happens when we can't access the internet. For knowledge workers, this highlights the importance of personal knowledge management systems, active note-taking, and deliberate practice of retrieving and using information rather than simply looking it up.",
+    "tags": [
+        "cognitive-biases",
+        "memory",
+        "technology",
+        "psychology",
+        "knowledge-management"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Digital amnesia",
+        "Internet amnesia"
+    ],
+    "relatedConcepts": [
+        "extended-mind-thesis",
+        "transactive-memory",
+        "cognitive-offloading"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Google effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Google_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

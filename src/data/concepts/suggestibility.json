@@ -1,0 +1,22 @@
+{
+    "id": "suggestibility",
+    "name": "Suggestibility",
+    "summary": "The tendency to accept and incorporate information, ideas, or suggestions from others into one's own memory, beliefs, or behavior.",
+    "explanation": "Suggestibility is the susceptibility of the human mind to influence from external suggestions, leading to changes in perception, memory, or behavior. This cognitive tendency allows misleading information provided after an event to become incorporated into a person's memory of that event, or allows leading questions to shape the answers given. While suggestibility can facilitate learning and social cooperation, it can also lead to distorted memories, false confessions, and manipulation.\n\nResearch by Elizabeth Loftus and others has demonstrated how suggestibility affects eyewitness memory. Subtle changes in question wording (such as asking about 'the' broken headlight versus 'a' broken headlight) can implant false details. Children and the elderly tend to be more suggestible than young adults. Suggestibility is heightened under conditions of stress, uncertainty, perceived authority of the suggester, and repeated exposure to suggestions. Hypnosis does not create memories but can increase suggestibility and confidence in suggested memories.\n\nUnderstanding suggestibility is crucial in legal, clinical, and educational contexts. Interview protocols for eyewitnesses and child witnesses are designed to minimize suggestive influences. Therapists must be careful not to inadvertently suggest memories to clients. Marketing and advertising deliberately exploit suggestibility. Individuals can protect themselves by seeking information from multiple independent sources, being aware of the influence of authority figures, and understanding that confidence in a memory is not a reliable indicator of its accuracy.",
+    "tags": ["cognitive-biases", "psychology", "memory", "influence", "manipulation"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Suggestion Effect", "Interrogative Suggestibility"],
+    "relatedConcepts": ["source-confusion", "misinformation-effect", "social-proof", "authority-bias"],
+    "relatedNotes": [],
+    "references": [
+        {
+            "title": "Suggestibility - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Suggestibility",
+            "type": "website"
+        }
+    ],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

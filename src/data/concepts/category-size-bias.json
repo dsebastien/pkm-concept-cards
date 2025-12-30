@@ -1,0 +1,41 @@
+{
+    "id": "category-size-bias",
+    "name": "Category Size Bias",
+    "summary": "The tendency to believe that outcomes belonging to a larger category are more likely than those in smaller categories.",
+    "explanation": "Category Size Bias is a cognitive tendency where people judge the probability of an event partly based on the size of the category it belongs to, even when category size is irrelevant to the actual probability. We intuitively feel that an outcome is more likely if it could occur in many different ways (large category) rather than few ways (small category), regardless of whether this affects the true probability.\n\nThis bias often manifests in lottery and gambling contexts. For instance, people might feel that winning 'some prize' in a lottery is much more likely than winning a specific prize, even when the overall odds don't support this intuition. Similarly, when estimating the likelihood of events, we may overweight how many ways something could happen rather than focusing on the actual base rates and probabilities involved.\n\nUnderstanding category size bias helps in making more rational probability assessments. When evaluating likelihood, we should focus on actual frequencies and base rates rather than being swayed by how we've mentally categorized outcomes. This is particularly important in risk assessment, insurance decisions, medical diagnoses, and any situation where accurate probability estimation matters. The bias relates to how our brains use heuristics that served us well evolutionarily but can mislead us in modern probabilistic reasoning.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "probability",
+        "decision-making",
+        "reasoning"
+    ],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "base-rate-neglect",
+        "gambler-fallacy",
+        "representativeness-heuristic",
+        "clustering-illusion"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Category size bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Category_size_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

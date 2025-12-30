@@ -1,0 +1,40 @@
+{
+    "id": "look-elsewhere-effect",
+    "name": "Look-Elsewhere Effect",
+    "summary": "Statistical phenomenon where random fluctuations appear significant when examining many possibilities or locations in data.",
+    "explanation": "The Look-Elsewhere Effect is a statistical phenomenon that occurs when searching through large datasets or testing multiple hypotheses simultaneously. When you look in enough places, random statistical fluctuations will inevitably produce results that appear significant by conventional standards. A result that seems highly improbable when considered in isolation becomes much more likely when you account for all the other places where similar fluctuations could have occurred but didn't attract attention.\n\nThis effect is particularly important in particle physics, where researchers scan vast amounts of data looking for signals of new particles. A spike in data at a particular energy level might look statistically significant on its own, but when accounting for all the energy levels that were examined, the probability of finding such a spike somewhere by chance increases dramatically. Physicists address this by requiring much higher significance thresholds (typically five sigma, or about one in 3.5 million chance) before claiming a discovery.\n\nThe look-elsewhere effect has broader implications for scientific research, data analysis, and everyday reasoning. In medical research, testing many potential drug effects increases the chance of false positives. In finance, strategies that appear profitable in backtesting may simply be artifacts of testing many approaches. Understanding this effect promotes appropriate skepticism about findings that emerge from exploratory analysis and emphasizes the importance of pre-registering hypotheses and correcting for multiple comparisons.",
+    "tags": [
+        "cognitive-biases",
+        "statistics",
+        "decision-making",
+        "research",
+        "data-analysis"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Multiple Comparisons Problem",
+        "Data Dredging",
+        "P-Hacking"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "survivorship-bias",
+        "clustering-illusion",
+        "base-rate-neglect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Look-Elsewhere Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Look-elsewhere_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "ambiguity-effect",
+    "name": "Ambiguity Effect",
+    "summary": "The tendency to prefer options with known probabilities over options with unknown probabilities.",
+    "explanation": "The Ambiguity Effect is a cognitive bias where people tend to avoid options for which the probability of a favorable outcome is unknown, even when the known option has worse expected value. This bias was first described by economist Daniel Ellsberg in 1961 through his famous paradox experiment. When faced with choices, people often prefer the certain or known risk over the uncertain one, regardless of whether the uncertain option might actually be better.\n\nThis bias has significant implications for decision-making in business, investing, and everyday life. For example, people might choose a savings account with a guaranteed but low interest rate over a diversified investment portfolio with higher potential returns but unknown probabilities. In medical decisions, patients may prefer well-established treatments over newer ones with potentially better outcomes simply because the newer treatments have less data.\n\nUnderstanding the ambiguity effect helps us recognize when we might be making suboptimal decisions due to discomfort with uncertainty rather than rational analysis. By acknowledging this bias, we can force ourselves to evaluate options more objectively, gathering more information when possible and accepting that some level of uncertainty is inevitable in many important decisions.",
+    "tags": [
+        "cognitive-biases",
+        "decision-making",
+        "psychology",
+        "risk",
+        "uncertainty"
+    ],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Ellsberg paradox"
+    ],
+    "relatedConcepts": [
+        "loss-aversion",
+        "zero-risk-bias",
+        "status-quo-bias",
+        "risk"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Ambiguity effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ambiguity_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

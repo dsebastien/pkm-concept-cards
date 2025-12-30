@@ -1,0 +1,22 @@
+{
+    "id": "regret-aversion",
+    "name": "Regret Aversion",
+    "summary": "The tendency to avoid taking actions that might lead to feelings of regret, even when those actions would be objectively beneficial.",
+    "explanation": "Regret aversion is a cognitive and emotional bias where people make decisions primarily to minimize the potential for future regret rather than to maximize expected outcomes. This leads individuals to favor inaction over action, conventional choices over unconventional ones, and safe options over risky ones, regardless of the actual probabilities and payoffs involved. The anticipated pain of regret becomes a powerful factor that distorts rational decision-making.\n\nThis bias manifests in various ways in everyday life and financial decisions. Investors might hold onto losing stocks too long to avoid the regret of selling at a loss, or they might avoid investing altogether to prevent potential regret from market downturns. Consumers may stick with familiar brands rather than try new products that might disappoint. People often stay in unsatisfying jobs or relationships because the regret of making a change that might not work out feels worse than the certainty of current dissatisfaction.\n\nRegret aversion is closely related to loss aversion and the omission bias, where people feel that negative outcomes from inaction are more acceptable than equivalent negative outcomes from action. To combat this bias, it helps to recognize that inaction is also a choice with potential for regret, to consider the regret of missed opportunities alongside the regret of failures, and to evaluate decisions based on the quality of the decision-making process rather than just outcomes.",
+    "tags": ["cognitive-biases", "decision-making", "psychology", "emotions", "behavioral-economics"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Anticipated Regret", "Regret Avoidance"],
+    "relatedConcepts": ["loss-aversion", "omission-bias", "status-quo-bias", "risk-aversion"],
+    "relatedNotes": [],
+    "references": [
+        {
+            "title": "Regret (decision theory) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Regret_(decision_theory)",
+            "type": "website"
+        }
+    ],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

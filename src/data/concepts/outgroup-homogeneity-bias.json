@@ -1,0 +1,19 @@
+{
+    "id": "outgroup-homogeneity-bias",
+    "name": "Outgroup Homogeneity Bias",
+    "summary": "Perceiving outgroup members as more similar to each other than ingroup members.",
+    "explanation": "Outgroup Homogeneity Bias is the tendency to perceive members of groups to which we do not belong (outgroups) as more similar to each other than members of our own groups (ingroups). While we recognize diversity and individual differences among people in our own groups, we tend to see outsiders as a more uniform, undifferentiated mass. The common expression they all look alike to me captures this bias, though it extends far beyond physical appearance to include personalities, opinions, and behaviors.\\n\\nThis bias arises partly from differential exposure and processing. We typically have more contact with and information about ingroup members, allowing us to appreciate their individual differences. Outgroup members are encountered less frequently, and our interactions with them may be more superficial or structured around their group membership rather than their individual characteristics. Additionally, we are motivated to see our own group as diverse and complex while simplifying the outgroup.\\n\\nOutgroup homogeneity bias contributes to stereotyping, prejudice, and intergroup conflict. When we see an outgroup as homogeneous, we are more likely to apply stereotypes uniformly and to judge individuals based on group membership rather than personal qualities. Combating this bias requires deliberate exposure to outgroup members as individuals, seeking varied examples rather than relying on limited contact, and actively noting the diversity within groups we might otherwise simplify.",
+    "tags": ["cognitive-biases", "psychology", "social-psychology", "stereotypes", "groups"],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Out-Group Homogeneity Effect", "They All Look Alike Bias"],
+    "relatedConcepts": ["in-group-bias", "fundamental-attribution-error", "confirmation-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [{"title": "Social Psychology by Elliot Aronson", "url": "https://www.amazon.com/dp/0134641280?tag=dsebastien00-20"}],
+    "references": [{"title": "Out-group homogeneity - Wikipedia", "url": "https://en.wikipedia.org/wiki/Out-group_homogeneity", "type": "website"}],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

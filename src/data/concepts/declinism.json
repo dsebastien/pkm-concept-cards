@@ -1,0 +1,19 @@
+{
+    "id": "declinism",
+    "name": "Declinism",
+    "summary": "The belief that society or institutions are in decline compared to the past.",
+    "explanation": "Declinism is a cognitive bias characterized by the belief that society, culture, or institutions are in a state of decline compared to some earlier golden age. People tend to remember the past more positively than it actually was (rosy retrospection) while viewing the present and future more negatively. This creates a persistent sense that things are getting worse, even when objective measures suggest improvement in many domains.\\n\\nThis bias has deep psychological roots. The human brain is wired to pay more attention to negative information as a survival mechanism, making current problems feel more salient than past ones that have faded from memory. Additionally, nostalgia for youth and the tendency to compare an idealized remembered past with an imperfect present contribute to declinist thinking. Each generation tends to believe that manners, values, and quality of life have deteriorated since their formative years.\\n\\nDeclinism has significant implications for public discourse and policy. It can fuel political movements based on restoring a mythologized past rather than addressing present realities. It can lead to pessimism that undermines motivation for constructive action. Countering this bias requires examining historical data objectively, acknowledging both real problems and genuine progress, and recognizing that every era has faced its own challenges while also achieving advances that subsequent generations take for granted.",
+    "tags": ["cognitive-biases", "psychology", "nostalgia", "history", "perceptions"],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Declinist Bias", "Golden Age Thinking"],
+    "relatedConcepts": ["rosy-retrospection", "negativity-bias", "status-quo-bias"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [{"title": "Factfulness by Hans Rosling", "url": "https://www.amazon.com/dp/1250107814?tag=dsebastien00-20"}],
+    "references": [{"title": "Declinism - Wikipedia", "url": "https://en.wikipedia.org/wiki/Declinism", "type": "website"}],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "benjamin-franklin-effect",
+    "name": "Benjamin Franklin Effect",
+    "summary": "The psychological phenomenon where doing someone a favor makes you more likely to like them and help them again.",
+    "explanation": "The Benjamin Franklin Effect is a cognitive bias where a person who has performed a favor for someone is more likely to do another favor for that person than if they had received a favor from them. This counterintuitive effect is named after Benjamin Franklin, who wrote in his autobiography about winning over a rival legislator by asking to borrow a rare book, after which the rival became much more friendly.\n\nThe effect is explained through cognitive dissonance theory. When we do a favor for someone, our minds seek to justify this behavior. Since we typically help people we like, we unconsciously rationalize that we must like this person to have helped them. This mental adjustment reduces the dissonance between our actions (helping someone) and our attitudes (our feelings toward them). The reverse is also true: harming someone can lead us to view them more negatively to justify our actions.\n\nThis effect has practical applications in building relationships and social influence. Rather than trying to win people over by doing favors for them, asking for small favors can be more effective. This approach works in professional networking, conflict resolution, and personal relationships. However, it should be used ethically and authentically, as manipulative use can damage trust when discovered.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "relationships",
+        "social-psychology",
+        "persuasion"
+    ],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Ben Franklin effect"
+    ],
+    "relatedConcepts": [
+        "cognitive-dissonance",
+        "reciprocity-bias",
+        "effort-justification",
+        "social-proof"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Influence: The Psychology of Persuasion by Robert Cialdini",
+            "url": "https://www.amazon.com/dp/006124189X?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Ben Franklin effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

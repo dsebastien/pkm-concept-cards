@@ -1,0 +1,39 @@
+{
+    "id": "ostrich-effect",
+    "name": "Ostrich Effect",
+    "summary": "The tendency to avoid or ignore negative information, hoping that it will go away if not acknowledged.",
+    "explanation": "The Ostrich Effect is a cognitive bias named after the myth that ostriches bury their heads in the sand when faced with danger. In reality, this bias describes the human tendency to avoid negative information, particularly regarding finances, health, or other uncomfortable topics. People affected by this bias will actively avoid checking bank statements when they fear they're overspending, skip medical check-ups to avoid bad news, or ignore warning signs in relationships and work situations.\n\nThis avoidance behavior is driven by the emotional discomfort associated with confronting potentially negative information. Research has shown that investors are less likely to check their portfolio values during market downturns, and people often delay opening bills they expect to be high. While this avoidance provides temporary emotional relief, it typically makes problems worse over time by preventing early intervention when issues are still manageable.\n\nOvercoming the ostrich effect requires recognizing that information itself is neutral and that avoiding it doesn't change the underlying reality. Strategies include setting regular check-in times for reviewing potentially uncomfortable information, having an accountability partner, and reframing information gathering as empowering rather than threatening. Understanding that early awareness of problems usually leads to better outcomes can help motivate people to confront difficult truths proactively.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "avoidance",
+        "emotions"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Information Avoidance",
+        "Head in the Sand"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "negativity-bias",
+        "optimism-bias",
+        "status-quo-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Ostrich Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ostrich_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

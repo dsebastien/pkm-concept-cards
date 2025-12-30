@@ -1,0 +1,39 @@
+{
+    "id": "false-consensus-effect",
+    "name": "False Consensus Effect",
+    "summary": "The tendency to overestimate the extent to which others share our beliefs, values, and behaviors.",
+    "explanation": "The False Consensus Effect is a cognitive bias where people tend to assume that their own opinions, preferences, values, and behaviors are more common and widely shared than they actually are. We project our own way of thinking onto others, believing that a 'reasonable person' would naturally come to the same conclusions we do. This creates a distorted view of how typical or normal our perspectives truly are.\n\nThis bias stems from several psychological mechanisms. We tend to associate with like-minded people, which reinforces the illusion that most people think like us. Our own beliefs feel logical and well-reasoned, making it hard to imagine others reaching different conclusions. Additionally, we use ourselves as an anchor when estimating others' opinions, with insufficient adjustment for genuine diversity of thought.\n\nThe false consensus effect has important implications for decision-making, communication, and conflict resolution. Leaders may underestimate resistance to changes they personally support. Marketers may misjudge product appeal based on their own preferences. In debates, people may be genuinely surprised that others don't see 'obvious' truths. Recognizing this bias encourages actively seeking diverse perspectives, conducting proper research before assuming widespread agreement, and approaching disagreements with curiosity rather than incredulity.",
+    "tags": [
+        "cognitive-biases",
+        "social-psychology",
+        "decision-making",
+        "psychology",
+        "communication"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "False consensus bias",
+        "Consensus bias"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "spotlight-effect",
+        "naive-realism",
+        "extrinsic-incentive-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "False consensus effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/False_consensus_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

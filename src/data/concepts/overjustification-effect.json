@@ -1,0 +1,44 @@
+{
+    "id": "overjustification-effect",
+    "name": "Overjustification Effect",
+    "summary": "The phenomenon where external rewards decrease intrinsic motivation to perform an activity that was previously enjoyed for its own sake.",
+    "explanation": "The Overjustification Effect occurs when an external incentive such as money, prizes, or grades decreases a person's intrinsic motivation to perform a task. When people are rewarded for doing something they already enjoy, they may start to attribute their behavior to the external reward rather than their genuine interest, leading to reduced motivation when the reward is removed. This counterintuitive effect has significant implications for education, parenting, and workplace management.\n\nClassic research by psychologists Mark Lepper and colleagues demonstrated this effect with children who enjoyed drawing. Children who were promised and given a reward for drawing subsequently showed less interest in drawing during free play compared to those who received no reward or an unexpected reward. The promised reward appeared to shift their perception from \"I draw because I enjoy it\" to \"I draw to get rewards,\" undermining their intrinsic motivation.\n\nUnderstanding the overjustification effect is crucial for designing effective incentive systems. It suggests that external rewards should be used carefully, particularly for creative tasks or activities that people find inherently enjoyable. Alternatives include providing unexpected rewards, using verbal praise instead of tangible rewards, or focusing on rewards that enhance competence and autonomy rather than control behavior. The effect highlights the importance of preserving and nurturing intrinsic motivation rather than relying solely on extrinsic incentives.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "motivation",
+        "incentives",
+        "decision-making"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Undermining Effect",
+        "Corruption Effect"
+    ],
+    "relatedConcepts": [
+        "intrinsic-motivation",
+        "extrinsic-motivation",
+        "self-determination-theory",
+        "autonomy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink",
+            "url": "https://www.amazon.com/dp/1594484805?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Overjustification Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Overjustification_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

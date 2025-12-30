@@ -1,0 +1,45 @@
+{
+    "id": "projection-bias",
+    "name": "Projection Bias",
+    "summary": "The tendency to assume that others share our current preferences, beliefs, and mental states, or that our future selves will have the same preferences as our present selves.",
+    "explanation": "Projection Bias is a cognitive bias where people assume that others think, feel, and believe as they do, or that their own future preferences will match their current ones. This bias leads to systematic errors in predicting both how others will react and how we ourselves will feel in different circumstances. When we're happy, we expect others to be happy and assume our future selves will remain happy; when we're hungry, we overestimate how much food we'll want later.\n\nThis bias has two main manifestations. Social projection involves assuming others share our views, which can lead to false consensus effects and difficulty understanding opposing perspectives. Temporal projection involves assuming our future preferences will match our present ones, which leads to poor decisions about future consumption, commitment, and planning. Shoppers who are hungry buy too much food; people in good moods underestimate how much illness will affect their future quality of life.\n\nRecognizing projection bias can improve decision-making in several ways. When trying to understand or persuade others, actively considering that they may have fundamentally different preferences and viewpoints leads to better outcomes. For personal planning, making decisions in \"cold\" states about \"hot\" state situations (and vice versa) should be done with awareness that current feelings may not represent future reality. Techniques like considering multiple perspectives, seeking feedback from diverse others, and using commitment devices can help counteract the natural tendency to project our current states onto others and our future selves.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "thinking",
+        "social-psychology"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "False Consensus Effect",
+        "Assumed Similarity Bias",
+        "Empathy Gap"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "present-bias",
+        "egocentric-bias",
+        "theory-of-mind"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Projection Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Projection_bias",
+            "type": "website"
+        },
+        {
+            "title": "False Consensus Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/False_consensus_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

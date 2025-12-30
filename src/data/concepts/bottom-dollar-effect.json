@@ -1,0 +1,40 @@
+{
+    "id": "bottom-dollar-effect",
+    "name": "Bottom-Dollar Effect",
+    "summary": "The tendency to experience greater pain and dissatisfaction from purchases that deplete our budget or remaining funds.",
+    "explanation": "The Bottom-Dollar Effect describes how the subjective experience of spending money changes based on how much remains in our budget afterward. When a purchase uses up the last of our available funds, we feel significantly more pain from that spending than if we had made the same purchase with plenty of money to spare. This effect influences both our purchasing decisions and our subsequent satisfaction with what we buy.\n\nResearch has shown that consumers are less satisfied with products purchased with their 'last dollar' compared to identical products purchased earlier in a budget cycle. This dissatisfaction persists even when the objective value of the purchase is the same. The psychological mechanism involves mental accounting - we don't just evaluate purchases on their merits, but also on how they affect our remaining resources and financial security.\n\nUnderstanding this effect has practical implications for personal finance and consumer behavior. It suggests that timing purchases strategically (earlier in a pay cycle when possible), maintaining buffer funds, and being aware of how budget constraints affect our emotional response to spending can lead to better financial decisions and greater satisfaction with purchases. For marketers, it highlights the importance of timing promotional offers and understanding customer financial cycles.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "personal-finance",
+        "consumer-behavior",
+        "decision-making"
+    ],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "loss-aversion",
+        "sunk-cost-fallacy",
+        "endowment-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Predictably Irrational by Dan Ariely",
+            "url": "https://www.amazon.com/dp/0061353248?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Bottom dollar effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bottom_dollar_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

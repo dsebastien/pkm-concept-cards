@@ -1,0 +1,19 @@
+{
+    "id": "just-world-hypothesis",
+    "name": "Just World Hypothesis",
+    "summary": "The belief that people get what they deserve and deserve what they get.",
+    "explanation": "The Just World Hypothesis is a cognitive bias reflecting the belief that the world is fundamentally fair - that good things happen to good people and bad things happen to bad people. This belief leads people to assume that victims must have done something to deserve their misfortune and that successful people must have earned their fortune through merit. While this belief can provide a sense of security and predictability, it often leads to victim blaming and rationalization of inequality.\\n\\nPsychologist Melvin Lerner developed this theory in the 1960s after observing peoples responses to innocent victims. He found that when people could not help a victim, they often derogated them instead, presumably to maintain the belief that the world is just. This tendency serves a defensive function - believing in a just world helps people feel safe and in control. If bad things only happen to those who deserve them, then behaving well should protect us from harm.\\n\\nThe just world hypothesis has significant negative consequences for social attitudes and policy. It contributes to blaming victims of crimes, poverty, illness, and discrimination while exonerating systemic factors and perpetrators. It supports resistance to social programs by implying the poor deserve their situation. Recognizing this bias is essential for developing compassion and supporting more accurate analyses of social problems that account for circumstance, luck, and structural inequality.",
+    "tags": ["cognitive-biases", "psychology", "social-psychology", "beliefs", "morality"],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Just World Fallacy", "Just World Belief"],
+    "relatedConcepts": ["fundamental-attribution-error", "self-serving-bias", "system-justification"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [{"title": "The Belief in a Just World by Melvin Lerner", "url": "https://www.amazon.com/dp/0306402130?tag=dsebastien00-20"}],
+    "references": [{"title": "Just-world hypothesis - Wikipedia", "url": "https://en.wikipedia.org/wiki/Just-world_hypothesis", "type": "website"}],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

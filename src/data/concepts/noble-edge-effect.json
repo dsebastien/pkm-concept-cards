@@ -1,0 +1,39 @@
+{
+    "id": "noble-edge-effect",
+    "name": "Noble Edge Effect",
+    "summary": "Consumer preference bias where people favor companies that demonstrate genuine social responsibility and ethical practices.",
+    "explanation": "The Noble Edge Effect describes the phenomenon where consumers prefer products and companies that demonstrate authentic social responsibility and ethical behavior. When companies engage in prosocial activities such as charitable giving, environmental sustainability, or fair labor practices, consumers perceive their products more favorably and are often willing to pay premium prices. This effect reflects a broader desire to support businesses whose values align with their own and to feel good about their purchasing decisions.\n\nResearch on this effect reveals important nuances about when corporate social responsibility (CSR) benefits companies. The effect is strongest when the social initiatives appear genuine and aligned with the company's core business rather than appearing as superficial marketing ploys. Consumers are adept at detecting inauthentic virtue signaling, and perceived manipulation can backfire, leading to more negative attitudes than if the company had done nothing. Companies that integrate social responsibility into their fundamental operations tend to benefit more than those that treat it as an add-on publicity effort.\n\nThe noble edge effect has significant implications for business strategy and consumer behavior. For companies, it suggests that authentic commitment to social good can create competitive advantages beyond the direct benefits of the initiatives themselves. For consumers, awareness of this effect can prompt reflection on how social responsibility claims influence purchasing decisions and whether those claims are substantiated. The effect also highlights the growing expectation that businesses should contribute positively to society rather than merely avoiding harm.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "behavioral-economics",
+        "marketing",
+        "businesses"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "CSR Effect",
+        "Social Responsibility Bias"
+    ],
+    "relatedConcepts": [
+        "halo-effect",
+        "social-proof",
+        "framing-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "The Noble Edge Effect - Journal of Consumer Research",
+            "url": "https://doi.org/10.1086/677920",
+            "type": "paper"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

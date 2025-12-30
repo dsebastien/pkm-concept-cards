@@ -29,6 +29,11 @@
     "articles": [],
     "references": [
         {
+            "title": "Zero-knowledge proof - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zero-knowledge_proof",
+            "type": "website"
+        },
+        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"

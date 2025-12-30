@@ -1,0 +1,37 @@
+{
+    "id": "extrinsic-incentive-bias",
+    "name": "Extrinsic Incentive Bias",
+    "summary": "The tendency to believe that others are more motivated by external rewards like money and status than they actually are.",
+    "explanation": "Extrinsic Incentive Bias is a cognitive bias where we overestimate how much other people are driven by external incentives such as money, bonuses, promotions, or other tangible rewards, while underestimating their intrinsic motivations like purpose, autonomy, mastery, and meaningful work. We tend to attribute our own behavior to internal values and genuine interest, but assume others are primarily motivated by what's in it for them.\n\nThis bias has significant implications for management and organizational design. When leaders assume employees are primarily motivated by money, they create incentive structures heavy on bonuses and penalties while neglecting factors that research shows actually drive engagement: meaningful work, autonomy, opportunities for growth, and positive relationships. The result is often a self-fulfilling prophecy where extrinsic rewards crowd out intrinsic motivation.\n\nUnderstanding this bias helps in multiple contexts. Managers can design better motivation systems by recognizing the importance of intrinsic factors. Negotiators can avoid focusing solely on monetary terms. And in personal relationships, we can appreciate that people's actions often stem from genuine care rather than ulterior motives. Research by Chip Heath and others demonstrates that this bias persists even among those who should know better, including MBA students and experienced managers.",
+    "tags": [
+        "cognitive-biases",
+        "motivation",
+        "psychology",
+        "management",
+        "decision-making"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Extrinsic incentives bias"
+    ],
+    "relatedConcepts": [
+        "intrinsic-motivation",
+        "false-consensus-effect",
+        "fundamental-attribution-error"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Extrinsic incentives bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Extrinsic_incentives_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

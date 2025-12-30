@@ -1,0 +1,38 @@
+{
+    "id": "disposition-effect",
+    "name": "Disposition Effect",
+    "summary": "The tendency to sell winning investments too early while holding onto losing investments for too long.",
+    "explanation": "The Disposition Effect is a behavioral finance phenomenon where investors are more likely to sell assets that have increased in value while holding onto assets that have declined in value. This asymmetric behavior stems from loss aversion - the psychological pain of realizing a loss is greater than the pleasure of realizing an equivalent gain. Investors prefer to lock in gains quickly to experience the positive feeling of a win, while avoiding the painful admission of a losing position.\n\nThis bias can significantly harm investment performance. By selling winners early, investors miss out on potential continued gains from strong-performing assets. Meanwhile, holding losers ties up capital in underperforming investments and may result in even larger losses. The disposition effect causes investors to essentially do the opposite of the rational strategy of 'letting winners run and cutting losers short.'\n\nThe disposition effect was first identified by Hersh Shefrin and Meir Statman in 1985 and has been consistently observed across individual investors, mutual fund managers, and even professional traders. Awareness of this bias can help investors establish rules-based selling criteria, use stop-loss orders, and evaluate positions based on future potential rather than past purchase prices.",
+    "tags": [
+        "cognitive-biases",
+        "behavioral-finance",
+        "investing",
+        "decision-making",
+        "psychology"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Disposition bias"
+    ],
+    "relatedConcepts": [
+        "loss-aversion",
+        "sunk-cost-fallacy",
+        "endowment-effect",
+        "status-quo-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Disposition effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Disposition_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

@@ -1,0 +1,43 @@
+{
+    "id": "illusion-of-validity",
+    "name": "Illusion of Validity",
+    "summary": "The tendency to be overconfident in predictions based on observed patterns, even when the patterns have limited predictive power.",
+    "explanation": "The Illusion of Validity is a cognitive bias where people place excessive confidence in their predictions and judgments based on the perceived coherence of patterns in data, regardless of whether those patterns actually have predictive validity. When information forms a consistent, compelling story in our minds, we feel certain about our conclusions - even when objective measures show our predictions are no better than chance.\n\nThis illusion was identified by Daniel Kahneman through his experience with military officer candidate assessments. Evaluators felt highly confident in their predictions of candidates' leadership potential based on observed behavior, but follow-up data showed these predictions had virtually no correlation with actual performance. The coherent stories constructed from observations created strong subjective confidence that was completely unwarranted by objective accuracy.\n\nThe illusion of validity is particularly dangerous in fields like stock picking, hiring, and clinical diagnosis where professionals make high-stakes predictions based on pattern recognition. It persists even when people are shown evidence that their predictions don't perform well, because the subjective experience of 'seeing' a pattern is so compelling. To counteract this bias, rely on statistical prediction rules and base rates rather than intuition alone, track actual prediction accuracy over time, and cultivate humility about the limits of pattern-based judgment.",
+    "tags": [
+        "cognitive-biases",
+        "overconfidence",
+        "prediction",
+        "psychology",
+        "decision-making"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Validity illusion"
+    ],
+    "relatedConcepts": [
+        "overconfidence-effect",
+        "narrative-fallacy",
+        "representativeness-heuristic",
+        "confirmation-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Illusion of validity - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Illusion_of_validity",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

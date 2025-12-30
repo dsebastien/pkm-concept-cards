@@ -1,0 +1,37 @@
+{
+    "id": "functional-fixedness",
+    "name": "Functional Fixedness",
+    "summary": "A cognitive limitation that makes it difficult to see objects being used in non-traditional ways beyond their designed purpose.",
+    "explanation": "Functional Fixedness is a cognitive bias that limits a person's ability to use an object only in the way it is traditionally used. When we see a hammer, we think of driving nails; when we see a newspaper, we think of reading. This mental block prevents us from recognizing that objects can serve multiple functions, inhibiting creative problem-solving and innovation.\n\nThis phenomenon was first demonstrated by psychologist Karl Duncker in his famous candle problem experiment. Participants were given a candle, a box of thumbtacks, and matches, and asked to attach the candle to the wall so it could burn without dripping wax on the floor. Most struggled because they saw the box only as a container for tacks, not as a potential shelf. When the tacks were presented outside the box, the solution became more obvious - empty the box, tack it to the wall, and place the candle on it.\n\nOvercoming functional fixedness is crucial for innovation and creative thinking. Techniques include: explicitly listing all possible functions of objects regardless of their intended use, removing labels and categories mentally, asking 'what else could this do?' systematically, and practicing divergent thinking exercises. Many breakthrough inventions have come from seeing new uses for existing objects - from Post-it notes (failed adhesive) to Velcro (inspired by burrs).",
+    "tags": [
+        "cognitive-biases",
+        "creativity",
+        "problem-solving",
+        "psychology",
+        "innovation"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Functional fixation"
+    ],
+    "relatedConcepts": [
+        "einstellung-effect",
+        "lateral-thinking",
+        "first-principles-thinking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Functional fixedness - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Functional_fixedness",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

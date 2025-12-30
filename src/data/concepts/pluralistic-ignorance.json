@@ -1,0 +1,39 @@
+{
+    "id": "pluralistic-ignorance",
+    "name": "Pluralistic Ignorance",
+    "summary": "A social phenomenon where individuals privately disagree with a norm but assume most others accept it, leading to collective conformity to beliefs no one actually holds.",
+    "explanation": "Pluralistic Ignorance is a cognitive bias and social phenomenon where members of a group privately reject a norm, belief, or practice but incorrectly assume that most other group members accept it. This misconception leads individuals to publicly conform to what they believe others think, even though many or most others are doing the same thing. The result is collective adherence to norms that few actually support, maintained by everyone's mistaken beliefs about what others think.\n\nThis phenomenon explains many puzzling social situations. In classroom settings, students may not ask questions because they assume everyone else understands the material, when in fact many are equally confused. In organizations, employees may comply with policies they privately find absurd, assuming others must support them. The \"emperor's new clothes\" fable illustrates this perfectly, where everyone praises the emperor's non-existent garments because they assume others can see them.\n\nPlualistic ignorance can perpetuate harmful norms and prevent positive social change because individuals underestimate how much support exists for challenging the status quo. Breaking this pattern requires someone to speak up and reveal the true distribution of opinions. Understanding this bias encourages individuals to voice their genuine views, potentially discovering that many others share their perspective. Creating psychological safety in groups where people feel comfortable expressing dissent is essential for avoiding the pitfalls of pluralistic ignorance.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "social-psychology",
+        "group-dynamics",
+        "decision-making"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Collective Ignorance",
+        "Social Ignorance"
+    ],
+    "relatedConcepts": [
+        "bandwagon-effect",
+        "groupthink",
+        "conformity-bias",
+        "bystander-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Pluralistic Ignorance - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pluralistic_ignorance",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

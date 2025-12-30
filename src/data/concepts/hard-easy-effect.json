@@ -1,0 +1,38 @@
+{
+    "id": "hard-easy-effect",
+    "name": "Hard-Easy Effect",
+    "summary": "A cognitive bias causing overconfidence in performance on difficult tasks and underconfidence on easy ones.",
+    "explanation": "The Hard-Easy Effect is a cognitive bias in which people tend to be overconfident about their ability to accomplish hard tasks and underconfident about their ability to accomplish easy tasks. When facing a difficult challenge, we often underestimate just how hard it will be and overestimate our chances of success. Conversely, when facing easy tasks, we second-guess ourselves more than warranted, expecting more difficulty than actually exists.\n\nThis bias has been observed across many domains, from academic testing to professional forecasting. For difficult questions on tests, people express higher confidence in their answers than their actual accuracy warrants. For easy questions, they express lower confidence than their accuracy deserves. The effect appears related to regression to the mean in subjective assessments - we anchor on a moderate difficulty level and insufficiently adjust our confidence based on actual task difficulty.\n\nThe hard-easy effect has practical implications for project planning, risk assessment, and self-evaluation. It contributes to the planning fallacy, where people underestimate time and resources needed for complex projects. It can also lead to unnecessary anxiety about straightforward tasks. To counteract this bias, seek objective feedback on past performance, break complex tasks into smaller pieces to better assess difficulty, and use base rates from similar past experiences rather than relying solely on intuition.",
+    "tags": [
+        "cognitive-biases",
+        "overconfidence",
+        "decision-making",
+        "psychology",
+        "calibration"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Difficulty effect",
+        "Hard easy bias"
+    ],
+    "relatedConcepts": [
+        "overconfidence-effect",
+        "planning-fallacy",
+        "dunning-kruger-effect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Hard-easy effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hard%E2%80%93easy_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

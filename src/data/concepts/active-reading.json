@@ -38,6 +38,11 @@
     ],
     "references": [
         {
+            "title": "Active reading - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Active_reading",
+            "type": "website"
+        },
+        {
             "title": "Obsidian Starter Kit",
             "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
             "type": "other"

@@ -1,0 +1,44 @@
+{
+    "id": "impact-bias",
+    "name": "Impact Bias",
+    "summary": "The tendency to overestimate the intensity and duration of future emotional reactions to events.",
+    "explanation": "Impact bias is a cognitive bias in affective forecasting where people consistently overestimate how strongly they will feel about future events and how long those feelings will last. Whether anticipating positive outcomes like winning the lottery or negative ones like losing a job, we tend to predict more extreme and enduring emotional responses than we actually experience. This bias stems from our failure to account for our psychological immune system - our remarkable ability to adapt and return to baseline happiness.\n\nResearch by psychologists Daniel Gilbert and Timothy Wilson has demonstrated this effect across numerous life events. People overestimate how happy a promotion will make them and how devastated they'll feel after a breakup. We also engage in 'focalism' - focusing too narrowly on the event itself while ignoring all the other aspects of life that continue to influence our well-being. A job loss feels catastrophic in anticipation, but in reality, we adapt, find new routines, and our other relationships and activities continue to provide meaning.\n\nUnderstanding impact bias has practical implications for decision-making and well-being. It can help us worry less about potential negative outcomes, knowing we'll adapt better than we expect. It can also prevent us from chasing experiences or possessions that we believe will bring lasting happiness but actually provide only temporary satisfaction. By recognizing this bias, we can make more balanced decisions and maintain equanimity in the face of life's inevitable ups and downs.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "emotions",
+        "well-being"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Affective forecasting error",
+        "Durability bias"
+    ],
+    "relatedConcepts": [
+        "hedonic-adaptation",
+        "optimism-bias",
+        "planning-fallacy",
+        "arrival-fallacy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Stumbling on Happiness by Daniel Gilbert",
+            "url": "https://www.amazon.com/dp/1400077427?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Impact bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Impact_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

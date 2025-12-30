@@ -1,0 +1,39 @@
+{
+    "id": "illusion-of-explanatory-depth",
+    "name": "Illusion of Explanatory Depth",
+    "summary": "Cognitive bias where people believe they understand complex systems and phenomena better than they actually do.",
+    "explanation": "The Illusion of Explanatory Depth (IOED) is a cognitive bias identified by psychologists Leonid Rozenblit and Frank Keil, in which people overestimate their understanding of how things work. When asked to rate their understanding of everyday objects or systems like zippers, toilets, or helicopters, people initially express high confidence. However, when asked to actually explain how these things work step by step, most people discover significant gaps in their knowledge and revise their confidence downward.\n\nThis phenomenon differs from general overconfidence because it specifically concerns explanatory knowledge rather than factual recall or predictions. We maintain an illusion of understanding because we rarely need to articulate complete explanations. We interact with complex systems at a surface level, and this familiarity creates a false sense of deep comprehension. The bias is particularly pronounced for physical and mechanical systems but also applies to understanding political policies, economic systems, and scientific concepts.\n\nRecognizing this bias has important implications for learning, decision-making, and discourse. In education, asking students to generate explanations rather than simply recognize correct answers can reveal true understanding and promote deeper learning. In public debates about complex topics like climate change or economic policy, awareness of IOED suggests we should be more humble about our understanding and more willing to defer to experts. For personal knowledge management, it encourages actually writing out explanations as a way to test and deepen genuine understanding.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "learning",
+        "decision-making",
+        "metacognition"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "IOED",
+        "Illusion of Understanding"
+    ],
+    "relatedConcepts": [
+        "dunning-kruger-effect",
+        "curse-of-knowledge",
+        "confirmation-bias",
+        "metacognition"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Illusion of Explanatory Depth - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

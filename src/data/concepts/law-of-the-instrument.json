@@ -1,0 +1,46 @@
+{
+    "id": "law-of-the-instrument",
+    "name": "Law of the Instrument",
+    "summary": "The tendency to over-rely on familiar tools and approaches, seeing every problem through the lens of one's expertise.",
+    "explanation": "The law of the instrument, often expressed as 'if all you have is a hammer, everything looks like a nail,' describes our tendency to over-apply familiar tools, methods, or frameworks regardless of whether they're the best fit for the situation. This cognitive bias emerges from our comfort with known approaches and the cognitive effort required to learn new ones. When we've invested time mastering a particular skill or tool, we naturally want to apply it widely.\n\nThis bias manifests across all domains. A surgeon may recommend surgery when other treatments might be preferable. A software developer might build a complex application when a simple spreadsheet would suffice. A consultant trained in one methodology might apply it to every client regardless of fit. The bias is amplified by expertise itself - the more skilled we become with a tool, the more problems we can imagine solving with it, even when alternatives would be more appropriate.\n\nOvercoming this bias requires intellectual humility and deliberate consideration of alternatives. Before applying a familiar approach, we should ask: What is the actual problem? What are all the possible solutions? What tool is best suited for this specific situation? Building a broader toolkit - whether through learning, collaboration, or consultation with others who have different expertise - helps ensure we match solutions to problems rather than forcing problems to fit our preferred solutions.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "problem-solving",
+        "expertise"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Maslow's hammer",
+        "Golden hammer",
+        "Hammer and nail bias",
+        "Birmingham screwdriver"
+    ],
+    "relatedConcepts": [
+        "einstellung-effect",
+        "functional-fixedness",
+        "confirmation-bias",
+        "first-principles"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "The Psychology of Science by Abraham Maslow",
+            "url": "https://www.amazon.com/dp/0809500183?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Law of the instrument - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Law_of_the_instrument",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

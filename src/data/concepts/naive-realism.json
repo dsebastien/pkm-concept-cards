@@ -1,0 +1,19 @@
+{
+    "id": "naive-realism",
+    "name": "Naive Realism",
+    "summary": "The belief that we see reality objectively while others are biased.",
+    "explanation": "Naive Realism is a cognitive bias in which people believe that they perceive the world directly and objectively, while those who disagree with them must be uninformed, irrational, or biased. This leads to the conviction that reasonable, unbiased people should reach the same conclusions we do, and that disagreement indicates a flaw in the other persons reasoning or character rather than a legitimate difference in perspective.\\n\\nSocial psychologist Lee Ross identified three tenets of naive realism: first, that we believe our perceptions are objective and directly reflect reality; second, that other rational people will share our views if they have access to the same information; and third, that those who disagree must be ignorant, irrational, or corrupted by ideology or self-interest. This framework helps explain the intensity of disagreements over politics, religion, and other contentious topics where both sides believe they are simply seeing reality as it is.\\n\\nNaive realism contributes to conflict escalation and makes productive dialogue difficult. Recognizing this bias is crucial for developing intellectual humility and improving communication across differences. Understanding that our perceptions are shaped by our experiences, values, and cognitive limitations can help us engage more openly with opposing viewpoints. Rather than assuming disagreement reflects the others flaws, we can explore how different backgrounds and information lead to different conclusions.",
+    "tags": ["cognitive-biases", "psychology", "social-psychology", "critical-thinking", "perceptions"],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Direct Realism Bias", "Realism Illusion"],
+    "relatedConcepts": ["confirmation-bias", "bias-blind-spot", "fundamental-attribution-error"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [{"title": "The Righteous Mind by Jonathan Haidt", "url": "https://www.amazon.com/dp/0307455777?tag=dsebastien00-20"}],
+    "references": [{"title": "Naive realism (psychology) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Na%C3%AFve_realism_(psychology)", "type": "website"}],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

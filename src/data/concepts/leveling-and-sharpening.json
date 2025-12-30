@@ -1,0 +1,44 @@
+{
+    "id": "leveling-and-sharpening",
+    "name": "Leveling and Sharpening",
+    "summary": "A memory distortion process where details are lost through simplification while certain elements become exaggerated over time.",
+    "explanation": "Leveling and sharpening describes two complementary processes that distort our memories over time. Leveling refers to the loss of details as memories become simpler and shorter - nuances fade, qualifications disappear, and complex stories get reduced to their bare essentials. Sharpening is the selective emphasis of certain details that remain, which often become exaggerated or more dramatic than they originally were. Together, these processes transform our memories from accurate recordings into simplified, stylized versions of events.\n\nThis phenomenon was first studied extensively in rumor transmission by psychologists Gordon Allport and Leo Postman. As stories pass from person to person, they become progressively shorter (leveling) while certain central or emotionally salient details become more prominent and exaggerated (sharpening). The same processes occur within individual memory over time. A complex experience with many details becomes a simple narrative with a few key memorable elements that may have grown beyond their original significance.\n\nUnderstanding leveling and sharpening has important implications for how we treat memories, testimonies, and stories. Our recollections are not video recordings but active reconstructions that simplify and emphasize. This is why eyewitness testimony can be unreliable, why family stories become legends, and why historical narratives get distorted. To maintain accuracy, we should document important events promptly, be skeptical of vivid details in old memories, and seek corroborating evidence when accuracy matters.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "memory",
+        "perception",
+        "communication"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Memory distortion",
+        "Serial reproduction effect"
+    ],
+    "relatedConcepts": [
+        "hindsight-bias",
+        "misinformation-effect",
+        "availability-heuristic",
+        "confabulation"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "The Psychology of Rumor by Gordon W. Allport and Leo Postman",
+            "url": "https://www.amazon.com/dp/0805070281?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Leveling and sharpening - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Leveling_and_sharpening",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

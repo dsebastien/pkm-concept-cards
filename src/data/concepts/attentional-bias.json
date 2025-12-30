@@ -1,0 +1,41 @@
+{
+    "id": "attentional-bias",
+    "name": "Attentional Bias",
+    "summary": "The tendency to pay more attention to emotionally dominant stimuli in one's environment while neglecting other relevant information.",
+    "explanation": "Attentional Bias refers to our tendency to prioritize certain types of stimuli over others when processing information from our environment. Emotionally charged stimuli, particularly those related to our current concerns, fears, or desires, capture and hold our attention more readily than neutral information. This can cause us to miss important details that don't trigger our emotional responses.\n\nThis bias plays a significant role in anxiety disorders, addiction, and other mental health conditions. For instance, someone with social anxiety might be hyperaware of any signs of disapproval or rejection while failing to notice positive social cues. Similarly, someone struggling with addiction may find their attention repeatedly drawn to substance-related cues in their environment. In everyday life, attentional bias can cause us to focus excessively on negative news, threats, or information that confirms our existing worries.\n\nRecognizing attentional bias is crucial for both mental well-being and rational decision-making. By understanding that our attention is not distributed evenly across all available information, we can consciously redirect our focus, seek out information we might naturally overlook, and make more balanced assessments of situations. Mindfulness practices can be particularly helpful in developing awareness of where our attention naturally gravitates.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "attention",
+        "perception",
+        "mental-health"
+    ],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "negativity-bias",
+        "availability-heuristic",
+        "perceptual-set"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Attentional bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Attentional_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

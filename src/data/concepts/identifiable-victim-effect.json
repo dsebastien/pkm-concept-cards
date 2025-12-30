@@ -1,0 +1,38 @@
+{
+    "id": "identifiable-victim-effect",
+    "name": "Identifiable Victim Effect",
+    "summary": "The tendency to offer greater help to specific, identifiable individuals than to large, anonymous groups of people.",
+    "explanation": "The Identifiable Victim Effect describes our psychological tendency to respond more generously and emotionally to the plight of a specific, identifiable person than to the suffering of large, statistical groups. A single child with a name, face, and story will generate more donations and concern than statistics about thousands of anonymous children in similar circumstances. As Stalin cynically observed, 'One death is a tragedy; a million deaths is a statistic.'\n\nThis effect operates through emotional and cognitive mechanisms. Identifiable individuals trigger empathy, emotional connection, and a sense of personal responsibility. Statistical victims, despite representing greater total suffering, remain abstract and fail to engage our emotional systems. Psychologist Paul Slovic has documented 'psychic numbing' - our emotional response actually decreases as the number of victims increases because we cannot connect emotionally with large numbers.\n\nThe identifiable victim effect has profound implications for charity, policy-making, and communication. Nonprofits leverage it by featuring individual stories rather than aggregate statistics. However, it can also lead to misallocation of resources - spending disproportionately on dramatic individual cases while neglecting more impactful systemic interventions. Awareness of this bias encourages using both emotional stories and rational analysis when making decisions about helping others, ensuring that the power of individual narratives doesn't override consideration of where help is most needed.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "empathy",
+        "charitable-giving"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Identified victim effect",
+        "Statistical victim effect"
+    ],
+    "relatedConcepts": [
+        "scope-insensitivity",
+        "empathy",
+        "effective-altruism"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Identifiable victim effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Identifiable_victim_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

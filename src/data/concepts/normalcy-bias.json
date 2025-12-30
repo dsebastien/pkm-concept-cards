@@ -1,0 +1,40 @@
+{
+    "id": "normalcy-bias",
+    "name": "Normalcy Bias",
+    "summary": "The tendency to underestimate the likelihood and impact of disasters or significant changes, assuming things will continue as they always have.",
+    "explanation": "Normalcy Bias is a cognitive bias that causes people to underestimate both the possibility of a disaster occurring and its potential effects. When faced with warnings about potential threats, people affected by normalcy bias believe that since something has never happened before, it will not happen in the future. This leads to inadequate preparation for catastrophes and delayed responses when emergencies actually occur.\n\nThis bias explains why many people fail to adequately prepare for natural disasters, financial crises, or other significant disruptions despite clear warning signs. Historical examples include residents who refuse to evacuate despite hurricane warnings, or investors who ignore signs of market bubbles. The bias creates a dangerous assumption that the future will resemble the past, even when evidence suggests otherwise.\n\nNormalcy bias can be particularly dangerous because it compounds other biases like optimism bias. To counteract it, individuals and organizations should actively engage in scenario planning, study historical precedents of rare but impactful events, and establish pre-planned responses to potential emergencies. Recognizing that our brains naturally resist acknowledging threats to our normal routine is the first step toward more rational risk assessment.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "risk-assessment",
+        "thinking"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Normality Bias",
+        "Analysis Paralysis",
+        "Negative Panic"
+    ],
+    "relatedConcepts": [
+        "optimism-bias",
+        "confirmation-bias",
+        "status-quo-bias",
+        "planning-fallacy"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Normalcy Bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Normalcy_bias",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

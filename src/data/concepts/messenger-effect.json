@@ -1,0 +1,44 @@
+{
+    "id": "messenger-effect",
+    "name": "Messenger Effect",
+    "summary": "The tendency to judge the validity of information based on characteristics of who delivers it rather than the information itself.",
+    "explanation": "The messenger effect is a cognitive bias where our evaluation of information is heavily influenced by who presents it. We are more likely to accept claims from sources we perceive as credible, attractive, similar to us, or authoritative, regardless of the actual quality of their arguments or evidence. Conversely, we may dismiss valid information simply because we distrust or dislike the messenger. This bias means that the 'what' of a message is often inseparable from the 'who.'\n\nThis effect operates through multiple channels. We give more weight to experts (even when speaking outside their expertise), to physically attractive people, to those who share our group identity, and to those with prestigious affiliations. Socioeconomic markers like clothing, accent, and title all influence how seriously we take someone's words. This is why testimonials from celebrities influence purchasing decisions even when those celebrities have no relevant expertise, and why the same argument can be persuasive or unconvincing depending on who makes it.\n\nAwareness of the messenger effect helps us evaluate information more objectively. When we find ourselves accepting or rejecting claims, we should ask: Am I responding to the evidence and reasoning, or to the messenger? Would I evaluate this information differently if it came from someone else? Separating the message from the messenger - while acknowledging that source credibility is sometimes legitimately relevant - leads to better reasoning and more accurate beliefs.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "communication",
+        "persuasion"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Source credibility bias",
+        "Shoot the messenger"
+    ],
+    "relatedConcepts": [
+        "authority-bias",
+        "halo-effect",
+        "in-group-bias",
+        "ad-hominem"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Messengers: Who We Listen To, Who We Don't, and Why by Stephen Martin and Joseph Marks",
+            "url": "https://www.amazon.com/dp/1541724380?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Source credibility - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Source_credibility",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}

@@ -1,0 +1,39 @@
+{
+    "id": "telescoping-effect",
+    "name": "Telescoping Effect",
+    "summary": "Cognitive bias where recent events seem more distant and distant events seem more recent than they actually are.",
+    "explanation": "The Telescoping Effect is a cognitive bias that distorts our perception of when events occurred in time. It manifests in two forms: forward telescoping, where distant events are recalled as being more recent than they actually were, and backward telescoping, where recent events are recalled as being further in the past. This temporal distortion affects our ability to accurately date past experiences, with the magnitude of the effect typically increasing as the actual time since the event grows.\n\nThis bias has significant implications for research, surveys, and personal recollection. In survey research, respondents often misreport when events occurred, leading to inaccurate data about frequencies and timelines. For example, when asked about purchases or medical visits in the past month, people tend to include events that actually occurred earlier, inflating frequency estimates. Similarly, landmark events that occurred years ago may be recalled as happening more recently.\n\nUnderstanding the telescoping effect is valuable for improving the accuracy of autobiographical memory and survey design. Researchers often use bounded recall periods or landmark events to help anchor memories more accurately in time. For individuals, awareness of this bias can help temper confidence in the accuracy of temporal memories and encourage verification through external records when precise timing matters.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "memory",
+        "decision-making",
+        "perception"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Forward Telescoping",
+        "Backward Telescoping",
+        "Temporal Displacement"
+    ],
+    "relatedConcepts": [
+        "hindsight-bias",
+        "recency-bias",
+        "rosy-retrospection"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Telescoping Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Telescoping_effect",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-29",
+    "dateModified": "2025-12-29"
+}
