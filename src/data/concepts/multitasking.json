@@ -1,81 +1,80 @@
 {
-    "id": "multitasking",
-    "name": "Multitasking",
-    "summary": "Attempting to perform multiple tasks simultaneously, which reduces effectiveness.",
-    "explanation": "Multitasking is the attempt to perform multiple tasks simultaneously. Research consistently shows that true multitasking is a myth for complex cognitive work - what we actually do is rapid task-switching, which incurs significant mental costs. Each switch requires context-loading time and increases errors. For knowledge work, single-tasking with time blocking produces dramatically better results. The illusion of productivity from multitasking actually reduces deep work capacity and quality. Embracing single-tasking is essential for effective PKM and creative work.",
-    "tags": [
-        "productivity",
-        "focus",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaLayerGroup",
-    "featured": false,
-    "aliases": [
-        "Task-switching",
-        "Multi-tasking"
-    ],
-    "relatedConcepts": [
-        "attention",
-        "context-switching",
-        "deep-work",
-        "focus",
-        "laser-focus",
-        "pomodoro-technique",
-        "time-blocking"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Multitasking"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "Deep Work",
-            "url": "https://amzn.to/3VG1JfK"
-        },
-        {
-            "title": "Make Time",
-            "url": "https://amzn.to/3RM2L8W"
-        }
-    ],
-    "references": [
-        {
-            "title": "Human multitasking - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Human_multitasking",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "multitasking",
+  "name": "Multitasking",
+  "summary": "Attempting to perform multiple tasks simultaneously, which reduces effectiveness.",
+  "explanation": "Multitasking is the attempt to perform multiple tasks simultaneously. Research consistently shows that true multitasking is a myth for complex cognitive work - what we actually do is rapid task-switching, which incurs significant mental costs. Each switch requires context-loading time and increases errors. For knowledge work, single-tasking with time blocking produces dramatically better results. The illusion of productivity from multitasking actually reduces deep work capacity and quality. Embracing single-tasking is essential for effective PKM and creative work.",
+  "tags": [
+    "productivity",
+    "focus",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaLayerGroup",
+  "featured": false,
+  "aliases": [
+    "Task-switching",
+    "Multi-tasking"
+  ],
+  "relatedConcepts": [
+    "focus",
+    "context-switching",
+    "deep-work",
+    "laser-focus",
+    "pomodoro-technique",
+    "time-blocking"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Multitasking"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Deep Work",
+      "url": "https://amzn.to/3VG1JfK"
+    },
+    {
+      "title": "Make Time",
+      "url": "https://amzn.to/3RM2L8W"
+    }
+  ],
+  "references": [
+    {
+      "title": "Human multitasking - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_multitasking",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

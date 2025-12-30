@@ -1,53 +1,52 @@
 {
-    "id": "gratitude-prompts",
-    "name": "Gratitude Prompts",
-    "summary": "Questions or statements designed to stimulate grateful reflection.",
-    "explanation": "Gratitude prompts are questions or statements designed to stimulate grateful reflection, helping overcome the blank-page problem of gratitude practice. Prompts work by: directing attention to specific areas, sparking memories and associations, and preventing staleness from repetitive entries. Types of prompts include: relationship prompts ('Who helped you recently?'), experience prompts ('What moment made you smile today?'), basic needs prompts ('What simple pleasure did you enjoy?'), and challenge prompts ('What difficulty taught you something valuable?'). Effective prompts are: specific enough to focus attention, open enough to allow personal response, and varied enough to explore different gratitude areas. Prompt sources include: gratitude journals with built-in prompts, apps that provide daily prompts, and self-created prompt collections. Using prompts involves: reading the prompt, reflecting genuinely, and writing or speaking the response. For knowledge workers, gratitude prompts can: overcome resistance to starting practice, diversify gratitude entries, and deepen reflection beyond surface responses.",
-    "tags": [
-        "gratitude",
-        "reflection",
-        "journaling",
-        "prompts",
-        "practices"
-    ],
-    "category": "Techniques",
-    "icon": "FaQuestion",
-    "featured": false,
-    "aliases": [
-        "Thankfulness questions",
-        "Appreciation prompts",
-        "Gratitude questions"
-    ],
-    "relatedConcepts": [
-        "gratitude-practice",
-        "gratitude-journal",
-        "journaling"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "AI Ghostwriter Guide",
-            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "gratitude-prompts",
+  "name": "Gratitude Prompts",
+  "summary": "Questions or statements designed to stimulate grateful reflection.",
+  "explanation": "Gratitude prompts are questions or statements designed to stimulate grateful reflection, helping overcome the blank-page problem of gratitude practice. Prompts work by: directing attention to specific areas, sparking memories and associations, and preventing staleness from repetitive entries. Types of prompts include: relationship prompts ('Who helped you recently?'), experience prompts ('What moment made you smile today?'), basic needs prompts ('What simple pleasure did you enjoy?'), and challenge prompts ('What difficulty taught you something valuable?'). Effective prompts are: specific enough to focus attention, open enough to allow personal response, and varied enough to explore different gratitude areas. Prompt sources include: gratitude journals with built-in prompts, apps that provide daily prompts, and self-created prompt collections. Using prompts involves: reading the prompt, reflecting genuinely, and writing or speaking the response. For knowledge workers, gratitude prompts can: overcome resistance to starting practice, diversify gratitude entries, and deepen reflection beyond surface responses.",
+  "tags": [
+    "gratitude",
+    "reflection",
+    "journaling",
+    "prompts",
+    "practices"
+  ],
+  "category": "Techniques",
+  "icon": "FaQuestion",
+  "featured": false,
+  "aliases": [
+    "Thankfulness questions",
+    "Appreciation prompts",
+    "Gratitude questions"
+  ],
+  "relatedConcepts": [
+    "gratitude-practice",
+    "journaling"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "AI Ghostwriter Guide",
+      "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

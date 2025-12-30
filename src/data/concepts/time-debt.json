@@ -1,83 +1,83 @@
 {
-    "id": "time-debt",
-    "name": "Time Debt",
-    "summary": "The accumulated backlog of time obligations and commitments that consume future capacity and create ongoing stress.",
-    "explanation": "Time Debt is a concept that describes the accumulated burden of past commitments, unfinished tasks, and ongoing obligations that consume your future time capacity. Similar to financial debt or technical debt, time debt compounds over time and can become overwhelming if not actively managed.\n\nTime debt accumulates through:\n\n1. **Overcommitment**: Saying yes to more than you can realistically handle\n2. **Incomplete projects**: Tasks started but not finished that require mental overhead\n3. **Recurring obligations**: Meetings, subscriptions, and commitments that demand regular time\n4. **Postponed decisions**: Delayed choices that create ongoing cognitive load\n5. **Maintenance backlogs**: Deferred upkeep on relationships, health, possessions, and systems\n\n**The compound effect of time debt**:\n- Each unfinished commitment occupies mental space (the Zeigarnik effect)\n- Accumulated obligations reduce flexibility for new opportunities\n- The stress of unfulfilled commitments drains energy and focus\n- Catching up requires more time than the original task would have taken\n\n**Strategies to manage time debt**:\n\n1. **Audit regularly**: List all your commitments and recurring obligations\n2. **Renegotiate or cancel**: Proactively exit commitments that no longer serve you\n3. **Set boundaries**: Use 'no' as your default response to new requests\n4. **Batch processing**: Dedicate time to clear backlogs systematically\n5. **Prevent accumulation**: Apply the two-minute rule - if it takes less than two minutes, do it now\n6. **Create margin**: Build buffer time into your schedule to handle unexpected demands\n\nRecognizing time debt helps explain why you might feel perpetually behind despite working hard - you're servicing accumulated obligations rather than making forward progress.",
-    "tags": [
-        "time-management",
-        "productivity",
-        "planning",
-        "commitments",
-        "stress-management"
-    ],
-    "category": "Principles",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Temporal Debt",
-        "Commitment Debt",
-        "Time Deficit"
-    ],
-    "relatedConcepts": [
-        "essentialism",
-        "limit-work-in-progress",
-        "opportunity-cost",
-        "parkinson-law",
-        "burnout",
-        "mental-energy",
-        "time-boxing"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "Time Debt: The Hidden Cost of Overcommitment",
-            "url": "https://nesslabs.com/time-debt",
-            "type": "websites"
-        }
-    ],
-    "books": [
-        {
-            "title": "Essentialism by Greg McKeown",
-            "url": "https://amzn.to/3VKyPqR"
-        },
-        {
-            "title": "Four Thousand Weeks by Oliver Burkeman",
-            "url": "https://amzn.to/3ZoWxLM"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "time-debt",
+  "name": "Time Debt",
+  "summary": "The accumulated backlog of time obligations and commitments that consume future capacity and create ongoing stress.",
+  "explanation": "Time Debt is a concept that describes the accumulated burden of past commitments, unfinished tasks, and ongoing obligations that consume your future time capacity. Similar to financial debt or technical debt, time debt compounds over time and can become overwhelming if not actively managed.\n\nTime debt accumulates through:\n\n1. **Overcommitment**: Saying yes to more than you can realistically handle\n2. **Incomplete projects**: Tasks started but not finished that require mental overhead\n3. **Recurring obligations**: Meetings, subscriptions, and commitments that demand regular time\n4. **Postponed decisions**: Delayed choices that create ongoing cognitive load\n5. **Maintenance backlogs**: Deferred upkeep on relationships, health, possessions, and systems\n\n**The compound effect of time debt**:\n- Each unfinished commitment occupies mental space (the Zeigarnik effect)\n- Accumulated obligations reduce flexibility for new opportunities\n- The stress of unfulfilled commitments drains energy and focus\n- Catching up requires more time than the original task would have taken\n\n**Strategies to manage time debt**:\n\n1. **Audit regularly**: List all your commitments and recurring obligations\n2. **Renegotiate or cancel**: Proactively exit commitments that no longer serve you\n3. **Set boundaries**: Use 'no' as your default response to new requests\n4. **Batch processing**: Dedicate time to clear backlogs systematically\n5. **Prevent accumulation**: Apply the two-minute rule - if it takes less than two minutes, do it now\n6. **Create margin**: Build buffer time into your schedule to handle unexpected demands\n\nRecognizing time debt helps explain why you might feel perpetually behind despite working hard - you're servicing accumulated obligations rather than making forward progress.",
+  "tags": [
+    "time-management",
+    "productivity",
+    "planning",
+    "commitments",
+    "stress-management"
+  ],
+  "category": "Principles",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Temporal Debt",
+    "Commitment Debt",
+    "Time Deficit"
+  ],
+  "relatedConcepts": [
+    "essentialism",
+    "limit-work-in-progress",
+    "opportunity-cost",
+    "parkinson-law",
+    "burnout",
+    "mental-energy",
+    "time-blocking"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "Time Debt: The Hidden Cost of Overcommitment",
+      "url": "https://nesslabs.com/time-debt",
+      "type": "websites"
+    }
+  ],
+  "books": [
+    {
+      "title": "Essentialism by Greg McKeown",
+      "url": "https://amzn.to/3VKyPqR"
+    },
+    {
+      "title": "Four Thousand Weeks by Oliver Burkeman",
+      "url": "https://amzn.to/3ZoWxLM"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

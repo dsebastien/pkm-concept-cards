@@ -1,78 +1,86 @@
 {
-    "id": "paradox-of-choice",
-    "name": "Paradox of Choice",
-    "summary": "Having too many options leads to anxiety and decision paralysis.",
-    "explanation": "The Paradox of Choice describes how having too many options, rather than increasing satisfaction, often leads to anxiety, decision paralysis, and reduced satisfaction with whatever is chosen. More choices mean more opportunity cost awareness, more comparison, and more regret potential. In PKM, this manifests as overwhelm when facing too many tools, methods, or organizational structures. The antidote is deliberately limiting options and making irreversible choices that eliminate alternatives.",
-    "tags": [
-        "concepts",
-        "decision-making",
-        "productivity",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaRandom",
-    "featured": false,
-    "aliases": [
-        "Choice overload",
-        "Overchoice"
-    ],
-    "relatedConcepts": [
-        "decision-fatigue",
-        "shiny-object-syndrome"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+Paradox+of+choice"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Paradox of Choice by Barry Schwartz",
-            "url": "https://www.amazon.com/Paradox-Choice-More-Less-Revised/dp/0062449923"
-        }
-    ],
-    "references": [
-        {
-            "title": "The Paradox of Choice - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/The_Paradox_of_Choice",
-            "type": "website"
-        },
-        {
-            "title": "Overchoice - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Overchoice",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "paradox-of-choice",
+  "name": "Paradox of Choice",
+  "summary": "Having too many options leads to anxiety and decision paralysis.",
+  "explanation": "The Paradox of Choice describes how having too many options, rather than increasing satisfaction, often leads to anxiety, decision paralysis, and reduced satisfaction with whatever is chosen. More choices mean more opportunity cost awareness, more comparison, and more regret potential. In PKM, this manifests as overwhelm when facing too many tools, methods, or organizational structures. The antidote is deliberately limiting options and making irreversible choices that eliminate alternatives.",
+  "tags": [
+    "concepts",
+    "decision-making",
+    "productivity",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaRandom",
+  "featured": false,
+  "aliases": [
+    "Analysis paralysis",
+    "Choice overload",
+    "Overchoice",
+    "Paradox of choice"
+  ],
+  "relatedConcepts": [
+    "decision-fatigue",
+    "focus",
+    "novelty-bias",
+    "shiny-object-syndrome"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/The+Paradox+of+choice"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Paradox of Choice by Barry Schwartz",
+      "url": "https://www.amazon.com/Paradox-Choice-More-Less-Revised/dp/0062449923"
+    },
+    {
+      "title": "The Paradox of Choice by Barry Schwartz",
+      "url": "https://www.amazon.com/Paradox-Choice-Why-More-Less/dp/149151423X"
+    }
+  ],
+  "references": [
+    {
+      "title": "The Paradox of Choice - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Paradox_of_Choice",
+      "type": "website"
+    },
+    {
+      "title": "Overchoice - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Overchoice",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30"
 }

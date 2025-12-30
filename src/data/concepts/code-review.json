@@ -1,51 +1,51 @@
 {
-    "id": "code-review",
-    "name": "Code Review",
-    "summary": "A quality assurance practice where one or more developers examine code written by a peer before it's merged into the codebase.",
-    "explanation": "Code Review is a systematic examination of source code by one or more developers other than the author. The practice catches defects, improves code quality, and shares knowledge across the team. Types include: (1) Formal inspections - structured meetings with defined roles, (2) Over-the-shoulder - informal real-time review, (3) Pull request reviews - asynchronous review via version control platforms, (4) Pair programming - continuous real-time review. Effective reviews focus on: logic errors, edge cases, readability, maintainability, security issues, performance concerns, and adherence to standards. Best practices: keep changes small, provide constructive feedback, automate what can be automated (linting, formatting), and focus on learning not criticism. Studies show code review catches 60-90% of defects. Modern tools include GitHub PRs, GitLab MRs, and Gerrit. The practice is fundamental to quality-focused development culture.",
-    "tags": [
-        "quality",
-        "software-engineering",
-        "collaboration",
-        "teams",
-        "best-practices"
-    ],
-    "category": "Software Development",
-    "icon": "FaSearchPlus",
-    "featured": false,
-    "aliases": [
-        "PR Review",
-        "Peer Review",
-        "Code Inspection"
-    ],
-    "relatedConcepts": [
-        "pair-programming",
-        "test-driven-development",
-        "code-smell",
-        "technical-debt",
-        "continuous-improvement"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Code Complete by Steve McConnell",
-            "url": "https://www.amazon.com/dp/0735619670?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Code review - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Code_review",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "code-review",
+  "name": "Code Review",
+  "summary": "A quality assurance practice where one or more developers examine code written by a peer before it's merged into the codebase.",
+  "explanation": "Code Review is a systematic examination of source code by one or more developers other than the author. The practice catches defects, improves code quality, and shares knowledge across the team. Types include: (1) Formal inspections - structured meetings with defined roles, (2) Over-the-shoulder - informal real-time review, (3) Pull request reviews - asynchronous review via version control platforms, (4) Pair programming - continuous real-time review. Effective reviews focus on: logic errors, edge cases, readability, maintainability, security issues, performance concerns, and adherence to standards. Best practices: keep changes small, provide constructive feedback, automate what can be automated (linting, formatting), and focus on learning not criticism. Studies show code review catches 60-90% of defects. Modern tools include GitHub PRs, GitLab MRs, and Gerrit. The practice is fundamental to quality-focused development culture.",
+  "tags": [
+    "quality",
+    "software-engineering",
+    "collaboration",
+    "teams",
+    "best-practices"
+  ],
+  "category": "Software Development",
+  "icon": "FaSearchPlus",
+  "featured": false,
+  "aliases": [
+    "PR Review",
+    "Peer Review",
+    "Code Inspection"
+  ],
+  "relatedConcepts": [
+    "pair-programming",
+    "test-driven-development",
+    "code-smell",
+    "technical-debt",
+    "kaizen"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Code Complete by Steve McConnell",
+      "url": "https://www.amazon.com/dp/0735619670?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Code review - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Code_review",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

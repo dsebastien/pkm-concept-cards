@@ -1,74 +1,73 @@
 {
-    "id": "attention-momentum",
-    "name": "Attention Momentum",
-    "summary": "The tendency for focused attention to build and sustain itself over time.",
-    "explanation": "Attention Momentum describes how focused attention, once established, tends to sustain itself - it's easier to stay focused than to become focused. This explains why interruptions are so costly: they don't just take the interruption time but also the time to rebuild momentum. For knowledge workers, this means protecting focus blocks fiercely, batching similar tasks, and designing environments that minimize interruptions. Starting difficult tasks with small actions helps build initial momentum that carries through.",
-    "tags": [
-        "productivity",
-        "focus",
-        "concepts"
-    ],
-    "category": "Concepts",
-    "icon": "FaRocket",
-    "featured": false,
-    "aliases": [
-        "Focus momentum",
-        "Flow momentum"
-    ],
-    "relatedConcepts": [
-        "adhd",
-        "attention",
-        "context-switching",
-        "deep-work",
-        "directed-attention",
-        "flow-state",
-        "focus",
-        "pomodoro-technique",
-        "sustained-attention"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Attention+momentum"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "Deep Work",
-            "url": "https://amzn.to/3VG1JfK"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "attention-momentum",
+  "name": "Attention Momentum",
+  "summary": "The tendency for focused attention to build and sustain itself over time.",
+  "explanation": "Attention Momentum describes how focused attention, once established, tends to sustain itself - it's easier to stay focused than to become focused. This explains why interruptions are so costly: they don't just take the interruption time but also the time to rebuild momentum. For knowledge workers, this means protecting focus blocks fiercely, batching similar tasks, and designing environments that minimize interruptions. Starting difficult tasks with small actions helps build initial momentum that carries through.",
+  "tags": [
+    "productivity",
+    "focus",
+    "concepts"
+  ],
+  "category": "Concepts",
+  "icon": "FaRocket",
+  "featured": false,
+  "aliases": [
+    "Focus momentum",
+    "Flow momentum"
+  ],
+  "relatedConcepts": [
+    "adhd",
+    "focus",
+    "context-switching",
+    "deep-work",
+    "directed-attention",
+    "flow-state",
+    "pomodoro-technique",
+    "sustained-attention"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Attention+momentum"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Deep Work",
+      "url": "https://amzn.to/3VG1JfK"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

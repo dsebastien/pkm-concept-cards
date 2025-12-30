@@ -1,63 +1,62 @@
 {
-    "id": "time-blindness",
-    "name": "Time Blindness",
-    "summary": "Difficulty perceiving time accurately, common in ADHD and affecting planning.",
-    "explanation": "Time Blindness is the difficulty in perceiving time accurately - either how much time has passed or how long tasks will take. Common in people with ADHD, it affects planning, punctuality, and task estimation. Time seems to move unpredictably - sometimes racing, sometimes crawling. Tools to combat time blindness include: visual timers (Time Timer), time blocking, external cues, breaking tasks into smaller chunks, and building buffer time into schedules. PKM systems can help by externalizing time-related decisions.",
-    "tags": [
-        "productivity",
-        "psychology",
-        "concepts"
-    ],
-    "category": "Concepts",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Time perception issues",
-        "ADHD time management"
-    ],
-    "relatedConcepts": [
-        "planning-fallacy",
-        "pomodoro-technique",
-        "time-blocking",
-        "time-boxing"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+blindness"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "time-blindness",
+  "name": "Time Blindness",
+  "summary": "Difficulty perceiving time accurately, common in ADHD and affecting planning.",
+  "explanation": "Time Blindness is the difficulty in perceiving time accurately - either how much time has passed or how long tasks will take. Common in people with ADHD, it affects planning, punctuality, and task estimation. Time seems to move unpredictably - sometimes racing, sometimes crawling. Tools to combat time blindness include: visual timers (Time Timer), time blocking, external cues, breaking tasks into smaller chunks, and building buffer time into schedules. PKM systems can help by externalizing time-related decisions.",
+  "tags": [
+    "productivity",
+    "psychology",
+    "concepts"
+  ],
+  "category": "Concepts",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Time perception issues",
+    "ADHD time management"
+  ],
+  "relatedConcepts": [
+    "planning-fallacy",
+    "pomodoro-technique",
+    "time-blocking"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+blindness"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

@@ -1,63 +1,63 @@
 {
-    "id": "work-cycles",
-    "name": "Work Cycles",
-    "summary": "Structured periods of focused work alternating with breaks for sustainable productivity.",
-    "explanation": "Work cycles are structured periods alternating focused work with breaks, designed for sustainable productivity. The Pomodoro Technique (25 min work, 5 min break) is well-known, but many variations exist: 52/17 (based on DeskTime research), 90-minute ultradian cycles, custom durations matching personal rhythms. Cycles work by: preventing overexertion, creating natural stopping points, leveraging time pressure, and providing regular recovery. Effective cycles include: clear work/break distinction (no half-working), complete disengagement during breaks, and appropriate duration for the work type. Some work (deep creative work) may benefit from longer cycles; some (administrative processing) from shorter ones. Finding optimal cycle length requires experimentation. For knowledge workers, implementing work cycles means: starting with established frameworks, adjusting based on experience, and using cycles to impose rhythm on otherwise amorphous knowledge work.",
-    "tags": [
-        "focus",
-        "productivity",
-        "time-management",
-        "breaks",
-        "rhythms"
-    ],
-    "category": "Techniques",
-    "icon": "FaSync",
-    "featured": false,
-    "aliases": [
-        "Productivity cycles",
-        "Focus cycles",
-        "Work-rest cycles"
-    ],
-    "relatedConcepts": [
-        "pomodoro-technique",
-        "ultradian-rhythms",
-        "time-boxing"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "work-cycles",
+  "name": "Work Cycles",
+  "summary": "Structured periods of focused work alternating with breaks for sustainable productivity.",
+  "explanation": "Work cycles are structured periods alternating focused work with breaks, designed for sustainable productivity. The Pomodoro Technique (25 min work, 5 min break) is well-known, but many variations exist: 52/17 (based on DeskTime research), 90-minute ultradian cycles, custom durations matching personal rhythms. Cycles work by: preventing overexertion, creating natural stopping points, leveraging time pressure, and providing regular recovery. Effective cycles include: clear work/break distinction (no half-working), complete disengagement during breaks, and appropriate duration for the work type. Some work (deep creative work) may benefit from longer cycles; some (administrative processing) from shorter ones. Finding optimal cycle length requires experimentation. For knowledge workers, implementing work cycles means: starting with established frameworks, adjusting based on experience, and using cycles to impose rhythm on otherwise amorphous knowledge work.",
+  "tags": [
+    "focus",
+    "productivity",
+    "time-management",
+    "breaks",
+    "rhythms"
+  ],
+  "category": "Techniques",
+  "icon": "FaSync",
+  "featured": false,
+  "aliases": [
+    "Productivity cycles",
+    "Focus cycles",
+    "Work-rest cycles"
+  ],
+  "relatedConcepts": [
+    "pomodoro-technique",
+    "ultradian-rhythms",
+    "time-blocking"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

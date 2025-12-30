@@ -1,54 +1,98 @@
 {
-    "id": "local-first",
-    "name": "Local-First",
-    "summary": "Software design where data lives primarily on your devices, with cloud as optional sync.",
-    "explanation": "Local-first is a software design philosophy where your data lives primarily on your own devices, with cloud services used for sync and backup rather than as the primary data store. This contrasts with cloud-first (data lives on servers, accessed via internet). Local-first principles: data is yours (stored on your devices), works offline (no internet required for core functions), syncs across devices (when connected), fast (no network latency for local operations), and long-term accessible (not dependent on service survival). Benefits include: privacy (data stays on your devices), reliability (works without internet), performance (no network round-trips), longevity (survives service shutdowns), and ownership (truly your data). Challenges: sync is hard (conflict resolution, consistency), backup responsibility shifts to user, collaboration requires more complexity, and some features genuinely need servers. Technologies enabling local-first: CRDTs (Conflict-free Replicated Data Types), local databases (SQLite, IndexedDB), peer-to-peer protocols, and sync engines. Examples: Obsidian (notes), Git (code), and some newer apps built on local-first principles. For knowledge workers, local-first provides: true data ownership, offline capability, and independence from service continuity.",
-    "tags": [
-        "technologies",
-        "software-design",
-        "privacy",
-        "independence",
-        "architecture"
-    ],
-    "category": "Concepts",
-    "icon": "FaLaptop",
-    "featured": false,
-    "aliases": [
-        "Local-first software",
-        "Offline-first",
-        "Device-centric"
-    ],
-    "relatedConcepts": [
-        "digital-sovereignty",
-        "data-ownership",
-        "self-hosted",
-        "data-portability"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Local-first software by Ink & Switch",
-            "url": "https://www.inkandswitch.com/local-first/",
-            "type": "paper"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Dev Concepts",
-            "url": "https://dev-concepts.dev",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "local-first",
+  "name": "Local-First",
+  "summary": "Software design where data lives primarily on your devices, with cloud as optional sync.",
+  "explanation": "Local-first is a software design philosophy where your data lives primarily on your own devices, with cloud services used for sync and backup rather than as the primary data store. This contrasts with cloud-first (data lives on servers, accessed via internet). Local-first principles: data is yours (stored on your devices), works offline (no internet required for core functions), syncs across devices (when connected), fast (no network latency for local operations), and long-term accessible (not dependent on service survival). Benefits include: privacy (data stays on your devices), reliability (works without internet), performance (no network round-trips), longevity (survives service shutdowns), and ownership (truly your data). Challenges: sync is hard (conflict resolution, consistency), backup responsibility shifts to user, collaboration requires more complexity, and some features genuinely need servers. Technologies enabling local-first: CRDTs (Conflict-free Replicated Data Types), local databases (SQLite, IndexedDB), peer-to-peer protocols, and sync engines. Examples: Obsidian (notes), Git (code), and some newer apps built on local-first principles. For knowledge workers, local-first provides: true data ownership, offline capability, and independence from service continuity.",
+  "tags": [
+    "architecture",
+    "data-ownership",
+    "independence",
+    "knowledge-management",
+    "privacy",
+    "software",
+    "software-design",
+    "technologies",
+    "tools"
+  ],
+  "category": "Concepts",
+  "icon": "FaLaptop",
+  "featured": false,
+  "aliases": [
+    "Device-centric",
+    "Local-first",
+    "Local-first software",
+    "Offline-first"
+  ],
+  "relatedConcepts": [
+    "data-ownership",
+    "data-portability",
+    "digital-sovereignty",
+    "obsidian",
+    "plain-text-productivity",
+    "self-hosted"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "Local-first software: You own your data, in spite of the cloud",
+      "url": "https://www.inkandswitch.com/local-first/",
+      "type": "websites"
+    }
+  ],
+  "references": [
+    {
+      "title": "Local-first software by Ink & Switch",
+      "url": "https://www.inkandswitch.com/local-first/",
+      "type": "paper"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Dev Concepts",
+      "url": "https://dev-concepts.dev",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Library",
+      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-30",
+  "books": []
 }

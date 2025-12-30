@@ -1,80 +1,80 @@
 {
-    "id": "3-2-1-backup-rule",
-    "name": "3-2-1 Backup Rule",
-    "summary": "A data protection strategy requiring three copies of data on two different media types, with one copy stored offsite.",
-    "explanation": "The 3-2-1 Backup Rule is a widely-adopted data protection strategy that ensures data survival even in worst-case scenarios. The rule states you should maintain:\n\n**3 copies of your data in total** - This includes the original plus two backups. Multiple copies protect against accidental deletion, corruption, or hardware failure.\n\n**2 different storage media types** - Store backups on different types of media (e.g., internal hard drive, external SSD, cloud storage). This protects against media-specific failures.\n\n**1 copy stored offsite** - Keep at least one backup in a different physical location. This protects against theft, fire, flood, or other disasters affecting a single location.\n\nIn knowledge management, this rule is critical because your notes and knowledge base represent years of accumulated thinking and work. Losing them would be devastating. Implementation options include:\n\n- Local backups to external drives\n- Cloud sync services (Dropbox, Google Drive, iCloud)\n- Git repositories for version control\n- Dedicated backup services (Backblaze, Syncthing to a NAS)\n\nRemember: synchronization is NOT backup - it replicates mistakes and deletions. True backups should include versioning and be tested regularly.",
-    "tags": [
-        "backup",
-        "data-protection",
-        "knowledge-management",
-        "systems",
-        "best-practices"
-    ],
-    "category": "Principles",
-    "icon": "FaDatabase",
-    "featured": false,
-    "aliases": [
-        "3-2-1 Rule",
-        "Backup Strategy",
-        "Data Protection Rule"
-    ],
-    "relatedConcepts": [
-        "ssot",
-        "data-portability",
-        "local-first-software"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+I+synchronize+and+backup+my+Obsidian+notes"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "3-2-1 Backup Rule - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Backup#3-2-1_rule",
-            "type": "websites"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Library",
-            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "3-2-1-backup-rule",
+  "name": "3-2-1 Backup Rule",
+  "summary": "A data protection strategy requiring three copies of data on two different media types, with one copy stored offsite.",
+  "explanation": "The 3-2-1 Backup Rule is a widely-adopted data protection strategy that ensures data survival even in worst-case scenarios. The rule states you should maintain:\n\n**3 copies of your data in total** - This includes the original plus two backups. Multiple copies protect against accidental deletion, corruption, or hardware failure.\n\n**2 different storage media types** - Store backups on different types of media (e.g., internal hard drive, external SSD, cloud storage). This protects against media-specific failures.\n\n**1 copy stored offsite** - Keep at least one backup in a different physical location. This protects against theft, fire, flood, or other disasters affecting a single location.\n\nIn knowledge management, this rule is critical because your notes and knowledge base represent years of accumulated thinking and work. Losing them would be devastating. Implementation options include:\n\n- Local backups to external drives\n- Cloud sync services (Dropbox, Google Drive, iCloud)\n- Git repositories for version control\n- Dedicated backup services (Backblaze, Syncthing to a NAS)\n\nRemember: synchronization is NOT backup - it replicates mistakes and deletions. True backups should include versioning and be tested regularly.",
+  "tags": [
+    "backup",
+    "data-protection",
+    "knowledge-management",
+    "systems",
+    "best-practices"
+  ],
+  "category": "Principles",
+  "icon": "FaDatabase",
+  "featured": false,
+  "aliases": [
+    "3-2-1 Rule",
+    "Backup Strategy",
+    "Data Protection Rule"
+  ],
+  "relatedConcepts": [
+    "ssot",
+    "data-portability",
+    "local-first"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+I+synchronize+and+backup+my+Obsidian+notes"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "3-2-1 Backup Rule - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Backup#3-2-1_rule",
+      "type": "websites"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Library",
+      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

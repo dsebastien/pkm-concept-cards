@@ -1,48 +1,48 @@
 {
-    "id": "path-dependence",
-    "name": "Path Dependence",
-    "summary": "The phenomenon where history and early choices constrain or determine later possibilities.",
-    "explanation": "Path dependence is the phenomenon where the outcome of a process depends on its history - where we end up depends on how we got here, not just current conditions. Early choices, often made for reasons no longer relevant, continue to constrain current options. Classic example: QWERTY keyboard layout persists despite potentially better alternatives because of accumulated investment and lock-in. Path dependence occurs because of: increasing returns (the more something is used, the more valuable it becomes), switching costs (changing paths is expensive), network effects (value depends on others using same path), and complementary investments (supporting infrastructure develops). Implications include: history matters (current situation reflects past choices), lock-in is common (inferior paths can persist), and early choices are crucial (they shape future possibilities). Path dependence doesn't mean change is impossible, but it explains why change is difficult and why 'obvious' improvements often don't happen. For knowledge workers, path dependence explains: why organizations stick with tools and processes, the importance of early architectural decisions, and the value of being thoughtful about path-setting choices.",
-    "tags": [
-        "systems-thinking",
-        "economics",
-        "history",
-        "changes",
-        "strategies"
-    ],
-    "category": "Concepts",
-    "icon": "FaRoute",
-    "featured": false,
-    "aliases": [
-        "Historical path dependence",
-        "History dependence",
-        "Lock-in effects"
-    ],
-    "relatedConcepts": [
-        "switching-costs",
-        "network-effects",
-        "sunk-cost-effect"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Path dependence - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Path_dependence",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "path-dependence",
+  "name": "Path Dependence",
+  "summary": "The phenomenon where history and early choices constrain or determine later possibilities.",
+  "explanation": "Path dependence is the phenomenon where the outcome of a process depends on its history - where we end up depends on how we got here, not just current conditions. Early choices, often made for reasons no longer relevant, continue to constrain current options. Classic example: QWERTY keyboard layout persists despite potentially better alternatives because of accumulated investment and lock-in. Path dependence occurs because of: increasing returns (the more something is used, the more valuable it becomes), switching costs (changing paths is expensive), network effects (value depends on others using same path), and complementary investments (supporting infrastructure develops). Implications include: history matters (current situation reflects past choices), lock-in is common (inferior paths can persist), and early choices are crucial (they shape future possibilities). Path dependence doesn't mean change is impossible, but it explains why change is difficult and why 'obvious' improvements often don't happen. For knowledge workers, path dependence explains: why organizations stick with tools and processes, the importance of early architectural decisions, and the value of being thoughtful about path-setting choices.",
+  "tags": [
+    "systems-thinking",
+    "economics",
+    "history",
+    "changes",
+    "strategies"
+  ],
+  "category": "Concepts",
+  "icon": "FaRoute",
+  "featured": false,
+  "aliases": [
+    "Historical path dependence",
+    "History dependence",
+    "Lock-in effects"
+  ],
+  "relatedConcepts": [
+    "switching-costs",
+    "network-effects",
+    "sunk-cost-fallacy"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Path dependence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Path_dependence",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

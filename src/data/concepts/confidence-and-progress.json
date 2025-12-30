@@ -1,53 +1,53 @@
 {
-    "id": "confidence-and-progress",
-    "name": "Confidence and Progress",
-    "summary": "Having a path is helpful, but confidence to take steps is crucial for making real progress.",
-    "explanation": "Having a map and a path in front of us is helpful, but having the confidence to take the steps one after another is the key to making real progress. This principle highlights that knowledge of what to do is only half the equation - the other half is believing in yourself enough to actually do it. Without confidence, even the clearest roadmap becomes useless. This applies to learning new skills, building a PKM system, creating content, or any endeavor requiring sustained effort.",
-    "tags": [
-        "confidence",
-        "personal-development",
-        "progress",
-        "motivations",
-        "learning"
-    ],
-    "category": "Concepts",
-    "icon": "FaWalking",
-    "featured": false,
-    "aliases": [
-        "A path is helpful but having the confidence is crucial"
-    ],
-    "relatedConcepts": [
-        "growth-mindset",
-        "impostor-syndrome",
-        "continuous-improvement"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/A+path+is+helpful,+but+having+the+confidence+is+crucial"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "confidence-and-progress",
+  "name": "Confidence and Progress",
+  "summary": "Having a path is helpful, but confidence to take steps is crucial for making real progress.",
+  "explanation": "Having a map and a path in front of us is helpful, but having the confidence to take the steps one after another is the key to making real progress. This principle highlights that knowledge of what to do is only half the equation - the other half is believing in yourself enough to actually do it. Without confidence, even the clearest roadmap becomes useless. This applies to learning new skills, building a PKM system, creating content, or any endeavor requiring sustained effort.",
+  "tags": [
+    "confidence",
+    "personal-development",
+    "progress",
+    "motivations",
+    "learning"
+  ],
+  "category": "Concepts",
+  "icon": "FaWalking",
+  "featured": false,
+  "aliases": [
+    "A path is helpful but having the confidence is crucial"
+  ],
+  "relatedConcepts": [
+    "growth-mindset",
+    "impostor-syndrome",
+    "kaizen"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/A+path+is+helpful,+but+having+the+confidence+is+crucial"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

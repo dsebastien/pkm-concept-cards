@@ -1,67 +1,66 @@
 {
-    "id": "time-blocking-variants",
-    "name": "Time Blocking Variants",
-    "summary": "A comparison of three related time management techniques: task blocking, timeboxing, and day theming, each offering different approaches to structuring your schedule.",
-    "explanation": "Time Blocking Variants refers to the family of techniques that involve dedicating specific time periods to particular activities. While often confused or used interchangeably, each variant has distinct characteristics and use cases.\n\n**1. Time Blocking (Task Blocking)**\n\nTime blocking involves scheduling specific blocks of time for different tasks or types of work. You divide your day into chunks, each dedicated to a particular activity.\n\n- **Purpose**: Reserve time for important work\n- **Focus**: What will I work on during this block?\n- **Flexibility**: Can extend if needed\n- **Example**: \"9 AM - 11 AM: Work on quarterly report\"\n\n**2. Timeboxing**\n\nTimeboxing allocates a fixed, maximum amount of time to a task - when the time ends, you stop regardless of completion.\n\n- **Purpose**: Limit time spent on tasks\n- **Focus**: How long will I spend on this?\n- **Flexibility**: Strict time limit enforced\n- **Example**: \"Spend exactly 45 minutes on email, then stop\"\n- **Benefit**: Prevents perfectionism and scope creep\n\n**3. Day Theming**\n\nDay theming dedicates entire days to specific types of work or areas of focus, rather than switching between different types of tasks within a day.\n\n- **Purpose**: Minimize context switching across days\n- **Focus**: What theme defines this day?\n- **Flexibility**: Entire day devoted to one category\n- **Example**: \"Monday = Admin, Tuesday = Deep Work, Wednesday = Meetings\"\n- **Benefit**: Deep immersion in a single mode\n\n**When to use each:**\n\n- **Time Blocking**: When you have multiple important tasks that need dedicated focus within a single day\n- **Timeboxing**: When tasks tend to expand indefinitely, or when you need to practice something regularly without overdoing it\n- **Day Theming**: When context switching is especially costly for your work, or when you have distinct roles requiring different mindsets\n\n**Combining variants:**\n\nThese techniques can be layered. You might theme your days (admin day vs. creative day), then time block within each day, and use timeboxing for specific tasks prone to expansion. The key is matching the technique to the challenge you're solving.",
-    "tags": [
-        "time-management",
-        "productivity",
-        "techniques",
-        "planning",
-        "focus"
-    ],
-    "category": "Techniques",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Time Management Techniques Comparison",
-        "Blocking vs Boxing vs Theming"
-    ],
-    "relatedConcepts": [
-        "time-blocking",
-        "time-boxing",
-        "task-batching",
-        "deep-work",
-        "context-switching",
-        "pomodoro-technique"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+blocking"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "time-blocking-variants",
+  "name": "Time Blocking Variants",
+  "summary": "A comparison of three related time management techniques: task blocking, timeboxing, and day theming, each offering different approaches to structuring your schedule.",
+  "explanation": "Time Blocking Variants refers to the family of techniques that involve dedicating specific time periods to particular activities. While often confused or used interchangeably, each variant has distinct characteristics and use cases.\n\n**1. Time Blocking (Task Blocking)**\n\nTime blocking involves scheduling specific blocks of time for different tasks or types of work. You divide your day into chunks, each dedicated to a particular activity.\n\n- **Purpose**: Reserve time for important work\n- **Focus**: What will I work on during this block?\n- **Flexibility**: Can extend if needed\n- **Example**: \"9 AM - 11 AM: Work on quarterly report\"\n\n**2. Timeboxing**\n\nTimeboxing allocates a fixed, maximum amount of time to a task - when the time ends, you stop regardless of completion.\n\n- **Purpose**: Limit time spent on tasks\n- **Focus**: How long will I spend on this?\n- **Flexibility**: Strict time limit enforced\n- **Example**: \"Spend exactly 45 minutes on email, then stop\"\n- **Benefit**: Prevents perfectionism and scope creep\n\n**3. Day Theming**\n\nDay theming dedicates entire days to specific types of work or areas of focus, rather than switching between different types of tasks within a day.\n\n- **Purpose**: Minimize context switching across days\n- **Focus**: What theme defines this day?\n- **Flexibility**: Entire day devoted to one category\n- **Example**: \"Monday = Admin, Tuesday = Deep Work, Wednesday = Meetings\"\n- **Benefit**: Deep immersion in a single mode\n\n**When to use each:**\n\n- **Time Blocking**: When you have multiple important tasks that need dedicated focus within a single day\n- **Timeboxing**: When tasks tend to expand indefinitely, or when you need to practice something regularly without overdoing it\n- **Day Theming**: When context switching is especially costly for your work, or when you have distinct roles requiring different mindsets\n\n**Combining variants:**\n\nThese techniques can be layered. You might theme your days (admin day vs. creative day), then time block within each day, and use timeboxing for specific tasks prone to expansion. The key is matching the technique to the challenge you're solving.",
+  "tags": [
+    "time-management",
+    "productivity",
+    "techniques",
+    "planning",
+    "focus"
+  ],
+  "category": "Techniques",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Time Management Techniques Comparison",
+    "Blocking vs Boxing vs Theming"
+  ],
+  "relatedConcepts": [
+    "time-blocking",
+    "task-batching",
+    "deep-work",
+    "context-switching",
+    "pomodoro-technique"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+blocking"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

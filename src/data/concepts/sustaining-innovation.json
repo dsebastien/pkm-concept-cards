@@ -1,49 +1,49 @@
 {
-    "id": "sustaining-innovation",
-    "name": "Sustaining Innovation",
-    "summary": "Incremental improvements to existing products that serve current customers better.",
-    "explanation": "Sustaining innovation refers to improvements that make existing products better for current customers along dimensions they already value. Unlike disruptive innovation (which creates new markets), sustaining innovation enhances established products - faster processors, better cameras, improved efficiency. Incumbents typically excel at sustaining innovation because: they have resources, understand customer needs, and face clear improvement paths. This creates the innovator's dilemma - companies succeed by serving current customers but may miss disruptive threats. Sustaining innovations can be incremental (small improvements) or radical (major advances that still serve existing customers). They're essential for competitive positioning but rarely create new markets or unseat leaders. For knowledge workers, understanding sustaining innovation helps: recognize when to improve versus pivot, understand why incumbents win some battles but lose others, and evaluate where to invest effort - sustaining current capabilities versus building new ones.",
-    "tags": [
-        "innovations",
-        "strategies",
-        "improvement",
-        "businesses",
-        "competitions"
-    ],
-    "category": "Concepts",
-    "icon": "FaArrowUp",
-    "featured": false,
-    "aliases": [
-        "Incremental improvement",
-        "Evolutionary innovation",
-        "Continuous improvement"
-    ],
-    "relatedConcepts": [
-        "disruptive-innovation",
-        "incremental-innovation",
-        "continuous-improvement",
-        "innovators-dilemma"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Disruptive innovation - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Disruptive_innovation",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "sustaining-innovation",
+  "name": "Sustaining Innovation",
+  "summary": "Incremental improvements to existing products that serve current customers better.",
+  "explanation": "Sustaining innovation refers to improvements that make existing products better for current customers along dimensions they already value. Unlike disruptive innovation (which creates new markets), sustaining innovation enhances established products - faster processors, better cameras, improved efficiency. Incumbents typically excel at sustaining innovation because: they have resources, understand customer needs, and face clear improvement paths. This creates the innovator's dilemma - companies succeed by serving current customers but may miss disruptive threats. Sustaining innovations can be incremental (small improvements) or radical (major advances that still serve existing customers). They're essential for competitive positioning but rarely create new markets or unseat leaders. For knowledge workers, understanding sustaining innovation helps: recognize when to improve versus pivot, understand why incumbents win some battles but lose others, and evaluate where to invest effort - sustaining current capabilities versus building new ones.",
+  "tags": [
+    "innovations",
+    "strategies",
+    "improvement",
+    "businesses",
+    "competitions"
+  ],
+  "category": "Concepts",
+  "icon": "FaArrowUp",
+  "featured": false,
+  "aliases": [
+    "Incremental improvement",
+    "Evolutionary innovation",
+    "Continuous improvement"
+  ],
+  "relatedConcepts": [
+    "disruptive-innovation",
+    "incremental-innovation",
+    "kaizen",
+    "innovators-dilemma"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Disruptive innovation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Disruptive_innovation",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

@@ -1,74 +1,73 @@
 {
-    "id": "laser-focus",
-    "name": "Laser Focus",
-    "summary": "Concentrating attention on a single task at a time with intense, undivided focus.",
-    "explanation": "Laser Focus is the practice of directing your attention on a specific task at a time, like a laser focusing on a single point. This concept emphasizes the power of singular focus over multitasking. When you apply laser focus, you eliminate distractions and give your complete attention to one thing, which leads to higher quality work and faster completion. This approach stands in contrast to divided attention or multitasking, which research shows reduces both quality and efficiency. Laser focus is particularly important for complex cognitive work that requires deep thinking. The term and concept are discussed in productivity literature, including the book 'Make Time' by Jake Knapp and John Zeratsky.",
-    "tags": [
-        "focus",
-        "attention",
-        "productivity",
-        "concentration",
-        "single-tasking"
-    ],
-    "category": "Concepts",
-    "icon": "FaCrosshairs",
-    "featured": false,
-    "aliases": [
-        "Single-tasking",
-        "Undivided focus",
-        "Intense focus"
-    ],
-    "relatedConcepts": [
-        "focus",
-        "deep-work",
-        "attention",
-        "flow-state",
-        "multitasking",
-        "sustained-attention"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Laser+Focus"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "Make Time: How to Focus on What Matters Every Day",
-            "url": "https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "laser-focus",
+  "name": "Laser Focus",
+  "summary": "Concentrating attention on a single task at a time with intense, undivided focus.",
+  "explanation": "Laser Focus is the practice of directing your attention on a specific task at a time, like a laser focusing on a single point. This concept emphasizes the power of singular focus over multitasking. When you apply laser focus, you eliminate distractions and give your complete attention to one thing, which leads to higher quality work and faster completion. This approach stands in contrast to divided attention or multitasking, which research shows reduces both quality and efficiency. Laser focus is particularly important for complex cognitive work that requires deep thinking. The term and concept are discussed in productivity literature, including the book 'Make Time' by Jake Knapp and John Zeratsky.",
+  "tags": [
+    "focus",
+    "attention",
+    "productivity",
+    "concentration",
+    "single-tasking"
+  ],
+  "category": "Concepts",
+  "icon": "FaCrosshairs",
+  "featured": false,
+  "aliases": [
+    "Single-tasking",
+    "Undivided focus",
+    "Intense focus"
+  ],
+  "relatedConcepts": [
+    "focus",
+    "deep-work",
+    "flow-state",
+    "multitasking",
+    "sustained-attention"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Laser+Focus"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Make Time: How to Focus on What Matters Every Day",
+      "url": "https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

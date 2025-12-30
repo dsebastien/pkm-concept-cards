@@ -1,47 +1,46 @@
 {
-    "id": "buridan-ass",
-    "name": "Buridan's Ass",
-    "summary": "A philosophical paradox illustrating decision paralysis when faced with two equally attractive choices.",
-    "explanation": "Buridan's Ass is a philosophical paradox named after the 14th-century French philosopher Jean Buridan, though he never actually wrote about it. The paradox describes a hypothetical donkey that is equally hungry and thirsty, placed precisely midway between a pile of hay and a pail of water. Unable to make a rational decision about which to approach first (since both are equally appealing), the donkey dies of both hunger and thirst. The paradox illustrates the problem of decision-making in the face of equally weighted options and challenges purely rationalist approaches to choice. In practice, it reminds us that perfect rationality can lead to inaction, and that sometimes making any decision is better than making no decision at all. Breaking the symmetry through arbitrary choice, randomization, or introducing new criteria can prevent decision paralysis.",
-    "tags": [
-        "decision-making",
-        "psychology",
-        "philosophies",
-        "paradox",
-        "concepts"
-    ],
-    "category": "Concepts",
-    "icon": "FaBalanceScale",
-    "featured": false,
-    "aliases": [
-        "Buridan's Donkey",
-        "Paradox of Free Will",
-        "Ass of Buridan"
-    ],
-    "relatedConcepts": [
-        "analysis-paralysis",
-        "decision-fatigue",
-        "choice-overload",
-        "paradox-of-choice",
-        "indecision-is-a-decision",
-        "bias-for-action"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "Buridan's Ass - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Buridan%27s_ass",
-            "type": "websites"
-        }
-    ],
-    "references": [
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "buridan-ass",
+  "name": "Buridan's Ass",
+  "summary": "A philosophical paradox illustrating decision paralysis when faced with two equally attractive choices.",
+  "explanation": "Buridan's Ass is a philosophical paradox named after the 14th-century French philosopher Jean Buridan, though he never actually wrote about it. The paradox describes a hypothetical donkey that is equally hungry and thirsty, placed precisely midway between a pile of hay and a pail of water. Unable to make a rational decision about which to approach first (since both are equally appealing), the donkey dies of both hunger and thirst. The paradox illustrates the problem of decision-making in the face of equally weighted options and challenges purely rationalist approaches to choice. In practice, it reminds us that perfect rationality can lead to inaction, and that sometimes making any decision is better than making no decision at all. Breaking the symmetry through arbitrary choice, randomization, or introducing new criteria can prevent decision paralysis.",
+  "tags": [
+    "decision-making",
+    "psychology",
+    "philosophies",
+    "paradox",
+    "concepts"
+  ],
+  "category": "Concepts",
+  "icon": "FaBalanceScale",
+  "featured": false,
+  "aliases": [
+    "Buridan's Donkey",
+    "Paradox of Free Will",
+    "Ass of Buridan"
+  ],
+  "relatedConcepts": [
+    "analysis-paralysis",
+    "decision-fatigue",
+    "paradox-of-choice",
+    "indecision-is-a-decision",
+    "bias-for-action"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "Buridan's Ass - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buridan%27s_ass",
+      "type": "websites"
+    }
+  ],
+  "references": [
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

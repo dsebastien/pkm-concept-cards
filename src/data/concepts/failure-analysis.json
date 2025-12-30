@@ -1,54 +1,54 @@
 {
-    "id": "failure-analysis",
-    "name": "Failure Analysis",
-    "summary": "Systematic examination of failures to understand causes and prevent recurrence.",
-    "explanation": "Failure analysis is the systematic examination of failures to understand root causes, contributing factors, and prevention strategies. Unlike blame-seeking, proper failure analysis focuses on: systems and processes, multiple contributing factors, and actionable improvements. Key methodologies include: root cause analysis (digging to underlying causes), five whys (repeatedly asking why), failure mode effects analysis (anticipating failure modes), and post-mortems (structured review after incidents). Effective analysis requires: psychological safety (people must share honestly), blameless culture (focusing on systems not individuals), and commitment to action (analysis leads to change). Common analysis failures include: stopping at surface causes, blaming individuals for system problems, and conducting analysis without implementing changes. The practice extends from engineering (material failures, system breakdowns) to personal life (career setbacks, relationship failures) to organizations (project failures, strategic mistakes). For knowledge workers, failure analysis means: conducting personal post-mortems, understanding system factors in failures, and using analysis to improve rather than to assign blame.",
-    "tags": [
-        "failures",
-        "analysis",
-        "learning",
-        "improvement",
-        "systems-thinking"
-    ],
-    "category": "Techniques",
-    "icon": "FaSearchMinus",
-    "featured": false,
-    "aliases": [
-        "Failure investigation",
-        "Post-mortem analysis",
-        "Root cause investigation"
-    ],
-    "relatedConcepts": [
-        "learning-from-failure",
-        "root-cause-analysis",
-        "continuous-improvement",
-        "systems-thinking"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "failure-analysis",
+  "name": "Failure Analysis",
+  "summary": "Systematic examination of failures to understand causes and prevent recurrence.",
+  "explanation": "Failure analysis is the systematic examination of failures to understand root causes, contributing factors, and prevention strategies. Unlike blame-seeking, proper failure analysis focuses on: systems and processes, multiple contributing factors, and actionable improvements. Key methodologies include: root cause analysis (digging to underlying causes), five whys (repeatedly asking why), failure mode effects analysis (anticipating failure modes), and post-mortems (structured review after incidents). Effective analysis requires: psychological safety (people must share honestly), blameless culture (focusing on systems not individuals), and commitment to action (analysis leads to change). Common analysis failures include: stopping at surface causes, blaming individuals for system problems, and conducting analysis without implementing changes. The practice extends from engineering (material failures, system breakdowns) to personal life (career setbacks, relationship failures) to organizations (project failures, strategic mistakes). For knowledge workers, failure analysis means: conducting personal post-mortems, understanding system factors in failures, and using analysis to improve rather than to assign blame.",
+  "tags": [
+    "failures",
+    "analysis",
+    "learning",
+    "improvement",
+    "systems-thinking"
+  ],
+  "category": "Techniques",
+  "icon": "FaSearchMinus",
+  "featured": false,
+  "aliases": [
+    "Failure investigation",
+    "Post-mortem analysis",
+    "Root cause investigation"
+  ],
+  "relatedConcepts": [
+    "learning-from-failure",
+    "root-cause-analysis",
+    "kaizen",
+    "systems-thinking"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

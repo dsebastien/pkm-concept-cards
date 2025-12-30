@@ -1,47 +1,47 @@
 {
-    "id": "structured-feedback",
-    "name": "Structured Feedback",
-    "summary": "A systematic approach to giving feedback that is specific, actionable, and constructive.",
-    "explanation": "Structured Feedback uses frameworks to make feedback clear, specific, and actionable rather than vague or personal. Common structures include SBI (Situation-Behavior-Impact), describing what happened, what was observed, and the effect. Good feedback focuses on behaviors (changeable) not personality (fixed), provides specific examples, and suggests paths forward. Structure prevents feedback from becoming personal attacks or unhelpful generalizations, making it easier to give, receive, and act upon.",
-    "tags": [
-        "communications",
-        "feedbacks",
-        "techniques"
-    ],
-    "category": "Techniques",
-    "icon": "FaComments",
-    "featured": false,
-    "aliases": [
-        "SBI feedback",
-        "Constructive feedback"
-    ],
-    "relatedConcepts": [
-        "continuous-improvement",
-        "growth-mindset",
-        "seek-feedback-not-perfection"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+to+give+structured+feedback"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "SBI Feedback Model: Situation-Behavior-Impact - Center for Creative Leadership",
-            "url": "https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-and-impact/",
-            "type": "website"
-        },
-        {
-            "title": "How to Give Effective Feedback - Harvard Business Review",
-            "url": "https://hbr.org/2019/03/the-feedback-fallacy",
-            "type": "website"
-        },
-        {
-            "title": "The Art of Giving and Receiving Feedback - MindTools",
-            "url": "https://www.mindtools.com/ajaepd3/giving-feedback",
-            "type": "website"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-29"
+  "id": "structured-feedback",
+  "name": "Structured Feedback",
+  "summary": "A systematic approach to giving feedback that is specific, actionable, and constructive.",
+  "explanation": "Structured Feedback uses frameworks to make feedback clear, specific, and actionable rather than vague or personal. Common structures include SBI (Situation-Behavior-Impact), describing what happened, what was observed, and the effect. Good feedback focuses on behaviors (changeable) not personality (fixed), provides specific examples, and suggests paths forward. Structure prevents feedback from becoming personal attacks or unhelpful generalizations, making it easier to give, receive, and act upon.",
+  "tags": [
+    "communications",
+    "feedbacks",
+    "techniques"
+  ],
+  "category": "Techniques",
+  "icon": "FaComments",
+  "featured": false,
+  "aliases": [
+    "SBI feedback",
+    "Constructive feedback"
+  ],
+  "relatedConcepts": [
+    "kaizen",
+    "growth-mindset",
+    "seek-feedback-not-perfection"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+to+give+structured+feedback"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "SBI Feedback Model: Situation-Behavior-Impact - Center for Creative Leadership",
+      "url": "https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-and-impact/",
+      "type": "website"
+    },
+    {
+      "title": "How to Give Effective Feedback - Harvard Business Review",
+      "url": "https://hbr.org/2019/03/the-feedback-fallacy",
+      "type": "website"
+    },
+    {
+      "title": "The Art of Giving and Receiving Feedback - MindTools",
+      "url": "https://www.mindtools.com/ajaepd3/giving-feedback",
+      "type": "website"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-29"
 }

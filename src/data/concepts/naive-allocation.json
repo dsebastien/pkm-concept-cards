@@ -1,44 +1,44 @@
 {
-    "id": "naive-allocation",
-    "name": "Naive Allocation",
-    "summary": "Cognitive bias where people divide resources equally among available options regardless of their differing merits or characteristics.",
-    "explanation": "Naive Allocation, also known as the diversification bias or 1/n heuristic, is a cognitive bias where people tend to divide resources equally among available options without carefully considering the different qualities, risks, or expected returns of each option. When faced with multiple choices, people often default to spreading resources evenly rather than optimizing based on the specific attributes of each alternative. This pattern appears consistently across various domains including investment decisions, food selection, and time allocation.\n\nThis bias was notably documented in research on retirement savings, where employees given a choice of investment funds tend to allocate contributions equally across all available options, regardless of the funds' characteristics. If offered two stock funds and one bond fund, they might put one-third in each, resulting in a portfolio heavily weighted toward stocks. The same total allocation would look very different if they were offered one stock fund and two bond funds. The framing of options, rather than their underlying characteristics, drives the allocation.\n\nWhile naive allocation can sometimes approximate optimal diversification by accident, it often leads to suboptimal decisions. The bias can result in overinvestment in poor options and underinvestment in good ones. However, the 1/n heuristic isn't always irrational, as research suggests it can perform surprisingly well when future outcomes are highly uncertain and the costs of more sophisticated analysis outweigh the benefits. The key is recognizing when equal division is a shortcut that serves us well versus when it masks important differences that warrant more thoughtful consideration.",
-    "tags": [
-        "cognitive-biases",
-        "psychology",
-        "decision-making",
-        "behavioral-economics",
-        "investing"
-    ],
-    "category": "Principles",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "1/n Heuristic",
-        "Diversification Bias",
-        "Partition Dependence"
-    ],
-    "relatedConcepts": [
-        "anchoring-bias",
-        "framing-effect",
-        "status-quo-bias"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [],
-    "references": [
-        {
-            "title": "Naive Diversification Strategies in Retirement Saving Plans",
-            "url": "https://www.jstor.org/stable/117221",
-            "type": "paper"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-29",
-    "dateModified": "2025-12-29"
+  "id": "naive-allocation",
+  "name": "Naive Allocation",
+  "summary": "Cognitive bias where people divide resources equally among available options regardless of their differing merits or characteristics.",
+  "explanation": "Naive Allocation, also known as the diversification bias or 1/n heuristic, is a cognitive bias where people tend to divide resources equally among available options without carefully considering the different qualities, risks, or expected returns of each option. When faced with multiple choices, people often default to spreading resources evenly rather than optimizing based on the specific attributes of each alternative. This pattern appears consistently across various domains including investment decisions, food selection, and time allocation.\n\nThis bias was notably documented in research on retirement savings, where employees given a choice of investment funds tend to allocate contributions equally across all available options, regardless of the funds' characteristics. If offered two stock funds and one bond fund, they might put one-third in each, resulting in a portfolio heavily weighted toward stocks. The same total allocation would look very different if they were offered one stock fund and two bond funds. The framing of options, rather than their underlying characteristics, drives the allocation.\n\nWhile naive allocation can sometimes approximate optimal diversification by accident, it often leads to suboptimal decisions. The bias can result in overinvestment in poor options and underinvestment in good ones. However, the 1/n heuristic isn't always irrational, as research suggests it can perform surprisingly well when future outcomes are highly uncertain and the costs of more sophisticated analysis outweigh the benefits. The key is recognizing when equal division is a shortcut that serves us well versus when it masks important differences that warrant more thoughtful consideration.",
+  "tags": [
+    "cognitive-biases",
+    "psychology",
+    "decision-making",
+    "behavioral-economics",
+    "investing"
+  ],
+  "category": "Principles",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "1/n Heuristic",
+    "Diversification Bias",
+    "Partition Dependence"
+  ],
+  "relatedConcepts": [
+    "anchoring",
+    "framing-effect",
+    "status-quo-bias"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [],
+  "references": [
+    {
+      "title": "Naive Diversification Strategies in Retirement Saving Plans",
+      "url": "https://www.jstor.org/stable/117221",
+      "type": "paper"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-29",
+  "dateModified": "2025-12-29"
 }

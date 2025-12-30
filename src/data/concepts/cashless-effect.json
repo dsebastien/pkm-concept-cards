@@ -1,43 +1,43 @@
 {
-    "id": "cashless-effect",
-    "name": "Cashless Effect",
-    "summary": "The tendency to spend more money when paying with cards or digital payments compared to using physical cash.",
-    "explanation": "The Cashless Effect, also known as the credit card premium, describes how people tend to spend more freely when using non-cash payment methods such as credit cards, debit cards, or mobile payments. Physical cash creates a tangible sense of parting with resources - we literally see and feel money leaving our hands. Electronic payments, being more abstract, reduce this psychological 'pain of paying' and make it easier to spend.\n\nMultiple studies have documented this effect. Research by Drazen Prelec and Duncan Simester at MIT found that willingness to pay for items was significantly higher when using credit cards versus cash. This occurs because the physical act of handing over cash activates brain regions associated with pain and loss, while card transactions feel more like a delayed, abstract exchange. The increasing prevalence of contactless payments and digital wallets may amplify this effect further.\n\nAwareness of the cashless effect is crucial for personal financial management. Strategies to counter it include using cash for discretionary spending, setting up automatic savings before seeing disposable income, using budgeting apps that make digital spending feel more concrete, and implementing mandatory waiting periods before large purchases. Understanding this bias helps explain why retailers prefer card payments and why financial wellness often improves when people switch to cash-based budgeting systems.",
-    "tags": [
-        "cognitive-biases",
-        "psychology",
-        "personal-finance",
-        "consumer-behavior",
-        "spending"
-    ],
-    "category": "Cognitive Biases",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Credit card premium",
-        "Pain of paying effect"
-    ],
-    "relatedConcepts": [
-        "loss-aversion",
-        "hyperbolic-discounting",
-        "bottom-dollar-effect"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Predictably Irrational by Dan Ariely",
-            "url": "https://www.amazon.com/dp/0061353248?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Credit card usage and spending behavior - Research",
-            "url": "https://en.wikipedia.org/wiki/Pain_of_paying",
-            "type": "website"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-29",
-    "dateModified": "2025-12-29"
+  "id": "cashless-effect",
+  "name": "Cashless Effect",
+  "summary": "The tendency to spend more money when paying with cards or digital payments compared to using physical cash.",
+  "explanation": "The Cashless Effect, also known as the credit card premium, describes how people tend to spend more freely when using non-cash payment methods such as credit cards, debit cards, or mobile payments. Physical cash creates a tangible sense of parting with resources - we literally see and feel money leaving our hands. Electronic payments, being more abstract, reduce this psychological 'pain of paying' and make it easier to spend.\n\nMultiple studies have documented this effect. Research by Drazen Prelec and Duncan Simester at MIT found that willingness to pay for items was significantly higher when using credit cards versus cash. This occurs because the physical act of handing over cash activates brain regions associated with pain and loss, while card transactions feel more like a delayed, abstract exchange. The increasing prevalence of contactless payments and digital wallets may amplify this effect further.\n\nAwareness of the cashless effect is crucial for personal financial management. Strategies to counter it include using cash for discretionary spending, setting up automatic savings before seeing disposable income, using budgeting apps that make digital spending feel more concrete, and implementing mandatory waiting periods before large purchases. Understanding this bias helps explain why retailers prefer card payments and why financial wellness often improves when people switch to cash-based budgeting systems.",
+  "tags": [
+    "cognitive-biases",
+    "psychology",
+    "personal-finance",
+    "consumer-behavior",
+    "spending"
+  ],
+  "category": "Cognitive Biases",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Credit card premium",
+    "Pain of paying effect"
+  ],
+  "relatedConcepts": [
+    "loss-aversion",
+    "present-bias",
+    "bottom-dollar-effect"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Predictably Irrational by Dan Ariely",
+      "url": "https://www.amazon.com/dp/0061353248?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Credit card usage and spending behavior - Research",
+      "url": "https://en.wikipedia.org/wiki/Pain_of_paying",
+      "type": "website"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-29",
+  "dateModified": "2025-12-29"
 }

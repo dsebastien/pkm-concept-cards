@@ -1,80 +1,79 @@
 {
-    "id": "analysis-paralysis",
-    "name": "Analysis Paralysis",
-    "summary": "Overthinking a decision to the point of taking no action.",
-    "explanation": "Analysis Paralysis is the state of over-analyzing or overthinking a situation so that a decision or action is never taken. In PKM, this often manifests as: endlessly researching tools without choosing one, perfecting organizational systems instead of using them, or collecting information without processing it. The cure is recognizing that imperfect action beats perfect inaction. Set time limits for decisions, embrace 'good enough,' and remember that most decisions are reversible. Done is better than perfect.",
-    "tags": [
-        "productivity",
-        "psychology",
-        "concepts"
-    ],
-    "category": "Concepts",
-    "icon": "FaPause",
-    "featured": false,
-    "aliases": [
-        "Overthinking",
-        "Decision paralysis"
-    ],
-    "relatedConcepts": [
-        "bias-for-action",
-        "choice-overload",
-        "decision-fatigue",
-        "embrace-imperfection",
-        "overcoming-inertia",
-        "paradox-of-choice",
-        "perfectionism",
-        "shiny-object-syndrome",
-        "start-before-you-are-ready",
-        "indecision-is-a-decision"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Analysis+paralysis"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Paradox of Choice",
-            "url": "https://amzn.to/45EfHn7"
-        }
-    ],
-    "references": [
-        {
-            "title": "Analysis paralysis - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Analysis_paralysis",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "analysis-paralysis",
+  "name": "Analysis Paralysis",
+  "summary": "Overthinking a decision to the point of taking no action.",
+  "explanation": "Analysis Paralysis is the state of over-analyzing or overthinking a situation so that a decision or action is never taken. In PKM, this often manifests as: endlessly researching tools without choosing one, perfecting organizational systems instead of using them, or collecting information without processing it. The cure is recognizing that imperfect action beats perfect inaction. Set time limits for decisions, embrace 'good enough,' and remember that most decisions are reversible. Done is better than perfect.",
+  "tags": [
+    "productivity",
+    "psychology",
+    "concepts"
+  ],
+  "category": "Concepts",
+  "icon": "FaPause",
+  "featured": false,
+  "aliases": [
+    "Overthinking",
+    "Decision paralysis"
+  ],
+  "relatedConcepts": [
+    "bias-for-action",
+    "paradox-of-choice",
+    "decision-fatigue",
+    "embrace-imperfection",
+    "overcoming-inertia",
+    "perfectionism",
+    "shiny-object-syndrome",
+    "start-before-you-are-ready",
+    "indecision-is-a-decision"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Analysis+paralysis"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Paradox of Choice",
+      "url": "https://amzn.to/45EfHn7"
+    }
+  ],
+  "references": [
+    {
+      "title": "Analysis paralysis - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Analysis_paralysis",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

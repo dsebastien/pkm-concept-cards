@@ -1,67 +1,67 @@
 {
-    "id": "hofstadter-law",
-    "name": "Hofstadter's Law",
-    "summary": "Things always take longer than expected, even accounting for the law itself.",
-    "explanation": "Hofstadter's Law states: 'It always takes longer than you expect, even when you take into account Hofstadter's Law.' This self-referential adage captures the persistent tendency to underestimate task duration despite knowing about underestimation. Related to the planning fallacy, it's a humbling reminder to add generous buffers to estimates. For PKM projects like building a system, expect it to take longer than planned and design for incremental progress rather than complete transformation.",
-    "tags": [
-        "concepts",
-        "planning",
-        "principles",
-        "productivity"
-    ],
-    "category": "Principles",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Time underestimation"
-    ],
-    "relatedConcepts": [
-        "continuous-improvement",
-        "goal-setting",
-        "planning-fallacy"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.05+Quotes/Hofstadter's+Law"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Hofstadter's law - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Hofstadter%27s_law",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "hofstadter-law",
+  "name": "Hofstadter's Law",
+  "summary": "Things always take longer than expected, even accounting for the law itself.",
+  "explanation": "Hofstadter's Law states: 'It always takes longer than you expect, even when you take into account Hofstadter's Law.' This self-referential adage captures the persistent tendency to underestimate task duration despite knowing about underestimation. Related to the planning fallacy, it's a humbling reminder to add generous buffers to estimates. For PKM projects like building a system, expect it to take longer than planned and design for incremental progress rather than complete transformation.",
+  "tags": [
+    "concepts",
+    "planning",
+    "principles",
+    "productivity"
+  ],
+  "category": "Principles",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Time underestimation"
+  ],
+  "relatedConcepts": [
+    "kaizen",
+    "goal-setting",
+    "planning-fallacy"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.05+Quotes/Hofstadter's+Law"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Hofstadter's law - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hofstadter%27s_law",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

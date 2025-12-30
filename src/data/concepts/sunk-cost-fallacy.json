@@ -1,55 +1,74 @@
 {
-    "id": "sunk-cost-fallacy",
-    "name": "Sunk Cost Fallacy",
-    "summary": "Continuing investments due to past costs that cannot be recovered.",
-    "explanation": "The Sunk Cost Fallacy is the tendency to continue an endeavor because of previously invested resources (time, money, effort) that cannot be recovered, rather than evaluating future costs and benefits. 'I've already put so much into this' becomes justification for continuing even when stopping is rational. In PKM, this might manifest as reluctance to abandon an elaborate system that isn't working or clinging to notes you'll never use just because you spent time creating them.",
-    "tags": [
-        "cognitive-biases",
-        "cognition",
-        "decision-making",
-        "psychology"
-    ],
-    "category": "Cognitive Biases",
-    "icon": "FaMoneyBillWave",
-    "featured": false,
-    "aliases": [
-        "Escalation of commitment",
-        "Sunk cost bias"
-    ],
-    "relatedConcepts": [
-        "critical-thinking",
-        "loss-aversion",
-        "small-bets"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sunk+Cost+Fallacy"
-    ],
-    "articles": [
-        {
-            "title": "20 Months In, 2K Hours Spent, and 200K Lost: A Story About Resilience and the Sunk Cost Fallacy",
-            "url": "https://www.dsebastien.net/2021-01-04-20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy/",
-            "type": "websites"
-        }
-    ],
-    "books": [
-        {
-            "title": "Thinking, Fast and Slow by Daniel Kahneman",
-            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Sunk cost - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Sunk_cost",
-            "type": "website"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "sunk-cost-fallacy",
+  "name": "Sunk Cost Fallacy",
+  "summary": "Continuing investments due to past costs that cannot be recovered.",
+  "explanation": "The Sunk Cost Fallacy is the tendency to continue an endeavor because of previously invested resources (time, money, effort) that cannot be recovered, rather than evaluating future costs and benefits. 'I've already put so much into this' becomes justification for continuing even when stopping is rational. In PKM, this might manifest as reluctance to abandon an elaborate system that isn't working or clinging to notes you'll never use just because you spent time creating them.",
+  "tags": [
+    "cognition",
+    "cognitive-biases",
+    "decision-making",
+    "economics",
+    "psychology",
+    "rationality"
+  ],
+  "category": "Cognitive Biases",
+  "icon": "FaMoneyBillWave",
+  "featured": false,
+  "aliases": [
+    "Concorde fallacy",
+    "Escalation of commitment",
+    "Sunk cost bias",
+    "Sunk cost fallacy"
+  ],
+  "relatedConcepts": [
+    "critical-thinking",
+    "loss-aversion",
+    "opportunity-cost",
+    "small-bets"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sunk+Cost+Fallacy"
+  ],
+  "articles": [
+    {
+      "title": "20 Months In, 2K Hours Spent, and 200K Lost: A Story About Resilience and the Sunk Cost Fallacy",
+      "url": "https://www.dsebastien.net/2021-01-04-20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy/",
+      "type": "websites"
+    }
+  ],
+  "books": [
+    {
+      "title": "Thinking, Fast and Slow by Daniel Kahneman",
+      "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+    },
+    {
+      "title": "Thinking, Fast and Slow by Daniel Kahneman",
+      "url": "https://amzn.to/3Dp09NT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Sunk cost - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sunk_cost",
+      "type": "website"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30"
 }

@@ -1,65 +1,65 @@
 {
-    "id": "growth-mindset",
-    "name": "Growth Mindset",
-    "summary": "The belief that abilities can be developed through effort and learning.",
-    "explanation": "Growth Mindset, developed by psychologist Carol Dweck, is the belief that abilities and intelligence can be developed through dedication, hard work, and learning. This contrasts with a fixed mindset that views abilities as innate and unchangeable. People with a growth mindset embrace challenges, persist through obstacles, see effort as the path to mastery, learn from criticism, and find inspiration in others' success. This mindset is foundational for effective learning and PKM.",
-    "tags": [
-        "learning",
-        "mindsets",
-        "personal-growth",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaSeedling",
-    "featured": false,
-    "aliases": [
-        "Learning mindset"
-    ],
-    "relatedConcepts": [
-        "continuous-improvement",
-        "embrace-imperfection",
-        "learning-curve",
-        "metacognition",
-        "who-knows-anyway",
-        "belief-system-defenses",
-        "values-and-beliefs"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Mindset by Carol Dweck",
-            "url": "https://www.amazon.com/dp/0345472322?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Carol Dweck - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Carol_Dweck",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "growth-mindset",
+  "name": "Growth Mindset",
+  "summary": "The belief that abilities can be developed through effort and learning.",
+  "explanation": "Growth Mindset, developed by psychologist Carol Dweck, is the belief that abilities and intelligence can be developed through dedication, hard work, and learning. This contrasts with a fixed mindset that views abilities as innate and unchangeable. People with a growth mindset embrace challenges, persist through obstacles, see effort as the path to mastery, learn from criticism, and find inspiration in others' success. This mindset is foundational for effective learning and PKM.",
+  "tags": [
+    "learning",
+    "mindsets",
+    "personal-growth",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaSeedling",
+  "featured": false,
+  "aliases": [
+    "Learning mindset"
+  ],
+  "relatedConcepts": [
+    "kaizen",
+    "embrace-imperfection",
+    "learning-curve",
+    "metacognition",
+    "who-knows-anyway",
+    "belief-system-defenses",
+    "values-and-beliefs"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Mindset by Carol Dweck",
+      "url": "https://www.amazon.com/dp/0345472322?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Carol Dweck - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carol_Dweck",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

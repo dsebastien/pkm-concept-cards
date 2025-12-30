@@ -1,61 +1,61 @@
 {
-    "id": "blooms-taxonomy",
-    "name": "Bloom's Taxonomy",
-    "summary": "A hierarchy of learning objectives from basic recall to higher-order synthesis and creation.",
-    "explanation": "Bloom's Taxonomy, developed by Benjamin Bloom in 1956 and revised in 2001, categorizes learning objectives into six levels of increasing cognitive complexity. The revised version (from lowest to highest): Remember (recall facts), Understand (explain ideas), Apply (use knowledge in new situations), Analyze (break down into components), Evaluate (make judgments), Create (produce new work). Each level builds on those below it. The framework helps educators design curriculum and assessments that go beyond mere memorization. For learners and knowledge workers, Bloom's Taxonomy is useful for: self-assessing the depth of understanding, designing learning activities that reach higher levels, and recognizing that true mastery goes beyond recall. If you can only remember facts but not apply or analyze them, your learning is shallow. Create challenges for yourself at each level to ensure deep understanding.",
-    "tags": [
-        "learning",
-        "education",
-        "cognitive-science",
-        "teaching",
-        "assessments"
-    ],
-    "category": "Frameworks",
-    "icon": "FaPyramid",
-    "featured": false,
-    "aliases": [
-        "Taxonomy of learning",
-        "Bloom's hierarchy",
-        "Revised Bloom's Taxonomy"
-    ],
-    "relatedConcepts": [
-        "four-stages-of-competence",
-        "deliberate-practice",
-        "metacognition",
-        "learning-transfer",
-        "knowledge-synthesis",
-        "critical-thinking"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Bloom's taxonomy - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Bloom's_taxonomy",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "blooms-taxonomy",
+  "name": "Bloom's Taxonomy",
+  "summary": "A hierarchy of learning objectives from basic recall to higher-order synthesis and creation.",
+  "explanation": "Bloom's Taxonomy, developed by Benjamin Bloom in 1956 and revised in 2001, categorizes learning objectives into six levels of increasing cognitive complexity. The revised version (from lowest to highest): Remember (recall facts), Understand (explain ideas), Apply (use knowledge in new situations), Analyze (break down into components), Evaluate (make judgments), Create (produce new work). Each level builds on those below it. The framework helps educators design curriculum and assessments that go beyond mere memorization. For learners and knowledge workers, Bloom's Taxonomy is useful for: self-assessing the depth of understanding, designing learning activities that reach higher levels, and recognizing that true mastery goes beyond recall. If you can only remember facts but not apply or analyze them, your learning is shallow. Create challenges for yourself at each level to ensure deep understanding.",
+  "tags": [
+    "learning",
+    "education",
+    "cognitive-science",
+    "teaching",
+    "assessments"
+  ],
+  "category": "Frameworks",
+  "icon": "FaPyramid",
+  "featured": false,
+  "aliases": [
+    "Taxonomy of learning",
+    "Bloom's hierarchy",
+    "Revised Bloom's Taxonomy"
+  ],
+  "relatedConcepts": [
+    "four-stages-of-competence",
+    "deliberate-practice",
+    "metacognition",
+    "learning-transfer",
+    "synthesis",
+    "critical-thinking"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Bloom's taxonomy - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bloom's_taxonomy",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

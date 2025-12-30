@@ -1,55 +1,55 @@
 {
-    "id": "bounded-rationality",
-    "name": "Bounded Rationality",
-    "summary": "The idea that decision-making is limited by cognitive constraints, available information, and time rather than being perfectly rational.",
-    "explanation": "Bounded Rationality, introduced by Herbert Simon (who won a Nobel Prize for this work), challenges the classical economics assumption that humans are perfectly rational actors who optimize every decision. Instead, Simon argued that our rationality is bounded by three constraints: the cognitive limitations of our minds, the information available to us at decision time, and the finite time we have to make decisions.\n\nRather than optimizing, humans 'satisfice' - a term Simon coined combining 'satisfy' and 'suffice.' We search for solutions until we find one that meets our minimum criteria, then stop. When choosing a restaurant, we don't evaluate every option in the city to find the optimal one; we consider a few options and pick one that seems good enough. This behavior is rational given our constraints, even if it doesn't produce globally optimal outcomes.\n\nUnderstanding bounded rationality has profound implications for organizational design, policy-making, and personal decision-making. It explains why simple heuristics often outperform complex optimization, why providing more information doesn't always improve decisions, and why the structure of choices (choice architecture) matters as much as the options themselves. Knowing our rationality is bounded helps us design better decision processes.\n\nThe practical lesson is to accept that 'good enough' decisions made quickly often beat 'perfect' decisions made too late. Focus on designing decision environments that work with human cognitive limitations rather than against them, and save your limited analytical capacity for the decisions that truly matter.",
-    "tags": [
-        "decision-making",
-        "mental-model",
-        "thinking",
-        "psychology",
-        "economics"
-    ],
-    "category": "Principles",
-    "icon": "FaLightbulb",
-    "featured": false,
-    "aliases": [
-        "Limited rationality",
-        "Cognitive bounds",
-        "Simon's rationality"
-    ],
-    "relatedConcepts": [
-        "satisficing",
-        "decision-fatigue",
-        "hicks-law",
-        "cognitive-load",
-        "choice-overload"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Models of Bounded Rationality by Herbert Simon",
-            "url": "https://mitpress.mit.edu/9780262691604/models-of-bounded-rationality/"
-        },
-        {
-            "title": "Nudge by Richard Thaler and Cass Sunstein",
-            "url": "https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X"
-        }
-    ],
-    "references": [
-        {
-            "title": "Bounded Rationality - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Bounded_rationality",
-            "type": "websites"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "bounded-rationality",
+  "name": "Bounded Rationality",
+  "summary": "The idea that decision-making is limited by cognitive constraints, available information, and time rather than being perfectly rational.",
+  "explanation": "Bounded Rationality, introduced by Herbert Simon (who won a Nobel Prize for this work), challenges the classical economics assumption that humans are perfectly rational actors who optimize every decision. Instead, Simon argued that our rationality is bounded by three constraints: the cognitive limitations of our minds, the information available to us at decision time, and the finite time we have to make decisions.\n\nRather than optimizing, humans 'satisfice' - a term Simon coined combining 'satisfy' and 'suffice.' We search for solutions until we find one that meets our minimum criteria, then stop. When choosing a restaurant, we don't evaluate every option in the city to find the optimal one; we consider a few options and pick one that seems good enough. This behavior is rational given our constraints, even if it doesn't produce globally optimal outcomes.\n\nUnderstanding bounded rationality has profound implications for organizational design, policy-making, and personal decision-making. It explains why simple heuristics often outperform complex optimization, why providing more information doesn't always improve decisions, and why the structure of choices (choice architecture) matters as much as the options themselves. Knowing our rationality is bounded helps us design better decision processes.\n\nThe practical lesson is to accept that 'good enough' decisions made quickly often beat 'perfect' decisions made too late. Focus on designing decision environments that work with human cognitive limitations rather than against them, and save your limited analytical capacity for the decisions that truly matter.",
+  "tags": [
+    "decision-making",
+    "mental-model",
+    "thinking",
+    "psychology",
+    "economics"
+  ],
+  "category": "Principles",
+  "icon": "FaLightbulb",
+  "featured": false,
+  "aliases": [
+    "Limited rationality",
+    "Cognitive bounds",
+    "Simon's rationality"
+  ],
+  "relatedConcepts": [
+    "satisficing",
+    "decision-fatigue",
+    "hicks-law",
+    "cognitive-load",
+    "paradox-of-choice"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Models of Bounded Rationality by Herbert Simon",
+      "url": "https://mitpress.mit.edu/9780262691604/models-of-bounded-rationality/"
+    },
+    {
+      "title": "Nudge by Richard Thaler and Cass Sunstein",
+      "url": "https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X"
+    }
+  ],
+  "references": [
+    {
+      "title": "Bounded Rationality - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bounded_rationality",
+      "type": "websites"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

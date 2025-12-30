@@ -1,48 +1,69 @@
 {
-    "id": "matthew-effect",
-    "name": "Matthew Effect",
-    "summary": "The rich get richer phenomenon where early advantages compound over time.",
-    "explanation": "The Matthew Effect (named from the biblical 'to those who have, more will be given') describes cumulative advantage: early success leads to more opportunities, which leads to more success. In science, highly cited papers get more citations. In business, market leaders attract more resources. In learning, those with strong foundations learn faster. Understanding this helps appreciate the importance of early investments in skills and reputation, and the systemic advantages that compound over time.",
-    "tags": [
-        "psychology",
-        "systems",
-        "principles"
-    ],
-    "category": "Concepts",
-    "icon": "FaChartLine",
-    "featured": false,
-    "aliases": [
-        "Matthew principle",
-        "Rich get richer",
-        "Cumulative advantage"
-    ],
-    "relatedConcepts": [
-        "compound-growth",
-        "flywheels",
-        "lindy-effect"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Matthew+Principle"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Matthew effect - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Matthew_effect",
-            "type": "website"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "Personal Organization 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-27"
+  "id": "matthew-effect",
+  "name": "Matthew Effect",
+  "summary": "The rich get richer phenomenon where early advantages compound over time.",
+  "explanation": "The Matthew Effect (named from the biblical 'to those who have, more will be given') describes cumulative advantage: early success leads to more opportunities, which leads to more success. In science, highly cited papers get more citations. In business, market leaders attract more resources. In learning, those with strong foundations learn faster. Understanding this helps appreciate the importance of early investments in skills and reputation, and the systemic advantages that compound over time.",
+  "tags": [
+    "advantage",
+    "economics",
+    "inequality",
+    "principles",
+    "psychology",
+    "sociology",
+    "systems"
+  ],
+  "category": "Concepts",
+  "icon": "FaChartLine",
+  "featured": false,
+  "aliases": [
+    "Accumulated advantage",
+    "Cumulative advantage",
+    "Matthew Effect",
+    "Matthew principle",
+    "Rich get richer"
+  ],
+  "relatedConcepts": [
+    "compound-effect",
+    "compound-growth",
+    "flywheels",
+    "lindy-effect",
+    "network-effects",
+    "power-law",
+    "virtuous-cycle-vicious-cycle"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Matthew+Principle"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Matthew effect - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matthew_effect",
+      "type": "website"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "Personal Organization 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+      "type": "other"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30",
+  "books": []
 }

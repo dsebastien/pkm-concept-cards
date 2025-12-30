@@ -1,65 +1,65 @@
 {
-    "id": "receiving-feedback",
-    "name": "Receiving Feedback",
-    "summary": "The skill of accepting, processing, and acting on feedback to accelerate personal growth.",
-    "explanation": "Receiving feedback well is a learnable skill that accelerates development. Douglas Stone and Sheila Heen's 'Thanks for the Feedback' identifies three triggers that block feedback: truth triggers (we disagree with content), relationship triggers (we reject based on who's giving it), and identity triggers (feedback threatens our self-image). Receiving feedback well requires: managing initial defensive reactions, separating content from delivery, asking clarifying questions, looking for patterns across multiple sources, and distinguishing between what's true and what's useful. The process involves: genuinely thanking the giver, requesting specifics, taking time to process before responding, and following up on actions taken. Seeking feedback proactively is even more valuable - it demonstrates growth orientation and provides information before problems escalate. For knowledge workers, receiving feedback well creates: faster learning, better relationships, and reputation as someone who grows.",
-    "tags": [
-        "collaboration",
-        "feedbacks",
-        "learning",
-        "self-improvement",
-        "communications"
-    ],
-    "category": "Techniques",
-    "icon": "FaInbox",
-    "featured": false,
-    "aliases": [
-        "Accepting feedback",
-        "Processing criticism",
-        "Feedback receptivity"
-    ],
-    "relatedConcepts": [
-        "giving-feedback",
-        "growth-mindset",
-        "emotional-regulation",
-        "continuous-improvement"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Thanks for the Feedback by Stone and Heen",
-            "url": "https://amzn.to/3Dp08MT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "receiving-feedback",
+  "name": "Receiving Feedback",
+  "summary": "The skill of accepting, processing, and acting on feedback to accelerate personal growth.",
+  "explanation": "Receiving feedback well is a learnable skill that accelerates development. Douglas Stone and Sheila Heen's 'Thanks for the Feedback' identifies three triggers that block feedback: truth triggers (we disagree with content), relationship triggers (we reject based on who's giving it), and identity triggers (feedback threatens our self-image). Receiving feedback well requires: managing initial defensive reactions, separating content from delivery, asking clarifying questions, looking for patterns across multiple sources, and distinguishing between what's true and what's useful. The process involves: genuinely thanking the giver, requesting specifics, taking time to process before responding, and following up on actions taken. Seeking feedback proactively is even more valuable - it demonstrates growth orientation and provides information before problems escalate. For knowledge workers, receiving feedback well creates: faster learning, better relationships, and reputation as someone who grows.",
+  "tags": [
+    "collaboration",
+    "feedbacks",
+    "learning",
+    "self-improvement",
+    "communications"
+  ],
+  "category": "Techniques",
+  "icon": "FaInbox",
+  "featured": false,
+  "aliases": [
+    "Accepting feedback",
+    "Processing criticism",
+    "Feedback receptivity"
+  ],
+  "relatedConcepts": [
+    "giving-feedback",
+    "growth-mindset",
+    "emotional-regulation",
+    "kaizen"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Thanks for the Feedback by Stone and Heen",
+      "url": "https://amzn.to/3Dp08MT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

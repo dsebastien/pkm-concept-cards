@@ -1,75 +1,83 @@
 {
-    "id": "focus",
-    "name": "Focus",
-    "summary": "The ability to direct and maintain attention on what matters.",
-    "explanation": "Focus is the ability to direct and sustain attention on a chosen task or subject while filtering out distractions. In the age of information overload and constant interruptions, focus is increasingly valuable and increasingly difficult. Focus enables deep work, flow states, and meaningful progress. PKM systems help focus by externalizing information (so you don't need to hold everything in mind) and by clarifying priorities through techniques like daily notes and top-of-mind notes.",
-    "tags": [
-        "attention",
-        "cognition",
-        "concepts",
-        "productivity"
-    ],
-    "category": "Productivity",
-    "icon": "FaBullseye",
-    "featured": false,
-    "aliases": [
-        "Attention",
-        "Concentration"
-    ],
-    "relatedConcepts": [
-        "attention",
-        "attention-types",
-        "cognitive-load",
-        "context-switching",
-        "deep-work",
-        "directed-attention",
-        "flow-state",
-        "laser-focus",
-        "scatter-focus",
-        "stimulated-attention"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/34+Maps/34.01+MoCs/Focus+(MoC)"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Attention - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Attention",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-27"
+  "id": "focus",
+  "name": "Focus",
+  "summary": "The ability to direct and maintain attention on what matters.",
+  "explanation": "Focus is the ability to direct and sustain attention on a chosen task or subject while filtering out distractions. In the age of information overload and constant interruptions, focus is increasingly valuable and increasingly difficult. Focus enables deep work, flow states, and meaningful progress. PKM systems help focus by externalizing information (so you don't need to hold everything in mind) and by clarifying priorities through techniques like daily notes and top-of-mind notes.",
+  "tags": [
+    "attention",
+    "brains",
+    "cognition",
+    "concepts",
+    "focus",
+    "productivity"
+  ],
+  "category": "Productivity",
+  "icon": "FaBullseye",
+  "featured": false,
+  "aliases": [
+    "Attention",
+    "Concentration",
+    "Focus",
+    "Mental focus"
+  ],
+  "relatedConcepts": [
+    "attention",
+    "attention-types",
+    "cognitive-load",
+    "context-switching",
+    "deep-work",
+    "directed-attention",
+    "flow-state",
+    "focus",
+    "laser-focus",
+    "scatter-focus",
+    "stimulated-attention",
+    "sustained-attention"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/34+Maps/34.01+MoCs/Focus+(MoC)",
+    "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Attention"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Attention - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Attention",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30",
+  "books": []
 }

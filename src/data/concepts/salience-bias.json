@@ -1,41 +1,41 @@
 {
-    "id": "salience-bias",
-    "name": "Salience Bias",
-    "summary": "The tendency to focus on and give disproportionate weight to information that is prominent, emotionally striking, or easily noticeable.",
-    "explanation": "Salience bias is a cognitive bias where people's attention and judgment are disproportionately influenced by the most visible, memorable, or emotionally impactful features of a situation, often at the expense of more relevant but less conspicuous information. Salient features stand out due to their novelty, emotional charge, sensory vividness, or personal relevance, capturing attention and dominating our assessment even when they may not be the most important factors.\n\nThis bias has far-reaching effects on decision-making and perception. In risk assessment, dramatic events like plane crashes receive more attention than statistically more dangerous activities like driving. In politics, vivid scandals or memorable sound bites may influence voter opinions more than substantive policy positions. In medicine, rare but dramatic side effects may receive more weight than common but subtle ones. Marketing exploits salience by making certain product features visually or emotionally prominent.\n\nUnderstanding salience bias helps explain why availability heuristics can lead us astray, as easily recalled events are often the most salient rather than the most frequent. To counteract this bias, it is helpful to systematically consider all relevant factors, seek out base rate information, and be aware when emotional reactions might be driving attention. Structured decision-making frameworks that require explicit consideration of multiple criteria can help ensure that salient information does not crowd out other important considerations.",
-    "tags": [
-        "cognitive-biases",
-        "psychology",
-        "attention",
-        "decision-making",
-        "perception"
-    ],
-    "category": "Principles",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Perceptual Salience",
-        "Attention Bias"
-    ],
-    "relatedConcepts": [
-        "availability-heuristic",
-        "spotlight-effect",
-        "anchoring-bias",
-        "framing-effect"
-    ],
-    "relatedNotes": [],
-    "references": [
-        {
-            "title": "Salience (neuroscience) - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Salience_(neuroscience)",
-            "type": "website"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "datePublished": "2025-12-29",
-    "dateModified": "2025-12-29"
+  "id": "salience-bias",
+  "name": "Salience Bias",
+  "summary": "The tendency to focus on and give disproportionate weight to information that is prominent, emotionally striking, or easily noticeable.",
+  "explanation": "Salience bias is a cognitive bias where people's attention and judgment are disproportionately influenced by the most visible, memorable, or emotionally impactful features of a situation, often at the expense of more relevant but less conspicuous information. Salient features stand out due to their novelty, emotional charge, sensory vividness, or personal relevance, capturing attention and dominating our assessment even when they may not be the most important factors.\n\nThis bias has far-reaching effects on decision-making and perception. In risk assessment, dramatic events like plane crashes receive more attention than statistically more dangerous activities like driving. In politics, vivid scandals or memorable sound bites may influence voter opinions more than substantive policy positions. In medicine, rare but dramatic side effects may receive more weight than common but subtle ones. Marketing exploits salience by making certain product features visually or emotionally prominent.\n\nUnderstanding salience bias helps explain why availability heuristics can lead us astray, as easily recalled events are often the most salient rather than the most frequent. To counteract this bias, it is helpful to systematically consider all relevant factors, seek out base rate information, and be aware when emotional reactions might be driving attention. Structured decision-making frameworks that require explicit consideration of multiple criteria can help ensure that salient information does not crowd out other important considerations.",
+  "tags": [
+    "cognitive-biases",
+    "psychology",
+    "attention",
+    "decision-making",
+    "perception"
+  ],
+  "category": "Principles",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Perceptual Salience",
+    "Attention Bias"
+  ],
+  "relatedConcepts": [
+    "availability-heuristic",
+    "spotlight-effect",
+    "anchoring",
+    "framing-effect"
+  ],
+  "relatedNotes": [],
+  "references": [
+    {
+      "title": "Salience (neuroscience) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Salience_(neuroscience)",
+      "type": "website"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "datePublished": "2025-12-29",
+  "dateModified": "2025-12-29"
 }

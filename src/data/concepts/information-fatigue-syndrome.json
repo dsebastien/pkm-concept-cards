@@ -1,45 +1,45 @@
 {
-    "id": "information-fatigue-syndrome",
-    "name": "Information Fatigue Syndrome",
-    "summary": "Mental exhaustion caused by exposure to excessive amounts of information.",
-    "explanation": "Information Fatigue Syndrome (IFS) describes the stress, anxiety, and cognitive impairment that results from being overwhelmed by too much information. First named by psychologist David Lewis in 1996, IFS includes symptoms like: difficulty making decisions, inability to focus, anxiety about being uninformed, and mental paralysis when facing choices. The condition reflects how our brains struggle with modern information abundance - we evolved for information scarcity, not for consuming hundreds of news articles, emails, and notifications daily. Unlike simple tiredness, IFS creates a paradox where more information leads to worse decisions and less clarity. For knowledge workers, recognizing IFS is crucial because: the condition compounds (fatigue leads to more information-seeking), productivity suffers while busyness increases, and quality of thinking degrades even as quantity of inputs grows. Prevention requires intentional limits on information consumption.",
-    "tags": [
-        "information",
-        "overload",
-        "stresses",
-        "cognition",
-        "digital-wellness"
-    ],
-    "category": "Concepts",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Information overload syndrome",
-        "Analysis paralysis",
-        "Data overwhelm"
-    ],
-    "relatedConcepts": [
-        "information-anxiety",
-        "decision-fatigue",
-        "attention-residue",
-        "digital-detox",
-        "information-minimalism"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "information-fatigue-syndrome",
+  "name": "Information Fatigue Syndrome",
+  "summary": "Mental exhaustion caused by exposure to excessive amounts of information.",
+  "explanation": "Information Fatigue Syndrome (IFS) describes the stress, anxiety, and cognitive impairment that results from being overwhelmed by too much information. First named by psychologist David Lewis in 1996, IFS includes symptoms like: difficulty making decisions, inability to focus, anxiety about being uninformed, and mental paralysis when facing choices. The condition reflects how our brains struggle with modern information abundance - we evolved for information scarcity, not for consuming hundreds of news articles, emails, and notifications daily. Unlike simple tiredness, IFS creates a paradox where more information leads to worse decisions and less clarity. For knowledge workers, recognizing IFS is crucial because: the condition compounds (fatigue leads to more information-seeking), productivity suffers while busyness increases, and quality of thinking degrades even as quantity of inputs grows. Prevention requires intentional limits on information consumption.",
+  "tags": [
+    "information",
+    "overload",
+    "stresses",
+    "cognition",
+    "digital-wellness"
+  ],
+  "category": "Concepts",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Information overload syndrome",
+    "Analysis paralysis",
+    "Data overwhelm"
+  ],
+  "relatedConcepts": [
+    "information-overload",
+    "decision-fatigue",
+    "attention-residue",
+    "digital-detox",
+    "information-minimalism"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

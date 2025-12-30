@@ -1,54 +1,78 @@
 {
-    "id": "present-bias",
-    "name": "Present Bias",
-    "summary": "The tendency to disproportionately prefer immediate rewards over larger future rewards.",
-    "explanation": "Present bias is the tendency to weight immediate outcomes more heavily than future outcomes, leading to choices that favor now over later - even when waiting would be objectively better. It's why we: eat cake instead of dieting, scroll social media instead of working on goals, and spend rather than save. Present bias differs from simple time preference (valuing $100 now over $100 later makes sense) because it's disproportionate and reverses as options approach. We might prefer $120 in 31 days over $100 in 30 days, but choose $100 today over $120 tomorrow - the same one-day delay valued differently depending on proximity. This explains procrastination, undersaving, and other self-control failures. Countermeasures include: commitment devices (making future choices now), reducing friction for desired behaviors, and increasing present-moment awareness of future consequences. For knowledge workers, understanding present bias helps: design systems that work with this tendency, recognize when immediate desires conflict with stated goals, and create structures that protect future interests.",
-    "tags": [
-        "time",
-        "psychology",
-        "bias",
-        "decision-making",
-        "self-control"
-    ],
-    "category": "Concepts",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Hyperbolic discounting",
-        "Myopic choice",
-        "Now bias"
-    ],
-    "relatedConcepts": [
-        "temporal-discounting",
-        "delayed-gratification",
-        "procrastination-equation",
-        "instant-gratification"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Present bias - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Present_bias",
-            "type": "website"
-        },
-        {
-            "title": "Hyperbolic discounting - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Hyperbolic_discounting",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "present-bias",
+  "name": "Present Bias",
+  "summary": "The tendency to disproportionately prefer immediate rewards over larger future rewards.",
+  "explanation": "Present bias is the tendency to weight immediate outcomes more heavily than future outcomes, leading to choices that favor now over later - even when waiting would be objectively better. It's why we: eat cake instead of dieting, scroll social media instead of working on goals, and spend rather than save. Present bias differs from simple time preference (valuing $100 now over $100 later makes sense) because it's disproportionate and reverses as options approach. We might prefer $120 in 31 days over $100 in 30 days, but choose $100 today over $120 tomorrow - the same one-day delay valued differently depending on proximity. This explains procrastination, undersaving, and other self-control failures. Countermeasures include: commitment devices (making future choices now), reducing friction for desired behaviors, and increasing present-moment awareness of future consequences. For knowledge workers, understanding present bias helps: design systems that work with this tendency, recognize when immediate desires conflict with stated goals, and create structures that protect future interests.",
+  "tags": [
+    "behavioral-economics",
+    "bias",
+    "cognitive-biases",
+    "decision-making",
+    "psychology",
+    "self-control",
+    "thinking",
+    "time"
+  ],
+  "category": "Concepts",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Hyperbolic discounting",
+    "Myopic choice",
+    "Now bias",
+    "Present Bias",
+    "Temporal Discounting",
+    "Time Inconsistency"
+  ],
+  "relatedConcepts": [
+    "compound-effect",
+    "delayed-gratification",
+    "instant-gratification",
+    "procrastination-equation",
+    "sunk-cost-fallacy",
+    "temporal-discounting"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Present bias - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Present_bias",
+      "type": "website"
+    },
+    {
+      "title": "Hyperbolic discounting - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hyperbolic_discounting",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Golden Eggs and Hyperbolic Discounting - Laibson",
+      "url": "https://doi.org/10.2307/2951242",
+      "type": "paper"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-30",
+  "books": [
+    {
+      "title": "Nudge - Thaler & Sunstein",
+      "url": "https://www.goodreads.com/book/show/3450744-nudge"
+    }
+  ]
 }

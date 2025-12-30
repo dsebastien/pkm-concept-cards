@@ -1,84 +1,103 @@
 {
-    "id": "implementation-intentions",
-    "name": "Implementation Intentions",
-    "summary": "A planning strategy using if-then statements to specify when, where, and how you will perform a behavior.",
-    "explanation": "Implementation Intentions are a powerful goal-setting strategy developed by psychologist Peter Gollwitzer. Unlike traditional goal intentions ('I want to exercise more'), implementation intentions specify the when, where, and how of goal-directed behavior using an if-then format: 'If situation X arises, then I will perform behavior Y.' For example: 'If it is Monday, Wednesday, or Friday at 7am, then I will go to the gym.' Research consistently shows that people who use implementation intentions are significantly more likely to follow through on their goals. This works because the strategy pre-decides your response to a situation, removing the need for in-the-moment deliberation. Your brain essentially creates a strong link between the situational cue and the intended response. Implementation intentions are particularly effective for building habits, overcoming procrastination, and managing difficult situations. They can also be used defensively ('If I feel tempted to check social media, then I will take three deep breaths') to handle obstacles and temptations.",
-    "tags": [
-        "productivity",
-        "psychology",
-        "habits",
-        "behavior-change",
-        "techniques",
-        "goal-setting"
-    ],
-    "category": "Techniques",
-    "icon": "FaMapMarkedAlt",
-    "featured": false,
-    "aliases": [
-        "If-then planning",
-        "Action triggers",
-        "Situational planning"
-    ],
-    "relatedConcepts": [
-        "habit-stacking",
-        "pre-commitment",
-        "small-wins",
-        "consistency",
-        "self-discipline",
-        "forcing-function"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "Implementation Intentions: Strong Effects of Simple Plans",
-            "url": "https://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Implement_Intentions.pdf",
-            "type": "paper"
-        }
-    ],
-    "books": [
-        {
-            "title": "Atomic Habits by James Clear",
-            "url": "https://amzn.to/3VG1JfK"
-        }
-    ],
-    "references": [
-        {
-            "title": "Implementation intention - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Implementation_intention",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "implementation-intentions",
+  "name": "Implementation Intentions",
+  "summary": "A planning strategy using if-then statements to specify when, where, and how you will perform a behavior.",
+  "explanation": "Implementation Intentions are a powerful goal-setting strategy developed by psychologist Peter Gollwitzer. Unlike traditional goal intentions ('I want to exercise more'), implementation intentions specify the when, where, and how of goal-directed behavior using an if-then format: 'If situation X arises, then I will perform behavior Y.' For example: 'If it is Monday, Wednesday, or Friday at 7am, then I will go to the gym.' Research consistently shows that people who use implementation intentions are significantly more likely to follow through on their goals. This works because the strategy pre-decides your response to a situation, removing the need for in-the-moment deliberation. Your brain essentially creates a strong link between the situational cue and the intended response. Implementation intentions are particularly effective for building habits, overcoming procrastination, and managing difficult situations. They can also be used defensively ('If I feel tempted to check social media, then I will take three deep breaths') to handle obstacles and temptations.",
+  "tags": [
+    "behavior-change",
+    "cues",
+    "goal-setting",
+    "habits",
+    "planning",
+    "procrastination",
+    "productivity",
+    "psychology",
+    "routines",
+    "techniques"
+  ],
+  "category": "Techniques",
+  "icon": "FaMapMarkedAlt",
+  "featured": false,
+  "aliases": [
+    "Action cues",
+    "Action triggers",
+    "Behavioral triggers",
+    "Conditional planning",
+    "Habit triggers",
+    "If-then planning",
+    "Implementation intentions",
+    "Situational planning",
+    "Trigger-action planning"
+  ],
+  "relatedConcepts": [
+    "action-triggers",
+    "behavioral-activation",
+    "consistency",
+    "environment-design",
+    "forcing-function",
+    "habit-stacking",
+    "implementation-intentions",
+    "pre-commitment",
+    "self-discipline",
+    "small-wins",
+    "starting-ritual"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "Implementation Intentions: Strong Effects of Simple Plans",
+      "url": "https://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Implement_Intentions.pdf",
+      "type": "paper"
+    }
+  ],
+  "books": [
+    {
+      "title": "Atomic Habits by James Clear",
+      "url": "https://amzn.to/3VG1JfK"
+    },
+    {
+      "title": "Switch by Chip and Dan Heath",
+      "url": "https://amzn.to/3Dp09NT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Implementation intention - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Implementation_intention",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-30"
 }

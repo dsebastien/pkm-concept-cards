@@ -1,44 +1,44 @@
 {
-    "id": "three-good-things",
-    "name": "Three Good Things",
-    "summary": "Reflecting on three positive events each day to build gratitude.",
-    "explanation": "The Three Good Things technique is a positive psychology intervention where you reflect on three things that went well each day and why they happened. Unlike simple gratitude lists, this practice asks you to explain why each good thing occurred, promoting deeper reflection on what's working in your life. Research shows this simple practice, done consistently over time, significantly improves happiness and reduces depression. It shifts focus from problems to positive aspects of daily life.",
-    "tags": [
-        "gratitude",
-        "journaling",
-        "psychology",
-        "well-being"
-    ],
-    "category": "Techniques",
-    "icon": "FaSmile",
-    "featured": false,
-    "aliases": [
-        "Three blessings",
-        "What went well"
-    ],
-    "relatedConcepts": [
-        "gratitude-journal",
-        "journaling",
-        "one-one-one-method",
-        "reflective-thinking"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Three+good+things+technique"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Journaling Deep Dive Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "three-good-things",
+  "name": "Three Good Things",
+  "summary": "Reflecting on three positive events each day to build gratitude.",
+  "explanation": "The Three Good Things technique is a positive psychology intervention where you reflect on three things that went well each day and why they happened. Unlike simple gratitude lists, this practice asks you to explain why each good thing occurred, promoting deeper reflection on what's working in your life. Research shows this simple practice, done consistently over time, significantly improves happiness and reduces depression. It shifts focus from problems to positive aspects of daily life.",
+  "tags": [
+    "gratitude",
+    "journaling",
+    "psychology",
+    "well-being"
+  ],
+  "category": "Techniques",
+  "icon": "FaSmile",
+  "featured": false,
+  "aliases": [
+    "Three blessings",
+    "What went well"
+  ],
+  "relatedConcepts": [
+    "gratitude-practice",
+    "journaling",
+    "one-one-one-method",
+    "reflective-thinking"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Three+good+things+technique"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Journaling Deep Dive Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

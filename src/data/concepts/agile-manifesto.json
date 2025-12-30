@@ -1,64 +1,63 @@
 {
-    "id": "agile-manifesto",
-    "name": "Agile Manifesto",
-    "summary": "A foundational declaration of values and principles for iterative, collaborative software development.",
-    "explanation": "The Agile Manifesto is a foundational document in software development, created in February 2001 by 17 software practitioners who gathered at a ski resort in Snowbird, Utah. Frustrated with heavyweight, documentation-driven development processes, they articulated a new philosophy for building software.\n\nThe Four Core Values:\n\n1. Individuals and interactions over processes and tools\n2. Working software over comprehensive documentation\n3. Customer collaboration over contract negotiation\n4. Responding to change over following a plan\n\nThe manifesto clarifies: 'While there is value in the items on the right, we value the items on the left more.'\n\nThe Twelve Principles:\n\n1. Satisfy customers through early and continuous delivery of valuable software\n2. Welcome changing requirements, even late in development\n3. Deliver working software frequently (weeks rather than months)\n4. Business people and developers must work together daily\n5. Build projects around motivated individuals; give them the environment and support they need\n6. Face-to-face conversation is the most efficient communication method\n7. Working software is the primary measure of progress\n8. Maintain a sustainable pace indefinitely\n9. Continuous attention to technical excellence and good design\n10. Simplicity - maximizing the amount of work not done\n11. Self-organizing teams produce the best architectures, requirements, and designs\n12. Regular team reflection on how to become more effective\n\nThe Agile Manifesto spawned numerous frameworks (Scrum, Kanban, XP) and transformed how software is built worldwide. Its principles of iteration, collaboration, and adaptability have spread beyond software to product management, marketing, and personal productivity.",
-    "tags": [
-        "agile",
-        "software-development",
-        "principles",
-        "frameworks",
-        "collaboration",
-        "iteration"
-    ],
-    "category": "Frameworks",
-    "icon": "FaStream",
-    "featured": false,
-    "aliases": [
-        "Manifesto for Agile Software Development",
-        "Agile Values"
-    ],
-    "relatedConcepts": [
-        "kaizen",
-        "continuous-improvement",
-        "kanban",
-        "lean-manufacturing",
-        "scrum",
-        "scrumban",
-        "sprint",
-        "waterfall-methodology"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "Manifesto for Agile Software Development",
-            "url": "https://agilemanifesto.org/",
-            "type": "websites"
-        },
-        {
-            "title": "Principles behind the Agile Manifesto",
-            "url": "https://agilemanifesto.org/principles.html",
-            "type": "websites"
-        }
-    ],
-    "references": [
-        {
-            "title": "Agile Manifesto - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Agile_software_development",
-            "type": "websites"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Dev Concepts",
-            "url": "https://dev-concepts.dev",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "agile-manifesto",
+  "name": "Agile Manifesto",
+  "summary": "A foundational declaration of values and principles for iterative, collaborative software development.",
+  "explanation": "The Agile Manifesto is a foundational document in software development, created in February 2001 by 17 software practitioners who gathered at a ski resort in Snowbird, Utah. Frustrated with heavyweight, documentation-driven development processes, they articulated a new philosophy for building software.\n\nThe Four Core Values:\n\n1. Individuals and interactions over processes and tools\n2. Working software over comprehensive documentation\n3. Customer collaboration over contract negotiation\n4. Responding to change over following a plan\n\nThe manifesto clarifies: 'While there is value in the items on the right, we value the items on the left more.'\n\nThe Twelve Principles:\n\n1. Satisfy customers through early and continuous delivery of valuable software\n2. Welcome changing requirements, even late in development\n3. Deliver working software frequently (weeks rather than months)\n4. Business people and developers must work together daily\n5. Build projects around motivated individuals; give them the environment and support they need\n6. Face-to-face conversation is the most efficient communication method\n7. Working software is the primary measure of progress\n8. Maintain a sustainable pace indefinitely\n9. Continuous attention to technical excellence and good design\n10. Simplicity - maximizing the amount of work not done\n11. Self-organizing teams produce the best architectures, requirements, and designs\n12. Regular team reflection on how to become more effective\n\nThe Agile Manifesto spawned numerous frameworks (Scrum, Kanban, XP) and transformed how software is built worldwide. Its principles of iteration, collaboration, and adaptability have spread beyond software to product management, marketing, and personal productivity.",
+  "tags": [
+    "agile",
+    "software-development",
+    "principles",
+    "frameworks",
+    "collaboration",
+    "iteration"
+  ],
+  "category": "Frameworks",
+  "icon": "FaStream",
+  "featured": false,
+  "aliases": [
+    "Manifesto for Agile Software Development",
+    "Agile Values"
+  ],
+  "relatedConcepts": [
+    "kaizen",
+    "kanban",
+    "lean-manufacturing",
+    "scrum",
+    "scrumban",
+    "sprint",
+    "waterfall-methodology"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "Manifesto for Agile Software Development",
+      "url": "https://agilemanifesto.org/",
+      "type": "websites"
+    },
+    {
+      "title": "Principles behind the Agile Manifesto",
+      "url": "https://agilemanifesto.org/principles.html",
+      "type": "websites"
+    }
+  ],
+  "references": [
+    {
+      "title": "Agile Manifesto - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agile_software_development",
+      "type": "websites"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Dev Concepts",
+      "url": "https://dev-concepts.dev",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

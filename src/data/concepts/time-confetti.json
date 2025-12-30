@@ -1,78 +1,77 @@
 {
-    "id": "time-confetti",
-    "name": "Time Confetti",
-    "summary": "Fragmented bits of time scattered throughout the day that are hard to use productively.",
-    "explanation": "Time Confetti is a term coined by researcher Brigid Schulte to describe the scattered fragments of time that modern life leaves us with. These are the small pockets of 5-15 minutes between meetings, during commutes, or while waiting that feel too short to accomplish meaningful work. The problem with time confetti is that while we technically have free time, it's so fragmented that it's difficult to use productively. This fragmentation is exacerbated by constant interruptions from notifications, emails, and other digital distractions. Unlike a solid block of time that enables deep work and flow states, time confetti leaves us feeling simultaneously busy and unproductive. Strategies to combat time confetti include: batching similar tasks together, protecting larger time blocks for important work, reducing context switching, and being intentional about how you use small time gaps. Some people also practice having a list of 'time confetti tasks' - small, low-cognitive-load activities that can be completed in these fragmented moments.",
-    "tags": [
-        "time-management",
-        "productivity",
-        "focus",
-        "attention",
-        "problems"
-    ],
-    "category": "Concepts",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Fragmented time",
-        "Time fragments",
-        "Scattered time"
-    ],
-    "relatedConcepts": [
-        "context-switching",
-        "deep-work",
-        "flow-state",
-        "time-blocking",
-        "attention",
-        "focus"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "Time Confetti and the Broken Promise of Leisure",
-            "url": "https://www.theatlantic.com/family/archive/2021/04/time-confetti-broken-promise-leisure/618649/",
-            "type": "websites"
-        }
-    ],
-    "books": [
-        {
-            "title": "Overwhelmed: Work, Love, and Play When No One Has the Time by Brigid Schulte",
-            "url": "https://www.amazon.com/Overwhelmed-Work-Love-Play-When/dp/1250062888"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "time-confetti",
+  "name": "Time Confetti",
+  "summary": "Fragmented bits of time scattered throughout the day that are hard to use productively.",
+  "explanation": "Time Confetti is a term coined by researcher Brigid Schulte to describe the scattered fragments of time that modern life leaves us with. These are the small pockets of 5-15 minutes between meetings, during commutes, or while waiting that feel too short to accomplish meaningful work. The problem with time confetti is that while we technically have free time, it's so fragmented that it's difficult to use productively. This fragmentation is exacerbated by constant interruptions from notifications, emails, and other digital distractions. Unlike a solid block of time that enables deep work and flow states, time confetti leaves us feeling simultaneously busy and unproductive. Strategies to combat time confetti include: batching similar tasks together, protecting larger time blocks for important work, reducing context switching, and being intentional about how you use small time gaps. Some people also practice having a list of 'time confetti tasks' - small, low-cognitive-load activities that can be completed in these fragmented moments.",
+  "tags": [
+    "time-management",
+    "productivity",
+    "focus",
+    "attention",
+    "problems"
+  ],
+  "category": "Concepts",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Fragmented time",
+    "Time fragments",
+    "Scattered time"
+  ],
+  "relatedConcepts": [
+    "context-switching",
+    "deep-work",
+    "flow-state",
+    "time-blocking",
+    "focus"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "Time Confetti and the Broken Promise of Leisure",
+      "url": "https://www.theatlantic.com/family/archive/2021/04/time-confetti-broken-promise-leisure/618649/",
+      "type": "websites"
+    }
+  ],
+  "books": [
+    {
+      "title": "Overwhelmed: Work, Love, and Play When No One Has the Time by Brigid Schulte",
+      "url": "https://www.amazon.com/Overwhelmed-Work-Love-Play-When/dp/1250062888"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

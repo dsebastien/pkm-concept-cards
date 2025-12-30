@@ -1,65 +1,65 @@
 {
-    "id": "mastery-approach",
-    "name": "Mastery Approach",
-    "summary": "Focusing on learning, improvement, and skill development rather than demonstrating performance.",
-    "explanation": "A mastery approach (or mastery orientation) focuses on learning, understanding, and developing competence rather than on demonstrating ability or outperforming others. This contrasts with a performance approach that prioritizes looking capable and avoiding failure. Research on achievement goal theory shows mastery-oriented individuals: seek challenges as learning opportunities, persist longer after setbacks, use more effective learning strategies, and experience more enjoyment and intrinsic motivation. They ask 'how can I learn and improve?' rather than 'how can I prove I'm smart?' The mastery approach is more adaptive for long-term development and wellbeing. For knowledge workers, cultivating a mastery approach means: embracing difficult tasks as growth opportunities, focusing on progress over perfection, and measuring success by learning rather than just outcomes.",
-    "tags": [
-        "learning",
-        "mindsets",
-        "goals",
-        "motivations",
-        "growth"
-    ],
-    "category": "Concepts",
-    "icon": "FaGraduationCap",
-    "featured": false,
-    "aliases": [
-        "Mastery orientation",
-        "Learning goals"
-    ],
-    "relatedConcepts": [
-        "performance-approach",
-        "growth-mindset",
-        "intrinsic-motivation",
-        "deliberate-practice",
-        "process-over-outcome",
-        "continuous-improvement"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Goal orientation - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Goal_orientation",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "mastery-approach",
+  "name": "Mastery Approach",
+  "summary": "Focusing on learning, improvement, and skill development rather than demonstrating performance.",
+  "explanation": "A mastery approach (or mastery orientation) focuses on learning, understanding, and developing competence rather than on demonstrating ability or outperforming others. This contrasts with a performance approach that prioritizes looking capable and avoiding failure. Research on achievement goal theory shows mastery-oriented individuals: seek challenges as learning opportunities, persist longer after setbacks, use more effective learning strategies, and experience more enjoyment and intrinsic motivation. They ask 'how can I learn and improve?' rather than 'how can I prove I'm smart?' The mastery approach is more adaptive for long-term development and wellbeing. For knowledge workers, cultivating a mastery approach means: embracing difficult tasks as growth opportunities, focusing on progress over perfection, and measuring success by learning rather than just outcomes.",
+  "tags": [
+    "learning",
+    "mindsets",
+    "goals",
+    "motivations",
+    "growth"
+  ],
+  "category": "Concepts",
+  "icon": "FaGraduationCap",
+  "featured": false,
+  "aliases": [
+    "Mastery orientation",
+    "Learning goals"
+  ],
+  "relatedConcepts": [
+    "performance-approach",
+    "growth-mindset",
+    "intrinsic-motivation",
+    "deliberate-practice",
+    "process-over-outcome",
+    "kaizen"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Goal orientation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Goal_orientation",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

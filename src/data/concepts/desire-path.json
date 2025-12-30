@@ -1,89 +1,89 @@
 {
-    "id": "desire-path",
-    "name": "Desire Path",
-    "summary": "An unplanned trail formed by people or animals taking the path they naturally prefer, rather than the designed route.",
-    "explanation": "A desire path (also called desire line, social trail, or cow path) is an unplanned trail that emerges from the natural movement patterns of people or animals. Rather than following the designed or intended routes, users carve out paths that better serve their actual needs - typically representing the shortest, most direct, or most convenient route between two points.\n\nThe concept originated in urban planning and landscape architecture, where physical desire paths appear as worn tracks through grass or dirt, often cutting diagonally across lawns or connecting walkways that planners failed to connect. Park managers and urban planners have learned to embrace these emergent paths - some even wait after construction to see where people naturally walk, then pave those paths rather than fighting human nature.\n\nIn software and UX design, desire paths manifest as workarounds users create when the designed interface doesn't match their actual workflow. Spreadsheets used as databases, folders organized differently than intended, or features misused for purposes the designers never imagined - these are digital desire paths. Smart product teams observe these patterns and adapt their designs accordingly, recognizing that user behavior reveals unmet needs.\n\nFor personal knowledge management and productivity, desire paths suggest a powerful principle: observe your natural patterns before imposing structure. If you consistently work around a system, that's valuable information. Instead of forcing yourself to use tools 'correctly,' consider adapting your systems to match how you actually work. The paths you naturally take often reveal what you really need.\n\nThe concept has become a metaphor for intuitive design, collective wisdom, and respecting emergent behavior over imposed structure.",
-    "tags": [
-        "designs",
-        "systems-thinking",
-        "productivity",
-        "user-experience",
-        "urban-planning",
-        "emergent-behavior"
-    ],
-    "category": "Principles",
-    "icon": "FaRoad",
-    "featured": false,
-    "aliases": [
-        "Desire line",
-        "Social trail",
-        "Cow path",
-        "Elephant path",
-        "Goat track"
-    ],
-    "relatedConcepts": [
-        "choice-architecture",
-        "environment-design",
-        "wisdom-of-crowds",
-        "designing-for-emergence",
-        "continuous-improvement"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "Least Resistance: How Desire Paths Can Lead to Better Design",
-            "url": "https://99percentinvisible.org/article/least-resistance-desire-paths-can-lead-better-design/",
-            "type": "website"
-        }
-    ],
-    "books": [
-        {
-            "title": "Universal Principles of Design by William Lidwell",
-            "url": "https://www.amazon.com/dp/1592535879?tag=dsebastien00-20"
-        },
-        {
-            "title": "Living with Complexity by Donald Norman",
-            "url": "https://www.amazon.com/dp/0262528940?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Desire path - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Desire_path",
-            "type": "website"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "desire-path",
+  "name": "Desire Path",
+  "summary": "An unplanned trail formed by people or animals taking the path they naturally prefer, rather than the designed route.",
+  "explanation": "A desire path (also called desire line, social trail, or cow path) is an unplanned trail that emerges from the natural movement patterns of people or animals. Rather than following the designed or intended routes, users carve out paths that better serve their actual needs - typically representing the shortest, most direct, or most convenient route between two points.\n\nThe concept originated in urban planning and landscape architecture, where physical desire paths appear as worn tracks through grass or dirt, often cutting diagonally across lawns or connecting walkways that planners failed to connect. Park managers and urban planners have learned to embrace these emergent paths - some even wait after construction to see where people naturally walk, then pave those paths rather than fighting human nature.\n\nIn software and UX design, desire paths manifest as workarounds users create when the designed interface doesn't match their actual workflow. Spreadsheets used as databases, folders organized differently than intended, or features misused for purposes the designers never imagined - these are digital desire paths. Smart product teams observe these patterns and adapt their designs accordingly, recognizing that user behavior reveals unmet needs.\n\nFor personal knowledge management and productivity, desire paths suggest a powerful principle: observe your natural patterns before imposing structure. If you consistently work around a system, that's valuable information. Instead of forcing yourself to use tools 'correctly,' consider adapting your systems to match how you actually work. The paths you naturally take often reveal what you really need.\n\nThe concept has become a metaphor for intuitive design, collective wisdom, and respecting emergent behavior over imposed structure.",
+  "tags": [
+    "designs",
+    "systems-thinking",
+    "productivity",
+    "user-experience",
+    "urban-planning",
+    "emergent-behavior"
+  ],
+  "category": "Principles",
+  "icon": "FaRoad",
+  "featured": false,
+  "aliases": [
+    "Desire line",
+    "Social trail",
+    "Cow path",
+    "Elephant path",
+    "Goat track"
+  ],
+  "relatedConcepts": [
+    "choice-architecture",
+    "environment-design",
+    "wisdom-of-crowds",
+    "designing-for-emergence",
+    "kaizen"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "Least Resistance: How Desire Paths Can Lead to Better Design",
+      "url": "https://99percentinvisible.org/article/least-resistance-desire-paths-can-lead-better-design/",
+      "type": "website"
+    }
+  ],
+  "books": [
+    {
+      "title": "Universal Principles of Design by William Lidwell",
+      "url": "https://www.amazon.com/dp/1592535879?tag=dsebastien00-20"
+    },
+    {
+      "title": "Living with Complexity by Donald Norman",
+      "url": "https://www.amazon.com/dp/0262528940?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Desire path - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Desire_path",
+      "type": "website"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

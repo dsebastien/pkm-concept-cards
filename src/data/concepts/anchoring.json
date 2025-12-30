@@ -1,48 +1,67 @@
 {
-    "id": "anchoring",
-    "name": "Anchoring",
-    "summary": "The cognitive bias where people rely heavily on the first piece of information they encounter.",
-    "explanation": "Anchoring is the cognitive bias where people rely heavily on the first piece of information they encounter (the 'anchor') when making decisions. Subsequent judgments are made by adjusting from this anchor, but adjustments are typically insufficient. How anchoring works: an initial value is presented, all subsequent estimates are influenced by it, even when the anchor is arbitrary or irrelevant. Classic study: people spun a wheel showing random numbers, then estimated the percentage of African countries in the UN - their estimates were heavily influenced by the random number. Where anchoring appears: negotiations (first offer sets expectations), pricing (original price makes sale price seem good), estimates (initial numbers bias final estimates), and performance reviews (early impressions anchor evaluations). Using anchoring ethically: in sales, present higher anchor first then reveal true offering; in negotiations, make first offer strategically. Defending against anchoring: recognize when anchors are being used, consciously consider the anchor's relevance, and generate your own anchor before seeing others'. For knowledge workers, understanding anchoring helps: negotiate better, make less biased decisions, and recognize when your thinking is being manipulated by arbitrary starting points.",
-    "tags": [
-        "cognitive-biases",
-        "psychology",
-        "decision-making",
-        "negotiation",
-        "thinking"
-    ],
-    "category": "Concepts",
-    "icon": "FaAnchor",
-    "featured": false,
-    "aliases": [
-        "Anchoring bias",
-        "Anchoring effect",
-        "Focalism"
-    ],
-    "relatedConcepts": [
-        "price-anchoring",
-        "focusing-effect"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Thinking, Fast and Slow by Daniel Kahneman",
-            "url": "https://amzn.to/3Dp09NT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "anchoring",
+  "name": "Anchoring",
+  "summary": "The cognitive bias where people rely heavily on the first piece of information they encounter.",
+  "explanation": "Anchoring is the cognitive bias where people rely heavily on the first piece of information they encounter (the 'anchor') when making decisions. Subsequent judgments are made by adjusting from this anchor, but adjustments are typically insufficient. How anchoring works: an initial value is presented, all subsequent estimates are influenced by it, even when the anchor is arbitrary or irrelevant. Classic study: people spun a wheel showing random numbers, then estimated the percentage of African countries in the UN - their estimates were heavily influenced by the random number. Where anchoring appears: negotiations (first offer sets expectations), pricing (original price makes sale price seem good), estimates (initial numbers bias final estimates), and performance reviews (early impressions anchor evaluations). Using anchoring ethically: in sales, present higher anchor first then reveal true offering; in negotiations, make first offer strategically. Defending against anchoring: recognize when anchors are being used, consciously consider the anchor's relevance, and generate your own anchor before seeing others'. For knowledge workers, understanding anchoring helps: negotiate better, make less biased decisions, and recognize when your thinking is being manipulated by arbitrary starting points.",
+  "tags": [
+    "cognition",
+    "cognitive-biases",
+    "decision-making",
+    "negotiation",
+    "psychology",
+    "thinking"
+  ],
+  "category": "Concepts",
+  "icon": "FaAnchor",
+  "featured": false,
+  "aliases": [
+    "Anchoring bias",
+    "Anchoring effect",
+    "Focalism"
+  ],
+  "relatedConcepts": [
+    "confirmation-bias",
+    "critical-thinking",
+    "focusing-effect",
+    "price-anchoring"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Anchoring"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Thinking, Fast and Slow by Daniel Kahneman",
+      "url": "https://amzn.to/3Dp09NT"
+    },
+    {
+      "title": "Thinking, Fast and Slow by Daniel Kahneman",
+      "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Anchoring effect - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anchoring_effect",
+      "type": "website"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30"
 }

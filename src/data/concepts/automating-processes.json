@@ -1,64 +1,64 @@
 {
-    "id": "automating-processes",
-    "name": "Automating Processes",
-    "summary": "A systematic approach to identifying and automating repetitive tasks and workflows to increase efficiency and reduce manual effort.",
-    "explanation": "Automating processes is a strategic approach to improving efficiency by eliminating repetitive manual work. The process follows three key steps:\n\n1. **Standardize the process**: Before automation, ensure the process is consistent and well-defined. Document each step clearly so there's no ambiguity about what needs to happen.\n\n2. **Simplify it as much as possible**: Remove unnecessary steps, eliminate redundancies, and streamline the workflow. The simpler the process, the easier it is to automate and maintain.\n\n3. **Identify which steps can be automated**: Not every step needs or benefits from automation. Focus on repetitive, time-consuming tasks that don't require human judgment or creativity.\n\nAutomation can take many forms: scripts, macros, no-code tools, templates, or dedicated software. The goal is to free up mental energy and time for higher-value work that requires human insight and creativity. Start small with low-risk automations, then gradually expand as you build confidence and expertise.",
-    "tags": [
-        "processes",
-        "automation",
-        "efficiencies",
-        "systems",
-        "productivity"
-    ],
-    "category": "Methods",
-    "icon": "FaCogs",
-    "featured": false,
-    "aliases": [
-        "Process Automation",
-        "Workflow Automation"
-    ],
-    "relatedConcepts": [
-        "lean-manufacturing",
-        "continuous-improvement",
-        "systems-thinking"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Automating+processes"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "automating-processes",
+  "name": "Automating Processes",
+  "summary": "A systematic approach to identifying and automating repetitive tasks and workflows to increase efficiency and reduce manual effort.",
+  "explanation": "Automating processes is a strategic approach to improving efficiency by eliminating repetitive manual work. The process follows three key steps:\n\n1. **Standardize the process**: Before automation, ensure the process is consistent and well-defined. Document each step clearly so there's no ambiguity about what needs to happen.\n\n2. **Simplify it as much as possible**: Remove unnecessary steps, eliminate redundancies, and streamline the workflow. The simpler the process, the easier it is to automate and maintain.\n\n3. **Identify which steps can be automated**: Not every step needs or benefits from automation. Focus on repetitive, time-consuming tasks that don't require human judgment or creativity.\n\nAutomation can take many forms: scripts, macros, no-code tools, templates, or dedicated software. The goal is to free up mental energy and time for higher-value work that requires human insight and creativity. Start small with low-risk automations, then gradually expand as you build confidence and expertise.",
+  "tags": [
+    "processes",
+    "automation",
+    "efficiencies",
+    "systems",
+    "productivity"
+  ],
+  "category": "Methods",
+  "icon": "FaCogs",
+  "featured": false,
+  "aliases": [
+    "Process Automation",
+    "Workflow Automation"
+  ],
+  "relatedConcepts": [
+    "lean-manufacturing",
+    "kaizen",
+    "systems-thinking"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Automating+processes"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

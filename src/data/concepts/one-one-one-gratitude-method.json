@@ -1,54 +1,80 @@
 {
-    "id": "one-one-one-gratitude-method",
-    "name": "1-1-1 Gratitude Method",
-    "summary": "Daily gratitude practice: 1 person, 1 thing, 1 event to be grateful for.",
-    "explanation": "The 1-1-1 Gratitude Method is a simple daily gratitude practice where you identify: 1 person you're grateful for, 1 thing you're grateful for, and 1 event or experience you're grateful for. This structured approach makes gratitude specific rather than vague, and ensures you're acknowledging different aspects of life. The practice takes just a few minutes and can be incorporated into daily journaling or morning/evening routines. Regular gratitude practice is linked to improved wellbeing and life satisfaction.",
-    "tags": [
-        "gratitude",
-        "habits",
-        "journaling",
-        "well-being"
-    ],
-    "category": "Journaling",
-    "icon": "FaHeart",
-    "featured": false,
-    "aliases": [
-        "1-1-1 Method",
-        "1:1:1 Method"
-    ],
-    "relatedConcepts": [
-        "five-minute-journal",
-        "gratitude-journal",
-        "journaling",
-        "morning-routine"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/1-1-1+Method"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Journaling Deep Dive Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
-            "type": "other"
-        },
-        {
-            "title": "Personal Organization 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-30"
+  "id": "one-one-one-gratitude-method",
+  "name": "1-1-1 Gratitude Method",
+  "summary": "Daily gratitude practice: 1 person, 1 thing, 1 event to be grateful for.",
+  "explanation": "The 1-1-1 Gratitude Method is a simple daily gratitude practice where you identify: 1 person you're grateful for, 1 thing you're grateful for, and 1 event or experience you're grateful for. This structured approach makes gratitude specific rather than vague, and ensures you're acknowledging different aspects of life. The practice takes just a few minutes and can be incorporated into daily journaling or morning/evening routines. Regular gratitude practice is linked to improved wellbeing and life satisfaction.",
+  "tags": [
+    "gratitude",
+    "habits",
+    "journaling",
+    "productivity",
+    "reflection",
+    "well-being"
+  ],
+  "category": "Journaling",
+  "icon": "FaHeart",
+  "featured": false,
+  "aliases": [
+    "1-1-1 Journaling",
+    "1-1-1 Method",
+    "1:1:1 Method",
+    "One-One-One Method"
+  ],
+  "relatedConcepts": [
+    "evening-routine",
+    "five-minute-journal",
+    "gratitude-practice",
+    "journaling",
+    "morning-routine"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/1-1-1+Method"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Journaling Deep Dive Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+      "type": "other"
+    },
+    {
+      "title": "Personal Organization 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+      "type": "other"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30",
+  "books": []
 }

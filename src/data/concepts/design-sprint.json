@@ -1,56 +1,56 @@
 {
-    "id": "design-sprint",
-    "name": "Design Sprint",
-    "summary": "A five-day structured process to rapidly solve problems and test ideas through prototyping.",
-    "explanation": "The Design Sprint, developed at Google Ventures by Jake Knapp, is a five-day structured process for solving problems and testing ideas. Day 1: Map - understand the problem and choose a target. Day 2: Sketch - generate individual solutions. Day 3: Decide - choose the best ideas without groupthink. Day 4: Prototype - build a realistic facade of the solution. Day 5: Test - get feedback from real users. The sprint condenses months of work into a week by: forcing decisions (no endless debate), requiring tangible output (not just discussion), and testing with real users before building. Key principles include: small focused teams, no devices during sessions, and time-boxing all activities. Design sprints are particularly valuable for: de-risking major decisions, aligning stakeholders, and answering critical questions before committing resources. For knowledge workers, the design sprint framework offers: a replicable process for rapid problem-solving, techniques for avoiding groupthink, and emphasis on learning before building.",
-    "tags": [
-        "innovations",
-        "designs",
-        "processes",
-        "prototyping",
-        "problem-solving"
-    ],
-    "category": "Techniques",
-    "icon": "FaRunning",
-    "featured": false,
-    "aliases": [
-        "Google sprint",
-        "GV sprint",
-        "Five-day sprint"
-    ],
-    "relatedConcepts": [
-        "design-thinking",
-        "prototyping",
-        "rapid-experimentation",
-        "time-boxing",
-        "lean-startup"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Sprint by Jake Knapp",
-            "url": "https://amzn.to/3Dp09NT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Design sprint - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Design_sprint",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "design-sprint",
+  "name": "Design Sprint",
+  "summary": "A five-day structured process to rapidly solve problems and test ideas through prototyping.",
+  "explanation": "The Design Sprint, developed at Google Ventures by Jake Knapp, is a five-day structured process for solving problems and testing ideas. Day 1: Map - understand the problem and choose a target. Day 2: Sketch - generate individual solutions. Day 3: Decide - choose the best ideas without groupthink. Day 4: Prototype - build a realistic facade of the solution. Day 5: Test - get feedback from real users. The sprint condenses months of work into a week by: forcing decisions (no endless debate), requiring tangible output (not just discussion), and testing with real users before building. Key principles include: small focused teams, no devices during sessions, and time-boxing all activities. Design sprints are particularly valuable for: de-risking major decisions, aligning stakeholders, and answering critical questions before committing resources. For knowledge workers, the design sprint framework offers: a replicable process for rapid problem-solving, techniques for avoiding groupthink, and emphasis on learning before building.",
+  "tags": [
+    "innovations",
+    "designs",
+    "processes",
+    "prototyping",
+    "problem-solving"
+  ],
+  "category": "Techniques",
+  "icon": "FaRunning",
+  "featured": false,
+  "aliases": [
+    "Google sprint",
+    "GV sprint",
+    "Five-day sprint"
+  ],
+  "relatedConcepts": [
+    "design-thinking",
+    "prototyping",
+    "rapid-experimentation",
+    "time-blocking",
+    "lean-startup"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Sprint by Jake Knapp",
+      "url": "https://amzn.to/3Dp09NT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Design sprint - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Design_sprint",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

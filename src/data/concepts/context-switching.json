@@ -1,82 +1,88 @@
 {
-    "id": "context-switching",
-    "name": "Context Switching",
-    "summary": "The mental cost of shifting attention between different tasks.",
-    "explanation": "Context Switching is the cognitive cost of shifting attention from one task or context to another. Each switch requires mental effort to disengage from the current context, recall the new context's state, and re-engage. Studies show significant productivity loss from frequent switching - some estimate 20-40% of productive time is lost to context switches. This is why deep work requires extended uninterrupted periods. PKM systems should support quick context restoration through notes that capture mental state and next steps.",
-    "tags": [
-        "attention",
-        "cognition",
-        "focus",
-        "problems",
-        "productivity",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaExchangeAlt",
-    "featured": false,
-    "aliases": [
-        "Attention switching",
-        "Mental switching cost",
-        "Task switching"
-    ],
-    "relatedConcepts": [
-        "attention",
-        "cognitive-load",
-        "deep-work",
-        "flow-state",
-        "focus",
-        "mental-context",
-        "multitasking",
-        "stimulated-attention"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Context+switching"
-    ],
-    "articles": [
-        {
-            "title": "Saving and restoring mental contexts to improve mental health and productivity",
-            "url": "https://www.dsebastien.net/2022-09-01-saving-and-restoring-mental-contexts-to-improve-mental-health-and-productivity/",
-            "type": "websites"
-        }
-    ],
-    "references": [
-        {
-            "title": "Task switching (psychology) - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Task_switching_(psychology)",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "context-switching",
+  "name": "Context Switching",
+  "summary": "The mental cost of shifting attention between different tasks.",
+  "explanation": "Context Switching is the cognitive cost of shifting attention from one task or context to another. Each switch requires mental effort to disengage from the current context, recall the new context's state, and re-engage. Studies show significant productivity loss from frequent switching - some estimate 20-40% of productive time is lost to context switches. This is why deep work requires extended uninterrupted periods. PKM systems should support quick context restoration through notes that capture mental state and next steps.",
+  "tags": [
+    "attention",
+    "cognition",
+    "focus",
+    "multitasking",
+    "problems",
+    "productivity",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaExchangeAlt",
+  "featured": false,
+  "aliases": [
+    "Attention shifting",
+    "Attention switching",
+    "Context switching",
+    "Mental switching cost",
+    "Task switching"
+  ],
+  "relatedConcepts": [
+    "attention-residue",
+    "cognitive-load",
+    "context-switching",
+    "deep-work",
+    "flow-state",
+    "focus",
+    "mental-context",
+    "multitasking",
+    "single-tasking",
+    "stimulated-attention"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Context+switching"
+  ],
+  "articles": [
+    {
+      "title": "Saving and restoring mental contexts to improve mental health and productivity",
+      "url": "https://www.dsebastien.net/2022-09-01-saving-and-restoring-mental-contexts-to-improve-mental-health-and-productivity/",
+      "type": "websites"
+    }
+  ],
+  "references": [
+    {
+      "title": "Task switching (psychology) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Task_switching_(psychology)",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30",
+  "books": []
 }

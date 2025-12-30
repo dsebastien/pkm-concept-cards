@@ -1,65 +1,64 @@
 {
-    "id": "maker-vs-manager-schedule",
-    "name": "Maker vs Manager Schedule",
-    "summary": "The distinction between schedules optimized for creation (long blocks) versus coordination (hourly slots).",
-    "explanation": "Maker vs. manager schedule, described by Paul Graham, distinguishes two fundamentally different optimal schedules. Manager schedules work in hourly blocks - meetings, decisions, check-ins can happen any time. Maker schedules need long uninterrupted blocks - a single meeting can destroy a half-day of creative work. The conflict occurs when managers schedule makers without understanding the asymmetric cost. A 'quick 30-minute meeting' costs managers 30 minutes but can cost makers 3+ hours of context switching and lost momentum. Solutions include: protecting maker mornings (no meetings before noon), batching meetings on specific days, having 'office hours' for interaction, and explicit communication about schedule needs. Many knowledge workers need both modes and must deliberately shift between them. For makers in organizations, understanding this distinction helps: communicate needs, protect creative time, and design hybrid schedules that serve both coordination and creation.",
-    "tags": [
-        "time",
-        "productivity",
-        "creativity",
-        "meetings",
-        "schedules"
-    ],
-    "category": "Concepts",
-    "icon": "FaCalendarAlt",
-    "featured": false,
-    "aliases": [
-        "Maker schedule",
-        "Manager schedule",
-        "Creative schedule"
-    ],
-    "relatedConcepts": [
-        "deep-work",
-        "context-switching",
-        "protecting-time",
-        "calendar-blocking",
-        "time-blocking"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "maker-vs-manager-schedule",
+  "name": "Maker vs Manager Schedule",
+  "summary": "The distinction between schedules optimized for creation (long blocks) versus coordination (hourly slots).",
+  "explanation": "Maker vs. manager schedule, described by Paul Graham, distinguishes two fundamentally different optimal schedules. Manager schedules work in hourly blocks - meetings, decisions, check-ins can happen any time. Maker schedules need long uninterrupted blocks - a single meeting can destroy a half-day of creative work. The conflict occurs when managers schedule makers without understanding the asymmetric cost. A 'quick 30-minute meeting' costs managers 30 minutes but can cost makers 3+ hours of context switching and lost momentum. Solutions include: protecting maker mornings (no meetings before noon), batching meetings on specific days, having 'office hours' for interaction, and explicit communication about schedule needs. Many knowledge workers need both modes and must deliberately shift between them. For makers in organizations, understanding this distinction helps: communicate needs, protect creative time, and design hybrid schedules that serve both coordination and creation.",
+  "tags": [
+    "time",
+    "productivity",
+    "creativity",
+    "meetings",
+    "schedules"
+  ],
+  "category": "Concepts",
+  "icon": "FaCalendarAlt",
+  "featured": false,
+  "aliases": [
+    "Maker schedule",
+    "Manager schedule",
+    "Creative schedule"
+  ],
+  "relatedConcepts": [
+    "deep-work",
+    "context-switching",
+    "protecting-time",
+    "time-blocking"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

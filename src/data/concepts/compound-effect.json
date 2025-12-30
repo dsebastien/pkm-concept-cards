@@ -1,81 +1,81 @@
 {
-    "id": "compound-effect",
-    "name": "Compound Effect",
-    "summary": "Small, consistent actions accumulated over time produce massive results through exponential growth.",
-    "explanation": "The Compound Effect, popularized by Darren Hardy in his book of the same name, is the principle that small, smart choices made consistently over time will radically transform your results. Like compound interest in finance, tiny improvements accumulate exponentially rather than linearly.\n\n**The core formula:**\nSmall, Smart Choices + Consistency + Time = Radical Difference\n\n**How it works:**\n\n1. **Imperceptible beginnings**: The initial results are so small they're almost invisible. A 1% daily improvement seems negligible day-to-day.\n\n2. **Patient consistency**: The magic happens through relentless repetition. It's not about dramatic actions but sustained effort.\n\n3. **Exponential acceleration**: Over months and years, small gains compound into transformative results that seem sudden to outside observers.\n\n4. **Works both ways**: The compound effect applies equally to positive and negative habits. Small daily indulgences or deteriorations also compound.\n\n**Key principles:**\n\n- **Start small**: Focus on marginal improvements that are easy to sustain\n- **Be patient**: Results are delayed but eventually dramatic\n- **Stay consistent**: Momentum is everything; breaks reset the compounding\n- **Track progress**: What gets measured gets improved\n- **Own 100%**: Take complete responsibility for your choices\n\n**Examples:**\n\n- Reading 15 minutes daily = 20+ books per year\n- Saving $5/day = $1,825/year (plus interest)\n- 1% better each day = 37x better after one year\n- 10 minutes of exercise daily = 60+ hours annually\n\n**The patience paradox:**\nMost people overestimate what they can do in a day and underestimate what they can achieve in a decade. The Compound Effect rewards those who think in decades while acting in days.\n\nDarren Hardy's framework emphasizes that success is not about big, dramatic transformations but about making better micro-decisions in the mundane moments of everyday life.",
-    "tags": [
-        "productivity",
-        "habits",
-        "personal-development",
-        "growth",
-        "consistency"
-    ],
-    "category": "Principles",
-    "icon": "FaChartLine",
-    "featured": false,
-    "aliases": [
-        "Compounding Effect",
-        "Aggregation of Marginal Gains"
-    ],
-    "relatedConcepts": [
-        "compound-growth",
-        "one-percent-rule",
-        "habit-loop",
-        "continuous-improvement",
-        "effort-outcome-lag",
-        "metronomes-and-momentum"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "The Compound Effect - Darren Hardy",
-            "url": "https://darrenhardy.com/the-compound-effect/",
-            "type": "websites"
-        }
-    ],
-    "books": [
-        {
-            "title": "The Compound Effect by Darren Hardy",
-            "url": "https://www.amazon.com/dp/159315724X?tag=dsebastien00-20"
-        },
-        {
-            "title": "Atomic Habits by James Clear",
-            "url": "https://amzn.to/3VKgLmu"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "compound-effect",
+  "name": "Compound Effect",
+  "summary": "Small, consistent actions accumulated over time produce massive results through exponential growth.",
+  "explanation": "The Compound Effect, popularized by Darren Hardy in his book of the same name, is the principle that small, smart choices made consistently over time will radically transform your results. Like compound interest in finance, tiny improvements accumulate exponentially rather than linearly.\n\n**The core formula:**\nSmall, Smart Choices + Consistency + Time = Radical Difference\n\n**How it works:**\n\n1. **Imperceptible beginnings**: The initial results are so small they're almost invisible. A 1% daily improvement seems negligible day-to-day.\n\n2. **Patient consistency**: The magic happens through relentless repetition. It's not about dramatic actions but sustained effort.\n\n3. **Exponential acceleration**: Over months and years, small gains compound into transformative results that seem sudden to outside observers.\n\n4. **Works both ways**: The compound effect applies equally to positive and negative habits. Small daily indulgences or deteriorations also compound.\n\n**Key principles:**\n\n- **Start small**: Focus on marginal improvements that are easy to sustain\n- **Be patient**: Results are delayed but eventually dramatic\n- **Stay consistent**: Momentum is everything; breaks reset the compounding\n- **Track progress**: What gets measured gets improved\n- **Own 100%**: Take complete responsibility for your choices\n\n**Examples:**\n\n- Reading 15 minutes daily = 20+ books per year\n- Saving $5/day = $1,825/year (plus interest)\n- 1% better each day = 37x better after one year\n- 10 minutes of exercise daily = 60+ hours annually\n\n**The patience paradox:**\nMost people overestimate what they can do in a day and underestimate what they can achieve in a decade. The Compound Effect rewards those who think in decades while acting in days.\n\nDarren Hardy's framework emphasizes that success is not about big, dramatic transformations but about making better micro-decisions in the mundane moments of everyday life.",
+  "tags": [
+    "productivity",
+    "habits",
+    "personal-development",
+    "growth",
+    "consistency"
+  ],
+  "category": "Principles",
+  "icon": "FaChartLine",
+  "featured": false,
+  "aliases": [
+    "Compounding Effect",
+    "Aggregation of Marginal Gains"
+  ],
+  "relatedConcepts": [
+    "compound-growth",
+    "one-percent-rule",
+    "habit-loop",
+    "kaizen",
+    "effort-outcome-lag",
+    "metronomes-and-momentum"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "The Compound Effect - Darren Hardy",
+      "url": "https://darrenhardy.com/the-compound-effect/",
+      "type": "websites"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Compound Effect by Darren Hardy",
+      "url": "https://www.amazon.com/dp/159315724X?tag=dsebastien00-20"
+    },
+    {
+      "title": "Atomic Habits by James Clear",
+      "url": "https://amzn.to/3VKgLmu"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

@@ -1,107 +1,142 @@
 {
-    "id": "information-overload",
-    "name": "Information Overload",
-    "summary": "Having too much information to process effectively.",
-    "explanation": "Information Overload occurs when the volume of information available exceeds our capacity to process it effectively. In the digital age, we're bombarded with more content than ever before. Symptoms include difficulty focusing, decision paralysis, anxiety, and superficial engagement with content. PKM is partly a response to information overload - providing systems to filter, organize, and prioritize information. Key strategies include ruthless curation, defining clear information sources, and accepting you can't consume everything.",
-    "tags": [
-        "challenges",
-        "information",
-        "information-management",
-        "problems",
-        "productivity",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaExclamationTriangle",
-    "featured": false,
-    "aliases": [
-        "Infobesity",
-        "Information anxiety",
-        "TMI",
-        "Too much information"
-    ],
-    "relatedConcepts": [
-        "capture-system",
-        "choice-overload",
-        "cognitive-load",
-        "collectors-fallacy",
-        "content-curation",
-        "digital-minimalism",
-        "fomo",
-        "gigo",
-        "paradox-of-choice",
-        "pkm",
-        "sturgeons-law",
-        "signal-to-noise-ratio"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Too+Much+Information+(TMI)"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "Information Anxiety",
-            "url": "https://amzn.to/4cHHzJn"
-        }
-    ],
-    "references": [
-        {
-            "title": "Information overload - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Information_overload",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://www.dsebastien.net/join-the-knowii-community-and-fix-your-information-overload-problem/",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-            "type": "other"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Library",
-            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "information-overload",
+  "name": "Information Overload",
+  "summary": "Having too much information to process effectively.",
+  "explanation": "Information Overload occurs when the volume of information available exceeds our capacity to process it effectively. In the digital age, we're bombarded with more content than ever before. Symptoms include difficulty focusing, decision paralysis, anxiety, and superficial engagement with content. PKM is partly a response to information overload - providing systems to filter, organize, and prioritize information. Key strategies include ruthless curation, defining clear information sources, and accepting you can't consume everything.",
+  "tags": [
+    "anxieties",
+    "attention",
+    "challenges",
+    "communications",
+    "concepts",
+    "digital-wellness",
+    "information",
+    "information-management",
+    "problems",
+    "productivity",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaExclamationTriangle",
+  "featured": false,
+  "aliases": [
+    "FOMO anxiety",
+    "Info anxiety",
+    "Infobesity",
+    "Information anxiety",
+    "Information overload",
+    "Knowledge anxiety",
+    "Oversharing",
+    "TMI",
+    "Too much information"
+  ],
+  "relatedConcepts": [
+    "attention-management",
+    "capture-system",
+    "cognitive-load",
+    "collectors-fallacy",
+    "content-curation",
+    "continuous-partial-attention",
+    "digital-minimalism",
+    "essentialism",
+    "fomo",
+    "gigo",
+    "information-fatigue-syndrome",
+    "information-filtering",
+    "information-overload",
+    "news-diet",
+    "paradox-of-choice",
+    "pkm",
+    "signal-to-noise-ratio",
+    "sturgeons-law"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Too+Much+Information+(TMI)"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Information Anxiety",
+      "url": "https://amzn.to/4cHHzJn"
+    },
+    {
+      "title": "Information Anxiety by Richard Saul Wurman",
+      "url": "https://amzn.to/3Dq19LT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Information overload - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Information_overload",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://www.dsebastien.net/join-the-knowii-community-and-fix-your-information-overload-problem/",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+      "type": "other"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Library",
+      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "The Science of Oversharing - Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/fulfillment-any-age/201807/the-psychology-behind-oversharing",
+      "type": "website"
+    },
+    {
+      "title": "Information Overload in Communication - Simply Psychology",
+      "url": "https://www.simplypsychology.org/information-overload.html",
+      "type": "website"
+    },
+    {
+      "title": "The Art of Effective Communication: Less is More - HBR",
+      "url": "https://hbr.org/2022/10/keep-your-message-short-and-simple",
+      "type": "website"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30"
 }

@@ -1,70 +1,70 @@
 {
-    "id": "pomodoro-alternatives",
-    "name": "Pomodoro Alternatives",
-    "summary": "Alternative time-structured focus techniques beyond the standard 25-minute Pomodoro.",
-    "explanation": "Pomodoro alternatives are time-structured focus techniques that vary from the standard 25-minute Pomodoro cycle. Alternatives include: 52/17 method (52 minutes work, 17 minutes break - from DeskTime research), 90-minute blocks (matching ultradian rhythms), Flowtime (work until natural stopping point, then rest), animedoro (25 min work, anime episode break), and personalized cycles based on individual rhythms. People seek alternatives because: 25 minutes is too short for some tasks, fixed intervals don't match all work types, and individual attention spans vary. The principle remains: structured cycles with distinct work/rest phases. Choosing alternatives involves: experimenting with durations, matching to task types, and being honest about what actually works. Some work benefits from longer uninterrupted blocks; some from shorter intense bursts. For knowledge workers, exploring Pomodoro alternatives means: not assuming one size fits all, testing different structures, and finding cycles that match personal rhythms.",
-    "tags": [
-        "focus",
-        "productivity",
-        "techniques",
-        "time-management",
-        "alternatives"
-    ],
-    "category": "Techniques",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Focus timing techniques",
-        "Work cycle alternatives",
-        "Pomodoro variations"
-    ],
-    "relatedConcepts": [
-        "pomodoro-technique",
-        "work-cycles",
-        "ultradian-rhythms",
-        "time-boxing",
-        "focus-sprints"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Pomodoro Technique - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "pomodoro-alternatives",
+  "name": "Pomodoro Alternatives",
+  "summary": "Alternative time-structured focus techniques beyond the standard 25-minute Pomodoro.",
+  "explanation": "Pomodoro alternatives are time-structured focus techniques that vary from the standard 25-minute Pomodoro cycle. Alternatives include: 52/17 method (52 minutes work, 17 minutes break - from DeskTime research), 90-minute blocks (matching ultradian rhythms), Flowtime (work until natural stopping point, then rest), animedoro (25 min work, anime episode break), and personalized cycles based on individual rhythms. People seek alternatives because: 25 minutes is too short for some tasks, fixed intervals don't match all work types, and individual attention spans vary. The principle remains: structured cycles with distinct work/rest phases. Choosing alternatives involves: experimenting with durations, matching to task types, and being honest about what actually works. Some work benefits from longer uninterrupted blocks; some from shorter intense bursts. For knowledge workers, exploring Pomodoro alternatives means: not assuming one size fits all, testing different structures, and finding cycles that match personal rhythms.",
+  "tags": [
+    "focus",
+    "productivity",
+    "techniques",
+    "time-management",
+    "alternatives"
+  ],
+  "category": "Techniques",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Focus timing techniques",
+    "Work cycle alternatives",
+    "Pomodoro variations"
+  ],
+  "relatedConcepts": [
+    "pomodoro-technique",
+    "work-cycles",
+    "ultradian-rhythms",
+    "time-blocking",
+    "focus-sprints"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Pomodoro Technique - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

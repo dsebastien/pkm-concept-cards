@@ -1,57 +1,57 @@
 {
-    "id": "present-moment-awareness",
-    "name": "Present Moment Awareness",
-    "summary": "Attention to the here and now, free from rumination about the past or worry about the future.",
-    "explanation": "Present moment awareness is the practice of directing attention to what is happening right now, rather than being lost in thoughts about the past or future. Research shows we spend roughly half our waking hours mind-wandering, and this mental time travel is associated with decreased happiness, even when the content is pleasant. Present moment awareness doesn't mean never planning or reflecting, but choosing when to do so rather than being unconsciously pulled away from now. Techniques include: anchoring attention to breath or body sensations, using senses to ground in current experience, and noticing when the mind has wandered and gently returning. For knowledge workers, present moment awareness improves: task engagement, meeting quality, creative insight (which emerges from present contact), and overall life satisfaction. The present is the only place where life actually happens.",
-    "tags": [
-        "mindfulness",
-        "awareness",
-        "presence",
-        "well-being",
-        "attention"
-    ],
-    "category": "Concepts",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Being present",
-        "Present-centeredness",
-        "Here and now"
-    ],
-    "relatedConcepts": [
-        "mindfulness",
-        "rumination",
-        "anxiety",
-        "flow-state",
-        "grounding",
-        "attention"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Power of Now by Eckhart Tolle",
-            "url": "https://amzn.to/3DpQ9vT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Mindfulness - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Mindfulness",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "present-moment-awareness",
+  "name": "Present Moment Awareness",
+  "summary": "Attention to the here and now, free from rumination about the past or worry about the future.",
+  "explanation": "Present moment awareness is the practice of directing attention to what is happening right now, rather than being lost in thoughts about the past or future. Research shows we spend roughly half our waking hours mind-wandering, and this mental time travel is associated with decreased happiness, even when the content is pleasant. Present moment awareness doesn't mean never planning or reflecting, but choosing when to do so rather than being unconsciously pulled away from now. Techniques include: anchoring attention to breath or body sensations, using senses to ground in current experience, and noticing when the mind has wandered and gently returning. For knowledge workers, present moment awareness improves: task engagement, meeting quality, creative insight (which emerges from present contact), and overall life satisfaction. The present is the only place where life actually happens.",
+  "tags": [
+    "mindfulness",
+    "awareness",
+    "presence",
+    "well-being",
+    "attention"
+  ],
+  "category": "Concepts",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Being present",
+    "Present-centeredness",
+    "Here and now"
+  ],
+  "relatedConcepts": [
+    "mindfulness",
+    "rumination",
+    "anxiety",
+    "flow-state",
+    "grounding",
+    "focus"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Power of Now by Eckhart Tolle",
+      "url": "https://amzn.to/3DpQ9vT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Mindfulness - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mindfulness",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

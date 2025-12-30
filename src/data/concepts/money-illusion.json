@@ -1,55 +1,55 @@
 {
-    "id": "money-illusion",
-    "name": "Money Illusion",
-    "summary": "The tendency to think of currency in nominal terms (face value) rather than real terms (purchasing power), ignoring inflation when evaluating financial situations.",
-    "explanation": "Money Illusion is a cognitive bias where people focus on the nominal value of money (its face value) rather than its real value (actual purchasing power adjusted for inflation). This leads to systematic errors in financial decision-making, as individuals fail to account for how inflation erodes the value of currency over time.\n\nThe term was coined by economist Irving Fisher in his 1928 book 'The Money Illusion,' where he observed that people often confuse changes in nominal values with changes in real wealth. Fisher argued that this confusion was widespread and had significant economic consequences, affecting everything from wage negotiations to investment decisions and monetary policy.\n\nCommon examples of money illusion include wage satisfaction, where workers may feel content with a 2% nominal raise during 3% inflation, even though their real wages have actually declined by 1%. Similarly, in housing markets, homeowners often celebrate when their house price rises from $300,000 to $330,000 over five years, without recognizing that if inflation was 15% over that period, the real value of their home has actually decreased. Investors also fall prey to this bias when they compare nominal stock returns across different decades without adjusting for inflation.\n\nThe economic implications of money illusion are substantial. It can lead to sticky wages and prices, as workers resist nominal wage cuts even when real wages need to adjust. Central banks must account for money illusion when setting monetary policy, as people's inflation expectations and responses to interest rate changes are influenced by this bias. In periods of high inflation, money illusion can cause people to make poor financial decisions, such as keeping too much wealth in cash or accepting below-inflation returns.\n\nTo overcome money illusion, it is essential to think in real terms by always adjusting for inflation. Calculate real returns on investments (nominal return minus inflation rate), evaluate salary changes relative to inflation, and consider the purchasing power of savings over time. Using inflation calculators and regularly reviewing how prices of goods and services you purchase have changed helps maintain perspective on the true value of money. This mental discipline is crucial for sound financial planning and avoiding the subtle wealth erosion that money illusion can cause.",
-    "tags": [
-        "behavioral-economics",
-        "cognitive-biases",
-        "decision-making",
-        "economics",
-        "psychology"
-    ],
-    "category": "Principles",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Price Illusion"
-    ],
-    "relatedConcepts": [
-        "anchoring-bias",
-        "framing-effect"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Money Illusion by Irving Fisher",
-            "url": "https://www.amazon.com/dp/1614270589?tag=dsebastien00-20"
-        },
-        {
-            "title": "Thinking, Fast and Slow by Daniel Kahneman",
-            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Money Illusion - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Money_illusion",
-            "type": "website"
-        },
-        {
-            "title": "Irving Fisher - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Irving_Fisher",
-            "type": "website"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-30",
-    "dateModified": "2025-12-30"
+  "id": "money-illusion",
+  "name": "Money Illusion",
+  "summary": "The tendency to think of currency in nominal terms (face value) rather than real terms (purchasing power), ignoring inflation when evaluating financial situations.",
+  "explanation": "Money Illusion is a cognitive bias where people focus on the nominal value of money (its face value) rather than its real value (actual purchasing power adjusted for inflation). This leads to systematic errors in financial decision-making, as individuals fail to account for how inflation erodes the value of currency over time.\n\nThe term was coined by economist Irving Fisher in his 1928 book 'The Money Illusion,' where he observed that people often confuse changes in nominal values with changes in real wealth. Fisher argued that this confusion was widespread and had significant economic consequences, affecting everything from wage negotiations to investment decisions and monetary policy.\n\nCommon examples of money illusion include wage satisfaction, where workers may feel content with a 2% nominal raise during 3% inflation, even though their real wages have actually declined by 1%. Similarly, in housing markets, homeowners often celebrate when their house price rises from $300,000 to $330,000 over five years, without recognizing that if inflation was 15% over that period, the real value of their home has actually decreased. Investors also fall prey to this bias when they compare nominal stock returns across different decades without adjusting for inflation.\n\nThe economic implications of money illusion are substantial. It can lead to sticky wages and prices, as workers resist nominal wage cuts even when real wages need to adjust. Central banks must account for money illusion when setting monetary policy, as people's inflation expectations and responses to interest rate changes are influenced by this bias. In periods of high inflation, money illusion can cause people to make poor financial decisions, such as keeping too much wealth in cash or accepting below-inflation returns.\n\nTo overcome money illusion, it is essential to think in real terms by always adjusting for inflation. Calculate real returns on investments (nominal return minus inflation rate), evaluate salary changes relative to inflation, and consider the purchasing power of savings over time. Using inflation calculators and regularly reviewing how prices of goods and services you purchase have changed helps maintain perspective on the true value of money. This mental discipline is crucial for sound financial planning and avoiding the subtle wealth erosion that money illusion can cause.",
+  "tags": [
+    "behavioral-economics",
+    "cognitive-biases",
+    "decision-making",
+    "economics",
+    "psychology"
+  ],
+  "category": "Principles",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Price Illusion"
+  ],
+  "relatedConcepts": [
+    "anchoring",
+    "framing-effect"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Money Illusion by Irving Fisher",
+      "url": "https://www.amazon.com/dp/1614270589?tag=dsebastien00-20"
+    },
+    {
+      "title": "Thinking, Fast and Slow by Daniel Kahneman",
+      "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Money Illusion - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Money_illusion",
+      "type": "website"
+    },
+    {
+      "title": "Irving Fisher - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Irving_Fisher",
+      "type": "website"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-30",
+  "dateModified": "2025-12-30"
 }

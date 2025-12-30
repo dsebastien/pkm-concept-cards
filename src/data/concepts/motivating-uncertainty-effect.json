@@ -1,43 +1,43 @@
 {
-    "id": "motivating-uncertainty-effect",
-    "name": "Motivating Uncertainty Effect",
-    "summary": "Psychological phenomenon where uncertainty about receiving a reward increases motivation and engagement more than guaranteed rewards.",
-    "explanation": "The Motivating Uncertainty Effect describes how not knowing whether we will receive a reward can actually increase our motivation and engagement compared to knowing we will definitely receive it. Research by Ayelet Fishbach and colleagues has shown that uncertain rewards can make tasks more exciting and engaging, leading people to work harder and persist longer. This counterintuitive finding challenges the conventional assumption that guaranteed rewards are always more motivating than uncertain ones.\n\nThe effect appears to stem from the excitement and arousal that uncertainty generates. When outcomes are uncertain, people experience heightened emotional engagement similar to the thrill of gambling or games of chance. This emotional arousal transfers to the task itself, making it feel more interesting and enjoyable. However, the effect has important boundary conditions: it works best when the uncertainty is about whether a reward will be received rather than what the reward will be, and when people are already somewhat engaged with the task.\n\nUnderstanding this effect has practical applications for motivation design in education, gamification, and workplace incentives. Variable reward schedules, mystery prizes, and surprise bonuses can leverage this effect to boost engagement. However, the effect must be applied thoughtfully, as excessive uncertainty can create anxiety rather than excitement, and some contexts require the stability that certain rewards provide. The key is calibrating the level of uncertainty to maintain excitement without undermining trust or creating excessive stress.",
-    "tags": [
-        "cognitive-biases",
-        "psychology",
-        "motivation",
-        "decision-making",
-        "behavioral-economics"
-    ],
-    "category": "Principles",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Uncertainty Effect",
-        "Variable Reward Motivation"
-    ],
-    "relatedConcepts": [
-        "gambler-fallacy",
-        "loss-aversion",
-        "hyperbolic-discounting"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [],
-    "references": [
-        {
-            "title": "The Motivating-Uncertainty Effect - Journal of Consumer Research",
-            "url": "https://doi.org/10.1093/jcr/ucu002",
-            "type": "paper"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-29",
-    "dateModified": "2025-12-29"
+  "id": "motivating-uncertainty-effect",
+  "name": "Motivating Uncertainty Effect",
+  "summary": "Psychological phenomenon where uncertainty about receiving a reward increases motivation and engagement more than guaranteed rewards.",
+  "explanation": "The Motivating Uncertainty Effect describes how not knowing whether we will receive a reward can actually increase our motivation and engagement compared to knowing we will definitely receive it. Research by Ayelet Fishbach and colleagues has shown that uncertain rewards can make tasks more exciting and engaging, leading people to work harder and persist longer. This counterintuitive finding challenges the conventional assumption that guaranteed rewards are always more motivating than uncertain ones.\n\nThe effect appears to stem from the excitement and arousal that uncertainty generates. When outcomes are uncertain, people experience heightened emotional engagement similar to the thrill of gambling or games of chance. This emotional arousal transfers to the task itself, making it feel more interesting and enjoyable. However, the effect has important boundary conditions: it works best when the uncertainty is about whether a reward will be received rather than what the reward will be, and when people are already somewhat engaged with the task.\n\nUnderstanding this effect has practical applications for motivation design in education, gamification, and workplace incentives. Variable reward schedules, mystery prizes, and surprise bonuses can leverage this effect to boost engagement. However, the effect must be applied thoughtfully, as excessive uncertainty can create anxiety rather than excitement, and some contexts require the stability that certain rewards provide. The key is calibrating the level of uncertainty to maintain excitement without undermining trust or creating excessive stress.",
+  "tags": [
+    "cognitive-biases",
+    "psychology",
+    "motivation",
+    "decision-making",
+    "behavioral-economics"
+  ],
+  "category": "Principles",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Uncertainty Effect",
+    "Variable Reward Motivation"
+  ],
+  "relatedConcepts": [
+    "gambler-fallacy",
+    "loss-aversion",
+    "present-bias"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [],
+  "references": [
+    {
+      "title": "The Motivating-Uncertainty Effect - Journal of Consumer Research",
+      "url": "https://doi.org/10.1093/jcr/ucu002",
+      "type": "paper"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-29",
+  "dateModified": "2025-12-29"
 }

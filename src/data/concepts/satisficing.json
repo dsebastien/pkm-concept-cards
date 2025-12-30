@@ -1,80 +1,79 @@
 {
-    "id": "satisficing",
-    "name": "Satisficing",
-    "summary": "A decision-making strategy of accepting a 'good enough' option rather than seeking the optimal solution.",
-    "explanation": "Satisficing is a decision-making strategy coined by Nobel laureate Herbert Simon that combines 'satisfy' and 'suffice.' Unlike maximizing (seeking the best possible option), satisficing involves setting a threshold of acceptability and choosing the first option that meets it. This approach acknowledges our cognitive limitations and the reality that finding the truly optimal solution often requires infinite time and resources. Satisficing is particularly valuable in situations with numerous options, time constraints, or where the cost of continued searching outweighs potential gains. For example, when choosing a restaurant, a satisficer might pick the first place with good reviews and reasonable prices, rather than researching every option in town. This strategy helps combat decision fatigue, analysis paralysis, and the paradox of choice, while still producing satisfactory outcomes. The key is knowing when 'good enough' truly is good enough versus when optimization is worth the extra effort.",
-    "tags": [
-        "decision-making",
-        "psychology",
-        "mental-models",
-        "productivity",
-        "cognitive-science"
-    ],
-    "category": "Techniques",
-    "icon": "FaBalanceScale",
-    "featured": false,
-    "aliases": [
-        "Satisfice",
-        "Good Enough Principle"
-    ],
-    "relatedConcepts": [
-        "decision-fatigue",
-        "analysis-paralysis",
-        "choice-overload",
-        "paradox-of-choice",
-        "essentialism"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "Satisficing - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Satisficing",
-            "type": "websites"
-        }
-    ],
-    "books": [
-        {
-            "title": "The Sciences of the Artificial",
-            "url": "https://www.amazon.com/Sciences-Artificial-Herbert-Simon/dp/0262691914"
-        },
-        {
-            "title": "Administrative Behavior: A Study of Decision-Making Processes",
-            "url": "https://www.amazon.com/Administrative-Behavior-4th-Decision-Making-Organizations/dp/0684835827"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "satisficing",
+  "name": "Satisficing",
+  "summary": "A decision-making strategy of accepting a 'good enough' option rather than seeking the optimal solution.",
+  "explanation": "Satisficing is a decision-making strategy coined by Nobel laureate Herbert Simon that combines 'satisfy' and 'suffice.' Unlike maximizing (seeking the best possible option), satisficing involves setting a threshold of acceptability and choosing the first option that meets it. This approach acknowledges our cognitive limitations and the reality that finding the truly optimal solution often requires infinite time and resources. Satisficing is particularly valuable in situations with numerous options, time constraints, or where the cost of continued searching outweighs potential gains. For example, when choosing a restaurant, a satisficer might pick the first place with good reviews and reasonable prices, rather than researching every option in town. This strategy helps combat decision fatigue, analysis paralysis, and the paradox of choice, while still producing satisfactory outcomes. The key is knowing when 'good enough' truly is good enough versus when optimization is worth the extra effort.",
+  "tags": [
+    "decision-making",
+    "psychology",
+    "mental-models",
+    "productivity",
+    "cognitive-science"
+  ],
+  "category": "Techniques",
+  "icon": "FaBalanceScale",
+  "featured": false,
+  "aliases": [
+    "Satisfice",
+    "Good Enough Principle"
+  ],
+  "relatedConcepts": [
+    "decision-fatigue",
+    "analysis-paralysis",
+    "paradox-of-choice",
+    "essentialism"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "Satisficing - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Satisficing",
+      "type": "websites"
+    }
+  ],
+  "books": [
+    {
+      "title": "The Sciences of the Artificial",
+      "url": "https://www.amazon.com/Sciences-Artificial-Herbert-Simon/dp/0262691914"
+    },
+    {
+      "title": "Administrative Behavior: A Study of Decision-Making Processes",
+      "url": "https://www.amazon.com/Administrative-Behavior-4th-Decision-Making-Organizations/dp/0684835827"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

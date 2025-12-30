@@ -1,57 +1,57 @@
 {
-    "id": "anchor-attention",
-    "name": "Anchor Attention",
-    "summary": "Using a stable object like the breath to steady and ground a wandering mind.",
-    "explanation": "Anchor attention is the practice of using a stable, always-available object - most commonly the breath - to ground attention when the mind wanders. Like a ship's anchor prevents drifting, an attention anchor provides a home base to return to when thoughts carry you away. The breath is the most popular anchor because: it's always present, it connects mind and body, it responds to emotional states, and focusing on it activates the parasympathetic nervous system. Other anchors include: body sensations, sounds, mantras, or visual objects. The practice isn't about never leaving the anchor but about noticing when you've drifted and gently returning. Over time, this builds: the ability to notice distraction quickly, the skill of redirecting attention, and a stable presence that can weather mental storms. For knowledge workers, anchor attention is the foundation for sustained focus.",
-    "tags": [
-        "mindfulness",
-        "attention",
-        "meditation",
-        "focus",
-        "concentration"
-    ],
-    "category": "Techniques",
-    "icon": "FaAnchor",
-    "featured": false,
-    "aliases": [
-        "Attention anchor",
-        "Breath anchor",
-        "Grounding attention"
-    ],
-    "relatedConcepts": [
-        "focused-attention-meditation",
-        "mindfulness",
-        "grounding",
-        "attention",
-        "monkey-mind",
-        "present-moment-awareness"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Mind Illuminated by John Yates",
-            "url": "https://amzn.to/3DpO8sT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "anchor-attention",
+  "name": "Anchor Attention",
+  "summary": "Using a stable object like the breath to steady and ground a wandering mind.",
+  "explanation": "Anchor attention is the practice of using a stable, always-available object - most commonly the breath - to ground attention when the mind wanders. Like a ship's anchor prevents drifting, an attention anchor provides a home base to return to when thoughts carry you away. The breath is the most popular anchor because: it's always present, it connects mind and body, it responds to emotional states, and focusing on it activates the parasympathetic nervous system. Other anchors include: body sensations, sounds, mantras, or visual objects. The practice isn't about never leaving the anchor but about noticing when you've drifted and gently returning. Over time, this builds: the ability to notice distraction quickly, the skill of redirecting attention, and a stable presence that can weather mental storms. For knowledge workers, anchor attention is the foundation for sustained focus.",
+  "tags": [
+    "mindfulness",
+    "attention",
+    "meditation",
+    "focus",
+    "concentration"
+  ],
+  "category": "Techniques",
+  "icon": "FaAnchor",
+  "featured": false,
+  "aliases": [
+    "Attention anchor",
+    "Breath anchor",
+    "Grounding attention"
+  ],
+  "relatedConcepts": [
+    "focused-attention-meditation",
+    "mindfulness",
+    "grounding",
+    "focus",
+    "monkey-mind",
+    "present-moment-awareness"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Mind Illuminated by John Yates",
+      "url": "https://amzn.to/3DpO8sT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

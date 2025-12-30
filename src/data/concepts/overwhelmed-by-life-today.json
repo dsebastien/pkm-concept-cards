@@ -1,75 +1,75 @@
 {
-    "id": "overwhelmed-by-life-today",
-    "name": "Overwhelmed By Life Today (OBLT)",
-    "summary": "The modern condition of being overwhelmed by disorganization, noise, and scattered attention.",
-    "explanation": "Overwhelmed By Life Today (OBLT) describes the state many people find themselves in: overwhelmed by their lives, surrounded by noise that drowns out the signal, with attention scattered everywhere, completely unable to achieve their goals. They're victims of their lack of organization, and the situation worsens as the pace of change accelerates. OBLT is characterized by: no clear systems for managing information, constant context-switching, difficulty distinguishing important from urgent, and a feeling of being perpetually behind. The solution involves building personal systems for organization, developing attention management skills, practicing digital minimalism, and creating sustainable routines. PKM and productivity systems are direct responses to OBLT, providing structure in an increasingly chaotic world.",
-    "tags": [
-        "productivity",
-        "stresses",
-        "information-overload",
-        "personal-organization"
-    ],
-    "category": "Concepts",
-    "icon": "FaExclamationTriangle",
-    "featured": false,
-    "aliases": [
-        "OBLT",
-        "Life overwhelm"
-    ],
-    "relatedConcepts": [
-        "information-overload",
-        "burnout",
-        "attention",
-        "gtd",
-        "pkm"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Overwhelmed+By+Life+Today+(OBLT)"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Information overload - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Information_overload",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "overwhelmed-by-life-today",
+  "name": "Overwhelmed By Life Today (OBLT)",
+  "summary": "The modern condition of being overwhelmed by disorganization, noise, and scattered attention.",
+  "explanation": "Overwhelmed By Life Today (OBLT) describes the state many people find themselves in: overwhelmed by their lives, surrounded by noise that drowns out the signal, with attention scattered everywhere, completely unable to achieve their goals. They're victims of their lack of organization, and the situation worsens as the pace of change accelerates. OBLT is characterized by: no clear systems for managing information, constant context-switching, difficulty distinguishing important from urgent, and a feeling of being perpetually behind. The solution involves building personal systems for organization, developing attention management skills, practicing digital minimalism, and creating sustainable routines. PKM and productivity systems are direct responses to OBLT, providing structure in an increasingly chaotic world.",
+  "tags": [
+    "productivity",
+    "stresses",
+    "information-overload",
+    "personal-organization"
+  ],
+  "category": "Concepts",
+  "icon": "FaExclamationTriangle",
+  "featured": false,
+  "aliases": [
+    "OBLT",
+    "Life overwhelm"
+  ],
+  "relatedConcepts": [
+    "information-overload",
+    "burnout",
+    "focus",
+    "gtd",
+    "pkm"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Overwhelmed+By+Life+Today+(OBLT)"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Information overload - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Information_overload",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

@@ -1,42 +1,42 @@
 {
-    "id": "technical-debt",
-    "name": "Technical Debt",
-    "summary": "The implied cost of future rework caused by choosing quick solutions over better approaches.",
-    "explanation": "Technical Debt is a metaphor describing the accumulated cost of shortcuts, quick fixes, and suboptimal solutions in software development. Like financial debt, it accrues interest - making future changes increasingly difficult and risky. Some debt is strategic (ship now, fix later), but unmanaged debt compounds until systems become unmaintainable. The concept applies to PKM: quick-and-dirty notes, inconsistent naming, and fragmented systems create 'knowledge debt' that slows future thinking.",
-    "tags": [
-        "software",
-        "principles",
-        "debt"
-    ],
-    "category": "Concepts",
-    "icon": "FaCreditCard",
-    "featured": false,
-    "aliases": [
-        "Tech debt",
-        "Code debt"
-    ],
-    "relatedConcepts": [
-        "bit-rot",
-        "refactoring-notes",
-        "continuous-improvement"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Technical+debt"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Technical debt - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Technical_debt",
-            "type": "website"
-        },
-        {
-            "title": "Dev Concepts",
-            "url": "https://dev-concepts.dev",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-27"
+  "id": "technical-debt",
+  "name": "Technical Debt",
+  "summary": "The implied cost of future rework caused by choosing quick solutions over better approaches.",
+  "explanation": "Technical Debt is a metaphor describing the accumulated cost of shortcuts, quick fixes, and suboptimal solutions in software development. Like financial debt, it accrues interest - making future changes increasingly difficult and risky. Some debt is strategic (ship now, fix later), but unmanaged debt compounds until systems become unmaintainable. The concept applies to PKM: quick-and-dirty notes, inconsistent naming, and fragmented systems create 'knowledge debt' that slows future thinking.",
+  "tags": [
+    "software",
+    "principles",
+    "debt"
+  ],
+  "category": "Concepts",
+  "icon": "FaCreditCard",
+  "featured": false,
+  "aliases": [
+    "Tech debt",
+    "Code debt"
+  ],
+  "relatedConcepts": [
+    "bit-rot",
+    "refactoring-notes",
+    "kaizen"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Technical+debt"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Technical debt - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Technical_debt",
+      "type": "website"
+    },
+    {
+      "title": "Dev Concepts",
+      "url": "https://dev-concepts.dev",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-27"
 }

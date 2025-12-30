@@ -1,74 +1,73 @@
 {
-    "id": "sustained-attention",
-    "name": "Sustained Attention",
-    "summary": "The ability to maintain focus on a task over extended periods.",
-    "explanation": "Sustained Attention is the ability to maintain focus on a task, stimulus, or activity over extended periods. It's a critical building block for being organized and productive. However, humans cannot keep attention sustained for long periods naturally - it requires deliberate effort and practice. This is even harder for people with ADHD. Techniques like Pomodoro, environment design, and eliminating distractions help sustain attention. PKM systems should be designed to support rather than fragment attention.",
-    "tags": [
-        "attention",
-        "cognition",
-        "focus",
-        "productivity"
-    ],
-    "category": "Concepts",
-    "icon": "FaEye",
-    "featured": false,
-    "aliases": [
-        "Concentration",
-        "Focused attention"
-    ],
-    "relatedConcepts": [
-        "adhd",
-        "attention",
-        "attention-types",
-        "deep-work",
-        "directed-attention",
-        "flow-state",
-        "focus",
-        "laser-focus",
-        "pomodoro-technique"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sustained+Attention"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Vigilance (psychology) - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Vigilance_(psychology)",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-27"
+  "id": "sustained-attention",
+  "name": "Sustained Attention",
+  "summary": "The ability to maintain focus on a task over extended periods.",
+  "explanation": "Sustained Attention is the ability to maintain focus on a task, stimulus, or activity over extended periods. It's a critical building block for being organized and productive. However, humans cannot keep attention sustained for long periods naturally - it requires deliberate effort and practice. This is even harder for people with ADHD. Techniques like Pomodoro, environment design, and eliminating distractions help sustain attention. PKM systems should be designed to support rather than fragment attention.",
+  "tags": [
+    "attention",
+    "cognition",
+    "focus",
+    "productivity"
+  ],
+  "category": "Concepts",
+  "icon": "FaEye",
+  "featured": false,
+  "aliases": [
+    "Concentration",
+    "Focused attention"
+  ],
+  "relatedConcepts": [
+    "adhd",
+    "focus",
+    "attention-types",
+    "deep-work",
+    "directed-attention",
+    "flow-state",
+    "laser-focus",
+    "pomodoro-technique"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Sustained+Attention"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Vigilance (psychology) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vigilance_(psychology)",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-27"
 }

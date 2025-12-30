@@ -1,66 +1,66 @@
 {
-    "id": "focus-sprints",
-    "name": "Focus Sprints",
-    "summary": "Short, intensive periods of maximum concentration on a single task.",
-    "explanation": "Focus sprints are short, intensive periods of maximum concentration on a single task - bursts of focused effort with definite endpoints. Unlike longer deep work sessions, sprints are: time-limited (typically 15-60 minutes), single-task (one clear objective), and high-intensity (full engagement). Sprints work well for: overcoming starting resistance, tasks that need concentrated pushes, and building focus capacity. The limited duration makes full engagement more achievable than open-ended sessions. Sprints can be chained with breaks between them, or used as intensive work sessions within larger projects. Key elements: clear objective for the sprint, removal of all distractions, commitment to the full duration, and clean ending. For knowledge workers, focus sprints offer: a lower-commitment entry to deep work, a way to build focus stamina gradually, and an effective tool for tasks that resist starting.",
-    "tags": [
-        "focus",
-        "productivity",
-        "intensity",
-        "time-boxing",
-        "deep-work"
-    ],
-    "category": "Techniques",
-    "icon": "FaRunning",
-    "featured": false,
-    "aliases": [
-        "Concentrated sprints",
-        "Intense focus sessions",
-        "Power focus"
-    ],
-    "relatedConcepts": [
-        "pomodoro-technique",
-        "time-boxing",
-        "deep-work",
-        "single-tasking",
-        "work-cycles",
-        "task-initiation"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "focus-sprints",
+  "name": "Focus Sprints",
+  "summary": "Short, intensive periods of maximum concentration on a single task.",
+  "explanation": "Focus sprints are short, intensive periods of maximum concentration on a single task - bursts of focused effort with definite endpoints. Unlike longer deep work sessions, sprints are: time-limited (typically 15-60 minutes), single-task (one clear objective), and high-intensity (full engagement). Sprints work well for: overcoming starting resistance, tasks that need concentrated pushes, and building focus capacity. The limited duration makes full engagement more achievable than open-ended sessions. Sprints can be chained with breaks between them, or used as intensive work sessions within larger projects. Key elements: clear objective for the sprint, removal of all distractions, commitment to the full duration, and clean ending. For knowledge workers, focus sprints offer: a lower-commitment entry to deep work, a way to build focus stamina gradually, and an effective tool for tasks that resist starting.",
+  "tags": [
+    "focus",
+    "productivity",
+    "intensity",
+    "time-boxing",
+    "deep-work"
+  ],
+  "category": "Techniques",
+  "icon": "FaRunning",
+  "featured": false,
+  "aliases": [
+    "Concentrated sprints",
+    "Intense focus sessions",
+    "Power focus"
+  ],
+  "relatedConcepts": [
+    "pomodoro-technique",
+    "time-blocking",
+    "deep-work",
+    "single-tasking",
+    "work-cycles",
+    "task-initiation"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

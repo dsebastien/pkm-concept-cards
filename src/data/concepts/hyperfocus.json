@@ -1,76 +1,75 @@
 {
-    "id": "hyperfocus",
-    "name": "Hyperfocus",
-    "summary": "A state of intense concentration where you become completely absorbed in a task.",
-    "explanation": "Hyperfocus is a state of intense, sustained concentration where you become completely absorbed in a task - time flies, distractions fade, and productivity peaks. It's closely related to flow state but emphasizes the extreme focus aspect. Characteristics: deep immersion (outside world fades), time distortion (hours feel like minutes), high productivity (work flows effortlessly), and reduced awareness (may miss meals, notifications). Hyperfocus can be: beneficial (for important, meaningful work), problematic (when focused on wrong things), and exhausting (intense focus depletes energy). Triggering hyperfocus: intrinsically interesting tasks (curiosity drives focus), clear goals (know what you're doing), appropriate challenge (not too easy, not too hard), and eliminated distractions (nothing competing for attention). Managing hyperfocus: direct it toward important tasks, use timers to prevent overdoing it, plan recovery time afterward, and be aware of hyperfocus on unproductive activities. For those with ADHD, hyperfocus is common - the challenge is directing it productively. For knowledge workers, hyperfocus represents: peak productivity states to cultivate, a resource to be directed wisely, and a state that requires deliberate entry and exit.",
-    "tags": [
-        "focus",
-        "productivity",
-        "attention",
-        "flow",
-        "concentration"
-    ],
-    "category": "Concepts",
-    "icon": "FaCrosshairs",
-    "featured": false,
-    "aliases": [
-        "Deep focus",
-        "Intense concentration",
-        "Flow focus"
-    ],
-    "relatedConcepts": [
-        "flow-state",
-        "deep-work",
-        "focus",
-        "attention",
-        "knowledge-work-productivity"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Hyperfocus by Chris Bailey",
-            "url": "https://amzn.to/3Dp09NT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Hyperfocus - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Hyperfocus",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "hyperfocus",
+  "name": "Hyperfocus",
+  "summary": "A state of intense concentration where you become completely absorbed in a task.",
+  "explanation": "Hyperfocus is a state of intense, sustained concentration where you become completely absorbed in a task - time flies, distractions fade, and productivity peaks. It's closely related to flow state but emphasizes the extreme focus aspect. Characteristics: deep immersion (outside world fades), time distortion (hours feel like minutes), high productivity (work flows effortlessly), and reduced awareness (may miss meals, notifications). Hyperfocus can be: beneficial (for important, meaningful work), problematic (when focused on wrong things), and exhausting (intense focus depletes energy). Triggering hyperfocus: intrinsically interesting tasks (curiosity drives focus), clear goals (know what you're doing), appropriate challenge (not too easy, not too hard), and eliminated distractions (nothing competing for attention). Managing hyperfocus: direct it toward important tasks, use timers to prevent overdoing it, plan recovery time afterward, and be aware of hyperfocus on unproductive activities. For those with ADHD, hyperfocus is common - the challenge is directing it productively. For knowledge workers, hyperfocus represents: peak productivity states to cultivate, a resource to be directed wisely, and a state that requires deliberate entry and exit.",
+  "tags": [
+    "focus",
+    "productivity",
+    "attention",
+    "flow",
+    "concentration"
+  ],
+  "category": "Concepts",
+  "icon": "FaCrosshairs",
+  "featured": false,
+  "aliases": [
+    "Deep focus",
+    "Intense concentration",
+    "Flow focus"
+  ],
+  "relatedConcepts": [
+    "flow-state",
+    "deep-work",
+    "focus",
+    "knowledge-work-productivity"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Hyperfocus by Chris Bailey",
+      "url": "https://amzn.to/3Dp09NT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Hyperfocus - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hyperfocus",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

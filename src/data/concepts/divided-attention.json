@@ -1,56 +1,56 @@
 {
-    "id": "divided-attention",
-    "name": "Divided Attention",
-    "summary": "Attempting to focus on multiple tasks or stimuli simultaneously, usually with reduced performance.",
-    "explanation": "Divided attention is the attempt to focus on multiple tasks or stimuli at once. While we often try to 'multitask,' cognitive research consistently shows limitations: attention divided means attention diluted. When tasks require the same cognitive resources, performance on both degrades. Divided attention works better when: tasks use different modalities (listening while walking), one task is automated (driving while talking, for experienced drivers), or tasks don't compete for the same resources. It works poorly when: both tasks require focused thought, tasks are novel or complex, or decisions are needed. The feeling of successful multitasking often masks actual performance decrements - we're worse than we think. Some individuals divide attention better than others, but no one truly multitasks on cognitively demanding work. For knowledge workers, understanding divided attention means: recognizing that parallel work usually means worse work, and deliberately single-tasking on important cognitive tasks.",
-    "tags": [
-        "attention",
-        "cognition",
-        "multitasking",
-        "focus",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaCodeBranch",
-    "featured": false,
-    "aliases": [
-        "Split attention",
-        "Multitasking attention",
-        "Dual-task attention"
-    ],
-    "relatedConcepts": [
-        "selective-attention",
-        "multitasking",
-        "cognitive-load",
-        "attention-switching",
-        "single-tasking",
-        "focus"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Attention - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Attention",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "divided-attention",
+  "name": "Divided Attention",
+  "summary": "Attempting to focus on multiple tasks or stimuli simultaneously, usually with reduced performance.",
+  "explanation": "Divided attention is the attempt to focus on multiple tasks or stimuli at once. While we often try to 'multitask,' cognitive research consistently shows limitations: attention divided means attention diluted. When tasks require the same cognitive resources, performance on both degrades. Divided attention works better when: tasks use different modalities (listening while walking), one task is automated (driving while talking, for experienced drivers), or tasks don't compete for the same resources. It works poorly when: both tasks require focused thought, tasks are novel or complex, or decisions are needed. The feeling of successful multitasking often masks actual performance decrements - we're worse than we think. Some individuals divide attention better than others, but no one truly multitasks on cognitively demanding work. For knowledge workers, understanding divided attention means: recognizing that parallel work usually means worse work, and deliberately single-tasking on important cognitive tasks.",
+  "tags": [
+    "attention",
+    "cognition",
+    "multitasking",
+    "focus",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaCodeBranch",
+  "featured": false,
+  "aliases": [
+    "Split attention",
+    "Multitasking attention",
+    "Dual-task attention"
+  ],
+  "relatedConcepts": [
+    "selective-attention",
+    "multitasking",
+    "cognitive-load",
+    "context-switching",
+    "single-tasking",
+    "focus"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Attention - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Attention",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

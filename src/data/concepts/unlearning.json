@@ -1,54 +1,54 @@
 {
-    "id": "unlearning",
-    "name": "Unlearning",
-    "summary": "The process of discarding outdated or incorrect knowledge and habits.",
-    "explanation": "Unlearning is the process of consciously discarding outdated, incorrect, or unhelpful knowledge, habits, and mental models. As the world changes and our understanding grows, some things we 'know' become obsolete or wrong. Unlearning things is as important as learning new ones. The challenge is that old patterns are deeply ingrained. PKM helps by making beliefs explicit so they can be examined and updated. Evergreen notes should evolve, and sometimes that means removing outdated content.",
-    "tags": [
-        "concepts",
-        "growth",
-        "learning",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaEraser",
-    "featured": false,
-    "aliases": [
-        "Mental model updating",
-        "Relearning"
-    ],
-    "relatedConcepts": [
-        "continuous-improvement",
-        "evergreen-notes",
-        "growth-mindset",
-        "einstellung-effect"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Unlearning+things+is+as+important+as+learning+new+ones"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-27"
+  "id": "unlearning",
+  "name": "Unlearning",
+  "summary": "The process of discarding outdated or incorrect knowledge and habits.",
+  "explanation": "Unlearning is the process of consciously discarding outdated, incorrect, or unhelpful knowledge, habits, and mental models. As the world changes and our understanding grows, some things we 'know' become obsolete or wrong. Unlearning things is as important as learning new ones. The challenge is that old patterns are deeply ingrained. PKM helps by making beliefs explicit so they can be examined and updated. Evergreen notes should evolve, and sometimes that means removing outdated content.",
+  "tags": [
+    "concepts",
+    "growth",
+    "learning",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaEraser",
+  "featured": false,
+  "aliases": [
+    "Mental model updating",
+    "Relearning"
+  ],
+  "relatedConcepts": [
+    "kaizen",
+    "evergreen-notes",
+    "growth-mindset",
+    "einstellung-effect"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Unlearning+things+is+as+important+as+learning+new+ones"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-27"
 }

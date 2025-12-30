@@ -1,70 +1,70 @@
 {
-    "id": "knowledge-creation",
-    "name": "Knowledge Creation",
-    "summary": "The process of generating new knowledge through learning, synthesis, and insight.",
-    "explanation": "Knowledge creation is the process of generating new knowledge through learning, synthesis, research, and insight. Nonaka and Takeuchi's SECI model describes four modes: Socialization (tacit to tacit, through shared experience), Externalization (tacit to explicit, articulating insights), Combination (explicit to explicit, combining documented knowledge), and Internalization (explicit to tacit, learning through practice). Individual knowledge creation involves: reading and learning, reflecting and synthesizing, experimenting and discovering, and documenting insights. Organizational knowledge creation involves: creating environments where knowledge flows, supporting research and experimentation, and capturing and distributing new knowledge. Key enablers include: diverse information inputs, time for reflection, psychological safety to experiment, and systems for capturing insights. Barriers include: time pressure, siloed information, fear of experimentation, and lack of documentation habits. For knowledge workers, practicing knowledge creation means: intentionally synthesizing learning, documenting insights, experimenting with new approaches, and contributing to organizational knowledge.",
-    "tags": [
-        "knowledge-work",
-        "learning",
-        "innovations",
-        "creativity",
-        "synthesis"
-    ],
-    "category": "Concepts",
-    "icon": "FaLightbulb",
-    "featured": false,
-    "aliases": [
-        "Creating knowledge",
-        "Knowledge generation",
-        "Insight development"
-    ],
-    "relatedConcepts": [
-        "knowledge-synthesis",
-        "learning-curve",
-        "tacit-knowledge",
-        "explicit-knowledge"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Knowledge-Creating Company by Nonaka and Takeuchi",
-            "url": "https://amzn.to/3Dp09NT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "knowledge-creation",
+  "name": "Knowledge Creation",
+  "summary": "The process of generating new knowledge through learning, synthesis, and insight.",
+  "explanation": "Knowledge creation is the process of generating new knowledge through learning, synthesis, research, and insight. Nonaka and Takeuchi's SECI model describes four modes: Socialization (tacit to tacit, through shared experience), Externalization (tacit to explicit, articulating insights), Combination (explicit to explicit, combining documented knowledge), and Internalization (explicit to tacit, learning through practice). Individual knowledge creation involves: reading and learning, reflecting and synthesizing, experimenting and discovering, and documenting insights. Organizational knowledge creation involves: creating environments where knowledge flows, supporting research and experimentation, and capturing and distributing new knowledge. Key enablers include: diverse information inputs, time for reflection, psychological safety to experiment, and systems for capturing insights. Barriers include: time pressure, siloed information, fear of experimentation, and lack of documentation habits. For knowledge workers, practicing knowledge creation means: intentionally synthesizing learning, documenting insights, experimenting with new approaches, and contributing to organizational knowledge.",
+  "tags": [
+    "knowledge-work",
+    "learning",
+    "innovations",
+    "creativity",
+    "synthesis"
+  ],
+  "category": "Concepts",
+  "icon": "FaLightbulb",
+  "featured": false,
+  "aliases": [
+    "Creating knowledge",
+    "Knowledge generation",
+    "Insight development"
+  ],
+  "relatedConcepts": [
+    "synthesis",
+    "learning-curve",
+    "tacit-knowledge",
+    "explicit-knowledge"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Knowledge-Creating Company by Nonaka and Takeuchi",
+      "url": "https://amzn.to/3Dp09NT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

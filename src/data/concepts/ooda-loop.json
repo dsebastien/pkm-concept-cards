@@ -1,57 +1,56 @@
 {
-    "id": "ooda-loop",
-    "name": "OODA Loop",
-    "summary": "A decision-making framework consisting of four phases: Observe, Orient, Decide, and Act.",
-    "explanation": "The OODA Loop is a decision-making model developed by military strategist and U.S. Air Force Colonel John Boyd. Originally created for combat operations, it has become widely applicable to business strategy, personal development, and competitive situations. The loop consists of four phases: Observe (gathering data and information from the environment), Orient (analyzing and synthesizing information through mental models, cultural traditions, genetic heritage, and previous experiences), Decide (determining a course of action based on the orientation), and Act (executing the decision). The key insight is that success comes not from perfect decisions, but from cycling through this loop faster than opponents or competitors. In rapidly changing environments, the ability to quickly observe changes, reorient understanding, make decisions, and take action creates a significant advantage. Boyd emphasized that the Orient phase is crucial - it's where we make sense of observations and where biases and assumptions can either help or hinder us. The OODA Loop encourages continuous adaptation rather than rigid planning.",
-    "tags": [
-        "decision-making",
-        "frameworks",
-        "strategies",
-        "military-theory",
-        "mental-models",
-        "agility"
-    ],
-    "category": "Frameworks",
-    "icon": "FaSync",
-    "featured": false,
-    "aliases": [
-        "Boyd Cycle",
-        "Boyd's Cycle",
-        "Observe Orient Decide Act"
-    ],
-    "relatedConcepts": [
-        "feedback-loops-of-encouragement",
-        "systems-thinking",
-        "continuous-improvement",
-        "kaizen",
-        "bias-for-action"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "OODA Loop - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/OODA_loop",
-            "type": "websites"
-        }
-    ],
-    "books": [
-        {
-            "title": "Boyd: The Fighter Pilot Who Changed the Art of War",
-            "url": "https://www.amazon.com/Boyd-Fighter-Pilot-Who-Changed/dp/0316796883"
-        },
-        {
-            "title": "Certain to Win: The Strategy of John Boyd, Applied to Business",
-            "url": "https://www.amazon.com/Certain-Win-Strategy-Applied-Business/dp/1413453767"
-        }
-    ],
-    "references": [
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "ooda-loop",
+  "name": "OODA Loop",
+  "summary": "A decision-making framework consisting of four phases: Observe, Orient, Decide, and Act.",
+  "explanation": "The OODA Loop is a decision-making model developed by military strategist and U.S. Air Force Colonel John Boyd. Originally created for combat operations, it has become widely applicable to business strategy, personal development, and competitive situations. The loop consists of four phases: Observe (gathering data and information from the environment), Orient (analyzing and synthesizing information through mental models, cultural traditions, genetic heritage, and previous experiences), Decide (determining a course of action based on the orientation), and Act (executing the decision). The key insight is that success comes not from perfect decisions, but from cycling through this loop faster than opponents or competitors. In rapidly changing environments, the ability to quickly observe changes, reorient understanding, make decisions, and take action creates a significant advantage. Boyd emphasized that the Orient phase is crucial - it's where we make sense of observations and where biases and assumptions can either help or hinder us. The OODA Loop encourages continuous adaptation rather than rigid planning.",
+  "tags": [
+    "decision-making",
+    "frameworks",
+    "strategies",
+    "military-theory",
+    "mental-models",
+    "agility"
+  ],
+  "category": "Frameworks",
+  "icon": "FaSync",
+  "featured": false,
+  "aliases": [
+    "Boyd Cycle",
+    "Boyd's Cycle",
+    "Observe Orient Decide Act"
+  ],
+  "relatedConcepts": [
+    "feedback-loops-of-encouragement",
+    "systems-thinking",
+    "kaizen",
+    "bias-for-action"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "OODA Loop - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/OODA_loop",
+      "type": "websites"
+    }
+  ],
+  "books": [
+    {
+      "title": "Boyd: The Fighter Pilot Who Changed the Art of War",
+      "url": "https://www.amazon.com/Boyd-Fighter-Pilot-Who-Changed/dp/0316796883"
+    },
+    {
+      "title": "Certain to Win: The Strategy of John Boyd, Applied to Business",
+      "url": "https://www.amazon.com/Certain-Win-Strategy-Applied-Business/dp/1413453767"
+    }
+  ],
+  "references": [
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

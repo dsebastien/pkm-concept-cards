@@ -1,42 +1,42 @@
 {
-    "id": "decoy-effect",
-    "name": "Decoy Effect",
-    "summary": "Adding an inferior option makes another option more attractive by comparison.",
-    "explanation": "The Decoy Effect occurs when adding a third, inferior option makes one of the original options seem more attractive. A medium drink for $4 might seem expensive until a large for $4.50 is added - suddenly the large looks like great value. This asymmetric dominance influences decisions by changing the comparison context. Understanding this helps both in pricing (adding strategic decoys) and in personal decisions (recognizing when choices are being framed to push you toward a particular option).",
-    "tags": [
-        "cognitive-biases",
-        "decision-making",
-        "psychology"
-    ],
-    "category": "Cognitive Biases",
-    "icon": "FaChessKnight",
-    "featured": false,
-    "aliases": [
-        "Asymmetric dominance",
-        "Attraction effect"
-    ],
-    "relatedConcepts": [
-        "price-anchoring",
-        "choice-overload",
-        "loss-aversion"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Decoy+effect"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Decoy effect - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Decoy_effect",
-            "type": "website"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "decoy-effect",
+  "name": "Decoy Effect",
+  "summary": "Adding an inferior option makes another option more attractive by comparison.",
+  "explanation": "The Decoy Effect occurs when adding a third, inferior option makes one of the original options seem more attractive. A medium drink for $4 might seem expensive until a large for $4.50 is added - suddenly the large looks like great value. This asymmetric dominance influences decisions by changing the comparison context. Understanding this helps both in pricing (adding strategic decoys) and in personal decisions (recognizing when choices are being framed to push you toward a particular option).",
+  "tags": [
+    "cognitive-biases",
+    "decision-making",
+    "psychology"
+  ],
+  "category": "Cognitive Biases",
+  "icon": "FaChessKnight",
+  "featured": false,
+  "aliases": [
+    "Asymmetric dominance",
+    "Attraction effect"
+  ],
+  "relatedConcepts": [
+    "price-anchoring",
+    "paradox-of-choice",
+    "loss-aversion"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Decoy+effect"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Decoy effect - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Decoy_effect",
+      "type": "website"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

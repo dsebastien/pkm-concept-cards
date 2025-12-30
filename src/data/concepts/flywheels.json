@@ -1,71 +1,71 @@
 {
-    "id": "flywheels",
-    "name": "Flywheels",
-    "summary": "Self-reinforcing cycles where each action builds momentum for the next.",
-    "explanation": "A Flywheel is a self-reinforcing cycle where each step feeds into the next, building momentum over time. Popularized by Jim Collins in Good to Great, the concept applies to PKM: capturing knowledge makes you smarter, which helps you create better content, which attracts more opportunities to learn, which gives you more to capture. Unlike one-time efforts, flywheels compound - the more you push, the easier it becomes. Building personal flywheels around learning, creating, and connecting is key to long-term success.",
-    "tags": [
-        "concepts",
-        "productivity",
-        "systems"
-    ],
-    "category": "Concepts",
-    "icon": "FaSync",
-    "featured": false,
-    "aliases": [
-        "Flywheel effect",
-        "Virtuous cycles"
-    ],
-    "relatedConcepts": [
-        "compound-growth",
-        "continuous-improvement",
-        "effort-outcome-lag",
-        "positive-feedback-loop",
-        "virtuous-circle",
-        "metronomes-and-momentum"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Flywheels"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "Company of One",
-            "url": "https://amzn.to/3UQZiqs"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "flywheels",
+  "name": "Flywheels",
+  "summary": "Self-reinforcing cycles where each action builds momentum for the next.",
+  "explanation": "A Flywheel is a self-reinforcing cycle where each step feeds into the next, building momentum over time. Popularized by Jim Collins in Good to Great, the concept applies to PKM: capturing knowledge makes you smarter, which helps you create better content, which attracts more opportunities to learn, which gives you more to capture. Unlike one-time efforts, flywheels compound - the more you push, the easier it becomes. Building personal flywheels around learning, creating, and connecting is key to long-term success.",
+  "tags": [
+    "concepts",
+    "productivity",
+    "systems"
+  ],
+  "category": "Concepts",
+  "icon": "FaSync",
+  "featured": false,
+  "aliases": [
+    "Flywheel effect",
+    "Virtuous cycles"
+  ],
+  "relatedConcepts": [
+    "compound-growth",
+    "kaizen",
+    "effort-outcome-lag",
+    "positive-feedback-loop",
+    "virtuous-circle",
+    "metronomes-and-momentum"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Flywheels"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Company of One",
+      "url": "https://amzn.to/3UQZiqs"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

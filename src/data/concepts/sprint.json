@@ -1,59 +1,59 @@
 {
-    "id": "sprint",
-    "name": "Sprint",
-    "summary": "A fixed-length iteration in Scrum where a team completes a set of committed work.",
-    "explanation": "A Sprint is the heartbeat of Scrum - a time-boxed period (typically 1-4 weeks, most commonly 2 weeks) during which a cross-functional team works to complete a set of prioritized items from the product backlog.\n\nKey characteristics of Sprints:\n\n1. Fixed Duration - Sprints never extend; if work isn't complete, it returns to the backlog\n2. Sprint Goal - A clear objective that provides focus and flexibility in implementation\n3. No Mid-Sprint Changes - The scope is protected once the sprint begins\n4. Potentially Shippable Increment - Each sprint should produce working, tested functionality\n\nThe Sprint lifecycle includes:\n\n1. Sprint Planning - Team selects and commits to backlog items (typically 1-2 hours per week of sprint)\n2. Daily Scrums - Brief daily synchronization meetings\n3. Sprint Development - The actual work period\n4. Sprint Review - Demonstration to stakeholders\n5. Sprint Retrospective - Process improvement discussion\n\nSprints create a predictable rhythm that:\n\n- Limits risk to the cost of one sprint\n- Enables regular stakeholder feedback\n- Creates frequent opportunities to adjust direction\n- Builds team momentum through regular completions\n- Makes progress visible and measurable\n\nThe consistent cadence helps teams improve estimation accuracy over time and establishes trust with stakeholders through reliable delivery. Sprint length should be consistent for the team but may vary between teams based on their context and needs.",
-    "tags": [
-        "agile",
-        "scrum",
-        "project-management",
-        "timeboxing",
-        "iteration",
-        "planning"
-    ],
-    "category": "Techniques",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Iteration",
-        "Sprint Cycle",
-        "Scrum Sprint"
-    ],
-    "relatedConcepts": [
-        "scrum",
-        "sprint-planning",
-        "sprint-retrospective",
-        "daily-standup",
-        "backlog",
-        "time-boxing",
-        "velocity"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [],
-    "references": [
-        {
-            "title": "Scrum Sprint - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint",
-            "type": "website"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Dev Concepts",
-            "url": "https://dev-concepts.dev",
-            "type": "other"
-        },
-        {
-            "title": "Personal Organization 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "sprint",
+  "name": "Sprint",
+  "summary": "A fixed-length iteration in Scrum where a team completes a set of committed work.",
+  "explanation": "A Sprint is the heartbeat of Scrum - a time-boxed period (typically 1-4 weeks, most commonly 2 weeks) during which a cross-functional team works to complete a set of prioritized items from the product backlog.\n\nKey characteristics of Sprints:\n\n1. Fixed Duration - Sprints never extend; if work isn't complete, it returns to the backlog\n2. Sprint Goal - A clear objective that provides focus and flexibility in implementation\n3. No Mid-Sprint Changes - The scope is protected once the sprint begins\n4. Potentially Shippable Increment - Each sprint should produce working, tested functionality\n\nThe Sprint lifecycle includes:\n\n1. Sprint Planning - Team selects and commits to backlog items (typically 1-2 hours per week of sprint)\n2. Daily Scrums - Brief daily synchronization meetings\n3. Sprint Development - The actual work period\n4. Sprint Review - Demonstration to stakeholders\n5. Sprint Retrospective - Process improvement discussion\n\nSprints create a predictable rhythm that:\n\n- Limits risk to the cost of one sprint\n- Enables regular stakeholder feedback\n- Creates frequent opportunities to adjust direction\n- Builds team momentum through regular completions\n- Makes progress visible and measurable\n\nThe consistent cadence helps teams improve estimation accuracy over time and establishes trust with stakeholders through reliable delivery. Sprint length should be consistent for the team but may vary between teams based on their context and needs.",
+  "tags": [
+    "agile",
+    "scrum",
+    "project-management",
+    "timeboxing",
+    "iteration",
+    "planning"
+  ],
+  "category": "Techniques",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Iteration",
+    "Sprint Cycle",
+    "Scrum Sprint"
+  ],
+  "relatedConcepts": [
+    "scrum",
+    "sprint-planning",
+    "sprint-retrospective",
+    "daily-standup",
+    "backlog",
+    "time-blocking",
+    "velocity"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [],
+  "references": [
+    {
+      "title": "Scrum Sprint - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint",
+      "type": "website"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Dev Concepts",
+      "url": "https://dev-concepts.dev",
+      "type": "other"
+    },
+    {
+      "title": "Personal Organization 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

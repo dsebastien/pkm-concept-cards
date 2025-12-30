@@ -1,40 +1,40 @@
 {
-    "id": "status-quo-bias",
-    "name": "Status Quo Bias",
-    "summary": "Preference for the current state of affairs over change.",
-    "explanation": "Status Quo Bias is the preference for maintaining the current state of affairs rather than changing, even when change would be beneficial. The default option is favored simply because it's the default. This explains resistance to switching tools, updating processes, or revising notes even when improvements are possible. While some stability is valuable, being aware of status quo bias helps evaluate whether current practices truly serve you or are just comfortable habits.",
-    "tags": [
-        "cognitive-biases",
-        "changes",
-        "decision-making",
-        "psychology"
-    ],
-    "category": "Cognitive Biases",
-    "icon": "FaEquals",
-    "featured": false,
-    "aliases": [
-        "Default bias",
-        "Inertia"
-    ],
-    "relatedConcepts": [
-        "continuous-improvement",
-        "loss-aversion"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Status quo bias - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Status_quo_bias",
-            "type": "website"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "status-quo-bias",
+  "name": "Status Quo Bias",
+  "summary": "Preference for the current state of affairs over change.",
+  "explanation": "Status Quo Bias is the preference for maintaining the current state of affairs rather than changing, even when change would be beneficial. The default option is favored simply because it's the default. This explains resistance to switching tools, updating processes, or revising notes even when improvements are possible. While some stability is valuable, being aware of status quo bias helps evaluate whether current practices truly serve you or are just comfortable habits.",
+  "tags": [
+    "cognitive-biases",
+    "changes",
+    "decision-making",
+    "psychology"
+  ],
+  "category": "Cognitive Biases",
+  "icon": "FaEquals",
+  "featured": false,
+  "aliases": [
+    "Default bias",
+    "Inertia"
+  ],
+  "relatedConcepts": [
+    "kaizen",
+    "loss-aversion"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Status quo bias - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Status_quo_bias",
+      "type": "website"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

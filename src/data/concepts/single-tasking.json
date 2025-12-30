@@ -1,83 +1,82 @@
 {
-    "id": "single-tasking",
-    "name": "Single-Tasking",
-    "summary": "Focusing completely on one task at a time rather than attempting to multitask.",
-    "explanation": "Single-tasking (or monotasking) is the practice of dedicating complete attention to one task until it is finished or until a predetermined time is up. It is the deliberate opposite of multitasking, which research has consistently shown to reduce productivity and increase errors.\n\n**Why single-tasking works:**\n\n- **Cognitive efficiency**: The brain processes information more effectively when focused on one thing\n- **Reduced context-switching costs**: Every task switch incurs a mental 'switching cost' of 15-25 minutes to regain focus\n- **Higher quality output**: Undivided attention produces better work with fewer mistakes\n- **Faster completion**: Paradoxically, doing one thing at a time often results in completing more overall\n\n**How to practice single-tasking:**\n\n1. **Choose one task**: Select the most important task for the current work session\n2. **Remove distractions**: Close unnecessary tabs, silence notifications, clear your workspace\n3. **Set a time boundary**: Use time-boxing or the Pomodoro Technique (25-minute focused sessions)\n4. **Complete or pause deliberately**: Finish the task or reach a logical stopping point before switching\n5. **Take intentional breaks**: Rest between tasks to maintain cognitive freshness\n\n**Psychological benefits:**\n\n- Reduces anxiety from juggling multiple commitments\n- Creates a sense of accomplishment with each completed task\n- Builds focus as a trainable skill over time\n- Promotes presence and mindfulness in work\n\nIn a world that glorifies busyness, single-tasking is a counter-cultural practice that prioritizes effectiveness over the illusion of productivity.",
-    "tags": [
-        "productivity",
-        "focus",
-        "techniques",
-        "attention",
-        "deep-work"
-    ],
-    "category": "Techniques",
-    "icon": "FaBullseye",
-    "featured": false,
-    "aliases": [
-        "Monotasking",
-        "Uni-tasking",
-        "One Thing at a Time"
-    ],
-    "relatedConcepts": [
-        "multitasking",
-        "focus",
-        "deep-work",
-        "pomodoro-technique",
-        "time-blocking",
-        "context-switching",
-        "attention"
-    ],
-    "relatedNotes": [],
-    "articles": [
-        {
-            "title": "The Power of Single-Tasking - Psychology Today",
-            "url": "https://www.psychologytoday.com/us/blog/the-moment-youth/201901/the-power-single-tasking",
-            "type": "websites"
-        }
-    ],
-    "books": [
-        {
-            "title": "Deep Work by Cal Newport",
-            "url": "https://amzn.to/3VG1JfK"
-        },
-        {
-            "title": "The One Thing by Gary Keller",
-            "url": "https://amzn.to/3ZpHUAB"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "single-tasking",
+  "name": "Single-Tasking",
+  "summary": "Focusing completely on one task at a time rather than attempting to multitask.",
+  "explanation": "Single-tasking (or monotasking) is the practice of dedicating complete attention to one task until it is finished or until a predetermined time is up. It is the deliberate opposite of multitasking, which research has consistently shown to reduce productivity and increase errors.\n\n**Why single-tasking works:**\n\n- **Cognitive efficiency**: The brain processes information more effectively when focused on one thing\n- **Reduced context-switching costs**: Every task switch incurs a mental 'switching cost' of 15-25 minutes to regain focus\n- **Higher quality output**: Undivided attention produces better work with fewer mistakes\n- **Faster completion**: Paradoxically, doing one thing at a time often results in completing more overall\n\n**How to practice single-tasking:**\n\n1. **Choose one task**: Select the most important task for the current work session\n2. **Remove distractions**: Close unnecessary tabs, silence notifications, clear your workspace\n3. **Set a time boundary**: Use time-boxing or the Pomodoro Technique (25-minute focused sessions)\n4. **Complete or pause deliberately**: Finish the task or reach a logical stopping point before switching\n5. **Take intentional breaks**: Rest between tasks to maintain cognitive freshness\n\n**Psychological benefits:**\n\n- Reduces anxiety from juggling multiple commitments\n- Creates a sense of accomplishment with each completed task\n- Builds focus as a trainable skill over time\n- Promotes presence and mindfulness in work\n\nIn a world that glorifies busyness, single-tasking is a counter-cultural practice that prioritizes effectiveness over the illusion of productivity.",
+  "tags": [
+    "productivity",
+    "focus",
+    "techniques",
+    "attention",
+    "deep-work"
+  ],
+  "category": "Techniques",
+  "icon": "FaBullseye",
+  "featured": false,
+  "aliases": [
+    "Monotasking",
+    "Uni-tasking",
+    "One Thing at a Time"
+  ],
+  "relatedConcepts": [
+    "multitasking",
+    "focus",
+    "deep-work",
+    "pomodoro-technique",
+    "time-blocking",
+    "context-switching"
+  ],
+  "relatedNotes": [],
+  "articles": [
+    {
+      "title": "The Power of Single-Tasking - Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/the-moment-youth/201901/the-power-single-tasking",
+      "type": "websites"
+    }
+  ],
+  "books": [
+    {
+      "title": "Deep Work by Cal Newport",
+      "url": "https://amzn.to/3VG1JfK"
+    },
+    {
+      "title": "The One Thing by Gary Keller",
+      "url": "https://amzn.to/3ZpHUAB"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

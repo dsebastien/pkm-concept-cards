@@ -1,84 +1,83 @@
 {
-    "id": "flow-state",
-    "name": "Flow State",
-    "summary": "The state of complete immersion in an activity with effortless focus.",
-    "explanation": "Flow State (or 'being in the zone') is when attention is fully focused on one thing. It's the experience of being completely immersed in an activity for its own sake, stretching body and mind to accomplish something difficult and worthwhile. Characterized by Mihaly Csikszentmihalyi, flow is a sense of effortless action felt in moments that stand out as the best in our lives. Characteristics include: intense concentration, merging of action and awareness, loss of self-consciousness, sense of control, distorted time perception, and intrinsic motivation. Flow occurs when challenge level matches skill level. We enter flow more easily when interested, engaged, energized, and using our strengths at the edge of our comfort level. Tips to get more often in the zone include: eliminating distractions, setting clear goals, getting immediate feedback, and working on appropriately challenging tasks.",
-    "tags": [
-        "concepts",
-        "focus",
-        "performance",
-        "productivity",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaWater",
-    "featured": false,
-    "aliases": [
-        "Flow",
-        "In the zone",
-        "Optimal experience",
-        "Peak state"
-    ],
-    "relatedConcepts": [
-        "attention",
-        "bias-for-action",
-        "deep-work",
-        "directed-attention",
-        "dopamine",
-        "focus",
-        "laser-focus",
-        "knowledge-work-productivity",
-        "scatter-focus",
-        "sustained-attention"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Flow"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi",
-            "url": "https://www.amazon.com/dp/0061339202?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Flow (psychology) - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Flow_(psychology)",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "flow-state",
+  "name": "Flow State",
+  "summary": "The state of complete immersion in an activity with effortless focus.",
+  "explanation": "Flow State (or 'being in the zone') is when attention is fully focused on one thing. It's the experience of being completely immersed in an activity for its own sake, stretching body and mind to accomplish something difficult and worthwhile. Characterized by Mihaly Csikszentmihalyi, flow is a sense of effortless action felt in moments that stand out as the best in our lives. Characteristics include: intense concentration, merging of action and awareness, loss of self-consciousness, sense of control, distorted time perception, and intrinsic motivation. Flow occurs when challenge level matches skill level. We enter flow more easily when interested, engaged, energized, and using our strengths at the edge of our comfort level. Tips to get more often in the zone include: eliminating distractions, setting clear goals, getting immediate feedback, and working on appropriately challenging tasks.",
+  "tags": [
+    "concepts",
+    "focus",
+    "performance",
+    "productivity",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaWater",
+  "featured": false,
+  "aliases": [
+    "Flow",
+    "In the zone",
+    "Optimal experience",
+    "Peak state"
+  ],
+  "relatedConcepts": [
+    "focus",
+    "bias-for-action",
+    "deep-work",
+    "directed-attention",
+    "dopamine",
+    "laser-focus",
+    "knowledge-work-productivity",
+    "scatter-focus",
+    "sustained-attention"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Flow"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi",
+      "url": "https://www.amazon.com/dp/0061339202?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Flow (psychology) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flow_(psychology)",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

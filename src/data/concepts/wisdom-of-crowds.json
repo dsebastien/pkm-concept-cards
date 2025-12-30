@@ -1,54 +1,83 @@
 {
-    "id": "wisdom-of-crowds",
-    "name": "Wisdom of Crowds",
-    "summary": "Under the right conditions, collective judgments of groups are often more accurate than individual expert opinions.",
-    "explanation": "The Wisdom of Crowds, popularized by James Surowiecki, describes how aggregated opinions or estimates from diverse groups often outperform individual experts. The classic example is guessing the weight of an ox at a fair: while individual guesses varied widely, the median guess was remarkably accurate. This phenomenon appears in prediction markets, ensemble machine learning methods, and democratic decision-making.\n\nFour conditions must be met for crowd wisdom to emerge. First, diversity of opinion - each person should have private information or interpretation. Second, independence - people's opinions shouldn't be determined by those around them. Third, decentralization - people can draw on local knowledge. Fourth, aggregation - a mechanism exists for combining individual judgments into a collective verdict. When these conditions fail, crowds become mobs: groupthink, herding, and cascades produce inferior collective decisions.\n\nThe mechanism works through error cancellation. Individual estimates contain both signal (true information) and noise (random error). When estimates are independent, the noise cancels out when averaged, leaving a more accurate signal. This is why prediction markets, polling averages, and ensemble methods consistently outperform individual forecasts. It's also why the average of several independent estimates is usually better than the best individual estimate.\n\nPractical applications include seeking multiple independent opinions before major decisions, using prediction markets for forecasting, understanding why committees can make better decisions than individuals (when structured properly), and recognizing when crowd wisdom might fail (when independence is compromised by social influence, cascades, or shared biases).",
-    "tags": [
-        "decision-making",
-        "mental-model",
-        "thinking",
-        "collective-intelligence",
-        "forecasting"
-    ],
-    "category": "Principles",
-    "icon": "FaLightbulb",
-    "featured": false,
-    "aliases": [
-        "Collective intelligence",
-        "Crowd wisdom",
-        "Aggregated judgment"
-    ],
-    "relatedConcepts": [
-        "decision-hygiene",
-        "probabilistic-thinking",
-        "availability-cascade",
-        "in-group-bias"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Wisdom of Crowds by James Surowiecki",
-            "url": "https://www.amazon.com/Wisdom-Crowds-James-Surowiecki/dp/0385721706"
-        },
-        {
-            "title": "Superforecasting by Philip Tetlock",
-            "url": "https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718"
-        }
-    ],
-    "references": [
-        {
-            "title": "Wisdom of the Crowd - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Wisdom_of_the_crowd",
-            "type": "websites"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "wisdom-of-crowds",
+  "name": "Wisdom of Crowds",
+  "summary": "Under the right conditions, collective judgments of groups are often more accurate than individual expert opinions.",
+  "explanation": "The Wisdom of Crowds, popularized by James Surowiecki, describes how aggregated opinions or estimates from diverse groups often outperform individual experts. The classic example is guessing the weight of an ox at a fair: while individual guesses varied widely, the median guess was remarkably accurate. This phenomenon appears in prediction markets, ensemble machine learning methods, and democratic decision-making.\n\nFour conditions must be met for crowd wisdom to emerge. First, diversity of opinion - each person should have private information or interpretation. Second, independence - people's opinions shouldn't be determined by those around them. Third, decentralization - people can draw on local knowledge. Fourth, aggregation - a mechanism exists for combining individual judgments into a collective verdict. When these conditions fail, crowds become mobs: groupthink, herding, and cascades produce inferior collective decisions.\n\nThe mechanism works through error cancellation. Individual estimates contain both signal (true information) and noise (random error). When estimates are independent, the noise cancels out when averaged, leaving a more accurate signal. This is why prediction markets, polling averages, and ensemble methods consistently outperform individual forecasts. It's also why the average of several independent estimates is usually better than the best individual estimate.\n\nPractical applications include seeking multiple independent opinions before major decisions, using prediction markets for forecasting, understanding why committees can make better decisions than individuals (when structured properly), and recognizing when crowd wisdom might fail (when independence is compromised by social influence, cascades, or shared biases).",
+  "tags": [
+    "collaboration",
+    "collective-intelligence",
+    "decision-making",
+    "forecasting",
+    "innovations",
+    "intelligence",
+    "mental-model",
+    "problem-solving",
+    "teams",
+    "thinking"
+  ],
+  "category": "Principles",
+  "icon": "FaLightbulb",
+  "featured": false,
+  "aliases": [
+    "Aggregated judgment",
+    "Collective intelligence",
+    "Crowd wisdom",
+    "Group intelligence",
+    "Swarm intelligence",
+    "Wisdom of crowds"
+  ],
+  "relatedConcepts": [
+    "availability-cascade",
+    "decision-hygiene",
+    "group-decision-making",
+    "in-group-bias",
+    "probabilistic-thinking",
+    "wisdom-of-crowds"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Wisdom of Crowds by James Surowiecki",
+      "url": "https://www.amazon.com/Wisdom-Crowds-James-Surowiecki/dp/0385721706"
+    },
+    {
+      "title": "Superforecasting by Philip Tetlock",
+      "url": "https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718"
+    },
+    {
+      "title": "The Wisdom of Crowds by James Surowiecki",
+      "url": "https://amzn.to/3Dp09NT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Wisdom of the Crowd - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wisdom_of_the_crowd",
+      "type": "websites"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    },
+    {
+      "title": "Collective intelligence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Collective_intelligence",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-30"
 }

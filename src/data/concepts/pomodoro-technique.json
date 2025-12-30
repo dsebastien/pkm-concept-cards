@@ -1,77 +1,76 @@
 {
-    "id": "pomodoro-technique",
-    "name": "Pomodoro Technique",
-    "summary": "A time management method using focused work intervals with breaks.",
-    "explanation": "The Pomodoro Technique, developed by Francesco Cirillo, is a time management method using 25-minute focused work intervals (pomodoros) separated by 5-minute breaks, with longer breaks after every four pomodoros. The technique helps maintain focus, prevent burnout, and make work more measurable. The timer creates urgency and commitment. Knowing a break is coming makes it easier to resist distractions. The technique is named after the tomato-shaped kitchen timer Cirillo used as a student.",
-    "tags": [
-        "focus",
-        "productivity",
-        "techniques",
-        "time-management"
-    ],
-    "category": "Productivity",
-    "icon": "FaStopwatch",
-    "featured": false,
-    "aliases": [
-        "Pomodoro",
-        "Tomato timer"
-    ],
-    "relatedConcepts": [
-        "adhd",
-        "attention",
-        "deep-work",
-        "focus",
-        "sustained-attention",
-        "time-blocking"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pomodoro+technique"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Pomodoro Technique by Francesco Cirillo",
-            "url": "https://www.amazon.com/dp/1524760706?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Pomodoro Technique - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "pomodoro-technique",
+  "name": "Pomodoro Technique",
+  "summary": "A time management method using focused work intervals with breaks.",
+  "explanation": "The Pomodoro Technique, developed by Francesco Cirillo, is a time management method using 25-minute focused work intervals (pomodoros) separated by 5-minute breaks, with longer breaks after every four pomodoros. The technique helps maintain focus, prevent burnout, and make work more measurable. The timer creates urgency and commitment. Knowing a break is coming makes it easier to resist distractions. The technique is named after the tomato-shaped kitchen timer Cirillo used as a student.",
+  "tags": [
+    "focus",
+    "productivity",
+    "techniques",
+    "time-management"
+  ],
+  "category": "Productivity",
+  "icon": "FaStopwatch",
+  "featured": false,
+  "aliases": [
+    "Pomodoro",
+    "Tomato timer"
+  ],
+  "relatedConcepts": [
+    "adhd",
+    "focus",
+    "deep-work",
+    "sustained-attention",
+    "time-blocking"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pomodoro+technique"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Pomodoro Technique by Francesco Cirillo",
+      "url": "https://www.amazon.com/dp/1524760706?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Pomodoro Technique - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

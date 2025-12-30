@@ -1,64 +1,63 @@
 {
-    "id": "sprint-retrospective",
-    "name": "Sprint Retrospective",
-    "summary": "A team meeting at the end of each sprint to reflect on process and identify improvements.",
-    "explanation": "The Sprint Retrospective is a dedicated ceremony for the Scrum team to inspect itself and create a plan for improvements. Held at the end of each sprint before the next sprint planning, it's a cornerstone of continuous improvement in agile.\n\nTypical structure (for a 2-week sprint, 1.5-2 hours):\n\n1. Set the Stage - Create psychological safety, remind of retrospective goals\n2. Gather Data - Collect observations about what happened during the sprint\n3. Generate Insights - Identify patterns and root causes\n4. Decide What to Do - Select specific improvements for the next sprint\n5. Close the Retrospective - Appreciate the team, summarize commitments\n\nCommon retrospective formats:\n\n- What went well / What didn't / What to improve\n- Start / Stop / Continue\n- Sailboat (wind, anchor, rocks, island)\n- 4Ls (Liked, Learned, Lacked, Longed for)\n- Mad / Sad / Glad\n- Timeline retrospective\n\nKey principles for effective retrospectives:\n\n1. Prime Directive - Assume everyone did their best given what they knew\n2. Focus on systems, not individuals\n3. Limit improvements to 1-3 actionable items\n4. Follow up on previous improvements\n5. Vary the format to keep engagement high\n6. Create psychological safety for honest feedback\n\nThe Scrum Master typically facilitates, but any team member can lead. The output should be specific, actionable improvements that the team commits to implementing in the next sprint.\n\nRetrospectives transform teams from merely doing agile to being agile - embodying the principle of continuous adaptation and learning.",
-    "tags": [
-        "agile",
-        "scrum",
-        "continuous-improvement",
-        "teams",
-        "reflection",
-        "meetings"
-    ],
-    "category": "Techniques",
-    "icon": "FaSyncAlt",
-    "featured": false,
-    "aliases": [
-        "Retrospective",
-        "Retro",
-        "Sprint Retro"
-    ],
-    "relatedConcepts": [
-        "scrum",
-        "sprint",
-        "kaizen",
-        "continuous-improvement",
-        "scrum-master",
-        "psychological-safety",
-        "daily-standup"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Agile Retrospectives: Making Good Teams Great by Esther Derby and Diana Larsen",
-            "url": "https://www.amazon.com/dp/0977616649?tag=dsebastien00-20"
-        }
-    ],
-    "references": [
-        {
-            "title": "Sprint Retrospective - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_retrospective",
-            "type": "website"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Dev Concepts",
-            "url": "https://dev-concepts.dev",
-            "type": "other"
-        },
-        {
-            "title": "Journaling Deep Dive Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "sprint-retrospective",
+  "name": "Sprint Retrospective",
+  "summary": "A team meeting at the end of each sprint to reflect on process and identify improvements.",
+  "explanation": "The Sprint Retrospective is a dedicated ceremony for the Scrum team to inspect itself and create a plan for improvements. Held at the end of each sprint before the next sprint planning, it's a cornerstone of continuous improvement in agile.\n\nTypical structure (for a 2-week sprint, 1.5-2 hours):\n\n1. Set the Stage - Create psychological safety, remind of retrospective goals\n2. Gather Data - Collect observations about what happened during the sprint\n3. Generate Insights - Identify patterns and root causes\n4. Decide What to Do - Select specific improvements for the next sprint\n5. Close the Retrospective - Appreciate the team, summarize commitments\n\nCommon retrospective formats:\n\n- What went well / What didn't / What to improve\n- Start / Stop / Continue\n- Sailboat (wind, anchor, rocks, island)\n- 4Ls (Liked, Learned, Lacked, Longed for)\n- Mad / Sad / Glad\n- Timeline retrospective\n\nKey principles for effective retrospectives:\n\n1. Prime Directive - Assume everyone did their best given what they knew\n2. Focus on systems, not individuals\n3. Limit improvements to 1-3 actionable items\n4. Follow up on previous improvements\n5. Vary the format to keep engagement high\n6. Create psychological safety for honest feedback\n\nThe Scrum Master typically facilitates, but any team member can lead. The output should be specific, actionable improvements that the team commits to implementing in the next sprint.\n\nRetrospectives transform teams from merely doing agile to being agile - embodying the principle of continuous adaptation and learning.",
+  "tags": [
+    "agile",
+    "scrum",
+    "continuous-improvement",
+    "teams",
+    "reflection",
+    "meetings"
+  ],
+  "category": "Techniques",
+  "icon": "FaSyncAlt",
+  "featured": false,
+  "aliases": [
+    "Retrospective",
+    "Retro",
+    "Sprint Retro"
+  ],
+  "relatedConcepts": [
+    "scrum",
+    "sprint",
+    "kaizen",
+    "scrum-master",
+    "psychological-safety",
+    "daily-standup"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Agile Retrospectives: Making Good Teams Great by Esther Derby and Diana Larsen",
+      "url": "https://www.amazon.com/dp/0977616649?tag=dsebastien00-20"
+    }
+  ],
+  "references": [
+    {
+      "title": "Sprint Retrospective - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_retrospective",
+      "type": "website"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Dev Concepts",
+      "url": "https://dev-concepts.dev",
+      "type": "other"
+    },
+    {
+      "title": "Journaling Deep Dive Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

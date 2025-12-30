@@ -1,62 +1,61 @@
 {
-    "id": "focused-attention-meditation",
-    "name": "Focused Attention Meditation",
-    "summary": "Meditation practice concentrating on a single object, typically the breath.",
-    "explanation": "Focused attention meditation (also called concentration meditation or samatha) involves training attention by focusing on a single object - most commonly the breath, but also a mantra, visualization, or external object. When the mind wanders (and it will), you notice the wandering and gently return attention to the object. This cycle of focusing, wandering, noticing, and returning is the practice itself. Regular practice strengthens: sustained attention, the ability to notice when distracted, and the capacity to redirect attention. It's typically taught as foundational before open awareness practices. For knowledge workers, focused attention meditation directly trains the concentration needed for deep work. Even 10 minutes daily can improve focus, reduce mind-wandering, and increase meta-awareness (knowing what your mind is doing). The breath is popular because it's always available, naturally rhythmic, and connects mind and body.",
-    "tags": [
-        "mindfulness",
-        "meditation",
-        "concentration",
-        "attention",
-        "focus"
-    ],
-    "category": "Techniques",
-    "icon": "FaBullseye",
-    "featured": false,
-    "aliases": [
-        "Concentration meditation",
-        "Samatha",
-        "Single-pointed meditation"
-    ],
-    "relatedConcepts": [
-        "mindfulness",
-        "open-awareness",
-        "attention",
-        "focus",
-        "deep-work",
-        "anchor-attention"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "The Mind Illuminated by John Yates",
-            "url": "https://amzn.to/3DpO8sT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Samatha-vipassana - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Samatha-vipassan%C4%81",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "focused-attention-meditation",
+  "name": "Focused Attention Meditation",
+  "summary": "Meditation practice concentrating on a single object, typically the breath.",
+  "explanation": "Focused attention meditation (also called concentration meditation or samatha) involves training attention by focusing on a single object - most commonly the breath, but also a mantra, visualization, or external object. When the mind wanders (and it will), you notice the wandering and gently return attention to the object. This cycle of focusing, wandering, noticing, and returning is the practice itself. Regular practice strengthens: sustained attention, the ability to notice when distracted, and the capacity to redirect attention. It's typically taught as foundational before open awareness practices. For knowledge workers, focused attention meditation directly trains the concentration needed for deep work. Even 10 minutes daily can improve focus, reduce mind-wandering, and increase meta-awareness (knowing what your mind is doing). The breath is popular because it's always available, naturally rhythmic, and connects mind and body.",
+  "tags": [
+    "mindfulness",
+    "meditation",
+    "concentration",
+    "attention",
+    "focus"
+  ],
+  "category": "Techniques",
+  "icon": "FaBullseye",
+  "featured": false,
+  "aliases": [
+    "Concentration meditation",
+    "Samatha",
+    "Single-pointed meditation"
+  ],
+  "relatedConcepts": [
+    "mindfulness",
+    "open-awareness",
+    "focus",
+    "deep-work",
+    "anchor-attention"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "The Mind Illuminated by John Yates",
+      "url": "https://amzn.to/3DpO8sT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Samatha-vipassana - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samatha-vipassan%C4%81",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

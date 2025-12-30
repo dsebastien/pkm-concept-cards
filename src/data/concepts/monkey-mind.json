@@ -1,45 +1,45 @@
 {
-    "id": "monkey-mind",
-    "name": "Monkey Mind",
-    "summary": "The Buddhist term for an unsettled, restless mind that jumps from thought to thought like a monkey in trees.",
-    "explanation": "Monkey mind (kapicitta in Buddhist texts) describes the restless, unsettled quality of the untrained mind - jumping from thought to thought, worry to worry, like a monkey swinging from branch to branch. This constant mental chatter prevents focus, fuels anxiety, and disconnects us from the present moment. The monkey mind isn't inherently bad - it evolved to scan for threats and opportunities - but in modern life it often runs unchecked, generating endless commentary, planning, and worry. Meditation and mindfulness practices aim to calm the monkey, not by suppressing thoughts but by developing a stable awareness that can observe the jumping without being pulled along. For knowledge workers, taming monkey mind is essential for: deep work, clear decision-making, creative insight, and reducing anxiety. The first step is simply noticing the monkey at work.",
-    "tags": [
-        "mindfulness",
-        "buddhism",
-        "thinking",
-        "attention",
-        "meditation"
-    ],
-    "category": "Concepts",
-    "icon": "FaThLarge",
-    "featured": false,
-    "aliases": [
-        "Kapicitta",
-        "Restless mind",
-        "Racing thoughts"
-    ],
-    "relatedConcepts": [
-        "mindfulness",
-        "rumination",
-        "attention",
-        "focused-attention-meditation",
-        "present-moment-awareness"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "monkey-mind",
+  "name": "Monkey Mind",
+  "summary": "The Buddhist term for an unsettled, restless mind that jumps from thought to thought like a monkey in trees.",
+  "explanation": "Monkey mind (kapicitta in Buddhist texts) describes the restless, unsettled quality of the untrained mind - jumping from thought to thought, worry to worry, like a monkey swinging from branch to branch. This constant mental chatter prevents focus, fuels anxiety, and disconnects us from the present moment. The monkey mind isn't inherently bad - it evolved to scan for threats and opportunities - but in modern life it often runs unchecked, generating endless commentary, planning, and worry. Meditation and mindfulness practices aim to calm the monkey, not by suppressing thoughts but by developing a stable awareness that can observe the jumping without being pulled along. For knowledge workers, taming monkey mind is essential for: deep work, clear decision-making, creative insight, and reducing anxiety. The first step is simply noticing the monkey at work.",
+  "tags": [
+    "mindfulness",
+    "buddhism",
+    "thinking",
+    "attention",
+    "meditation"
+  ],
+  "category": "Concepts",
+  "icon": "FaThLarge",
+  "featured": false,
+  "aliases": [
+    "Kapicitta",
+    "Restless mind",
+    "Racing thoughts"
+  ],
+  "relatedConcepts": [
+    "mindfulness",
+    "rumination",
+    "focus",
+    "focused-attention-meditation",
+    "present-moment-awareness"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

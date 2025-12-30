@@ -1,58 +1,58 @@
 {
-    "id": "time-perception",
-    "name": "Time Perception",
-    "summary": "Our subjective experience of time varies based on our emotional state, attention, and engagement level.",
-    "explanation": "Time perception refers to how our brain processes and experiences the passage of time, which is highly subjective and influenced by multiple factors. Unlike clock time, which moves at a constant rate, our psychological experience of time can speed up or slow down dramatically.\n\nSeveral factors affect time perception:\n\n**Emotional states**: Anxiety and anticipation make time feel slower (waiting for important news feels like forever), while positive engagement makes time fly (hours disappear when we're absorbed in enjoyable activities).\n\n**Attention and novelty**: When we pay close attention to time, it seems to slow down. Conversely, when we're focused on a task, time seems to accelerate. Novel experiences create more memories, making time feel longer in retrospect, while routine creates fewer distinct memories, making weeks and months blur together.\n\n**Autopilot mode**: We often operate on autopilot during routine activities, like commuting, and may have little memory of the experience. This 'time compression' occurs because no memorable events were encoded.\n\n**Memory formation**: Memory doesn't capture time when there are no significant moments. A routine work week with no notable events might feel like it passed instantly, while a vacation full of new experiences feels much longer.\n\nThis understanding has practical implications: while routine is excellent for productivity, deliberately creating memorable moments and practicing mindfulness helps us experience life more fully. Breaking routine with novel experiences, being present during meaningful moments, and paying attention to the current moment all help combat the feeling that life is slipping away unnoticed.",
-    "tags": [
-        "time",
-        "mindfulness",
-        "emotions",
-        "psychology",
-        "attention",
-        "memories",
-        "perceptions"
-    ],
-    "category": "Principles",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Emotional Time Distortion",
-        "Subjective Time",
-        "Time Flies"
-    ],
-    "relatedConcepts": [
-        "mindfulness",
-        "flow-state",
-        "attention",
-        "four-thousand-weeks"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+feels+different+depending+on+our+emotions"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Time perception - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Time_perception",
-            "type": "website"
-        },
-        {
-            "title": "Emotions and Time Perception - Frontiers in Integrative Neuroscience",
-            "url": "https://www.frontiersin.org/articles/10.3389/fnint.2011.00058/full",
-            "type": "paper"
-        },
-        {
-            "title": "Journaling Deep Dive Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
-            "type": "other"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "time-perception",
+  "name": "Time Perception",
+  "summary": "Our subjective experience of time varies based on our emotional state, attention, and engagement level.",
+  "explanation": "Time perception refers to how our brain processes and experiences the passage of time, which is highly subjective and influenced by multiple factors. Unlike clock time, which moves at a constant rate, our psychological experience of time can speed up or slow down dramatically.\n\nSeveral factors affect time perception:\n\n**Emotional states**: Anxiety and anticipation make time feel slower (waiting for important news feels like forever), while positive engagement makes time fly (hours disappear when we're absorbed in enjoyable activities).\n\n**Attention and novelty**: When we pay close attention to time, it seems to slow down. Conversely, when we're focused on a task, time seems to accelerate. Novel experiences create more memories, making time feel longer in retrospect, while routine creates fewer distinct memories, making weeks and months blur together.\n\n**Autopilot mode**: We often operate on autopilot during routine activities, like commuting, and may have little memory of the experience. This 'time compression' occurs because no memorable events were encoded.\n\n**Memory formation**: Memory doesn't capture time when there are no significant moments. A routine work week with no notable events might feel like it passed instantly, while a vacation full of new experiences feels much longer.\n\nThis understanding has practical implications: while routine is excellent for productivity, deliberately creating memorable moments and practicing mindfulness helps us experience life more fully. Breaking routine with novel experiences, being present during meaningful moments, and paying attention to the current moment all help combat the feeling that life is slipping away unnoticed.",
+  "tags": [
+    "time",
+    "mindfulness",
+    "emotions",
+    "psychology",
+    "attention",
+    "memories",
+    "perceptions"
+  ],
+  "category": "Principles",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Emotional Time Distortion",
+    "Subjective Time",
+    "Time Flies"
+  ],
+  "relatedConcepts": [
+    "mindfulness",
+    "flow-state",
+    "focus",
+    "four-thousand-weeks"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+feels+different+depending+on+our+emotions"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Time perception - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Time_perception",
+      "type": "website"
+    },
+    {
+      "title": "Emotions and Time Perception - Frontiers in Integrative Neuroscience",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnint.2011.00058/full",
+      "type": "paper"
+    },
+    {
+      "title": "Journaling Deep Dive Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+      "type": "other"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

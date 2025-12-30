@@ -1,68 +1,67 @@
 {
-    "id": "directed-attention",
-    "name": "Directed Attention",
-    "summary": "Intentional, goal-driven focus aligned with internal objectives and personal goals.",
-    "explanation": "Directed attention is when we are intentional about how we use our time, focusing on our internal goals rather than being pulled by external stimuli. It represents taking control of where our mental energy goes. This type of attention is studied by cognitive sciences to help us understand how we function and how to change our behavior for the better. On the opposite side of the attention spectrum is stimulated attention, which is reactive rather than proactive. Cultivating directed attention is essential for knowledge workers who want to accomplish meaningful work rather than constantly reacting to external demands. It requires setting clear intentions and creating environments that support focused work.",
-    "tags": [
-        "attention",
-        "cognition",
-        "focus",
-        "productivity",
-        "intentionality"
-    ],
-    "category": "Concepts",
-    "icon": "FaCompass",
-    "featured": false,
-    "aliases": [
-        "Goal-directed attention",
-        "Intentional focus",
-        "Top-down attention"
-    ],
-    "relatedConcepts": [
-        "attention",
-        "attention-types",
-        "stimulated-attention",
-        "focus",
-        "deep-work",
-        "goal-setting"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Directed+attention"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-27"
+  "id": "directed-attention",
+  "name": "Directed Attention",
+  "summary": "Intentional, goal-driven focus aligned with internal objectives and personal goals.",
+  "explanation": "Directed attention is when we are intentional about how we use our time, focusing on our internal goals rather than being pulled by external stimuli. It represents taking control of where our mental energy goes. This type of attention is studied by cognitive sciences to help us understand how we function and how to change our behavior for the better. On the opposite side of the attention spectrum is stimulated attention, which is reactive rather than proactive. Cultivating directed attention is essential for knowledge workers who want to accomplish meaningful work rather than constantly reacting to external demands. It requires setting clear intentions and creating environments that support focused work.",
+  "tags": [
+    "attention",
+    "cognition",
+    "focus",
+    "productivity",
+    "intentionality"
+  ],
+  "category": "Concepts",
+  "icon": "FaCompass",
+  "featured": false,
+  "aliases": [
+    "Goal-directed attention",
+    "Intentional focus",
+    "Top-down attention"
+  ],
+  "relatedConcepts": [
+    "focus",
+    "attention-types",
+    "stimulated-attention",
+    "deep-work",
+    "goal-setting"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Directed+attention"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-27"
 }

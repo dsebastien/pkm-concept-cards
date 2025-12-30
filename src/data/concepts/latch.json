@@ -1,63 +1,108 @@
 {
-    "id": "latch",
-    "name": "LATCH",
-    "summary": "Five universal ways to organize information: Location, Alphabet, Time, Category, Hierarchy.",
-    "explanation": "LATCH is a framework by information architect Richard Saul Wurman that identifies the five fundamental ways to organize any information: Location (where), Alphabet (A-Z), Time (when), Category (what kind), and Hierarchy (by magnitude or importance). Understanding LATCH helps you choose the right organizing principle for different types of information. For PKM, this means recognizing that there's no single 'best' way to organize - the right approach depends on how you'll retrieve and use the information.",
-    "tags": [
-        "frameworks",
-        "organizations",
-        "principles"
-    ],
-    "category": "Frameworks",
-    "icon": "FaSortAmountDown",
-    "featured": false,
-    "aliases": [
-        "Five Hat Racks",
-        "Wurman's LATCH"
-    ],
-    "relatedConcepts": [
-        "johnny-decimal",
-        "para-method",
-        "tagging"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/LATCH"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "Information Anxiety",
-            "url": "https://amzn.to/4cHHzJn"
-        }
-    ],
-    "references": [
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Organization 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "latch",
+  "name": "LATCH",
+  "summary": "Five universal ways to organize information: Location, Alphabet, Time, Category, Hierarchy.",
+  "explanation": "LATCH is a framework by information architect Richard Saul Wurman that identifies the five fundamental ways to organize any information: Location (where), Alphabet (A-Z), Time (when), Category (what kind), and Hierarchy (by magnitude or importance). Understanding LATCH helps you choose the right organizing principle for different types of information. For PKM, this means recognizing that there's no single 'best' way to organize - the right approach depends on how you'll retrieve and use the information.",
+  "tags": [
+    "designs",
+    "frameworks",
+    "information-architecture",
+    "organizations",
+    "pkm",
+    "principles",
+    "ux"
+  ],
+  "category": "Frameworks",
+  "icon": "FaSortAmountDown",
+  "featured": false,
+  "aliases": [
+    "Five Hat Racks",
+    "Five Ways to Organize Information",
+    "LATCH",
+    "Wurman's LATCH"
+  ],
+  "relatedConcepts": [
+    "folders-as-silos",
+    "information-architecture",
+    "johnny-decimal",
+    "latch",
+    "para-method",
+    "tagging"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/LATCH",
+    "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Five+Hat+Racks"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Information Anxiety",
+      "url": "https://amzn.to/4cHHzJn"
+    }
+  ],
+  "references": [
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Management for Beginners",
+      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Organization 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+      "type": "other"
+    },
+    {
+      "title": "Richard Saul Wurman - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Richard_Saul_Wurman",
+      "type": "website"
+    },
+    {
+      "title": "Five Hat Racks - Richard Saul Wurman",
+      "url": "https://www.youtube.com/watch?v=Tgi1JQGHENI",
+      "type": "video"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Library",
+      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-30"
 }

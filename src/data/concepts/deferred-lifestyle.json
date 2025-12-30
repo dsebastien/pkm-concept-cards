@@ -1,45 +1,45 @@
 {
-    "id": "deferred-lifestyle",
-    "name": "Deferred Lifestyle",
-    "summary": "The trap of postponing life enjoyment and dreams for some future time that may never come.",
-    "explanation": "Deferred lifestyle is the pattern of postponing dreams, enjoyment, and living fully until some future milestone - typically retirement. People push aside travel, hobbies, relationships, and experiences, believing they'll have time 'later.' The problem is that later often never comes, or when it does, the energy, health, or desire may be gone. The most common example is retirement: people sacrifice decades of living, only to find themselves too old or too tired to enjoy the freedom they finally have. The antidote is conscious integration of life enjoyment into the present, not as distraction from goals but as part of the journey. If you want to travel, travel now. If you want to build, build now. Make the trade-offs consciously, but don't defer your life indefinitely.",
-    "tags": [
-        "life-design",
-        "personal-growth",
-        "philosophies",
-        "work-life-balance"
-    ],
-    "category": "Concepts",
-    "icon": "FaClock",
-    "featured": false,
-    "aliases": [
-        "Deferred life",
-        "Delayed living"
-    ],
-    "relatedConcepts": [
-        "work-life-balance",
-        "work-life-integration",
-        "memento-mori",
-        "life-design",
-        "hedonic-treadmill"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Deferred+lifestyle"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "deferred-lifestyle",
+  "name": "Deferred Lifestyle",
+  "summary": "The trap of postponing life enjoyment and dreams for some future time that may never come.",
+  "explanation": "Deferred lifestyle is the pattern of postponing dreams, enjoyment, and living fully until some future milestone - typically retirement. People push aside travel, hobbies, relationships, and experiences, believing they'll have time 'later.' The problem is that later often never comes, or when it does, the energy, health, or desire may be gone. The most common example is retirement: people sacrifice decades of living, only to find themselves too old or too tired to enjoy the freedom they finally have. The antidote is conscious integration of life enjoyment into the present, not as distraction from goals but as part of the journey. If you want to travel, travel now. If you want to build, build now. Make the trade-offs consciously, but don't defer your life indefinitely.",
+  "tags": [
+    "life-design",
+    "personal-growth",
+    "philosophies",
+    "work-life-balance"
+  ],
+  "category": "Concepts",
+  "icon": "FaClock",
+  "featured": false,
+  "aliases": [
+    "Deferred life",
+    "Delayed living"
+  ],
+  "relatedConcepts": [
+    "work-life-balance",
+    "work-life-integration",
+    "memento-mori",
+    "life-design",
+    "hedonic-adaptation"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Deferred+lifestyle"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

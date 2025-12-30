@@ -1,44 +1,43 @@
 {
-    "id": "counting-blessings",
-    "name": "Counting Blessings",
-    "summary": "The practice of regularly enumerating things for which one is grateful.",
-    "explanation": "Counting blessings is the practice of regularly enumerating and reflecting on things for which one is grateful. This is among the simplest and most studied gratitude practices. The original Emmons and McCullough research asked participants to list five things they were grateful for each week, finding significant wellbeing benefits. The practice works by: directing attention to positives, creating a habit of appreciation, and documenting evidence of good in life. Effective blessing counting involves: specificity (particular things rather than vague categories), variety (different things over time), and reflection (actually feeling the gratitude, not just listing). Common approaches include: daily listing (three to five items), weekly reflection (more items, deeper reflection), and moment-based (noting blessings as they occur). Challenges include: repetition (listing same things), superficiality (listing without feeling), and forced positivity (searching for blessings when genuinely struggling). For knowledge workers, counting blessings provides: a simple, research-backed practice, a way to maintain perspective amid challenges, and documentation of positive aspects of work and life.",
-    "tags": [
-        "gratitude",
-        "practices",
-        "reflection",
-        "well-being",
-        "mindfulness"
-    ],
-    "category": "Techniques",
-    "icon": "FaListOl",
-    "featured": false,
-    "aliases": [
-        "Blessing counting",
-        "Listing gratitudes",
-        "Gratitude listing"
-    ],
-    "relatedConcepts": [
-        "gratitude-practice",
-        "gratitude-journal",
-        "positive-psychology",
-        "reflective-thinking"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "counting-blessings",
+  "name": "Counting Blessings",
+  "summary": "The practice of regularly enumerating things for which one is grateful.",
+  "explanation": "Counting blessings is the practice of regularly enumerating and reflecting on things for which one is grateful. This is among the simplest and most studied gratitude practices. The original Emmons and McCullough research asked participants to list five things they were grateful for each week, finding significant wellbeing benefits. The practice works by: directing attention to positives, creating a habit of appreciation, and documenting evidence of good in life. Effective blessing counting involves: specificity (particular things rather than vague categories), variety (different things over time), and reflection (actually feeling the gratitude, not just listing). Common approaches include: daily listing (three to five items), weekly reflection (more items, deeper reflection), and moment-based (noting blessings as they occur). Challenges include: repetition (listing same things), superficiality (listing without feeling), and forced positivity (searching for blessings when genuinely struggling). For knowledge workers, counting blessings provides: a simple, research-backed practice, a way to maintain perspective amid challenges, and documentation of positive aspects of work and life.",
+  "tags": [
+    "gratitude",
+    "practices",
+    "reflection",
+    "well-being",
+    "mindfulness"
+  ],
+  "category": "Techniques",
+  "icon": "FaListOl",
+  "featured": false,
+  "aliases": [
+    "Blessing counting",
+    "Listing gratitudes",
+    "Gratitude listing"
+  ],
+  "relatedConcepts": [
+    "gratitude-practice",
+    "positive-psychology",
+    "reflective-thinking"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

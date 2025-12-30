@@ -1,45 +1,45 @@
 {
-    "id": "pull-request",
-    "name": "Pull Request (PR)",
-    "summary": "A code review mechanism proposing changes for discussion before merging into main code.",
-    "explanation": "A Pull Request (PR) is a development practice where proposed code changes are submitted for review and discussion before being merged into the main codebase. PRs enable code review, knowledge sharing, and quality control. They create documented decision points and learning opportunities. The PR mindset applies to knowledge work: rather than making changes in isolation, create checkpoints for review and reflection. Even personal PRs (reviewing your own work before finalizing) can improve quality.",
-    "tags": [
-        "software",
-        "collaboration",
-        "processes"
-    ],
-    "category": "Concepts",
-    "icon": "FaCodeBranch",
-    "featured": false,
-    "aliases": [
-        "PR",
-        "Merge request"
-    ],
-    "relatedConcepts": [
-        "continuous-improvement"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pull+Request+(PR)"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Distributed version control - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Distributed_version_control",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Dev Concepts",
-            "url": "https://dev-concepts.dev",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "pull-request",
+  "name": "Pull Request (PR)",
+  "summary": "A code review mechanism proposing changes for discussion before merging into main code.",
+  "explanation": "A Pull Request (PR) is a development practice where proposed code changes are submitted for review and discussion before being merged into the main codebase. PRs enable code review, knowledge sharing, and quality control. They create documented decision points and learning opportunities. The PR mindset applies to knowledge work: rather than making changes in isolation, create checkpoints for review and reflection. Even personal PRs (reviewing your own work before finalizing) can improve quality.",
+  "tags": [
+    "software",
+    "collaboration",
+    "processes"
+  ],
+  "category": "Concepts",
+  "icon": "FaCodeBranch",
+  "featured": false,
+  "aliases": [
+    "PR",
+    "Merge request"
+  ],
+  "relatedConcepts": [
+    "kaizen"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Pull+Request+(PR)"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Distributed version control - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Distributed_version_control",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Dev Concepts",
+      "url": "https://dev-concepts.dev",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

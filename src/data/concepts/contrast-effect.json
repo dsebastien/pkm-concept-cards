@@ -1,44 +1,44 @@
 {
-    "id": "contrast-effect",
-    "name": "Contrast Effect",
-    "summary": "The cognitive bias where the perception of something is enhanced or diminished by comparison to a recently observed contrasting stimulus.",
-    "explanation": "The Contrast Effect is a cognitive bias in which our perception and judgment of something is significantly influenced by what we have recently experienced or observed. When we encounter two things in sequence, the second is perceived differently than it would be in isolation because our brain automatically compares it to the first. This comparison can either enhance or diminish our perception of the second stimulus, depending on whether it contrasts favorably or unfavorably with the first.\n\nA classic demonstration involves temperature perception: if you place one hand in cold water and the other in hot water, then plunge both into lukewarm water, the same water will feel hot to the cold-adapted hand and cold to the hot-adapted hand. The objective temperature is identical, but your subjective experience differs dramatically based on the contrasting reference point.\n\nIn social psychology, attractiveness ratings are heavily influenced by contrast. Studies show that people rate others as less attractive after viewing highly attractive individuals, and more attractive after viewing less attractive individuals. This has implications for self-image in the age of social media, where constant exposure to idealized images creates unfavorable contrasts that can diminish self-perception.\n\nThe contrast effect plays a significant role in salary negotiations and purchasing decisions. A job offer of $80,000 feels different depending on whether you expected $60,000 or $100,000. Real estate agents often show an overpriced, unappealing property first to make subsequent properties seem like better deals by comparison. Similarly, retailers display expensive items first, making moderately priced alternatives appear more reasonable.\n\nMarketers systematically exploit this bias through various techniques: showing the 'before' and 'after' in advertisements, placing premium products next to standard ones to make the standard seem affordable, or listing the original price before a 'sale' price. The strikethrough pricing tactic leverages contrast by making the reduced price seem like a significant gain compared to the anchor price.\n\nAwareness of the contrast effect helps in making more objective decisions. When evaluating options, consider each on its own merits rather than in comparison to what came before. In negotiations, be mindful of how initial offers might be designed to establish favorable contrasts. When assessing performance or quality, recognize that your recent experiences may be skewing your judgment. By understanding this bias, you can consciously adjust for its influence and make more rational evaluations.",
-    "tags": [
-        "cognitive-biases",
-        "perception",
-        "decision-making",
-        "psychology",
-        "comparisons",
-        "judgments"
-    ],
-    "category": "Principles",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Perceptual Contrast",
-        "Contrast Principle"
-    ],
-    "relatedConcepts": [
-        "anchoring-bias",
-        "framing-effect",
-        "decoy-effect"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [],
-    "references": [
-        {
-            "title": "Contrast effect - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Contrast_effect",
-            "type": "website"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-30",
-    "dateModified": "2025-12-30"
+  "id": "contrast-effect",
+  "name": "Contrast Effect",
+  "summary": "The cognitive bias where the perception of something is enhanced or diminished by comparison to a recently observed contrasting stimulus.",
+  "explanation": "The Contrast Effect is a cognitive bias in which our perception and judgment of something is significantly influenced by what we have recently experienced or observed. When we encounter two things in sequence, the second is perceived differently than it would be in isolation because our brain automatically compares it to the first. This comparison can either enhance or diminish our perception of the second stimulus, depending on whether it contrasts favorably or unfavorably with the first.\n\nA classic demonstration involves temperature perception: if you place one hand in cold water and the other in hot water, then plunge both into lukewarm water, the same water will feel hot to the cold-adapted hand and cold to the hot-adapted hand. The objective temperature is identical, but your subjective experience differs dramatically based on the contrasting reference point.\n\nIn social psychology, attractiveness ratings are heavily influenced by contrast. Studies show that people rate others as less attractive after viewing highly attractive individuals, and more attractive after viewing less attractive individuals. This has implications for self-image in the age of social media, where constant exposure to idealized images creates unfavorable contrasts that can diminish self-perception.\n\nThe contrast effect plays a significant role in salary negotiations and purchasing decisions. A job offer of $80,000 feels different depending on whether you expected $60,000 or $100,000. Real estate agents often show an overpriced, unappealing property first to make subsequent properties seem like better deals by comparison. Similarly, retailers display expensive items first, making moderately priced alternatives appear more reasonable.\n\nMarketers systematically exploit this bias through various techniques: showing the 'before' and 'after' in advertisements, placing premium products next to standard ones to make the standard seem affordable, or listing the original price before a 'sale' price. The strikethrough pricing tactic leverages contrast by making the reduced price seem like a significant gain compared to the anchor price.\n\nAwareness of the contrast effect helps in making more objective decisions. When evaluating options, consider each on its own merits rather than in comparison to what came before. In negotiations, be mindful of how initial offers might be designed to establish favorable contrasts. When assessing performance or quality, recognize that your recent experiences may be skewing your judgment. By understanding this bias, you can consciously adjust for its influence and make more rational evaluations.",
+  "tags": [
+    "cognitive-biases",
+    "perception",
+    "decision-making",
+    "psychology",
+    "comparisons",
+    "judgments"
+  ],
+  "category": "Principles",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Perceptual Contrast",
+    "Contrast Principle"
+  ],
+  "relatedConcepts": [
+    "anchoring",
+    "framing-effect",
+    "decoy-effect"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [],
+  "references": [
+    {
+      "title": "Contrast effect - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Contrast_effect",
+      "type": "website"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-30",
+  "dateModified": "2025-12-30"
 }

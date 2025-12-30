@@ -1,55 +1,54 @@
 {
-    "id": "incremental-innovation",
-    "name": "Incremental Innovation",
-    "summary": "Small, continuous improvements to existing products, processes, or services.",
-    "explanation": "Incremental innovation involves making small, continuous improvements to existing products, services, or processes. Unlike radical innovation (paradigm shifts), incremental innovation refines what exists - better features, improved efficiency, enhanced usability. Examples include: new smartphone models with better cameras, software updates with new features, or process improvements that save time. Incremental innovation has advantages: lower risk, predictable returns, leverages existing capabilities, and satisfies current customers. However, it has limitations: won't create new markets, can miss disruptive threats, and may optimize the wrong things. Most organizational innovation is incremental - it's how companies stay competitive day-to-day. The key is balancing incremental improvement with occasional radical innovation. For knowledge workers, incremental innovation represents: the daily practice of making things slightly better, the value of continuous improvement, and the limitation of never taking larger leaps.",
-    "tags": [
-        "innovations",
-        "improvement",
-        "continuous-improvement",
-        "products",
-        "processes"
-    ],
-    "category": "Concepts",
-    "icon": "FaStepForward",
-    "featured": false,
-    "aliases": [
-        "Continuous innovation",
-        "Evolutionary improvement",
-        "Small-step innovation"
-    ],
-    "relatedConcepts": [
-        "radical-innovation",
-        "continuous-improvement",
-        "kaizen",
-        "sustaining-innovation",
-        "iterative-note-taking"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Innovation - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Innovation",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "incremental-innovation",
+  "name": "Incremental Innovation",
+  "summary": "Small, continuous improvements to existing products, processes, or services.",
+  "explanation": "Incremental innovation involves making small, continuous improvements to existing products, services, or processes. Unlike radical innovation (paradigm shifts), incremental innovation refines what exists - better features, improved efficiency, enhanced usability. Examples include: new smartphone models with better cameras, software updates with new features, or process improvements that save time. Incremental innovation has advantages: lower risk, predictable returns, leverages existing capabilities, and satisfies current customers. However, it has limitations: won't create new markets, can miss disruptive threats, and may optimize the wrong things. Most organizational innovation is incremental - it's how companies stay competitive day-to-day. The key is balancing incremental improvement with occasional radical innovation. For knowledge workers, incremental innovation represents: the daily practice of making things slightly better, the value of continuous improvement, and the limitation of never taking larger leaps.",
+  "tags": [
+    "innovations",
+    "improvement",
+    "continuous-improvement",
+    "products",
+    "processes"
+  ],
+  "category": "Concepts",
+  "icon": "FaStepForward",
+  "featured": false,
+  "aliases": [
+    "Continuous innovation",
+    "Evolutionary improvement",
+    "Small-step innovation"
+  ],
+  "relatedConcepts": [
+    "radical-innovation",
+    "kaizen",
+    "sustaining-innovation",
+    "iterative-note-taking"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Innovation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Innovation",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

@@ -1,48 +1,48 @@
 {
-    "id": "zero-risk-bias",
-    "name": "Zero-Risk Bias",
-    "summary": "Preferring to eliminate a small risk entirely over a greater reduction of a larger risk.",
-    "explanation": "Zero-Risk Bias is the tendency to prefer the complete elimination of a risk over a larger reduction in overall risk, even when the latter option would prevent more harm. People are psychologically drawn to certainty and the comfort of knowing a particular risk has been completely removed, rather than dealing with the more abstract concept of reduced probability across a larger threat.\n\nThis bias stems from our difficulty in processing probabilities and our desire for psychological closure. Eliminating a small risk entirely feels more satisfying than reducing a larger risk by a greater amount because 'zero' has a special psychological appeal. For example, people might prefer to eliminate a 1% chance of harm over reducing a 10% chance to 4%, even though the second option prevents more expected harm.\n\nZero-Risk Bias has significant implications for policy-making, resource allocation, and personal decision-making. Regulatory agencies may focus on eliminating small, visible risks while ignoring larger but less salient dangers. To counter this bias, decision-makers should quantify risks and focus on expected value calculations rather than categorical thinking.",
-    "tags": [
-        "cognitive-biases",
-        "psychology",
-        "decision-making",
-        "thinking",
-        "risk-management"
-    ],
-    "category": "Principles",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Zero Risk Preference",
-        "Certainty Bias"
-    ],
-    "relatedConcepts": [
-        "loss-aversion",
-        "anchoring-bias",
-        "critical-thinking"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Nudge - Thaler & Sunstein",
-            "url": "https://www.goodreads.com/book/show/3450744-nudge"
-        }
-    ],
-    "references": [
-        {
-            "title": "Zero-Risk Bias - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Zero-risk_bias",
-            "type": "websites"
-        },
-        {
-            "title": "Clarity 101 Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-27",
-    "dateModified": "2025-12-28"
+  "id": "zero-risk-bias",
+  "name": "Zero-Risk Bias",
+  "summary": "Preferring to eliminate a small risk entirely over a greater reduction of a larger risk.",
+  "explanation": "Zero-Risk Bias is the tendency to prefer the complete elimination of a risk over a larger reduction in overall risk, even when the latter option would prevent more harm. People are psychologically drawn to certainty and the comfort of knowing a particular risk has been completely removed, rather than dealing with the more abstract concept of reduced probability across a larger threat.\n\nThis bias stems from our difficulty in processing probabilities and our desire for psychological closure. Eliminating a small risk entirely feels more satisfying than reducing a larger risk by a greater amount because 'zero' has a special psychological appeal. For example, people might prefer to eliminate a 1% chance of harm over reducing a 10% chance to 4%, even though the second option prevents more expected harm.\n\nZero-Risk Bias has significant implications for policy-making, resource allocation, and personal decision-making. Regulatory agencies may focus on eliminating small, visible risks while ignoring larger but less salient dangers. To counter this bias, decision-makers should quantify risks and focus on expected value calculations rather than categorical thinking.",
+  "tags": [
+    "cognitive-biases",
+    "psychology",
+    "decision-making",
+    "thinking",
+    "risk-management"
+  ],
+  "category": "Principles",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Zero Risk Preference",
+    "Certainty Bias"
+  ],
+  "relatedConcepts": [
+    "loss-aversion",
+    "anchoring",
+    "critical-thinking"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Nudge - Thaler & Sunstein",
+      "url": "https://www.goodreads.com/book/show/3450744-nudge"
+    }
+  ],
+  "references": [
+    {
+      "title": "Zero-Risk Bias - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zero-risk_bias",
+      "type": "websites"
+    },
+    {
+      "title": "Clarity 101 Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-27",
+  "dateModified": "2025-12-28"
 }

@@ -1,65 +1,65 @@
 {
-    "id": "embrace-imperfection",
-    "name": "Embrace Imperfection",
-    "summary": "Accept that your first iteration may not be perfect and use it as a starting point.",
-    "explanation": "Embracing imperfection means accepting that nothing needs to be perfect on the first try. Instead of waiting for the ideal moment or endlessly polishing your work, treat each piece as a starting point for improvement. This principle is exemplified by SpaceX's approach: rather than designing the perfect rocket before launching, they pushed the button, watched failures happen, and learned from their mistakes. If they had kept delaying launches waiting for perfection, the company would be long gone. Unless you're in a high-stakes field where failure has severe consequences, your first version doesn't need to be perfect. Ship it, learn from it, and iterate.",
-    "tags": [
-        "perfectionism",
-        "productivity",
-        "progress",
-        "mindsets"
-    ],
-    "category": "Principles",
-    "icon": "FaHeart",
-    "featured": false,
-    "aliases": [
-        "Accept imperfection",
-        "Learn to embrace imperfection"
-    ],
-    "relatedConcepts": [
-        "perfectionism",
-        "continuous-improvement",
-        "start-before-you-are-ready",
-        "minimum-viable-product",
-        "small-wins"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Learn+to+embrace+imperfection"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "embrace-imperfection",
+  "name": "Embrace Imperfection",
+  "summary": "Accept that your first iteration may not be perfect and use it as a starting point.",
+  "explanation": "Embracing imperfection means accepting that nothing needs to be perfect on the first try. Instead of waiting for the ideal moment or endlessly polishing your work, treat each piece as a starting point for improvement. This principle is exemplified by SpaceX's approach: rather than designing the perfect rocket before launching, they pushed the button, watched failures happen, and learned from their mistakes. If they had kept delaying launches waiting for perfection, the company would be long gone. Unless you're in a high-stakes field where failure has severe consequences, your first version doesn't need to be perfect. Ship it, learn from it, and iterate.",
+  "tags": [
+    "perfectionism",
+    "productivity",
+    "progress",
+    "mindsets"
+  ],
+  "category": "Principles",
+  "icon": "FaHeart",
+  "featured": false,
+  "aliases": [
+    "Accept imperfection",
+    "Learn to embrace imperfection"
+  ],
+  "relatedConcepts": [
+    "perfectionism",
+    "kaizen",
+    "start-before-you-are-ready",
+    "minimum-viable-product",
+    "small-wins"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Learn+to+embrace+imperfection"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

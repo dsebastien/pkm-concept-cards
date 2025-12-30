@@ -1,90 +1,89 @@
 {
-    "id": "deep-work",
-    "name": "Deep Work",
-    "summary": "Focused, distraction-free work on cognitively demanding tasks.",
-    "explanation": "Deep Work, a concept popularized by Cal Newport, refers to focused, distraction-free work on cognitively demanding tasks that push your cognitive capabilities. It's the opposite of shallow work (logistical tasks, email, meetings). Deep work produces rare and valuable results and is increasingly important in the knowledge economy. Strategies include: time blocking, eliminating distractions, building deep work rituals, and embracing boredom. PKM supports deep work by externalizing information so you can focus on thinking rather than remembering.",
-    "tags": [
-        "concepts",
-        "focus",
-        "productivity",
-        "work"
-    ],
-    "category": "Productivity",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "Focused work"
-    ],
-    "relatedConcepts": [
-        "attention",
-        "context-switching",
-        "directed-attention",
-        "flow-state",
-        "focus",
-        "laser-focus",
-        "most-important-task",
-        "multitasking",
-        "pomodoro-technique",
-        "scatter-focus",
-        "time-blocking",
-        "zen-productivity"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Deep+work"
-    ],
-    "articles": [],
-    "books": [
-        {
-            "title": "Deep Work by Cal Newport",
-            "url": "https://amzn.to/3VG1JfK"
-        },
-        {
-            "title": "Make Time",
-            "url": "https://amzn.to/3RM2L8W"
-        },
-        {
-            "title": "Digital Minimalism",
-            "url": "https://amzn.to/3ZpQNpo"
-        }
-    ],
-    "references": [
-        {
-            "title": "Cal Newport - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Cal_Newport",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "deep-work",
+  "name": "Deep Work",
+  "summary": "Focused, distraction-free work on cognitively demanding tasks.",
+  "explanation": "Deep Work, a concept popularized by Cal Newport, refers to focused, distraction-free work on cognitively demanding tasks that push your cognitive capabilities. It's the opposite of shallow work (logistical tasks, email, meetings). Deep work produces rare and valuable results and is increasingly important in the knowledge economy. Strategies include: time blocking, eliminating distractions, building deep work rituals, and embracing boredom. PKM supports deep work by externalizing information so you can focus on thinking rather than remembering.",
+  "tags": [
+    "concepts",
+    "focus",
+    "productivity",
+    "work"
+  ],
+  "category": "Productivity",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "Focused work"
+  ],
+  "relatedConcepts": [
+    "focus",
+    "context-switching",
+    "directed-attention",
+    "flow-state",
+    "laser-focus",
+    "most-important-task",
+    "multitasking",
+    "pomodoro-technique",
+    "scatter-focus",
+    "time-blocking",
+    "zen-productivity"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/32+Literature+notes/32.02+Content/Deep+work"
+  ],
+  "articles": [],
+  "books": [
+    {
+      "title": "Deep Work by Cal Newport",
+      "url": "https://amzn.to/3VG1JfK"
+    },
+    {
+      "title": "Make Time",
+      "url": "https://amzn.to/3RM2L8W"
+    },
+    {
+      "title": "Digital Minimalism",
+      "url": "https://amzn.to/3ZpQNpo"
+    }
+  ],
+  "references": [
+    {
+      "title": "Cal Newport - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cal_Newport",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

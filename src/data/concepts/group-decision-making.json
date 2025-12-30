@@ -1,52 +1,52 @@
 {
-    "id": "group-decision-making",
-    "name": "Group Decision Making",
-    "summary": "Processes for teams to reach decisions that leverage collective intelligence while avoiding pitfalls.",
-    "explanation": "Group decision making involves processes for teams to make choices together, ideally combining diverse perspectives for better outcomes than individuals could achieve alone. Methods range from: consensus (everyone agrees), consent (no one objects), majority vote, advice process (decision-maker consults affected parties), and autocratic (leader decides). Each has tradeoffs: consensus is thorough but slow, voting is fast but can create winners/losers. Group decision making faces pitfalls: groupthink (conformity pressure), social loafing (diffused responsibility), dominance by vocal members, and anchoring on early suggestions. Countermeasures include: structured processes, anonymous input, devil's advocates, and clear decision-making protocols. Good group decisions require: clear decision rights (who decides), appropriate participation (who's consulted), explicit process (how we'll decide), and commitment mechanisms (ensuring follow-through). For knowledge workers, understanding group decision making helps: contribute effectively to team decisions and facilitate better outcomes.",
-    "tags": [
-        "collaboration",
-        "decisions",
-        "teams",
-        "facilitation",
-        "problem-solving"
-    ],
-    "category": "Concepts",
-    "icon": "FaVoteYea",
-    "featured": false,
-    "aliases": [
-        "Team decision making",
-        "Collective decision making",
-        "Collaborative decisions"
-    ],
-    "relatedConcepts": [
-        "devil-advocate",
-        "collective-intelligence"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Group decision-making - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Group_decision-making",
-            "type": "website"
-        },
-        {
-            "title": "Groupthink - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Groupthink",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "group-decision-making",
+  "name": "Group Decision Making",
+  "summary": "Processes for teams to reach decisions that leverage collective intelligence while avoiding pitfalls.",
+  "explanation": "Group decision making involves processes for teams to make choices together, ideally combining diverse perspectives for better outcomes than individuals could achieve alone. Methods range from: consensus (everyone agrees), consent (no one objects), majority vote, advice process (decision-maker consults affected parties), and autocratic (leader decides). Each has tradeoffs: consensus is thorough but slow, voting is fast but can create winners/losers. Group decision making faces pitfalls: groupthink (conformity pressure), social loafing (diffused responsibility), dominance by vocal members, and anchoring on early suggestions. Countermeasures include: structured processes, anonymous input, devil's advocates, and clear decision-making protocols. Good group decisions require: clear decision rights (who decides), appropriate participation (who's consulted), explicit process (how we'll decide), and commitment mechanisms (ensuring follow-through). For knowledge workers, understanding group decision making helps: contribute effectively to team decisions and facilitate better outcomes.",
+  "tags": [
+    "collaboration",
+    "decisions",
+    "teams",
+    "facilitation",
+    "problem-solving"
+  ],
+  "category": "Concepts",
+  "icon": "FaVoteYea",
+  "featured": false,
+  "aliases": [
+    "Team decision making",
+    "Collective decision making",
+    "Collaborative decisions"
+  ],
+  "relatedConcepts": [
+    "devil-advocate",
+    "wisdom-of-crowds"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Group decision-making - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Group_decision-making",
+      "type": "website"
+    },
+    {
+      "title": "Groupthink - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Groupthink",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

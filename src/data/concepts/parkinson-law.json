@@ -1,68 +1,67 @@
 {
-    "id": "parkinson-law",
-    "name": "Parkinson's Law",
-    "summary": "Work expands to fill the time available for its completion.",
-    "explanation": "Parkinson's Law states that work expands to fill the time available for its completion. If you give yourself a week to complete a two-hour task, it will somehow take a week. This insight supports timeboxing and deadline setting - constraints actually increase productivity rather than limiting it. Without deadlines, tasks can expand indefinitely. Setting artificial constraints on open-ended work prevents endless refinement and ensures progress.",
-    "tags": [
-        "concepts",
-        "principles",
-        "productivity",
-        "time-management"
-    ],
-    "category": "Principles",
-    "icon": "FaExpandAlt",
-    "featured": false,
-    "aliases": [
-        "Work expansion"
-    ],
-    "relatedConcepts": [
-        "focus",
-        "knowledge-work-productivity",
-        "time-blocking",
-        "time-boxing"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Parkinson's+Law"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Parkinson's law - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Parkinson%27s_law",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Kit",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-            "type": "other"
-        },
-        {
-            "title": "Obsidian Starter Course",
-            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        },
-        {
-            "title": "Personal Knowledge Management Coaching",
-            "url": "https://store.dsebastien.net/l/pkm-coaching",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "parkinson-law",
+  "name": "Parkinson's Law",
+  "summary": "Work expands to fill the time available for its completion.",
+  "explanation": "Parkinson's Law states that work expands to fill the time available for its completion. If you give yourself a week to complete a two-hour task, it will somehow take a week. This insight supports timeboxing and deadline setting - constraints actually increase productivity rather than limiting it. Without deadlines, tasks can expand indefinitely. Setting artificial constraints on open-ended work prevents endless refinement and ensures progress.",
+  "tags": [
+    "concepts",
+    "principles",
+    "productivity",
+    "time-management"
+  ],
+  "category": "Principles",
+  "icon": "FaExpandAlt",
+  "featured": false,
+  "aliases": [
+    "Work expansion"
+  ],
+  "relatedConcepts": [
+    "focus",
+    "knowledge-work-productivity",
+    "time-blocking"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Parkinson's+Law"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Parkinson's law - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parkinson%27s_law",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Kit",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+      "type": "other"
+    },
+    {
+      "title": "Obsidian Starter Course",
+      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    },
+    {
+      "title": "Personal Knowledge Management Coaching",
+      "url": "https://store.dsebastien.net/l/pkm-coaching",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }
