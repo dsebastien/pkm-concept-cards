@@ -3,18 +3,52 @@
     "name": "Restraint Bias",
     "summary": "The tendency to overestimate one's ability to control impulsive behaviors and resist temptation.",
     "explanation": "Restraint bias is a cognitive bias where people overestimate their capacity for self-control and willpower, particularly when they are not currently experiencing the impulse or temptation in question. This leads individuals to place themselves in situations where temptation is high, confident in their ability to resist, only to find that their actual self-control falls far short of their predictions. The bias is especially pronounced in states of low arousal, when it is difficult to accurately predict how we will behave when tempted.\n\nResearch has demonstrated this effect across various domains including addiction, dieting, and impulse spending. Smokers trying to quit may overestimate their ability to resist cigarettes and thus keep them accessible. Dieters might believe they can keep tempting foods in the house without eating them. People recovering from addiction may underestimate the risk of exposure to triggers. This overconfidence in self-control is a major contributor to relapse and failure in behavior change efforts.\n\nThe practical implication of understanding restraint bias is that effective self-control often requires avoiding temptation rather than resisting it. Strategies that reduce exposure to tempting situations, such as not keeping unhealthy food at home or avoiding bars during recovery, are typically more successful than relying on willpower alone. Recognizing the limits of self-control and designing one's environment accordingly is a more reliable path to achieving long-term goals.",
-    "tags": ["cognitive-biases", "psychology", "self-control", "decision-making", "habits"],
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "self-control",
+        "decision-making",
+        "habits"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Self-Control Illusion", "Willpower Overconfidence"],
-    "relatedConcepts": ["overconfidence-effect", "hot-cold-empathy-gap", "planning-fallacy", "present-bias"],
+    "aliases": [
+        "Self-Control Illusion",
+        "Willpower Overconfidence"
+    ],
+    "relatedConcepts": [
+        "overconfidence-effect",
+        "hot-cold-empathy-gap",
+        "planning-fallacy",
+        "present-bias"
+    ],
     "relatedNotes": [],
     "references": [
         {
             "title": "Restraint bias - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Restraint_bias",
             "type": "website"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Journaling Deep Dive Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+            "type": "other"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
+        },
+        {
+            "title": "Personal Organization 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+            "type": "other"
         }
     ],
     "datePublished": "2025-12-29",

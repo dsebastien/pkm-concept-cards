@@ -1,8 +1,8 @@
 {
-    "id": "one-one-one-method",
-    "name": "1-1-1 Method",
+    "id": "one-one-one-gratitude-method",
+    "name": "1-1-1 Gratitude Method",
     "summary": "Daily gratitude practice: 1 person, 1 thing, 1 event to be grateful for.",
-    "explanation": "The 1-1-1 Method is a simple daily gratitude practice where you identify: 1 person you're grateful for, 1 thing you're grateful for, and 1 event or experience you're grateful for. This structured approach makes gratitude specific rather than vague, and ensures you're acknowledging different aspects of life. The practice takes just a few minutes and can be incorporated into daily journaling or morning/evening routines. Regular gratitude practice is linked to improved wellbeing and life satisfaction.",
+    "explanation": "The 1-1-1 Gratitude Method is a simple daily gratitude practice where you identify: 1 person you're grateful for, 1 thing you're grateful for, and 1 event or experience you're grateful for. This structured approach makes gratitude specific rather than vague, and ensures you're acknowledging different aspects of life. The practice takes just a few minutes and can be incorporated into daily journaling or morning/evening routines. Regular gratitude practice is linked to improved wellbeing and life satisfaction.",
     "tags": [
         "gratitude",
         "habits",
@@ -13,6 +13,7 @@
     "icon": "FaHeart",
     "featured": false,
     "aliases": [
+        "1-1-1 Method",
         "1:1:1 Method"
     ],
     "relatedConcepts": [
@@ -49,5 +50,5 @@
     ],
     "tutorials": [],
     "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+    "dateModified": "2025-12-30"
 }

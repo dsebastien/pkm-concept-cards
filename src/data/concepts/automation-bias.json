@@ -3,16 +3,65 @@
     "name": "Automation Bias",
     "summary": "Over-reliance on automated systems and a tendency to trust their outputs uncritically.",
     "explanation": "Automation Bias is the tendency to over-rely on automated systems, accepting their outputs without sufficient scrutiny and failing to detect errors that would be caught if the task were performed manually. As technology becomes more sophisticated and reliable, humans increasingly defer to automated suggestions, sometimes ignoring contradictory evidence from other sources or their own judgment. This bias becomes particularly dangerous when automated systems are wrong but trusted.\\n\\nThis bias manifests in two main ways: errors of commission (following incorrect automated advice when human judgment would have been correct) and errors of omission (failing to notice when an automated system fails to alert to a problem). Studies in aviation, medicine, and other high-stakes domains have documented numerous cases where operators followed incorrect automated guidance despite warning signs, sometimes with catastrophic consequences.\\n\\nThe rise of artificial intelligence and machine learning systems makes automation bias increasingly relevant. As AI systems are deployed in healthcare, finance, criminal justice, and other domains, understanding this bias becomes critical. Mitigating automation bias requires maintaining human oversight and critical evaluation skills, designing systems that support rather than replace human judgment, training users to verify automated outputs, and building in checks that prevent blind acceptance of machine recommendations.",
-    "tags": ["cognitive-biases", "psychology", "technology", "decision-making", "artificial-intelligence"],
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "technology",
+        "decision-making",
+        "artificial-intelligence"
+    ],
     "category": "Cognitive Biases",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Algorithm Aversion Inverse", "Machine Trust Bias"],
-    "relatedConcepts": ["authority-bias", "status-quo-bias", "confirmation-bias"],
+    "aliases": [
+        "Algorithm Aversion Inverse",
+        "Machine Trust Bias"
+    ],
+    "relatedConcepts": [
+        "authority-bias",
+        "status-quo-bias",
+        "confirmation-bias"
+    ],
     "relatedNotes": [],
     "articles": [],
-    "books": [{"title": "Thinking, Fast and Slow by Daniel Kahneman", "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"}],
-    "references": [{"title": "Automation bias - Wikipedia", "url": "https://en.wikipedia.org/wiki/Automation_bias", "type": "website"}],
+    "books": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Automation bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Automation_bias",
+            "type": "website"
+        },
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://store.dsebastien.net/l/knowii-voice-ai",
+            "type": "other"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
+        },
+        {
+            "title": "AI Master Prompt Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-ai-master-prompt",
+            "type": "other"
+        },
+        {
+            "title": "Model Context Protocol (MCP) Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-model-context-protocol-mcp",
+            "type": "other"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-29",
     "dateModified": "2025-12-29"

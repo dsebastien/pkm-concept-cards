@@ -3,17 +3,40 @@
     "name": "Feature Flags",
     "summary": "A technique allowing teams to modify system behavior without changing code by enabling or disabling features through configuration.",
     "explanation": "Feature Flags (also called feature toggles or feature switches) are a technique that allows teams to modify system behavior without deploying new code. Features are wrapped in conditional logic controlled by configuration. Types of feature flags include: (1) Release toggles - control when features go live, (2) Experiment toggles - enable A/B testing, (3) Ops toggles - control operational aspects like circuit breakers, (4) Permission toggles - enable features for specific users. Benefits include: separating deployment from release, enabling trunk-based development, supporting canary releases, and allowing quick rollbacks. Best practices: keep flags short-lived, clean up old flags, document flag purposes, and use a feature flag management system. Common tools include LaunchDarkly, Split.io, and Unleash. Feature flags are fundamental to modern continuous delivery practices.",
-    "tags": ["devops", "software-engineering", "deployment", "continuous-delivery", "experimentation"],
+    "tags": [
+        "devops",
+        "software-engineering",
+        "deployment",
+        "continuous-delivery",
+        "experimentation"
+    ],
     "category": "Software Development",
     "icon": "FaFlag",
     "featured": false,
-    "aliases": ["Feature Toggles", "Feature Switches", "Feature Flipper"],
-    "relatedConcepts": ["blue-green-deployment", "continuous-improvement", "minimum-viable-product"],
+    "aliases": [
+        "Feature Toggles",
+        "Feature Switches",
+        "Feature Flipper"
+    ],
+    "relatedConcepts": [
+        "blue-green-deployment",
+        "continuous-improvement",
+        "minimum-viable-product"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [],
     "references": [
-        {"title": "Feature toggle - Wikipedia", "url": "https://en.wikipedia.org/wiki/Feature_toggle", "type": "website"}
+        {
+            "title": "Feature toggle - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Feature_toggle",
+            "type": "website"
+        },
+        {
+            "title": "Dev Concepts",
+            "url": "https://dev-concepts.dev",
+            "type": "other"
+        }
     ],
     "tutorials": [],
     "datePublished": "2025-12-28",

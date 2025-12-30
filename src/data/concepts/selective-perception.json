@@ -3,12 +3,28 @@
     "name": "Selective Perception",
     "summary": "The tendency to filter information based on expectations, beliefs, and prior experiences, perceiving what we expect or want to perceive while filtering out contradictory information.",
     "explanation": "Selective Perception is a cognitive bias that causes individuals to perceive, interpret, and remember information in ways that align with their existing beliefs, expectations, and emotional states. Rather than objectively processing all available sensory data, our brains act as filters, prioritizing information that confirms what we already believe while downplaying or ignoring contradictory evidence.\n\nThis phenomenon occurs because the human brain processes an enormous amount of sensory information every second, far more than we can consciously handle. To cope with this overload, our cognitive systems develop shortcuts based on past experiences, cultural conditioning, and personal beliefs. These mental frameworks shape not just what we pay attention to, but how we interpret what we see, hear, and experience.\n\nPrior beliefs profoundly shape perception through several mechanisms. First, expectation-based filtering causes us to notice information that matches our predictions while overlooking data that does not fit our mental models. Second, motivated reasoning leads us to interpret ambiguous information in ways that support our preferred conclusions. Third, memory consolidation favors experiences that reinforce existing schemas, making it easier to recall confirming evidence than contradicting facts.\n\nThe implications for communication and conflict are significant. In interpersonal disagreements, each party may genuinely perceive different aspects of the same situation, leading to fundamental misunderstandings. In organizational settings, selective perception can cause teams to overlook warning signs, dismiss valid criticism, or fail to recognize opportunities that do not match their expectations. In broader social and political contexts, it contributes to polarization as people consume and remember only information that supports their existing views.\n\nTo overcome selective perception, several strategies can be employed. First, actively seek out disconfirming evidence by deliberately exposing yourself to perspectives that challenge your assumptions. Second, practice metacognition by regularly questioning whether your interpretations might be biased by your expectations. Third, engage with diverse viewpoints through conversations with people from different backgrounds and experiences. Fourth, use structured decision-making processes that require consideration of multiple perspectives before reaching conclusions. Fifth, cultivate intellectual humility by acknowledging that your perception of reality is inherently limited and potentially biased.\n\nUnderstanding selective perception is crucial for critical thinking, effective communication, and sound decision-making in both personal and professional contexts.",
-    "tags": ["cognitive-biases", "perception", "attention", "psychology", "critical-thinking", "communication", "decision-making"],
+    "tags": [
+        "cognitive-biases",
+        "perception",
+        "attention",
+        "psychology",
+        "critical-thinking",
+        "communication",
+        "decision-making"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Perceptual Defense", "Selective Attention"],
-    "relatedConcepts": ["confirmation-bias", "perceptual-set", "filter-bubble", "attentional-bias"],
+    "aliases": [
+        "Perceptual Defense",
+        "Selective Attention"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "perceptual-set",
+        "filter-bubble",
+        "attentional-bias"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [],
@@ -17,6 +33,11 @@
             "title": "Selective Perception - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Selective_perception",
             "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

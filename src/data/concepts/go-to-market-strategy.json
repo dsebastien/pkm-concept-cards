@@ -42,6 +42,16 @@
             "title": "Go to market - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Go_to_market",
             "type": "website"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Organization 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

@@ -14,7 +14,9 @@
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Sample Size Neglect"],
+    "aliases": [
+        "Sample Size Neglect"
+    ],
     "relatedConcepts": [
         "representativeness-heuristic",
         "small-sample-fallacy",
@@ -35,6 +37,11 @@
             "title": "Insensitivity to sample size - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Insensitivity_to_sample_size",
             "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

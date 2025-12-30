@@ -1,40 +1,40 @@
 {
-    "id": "celebrate-wins",
-    "name": "Celebrate Your Wins",
-    "summary": "The practice of acknowledging and being proud of your successes, no matter how small.",
-    "explanation": "Be proud of your successes, no matter how small. Each step, no matter how small, counts. Celebrating wins creates positive reinforcement that fuels continued progress. Don't wait for big breakthroughs - the journey matters way more than you think. This practice counters our natural tendency to focus on what's wrong or incomplete. By acknowledging wins, you build momentum, reinforce good habits, and maintain motivation. Combined with gratitude practice, celebrating wins helps maintain a positive mindset and sustainable progress.",
-    "tags": [
-        "motivations",
-        "successes",
-        "gratitude",
-        "progress",
-        "positive-psychology"
-    ],
-    "category": "Practices",
-    "icon": "FaTrophy",
-    "featured": false,
-    "aliases": [
-        "Acknowledge wins",
-        "Success recognition"
-    ],
-    "relatedConcepts": [
-        "gratitude",
-        "positive-feedback-loop",
-        "small-wins",
-        "success-breeds-confidence"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Celebrate+your+wins"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Journaling Deep Dive Workshop",
-            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-28"
+  "id": "celebrate-wins",
+  "name": "Celebrate Your Wins",
+  "summary": "The practice of acknowledging and being proud of your successes, no matter how small.",
+  "explanation": "Be proud of your successes, no matter how small. Each step, no matter how small, counts. Celebrating wins creates positive reinforcement that fuels continued progress. Don't wait for big breakthroughs - the journey matters way more than you think. This practice counters our natural tendency to focus on what's wrong or incomplete. By acknowledging wins, you build momentum, reinforce good habits, and maintain motivation. Combined with gratitude practice, celebrating wins helps maintain a positive mindset and sustainable progress.",
+  "tags": [
+    "motivations",
+    "successes",
+    "gratitude",
+    "progress",
+    "positive-psychology"
+  ],
+  "category": "Techniques",
+  "icon": "FaTrophy",
+  "featured": false,
+  "aliases": [
+    "Acknowledge wins",
+    "Success recognition"
+  ],
+  "relatedConcepts": [
+    "gratitude-practice",
+    "positive-feedback-loop",
+    "small-wins",
+    "success-breeds-confidence"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Celebrate+your+wins"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Journaling Deep Dive Workshop",
+      "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-28"
 }

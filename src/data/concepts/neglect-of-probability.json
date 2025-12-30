@@ -3,12 +3,25 @@
     "name": "Neglect of Probability",
     "summary": "The tendency to disregard probability when making decisions under uncertainty, focusing instead on the magnitude of outcomes regardless of their likelihood.",
     "explanation": "Neglect of Probability is a cognitive bias where people ignore or underweight the actual probability of events when making decisions, instead focusing primarily on the potential severity or desirability of outcomes. This leads to systematic errors in judgment, as decisions become driven by emotional reactions to possible consequences rather than by rational assessment of how likely those consequences actually are.\n\nLegal scholar Cass Sunstein has extensively researched this phenomenon, demonstrating how it distorts both individual decision-making and public policy. His work shows that when people contemplate a worst-case scenario, they often treat it as if it were certain to occur, essentially assigning it a probability of 1 regardless of its actual likelihood. This occurs because strong emotional responses to vivid outcomes override our capacity for probabilistic reasoning.\n\nThe bias manifests clearly in responses to terrorism. After the September 11 attacks, many Americans dramatically overestimated the probability of dying in a terrorist attack and altered their behavior accordingly, such as avoiding air travel in favor of driving, which is statistically far more dangerous. The vividness and emotional impact of terrorism caused people to focus on the catastrophic nature of potential outcomes while neglecting the extremely low probability of actually being affected.\n\nLottery playing provides another classic example. Despite astronomical odds against winning (often worse than 1 in 300 million), millions of people regularly purchase tickets. The magnitude of the potential prize is so emotionally compelling that the vanishingly small probability becomes psychologically irrelevant. People imagine what they would do with the winnings rather than calculating expected value.\n\nThe bias is particularly pronounced when outcomes are emotionally charged, when probability information is difficult to process, or when vivid imagery makes outcomes feel more real and immediate. It helps explain why people fear rare but dramatic risks like plane crashes or shark attacks while underestimating common but mundane dangers like heart disease or car accidents.\n\nTo make better probability-weighted decisions, several strategies can help. First, explicitly quantify probabilities rather than relying on intuitive feelings about likelihood. Second, use expected value calculations that multiply probability by outcome magnitude to compare options systematically. Third, seek out base rate information about how frequently events actually occur. Fourth, be especially skeptical of your judgments when strong emotions are involved, as emotional intensity often signals that probability neglect is at work. Finally, consider using decision aids, checklists, or structured frameworks that force explicit consideration of probabilities before evaluating outcomes.",
-    "tags": ["cognitive-biases", "decision-making", "risks", "psychology", "heuristics", "judgments"],
+    "tags": [
+        "cognitive-biases",
+        "decision-making",
+        "risks",
+        "psychology",
+        "heuristics",
+        "judgments"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Probability Neglect"],
-    "relatedConcepts": ["affect-heuristic", "base-rate-neglect", "zero-risk-bias"],
+    "aliases": [
+        "Probability Neglect"
+    ],
+    "relatedConcepts": [
+        "affect-heuristic",
+        "base-rate-neglect",
+        "zero-risk-bias"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [],
@@ -17,6 +30,11 @@
             "title": "Neglect of Probability - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Neglect_of_probability",
             "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

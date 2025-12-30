@@ -1,43 +1,43 @@
 {
-    "id": "happiness-practices",
-    "name": "Happiness Practices",
-    "summary": "Specific activities and exercises designed to cultivate greater wellbeing and life satisfaction.",
-    "explanation": "Happiness practices are specific activities research has shown to boost wellbeing. Key practices include: Three Good Things (writing three positive daily events), Best Possible Self (visualizing your ideal future), Gratitude Letter (expressing appreciation to someone), Random Acts of Kindness (deliberate helping), Savoring Walk (mindfully appreciating your environment), and Strengths Use (applying signature strengths in new ways). These practices work through different mechanisms: some build social connection, others shift attention, and some increase meaning. Effectiveness varies by person - experimentation helps find what works for you. Practices are most effective when: done consistently (not just once), varied (preventing boredom), and genuinely engaged (not mechanical). For knowledge workers, happiness practices provide: concrete tools for wellbeing, alternatives to passive consumption for leisure time, and evidence-based approaches to a fulfilling life.",
-    "tags": [
-        "happiness",
-        "practices",
-        "well-being",
-        "positive-psychology",
-        "exercises"
-    ],
-    "category": "Techniques",
-    "icon": "FaClipboardList",
-    "featured": false,
-    "aliases": [
-        "Wellbeing practices",
-        "Positive interventions",
-        "Happiness exercises"
-    ],
-    "relatedConcepts": [
-        "happiness-habits",
-        "gratitude",
-        "savoring"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "happiness-practices",
+  "name": "Happiness Practices",
+  "summary": "Specific activities and exercises designed to cultivate greater wellbeing and life satisfaction.",
+  "explanation": "Happiness practices are specific activities research has shown to boost wellbeing. Key practices include: Three Good Things (writing three positive daily events), Best Possible Self (visualizing your ideal future), Gratitude Letter (expressing appreciation to someone), Random Acts of Kindness (deliberate helping), Savoring Walk (mindfully appreciating your environment), and Strengths Use (applying signature strengths in new ways). These practices work through different mechanisms: some build social connection, others shift attention, and some increase meaning. Effectiveness varies by person - experimentation helps find what works for you. Practices are most effective when: done consistently (not just once), varied (preventing boredom), and genuinely engaged (not mechanical). For knowledge workers, happiness practices provide: concrete tools for wellbeing, alternatives to passive consumption for leisure time, and evidence-based approaches to a fulfilling life.",
+  "tags": [
+    "happiness",
+    "practices",
+    "well-being",
+    "positive-psychology",
+    "exercises"
+  ],
+  "category": "Techniques",
+  "icon": "FaClipboardList",
+  "featured": false,
+  "aliases": [
+    "Wellbeing practices",
+    "Positive interventions",
+    "Happiness exercises"
+  ],
+  "relatedConcepts": [
+    "happiness-habits",
+    "gratitude-practice",
+    "savoring"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

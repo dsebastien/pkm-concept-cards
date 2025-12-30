@@ -3,12 +3,26 @@
     "name": "Moral Licensing",
     "summary": "A psychological phenomenon where doing something good gives people unconscious permission to subsequently do something bad or unethical.",
     "explanation": "Moral Licensing, also known as self-licensing or the licensing effect, is a cognitive bias where past good behavior gives people psychological 'credits' that they unconsciously use to justify subsequent bad behavior. After acting virtuously, individuals feel they have established their moral credentials, which paradoxically makes them more likely to act in ways that contradict their stated values.\n\nResearch has documented moral licensing across many domains:\n\n**Diet and Health**: Studies show that people who choose a salad or healthy option as a first course are more likely to order an indulgent dessert afterward. The healthy choice creates a license to splurge. Similarly, people who exercise may reward themselves with unhealthy food, sometimes consuming more calories than they burned.\n\n**Environmental Behavior**: Consumers who purchase eco-friendly products may subsequently feel licensed to engage in less environmentally conscious behaviors. Buying a reusable bag might unconsciously justify taking a longer car trip. This is sometimes called the 'green licensing effect.'\n\n**Prejudice and Discrimination**: In one striking study, participants who had the opportunity to disagree with blatantly sexist statements were later more likely to favor a man over a woman for a stereotypically male job. Their initial anti-sexist stance licensed subsequent discriminatory behavior. Similar effects have been found with racial bias.\n\n**Charitable Giving**: People who imagine donating to charity or even just think about their past generosity may become less likely to actually donate when given a real opportunity.\n\nMoral licensing occurs because humans tend to think of morality as a balance sheet. Good deeds create moral credits that can be spent on self-interested behavior without threatening one's self-image as a good person. The licensing effect is strongest when people focus on their past behavior as evidence of who they are (a good person) rather than as progress toward a goal.\n\nStrategies to avoid moral licensing:\n\n1. **Focus on identity, not behavior**: Frame your goals in terms of who you want to be, not what you want to do. 'I am someone who eats healthy' is more protective than 'I am trying to eat healthy.'\n\n2. **Treat progress as commitment, not achievement**: View good behavior as evidence of your commitment to a goal, not as progress that earns a reward. Ask 'Why did I do that good thing?' rather than 'Did I do a good thing?'\n\n3. **Create systems, not exceptions**: Build habits and routines that do not require moral decision-making each time. When healthy behavior is automatic, there is less opportunity for licensing.\n\n4. **Be aware of the effect**: Simply knowing about moral licensing can help reduce its power. When you notice yourself thinking 'I deserve this,' pause to question whether past good behavior is unconsciously licensing current bad behavior.\n\n5. **Commit publicly**: External accountability makes it harder to privately license yourself to deviate from your stated values.\n\nUnderstanding moral licensing is crucial for anyone pursuing long-term goals, as it reveals how our own psychology can undermine our best intentions through a subtle process of self-justification.",
-    "tags": ["cognitive-biases", "psychology", "behavioral-economics", "self-improvement", "decision-making", "social-psychology"],
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "behavioral-economics",
+        "self-improvement",
+        "decision-making",
+        "social-psychology"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Self-Licensing", "Moral Self-Licensing", "Licensing Effect"],
-    "relatedConcepts": ["cognitive-dissonance", "self-serving-bias"],
+    "aliases": [
+        "Self-Licensing",
+        "Moral Self-Licensing",
+        "Licensing Effect"
+    ],
+    "relatedConcepts": [
+        "cognitive-dissonance",
+        "self-serving-bias"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [],
@@ -17,6 +31,16 @@
             "title": "Moral Licensing - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Self-licensing",
             "type": "website"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

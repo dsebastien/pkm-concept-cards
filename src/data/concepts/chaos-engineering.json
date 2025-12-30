@@ -3,19 +3,45 @@
     "name": "Chaos Engineering",
     "summary": "The discipline of experimenting on distributed systems to build confidence in their ability to withstand turbulent conditions.",
     "explanation": "Chaos Engineering is the discipline of experimenting on a system to build confidence in its capability to withstand turbulent conditions in production. Pioneered by Netflix with their 'Chaos Monkey' tool, it involves deliberately introducing failures to test resilience. Key principles include: (1) Build a hypothesis around steady state - define what normal looks like, (2) Vary real-world events - simulate failures like server crashes, network issues, or dependency failures, (3) Run experiments in production - test where it matters most (with safeguards), (4) Automate experiments - continuous chaos testing catches regressions, (5) Minimize blast radius - start small and expand. Benefits include: discovering weaknesses before they cause outages, improving incident response, and building team confidence. Common tools include Chaos Monkey, Gremlin, and LitmusChaos. The practice embodies the philosophy that understanding failure modes is better than hoping they won't happen.",
-    "tags": ["reliability", "distributed-systems", "testing", "software-engineering", "resilience"],
+    "tags": [
+        "reliability",
+        "distributed-systems",
+        "testing",
+        "software-engineering",
+        "resilience"
+    ],
     "category": "Software Development",
     "icon": "FaRandom",
     "featured": false,
-    "aliases": ["Chaos Monkey", "Resilience Testing", "Failure Injection"],
-    "relatedConcepts": ["fail-fast", "productive-failure", "systems-thinking"],
+    "aliases": [
+        "Chaos Monkey",
+        "Resilience Testing",
+        "Failure Injection"
+    ],
+    "relatedConcepts": [
+        "fail-fast",
+        "productive-failure",
+        "systems-thinking"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [
-        {"title": "Chaos Engineering by Casey Rosenthal and Nora Jones", "url": "https://www.amazon.com/dp/1492043869?tag=dsebastien00-20"}
+        {
+            "title": "Chaos Engineering by Casey Rosenthal and Nora Jones",
+            "url": "https://www.amazon.com/dp/1492043869?tag=dsebastien00-20"
+        }
     ],
     "references": [
-        {"title": "Chaos engineering - Wikipedia", "url": "https://en.wikipedia.org/wiki/Chaos_engineering", "type": "website"}
+        {
+            "title": "Chaos engineering - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chaos_engineering",
+            "type": "website"
+        },
+        {
+            "title": "Dev Concepts",
+            "url": "https://dev-concepts.dev",
+            "type": "other"
+        }
     ],
     "tutorials": [],
     "datePublished": "2025-12-28",

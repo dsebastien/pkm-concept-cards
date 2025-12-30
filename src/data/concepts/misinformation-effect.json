@@ -3,12 +3,24 @@
     "name": "Misinformation Effect",
     "summary": "A memory phenomenon where exposure to misleading information after an event alters a person's memory of that event.",
     "explanation": "The Misinformation Effect is a well-documented memory phenomenon in which a person's recollection of an event becomes distorted after exposure to incorrect or misleading post-event information. This can occur through leading questions, suggestive comments, media reports, or discussions with others who provide inaccurate details. The original memory does not simply coexist with the new information; rather, the misinformation can become integrated into the memory itself, making it difficult or impossible to distinguish between what was actually witnessed and what was later suggested.\n\nThis phenomenon was pioneered by cognitive psychologist Elizabeth Loftus through her groundbreaking research beginning in the 1970s. In her classic studies, participants watched videos of car accidents and were later asked questions containing misleading information. For example, asking 'How fast were the cars going when they smashed into each other?' versus 'How fast were the cars going when they hit each other?' led to significantly different speed estimates and even false memories of broken glass that was never present. These experiments demonstrated that memory is not a passive recording of events but an active reconstructive process susceptible to external influence.\n\nThe real-world implications of the misinformation effect are profound, particularly in legal contexts. Eyewitness testimony, once considered highly reliable evidence, has been shown to be remarkably malleable. Witnesses can unknowingly incorporate details from police questioning, news coverage, or conversations with other witnesses into their memories, leading to confident but inaccurate testimony. DNA exoneration studies have revealed that eyewitness misidentification is the leading cause of wrongful convictions. The misinformation effect also contributes to the formation of false memories, where people develop detailed recollections of events that never occurred.\n\nSeveral factors influence susceptibility to the misinformation effect. Time delay between the original event and exposure to misinformation increases vulnerability, as does stress during the original event. The perceived authority or credibility of the source providing misinformation enhances its impact. Repeated exposure to misinformation strengthens its integration into memory. Young children and older adults tend to be more susceptible than young adults.\n\nGuarding against the misinformation effect requires awareness and deliberate strategies. When witnessing important events, try to document your observations immediately before discussing them with others or consuming related media. Be skeptical of memories that have been discussed or questioned repeatedly. In professional contexts such as law enforcement, cognitive interview techniques and sequential lineups have been developed to minimize suggestive influences. Understanding that confidence in a memory is not a reliable indicator of its accuracy is crucial for both individuals and institutions that rely on eyewitness accounts.",
-    "tags": ["cognitive-biases", "psychology", "memory", "misinformation", "learning"],
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "memory",
+        "misinformation",
+        "learning"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Post-Event Information Effect"],
-    "relatedConcepts": ["suggestibility", "source-confusion", "confirmation-bias"],
+    "aliases": [
+        "Post-Event Information Effect"
+    ],
+    "relatedConcepts": [
+        "suggestibility",
+        "source-confusion",
+        "confirmation-bias"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [
@@ -31,6 +43,26 @@
             "title": "Elizabeth Loftus - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Elizabeth_Loftus",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
         }
     ],
     "tutorials": [],

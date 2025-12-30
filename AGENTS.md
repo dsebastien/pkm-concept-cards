@@ -532,7 +532,7 @@ Instructions and documentation here...
 
 ## Best Practices for Contributions
 
-1. **Avoid duplicate concepts** - Before adding a new concept, check if it already exists (see Duplicate Prevention section below)
+1. **Always verify with database first** - Before adding a new concept, MUST run verification script (see Concept Duplicate Prevention with Database section below)
 2. **Keep summaries concise** - One sentence that captures the essence
 3. **Write clear explanations** - Explain what, how, and why
 4. **Use consistent tags** - Check existing tags before creating new ones
@@ -541,27 +541,112 @@ Instructions and documentation here...
 7. **Test locally** - Run `npm run build` before committing
 8. **Follow commit conventions** - Use conventional commits (feat, fix, docs, etc.)
 
-## Duplicate Prevention
+## Concept Duplicate Prevention with Database
 
-**IMPORTANT**: Before adding a new concept, always check if it already exists to avoid duplicates.
+**MANDATORY**: Before adding ANY new concept, you MUST verify it doesn't already exist using the concepts database.
 
-### How to Check for Duplicates
+### Database Location
 
-1. **Check existing concept files**:
+`/home/dsebastien/wks/concept-cards/concepts.db` - SQLite database containing all concepts with metadata for duplicate detection.
+
+### Required Workflow for Adding Concepts
+
+1. **ALWAYS run verification first**:
+
+    ```bash
+    npx tsx scripts/verify-concept.ts --name "Concept Name" --summary "Brief summary" --aliases "Alias 1,Alias 2"
+    ```
+
+2. **Interpret confidence score**:
+    - **≥90% confidence**: Concept likely exists - STOP and review suggested duplicates
+    - **70-89% confidence**: Manual review required - compare with suggested matches
+    - **<70% confidence**: Proceed with adding concept
+
+3. **Only proceed if confidence <90%** OR you've manually confirmed it's unique
+
+4. **After creating concept JSON, sync database**:
+    ```bash
+    npx tsx scripts/sync-concepts-db.ts
+    ```
+
+### Claude Code Skill
+
+**USE THE SKILL**: When working with concepts, ALWAYS use the `manage-concepts-db` skill:
 
 ```bash
-# List all existing concept IDs
-ls /home/dsebastien/wks/concept-cards/src/data/concepts/*.json | xargs -n1 basename | sed 's/.json$//' | sort
+# In Claude Code
+/manage-concepts-db
 ```
 
-2. **Search by name or keyword**:
+This skill provides complete workflows for:
+
+- Verifying concepts before adding
+- Syncing database after changes
+- Merging duplicates
+- Database maintenance
+
+### Duplicate Detection Methods
+
+The verification script checks:
+
+- **Exact name match** (95% confidence)
+- **Alias cross-check** (90% confidence) - checks if name matches existing aliases
+- **Fuzzy name similarity** (80-90% confidence) - Levenshtein distance
+- **Summary similarity** (70-85% confidence) - TF-IDF cosine similarity
+- **Explanation similarity** (60-80% confidence) - content overlap
+- **Related notes URL overlap** (95% confidence) - same URL = strong duplicate signal
+- **Reference overlap** (50-70% confidence) - shared books/articles
+
+### Scripts Available
+
+| Script                | Purpose                                    | When to Use                      |
+| --------------------- | ------------------------------------------ | -------------------------------- |
+| `init-concepts-db.ts` | Initialize and populate database           | First time setup or rebuild      |
+| `verify-concept.ts`   | Check if concept exists before adding      | BEFORE creating any new concept  |
+| `sync-concepts-db.ts` | Sync database with JSON files              | AFTER adding/editing any concept |
+| `merge-duplicates.ts` | Merge duplicate concepts                   | When duplicates confirmed        |
+| `find-duplicates.ts`  | Scan all concepts for potential duplicates | Periodic cleanup / data quality  |
+
+### Example: Adding Concept from MoC
 
 ```bash
-# Search for concepts containing a keyword
-grep -r -l "keyword" /home/dsebastien/wks/concept-cards/src/data/concepts/
+# 1. Verify concept doesn't exist
+npx tsx scripts/verify-concept.ts --name "Parkinson's Law" --summary "Work expands to fill time available"
+
+# Output: Confidence: 15% - No strong matches found. Safe to add.
+
+# 2. Create concept JSON file
+# ... (create /home/dsebastien/wks/concept-cards/src/data/concepts/parkinsons-law.json)
+
+# 3. Sync database
+npx tsx scripts/sync-concepts-db.ts
+
+# Output: ✓ Added parkinsons-law to database
 ```
 
-3. **Check aliases**: Similar concepts might exist under different names. Review the `aliases` field in existing concepts.
+### Merging Duplicates
+
+If verification finds a duplicate (≥90% confidence):
+
+```bash
+# Review both concepts
+cat /home/dsebastien/wks/concept-cards/src/data/concepts/{source-id}.json
+cat /home/dsebastien/wks/concept-cards/src/data/concepts/{target-id}.json
+
+# Merge duplicates
+npx tsx scripts/merge-duplicates.ts --source {source-id} --target {target-id} --strategy merge-fields
+
+# Sync database
+npx tsx scripts/sync-concepts-db.ts
+```
+
+This will:
+
+- Combine tags, aliases, references (union)
+- Keep target's core content
+- Update cross-references
+- Delete source file
+- Update database
 
 ### What Counts as a Duplicate
 
@@ -592,7 +677,7 @@ When tasked with reviewing MoCs to add new concepts, use sub-agents to paralleli
 
 1. **Read MoC files** from the notes repository (`/home/dsebastien/notesSeb/30 Areas/34 Maps/34.01 MoCs/`)
 2. **Identify potential concepts** from the notes listed in each MoC
-3. **Check for duplicates** against existing concepts (see Duplicate Prevention section)
+3. **Verify with database** that concepts don't exist (see Concept Duplicate Prevention with Database section)
 4. **For each new concept to add**, spawn a sub-agent to:
     - Read the source note from the notes repository
     - Verify the note has sufficient content for a concept card

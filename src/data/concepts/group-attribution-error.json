@@ -3,16 +3,44 @@
     "name": "Group Attribution Error",
     "summary": "Assuming group decisions reflect group members individual attitudes.",
     "explanation": "The Group Attribution Error is a cognitive bias involving two related tendencies: first, assuming that a groups decision reflects the attitudes or preferences of all individual group members; and second, assuming that the characteristics of an individual group member are representative of the group as a whole. This bias leads to overgeneralizations about groups based on limited information and fails to account for the complex dynamics of group decision-making.\\n\\nThe first form of this error is particularly problematic because group decisions often emerge from compromise, social pressure, procedural rules, or the influence of a few vocal members rather than unanimous agreement. A policy adopted by an organization may not reflect what most members actually believe. Yet observers tend to assume the decision reveals widespread support, leading to misattributed responsibility and unfair judgments about group members.\\n\\nUnderstanding group attribution error has important implications for politics, organizational behavior, and intergroup relations. It can lead to collective blame when individuals within a group had no role in or even opposed a decision. It contributes to stereotyping when we assume one members behavior represents the entire group. Avoiding this error requires recognizing that groups are composed of diverse individuals with varying views, and that group outcomes are often the product of processes that obscure individual positions.",
-    "tags": ["cognitive-biases", "psychology", "social-psychology", "groups", "decision-making"],
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "social-psychology",
+        "groups",
+        "decision-making"
+    ],
     "category": "Cognitive Biases",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Ultimate Attribution Error"],
-    "relatedConcepts": ["fundamental-attribution-error", "outgroup-homogeneity-bias", "in-group-bias"],
+    "aliases": [
+        "Ultimate Attribution Error"
+    ],
+    "relatedConcepts": [
+        "fundamental-attribution-error",
+        "outgroup-homogeneity-bias",
+        "in-group-bias"
+    ],
     "relatedNotes": [],
     "articles": [],
-    "books": [{"title": "Social Psychology by Elliot Aronson", "url": "https://www.amazon.com/dp/0134641280?tag=dsebastien00-20"}],
-    "references": [{"title": "Group attribution error - Wikipedia", "url": "https://en.wikipedia.org/wiki/Group_attribution_error", "type": "website"}],
+    "books": [
+        {
+            "title": "Social Psychology by Elliot Aronson",
+            "url": "https://www.amazon.com/dp/0134641280?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Group attribution error - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Group_attribution_error",
+            "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
+        }
+    ],
     "tutorials": [],
     "datePublished": "2025-12-29",
     "dateModified": "2025-12-29"

@@ -1,43 +1,43 @@
 {
-    "id": "depression",
-    "name": "Depression",
-    "summary": "A mood disorder characterized by persistent sadness, loss of interest, and various cognitive and physical symptoms.",
-    "explanation": "Depression is a complex mood disorder that goes beyond normal sadness, involving persistent low mood, loss of interest or pleasure in activities, changes in sleep and appetite, fatigue, difficulty concentrating, and sometimes thoughts of worthlessness or death. It affects how you think, feel, and function. Depression involves multiple brain systems including reduced serotonin and dopamine activity, an overactive amygdala, reduced hippocampus volume, and default mode network dysfunction leading to excessive self-focused rumination. While clinical depression requires professional treatment, understanding its mechanisms helps with prevention and mild cases. Protective factors include social connection, physical exercise (which promotes neuroplasticity and neurotransmitter release), meaningful activities, quality sleep, and cognitive strategies that interrupt negative thought spirals.",
-    "tags": [
-        "mental-health",
-        "psychology",
-        "well-being",
-        "emotions",
-        "health"
-    ],
-    "category": "Concepts",
-    "icon": "FaCloudRain",
-    "featured": false,
-    "aliases": [
-        "Major depressive disorder",
-        "Clinical depression",
-        "Depressive disorder"
-    ],
-    "relatedConcepts": [
-        "serotonin",
-        "dopamine",
-        "rumination",
-        "learned-helplessness",
-        "default-mode-network",
-        "gratitude",
-        "behavioral-activation",
-        "cognitive-behavioral-therapy"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Major depressive disorder - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
-            "type": "website"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "depression",
+  "name": "Depression",
+  "summary": "A mood disorder characterized by persistent sadness, loss of interest, and various cognitive and physical symptoms.",
+  "explanation": "Depression is a complex mood disorder that goes beyond normal sadness, involving persistent low mood, loss of interest or pleasure in activities, changes in sleep and appetite, fatigue, difficulty concentrating, and sometimes thoughts of worthlessness or death. It affects how you think, feel, and function. Depression involves multiple brain systems including reduced serotonin and dopamine activity, an overactive amygdala, reduced hippocampus volume, and default mode network dysfunction leading to excessive self-focused rumination. While clinical depression requires professional treatment, understanding its mechanisms helps with prevention and mild cases. Protective factors include social connection, physical exercise (which promotes neuroplasticity and neurotransmitter release), meaningful activities, quality sleep, and cognitive strategies that interrupt negative thought spirals.",
+  "tags": [
+    "mental-health",
+    "psychology",
+    "well-being",
+    "emotions",
+    "health"
+  ],
+  "category": "Concepts",
+  "icon": "FaCloudRain",
+  "featured": false,
+  "aliases": [
+    "Major depressive disorder",
+    "Clinical depression",
+    "Depressive disorder"
+  ],
+  "relatedConcepts": [
+    "serotonin",
+    "dopamine",
+    "rumination",
+    "learned-helplessness",
+    "default-mode-network",
+    "gratitude-practice",
+    "behavioral-activation",
+    "cognitive-behavioral-therapy"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Major depressive disorder - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+      "type": "website"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

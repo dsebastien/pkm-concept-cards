@@ -1,61 +1,61 @@
 {
-    "id": "positive-emotions",
-    "name": "Positive Emotions",
-    "summary": "Pleasant emotional states like joy, gratitude, and contentment that enhance wellbeing and capability.",
-    "explanation": "Positive emotions are pleasant feeling states that include: joy, gratitude, serenity, interest, hope, pride, amusement, inspiration, awe, and love. Barbara Fredrickson's research shows these emotions aren't just pleasant - they build lasting resources. Her broaden-and-build theory demonstrates that positive emotions: broaden momentary thought-action repertoires (we see more options), build lasting personal resources (skills, relationships, resilience), and undo the narrowing effects of negative emotions. Positive emotions improve: creativity, problem-solving, social connection, health, and resilience. Importantly, positive emotions aren't about suppressing negative ones - both have value. The goal is cultivating genuine positive experiences rather than forced positivity. For knowledge workers, intentionally cultivating positive emotions improves: creative problem-solving, collaboration, resilience to setbacks, and overall wellbeing. Practices include: gratitude, savoring, connecting with others, and pursuing engaging activities.",
-    "tags": [
-        "happiness",
-        "emotions",
-        "well-being",
-        "positive-psychology",
-        "resilience"
-    ],
-    "category": "Concepts",
-    "icon": "FaHeart",
-    "featured": false,
-    "aliases": [
-        "Pleasant emotions",
-        "Positive affect",
-        "Good feelings"
-    ],
-    "relatedConcepts": [
-        "broaden-and-build",
-        "gratitude",
-        "savoring",
-        "emotional-intelligence",
-        "subjective-wellbeing"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Positivity by Barbara Fredrickson",
-            "url": "https://amzn.to/3Dp08MT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Positive affectivity - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Positive_affectivity",
-            "type": "website"
-        },
-        {
-            "title": "Affect (psychology) - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Affect_(psychology)",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "positive-emotions",
+  "name": "Positive Emotions",
+  "summary": "Pleasant emotional states like joy, gratitude, and contentment that enhance wellbeing and capability.",
+  "explanation": "Positive emotions are pleasant feeling states that include: joy, gratitude, serenity, interest, hope, pride, amusement, inspiration, awe, and love. Barbara Fredrickson's research shows these emotions aren't just pleasant - they build lasting resources. Her broaden-and-build theory demonstrates that positive emotions: broaden momentary thought-action repertoires (we see more options), build lasting personal resources (skills, relationships, resilience), and undo the narrowing effects of negative emotions. Positive emotions improve: creativity, problem-solving, social connection, health, and resilience. Importantly, positive emotions aren't about suppressing negative ones - both have value. The goal is cultivating genuine positive experiences rather than forced positivity. For knowledge workers, intentionally cultivating positive emotions improves: creative problem-solving, collaboration, resilience to setbacks, and overall wellbeing. Practices include: gratitude, savoring, connecting with others, and pursuing engaging activities.",
+  "tags": [
+    "happiness",
+    "emotions",
+    "well-being",
+    "positive-psychology",
+    "resilience"
+  ],
+  "category": "Concepts",
+  "icon": "FaHeart",
+  "featured": false,
+  "aliases": [
+    "Pleasant emotions",
+    "Positive affect",
+    "Good feelings"
+  ],
+  "relatedConcepts": [
+    "broaden-and-build",
+    "gratitude-practice",
+    "savoring",
+    "emotional-intelligence",
+    "subjective-wellbeing"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Positivity by Barbara Fredrickson",
+      "url": "https://amzn.to/3Dp08MT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Positive affectivity - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Positive_affectivity",
+      "type": "website"
+    },
+    {
+      "title": "Affect (psychology) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Affect_(psychology)",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

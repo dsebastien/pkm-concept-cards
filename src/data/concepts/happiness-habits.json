@@ -1,56 +1,56 @@
 {
-    "id": "happiness-habits",
-    "name": "Happiness Habits",
-    "summary": "Regular practices scientifically shown to increase sustained wellbeing over time.",
-    "explanation": "Happiness habits are evidence-based practices that, when performed regularly, increase sustained wellbeing. Key habits include: gratitude practice (noting things you're thankful for), savoring (fully experiencing positive moments), acts of kindness (helping others), nurturing relationships (investing in connections), physical exercise (mood-boosting activity), flow activities (engaging challenges), and mindfulness (present-moment awareness). These habits work by: generating positive emotions, building resources, and shifting attention toward the positive. Effectiveness depends on: fit with individual preferences, variety (to prevent adaptation), and genuine engagement (not going through motions). The 40% of happiness influenced by intentional activities represents significant opportunity through consistent habits. For knowledge workers, building happiness habits means: scheduling specific practices, tracking adherence, experimenting with different activities, and recognizing that wellbeing requires ongoing investment rather than one-time achievement.",
-    "tags": [
-        "happiness",
-        "habits",
-        "well-being",
-        "positive-psychology",
-        "self-improvement"
-    ],
-    "category": "Techniques",
-    "icon": "FaRedo",
-    "featured": false,
-    "aliases": [
-        "Wellbeing habits",
-        "Happiness practices",
-        "Positive habits"
-    ],
-    "relatedConcepts": [
-        "gratitude",
-        "savoring",
-        "mindfulness",
-        "social-capital",
-        "happiness-set-point"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "The How of Happiness by Sonja Lyubomirsky",
-            "url": "https://amzn.to/3Dp09NT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Worker Kit",
-            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "happiness-habits",
+  "name": "Happiness Habits",
+  "summary": "Regular practices scientifically shown to increase sustained wellbeing over time.",
+  "explanation": "Happiness habits are evidence-based practices that, when performed regularly, increase sustained wellbeing. Key habits include: gratitude practice (noting things you're thankful for), savoring (fully experiencing positive moments), acts of kindness (helping others), nurturing relationships (investing in connections), physical exercise (mood-boosting activity), flow activities (engaging challenges), and mindfulness (present-moment awareness). These habits work by: generating positive emotions, building resources, and shifting attention toward the positive. Effectiveness depends on: fit with individual preferences, variety (to prevent adaptation), and genuine engagement (not going through motions). The 40% of happiness influenced by intentional activities represents significant opportunity through consistent habits. For knowledge workers, building happiness habits means: scheduling specific practices, tracking adherence, experimenting with different activities, and recognizing that wellbeing requires ongoing investment rather than one-time achievement.",
+  "tags": [
+    "happiness",
+    "habits",
+    "well-being",
+    "positive-psychology",
+    "self-improvement"
+  ],
+  "category": "Techniques",
+  "icon": "FaRedo",
+  "featured": false,
+  "aliases": [
+    "Wellbeing habits",
+    "Happiness practices",
+    "Positive habits"
+  ],
+  "relatedConcepts": [
+    "gratitude-practice",
+    "savoring",
+    "mindfulness",
+    "social-capital",
+    "happiness-set-point"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "The How of Happiness by Sonja Lyubomirsky",
+      "url": "https://amzn.to/3Dp09NT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    },
+    {
+      "title": "Knowledge Worker Kit",
+      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

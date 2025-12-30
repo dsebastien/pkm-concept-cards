@@ -1,45 +1,45 @@
 {
-    "id": "gratitude-reciprocity",
-    "name": "Gratitude Reciprocity",
-    "summary": "The relationship between experiencing gratitude and engaging in reciprocal or generous behavior.",
-    "explanation": "Gratitude reciprocity describes the relationship between experiencing gratitude and engaging in reciprocal or generous behavior. When people feel genuinely grateful, they're more likely to: help their benefactor, help third parties, and engage in prosocial behavior generally. Gratitude serves as a moral affect that reinforces reciprocity and expands generosity beyond direct exchange. Research shows that gratitude: increases prosocial motivation (wanting to help), reduces self-focus, and creates positive relationship cycles. The mechanism works through: acknowledging receiving value, feeling connected to the giver, and desire to create similar positive experiences. Importantly, authentic gratitude differs from obligation - gratitude motivates freely chosen giving while obligation creates reluctant compliance. Practices that cultivate gratitude (journaling, expressing thanks) can increase overall generous behavior. For knowledge workers, understanding gratitude reciprocity means: expressing genuine thanks (which motivates continued helping), cultivating gratitude practice (which increases generous inclinations), and creating conditions where others can feel grateful (giving in ways that inspire rather than obligate).",
-    "tags": [
-        "reciprocity",
-        "gratitude",
-        "psychology",
-        "relationships",
-        "prosocial"
-    ],
-    "category": "Concepts",
-    "icon": "FaPrayingHands",
-    "featured": false,
-    "aliases": [
-        "Grateful giving",
-        "Thankfulness and reciprocity",
-        "Gratitude-driven generosity"
-    ],
-    "relatedConcepts": [
-        "gratitude",
-        "reciprocity-principle",
-        "generosity-principle",
-        "social-capital",
-        "positive-psychology"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "gratitude-reciprocity",
+  "name": "Gratitude Reciprocity",
+  "summary": "The relationship between experiencing gratitude and engaging in reciprocal or generous behavior.",
+  "explanation": "Gratitude reciprocity describes the relationship between experiencing gratitude and engaging in reciprocal or generous behavior. When people feel genuinely grateful, they're more likely to: help their benefactor, help third parties, and engage in prosocial behavior generally. Gratitude serves as a moral affect that reinforces reciprocity and expands generosity beyond direct exchange. Research shows that gratitude: increases prosocial motivation (wanting to help), reduces self-focus, and creates positive relationship cycles. The mechanism works through: acknowledging receiving value, feeling connected to the giver, and desire to create similar positive experiences. Importantly, authentic gratitude differs from obligation - gratitude motivates freely chosen giving while obligation creates reluctant compliance. Practices that cultivate gratitude (journaling, expressing thanks) can increase overall generous behavior. For knowledge workers, understanding gratitude reciprocity means: expressing genuine thanks (which motivates continued helping), cultivating gratitude practice (which increases generous inclinations), and creating conditions where others can feel grateful (giving in ways that inspire rather than obligate).",
+  "tags": [
+    "reciprocity",
+    "gratitude",
+    "psychology",
+    "relationships",
+    "prosocial"
+  ],
+  "category": "Concepts",
+  "icon": "FaPrayingHands",
+  "featured": false,
+  "aliases": [
+    "Grateful giving",
+    "Thankfulness and reciprocity",
+    "Gratitude-driven generosity"
+  ],
+  "relatedConcepts": [
+    "gratitude-practice",
+    "reciprocity-principle",
+    "generosity-principle",
+    "social-capital",
+    "positive-psychology"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

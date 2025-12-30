@@ -3,19 +3,45 @@
     "name": "Clean Architecture",
     "summary": "A software architecture pattern that emphasizes separation of concerns through concentric layers with dependencies pointing inward.",
     "explanation": "Clean Architecture is a software design philosophy proposed by Robert C. Martin (Uncle Bob) that emphasizes separation of concerns through layered architecture. The core principle is the Dependency Rule: source code dependencies must point inward, toward higher-level policies. Layers from outside to inside: (1) Frameworks & Drivers - UI, database, web frameworks, (2) Interface Adapters - controllers, presenters, gateways, (3) Application Business Rules - use cases, (4) Enterprise Business Rules - entities. Benefits include: independence from frameworks, testability, independence from UI, independence from database, and independence from external agencies. The architecture enables: easier testing through dependency injection, flexibility to swap components, and protection of business logic from external changes. Related patterns include Hexagonal Architecture (Ports and Adapters), Onion Architecture, and the principles overlap significantly with Domain-Driven Design.",
-    "tags": ["architecture", "software-design", "software-engineering", "best-practices", "patterns"],
+    "tags": [
+        "architecture",
+        "software-design",
+        "software-engineering",
+        "best-practices",
+        "patterns"
+    ],
     "category": "Software Development",
     "icon": "FaLayerGroup",
     "featured": false,
-    "aliases": ["Onion Architecture", "Hexagonal Architecture", "Ports and Adapters"],
-    "relatedConcepts": ["domain-driven-design", "solid-principles", "dry-principle"],
+    "aliases": [
+        "Onion Architecture",
+        "Hexagonal Architecture",
+        "Ports and Adapters"
+    ],
+    "relatedConcepts": [
+        "domain-driven-design",
+        "solid-principles",
+        "dry-principle"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [
-        {"title": "Clean Architecture by Robert C. Martin", "url": "https://www.amazon.com/dp/0134494164?tag=dsebastien00-20"}
+        {
+            "title": "Clean Architecture by Robert C. Martin",
+            "url": "https://www.amazon.com/dp/0134494164?tag=dsebastien00-20"
+        }
     ],
     "references": [
-        {"title": "Hexagonal architecture - Wikipedia", "url": "https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)", "type": "website"}
+        {
+            "title": "Hexagonal architecture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)",
+            "type": "website"
+        },
+        {
+            "title": "Dev Concepts",
+            "url": "https://dev-concepts.dev",
+            "type": "other"
+        }
     ],
     "tutorials": [],
     "datePublished": "2025-12-28",

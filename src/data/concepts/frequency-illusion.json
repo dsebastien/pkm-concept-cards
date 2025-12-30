@@ -3,12 +3,26 @@
     "name": "Frequency Illusion",
     "summary": "A cognitive bias where something you've recently noticed suddenly seems to appear with improbable frequency afterward.",
     "explanation": "The Frequency Illusion, also known as the Baader-Meinhof Phenomenon, is a cognitive bias that occurs when something you've recently learned or noticed suddenly seems to appear everywhere. After becoming aware of a new word, concept, product, or piece of information, you begin encountering it with surprising regularity, leading to the false impression that its actual frequency has increased.\n\nThis phenomenon results from two interconnected cognitive processes working together:\n\n**Selective Attention**: Once you learn something new, your brain becomes primed to notice it. Your reticular activating system (RAS), which filters the massive amount of sensory information your brain receives, now flags this newly acquired information as relevant. Before learning about it, the same information likely passed through your awareness unnoticed many times.\n\n**Confirmation Bias**: Each time you encounter the newly noticed thing, it reinforces your belief that it's appearing more frequently. You remember the instances that confirm your perception while ignoring or forgetting the times when it doesn't appear. This creates a feedback loop that strengthens the illusion.\n\nThe name 'Baader-Meinhof Phenomenon' has an interesting origin. It was coined in 1994 when a commenter on the St. Paul Pioneer Press online forum described hearing about the Baader-Meinhof Group (a German left-wing militant organization from the 1970s) twice in 24 hours after never having heard of them before. The term caught on precisely because of its memorably unusual name.\n\nThe Stanford linguistics professor Arnold Zwicky later gave it the more scientific name 'frequency illusion' in 2006, distinguishing it from the 'recency illusion' (the belief that something is new when it actually isn't).\n\nPractical implications of understanding the frequency illusion include:\n\n- **Critical Thinking**: Recognizing this bias helps you evaluate whether something is truly becoming more common or if you're simply noticing it more.\n- **Marketing Awareness**: Advertisers exploit this phenomenon; after you research a product, you'll notice its ads everywhere (though this is also partly due to targeted advertising).\n- **Learning and Research**: When studying a new topic, expect to encounter it frequently afterward - this is normal and can actually reinforce learning.\n- **Medical Decisions**: Patients who learn about a condition often feel they're seeing its symptoms everywhere, which can lead to unnecessary anxiety.\n- **Pattern Recognition**: Understanding this bias prevents false conclusions about trends or patterns that don't actually exist.",
-    "tags": ["cognitive-biases", "attention", "perception", "psychology", "decision-making"],
+    "tags": [
+        "cognitive-biases",
+        "attention",
+        "perception",
+        "psychology",
+        "decision-making"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Baader-Meinhof Phenomenon", "Recency Illusion"],
-    "relatedConcepts": ["confirmation-bias", "attentional-bias", "salience-bias", "availability-heuristic"],
+    "aliases": [
+        "Baader-Meinhof Phenomenon",
+        "Recency Illusion"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "attentional-bias",
+        "salience-bias",
+        "availability-heuristic"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [],
@@ -17,6 +31,11 @@
             "title": "Frequency Illusion - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Frequency_illusion",
             "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

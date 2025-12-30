@@ -3,19 +3,45 @@
     "name": "Blue-Green Deployment",
     "summary": "A release strategy that reduces downtime and risk by running two identical production environments called Blue and Green.",
     "explanation": "Blue-Green Deployment is a release strategy that reduces downtime and risk by running two identical production environments. At any time, only one environment serves live traffic. How it works: (1) Blue environment runs the current production version, (2) Green environment is deployed with the new version, (3) After testing Green, traffic is switched from Blue to Green, (4) Blue becomes the standby for the next deployment or instant rollback. Benefits include: zero-downtime deployments, instant rollback capability, reduced deployment risk, and the ability to test in a production-like environment. Challenges include: managing database migrations, doubled infrastructure costs, and handling stateful applications. Variations include canary deployments (gradual traffic shifting) and rolling deployments. The pattern is fundamental to continuous deployment and DevOps practices.",
-    "tags": ["devops", "deployment", "software-engineering", "infrastructure", "continuous-delivery"],
+    "tags": [
+        "devops",
+        "deployment",
+        "software-engineering",
+        "infrastructure",
+        "continuous-delivery"
+    ],
     "category": "Software Development",
     "icon": "FaExchangeAlt",
     "featured": false,
-    "aliases": ["Blue/Green Release", "A/B Deployment"],
-    "relatedConcepts": ["feature-flags", "continuous-improvement", "fail-fast", "chaos-engineering"],
+    "aliases": [
+        "Blue/Green Release",
+        "A/B Deployment"
+    ],
+    "relatedConcepts": [
+        "feature-flags",
+        "continuous-improvement",
+        "fail-fast",
+        "chaos-engineering"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [
-        {"title": "Continuous Delivery by Jez Humble and David Farley", "url": "https://www.amazon.com/dp/0321601912?tag=dsebastien00-20"}
+        {
+            "title": "Continuous Delivery by Jez Humble and David Farley",
+            "url": "https://www.amazon.com/dp/0321601912?tag=dsebastien00-20"
+        }
     ],
     "references": [
-        {"title": "Blue-green deployment - Wikipedia", "url": "https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment", "type": "website"}
+        {
+            "title": "Blue-green deployment - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment",
+            "type": "website"
+        },
+        {
+            "title": "Dev Concepts",
+            "url": "https://dev-concepts.dev",
+            "type": "other"
+        }
     ],
     "tutorials": [],
     "datePublished": "2025-12-28",

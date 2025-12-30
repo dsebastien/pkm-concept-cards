@@ -3,12 +3,26 @@
     "name": "YOLO Mode",
     "summary": "A development approach where AI agents are granted broad execution permissions to work autonomously without per-action approval.",
     "explanation": "YOLO Mode is a practice in AI-assisted development where developers grant AI coding agents broad permissions to execute commands, modify files, and run tests without requiring approval for each individual action. The term 'YOLO' (You Only Live Once) reflects the trust-based approach of letting AI work independently. Key aspects include: (1) Permission allowlists - predefining safe commands the AI can run, (2) Async workflows - enabling AI to work through complex tasks while developers focus elsewhere, (3) Trust with verification - using test suites and linting to catch issues rather than manual approval, (4) Productivity gains - avoiding the 'slower pair programming' trap of constant interruptions. YOLO Mode works best in codebases with strong automated testing, clear coding standards, and well-defined boundaries. It's particularly valuable for async/background development workflows.",
-    "tags": ["ai-development", "automation", "productivity", "software-engineering", "workflows"],
+    "tags": [
+        "ai-development",
+        "automation",
+        "productivity",
+        "software-engineering",
+        "workflows"
+    ],
     "category": "Software Development",
     "icon": "FaBolt",
     "featured": false,
-    "aliases": ["Auto-Approve Mode", "Agent Autonomy Mode"],
-    "relatedConcepts": ["vibe-coding", "prompt-engineering", "test-driven-development", "continuous-improvement"],
+    "aliases": [
+        "Auto-Approve Mode",
+        "Agent Autonomy Mode"
+    ],
+    "relatedConcepts": [
+        "vibe-coding",
+        "prompt-engineering",
+        "test-driven-development",
+        "continuous-improvement"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [],
@@ -27,6 +41,36 @@
             "title": "AI-Assisted Development Best Practices - GitHub",
             "url": "https://github.blog/developer-skills/github-copilot/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
         }
     ],
     "tutorials": [],

@@ -3,11 +3,20 @@
     "name": "Social Loafing",
     "summary": "The tendency for individuals to exert less effort when working in a group than when working alone, as individual contributions become less identifiable.",
     "explanation": "Social Loafing is a psychological phenomenon where individuals reduce their effort when working collectively compared to when working alone. This occurs because individual contributions become less identifiable and personal accountability diminishes within group settings.\n\nThe concept was first identified by French agricultural engineer Max Ringelmann in 1913 through his famous rope-pulling experiments. Ringelmann discovered that when individuals pulled on a rope alone, they exerted maximum effort, but when pulling as part of a group, each person's individual effort decreased proportionally to the group size. This finding became known as the Ringelmann Effect. Where one person might pull at 100% capacity, groups of eight pulled at only about 49% of their potential combined strength.\n\nSocial loafing occurs for several interconnected reasons. First, there's a diffusion of responsibility - when many people share a task, each individual feels less personally responsible for the outcome. Second, people often believe their individual contribution won't significantly impact the final result, leading to reduced motivation. Third, the 'sucker effect' occurs when individuals reduce effort because they perceive others as loafing and don't want to carry an unfair burden. Finally, there's often a lack of clear feedback on individual performance within group contexts.\n\nSeveral factors increase social loafing: larger group sizes, tasks perceived as unimportant or meaningless, lack of individual evaluation, low group cohesion, and the belief that one's contribution is dispensable. Conversely, factors that decrease social loafing include smaller group sizes, meaningful and engaging tasks, clear individual accountability, high group cohesion, and tasks where each person's contribution is unique and identifiable.\n\nStrategies to reduce social loafing in teams include: establishing clear individual roles and responsibilities, making individual contributions visible and measurable, keeping teams small (5-7 members is often optimal), ensuring the task feels meaningful and important, creating a strong team identity and culture, providing regular feedback on both individual and group performance, fostering intrinsic motivation by connecting work to personal values, implementing peer evaluation systems, and setting clear expectations with consequences for underperformance. Leaders can also combat social loafing by building psychological safety while maintaining accountability, celebrating individual contributions publicly, and designing tasks that require interdependence where each person's input is essential to success.",
-    "tags": ["social-psychology", "teams", "productivity", "cognitive-biases", "groups"],
+    "tags": [
+        "social-psychology",
+        "teams",
+        "productivity",
+        "cognitive-biases",
+        "groups"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Free Rider Problem", "Ringelmann Effect"],
+    "aliases": [
+        "Free Rider Problem",
+        "Ringelmann Effect"
+    ],
     "relatedConcepts": [],
     "relatedNotes": [],
     "articles": [],
@@ -22,6 +31,36 @@
             "title": "Ringelmann effect - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Ringelmann_effect",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
         }
     ],
     "tutorials": [],

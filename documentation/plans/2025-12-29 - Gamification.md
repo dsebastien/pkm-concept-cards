@@ -569,5 +569,3 @@ interface AppState {
     randomWalkChain: string[] // current walk
 }
 ```
-
-Estimated total size: ~100-500KB typical usage

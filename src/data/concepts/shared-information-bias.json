@@ -3,12 +3,24 @@
     "name": "Shared Information Bias",
     "summary": "The tendency for group members to spend more time discussing information everyone already knows, while neglecting unique information held by individual members.",
     "explanation": "Shared Information Bias is a cognitive bias that affects group decision-making, where group members disproportionately focus on information that is already known to all members (shared information) rather than information known to only one or a few members (unshared or unique information). This leads groups to make suboptimal decisions because they fail to pool their collective knowledge effectively.\n\nThe phenomenon was first systematically studied by Garold Stasser and William Titus in 1985 through their groundbreaking research on 'hidden profiles.' A hidden profile occurs when the best decision can only be identified if group members share their unique information, but the shared information alone points toward an inferior choice. In their experiments, groups consistently failed to discover the optimal solution because members spent most of their discussion time rehashing what everyone already knew.\n\nSeveral factors contribute to shared information bias. First, shared information is more likely to be mentioned because multiple people can bring it up, creating a statistical sampling advantage. Second, shared information receives more social validation - when others nod in agreement, it reinforces the perception that this information is important and accurate. Third, discussing shared information is psychologically safer because it doesn't risk social rejection or appearing uninformed. Finally, people may strategically withhold unique information to avoid seeming like they're 'showing off' or contradicting the emerging group consensus.\n\nResearch has identified conditions that worsen this bias: larger groups (more difficult to share unique information), time pressure (groups default to shared information), preference for consensus (discourages dissent), hierarchical structures (lower-status members hesitate to share), and tasks framed as judgmental rather than problem-solving.\n\nStrategies to mitigate shared information bias include: explicitly assigning expert roles so each member is recognized as having unique knowledge, using structured discussion formats that require each person to share new information before general discussion, having members write down their information before group discussion to prevent conformity, appointing a devil's advocate to probe for missing information, creating psychological safety so members feel comfortable sharing contradictory views, extending discussion time to allow unique information to surface, using anonymous information-sharing tools or techniques, and training groups to be aware of this bias and actively seek out unshared information.\n\nLeaders can combat this bias by explicitly asking 'What do you know that others might not?' and by celebrating when someone shares unique information that changes the group's direction. Breaking into smaller subgroups, having members prepare position papers in advance, and using nominal group techniques (where members generate ideas independently before discussion) can all help surface hidden profiles and improve decision quality.",
-    "tags": ["cognitive-biases", "decision-making", "groups", "teams", "communication"],
+    "tags": [
+        "cognitive-biases",
+        "decision-making",
+        "groups",
+        "teams",
+        "communication"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Common Knowledge Effect", "Hidden Profile Problem"],
-    "relatedConcepts": ["confirmation-bias", "social-loafing"],
+    "aliases": [
+        "Common Knowledge Effect",
+        "Hidden Profile Problem"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "social-loafing"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [],
@@ -17,6 +29,11 @@
             "title": "Shared information bias - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Shared_information_bias",
             "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

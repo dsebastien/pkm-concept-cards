@@ -1,42 +1,42 @@
 {
-    "id": "happiness-in-the-moment",
-    "name": "Happiness in the Moment",
-    "summary": "Happiness occurs when nothing is missing in the present moment - when we stop wanting the situation to change.",
-    "explanation": "We are happy when we are not desiring new things, when we are not wanting the current situation to change, when we don't want additional things in our lives. Happiness is being okay - or even glad - with the current state of things.\n\n**The components of momentary happiness:**\n\n**Acceptance**: Being at peace with what is, rather than fighting reality.\n\n**Absence of desire**: Desire creates tension and generates unhappiness. Wanting something we don't have pulls us out of the present.\n\n**Present focus**: Appreciating the moment exactly as it is, without wishing it were different.\n\n**Releasing projection**: Stopping the habit of projecting ourselves into a hoped-for better future.\n\n**Gratitude**: Focusing on everything we are and everything we have, rather than what's missing.\n\n**The practice:**\n\n- Stop hoping to *be* someone else\n- Stop hoping to *be somewhere* else\n- Stop hoping to *have something* else\n- Focus on the present moment\n- Be grateful for what exists now\n\nThis doesn't mean abandoning goals or ambition. It means not tying your happiness to their achievement. You can work toward goals while being content with where you are now.\n\nThe insight is counterintuitive: happiness isn't about getting more - it's about wanting less in this very moment.",
-    "tags": [
-        "happiness",
-        "mindfulness",
-        "gratitude",
-        "personal-development",
-        "contentment"
-    ],
-    "category": "Principles",
-    "icon": "FaLightbulb",
-    "featured": false,
-    "aliases": [
-        "Present Moment Happiness",
-        "Contentment",
-        "Wanting Nothing"
-    ],
-    "relatedConcepts": [
-        "gratitude",
-        "mindfulness",
-        "stoicism",
-        "hedonic-treadmill",
-        "essentialism"
-    ],
-    "relatedNotes": [
-        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Happiness+is+when+nothing+is+missing+in+the+moment"
-    ],
-    "articles": [],
-    "references": [
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-26",
-    "dateModified": "2025-12-27"
+  "id": "happiness-in-the-moment",
+  "name": "Happiness in the Moment",
+  "summary": "Happiness occurs when nothing is missing in the present moment - when we stop wanting the situation to change.",
+  "explanation": "We are happy when we are not desiring new things, when we are not wanting the current situation to change, when we don't want additional things in our lives. Happiness is being okay - or even glad - with the current state of things.\n\n**The components of momentary happiness:**\n\n**Acceptance**: Being at peace with what is, rather than fighting reality.\n\n**Absence of desire**: Desire creates tension and generates unhappiness. Wanting something we don't have pulls us out of the present.\n\n**Present focus**: Appreciating the moment exactly as it is, without wishing it were different.\n\n**Releasing projection**: Stopping the habit of projecting ourselves into a hoped-for better future.\n\n**Gratitude**: Focusing on everything we are and everything we have, rather than what's missing.\n\n**The practice:**\n\n- Stop hoping to *be* someone else\n- Stop hoping to *be somewhere* else\n- Stop hoping to *have something* else\n- Focus on the present moment\n- Be grateful for what exists now\n\nThis doesn't mean abandoning goals or ambition. It means not tying your happiness to their achievement. You can work toward goals while being content with where you are now.\n\nThe insight is counterintuitive: happiness isn't about getting more - it's about wanting less in this very moment.",
+  "tags": [
+    "happiness",
+    "mindfulness",
+    "gratitude",
+    "personal-development",
+    "contentment"
+  ],
+  "category": "Principles",
+  "icon": "FaLightbulb",
+  "featured": false,
+  "aliases": [
+    "Present Moment Happiness",
+    "Contentment",
+    "Wanting Nothing"
+  ],
+  "relatedConcepts": [
+    "gratitude-practice",
+    "mindfulness",
+    "stoicism",
+    "hedonic-treadmill",
+    "essentialism"
+  ],
+  "relatedNotes": [
+    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Happiness+is+when+nothing+is+missing+in+the+moment"
+  ],
+  "articles": [],
+  "references": [
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-26",
+  "dateModified": "2025-12-27"
 }

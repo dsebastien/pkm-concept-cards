@@ -3,18 +3,53 @@
     "name": "Source Confusion",
     "summary": "The tendency to misattribute the origin of a memory, confusing where, when, or from whom information was originally learned.",
     "explanation": "Source confusion, also known as source misattribution or source-monitoring error, occurs when a person correctly remembers information but incorrectly attributes its source. This can involve confusing whether something was experienced directly or imagined, whether it was learned from one person versus another, or whether an event occurred in one context versus another. The phenomenon reveals that memory for content and memory for source are distinct processes that can fail independently.\n\nThis bias has significant implications across many domains. In legal contexts, eyewitnesses may confidently but incorrectly identify a suspect they recognize from a different context. In academic and professional settings, people may unconsciously plagiarize by presenting others' ideas as their own, genuinely believing the ideas originated with them. Cryptomnesia, where one believes they have created an original idea that was actually previously encountered, is a form of source confusion. False memories can also develop when imagined events become misattributed to actual experience.\n\nSource confusion becomes more common with the passage of time, as source information fades faster than content information. It is also more likely when the original encoding was shallow or when multiple similar sources have provided information. Strategies to reduce source confusion include paying explicit attention to source information during encoding, taking detailed notes with clear attribution, and being appropriately skeptical of vivid memories when the source cannot be confidently identified.",
-    "tags": ["cognitive-biases", "psychology", "memory", "misinformation", "learning"],
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "memory",
+        "misinformation",
+        "learning"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Source Misattribution", "Source-Monitoring Error", "Cryptomnesia"],
-    "relatedConcepts": ["false-memory", "misinformation-effect", "suggestibility", "hindsight-bias"],
+    "aliases": [
+        "Source Misattribution",
+        "Source-Monitoring Error",
+        "Cryptomnesia"
+    ],
+    "relatedConcepts": [
+        "false-memory",
+        "misinformation-effect",
+        "suggestibility",
+        "hindsight-bias"
+    ],
     "relatedNotes": [],
     "references": [
         {
             "title": "Misattribution of memory - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Misattribution_of_memory",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
         }
     ],
     "datePublished": "2025-12-29",

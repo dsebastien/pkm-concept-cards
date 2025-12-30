@@ -1,55 +1,55 @@
 {
-    "id": "savoring",
-    "name": "Savoring",
-    "summary": "The practice of deliberately attending to and enhancing positive experiences.",
-    "explanation": "Savoring is the capacity to attend to, appreciate, and enhance positive experiences. It's the opposite of taking good things for granted - instead, deliberately focusing attention to extract maximum enjoyment. Fred Bryant identifies savoring strategies: sharing with others, memory building (taking photos, creating mementos), self-congratulation (acknowledging your role in positives), sharpening senses (focusing on specific aspects), absorption (becoming immersed), and behavioral expression (laughing, celebrating). Savoring can occur: before events (anticipation), during events (present moment), and after events (reminiscence). Research shows savoring increases: enjoyment of experiences, positive emotions, and life satisfaction. It counters hedonic adaptation by preventing good experiences from becoming routine. For knowledge workers, savoring helps: maximize value from achievements and experiences, combat taking success for granted, and build positive emotion reserves for challenging times.",
-    "tags": [
-        "happiness",
-        "mindfulness",
-        "appreciation",
-        "experiences",
-        "positive-psychology"
-    ],
-    "category": "Techniques",
-    "icon": "FaGlassCheers",
-    "featured": false,
-    "aliases": [
-        "Appreciation",
-        "Mindful enjoyment",
-        "Positive attention"
-    ],
-    "relatedConcepts": [
-        "gratitude",
-        "mindfulness",
-        "hedonic-adaptation",
-        "positive-emotions"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "books": [
-        {
-            "title": "Savoring by Fred Bryant",
-            "url": "https://amzn.to/3Dp08MT"
-        }
-    ],
-    "references": [
-        {
-            "title": "Savoring - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Savoring",
-            "type": "website"
-        },
-        {
-            "title": "Knowii Community",
-            "url": "https://store.dsebastien.net/l/knowii",
-            "type": "other"
-        },
-        {
-            "title": "DeveloPassion Newsletter",
-            "url": "https://dsebastien.net/newsletter",
-            "type": "other"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "savoring",
+  "name": "Savoring",
+  "summary": "The practice of deliberately attending to and enhancing positive experiences.",
+  "explanation": "Savoring is the capacity to attend to, appreciate, and enhance positive experiences. It's the opposite of taking good things for granted - instead, deliberately focusing attention to extract maximum enjoyment. Fred Bryant identifies savoring strategies: sharing with others, memory building (taking photos, creating mementos), self-congratulation (acknowledging your role in positives), sharpening senses (focusing on specific aspects), absorption (becoming immersed), and behavioral expression (laughing, celebrating). Savoring can occur: before events (anticipation), during events (present moment), and after events (reminiscence). Research shows savoring increases: enjoyment of experiences, positive emotions, and life satisfaction. It counters hedonic adaptation by preventing good experiences from becoming routine. For knowledge workers, savoring helps: maximize value from achievements and experiences, combat taking success for granted, and build positive emotion reserves for challenging times.",
+  "tags": [
+    "happiness",
+    "mindfulness",
+    "appreciation",
+    "experiences",
+    "positive-psychology"
+  ],
+  "category": "Techniques",
+  "icon": "FaGlassCheers",
+  "featured": false,
+  "aliases": [
+    "Appreciation",
+    "Mindful enjoyment",
+    "Positive attention"
+  ],
+  "relatedConcepts": [
+    "gratitude-practice",
+    "mindfulness",
+    "hedonic-adaptation",
+    "positive-emotions"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "books": [
+    {
+      "title": "Savoring by Fred Bryant",
+      "url": "https://amzn.to/3Dp08MT"
+    }
+  ],
+  "references": [
+    {
+      "title": "Savoring - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Savoring",
+      "type": "website"
+    },
+    {
+      "title": "Knowii Community",
+      "url": "https://store.dsebastien.net/l/knowii",
+      "type": "other"
+    },
+    {
+      "title": "DeveloPassion Newsletter",
+      "url": "https://dsebastien.net/newsletter",
+      "type": "other"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

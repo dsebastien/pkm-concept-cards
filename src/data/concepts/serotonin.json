@@ -1,41 +1,41 @@
 {
-    "id": "serotonin",
-    "name": "Serotonin",
-    "summary": "A neurotransmitter that regulates mood, sleep, appetite, and feelings of well-being and contentment.",
-    "explanation": "Serotonin is a key neurotransmitter that plays a crucial role in regulating mood, emotions, sleep, appetite, and digestion. Often called the 'feel-good' chemical, it contributes to feelings of well-being, happiness, and contentment. Unlike dopamine which drives seeking and wanting, serotonin is associated with satisfaction and calm. Low serotonin levels are linked to depression, anxiety, and sleep disorders. Natural ways to boost serotonin include exposure to sunlight, exercise, a healthy diet (especially foods rich in tryptophan), positive social interactions, and practices like gratitude and mindfulness. Understanding serotonin helps explain why lifestyle factors like sleep, exercise, and social connection significantly impact mental health.",
-    "tags": [
-        "neuroscience",
-        "mental-health",
-        "health",
-        "well-being",
-        "psychology"
-    ],
-    "category": "Concepts",
-    "icon": "FaBrain",
-    "featured": false,
-    "aliases": [
-        "5-HT",
-        "5-hydroxytryptamine"
-    ],
-    "relatedConcepts": [
-        "dopamine",
-        "happiness-practices",
-        "gratitude",
-        "mindfulness",
-        "sleep-architecture",
-        "depression",
-        "anxiety"
-    ],
-    "relatedNotes": [],
-    "articles": [],
-    "references": [
-        {
-            "title": "Serotonin - Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Serotonin",
-            "type": "website"
-        }
-    ],
-    "tutorials": [],
-    "datePublished": "2025-12-28",
-    "dateModified": "2025-12-28"
+  "id": "serotonin",
+  "name": "Serotonin",
+  "summary": "A neurotransmitter that regulates mood, sleep, appetite, and feelings of well-being and contentment.",
+  "explanation": "Serotonin is a key neurotransmitter that plays a crucial role in regulating mood, emotions, sleep, appetite, and digestion. Often called the 'feel-good' chemical, it contributes to feelings of well-being, happiness, and contentment. Unlike dopamine which drives seeking and wanting, serotonin is associated with satisfaction and calm. Low serotonin levels are linked to depression, anxiety, and sleep disorders. Natural ways to boost serotonin include exposure to sunlight, exercise, a healthy diet (especially foods rich in tryptophan), positive social interactions, and practices like gratitude and mindfulness. Understanding serotonin helps explain why lifestyle factors like sleep, exercise, and social connection significantly impact mental health.",
+  "tags": [
+    "neuroscience",
+    "mental-health",
+    "health",
+    "well-being",
+    "psychology"
+  ],
+  "category": "Concepts",
+  "icon": "FaBrain",
+  "featured": false,
+  "aliases": [
+    "5-HT",
+    "5-hydroxytryptamine"
+  ],
+  "relatedConcepts": [
+    "dopamine",
+    "happiness-practices",
+    "gratitude-practice",
+    "mindfulness",
+    "sleep-architecture",
+    "depression",
+    "anxiety"
+  ],
+  "relatedNotes": [],
+  "articles": [],
+  "references": [
+    {
+      "title": "Serotonin - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Serotonin",
+      "type": "website"
+    }
+  ],
+  "tutorials": [],
+  "datePublished": "2025-12-28",
+  "dateModified": "2025-12-28"
 }

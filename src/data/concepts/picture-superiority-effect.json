@@ -3,12 +3,24 @@
     "name": "Picture Superiority Effect",
     "summary": "The phenomenon where pictures and images are more likely to be remembered than words alone, giving visual information privileged access to memory.",
     "explanation": "The Picture Superiority Effect (PSE) is a well-documented cognitive phenomenon demonstrating that people remember pictures significantly better than words. When information is presented visually, recall rates can be as much as six times higher compared to text-only presentation. This effect has been consistently replicated across numerous studies since it was first formally described by researchers in the 1970s.\n\nThe theoretical foundation for the Picture Superiority Effect lies primarily in Dual Coding Theory, developed by Allan Paivio. According to this theory, the brain processes and stores visual and verbal information through two distinct but interconnected systems. When we see a picture, it is encoded both visually (as an image) and verbally (we mentally label what we see). This dual encoding creates multiple retrieval pathways, making the information more accessible during recall. Words, by contrast, are typically encoded only verbally unless the reader makes a deliberate effort to visualize them.\n\nSeveral factors contribute to why pictures enjoy this memory advantage. Visual processing is evolutionarily older and more fundamental to human cognition than language processing. Pictures convey meaning more directly and are processed more quickly than text. Additionally, pictures tend to be more distinctive and unique, while words can be more generic and interchangeable, making visual memories more easily distinguishable from one another.\n\nThe Picture Superiority Effect has profound implications across many domains. In education, incorporating diagrams, infographics, and visual aids alongside text significantly improves learning outcomes and retention. Research shows that students who learn with both visual and verbal materials outperform those who learn with text alone. In marketing and advertising, this effect explains why visual content generates higher engagement and brand recall than text-heavy campaigns. Social media posts with images receive dramatically more attention than text-only posts.\n\nFor presentations and public speaking, the Picture Superiority Effect suggests that slides should emphasize meaningful images over bullet points. The brain can process visual information in as little as 13 milliseconds, while reading and comprehending text requires significantly more cognitive effort. Presenters who use relevant, high-quality images to support their key points create more memorable and impactful presentations.\n\nPractical applications of this effect include: using diagrams and flowcharts to explain complex processes, incorporating relevant images into study materials, designing infographics for data communication, replacing text-heavy slides with visual representations, using icons and symbols in user interfaces, and creating visual mnemonics for memorization tasks.\n\nHowever, it is important to note that the effect works best when pictures are meaningful and relevant to the content being learned. Random or decorative images that do not connect to the core message can actually impair learning by creating cognitive load without adding value. The key is to use visuals that directly illustrate, reinforce, or extend the verbal information being communicated.",
-    "tags": ["cognitive-biases", "memory", "learning", "psychology", "communication"],
+    "tags": [
+        "cognitive-biases",
+        "memory",
+        "learning",
+        "psychology",
+        "communication"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["PSE", "Visual Memory Advantage"],
-    "relatedConcepts": ["dual-coding-theory", "visual-thinking"],
+    "aliases": [
+        "PSE",
+        "Visual Memory Advantage"
+    ],
+    "relatedConcepts": [
+        "dual-coding-theory",
+        "visual-thinking"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [
@@ -31,6 +43,26 @@
             "title": "Dual-coding theory - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Dual-coding_theory",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
         }
     ],
     "tutorials": [],

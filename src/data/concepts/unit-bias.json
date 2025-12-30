@@ -3,12 +3,24 @@
     "name": "Unit Bias",
     "summary": "The tendency to want to complete a standardized unit of something regardless of actual quantity, often leading to overconsumption when units are larger.",
     "explanation": "Unit Bias is a cognitive bias that describes our psychological tendency to perceive a single unit of something as the appropriate amount to consume or complete, regardless of the actual size or quantity of that unit. This bias leads people to eat more when given larger portions, work until arbitrary milestones are reached, or consume entire packages simply because they represent 'one serving.'\n\nBrian Wansink, a food psychologist at Cornell University, conducted groundbreaking research on this phenomenon, particularly in the context of eating behavior. His studies demonstrated that people served larger portions consistently eat more without realizing it or feeling more satisfied. In one famous experiment, participants given a large bucket of stale popcorn at a movie theater ate 34% more than those given a smaller bucket of the same stale popcorn. The size of the container, not hunger or taste, determined consumption.\n\nWansink's research revealed that we use external cues like package sizes, plate dimensions, and serving containers as benchmarks for how much we should eat, rather than relying on internal satiety signals. This explains why portion sizes in restaurants and packaged foods have become such a significant factor in the obesity epidemic.\n\nThe psychological mechanisms behind unit bias include our desire for completion and closure, the satisfying feeling of 'finishing' something, and our tendency to use heuristics (mental shortcuts) rather than careful deliberation. When we start something defined as a unit, whether it's a bag of chips, a chapter of a book, or a task on our to-do list, we feel compelled to complete it.\n\nPractical applications of understanding unit bias extend to both health and productivity:\n\n**For Health and Eating:**\n- Use smaller plates, bowls, and serving containers to naturally reduce portion sizes\n- Pre-portion snacks into smaller bags rather than eating from large packages\n- Choose single-serving packages when available, even if less economical\n- Be aware that restaurant portions are often 2-3 times larger than recommended serving sizes\n\n**For Productivity:**\n- Break large tasks into smaller, well-defined units to create more completion points\n- Use the bias to your advantage by defining meaningful work units that, when completed, represent real progress\n- Be cautious of artificial units (like working until 5 PM) that may not align with actual task requirements\n- Create stopping points that match natural breaks in the work rather than arbitrary time periods\n\nUnderstanding unit bias helps us recognize that our perception of 'enough' is heavily influenced by external packaging and presentation rather than actual needs. By consciously designing our environment with smaller, more appropriate units, we can harness this bias to support better decisions in eating, working, and consuming.",
-    "tags": ["cognitive-biases", "behavioral-economics", "psychology", "decision-making", "habits"],
+    "tags": [
+        "cognitive-biases",
+        "behavioral-economics",
+        "psychology",
+        "decision-making",
+        "habits"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Completion Bias", "Portion Size Effect"],
-    "relatedConcepts": ["anchoring", "default-effect"],
+    "aliases": [
+        "Completion Bias",
+        "Portion Size Effect"
+    ],
+    "relatedConcepts": [
+        "anchoring",
+        "default-effect"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [
@@ -22,6 +34,26 @@
             "title": "Unit bias - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Unit_bias",
             "type": "website"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Journaling Deep Dive Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+            "type": "other"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
+        },
+        {
+            "title": "Personal Organization 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

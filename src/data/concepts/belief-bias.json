@@ -3,12 +3,20 @@
     "name": "Belief Bias",
     "summary": "The tendency to judge the validity of an argument based on whether the conclusion is believable rather than on whether it logically follows from the premises.",
     "explanation": "Belief Bias is a cognitive bias that occurs when people evaluate the logical validity of an argument based on how believable or plausible the conclusion seems, rather than on the actual logical structure of the argument. This means that people are more likely to accept invalid arguments if the conclusion aligns with their existing beliefs, and reject valid arguments if the conclusion contradicts what they believe to be true.\n\nA classic demonstration of belief bias uses syllogisms. Consider this valid syllogism: 'All flowers need water. Roses are flowers. Therefore, roses need water.' Most people correctly identify this as valid because both the logic and conclusion are sound. However, consider this invalid syllogism: 'All living things need water. Roses need water. Therefore, roses are living things.' Many people incorrectly accept this as valid because the conclusion happens to be true, even though the logical structure is flawed (the premises do not guarantee the conclusion).\n\nConversely, people often reject valid arguments with unbelievable conclusions. For example: 'All mammals can fly. Elephants are mammals. Therefore, elephants can fly.' This syllogism is logically valid (the conclusion follows from the premises), but people reject it because the conclusion contradicts their knowledge that elephants cannot fly.\n\nWe fall for belief bias for several reasons. First, evaluating logical structure requires cognitive effort, while assessing believability is relatively automatic. Our brains take mental shortcuts, and accepting conclusions that match our worldview feels intuitive. Second, we have strong motivation to maintain consistency in our belief systems. Third, we often conflate truth with validity - a valid argument can have a false conclusion if its premises are false, but this distinction is counterintuitive.\n\nTo improve logical reasoning and overcome belief bias, several strategies help. First, practice separating the evaluation of logical form from content by using abstract symbols (A, B, C) instead of real-world terms. Second, explicitly check the logical structure: ask whether the conclusion necessarily follows from the premises, regardless of whether you believe the conclusion. Third, consider counterexamples: if you can imagine a scenario where the premises are true but the conclusion is false, the argument is invalid. Fourth, slow down your thinking and resist the urge to make quick judgments. Fifth, cultivate intellectual humility and be willing to accept that valid arguments can lead to conclusions you find uncomfortable or surprising.\n\nBelief bias has significant implications for education, science, law, and public discourse. It explains why people readily accept weak arguments supporting their views while dismissing strong arguments against them. Recognizing this bias is the first step toward more rigorous and objective reasoning.",
-    "tags": ["cognitive-biases", "critical-thinking", "decision-making", "thinking"],
+    "tags": [
+        "cognitive-biases",
+        "critical-thinking",
+        "decision-making",
+        "thinking"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
     "aliases": [],
-    "relatedConcepts": ["confirmation-bias", "critical-thinking"],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "critical-thinking"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [],
@@ -17,6 +25,11 @@
             "title": "Belief bias - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Belief_bias",
             "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

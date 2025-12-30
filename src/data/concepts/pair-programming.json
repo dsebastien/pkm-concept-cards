@@ -3,19 +3,51 @@
     "name": "Pair Programming",
     "summary": "An agile software development technique where two programmers work together at one workstation, sharing a single screen and keyboard.",
     "explanation": "Pair Programming is an agile software development technique where two programmers work together at one workstation. Traditional roles include: (1) Driver - writes code, focuses on tactics and syntax, (2) Navigator - reviews each line, thinks strategically about direction and potential issues. Pairs switch roles frequently. Benefits include: real-time code review, knowledge sharing, reduced bugs, better design through discussion, and improved team cohesion. Styles include: Driver-Navigator (traditional), Ping-Pong (alternating with TDD), and Strong-Style (navigator dictates, driver types). Research shows pairs often produce higher-quality code in similar time despite using two developers. Challenges include: pairing fatigue, personality clashes, and remote coordination. Modern variations include mob programming (whole team) and AI pair programming with tools like GitHub Copilot.",
-    "tags": ["agile", "collaboration", "software-engineering", "teams", "programming"],
+    "tags": [
+        "agile",
+        "collaboration",
+        "software-engineering",
+        "teams",
+        "programming"
+    ],
     "category": "Software Development",
     "icon": "FaUserFriends",
     "featured": false,
-    "aliases": ["Pairing", "Paired Programming"],
-    "relatedConcepts": ["code-review", "test-driven-development", "vibe-coding", "agile-manifesto", "knowledge-sharing"],
+    "aliases": [
+        "Pairing",
+        "Paired Programming"
+    ],
+    "relatedConcepts": [
+        "code-review",
+        "test-driven-development",
+        "vibe-coding",
+        "agile-manifesto",
+        "knowledge-sharing"
+    ],
     "relatedNotes": [],
     "articles": [],
     "books": [
-        {"title": "Extreme Programming Explained by Kent Beck", "url": "https://www.amazon.com/dp/0321278658?tag=dsebastien00-20"}
+        {
+            "title": "Extreme Programming Explained by Kent Beck",
+            "url": "https://www.amazon.com/dp/0321278658?tag=dsebastien00-20"
+        }
     ],
     "references": [
-        {"title": "Pair programming - Wikipedia", "url": "https://en.wikipedia.org/wiki/Pair_programming", "type": "website"}
+        {
+            "title": "Pair programming - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pair_programming",
+            "type": "website"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Dev Concepts",
+            "url": "https://dev-concepts.dev",
+            "type": "other"
+        }
     ],
     "tutorials": [],
     "datePublished": "2025-12-28",

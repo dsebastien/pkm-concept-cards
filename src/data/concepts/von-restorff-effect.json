@@ -3,18 +3,53 @@
     "name": "Von Restorff Effect",
     "summary": "A memory bias where distinctive or unusual items in a group are better remembered than common items, due to their isolation from surrounding elements.",
     "explanation": "The Von Restorff Effect, also known as the Isolation Effect, is a cognitive phenomenon discovered by German psychiatrist Hedwig von Restorff in 1933. Through her experiments, she demonstrated that when a list contains one item that differs significantly from the others in some way (color, size, shape, or meaning), that distinctive item is more likely to be remembered than the homogeneous items surrounding it.\n\nThe effect operates through several cognitive mechanisms. Distinctive items capture more attention during encoding, leading to deeper processing. They create stronger memory traces because they lack interference from similar items. The brain's novelty detection systems are activated by unexpected or unusual stimuli, triggering enhanced encoding. Additionally, distinctive items benefit from being encoded with both item-specific information and relational information about how they differ from surrounding items.\n\nIn practical applications, this effect has profound implications across many domains. In marketing and advertising, brands use contrasting colors, unexpected imagery, or unusual messaging to make their products stand out and be remembered. Call-to-action buttons are often designed in contrasting colors to draw attention. In education, teachers can highlight key concepts by presenting them differently, using visual aids, or breaking from routine presentation methods. Students can leverage this effect by highlighting important information or creating distinctive associations for facts they need to remember.\n\nIn user interface and product design, the Von Restorff Effect informs decisions about visual hierarchy. Important elements like primary buttons, error messages, or critical notifications are made visually distinct to ensure they capture user attention and are remembered. Warning labels and safety information often use distinctive colors and shapes to stand out.\n\nTo leverage this effect effectively, use distinctiveness strategically and sparingly. If everything is emphasized, nothing stands out. Create contrast through size, color, position, format, or unexpected content. In learning, make the most important information the most distinctive. Be aware that this effect can also introduce bias, as emotionally charged or sensationally presented information may be better remembered than more important but mundane details. Understanding this effect helps both in making information memorable and in recognizing when our memories might be skewed toward the distinctive rather than the significant.",
-    "tags": ["cognitive-biases", "psychology", "memory", "learning", "attention", "perception"],
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "memory",
+        "learning",
+        "attention",
+        "perception"
+    ],
     "category": "Principles",
     "icon": "FaBrain",
     "featured": false,
-    "aliases": ["Isolation Effect", "Distinctiveness Effect"],
-    "relatedConcepts": ["serial-position-effect", "salience-bias", "primacy-effect", "recency-effect"],
+    "aliases": [
+        "Isolation Effect",
+        "Distinctiveness Effect"
+    ],
+    "relatedConcepts": [
+        "serial-position-effect",
+        "salience-bias",
+        "primacy-effect",
+        "recency-effect"
+    ],
     "relatedNotes": [],
     "references": [
         {
             "title": "Von Restorff effect - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Von_Restorff_effect",
             "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
         }
     ],
     "datePublished": "2025-12-30",
