@@ -437,7 +437,7 @@ const HomePage: React.FC = () => {
             </Section>
 
             {/* Filters */}
-            <Section className='py-4'>
+            <Section className='!py-4 sm:!pb-0 md:!py-4 lg:!py-4 xl:!py-4'>
                 <ConceptsFilter
                     searchQuery={searchQuery}
                     onSearchChange={setSearchQuery}
@@ -458,9 +458,9 @@ const HomePage: React.FC = () => {
             </Section>
 
             {/* Concepts Section */}
-            <Section className='py-6 sm:py-8'>
+            <Section className='!py-6 md:!pt-0 md:!pb-8 lg:!pt-0 lg:!pb-8 xl:!pt-0 xl:!pb-8'>
                 {/* Results count */}
-                <div className='text-primary/60 mb-6 text-sm'>
+                <div className='text-primary/60 mb-6 text-sm md:mb-3'>
                     Showing {sortedConcepts.length} of {totalConcepts} entries
                     {searchQuery && ` matching "${searchQuery}"`}
                 </div>
