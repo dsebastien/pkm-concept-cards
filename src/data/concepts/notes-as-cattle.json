@@ -1,77 +1,82 @@
 {
-  "id": "notes-as-cattle",
-  "name": "Notes as Cattle, Not Pets",
-  "summary": "Treat notes as part of a dynamic, evolving system rather than precious individual artifacts.",
-  "explanation": "The 'Notes as Cattle, Not Pets' principle encourages a fluid approach to knowledge management. Rather than treating each note as a precious, individual artifact that must be perfectly crafted and preserved forever, this approach views notes as part of a larger, dynamic system.\n\nThis system is characterized by:\n- **Growth**: Ideas naturally develop and expand over time\n- **Cross-pollination**: Notes connect and influence each other\n- **Natural lifecycle**: Some concepts mature into valuable insights while others naturally fall away as understanding deepens or new theories emerge\n\nThis mirrors how our brains actually work. Mental models are created based on current understanding, then refined or replaced through experience and observation. Old ideas get replaced by new ones constantly, mostly unconsciously during sleep.\n\nAdopting this cattle-like approach means being willing to merge, split, refactor, and even delete notes without emotional attachment. It promotes continuous improvement over perfectionism and encourages treating the knowledge base as a living, breathing system rather than a static archive.",
-  "tags": [
-    "pkm",
-    "note-taking",
-    "mindsets",
-    "principles",
-    "evergreen-notes"
-  ],
-  "category": "Principles",
-  "icon": "FaCubes",
-  "featured": false,
-  "aliases": [
-    "Treat ideas like cattle not pets",
-    "Consider notes as cattle rather than pets",
-    "Cattle approach to notes"
-  ],
-  "relatedConcepts": [
-    "atomic-notes",
-    "refactoring-notes",
-    "embrace-imperfection",
-    "evergreen-notes",
-    "kaizen"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Consider+notes+as+cattle+rather+than+pets"
-  ],
-  "articles": [],
-  "references": [
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-      "type": "other"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Library",
-      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-28"
+    "id": "notes-as-cattle",
+    "name": "Notes as Cattle, Not Pets",
+    "summary": "Treat notes as part of a dynamic, evolving system rather than precious individual artifacts.",
+    "explanation": "The 'Notes as Cattle, Not Pets' principle encourages a fluid approach to knowledge management. Rather than treating each note as a precious, individual artifact that must be perfectly crafted and preserved forever, this approach views notes as part of a larger, dynamic system.\n\nThis system is characterized by:\n- **Growth**: Ideas naturally develop and expand over time\n- **Cross-pollination**: Notes connect and influence each other\n- **Natural lifecycle**: Some concepts mature into valuable insights while others naturally fall away as understanding deepens or new theories emerge\n\nThis mirrors how our brains actually work. Mental models are created based on current understanding, then refined or replaced through experience and observation. Old ideas get replaced by new ones constantly, mostly unconsciously during sleep.\n\nAdopting this cattle-like approach means being willing to merge, split, refactor, and even delete notes without emotional attachment. It promotes continuous improvement over perfectionism and encourages treating the knowledge base as a living, breathing system rather than a static archive.",
+    "tags": [
+        "pkm",
+        "note-taking",
+        "mindsets",
+        "principles",
+        "evergreen-notes"
+    ],
+    "category": "Principles",
+    "icon": "FaCubes",
+    "featured": false,
+    "aliases": [
+        "Treat ideas like cattle not pets",
+        "Consider notes as cattle rather than pets",
+        "Cattle approach to notes"
+    ],
+    "relatedConcepts": [
+        "atomic-notes",
+        "refactoring-notes",
+        "embrace-imperfection",
+        "evergreen-notes",
+        "kaizen"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Consider+notes+as+cattle+rather+than+pets"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://voice-ai.knowii.net",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

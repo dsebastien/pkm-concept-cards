@@ -1,79 +1,84 @@
 {
-  "id": "vendor-lock-in",
-  "name": "Vendor Lock-in",
-  "summary": "The situation where switching to a different tool or service becomes prohibitively difficult due to proprietary dependencies.",
-  "explanation": "Vendor lock-in occurs when a customer becomes dependent on a vendor's products or services, making it difficult or expensive to switch to an alternative. In knowledge management, this is a critical consideration because your notes may represent decades of accumulated thinking.\n\n**Forms of lock-in in PKM:**\n\n1. **Data formats** - Proprietary file formats that can't be easily exported or converted\n2. **Tools and platforms** - Features that only work within one ecosystem\n3. **Data handling** - APIs or storage methods that restrict data access\n4. **Extensions and plugins** - Customizations that don't transfer to other tools\n\n**How to avoid vendor lock-in:**\n\n- **Use open file formats** - Prefer Markdown, plain text, and open standards over proprietary formats\n- **Favor local-first software** - Tools that store data on your device give you full control\n- **Regular exports** - Periodically export your data to ensure it's portable\n- **Evaluate exit scenarios** - Before adopting a tool, understand how you would migrate away from it\n- **Prefer interoperable tools** - Choose software that plays well with others through standard APIs and formats\n\nThe principle of 'File over app' captures this well: your files should outlive any single application. Tools like Obsidian, which use plain Markdown files, exemplify this approach - even if the tool disappears, your notes remain accessible.",
-  "tags": [
-    "data-portability",
-    "knowledge-management",
-    "tools",
-    "risk-management",
-    "principles"
-  ],
-  "category": "Principles",
-  "icon": "FaLock",
-  "featured": false,
-  "aliases": [
-    "Lock-in",
-    "Platform Lock-in",
-    "Tool Lock-in"
-  ],
-  "relatedConcepts": [
-    "data-portability",
-    "file-over-app",
-    "local-first",
-    "markdown"
-  ],
-  "relatedNotes": [],
-  "articles": [],
-  "references": [
-    {
-      "title": "Vendor lock-in - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Vendor_lock-in",
-      "type": "websites"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Library",
-      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-27",
-  "dateModified": "2025-12-28"
+    "id": "vendor-lock-in",
+    "name": "Vendor Lock-in",
+    "summary": "The situation where switching to a different tool or service becomes prohibitively difficult due to proprietary dependencies.",
+    "explanation": "Vendor lock-in occurs when a customer becomes dependent on a vendor's products or services, making it difficult or expensive to switch to an alternative. In knowledge management, this is a critical consideration because your notes may represent decades of accumulated thinking.\n\n**Forms of lock-in in PKM:**\n\n1. **Data formats** - Proprietary file formats that can't be easily exported or converted\n2. **Tools and platforms** - Features that only work within one ecosystem\n3. **Data handling** - APIs or storage methods that restrict data access\n4. **Extensions and plugins** - Customizations that don't transfer to other tools\n\n**How to avoid vendor lock-in:**\n\n- **Use open file formats** - Prefer Markdown, plain text, and open standards over proprietary formats\n- **Favor local-first software** - Tools that store data on your device give you full control\n- **Regular exports** - Periodically export your data to ensure it's portable\n- **Evaluate exit scenarios** - Before adopting a tool, understand how you would migrate away from it\n- **Prefer interoperable tools** - Choose software that plays well with others through standard APIs and formats\n\nThe principle of 'File over app' captures this well: your files should outlive any single application. Tools like Obsidian, which use plain Markdown files, exemplify this approach - even if the tool disappears, your notes remain accessible.",
+    "tags": [
+        "data-portability",
+        "knowledge-management",
+        "tools",
+        "risk-management",
+        "principles"
+    ],
+    "category": "Principles",
+    "icon": "FaLock",
+    "featured": false,
+    "aliases": [
+        "Lock-in",
+        "Platform Lock-in",
+        "Tool Lock-in"
+    ],
+    "relatedConcepts": [
+        "data-portability",
+        "file-over-app",
+        "local-first",
+        "markdown"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Vendor lock-in - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Vendor_lock-in",
+            "type": "websites"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://voice-ai.knowii.net",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-27",
+    "dateModified": "2025-12-28"
 }

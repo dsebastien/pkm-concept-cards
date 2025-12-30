@@ -1,86 +1,86 @@
 {
-  "id": "five-minute-journal",
-  "name": "5 Minute Journal",
-  "summary": "A quick daily reflection format for building journaling habits.",
-  "explanation": "The 5 Minute Journal is a structured, quick daily reflection format designed to build journaling habits with minimal time investment. It typically includes morning prompts (gratitude, daily goals, affirmations) and evening prompts (highlights, lessons learned). The simplicity and brevity make it accessible for beginners and sustainable long-term. It's an effective entry point into journaling practices.",
-  "tags": [
-    "habits",
-    "journaling",
-    "knowledge-management",
-    "productivity",
-    "techniques"
-  ],
-  "category": "Journaling",
-  "icon": "FaClock",
-  "featured": false,
-  "aliases": [
-    "Five Minute Journal"
-  ],
-  "relatedConcepts": [
-    "one-one-one-gratitude-method",
-    "daily-notes",
-    "journaling",
-    "journaling-prompts",
-    "morning-pages",
-    "periodic-reviews"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/5+Minute+Journal"
-  ],
-  "articles": [],
-  "references": [
-    {
-      "title": "Gratitude journal - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gratitude_journal",
-      "type": "website"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Worker Kit",
-      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Library",
-      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-27"
+    "id": "five-minute-journal",
+    "name": "5 Minute Journal",
+    "summary": "A quick daily reflection format for building journaling habits.",
+    "explanation": "The 5 Minute Journal is a structured, quick daily reflection format designed to build journaling habits with minimal time investment. It typically includes morning prompts (gratitude, daily goals, affirmations) and evening prompts (highlights, lessons learned). The simplicity and brevity make it accessible for beginners and sustainable long-term. It's an effective entry point into journaling practices.",
+    "tags": [
+        "habits",
+        "journaling",
+        "knowledge-management",
+        "productivity",
+        "techniques"
+    ],
+    "category": "Journaling",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Five Minute Journal"
+    ],
+    "relatedConcepts": [
+        "one-one-one-gratitude-method",
+        "daily-notes",
+        "journaling",
+        "journaling-prompts",
+        "morning-pages",
+        "periodic-reviews"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/5+Minute+Journal"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Gratitude journal - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gratitude_journal",
+            "type": "website"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-27"
 }

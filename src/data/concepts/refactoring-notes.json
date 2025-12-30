@@ -1,72 +1,72 @@
 {
-  "id": "refactoring-notes",
-  "name": "Refactoring Notes",
-  "summary": "Restructuring and improving notes without changing their essential meaning.",
-  "explanation": "Refactoring Notes, borrowed from software development, is the practice of restructuring and improving notes without changing their essential meaning or content. This includes: splitting large notes into atomic ones, merging redundant notes, improving clarity, adding links, updating outdated information, and reorganizing structure. Like code refactoring, note refactoring improves maintainability and usefulness. The Boy Scout Rule encourages small refactorings during regular use.",
-  "tags": [
-    "improvement",
-    "knowledge-management",
-    "maintenance",
-    "techniques"
-  ],
-  "category": "Techniques",
-  "icon": "FaWrench",
-  "featured": false,
-  "aliases": [
-    "Note improvement",
-    "Note restructuring"
-  ],
-  "relatedConcepts": [
-    "atomic-notes",
-    "boy-scout-rule",
-    "kaizen",
-    "evergreen-notes"
-  ],
-  "relatedNotes": [],
-  "articles": [],
-  "references": [
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-      "type": "other"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Library",
-      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-27"
+    "id": "refactoring-notes",
+    "name": "Refactoring Notes",
+    "summary": "Restructuring and improving notes without changing their essential meaning.",
+    "explanation": "Refactoring Notes, borrowed from software development, is the practice of restructuring and improving notes without changing their essential meaning or content. This includes: splitting large notes into atomic ones, merging redundant notes, improving clarity, adding links, updating outdated information, and reorganizing structure. Like code refactoring, note refactoring improves maintainability and usefulness. The Boy Scout Rule encourages small refactorings during regular use.",
+    "tags": [
+        "improvement",
+        "knowledge-management",
+        "maintenance",
+        "techniques"
+    ],
+    "category": "Techniques",
+    "icon": "FaWrench",
+    "featured": false,
+    "aliases": [
+        "Note improvement",
+        "Note restructuring"
+    ],
+    "relatedConcepts": [
+        "atomic-notes",
+        "boy-scout-rule",
+        "kaizen",
+        "evergreen-notes"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-27"
 }

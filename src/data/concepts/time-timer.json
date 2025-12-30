@@ -1,70 +1,75 @@
 {
-  "id": "time-timer",
-  "name": "Time Timer",
-  "summary": "A visual timer that displays remaining time as a shrinking colored disk.",
-  "explanation": "A Time Timer is a visual timer that shows the passage of time as a shrinking colored disk, making abstract time concrete and visible. Unlike digital timers that just show numbers, the visual representation helps those with time blindness understand how much time remains at a glance. It's particularly useful for time-boxed work sessions, transitions between tasks, and maintaining focus. The visual cue creates gentle urgency without the stress of watching numbers count down, supporting techniques like Pomodoro and time-blocking.",
-  "tags": [
-    "productivity",
-    "tools",
-    "time-management"
-  ],
-  "category": "Tools",
-  "icon": "FaClock",
-  "featured": false,
-  "aliases": [
-    "Visual timer",
-    "Countdown timer"
-  ],
-  "relatedConcepts": [
-    "adhd",
-    "focus",
-    "pomodoro-technique",
-    "sustained-attention",
-    "time-blocking",
-    "time-blindness"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+Timer"
-  ],
-  "articles": [],
-  "references": [
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Worker Kit",
-      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Library",
-      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-28"
+    "id": "time-timer",
+    "name": "Time Timer",
+    "summary": "A visual timer that displays remaining time as a shrinking colored disk.",
+    "explanation": "A Time Timer is a visual timer that shows the passage of time as a shrinking colored disk, making abstract time concrete and visible. Unlike digital timers that just show numbers, the visual representation helps those with time blindness understand how much time remains at a glance. It's particularly useful for time-boxed work sessions, transitions between tasks, and maintaining focus. The visual cue creates gentle urgency without the stress of watching numbers count down, supporting techniques like Pomodoro and time-blocking.",
+    "tags": [
+        "productivity",
+        "tools",
+        "time-management"
+    ],
+    "category": "Tools",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Visual timer",
+        "Countdown timer"
+    ],
+    "relatedConcepts": [
+        "adhd",
+        "focus",
+        "pomodoro-technique",
+        "sustained-attention",
+        "time-blocking",
+        "time-blindness"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+Timer"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://voice-ai.knowii.net",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

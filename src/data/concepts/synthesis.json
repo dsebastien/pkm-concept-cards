@@ -63,11 +63,6 @@
             "type": "other"
         },
         {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-            "type": "other"
-        },
-        {
             "title": "Personal Knowledge Management Library",
             "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
             "type": "other"
@@ -75,6 +70,11 @@
         {
             "title": "Personal Knowledge Management Coaching",
             "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
             "type": "other"
         }
     ],

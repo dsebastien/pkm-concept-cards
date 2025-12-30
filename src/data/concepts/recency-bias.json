@@ -1,76 +1,81 @@
 {
-  "id": "recency-bias",
-  "name": "Recency Bias",
-  "summary": "The tendency to overweight recent information in decision-making.",
-  "explanation": "Recency Bias is the tendency to give disproportionate weight to recent events or information when making decisions or predictions. What happened recently feels more relevant and influential than older data, even when it shouldn't be. This can lead to overreacting to recent trends and undervaluing historical patterns. Fighting against recency bias is important for making balanced decisions. PKM systems help by preserving and surfacing older but relevant information.",
-  "tags": [
-    "cognition",
-    "cognitive-biases",
-    "decision-making",
-    "learning",
-    "memory",
-    "psychology"
-  ],
-  "category": "Cognitive Biases",
-  "icon": "FaClock",
-  "featured": false,
-  "aliases": [
-    "Availability heuristic",
-    "End Effect",
-    "Recency Bias"
-  ],
-  "relatedConcepts": [
-    "confirmation-bias",
-    "fighting-recency-bias",
-    "lindy-effect",
-    "primacy-effect",
-    "recency-bias",
-    "serial-position-effect",
-    "test-of-time"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Recency+bias"
-  ],
-  "articles": [],
-  "references": [
-    {
-      "title": "Recency bias - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Recency_bias",
-      "type": "website"
-    },
-    {
-      "title": "Clarity 101 Workshop",
-      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-      "type": "other"
-    },
-    {
-      "title": "Serial-position effect - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Serial-position_effect#Recency_effect",
-      "type": "website"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-30",
-  "books": []
+    "id": "recency-bias",
+    "name": "Recency Bias",
+    "summary": "The tendency to overweight recent information in decision-making.",
+    "explanation": "Recency Bias is the tendency to give disproportionate weight to recent events or information when making decisions or predictions. What happened recently feels more relevant and influential than older data, even when it shouldn't be. This can lead to overreacting to recent trends and undervaluing historical patterns. Fighting against recency bias is important for making balanced decisions. PKM systems help by preserving and surfacing older but relevant information.",
+    "tags": [
+        "cognition",
+        "cognitive-biases",
+        "decision-making",
+        "learning",
+        "memory",
+        "psychology"
+    ],
+    "category": "Cognitive Biases",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Availability heuristic",
+        "End Effect",
+        "Recency Bias"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "fighting-recency-bias",
+        "lindy-effect",
+        "primacy-effect",
+        "recency-bias",
+        "serial-position-effect",
+        "test-of-time"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Recency+bias"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Recency bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Recency_bias",
+            "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
+        },
+        {
+            "title": "Serial-position effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Serial-position_effect#Recency_effect",
+            "type": "website"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-30",
+    "books": []
 }

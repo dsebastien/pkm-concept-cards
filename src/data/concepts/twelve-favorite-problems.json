@@ -1,59 +1,64 @@
 {
-  "id": "twelve-favorite-problems",
-  "name": "12 Favorite Problems",
-  "summary": "Maintaining a list of important questions that guide your learning and work.",
-  "explanation": "The 12 Favorite Problems concept, attributed to Richard Feynman, involves maintaining a list of important questions or problems that fascinate you. As you encounter new information, you test it against these problems - does it help solve any of them? This practice turns passive learning into active problem-solving. Your favorite problems guide reading choices, spark creative connections, and give direction to your knowledge accumulation. They're questions you return to repeatedly throughout your life.",
-  "tags": [
-    "creativity",
-    "curiosity",
-    "frameworks",
-    "learning",
-    "techniques"
-  ],
-  "category": "Techniques",
-  "icon": "FaQuestion",
-  "featured": true,
-  "aliases": [
-    "Favorite problems",
-    "Favorite questions",
-    "Guiding questions"
-  ],
-  "relatedConcepts": [
-    "big-hairy-audacious-goals",
-    "capture-system",
-    "connected-notes",
-    "first-principles",
-    "learning-curve",
-    "serendipity"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/12+favorite+questions+or+problems"
-  ],
-  "articles": [],
-  "references": [
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-30",
-  "books": []
+    "id": "twelve-favorite-problems",
+    "name": "12 Favorite Problems",
+    "summary": "Maintaining a list of important questions that guide your learning and work.",
+    "explanation": "The 12 Favorite Problems concept, attributed to Richard Feynman, involves maintaining a list of important questions or problems that fascinate you. As you encounter new information, you test it against these problems - does it help solve any of them? This practice turns passive learning into active problem-solving. Your favorite problems guide reading choices, spark creative connections, and give direction to your knowledge accumulation. They're questions you return to repeatedly throughout your life.",
+    "tags": [
+        "creativity",
+        "curiosity",
+        "frameworks",
+        "learning",
+        "techniques"
+    ],
+    "category": "Techniques",
+    "icon": "FaQuestion",
+    "featured": true,
+    "aliases": [
+        "Favorite problems",
+        "Favorite questions",
+        "Guiding questions"
+    ],
+    "relatedConcepts": [
+        "big-hairy-audacious-goals",
+        "capture-system",
+        "connected-notes",
+        "first-principles",
+        "learning-curve",
+        "serendipity"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/12+favorite+questions+or+problems"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-30",
+    "books": []
 }

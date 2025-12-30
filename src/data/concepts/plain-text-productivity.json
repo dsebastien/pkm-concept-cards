@@ -1,82 +1,87 @@
 {
-  "id": "plain-text-productivity",
-  "name": "Plain Text Productivity",
-  "summary": "Using plain text files for productivity and knowledge management for simplicity and longevity.",
-  "explanation": "Plain text productivity is an approach that uses simple text files (often in Markdown format) for notes, tasks, and knowledge management rather than proprietary formats or complex applications. Advocates argue that plain text is future-proof (readable for decades), universally compatible, fast to work with, and frees users from dependency on specific tools. Plain text files are small, searchable, version-controllable with Git, and can be manipulated with any text editor. The approach trades rich formatting and specialized features for simplicity, longevity, and flexibility. It aligns with minimalist philosophy and concerns about software lock-in. Tools like Obsidian, Zettlr, and Vim with plugins make plain text workflows powerful while preserving the underlying simplicity.",
-  "tags": [
-    "productivity",
-    "tools",
-    "minimalism",
-    "formats",
-    "knowledge-management"
-  ],
-  "category": "Principles",
-  "icon": "FaStickyNote",
-  "featured": false,
-  "aliases": [
-    "Plain text notes",
-    "Text-based productivity"
-  ],
-  "relatedConcepts": [
-    "markdown",
-    "local-first",
-    "data-portability"
-  ],
-  "relatedNotes": [],
-  "articles": [],
-  "references": [
-    {
-      "title": "The Plain Text Project",
-      "url": "https://plaintextproject.online/",
-      "type": "websites"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Worker Kit",
-      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Library",
-      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-27",
-  "dateModified": "2025-12-28"
+    "id": "plain-text-productivity",
+    "name": "Plain Text Productivity",
+    "summary": "Using plain text files for productivity and knowledge management for simplicity and longevity.",
+    "explanation": "Plain text productivity is an approach that uses simple text files (often in Markdown format) for notes, tasks, and knowledge management rather than proprietary formats or complex applications. Advocates argue that plain text is future-proof (readable for decades), universally compatible, fast to work with, and frees users from dependency on specific tools. Plain text files are small, searchable, version-controllable with Git, and can be manipulated with any text editor. The approach trades rich formatting and specialized features for simplicity, longevity, and flexibility. It aligns with minimalist philosophy and concerns about software lock-in. Tools like Obsidian, Zettlr, and Vim with plugins make plain text workflows powerful while preserving the underlying simplicity.",
+    "tags": [
+        "productivity",
+        "tools",
+        "minimalism",
+        "formats",
+        "knowledge-management"
+    ],
+    "category": "Principles",
+    "icon": "FaStickyNote",
+    "featured": false,
+    "aliases": [
+        "Plain text notes",
+        "Text-based productivity"
+    ],
+    "relatedConcepts": [
+        "markdown",
+        "local-first",
+        "data-portability"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "references": [
+        {
+            "title": "The Plain Text Project",
+            "url": "https://plaintextproject.online/",
+            "type": "websites"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://voice-ai.knowii.net",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-27",
+    "dateModified": "2025-12-28"
 }

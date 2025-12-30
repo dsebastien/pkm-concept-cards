@@ -25,17 +25,17 @@
     "references": [
         {
             "title": "Knowledge Management for Beginners",
-            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-            "type": "other"
-        },
-        {
-            "title": "Knowledge Management for Beginners",
             "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
             "type": "other"
         },
         {
             "title": "Personal Knowledge Management Library",
             "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
             "type": "other"
         }
     ],

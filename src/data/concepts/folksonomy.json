@@ -35,11 +35,6 @@
             "type": "other"
         },
         {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-            "type": "other"
-        },
-        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"
@@ -67,6 +62,11 @@
         {
             "title": "DeveloPassion Newsletter",
             "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
             "type": "other"
         }
     ],

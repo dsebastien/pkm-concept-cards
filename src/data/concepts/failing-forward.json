@@ -1,59 +1,64 @@
 {
-  "id": "failing-forward",
-  "name": "Failing Forward",
-  "summary": "Transforming failures into learning opportunities by treating each mistake as valuable data for growth.",
-  "explanation": "Failing forward is a mindset and approach that reframes failure as a stepping stone rather than a setback. Instead of viewing mistakes as endpoints, this principle encourages treating each miscalculation as an opportunity to explore, each misstep as a data point, and each error as a lesson. The core idea is that there is no true failure when you extract learning from every experience. This approach aligns with the growth mindset philosophy, where setbacks become fuel for improvement rather than reasons for discouragement. By consistently failing forward, you build resilience, accumulate wisdom from experience, and maintain momentum toward your goals even when things do not go as planned.",
-  "tags": [
-    "failures",
-    "learning",
-    "mindsets",
-    "resilience",
-    "growth-mindset",
-    "positivity"
-  ],
-  "category": "Principles",
-  "icon": "FaArrowUp",
-  "featured": false,
-  "aliases": [],
-  "relatedConcepts": [
-    "growth-mindset",
-    "failure-as-identity",
-    "kaizen",
-    "embrace-imperfection"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Failing+forward"
-  ],
-  "articles": [],
-  "books": [
-    {
-      "title": "Failing Forward by John C. Maxwell",
-      "url": "https://www.amazon.com/Failing-Forward-Turning-Mistakes-Stepping/dp/0785288570"
-    }
-  ],
-  "references": [
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-28"
+    "id": "failing-forward",
+    "name": "Failing Forward",
+    "summary": "Transforming failures into learning opportunities by treating each mistake as valuable data for growth.",
+    "explanation": "Failing forward is a mindset and approach that reframes failure as a stepping stone rather than a setback. Instead of viewing mistakes as endpoints, this principle encourages treating each miscalculation as an opportunity to explore, each misstep as a data point, and each error as a lesson. The core idea is that there is no true failure when you extract learning from every experience. This approach aligns with the growth mindset philosophy, where setbacks become fuel for improvement rather than reasons for discouragement. By consistently failing forward, you build resilience, accumulate wisdom from experience, and maintain momentum toward your goals even when things do not go as planned.",
+    "tags": [
+        "failures",
+        "learning",
+        "mindsets",
+        "resilience",
+        "growth-mindset",
+        "positivity"
+    ],
+    "category": "Principles",
+    "icon": "FaArrowUp",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "growth-mindset",
+        "failure-as-identity",
+        "kaizen",
+        "embrace-imperfection"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Failing+forward"
+    ],
+    "articles": [],
+    "books": [
+        {
+            "title": "Failing Forward by John C. Maxwell",
+            "url": "https://www.amazon.com/Failing-Forward-Turning-Mistakes-Stepping/dp/0785288570"
+        }
+    ],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-28"
 }

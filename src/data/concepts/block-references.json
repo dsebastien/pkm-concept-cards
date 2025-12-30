@@ -42,11 +42,6 @@
             "type": "other"
         },
         {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-            "type": "other"
-        },
-        {
             "title": "Obsidian Starter Course",
             "url": "https://store.dsebastien.net/l/obsidian-starter-course",
             "type": "other"
@@ -69,6 +64,16 @@
         {
             "title": "DeveloPassion Newsletter",
             "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://voice-ai.knowii.net",
             "type": "other"
         }
     ],

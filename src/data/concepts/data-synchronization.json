@@ -1,80 +1,85 @@
 {
-  "id": "data-synchronization",
-  "name": "Data Synchronization",
-  "summary": "The process of maintaining consistent data across multiple devices or locations.",
-  "explanation": "Data synchronization is the process of establishing consistency among data from a source to a target data storage and vice versa, ensuring that changes made in one location are reflected in others. In knowledge management, this enables accessing and editing your notes across multiple devices.\n\n**Types of synchronization:**\n\n- **Transparent sync** - Automatic, background synchronization (e.g., Dropbox, iCloud)\n- **Manual sync** - User-initiated synchronization (e.g., Git push/pull)\n- **Continuous sync** - Real-time or near-real-time synchronization\n- **Scheduled sync** - Synchronization at set intervals\n\n**Critical considerations:**\n\n1. **Synchronization is NOT backup** - Sync replicates mistakes and deletions to all devices. A deleted file syncs its deletion everywhere. True backups preserve history.\n\n2. **Conflict prevention** - To avoid conflicts:\n   - Use your data on a single device at a time\n   - Ensure synchronization completes before making new changes\n   - Consider using read-only replicas on some devices\n\n3. **Consistency** - Wait for sync to complete before switching devices\n\n**Tools for PKM synchronization:**\n\n- Syncthing (open-source, P2P)\n- Obsidian Sync (official, E2E encrypted)\n- iCloud, Dropbox, Google Drive\n- Git for version-controlled sync\n\nAlways combine synchronization with a proper backup strategy (like the 3-2-1 rule) to protect against data loss.",
-  "tags": [
-    "data-management",
-    "knowledge-management",
-    "tools",
-    "systems",
-    "workflow"
-  ],
-  "category": "Techniques",
-  "icon": "FaSync",
-  "featured": false,
-  "aliases": [
-    "Sync",
-    "Data Sync",
-    "Cross-device Sync"
-  ],
-  "relatedConcepts": [
-    "3-2-1-backup-rule",
-    "ssot",
-    "local-first"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+I+synchronize+and+backup+my+Obsidian+notes"
-  ],
-  "articles": [],
-  "references": [
-    {
-      "title": "Data synchronization - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Data_synchronization",
-      "type": "websites"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Library",
-      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-27",
-  "dateModified": "2025-12-28"
+    "id": "data-synchronization",
+    "name": "Data Synchronization",
+    "summary": "The process of maintaining consistent data across multiple devices or locations.",
+    "explanation": "Data synchronization is the process of establishing consistency among data from a source to a target data storage and vice versa, ensuring that changes made in one location are reflected in others. In knowledge management, this enables accessing and editing your notes across multiple devices.\n\n**Types of synchronization:**\n\n- **Transparent sync** - Automatic, background synchronization (e.g., Dropbox, iCloud)\n- **Manual sync** - User-initiated synchronization (e.g., Git push/pull)\n- **Continuous sync** - Real-time or near-real-time synchronization\n- **Scheduled sync** - Synchronization at set intervals\n\n**Critical considerations:**\n\n1. **Synchronization is NOT backup** - Sync replicates mistakes and deletions to all devices. A deleted file syncs its deletion everywhere. True backups preserve history.\n\n2. **Conflict prevention** - To avoid conflicts:\n   - Use your data on a single device at a time\n   - Ensure synchronization completes before making new changes\n   - Consider using read-only replicas on some devices\n\n3. **Consistency** - Wait for sync to complete before switching devices\n\n**Tools for PKM synchronization:**\n\n- Syncthing (open-source, P2P)\n- Obsidian Sync (official, E2E encrypted)\n- iCloud, Dropbox, Google Drive\n- Git for version-controlled sync\n\nAlways combine synchronization with a proper backup strategy (like the 3-2-1 rule) to protect against data loss.",
+    "tags": [
+        "data-management",
+        "knowledge-management",
+        "tools",
+        "systems",
+        "workflow"
+    ],
+    "category": "Techniques",
+    "icon": "FaSync",
+    "featured": false,
+    "aliases": [
+        "Sync",
+        "Data Sync",
+        "Cross-device Sync"
+    ],
+    "relatedConcepts": [
+        "3-2-1-backup-rule",
+        "ssot",
+        "local-first"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/How+I+synchronize+and+backup+my+Obsidian+notes"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Data synchronization - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Data_synchronization",
+            "type": "websites"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://voice-ai.knowii.net",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-27",
+    "dateModified": "2025-12-28"
 }

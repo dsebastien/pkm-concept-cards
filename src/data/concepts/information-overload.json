@@ -81,11 +81,6 @@
             "type": "other"
         },
         {
-            "title": "Knowledge Management for Beginners",
-            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-            "type": "other"
-        },
-        {
             "title": "Knowii Community",
             "url": "https://store.dsebastien.net/l/knowii",
             "type": "other"
@@ -134,6 +129,11 @@
             "title": "The Art of Effective Communication: Less is More - HBR",
             "url": "https://hbr.org/2022/10/keep-your-message-short-and-simple",
             "type": "website"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
         }
     ],
     "tutorials": [],
