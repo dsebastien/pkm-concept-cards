@@ -1,3 +1,10 @@
+## [9.0.0](https://github.com/dsebastien/concept-cards/compare/8.4.0...9.0.0) (2025-12-30)
+
+### Features
+
+* **all:** added new concepts ([2a7fff7](https://github.com/dsebastien/concept-cards/commit/2a7fff727921c7aca6367251f12b3d9a548f0948))
+* **all:** added social cards ([4db386a](https://github.com/dsebastien/concept-cards/commit/4db386a13e59053083cf7d88ac3b07889e3a2de9))
+* **all:** added/updated and added concepts db ([ad4d55b](https://github.com/dsebastien/concept-cards/commit/ad4d55b5fdc683efc7f3862d1ee6d339837b89a7))
 ## [8.4.0](https://github.com/dsebastien/concept-cards/compare/8.3.0...8.4.0) (2025-12-30)
 
 ### Features
