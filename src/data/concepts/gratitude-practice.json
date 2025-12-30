@@ -1,135 +1,133 @@
 {
-  "id": "gratitude-practice",
-  "name": "Gratitude Practice",
-  "summary": "Intentional activities designed to cultivate and express appreciation for life's positives.",
-  "explanation": "Gratitude practice refers to intentional activities designed to cultivate and express appreciation for the positive aspects of life, relationships, and experiences. Research by Robert Emmons and others demonstrates significant wellbeing benefits from regular gratitude practice. Core practices include: gratitude journaling (writing what you're thankful for), gratitude meditation (focusing attention on blessings), gratitude letters (writing thanks to specific people), and mental noting (acknowledging good moments throughout the day). Gratitude practice works by: shifting attention from negatives to positives, countering hedonic adaptation (taking good things for granted), and strengthening relationships through expressed appreciation. Effective practice involves: specificity (noting particular things rather than vague 'life'), consistency (regular practice builds benefits), and variety (mixing up practices prevents staleness). Barriers include: negativity bias (brain naturally focuses on threats), busy-ness (no time set aside), and cynicism (dismissing practice as naive). For knowledge workers, gratitude practice means: building regular gratitude habits, expressing appreciation to colleagues, and maintaining perspective on positives amid work challenges.",
-  "tags": [
-    "daily-practice",
-    "gratitude",
-    "habits",
-    "happiness",
-    "journaling",
-    "knowledge-management",
-    "mental-health",
-    "mindfulness",
-    "positive-psychology",
-    "practices",
-    "psychology",
-    "routines",
-    "well-being"
-  ],
-  "category": "Techniques",
-  "icon": "FaPrayingHands",
-  "featured": true,
-  "aliases": [
-    "Daily gratitude",
-    "Daily thankfulness",
-    "Everyday gratitude",
-    "Gratitude habits",
-    "Gratitude journaling",
-    "Gratitude practice",
-    "Gratitude routines",
-    "Habitual thankfulness",
-    "Practicing gratitude",
-    "Regular gratitude",
-    "Thankfulness journal",
-    "Thankfulness practice"
-  ],
-  "relatedConcepts": [
-    "consistency",
-    "daily-notes",
-    "five-minute-journal",
-    "gratitude-habits",
-    "gratitude-journal",
-    "gratitude-meditation",
-    "gratitude-practice",
-    "habit-loop",
-    "habit-stacking",
-    "happiness-practices",
-    "hedonic-adaptation",
-    "journaling",
-    "mindfulness",
-    "positive-psychology",
-    "three-good-things"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Practice+daily+gratitude"
-  ],
-  "articles": [],
-  "books": [
-    {
-      "title": "Thanks! by Robert Emmons",
-      "url": "https://amzn.to/3Dp09NT"
-    }
-  ],
-  "references": [
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Worker Kit",
-      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-      "type": "other"
-    },
-    {
-      "title": "Gratitude - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Gratitude",
-      "type": "website"
-    },
-    {
-      "title": "Journaling Deep Dive Workshop",
-      "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
-      "type": "other"
-    },
-    {
-      "title": "Clarity 101 Workshop",
-      "url": "https://store.dsebastien.net/l/knowii-clarity-101",
-      "type": "other"
-    },
-    {
-      "title": "Personal Organization 101 Workshop",
-      "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Management for Beginners",
-      "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Library",
-      "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-30"
+    "id": "gratitude-practice",
+    "name": "Gratitude Practice",
+    "summary": "Intentional activities designed to cultivate and express appreciation for life's positives.",
+    "explanation": "Gratitude practice refers to intentional activities designed to cultivate and express appreciation for the positive aspects of life, relationships, and experiences. Research by Robert Emmons and others demonstrates significant wellbeing benefits from regular gratitude practice. Core practices include: gratitude journaling (writing what you're thankful for), gratitude meditation (focusing attention on blessings), gratitude letters (writing thanks to specific people), and mental noting (acknowledging good moments throughout the day). Gratitude practice works by: shifting attention from negatives to positives, countering hedonic adaptation (taking good things for granted), and strengthening relationships through expressed appreciation. Effective practice involves: specificity (noting particular things rather than vague 'life'), consistency (regular practice builds benefits), and variety (mixing up practices prevents staleness). Barriers include: negativity bias (brain naturally focuses on threats), busy-ness (no time set aside), and cynicism (dismissing practice as naive). For knowledge workers, gratitude practice means: building regular gratitude habits, expressing appreciation to colleagues, and maintaining perspective on positives amid work challenges.",
+    "tags": [
+        "daily-practice",
+        "gratitude",
+        "habits",
+        "happiness",
+        "journaling",
+        "knowledge-management",
+        "mental-health",
+        "mindfulness",
+        "positive-psychology",
+        "practices",
+        "psychology",
+        "routines",
+        "well-being"
+    ],
+    "category": "Techniques",
+    "icon": "FaPrayingHands",
+    "featured": true,
+    "aliases": [
+        "Daily gratitude",
+        "Daily thankfulness",
+        "Everyday gratitude",
+        "Gratitude habits",
+        "Gratitude journaling",
+        "Gratitude practice",
+        "Gratitude routines",
+        "Habitual thankfulness",
+        "Practicing gratitude",
+        "Regular gratitude",
+        "Thankfulness journal",
+        "Thankfulness practice"
+    ],
+    "relatedConcepts": [
+        "consistency",
+        "daily-notes",
+        "five-minute-journal",
+        "gratitude-meditation",
+        "gratitude-practice",
+        "habit-loop",
+        "habit-stacking",
+        "happiness-practices",
+        "hedonic-adaptation",
+        "journaling",
+        "mindfulness",
+        "positive-psychology",
+        "three-good-things"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Practice+daily+gratitude"
+    ],
+    "articles": [],
+    "books": [
+        {
+            "title": "Thanks! by Robert Emmons",
+            "url": "https://amzn.to/3Dp09NT"
+        }
+    ],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Gratitude - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gratitude",
+            "type": "website"
+        },
+        {
+            "title": "Journaling Deep Dive Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+            "type": "other"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
+        },
+        {
+            "title": "Personal Organization 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://developassion.gumroad.com/l/knowledge-management-for-beginners-ebook",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Library",
+            "url": "https://store.dsebastien.net/l/PersonalKnowledgeManagementLibrary",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-30"
 }

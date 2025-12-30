@@ -22,7 +22,6 @@
         "Meditative Illusions"
     ],
     "relatedConcepts": [
-        "spiritual-bypassing",
         "mindfulness"
     ],
     "relatedNotes": [],
@@ -42,6 +41,16 @@
             "title": "Makyo - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Makyo",
             "type": "website"
+        },
+        {
+            "title": "Journaling Deep Dive Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+            "type": "other"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

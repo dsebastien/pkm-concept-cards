@@ -22,9 +22,7 @@
         "Walking After Eating"
     ],
     "relatedConcepts": [
-        "habits",
-        "tiny-habits",
-        "health-habits"
+        "habit-loop"
     ],
     "relatedNotes": [],
     "articles": [
@@ -49,6 +47,21 @@
             "title": "Effects of Post-Meal Walking on Glucose Control",
             "url": "https://diabetesjournals.org/care/article/36/10/3262/38142/Standing-or-Walking-After-a-Meal-Blunts-the",
             "type": "paper"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Journaling Deep Dive Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-journaling-deep-dive",
+            "type": "other"
+        },
+        {
+            "title": "Personal Organization 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

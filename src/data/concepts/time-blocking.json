@@ -1,97 +1,96 @@
 {
-  "id": "time-blocking",
-  "name": "Time Blocking",
-  "summary": "Scheduling specific blocks of time for different tasks or activities.",
-  "explanation": "Time blocking is a time management method where you divide your day into blocks of time, each dedicated to a specific task or type of work. Instead of working from a to-do list and switching as needed, you assign tasks to specific time slots. Benefits include: reduced context switching, clearer priorities, better focus, and more realistic planning. Variations include day theming (dedicating entire days to types of work) and task batching (grouping similar tasks together).",
-  "tags": [
-    "constraints",
-    "focus",
-    "planning",
-    "productivity",
-    "systems",
-    "techniques",
-    "time",
-    "time-management"
-  ],
-  "category": "Productivity",
-  "icon": "FaClock",
-  "featured": false,
-  "aliases": [
-    "Block scheduling",
-    "Calendar blocking",
-    "Calendar management",
-    "Constrained time",
-    "Fixed time blocks",
-    "Time blocking",
-    "Time boxing",
-    "Timeboxing"
-  ],
-  "relatedConcepts": [
-    "context-switching",
-    "deadline-effect",
-    "deep-work",
-    "knowledge-work-productivity",
-    "maker-vs-manager-schedule",
-    "parkinson-law",
-    "perfectionism",
-    "pomodoro-technique",
-    "protecting-time",
-    "time-blocking",
-    "time-boxing"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+blocking"
-  ],
-  "articles": [],
-  "references": [
-    {
-      "title": "Timeblocking - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Timeblocking",
-      "type": "website"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Worker Kit",
-      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    },
-    {
-      "title": "Timeboxing - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Timeboxing",
-      "type": "website"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-30",
-  "books": [
-    {
-      "title": "Deep Work by Cal Newport",
-      "url": "https://amzn.to/3Dp08MT"
-    }
-  ]
+    "id": "time-blocking",
+    "name": "Time Blocking",
+    "summary": "Scheduling specific blocks of time for different tasks or activities.",
+    "explanation": "Time blocking is a time management method where you divide your day into blocks of time, each dedicated to a specific task or type of work. Instead of working from a to-do list and switching as needed, you assign tasks to specific time slots. Benefits include: reduced context switching, clearer priorities, better focus, and more realistic planning. Variations include day theming (dedicating entire days to types of work) and task batching (grouping similar tasks together).",
+    "tags": [
+        "constraints",
+        "focus",
+        "planning",
+        "productivity",
+        "systems",
+        "techniques",
+        "time",
+        "time-management"
+    ],
+    "category": "Productivity",
+    "icon": "FaClock",
+    "featured": false,
+    "aliases": [
+        "Block scheduling",
+        "Calendar blocking",
+        "Calendar management",
+        "Constrained time",
+        "Fixed time blocks",
+        "Time blocking",
+        "Time boxing",
+        "Timeboxing"
+    ],
+    "relatedConcepts": [
+        "context-switching",
+        "deadline-effect",
+        "deep-work",
+        "knowledge-work-productivity",
+        "maker-vs-manager-schedule",
+        "parkinson-law",
+        "perfectionism",
+        "pomodoro-technique",
+        "protecting-time",
+        "time-blocking"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Time+blocking"
+    ],
+    "articles": [],
+    "references": [
+        {
+            "title": "Timeblocking - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Timeblocking",
+            "type": "website"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Timeboxing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Timeboxing",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-30",
+    "books": [
+        {
+            "title": "Deep Work by Cal Newport",
+            "url": "https://amzn.to/3Dp08MT"
+        }
+    ]
 }

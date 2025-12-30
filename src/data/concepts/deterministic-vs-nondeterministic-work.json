@@ -1,25 +1,79 @@
 {
-  "id": "deterministic-vs-nondeterministic-work",
-  "name": "Deterministic vs Non-deterministic Work",
-  "summary": "The distinction between predictable, rule-based work that can be automated by traditional software and creative knowledge work requiring human judgment and context.",
-  "explanation": "Deterministic work follows predictable patterns and clear rules, making it suitable for automation through traditional software. Examples include accounting calculations, data entry, inventory management, and routine scheduling. These tasks have well-defined inputs, processes, and expected outputs that can be codified into algorithms.\n\nNon-deterministic work, by contrast, requires judgment, creativity, context, and adaptability. This includes activities like reviewing contracts, writing code for new features, generating advertising campaigns, conducting market research, handling nuanced customer support, and strategic planning. These tasks involve ambiguity, require understanding context and intent, and often have multiple valid approaches rather than a single correct answer.\n\nFor decades, software successfully automated deterministic work across industries, giving advantages to organizations that could afford to procure, install, and maintain these systems. However, the vast majority of knowledge work remained non-deterministic and thus resistant to traditional automation. AI agents and large language models represent a fundamental shift by bringing automation capabilities to non-deterministic work for the first time, democratizing access to capabilities that previously required human expertise and judgment.",
-  "tags": ["automation", "knowledge-work", "AI", "workflows", "strategies"],
-  "category": "AI",
-  "icon": "FaCogs",
-  "featured": false,
-  "aliases": ["Deterministic Work", "Non-deterministic Work", "Predictable vs Creative Work"],
-  "relatedConcepts": ["democratization-of-technology", "jevons-paradox"],
-  "relatedNotes": [],
-  "articles": [
-    {
-      "title": "Jevons Paradox for Knowledge Work by Aaron Levie",
-      "url": "https://x.com/levie/status/2004654686629163154",
-      "type": "website"
-    }
-  ],
-  "books": [],
-  "references": [],
-  "tutorials": [],
-  "datePublished": "2025-12-30",
-  "dateModified": "2025-12-30"
+    "id": "deterministic-vs-nondeterministic-work",
+    "name": "Deterministic vs Non-deterministic Work",
+    "summary": "The distinction between predictable, rule-based work that can be automated by traditional software and creative knowledge work requiring human judgment and context.",
+    "explanation": "Deterministic work follows predictable patterns and clear rules, making it suitable for automation through traditional software. Examples include accounting calculations, data entry, inventory management, and routine scheduling. These tasks have well-defined inputs, processes, and expected outputs that can be codified into algorithms.\n\nNon-deterministic work, by contrast, requires judgment, creativity, context, and adaptability. This includes activities like reviewing contracts, writing code for new features, generating advertising campaigns, conducting market research, handling nuanced customer support, and strategic planning. These tasks involve ambiguity, require understanding context and intent, and often have multiple valid approaches rather than a single correct answer.\n\nFor decades, software successfully automated deterministic work across industries, giving advantages to organizations that could afford to procure, install, and maintain these systems. However, the vast majority of knowledge work remained non-deterministic and thus resistant to traditional automation. AI agents and large language models represent a fundamental shift by bringing automation capabilities to non-deterministic work for the first time, democratizing access to capabilities that previously required human expertise and judgment.",
+    "tags": [
+        "automation",
+        "knowledge-work",
+        "AI",
+        "workflows",
+        "strategies"
+    ],
+    "category": "AI",
+    "icon": "FaCogs",
+    "featured": false,
+    "aliases": [
+        "Deterministic Work",
+        "Non-deterministic Work",
+        "Predictable vs Creative Work"
+    ],
+    "relatedConcepts": [
+        "democratization-of-technology",
+        "jevons-paradox"
+    ],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Jevons Paradox for Knowledge Work by Aaron Levie",
+            "url": "https://x.com/levie/status/2004654686629163154",
+            "type": "website"
+        }
+    ],
+    "books": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://store.dsebastien.net/l/knowledge-management-for-beginners",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
 }

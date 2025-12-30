@@ -25,7 +25,6 @@
     "relatedConcepts": [
         "system-1",
         "critical-thinking",
-        "cognitive-biases",
         "mental-models"
     ],
     "relatedNotes": [],
@@ -50,6 +49,11 @@
             "title": "Thinking, Fast and Slow - Wikipedia",
             "url": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
             "type": "website"
+        },
+        {
+            "title": "Clarity 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-clarity-101",
+            "type": "other"
         }
     ],
     "tutorials": [],

@@ -55,9 +55,16 @@ concept-cards/
    public/
       assets/
           images/         # Static images
+              social-card-template.svg  # SVG template for social images
+              social-cards/             # Generated social media sharing images (PNG)
+                  concepts/             # One image per concept (concept-id.png)
+                  tags/                 # One image per tag
+                  categories/           # One image per category
+                  pages/                # Main pages (home, statistics, etc.)
    scripts/
-      generate-sitemap.ts # Sitemap generator
-      split-concepts.ts   # Utility to split concepts.json into individual files
+      generate-sitemap.ts        # Sitemap generator
+      generate-social-images.ts  # Social images generator (SVG → PNG)
+      split-concepts.ts          # Utility to split concepts.json into individual files
    .github/
       workflows/          # CI/CD workflows
    package.json
@@ -307,6 +314,76 @@ done
 
 - URL routing (e.g., `/#/concept/my-new-concept`)
 - Related concepts linking (via `relatedConcepts` field)
+
+### Social Images for Concepts
+
+**IMPORTANT**: After adding, renaming, or removing concepts, you **MUST** regenerate social images.
+
+Social images are PNG files (1200x630px) used for Open Graph and Twitter Card previews when sharing links. They are automatically generated from a template and stored in `/public/assets/images/social-cards/`.
+
+#### When to Regenerate Social Images
+
+**MANDATORY regeneration** in these scenarios:
+
+1. **Adding a new concept** - Creates a new social image with the concept name
+2. **Renaming a concept** - Creates new image with updated name, removes old image
+3. **Removing a concept** - Deletes the associated social image
+4. **Renaming concept ID** - Removes old social image file, creates new one
+
+#### How to Regenerate Social Images
+
+Run the social image generation script:
+
+```bash
+npm run generate-social-images
+```
+
+This will:
+
+- Generate PNG social images for **all concepts** (not just new ones)
+- Generate images for all tags and categories
+- Convert SVG template to PNG format (required for social media compatibility)
+- Output to `/public/assets/images/social-cards/` with subdirectories:
+    - `concepts/` - One PNG per concept (filename = concept ID)
+    - `tags/` - One PNG per tag
+    - `categories/` - One PNG per category
+    - `pages/` - Main pages (home, statistics, etc.)
+
+#### Manual Cleanup for Renamed/Removed Concepts
+
+If you renamed or removed concepts:
+
+1. **After renaming a concept ID**: Delete the old social image manually:
+
+    ```bash
+    rm /home/dsebastien/wks/concept-cards/public/assets/images/social-cards/concepts/old-concept-id.png
+    ```
+
+2. **After removing a concept**: Delete its social image:
+
+    ```bash
+    rm /home/dsebastien/wks/concept-cards/public/assets/images/social-cards/concepts/removed-concept-id.png
+    ```
+
+3. **Bulk cleanup** (removes orphaned images for deleted concepts):
+    ```bash
+    # This script compares concept JSON files with social images and removes orphans
+    # TODO: Create automated cleanup script
+    ```
+
+#### Verification
+
+After regenerating, verify:
+
+```bash
+# Check that new concept has a social image
+ls /home/dsebastien/wks/concept-cards/public/assets/images/social-cards/concepts/my-new-concept.png
+
+# Check file size (should be ~20-30KB)
+ls -lh /home/dsebastien/wks/concept-cards/public/assets/images/social-cards/concepts/my-new-concept.png
+```
+
+**Note**: Social images are automatically regenerated during the build process (`npm run build`), but you should regenerate them explicitly when adding/modifying concepts to ensure they're up-to-date before committing.
 
 ## Categories
 

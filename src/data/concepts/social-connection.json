@@ -23,9 +23,8 @@
         "Belongingness"
     ],
     "relatedConcepts": [
-        "loneliness",
         "emotional-intelligence",
-        "empathy"
+        "empathic-listening"
     ],
     "relatedNotes": [],
     "articles": [],
@@ -53,6 +52,11 @@
             "title": "Harvard Study of Adult Development",
             "url": "https://www.adultdevelopmentstudy.org/",
             "type": "website"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
         }
     ],
     "tutorials": [],

@@ -1,90 +1,89 @@
 {
-  "id": "kaizen",
-  "name": "Kaizen",
-  "summary": "The Japanese philosophy of continuous incremental improvement.",
-  "explanation": "Kaizen is the Japanese philosophy of continuous improvement through small, incremental changes. Rather than seeking dramatic transformations, kaizen focuses on making things slightly better every day. The improvements compound over time. In PKM, kaizen means regularly refining your system - improving a template, adding useful tags, cleaning up outdated notes. The Boy Scout Rule embodies kaizen: leave things better than you found them. Sustainable progress beats sporadic overhauls.",
-  "tags": [
-    "improvement",
-    "philosophies",
-    "principles",
-    "processes",
-    "productivity"
-  ],
-  "category": "Principles",
-  "icon": "FaArrowUp",
-  "featured": false,
-  "aliases": [
-    "Continuous improvement",
-    "Incremental improvement",
-    "Iterative improvement",
-    "Kaizen"
-  ],
-  "relatedConcepts": [
-    "boy-scout-rule",
-    "compound-growth",
-    "consistency",
-    "continuous-improvement",
-    "embrace-imperfection",
-    "evergreen-notes",
-    "metronomes-and-momentum",
-    "periodic-reviews",
-    "seek-feedback-not-perfection",
-    "small-wins"
-  ],
-  "relatedNotes": [
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Kaizen",
-    "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Continuous+Improvement"
-  ],
-  "articles": [],
-  "books": [
-    {
-      "title": "The Spirit of Kaizen by Robert Maurer",
-      "url": "https://www.amazon.com/dp/0071796177?tag=dsebastien00-20"
-    }
-  ],
-  "references": [
-    {
-      "title": "Kaizen - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Kaizen",
-      "type": "website"
-    },
-    {
-      "title": "Knowii Community",
-      "url": "https://store.dsebastien.net/l/knowii",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Kit",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
-      "type": "other"
-    },
-    {
-      "title": "Obsidian Starter Course",
-      "url": "https://store.dsebastien.net/l/obsidian-starter-course",
-      "type": "other"
-    },
-    {
-      "title": "Knowledge Worker Kit",
-      "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
-      "type": "other"
-    },
-    {
-      "title": "Personal Knowledge Management Coaching",
-      "url": "https://store.dsebastien.net/l/pkm-coaching",
-      "type": "other"
-    },
-    {
-      "title": "DeveloPassion Newsletter",
-      "url": "https://dsebastien.net/newsletter",
-      "type": "other"
-    },
-    {
-      "title": "Continual improvement process - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Continual_improvement_process",
-      "type": "website"
-    }
-  ],
-  "tutorials": [],
-  "datePublished": "2025-12-26",
-  "dateModified": "2025-12-30"
+    "id": "kaizen",
+    "name": "Kaizen",
+    "summary": "The Japanese philosophy of continuous incremental improvement.",
+    "explanation": "Kaizen is the Japanese philosophy of continuous improvement through small, incremental changes. Rather than seeking dramatic transformations, kaizen focuses on making things slightly better every day. The improvements compound over time. In PKM, kaizen means regularly refining your system - improving a template, adding useful tags, cleaning up outdated notes. The Boy Scout Rule embodies kaizen: leave things better than you found them. Sustainable progress beats sporadic overhauls.",
+    "tags": [
+        "improvement",
+        "philosophies",
+        "principles",
+        "processes",
+        "productivity"
+    ],
+    "category": "Principles",
+    "icon": "FaArrowUp",
+    "featured": false,
+    "aliases": [
+        "Continuous improvement",
+        "Incremental improvement",
+        "Iterative improvement",
+        "Kaizen"
+    ],
+    "relatedConcepts": [
+        "boy-scout-rule",
+        "compound-growth",
+        "consistency",
+        "embrace-imperfection",
+        "evergreen-notes",
+        "metronomes-and-momentum",
+        "periodic-reviews",
+        "seek-feedback-not-perfection",
+        "small-wins"
+    ],
+    "relatedNotes": [
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Kaizen",
+        "https://notes.dsebastien.net/30+Areas/33+Permanent+notes/33.02+Content/Continuous+Improvement"
+    ],
+    "articles": [],
+    "books": [
+        {
+            "title": "The Spirit of Kaizen by Robert Maurer",
+            "url": "https://www.amazon.com/dp/0071796177?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Kaizen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kaizen",
+            "type": "website"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Continual improvement process - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Continual_improvement_process",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-26",
+    "dateModified": "2025-12-30"
 }

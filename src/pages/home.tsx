@@ -18,6 +18,12 @@ import CommandPalette from '@/components/concepts/command-palette'
 import { conceptsData } from '@/data'
 import { useExploredConcepts, type ExploredFilter } from '@/hooks/use-explored-concepts'
 import type { Concept } from '@/types/concept'
+import {
+    MetaTags,
+    getTagSocialImage,
+    getCategorySocialImage,
+    getPageSocialImage
+} from '@/components/layout/meta-tags'
 
 const HomePage: React.FC = () => {
     const { conceptId, tagName, categoryName } = useParams<{
@@ -311,18 +317,32 @@ const HomePage: React.FC = () => {
     const decodedCategoryName = categoryName ? decodeURIComponent(categoryName) : null
 
     // Update document title based on the current page
-    useEffect(() => {
+    // Determine meta tags based on page type
+    const metaProps = useMemo(() => {
         if (decodedTagName) {
-            document.title = `${decodedTagName} - Concepts`
+            return {
+                title: `${decodedTagName} - Concepts`,
+                description: `Explore concepts tagged with "${decodedTagName}"`,
+                image: getTagSocialImage(decodedTagName)
+            }
         } else if (decodedCategoryName) {
-            document.title = `${decodedCategoryName} - Concepts`
+            return {
+                title: `${decodedCategoryName} - Concepts`,
+                description: `Explore concepts in the "${decodedCategoryName}" category`,
+                image: getCategorySocialImage(decodedCategoryName)
+            }
         } else {
-            document.title = 'Concepts'
+            return {
+                title: 'Concepts - A Curated Collection of Concepts, Methods & Principles',
+                description: 'A curated collection of concepts, methods, and principles.',
+                image: getPageSocialImage('home')
+            }
         }
     }, [decodedTagName, decodedCategoryName])
 
     return (
         <AnimatedPage>
+            <MetaTags {...metaProps} />
             {/* Hero Section */}
             <Section className='pt-16 pb-12 sm:pt-24 sm:pb-16 md:pt-32 md:pb-20'>
                 <AnimatedHero className='mx-auto max-w-4xl text-center'>

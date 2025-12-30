@@ -1,25 +1,70 @@
 {
-  "id": "investment-cost-reduction",
-  "name": "Investment Cost Reduction",
-  "summary": "The strategy of optimizing return on investment (ROI) by reducing the cost of investment rather than solely maximizing returns.",
-  "explanation": "When evaluating return on investment (ROI), most people focus on maximizing the \"R\" (return). However, there's often greater leverage in reducing the \"I\" (investment cost). This principle recognizes that lowering the barrier to entry for initiatives enables organizations to pursue more opportunities that were previously economically unfeasible.\n\nIn traditional business contexts, small teams face constant resource tradeoffs. They must choose between improving their marketing website, building new product features, handling customer support, managing finances, and finding distribution channels. Each of these investments competes for the same limited budget and human resources. This scarcity forces organizations to say no to potentially valuable initiatives simply because the cost of investment is too high.\n\nBy dramatically reducing investment costs—whether through automation, AI agents, better tools, or process improvements—organizations can break free from these constraints. When the cost to execute a task drops from thousands of dollars to hundreds, or from weeks to days, projects that would never have been started suddenly become viable. This enables experimentation, faster iteration, and parallel work streams that were impossible under previous cost structures.\n\nThe AI revolution exemplifies this principle: by reducing the cost of knowledge work through AI agents, small teams can now afford to tackle problems that previously required entire departments. This shift from optimizing returns to reducing investment costs can fundamentally change what's possible for resource-constrained organizations.",
-  "tags": ["strategies", "businesses", "economics", "ROI", "decision-making", "productivity"],
-  "category": "Business & Economics",
-  "icon": "FaLightbulb",
-  "featured": false,
-  "aliases": ["Reducing the I in ROI", "Investment Optimization", "Cost Reduction Strategy"],
-  "relatedConcepts": ["democratization-of-technology", "jevons-paradox"],
-  "relatedNotes": [],
-  "articles": [
-    {
-      "title": "Jevons Paradox for Knowledge Work by Aaron Levie",
-      "url": "https://x.com/levie/status/2004654686629163154",
-      "type": "website"
-    }
-  ],
-  "books": [],
-  "references": [],
-  "tutorials": [],
-  "datePublished": "2025-12-30",
-  "dateModified": "2025-12-30"
+    "id": "investment-cost-reduction",
+    "name": "Investment Cost Reduction",
+    "summary": "The strategy of optimizing return on investment (ROI) by reducing the cost of investment rather than solely maximizing returns.",
+    "explanation": "When evaluating return on investment (ROI), most people focus on maximizing the \"R\" (return). However, there's often greater leverage in reducing the \"I\" (investment cost). This principle recognizes that lowering the barrier to entry for initiatives enables organizations to pursue more opportunities that were previously economically unfeasible.\n\nIn traditional business contexts, small teams face constant resource tradeoffs. They must choose between improving their marketing website, building new product features, handling customer support, managing finances, and finding distribution channels. Each of these investments competes for the same limited budget and human resources. This scarcity forces organizations to say no to potentially valuable initiatives simply because the cost of investment is too high.\n\nBy dramatically reducing investment costs—whether through automation, AI agents, better tools, or process improvements—organizations can break free from these constraints. When the cost to execute a task drops from thousands of dollars to hundreds, or from weeks to days, projects that would never have been started suddenly become viable. This enables experimentation, faster iteration, and parallel work streams that were impossible under previous cost structures.\n\nThe AI revolution exemplifies this principle: by reducing the cost of knowledge work through AI agents, small teams can now afford to tackle problems that previously required entire departments. This shift from optimizing returns to reducing investment costs can fundamentally change what's possible for resource-constrained organizations.",
+    "tags": [
+        "strategies",
+        "businesses",
+        "economics",
+        "ROI",
+        "decision-making",
+        "productivity"
+    ],
+    "category": "Business & Economics",
+    "icon": "FaLightbulb",
+    "featured": false,
+    "aliases": [
+        "Reducing the I in ROI",
+        "Investment Optimization",
+        "Cost Reduction Strategy"
+    ],
+    "relatedConcepts": [
+        "democratization-of-technology",
+        "jevons-paradox"
+    ],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Jevons Paradox for Knowledge Work by Aaron Levie",
+            "url": "https://x.com/levie/status/2004654686629163154",
+            "type": "website"
+        }
+    ],
+    "books": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
 }

@@ -1,25 +1,87 @@
 {
-  "id": "jobs-to-tasks-transformation",
-  "name": "Jobs to Tasks Transformation",
-  "summary": "The historical pattern where automation transforms entire jobs into component tasks within broader roles, typically increasing rather than decreasing total employment in affected fields.",
-  "explanation": "A common concern about automation is that it will eliminate jobs. However, historical evidence shows a counterintuitive pattern: as technology automates tasks that once constituted entire jobs, those tasks become components of new, broader roles. This transformation typically leads to increased employment in the affected field rather than decreased employment.\n\nThe mechanism works through several factors. First, automation makes work more efficient and cheaper, which (following Jevons Paradox) increases demand for that type of work. Second, freed from routine tasks, workers can focus on higher-value activities that were previously economically unfeasible. Third, as capabilities expand, organizations expect more sophisticated outputs, creating new work to fill the gap.\n\nA clear example comes from marketing: in the 1970s, a few hundred thousand people worked in marketing-related roles (PR, graphics, advertising) in the United States. By the 2020s, despite tools like Figma, Google Adwords, and marketing automation platforms making individual tasks far more efficient, employment in these fields had grown to millions of workers. Why? Because technology made marketing accessible to small businesses that could never afford it before, and because each marketer could now accomplish what previously required multiple specialists.\n\nThe pattern continues with AI. While AI agents successfully automate various tasks (market research, code generation, content creation), incorporating those tasks into complete workflows that produce real value still requires human judgment and substantial effort. The expectation is that today's jobs will become tomorrow's tasks, with workers using AI to accomplish more sophisticated work at greater scale.",
-  "tags": ["automation", "employment", "history", "economics", "businesses", "AI", "workflows"],
-  "category": "Business & Economics",
-  "icon": "FaProjectDiagram",
-  "featured": false,
-  "aliases": ["Jobs Become Tasks", "Task Transformation", "Automation and Employment"],
-  "relatedConcepts": ["jevons-paradox", "democratization-of-technology", "deterministic-vs-nondeterministic-work"],
-  "relatedNotes": [],
-  "articles": [
-    {
-      "title": "Jevons Paradox for Knowledge Work by Aaron Levie",
-      "url": "https://x.com/levie/status/2004654686629163154",
-      "type": "website"
-    }
-  ],
-  "books": [],
-  "references": [],
-  "tutorials": [],
-  "datePublished": "2025-12-30",
-  "dateModified": "2025-12-30"
+    "id": "jobs-to-tasks-transformation",
+    "name": "Jobs to Tasks Transformation",
+    "summary": "The historical pattern where automation transforms entire jobs into component tasks within broader roles, typically increasing rather than decreasing total employment in affected fields.",
+    "explanation": "A common concern about automation is that it will eliminate jobs. However, historical evidence shows a counterintuitive pattern: as technology automates tasks that once constituted entire jobs, those tasks become components of new, broader roles. This transformation typically leads to increased employment in the affected field rather than decreased employment.\n\nThe mechanism works through several factors. First, automation makes work more efficient and cheaper, which (following Jevons Paradox) increases demand for that type of work. Second, freed from routine tasks, workers can focus on higher-value activities that were previously economically unfeasible. Third, as capabilities expand, organizations expect more sophisticated outputs, creating new work to fill the gap.\n\nA clear example comes from marketing: in the 1970s, a few hundred thousand people worked in marketing-related roles (PR, graphics, advertising) in the United States. By the 2020s, despite tools like Figma, Google Adwords, and marketing automation platforms making individual tasks far more efficient, employment in these fields had grown to millions of workers. Why? Because technology made marketing accessible to small businesses that could never afford it before, and because each marketer could now accomplish what previously required multiple specialists.\n\nThe pattern continues with AI. While AI agents successfully automate various tasks (market research, code generation, content creation), incorporating those tasks into complete workflows that produce real value still requires human judgment and substantial effort. The expectation is that today's jobs will become tomorrow's tasks, with workers using AI to accomplish more sophisticated work at greater scale.",
+    "tags": [
+        "automation",
+        "employment",
+        "history",
+        "economics",
+        "businesses",
+        "AI",
+        "workflows"
+    ],
+    "category": "Business & Economics",
+    "icon": "FaProjectDiagram",
+    "featured": false,
+    "aliases": [
+        "Jobs Become Tasks",
+        "Task Transformation",
+        "Automation and Employment"
+    ],
+    "relatedConcepts": [
+        "jevons-paradox",
+        "democratization-of-technology",
+        "deterministic-vs-nondeterministic-work"
+    ],
+    "relatedNotes": [],
+    "articles": [
+        {
+            "title": "Jevons Paradox for Knowledge Work by Aaron Levie",
+            "url": "https://x.com/levie/status/2004654686629163154",
+            "type": "website"
+        }
+    ],
+    "books": [],
+    "references": [
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-kit",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Voice AI",
+            "url": "https://store.dsebastien.net/l/knowii-voice-ai",
+            "type": "other"
+        },
+        {
+            "title": "Personal Organization 101 Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-personal-organization-101",
+            "type": "other"
+        },
+        {
+            "title": "AI Master Prompt Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-ai-master-prompt",
+            "type": "other"
+        },
+        {
+            "title": "Model Context Protocol (MCP) Workshop",
+            "url": "https://store.dsebastien.net/l/knowii-model-context-protocol-mcp",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
 }

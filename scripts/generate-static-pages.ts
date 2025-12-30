@@ -567,6 +567,12 @@ function generateTagPageHtml(tag: string, encodedTag: string): string {
     const tagUrl = `${BASE_URL}/tag/${encodedTag}`
     const title = `${tag} - Concepts`
     const description = `Explore concepts tagged with "${tag}"`
+    const sanitizedTag = tag
+        .toLowerCase()
+        .replace(/[^a-z0-9-]/g, '-')
+        .replace(/-+/g, '-')
+        .replace(/^-|-$/g, '')
+    const socialImage = `${BASE_URL}/assets/images/social-cards/tags/${sanitizedTag}.png`
 
     let html = indexHtml
 
@@ -598,6 +604,14 @@ function generateTagPageHtml(tag: string, encodedTag: string): string {
         /<meta\s+property="og:description"\s+content="[^"]*"\s*\/?>/,
         `<meta property="og:description" content="${escapeHtml(description)}" />`
     )
+    html = html.replace(
+        /<meta\s+property="og:image"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:image" content="${socialImage}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:image:alt"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:image:alt" content="${escapeHtml(title)}" />`
+    )
 
     // Update Twitter tags
     html = html.replace(
@@ -611,6 +625,14 @@ function generateTagPageHtml(tag: string, encodedTag: string): string {
     html = html.replace(
         /<meta\s+name="twitter:description"\s+content="[^"]*"\s*\/?>/,
         `<meta name="twitter:description" content="${escapeHtml(description)}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:image"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:image" content="${socialImage}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:image:alt"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:image:alt" content="${escapeHtml(title)}" />`
     )
 
     // Replace JSON-LD schema with CollectionPage schema
@@ -660,6 +682,12 @@ function generateCategoryPageHtml(category: string, encodedCategory: string): st
     const categoryUrl = `${BASE_URL}/category/${encodedCategory}`
     const title = `${category} - Concepts`
     const description = `Explore concepts in the "${category}" category`
+    const sanitizedCategory = category
+        .toLowerCase()
+        .replace(/[^a-z0-9-]/g, '-')
+        .replace(/-+/g, '-')
+        .replace(/^-|-$/g, '')
+    const socialImage = `${BASE_URL}/assets/images/social-cards/categories/${sanitizedCategory}.png`
 
     let html = indexHtml
 
@@ -691,6 +719,14 @@ function generateCategoryPageHtml(category: string, encodedCategory: string): st
         /<meta\s+property="og:description"\s+content="[^"]*"\s*\/?>/,
         `<meta property="og:description" content="${escapeHtml(description)}" />`
     )
+    html = html.replace(
+        /<meta\s+property="og:image"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:image" content="${socialImage}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:image:alt"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:image:alt" content="${escapeHtml(title)}" />`
+    )
 
     // Update Twitter tags
     html = html.replace(
@@ -704,6 +740,14 @@ function generateCategoryPageHtml(category: string, encodedCategory: string): st
     html = html.replace(
         /<meta\s+name="twitter:description"\s+content="[^"]*"\s*\/?>/,
         `<meta name="twitter:description" content="${escapeHtml(description)}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:image"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:image" content="${socialImage}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:image:alt"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:image:alt" content="${escapeHtml(title)}" />`
     )
 
     // Replace JSON-LD schema with CollectionPage schema
@@ -766,6 +810,7 @@ function generateConceptPageHtml(concept: Concept): string {
     const conceptUrl = `${BASE_URL}/concept/${concept.id}`
     const title = `${concept.name} - Concepts`
     const description = concept.summary
+    const socialImage = `${BASE_URL}/assets/images/social-cards/concepts/${concept.id}.png`
 
     let html = indexHtml
 
@@ -797,6 +842,14 @@ function generateConceptPageHtml(concept: Concept): string {
         /<meta\s+property="og:description"\s+content="[^"]*"\s*\/?>/,
         `<meta property="og:description" content="${escapeHtml(description)}" />`
     )
+    html = html.replace(
+        /<meta\s+property="og:image"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:image" content="${socialImage}" />`
+    )
+    html = html.replace(
+        /<meta\s+property="og:image:alt"\s+content="[^"]*"\s*\/?>/,
+        `<meta property="og:image:alt" content="${escapeHtml(title)}" />`
+    )
 
     // Update Twitter tags
     html = html.replace(
@@ -810,6 +863,14 @@ function generateConceptPageHtml(concept: Concept): string {
     html = html.replace(
         /<meta\s+name="twitter:description"\s+content="[^"]*"\s*\/?>/,
         `<meta name="twitter:description" content="${escapeHtml(description)}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:image"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:image" content="${socialImage}" />`
+    )
+    html = html.replace(
+        /<meta\s+name="twitter:image:alt"\s+content="[^"]*"\s*\/?>/,
+        `<meta name="twitter:image:alt" content="${escapeHtml(title)}" />`
     )
 
     // Replace JSON-LD schema with Article schema

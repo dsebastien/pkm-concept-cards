@@ -25,8 +25,7 @@
     "relatedConcepts": [
         "definition-of-done",
         "definition-of-ready",
-        "user-stories",
-        "behavior-driven-development"
+        "user-stories"
     ],
     "relatedNotes": [],
     "articles": [],
@@ -45,6 +44,11 @@
             "title": "Acceptance Criteria - Agile Alliance",
             "url": "https://www.agilealliance.org/glossary/acceptance-criteria/",
             "type": "website"
+        },
+        {
+            "title": "Dev Concepts",
+            "url": "https://dev-concepts.dev",
+            "type": "other"
         }
     ],
     "tutorials": [],
