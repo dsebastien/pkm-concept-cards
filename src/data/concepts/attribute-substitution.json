@@ -1,0 +1,43 @@
+{
+    "id": "attribute-substitution",
+    "name": "Attribute Substitution",
+    "summary": "A cognitive process where when faced with a difficult question, people unconsciously substitute an easier question and answer that instead.",
+    "explanation": "Attribute Substitution is a fundamental cognitive process identified by Nobel laureate Daniel Kahneman and his colleague Shane Frederick. It occurs when an individual has to make a judgment about a target attribute (such as the competence of a political candidate) that is computationally complex or difficult to assess. Instead of doing the hard cognitive work, the mind automatically substitutes a related heuristic attribute that is more easily accessible (such as how likeable the candidate appears).\n\nThe process operates largely unconsciously through what Kahneman calls System 1 thinking—our fast, intuitive, automatic mode of thought. When System 1 encounters a difficult question it cannot easily answer, it silently replaces it with an easier, related question. Crucially, the person making the judgment is often unaware that any substitution has occurred. They believe they have answered the original question when they have actually answered a different one.\n\nCommon examples of target attributes and their substituted heuristics include: When asked 'How happy are you with your life?' people often substitute 'What is my mood right now?' When evaluating 'How dangerous is this activity?' they substitute 'How easily can I recall examples of accidents?' (availability heuristic). When judging 'How probable is this scenario?' they substitute 'How representative does this seem?' (representativeness heuristic). When assessing 'What is the value of this charity?' they substitute 'How emotionally compelling is their message?' (affect heuristic).\n\nRecognizing attribute substitution in your own thinking requires deliberate effort. Warning signs include: answering a question very quickly without conscious effort, finding that your judgment is heavily influenced by vivid examples or recent experiences, noticing that your answer correlates strongly with your emotional state, and discovering that your conclusions change dramatically when the question is rephrased. To counteract this bias, practice pausing before answering complex questions, explicitly identify what is actually being asked versus what you are tempted to answer, seek out relevant data and statistics rather than relying on intuitive assessments, and consider whether your emotional response is appropriate to the actual question at hand.",
+    "tags": [
+        "cognitive-biases",
+        "decision-making",
+        "heuristics",
+        "judgment",
+        "psychology",
+        "thinking"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Question Substitution"
+    ],
+    "relatedConcepts": [
+        "affect-heuristic",
+        "availability-heuristic",
+        "representativeness-heuristic"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Attribute Substitution - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Attribute_substitution",
+            "type": "website"
+        },
+        {
+            "title": "Representativeness Revisited: Attribute Substitution in Intuitive Judgment - Kahneman & Frederick",
+            "url": "https://doi.org/10.1017/CBO9780511808098.004",
+            "type": "paper"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}

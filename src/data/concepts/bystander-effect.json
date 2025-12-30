@@ -1,0 +1,43 @@
+{
+    "id": "bystander-effect",
+    "name": "Bystander Effect",
+    "summary": "A social psychological phenomenon where individuals are less likely to offer help in an emergency when other people are present - the more bystanders, the less likely any will help.",
+    "explanation": "The Bystander Effect is a well-documented social psychological phenomenon where individuals are less likely to offer help to a victim when other people are present. The probability of intervention decreases as the number of bystanders increases. This counterintuitive finding reveals that being in a crowd can actually reduce rather than increase the chances of receiving help during an emergency.\n\nThe phenomenon gained widespread attention following the 1964 murder of Kitty Genovese in New York City. Initial reports claimed that 38 witnesses watched her stabbing without intervening or calling the police, though later investigations revealed this account was exaggerated. Nevertheless, the case prompted social psychologists John Darley and Bibb Latane to investigate why people fail to help in emergencies. Their landmark 1968 research established the bystander effect as a robust psychological phenomenon.\n\nDarley and Latane identified several psychological mechanisms that explain the bystander effect. The first is diffusion of responsibility: when multiple people are present, each individual feels less personal responsibility to act, assuming someone else will help or that responsibility is shared among all witnesses. The second mechanism is pluralistic ignorance: in ambiguous situations, people look to others to determine appropriate behavior. When everyone appears calm and inactive, each person interprets this as evidence that the situation is not an emergency, creating a collective paralysis.\n\nAdditional factors include evaluation apprehension (fear of being judged negatively if one misreads the situation), audience inhibition (reluctance to act in front of others), and the social influence of observing others' inaction. These factors combine to create a powerful psychological barrier to helping behavior.\n\nUnderstanding the bystander effect provides strategies for overcoming it. Victims can increase their chances of receiving help by singling out specific individuals (\"You in the red jacket, call 911\"), which breaks through diffusion of responsibility. Witnesses can combat the effect by recognizing it in themselves and taking deliberate action despite the presence of others. Training programs for first responders and emergency situations often include education about the bystander effect to counteract its influence.\n\nThe bystander effect has important implications for workplace safety, bullying prevention, and community response to emergencies. Organizations increasingly implement bystander intervention training to encourage people to take action when they witness harassment, discrimination, or dangerous situations.",
+    "tags": [
+        "cognitive-biases",
+        "social-psychology",
+        "group-dynamics",
+        "emergencies",
+        "helping-behaviors",
+        "decision-making"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Bystander Apathy",
+        "Genovese Syndrome"
+    ],
+    "relatedConcepts": [
+        "pluralistic-ignorance",
+        "social-proof"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Bystander Effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bystander_effect",
+            "type": "website"
+        },
+        {
+            "title": "Darley, J. M., & Latane, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility",
+            "url": "https://en.wikipedia.org/wiki/Bystander_effect#Research",
+            "type": "paper"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}

@@ -1,0 +1,48 @@
+{
+    "id": "actor-observer-bias",
+    "name": "Actor-Observer Bias",
+    "summary": "The tendency to attribute our own actions to situational factors while attributing others' actions to their character or personality traits.",
+    "explanation": "The Actor-Observer Bias (also known as Actor-Observer Asymmetry) is a cognitive bias describing the systematic difference in how we explain our own behavior versus the behavior of others. When we act, we tend to attribute our actions to situational factors and external circumstances; when we observe others acting, we tend to attribute their behavior to their dispositional traits, personality, or character. For example, if you trip on the stairs, you blame the uneven step; if you see someone else trip, you might think they're clumsy.\n\nThis phenomenon was first formally identified by psychologists Edward Jones and Richard Nisbett in their influential 1971 paper 'The Actor and the Observer: Divergent Perceptions of the Causes of Behavior.' Their research demonstrated that actors and observers have fundamentally different perspectives on the same behavior, leading to systematic attribution differences. While the actor is keenly aware of the situational pressures influencing their choices, the observer primarily sees the actor's behavior against a relatively static situational backdrop.\n\nSeveral factors explain why this asymmetry occurs. First, there is a visual perspective difference: actors literally cannot see themselves acting (their attention is directed outward at the situation), while observers focus on the actor as the central figure. Second, there is an information asymmetry: actors have access to their own history, intentions, and the full context of their behavior across many situations, while observers typically see only a single behavior in a single context. Third, actors know how their behavior varies across different situations, making situational attributions more salient, while observers often lack this comparative information.\n\nThe actor-observer bias has profound implications for interpersonal relationships and conflict resolution. It helps explain why arguments often escalate: each party attributes their own actions to reasonable responses to circumstances while viewing the other's actions as revealing character flaws. Understanding this bias can foster empathy and improve communication by encouraging us to consider that others may have situational reasons for their behavior, just as we do for our own. In professional settings, managers who recognize this bias can provide more constructive feedback and create environments where employees feel understood rather than unfairly judged.",
+    "tags": [
+        "cognitive-biases",
+        "attribution",
+        "social-psychology",
+        "relationships",
+        "thinking",
+        "psychology"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Actor-Observer Asymmetry",
+        "Actor-Observer Difference"
+    ],
+    "relatedConcepts": [
+        "fundamental-attribution-error",
+        "self-serving-bias"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "The Person and the Situation by Lee Ross & Richard E. Nisbett",
+            "url": "https://www.amazon.com/dp/1905177445?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Actor-Observer Asymmetry - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Actor%E2%80%93observer_asymmetry",
+            "type": "website"
+        },
+        {
+            "title": "The Actor and the Observer: Divergent Perceptions of the Causes of Behavior - Jones & Nisbett (1971)",
+            "url": "https://psycnet.apa.org/record/1987-25866-001",
+            "type": "paper"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}

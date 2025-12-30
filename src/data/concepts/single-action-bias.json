@@ -1,0 +1,40 @@
+{
+    "id": "single-action-bias",
+    "name": "Single-Action Bias",
+    "summary": "The tendency to take one action in response to a risk or problem and feel satisfied that the issue has been addressed, even when multiple actions are needed.",
+    "explanation": "Single-Action Bias is a cognitive bias where individuals take one protective action in response to a perceived risk or problem and then believe they have adequately addressed the threat, even when comprehensive protection requires multiple complementary actions. This bias creates a false sense of security that can leave people vulnerable to the very risks they believe they have mitigated.\n\nThe bias is particularly well-documented in disaster preparedness research. Studies of hurricane preparedness show that people who take one action, such as buying bottled water, often neglect other critical measures like boarding windows, creating evacuation plans, or securing important documents. They feel prepared because they did something, not because they did enough. Similarly, in earthquake-prone regions, installing a single smoke detector or securing one piece of furniture creates an illusion of readiness that discourages further protective measures.\n\nIn health contexts, single-action bias manifests when people adopt one healthy behavior and assume it compensates for other risks. Someone might start taking vitamin supplements while ignoring the need for regular exercise, proper sleep, and a balanced diet. A person who gets a flu shot might feel protected enough to skip hand-washing or avoiding crowded spaces during flu season. The single action becomes a psychological substitute for comprehensive health management.\n\nSeveral cognitive mechanisms contribute to this bias. First, the need for cognitive closure drives us to feel that problems are 'handled' and can be mentally filed away. Taking one action provides this satisfying sense of closure. Second, effort justification leads us to believe that because we invested effort in an action, it must be effective. Third, optimism bias makes us underestimate the likelihood that the remaining unaddressed risks will actually materialize. Finally, the complexity of comprehensive risk management creates cognitive load that our brains naturally seek to reduce.\n\nTo overcome single-action bias, several strategies prove effective. Create checklists that enumerate all necessary protective actions for a given risk, making the incompleteness of single actions visible. Use the 'What else?' technique after each action: explicitly ask what additional measures are needed. Reframe protection as a system rather than a single act. Seek external accountability by sharing your protection plan with others who can identify gaps. When possible, implement bundle-based thinking where related protective actions are grouped together as a package rather than considered independently.",
+    "tags": [
+        "cognitive-biases",
+        "risks",
+        "decision-making",
+        "problem-solving",
+        "psychology"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "action-bias",
+        "planning-fallacy",
+        "illusion-of-control"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Single-action bias - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Single-action_bias",
+            "type": "website"
+        },
+        {
+            "title": "Single-action bias: A barrier to protective action - Weber (2006)",
+            "url": "https://journals.sagepub.com/doi/10.2190/WH78-V1A7-TWPJ-M2M3",
+            "type": "paper"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}

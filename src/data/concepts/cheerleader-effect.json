@@ -1,0 +1,30 @@
+{
+    "id": "cheerleader-effect",
+    "name": "Cheerleader Effect",
+    "summary": "A cognitive bias where people appear more attractive when seen in a group than when viewed individually.",
+    "explanation": "The Cheerleader Effect is a cognitive bias whereby individual faces are perceived as more attractive when presented in a group context than when viewed in isolation. The term was popularized by the television show 'How I Met Your Mother,' but the phenomenon was scientifically validated by psychologists Drew Walker and Edward Vul at the University of California, San Diego in their 2014 research paper 'Hierarchical Encoding Makes Individuals in a Group Seem More Attractive.'\n\nWalker and Vul's experiments demonstrated that both male and female faces received higher attractiveness ratings when shown as part of a group compared to when the same faces were presented alone. The effect occurs regardless of gender and applies to groups of varying sizes.\n\nThe underlying mechanism involves how our visual system processes group information through ensemble coding. When we view a group of faces, our brain automatically computes an average of the facial features present. This averaging process tends to smooth out individual quirks, asymmetries, and distinctive features that might be perceived as less attractive. The averaged representation that forms in our mind becomes associated with each individual face, making each person appear closer to an idealized average and thus more attractive.\n\nThis effect has several practical implications. In social situations, people may strategically benefit from being photographed or appearing in groups rather than alone. It also helps explain why team photos or group settings might create more favorable impressions. The phenomenon is relevant in marketing, social media, and anywhere visual perception of attractiveness matters.\n\nThe Cheerleader Effect is related to other cognitive biases involving perception and judgment, such as the Halo Effect, where one positive attribute influences our overall impression of a person. Understanding these biases helps us recognize how our perceptions can be systematically skewed by contextual factors beyond the intrinsic qualities of what we observe.",
+    "tags": ["cognitive-biases", "perceptions", "social-psychology", "groups", "attractiveness"],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Group Attractiveness Effect"],
+    "relatedConcepts": ["halo-effect"],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Cheerleader effect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cheerleader_effect",
+            "type": "website"
+        },
+        {
+            "title": "Hierarchical Encoding Makes Individuals in a Group Seem More Attractive (Walker & Vul, 2014)",
+            "url": "https://journals.sagepub.com/doi/10.1177/0956797613497969",
+            "type": "paper"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}

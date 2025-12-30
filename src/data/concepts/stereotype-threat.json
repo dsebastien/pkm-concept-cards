@@ -1,0 +1,48 @@
+{
+    "id": "stereotype-threat",
+    "name": "Stereotype Threat",
+    "summary": "A situational predicament where people feel at risk of confirming negative stereotypes about their social group, which can impair their performance.",
+    "explanation": "Stereotype Threat is a psychological phenomenon first identified by social psychologists Claude Steele and Joshua Aronson in 1995. It occurs when individuals are aware of a negative stereotype about their social group and fear that their performance might confirm that stereotype. This fear creates additional cognitive and emotional burden that can actually impair performance, creating a tragic self-confirming cycle.\n\nThe phenomenon has been demonstrated across many domains and groups. In Steele and Aronson's landmark studies, African American students performed worse on standardized tests when their race was made salient, compared to when it was not. Similar effects have been found with women in mathematics, elderly individuals on memory tests, and white males when compared to Asian students on math tasks.\n\nThe mechanisms behind stereotype threat involve several cognitive processes. First, anxiety increases as individuals worry about confirming the stereotype. Second, this anxiety consumes working memory resources that would otherwise be used for the task at hand. Third, individuals may engage in self-monitoring and suppression of negative thoughts, further depleting cognitive resources. Fourth, motivation can be affected as people may disengage from domains where they feel threatened.\n\nImportantly, stereotype threat most strongly affects individuals who are highly identified with the domain in question and who care about performing well. Ironically, the students most motivated to succeed are often most vulnerable to its effects.\n\nSeveral interventions have proven effective in reducing stereotype threat. Self-affirmation exercises, where individuals reflect on their core values, can buffer against threat. Reframing tests as non-diagnostic of ability removes the evaluative pressure. Emphasizing a growth mindset helps individuals see abilities as malleable rather than fixed. Providing role models who have succeeded despite stereotypes can also be powerful. Additionally, simply educating people about stereotype threat can help inoculate them against its effects.\n\nUnderstanding stereotype threat has profound implications for education, workplace performance, and reducing achievement gaps. It demonstrates that performance differences between groups may reflect situational factors rather than inherent ability differences.",
+    "tags": [
+        "cognitive-biases",
+        "stereotypes",
+        "performance",
+        "social-psychology",
+        "education",
+        "anxiety",
+        "mindsets",
+        "biases"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "self-fulfilling-prophecy",
+        "psychological-essentialism",
+        "growth-mindset"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Whistling Vivaldi by Claude Steele",
+            "url": "https://www.amazon.com/dp/0393339726?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Stereotype Threat - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stereotype_threat",
+            "type": "website"
+        },
+        {
+            "title": "Claude Steele - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Claude_Steele",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}
