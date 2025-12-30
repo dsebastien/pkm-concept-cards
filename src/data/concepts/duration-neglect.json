@@ -1,0 +1,45 @@
+{
+    "id": "duration-neglect",
+    "name": "Duration Neglect",
+    "summary": "The psychological tendency to disregard or underweight the duration of an experience when evaluating it retrospectively, focusing instead on peak moments and endings.",
+    "explanation": "Duration Neglect is a cognitive bias identified by Nobel laureate Daniel Kahneman and colleagues that describes our remarkable insensitivity to how long an experience lasts when we evaluate it in hindsight. When remembering and judging past events, we focus primarily on the emotional peaks and endings rather than the total duration of pleasure or pain.\n\nKahneman's famous cold water experiments demonstrated this phenomenon vividly. Participants immersed their hands in painfully cold water (14°C) for 60 seconds. In another trial, they experienced 60 seconds of the same pain, followed by 30 additional seconds where the temperature rose slightly to 15°C - still painful, but marginally less so. When asked which experience they would prefer to repeat, most chose the longer 90-second trial. Objectively, they chose more total pain simply because it ended on a slightly better note. The duration of suffering was essentially ignored in their evaluation.\n\nThis bias is intimately connected to the Peak-End Rule: our retrospective judgments are dominated by the most intense moment (peak) and the final moment (end), while duration plays little role. Together, these biases reveal that our 'remembering self' evaluates experiences very differently from our 'experiencing self' that actually lives through them moment by moment.\n\nThe implications for designing experiences are profound. For positive experiences (vacations, entertainment, celebrations), extending duration adds little to remembered enjoyment - better to invest in creating memorable peaks and satisfying endings. For negative experiences (medical procedures, difficult conversations, tedious tasks), ensuring a gentle ending matters more than minimizing total time. A colonoscopy that ends with a few extra moments of reduced discomfort is remembered as less unpleasant than a shorter procedure that ends abruptly at peak discomfort.\n\nPractical applications include: designing customer experiences with memorable peaks and positive endings; structuring meetings to end on high notes; understanding why brief vacations can be as satisfying in memory as long ones if they include highlights; recognizing that enduring chronic minor discomfort creates less negative memories than brief intense episodes; and appreciating why the finale of any experience deserves disproportionate attention.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "memories",
+        "experience-design",
+        "well-being",
+        "decision-making"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "peak-end-rule",
+        "rosy-retrospection"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Duration Neglect - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Duration_neglect",
+            "type": "website"
+        },
+        {
+            "title": "When More Pain Is Preferred to Less - Kahneman et al.",
+            "url": "https://www.jstor.org/stable/40062570",
+            "type": "paper"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}

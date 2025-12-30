@@ -1,0 +1,43 @@
+{
+    "id": "insensitivity-to-sample-size",
+    "name": "Insensitivity to Sample Size",
+    "summary": "The cognitive bias where people fail to adequately account for sample size when assessing the reliability of statistical information, treating small and large samples as equally informative.",
+    "explanation": "Insensitivity to Sample Size is a cognitive bias identified by Daniel Kahneman and Amos Tversky where people fail to recognize that larger samples provide more reliable estimates than smaller ones. We intuitively treat information from small and large samples as equally trustworthy, when in reality the reliability of statistics depends critically on how much data underlies them.\n\nThe bias is famously illustrated by the hospital problem from Kahneman and Tversky's research. Participants were told that a large hospital has about 45 births per day and a small hospital has about 15 births per day. They were asked which hospital is more likely to record days where more than 60% of babies born are boys (the average being 50%). Most people said both hospitals are equally likely, or even that the larger hospital is more likely. The correct answer is the small hospital, because smaller samples show more variability - they're more likely to deviate from the population average.\n\nThis matters because the law of large numbers guarantees that larger samples will more closely approximate the true population value. A coin flipped 1,000 times will yield close to 50% heads, but a coin flipped 10 times might easily show 70% or 30% heads. We understand this when explained, but our intuitions don't naturally incorporate sample size when evaluating evidence.\n\nThe implications are profound for evaluating research and making decisions. A study with 30 participants showing a strong effect is far less reliable than one with 3,000 participants showing a moderate effect. Restaurant ratings based on 5 reviews are much less meaningful than those based on 500. A manager who judges employee performance based on a few observed instances commits the same error. Early results in any process - whether clinical trials, A/B tests, or investment returns - are highly variable and should be treated with appropriate skepticism.\n\nTo counter this bias: always ask 'how large is the sample?' before trusting any statistic; expect more extreme results from smaller samples; be especially skeptical of dramatic findings from small studies; and remember that representativeness in small samples is the exception, not the rule. When sample size is small, withhold judgment - the data simply hasn't stabilized yet.",
+    "tags": [
+        "cognitive-biases",
+        "statistics",
+        "probabilities",
+        "research",
+        "decision-making",
+        "psychology"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": ["Sample Size Neglect"],
+    "relatedConcepts": [
+        "representativeness-heuristic",
+        "small-sample-fallacy",
+        "regression-to-the-mean",
+        "law-of-large-numbers",
+        "sample-size"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Insensitivity to sample size - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Insensitivity_to_sample_size",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "introspection-illusion",
+    "name": "Introspection Illusion",
+    "summary": "The cognitive bias where people wrongly believe they have direct insight into the origins of their mental states while treating others' introspections as unreliable.",
+    "explanation": "The Introspection Illusion is a cognitive bias identified by psychologist Emily Pronin and colleagues, describing the tendency to trust our own introspective reports about our mental processes while dismissing similar reports from others as unreliable. We believe we have privileged, accurate access to why we think, feel, and act as we do, while assuming others lack such insight or are deceiving themselves.\n\nClassic research by Nisbett and Wilson in 1977 demonstrated that people often confabulate reasons for their choices. In one famous experiment, participants selected among identical stockings but overwhelmingly chose the rightmost option due to a mere position effect. When asked to explain their choice, none mentioned position; instead, they confidently cited qualities like texture or color that were actually identical across all options. This showed that introspective reports can be post-hoc rationalizations rather than accurate accounts of actual cognitive processes.\n\nThe illusion operates through several mechanisms. First, many mental processes occur unconsciously and are simply not accessible to introspection. Second, when we cannot access the true causes of our behavior, we generate plausible explanations based on cultural scripts, expectations, and lay theories about how minds work. Third, these confabulated explanations feel genuine because we have no subjective experience of the confabulation process itself.\n\nThe implications for self-knowledge are profound. Much of what we believe about our own motivations, preferences, and decision-making processes may be inaccurate. We may not know why we really chose a particular career, partner, or belief. Our explanations for our emotions and reactions may be more storytelling than reporting. This does not mean all introspection is worthless, but it suggests we should hold our self-narratives more loosely.\n\nBehavioral evidence can often be more reliable than introspection for understanding ourselves. Patterns in what we actually do, the choices we consistently make, and how we spend our time and resources may reveal our true preferences better than our stated reasons. Tracking behavior over time, seeking feedback from others who observe us, and paying attention to what we do when no one is watching can provide more accurate self-knowledge than introspective analysis alone.\n\nRecognizing the introspection illusion encourages intellectual humility about our self-understanding and more openness to others' observations about us. It suggests that we should be as skeptical of our own introspective reports as we would be of others' and that understanding ourselves may require looking outward at our behavior rather than only inward at our thoughts.",
+    "tags": [
+        "cognitive-biases",
+        "self-knowledge",
+        "metacognition",
+        "psychology",
+        "decision-making",
+        "self-awareness"
+    ],
+    "category": "Principles",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [],
+    "relatedConcepts": [
+        "illusion-of-asymmetric-insight",
+        "naive-realism",
+        "bias-blind-spot"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Strangers to Ourselves by Timothy Wilson",
+            "url": "https://www.amazon.com/dp/0674013824?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Introspection illusion - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Introspection_illusion",
+            "type": "website"
+        },
+        {
+            "title": "Telling More Than We Can Know: Verbal Reports on Mental Processes - Nisbett & Wilson (1977)",
+            "url": "https://doi.org/10.1037/0033-295X.84.3.231",
+            "type": "paper"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}

@@ -1,0 +1,50 @@
+{
+    "id": "conservatism-bias",
+    "name": "Conservatism Bias",
+    "summary": "The tendency to insufficiently revise beliefs when presented with new evidence.",
+    "explanation": "Conservatism Bias is a cognitive bias where people fail to update their beliefs sufficiently when presented with new evidence. Rather than adjusting their probability estimates as much as Bayesian analysis would prescribe, people tend to underweight new information and cling to their prior beliefs more than is rationally justified. This creates a systematic departure from optimal belief updating.\n\nThe relationship to Bayesian updating is central to understanding this bias. Bayes' theorem provides the mathematically optimal way to revise beliefs given new evidence. In experiments, when people are shown evidence that should dramatically shift their probability estimates, they typically move in the correct direction but not far enough. For example, if evidence suggests an 80% likelihood of something being true, people who started with a 50% estimate might only update to 60%. This insufficient adjustment means their beliefs remain anchored closer to their starting point than evidence warrants.\n\nSeveral factors contribute to why we are slow to update beliefs. First, cognitive effort - thoroughly processing new information and recalculating beliefs is mentally demanding. Second, emotional attachment - our existing beliefs are often tied to our identity, relationships, or past decisions, making change psychologically costly. Third, confirmation bias reinforces conservatism by causing us to downweight evidence that contradicts our priors. Fourth, people often lack confidence in their ability to interpret new evidence correctly, leading to excessive caution in updating.\n\nStrategies to better incorporate new evidence include: explicitly quantifying your beliefs before and after receiving new information to notice insufficient updating; asking yourself 'If I had no prior beliefs, what would this evidence alone suggest?'; seeking out disconfirming evidence actively; keeping a decision journal to review how your beliefs changed over time; using structured analytical techniques that force consideration of alternative hypotheses; and practicing calibration exercises that provide feedback on your probability estimates. For knowledge workers, recognizing conservatism bias is essential for accurate forecasting, good decision-making, and maintaining intellectual honesty in a rapidly changing information environment.",
+    "tags": [
+        "cognitive-biases",
+        "psychology",
+        "decision-making",
+        "probabilities",
+        "beliefs",
+        "thinking"
+    ],
+    "category": "Cognitive Biases",
+    "icon": "FaBrain",
+    "featured": false,
+    "aliases": [
+        "Belief Conservatism",
+        "Bayesian Conservatism"
+    ],
+    "relatedConcepts": [
+        "confirmation-bias",
+        "anchoring",
+        "belief-perseverance",
+        "bayes-theorem",
+        "base-rate-neglect"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Thinking, Fast and Slow by Daniel Kahneman",
+            "url": "https://www.amazon.com/dp/0374533555?tag=dsebastien00-20"
+        },
+        {
+            "title": "Superforecasting: The Art and Science of Prediction by Philip E. Tetlock",
+            "url": "https://www.amazon.com/dp/0804136718?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Conservatism (belief revision) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Conservatism_(belief_revision)",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30"
+}
