@@ -91,6 +91,9 @@ const HistoryPage: React.FC = () => {
     }, [historyData])
 
     const handleShowDetails = useCallback((concept: Concept) => {
+        // Save scroll position before opening modal
+        sessionStorage.setItem('scrollPosition', window.scrollY.toString())
+
         setSelectedConcept(concept)
         window.history.pushState({}, '', `/concept/${concept.id}?from=/history`)
     }, [])
@@ -98,6 +101,15 @@ const HistoryPage: React.FC = () => {
     const handleCloseDetails = useCallback(() => {
         setSelectedConcept(null)
         window.history.pushState({}, '', '/history')
+
+        // Restore scroll position after closing modal
+        requestAnimationFrame(() => {
+            const savedPosition = sessionStorage.getItem('scrollPosition')
+            if (savedPosition) {
+                window.scrollTo(0, parseInt(savedPosition, 10))
+                sessionStorage.removeItem('scrollPosition')
+            }
+        })
     }, [])
 
     const handleNavigateToConcept = useCallback((concept: Concept) => {

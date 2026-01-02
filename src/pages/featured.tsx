@@ -46,6 +46,9 @@ const FeaturedPage: React.FC = () => {
     }, [])
 
     const handleShowDetails = useCallback((concept: Concept) => {
+        // Save scroll position before opening modal
+        sessionStorage.setItem('scrollPosition', window.scrollY.toString())
+
         setSelectedConcept(concept)
         // Update URL for shareability without navigation
         window.history.pushState({}, '', `/concept/${concept.id}?from=/featured`)
@@ -55,6 +58,15 @@ const FeaturedPage: React.FC = () => {
         setSelectedConcept(null)
         // Restore URL to featured page
         window.history.pushState({}, '', '/featured')
+
+        // Restore scroll position after closing modal
+        requestAnimationFrame(() => {
+            const savedPosition = sessionStorage.getItem('scrollPosition')
+            if (savedPosition) {
+                window.scrollTo(0, parseInt(savedPosition, 10))
+                sessionStorage.removeItem('scrollPosition')
+            }
+        })
     }, [])
 
     const handleNavigateToConcept = useCallback((concept: Concept) => {

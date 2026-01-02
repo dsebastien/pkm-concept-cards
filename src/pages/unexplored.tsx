@@ -33,6 +33,9 @@ const UnexploredPage: React.FC = () => {
     const progressPercentage = Math.round((exploredCount / totalConcepts) * 100)
 
     const handleShowDetails = useCallback((concept: Concept) => {
+        // Save scroll position before opening modal
+        sessionStorage.setItem('scrollPosition', window.scrollY.toString())
+
         setSelectedConcept(concept)
         // Update URL to canonical format for shareability
         window.history.pushState({}, '', `/concept/${concept.id}`)
@@ -42,6 +45,15 @@ const UnexploredPage: React.FC = () => {
         setSelectedConcept(null)
         // Restore URL to unexplored page
         window.history.pushState({}, '', '/unexplored')
+
+        // Restore scroll position after closing modal
+        requestAnimationFrame(() => {
+            const savedPosition = sessionStorage.getItem('scrollPosition')
+            if (savedPosition) {
+                window.scrollTo(0, parseInt(savedPosition, 10))
+                sessionStorage.removeItem('scrollPosition')
+            }
+        })
     }, [])
 
     const handleNavigateToConcept = useCallback((concept: Concept) => {

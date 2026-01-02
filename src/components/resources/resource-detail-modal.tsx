@@ -41,6 +41,7 @@ const ResourceDetailModal: React.FC<ResourceDetailModalProps> = ({
     const modalRef = useRef<HTMLDivElement>(null)
     const navigate = useNavigate()
     const [slideDirection, setSlideDirection] = useState<'left' | 'right' | null>(null)
+    const scrollPositionRef = useRef<number>(0)
 
     // Sort resources alphabetically
     const sortedResources = useMemo(() => {
@@ -103,13 +104,31 @@ const ResourceDetailModal: React.FC<ResourceDetailModalProps> = ({
         }
 
         if (isOpen) {
+            // Try to get saved scroll position from sessionStorage (set before navigation)
+            const savedPosition = sessionStorage.getItem('scrollPosition')
+            if (savedPosition) {
+                scrollPositionRef.current = parseInt(savedPosition, 10)
+            } else {
+                scrollPositionRef.current = window.scrollY
+            }
+
             document.addEventListener('keydown', handleKeyDown)
             document.body.style.overflow = 'hidden'
+            document.body.style.position = 'fixed'
+            document.body.style.top = `-${scrollPositionRef.current}px`
+            document.body.style.width = '100%'
         }
 
         return () => {
             document.removeEventListener('keydown', handleKeyDown)
-            document.body.style.overflow = ''
+
+            // Restore body styles when modal closes (scroll position is handled by parent component)
+            if (isOpen) {
+                document.body.style.overflow = ''
+                document.body.style.position = ''
+                document.body.style.top = ''
+                document.body.style.width = ''
+            }
         }
     }, [isOpen, onClose, prevResource, nextResource])
 

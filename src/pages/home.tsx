@@ -59,6 +59,9 @@ const HomePage: React.FC = () => {
     const [localSearchQuery, setLocalSearchQuery] = useState(searchQueryFromUrl)
     const searchDebounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
+    // Local state for selected concept (to avoid navigate() scroll issues)
+    const [selectedConcept, setSelectedConcept] = useState<Concept | null>(null)
+
     // Sync local search query when URL changes (e.g., browser back/forward)
     useEffect(() => {
         setLocalSearchQuery(searchQueryFromUrl)
@@ -160,20 +163,20 @@ const HomePage: React.FC = () => {
     // Command palette state
     const [isCommandPaletteOpen, setIsCommandPaletteOpen] = useState(false)
 
-    // Derive modal state from URL
-    const selectedConcept = useMemo(() => {
-        if (!conceptId) return null
-        return conceptsData.concepts.find((c) => c.id === conceptId) || null
-    }, [conceptId])
-
-    const isDetailModalOpen = !!selectedConcept
-
-    // Mark concept as explored when modal opens
+    // Sync selected concept from URL (for direct links and browser back/forward)
     useEffect(() => {
         if (conceptId) {
-            markAsExplored(conceptId)
+            const concept = conceptsData.concepts.find((c) => c.id === conceptId)
+            if (concept) {
+                setSelectedConcept(concept)
+                markAsExplored(conceptId)
+            }
+        } else {
+            setSelectedConcept(null)
         }
     }, [conceptId, markAsExplored])
+
+    const isDetailModalOpen = !!selectedConcept
 
     // Get all unique tags from concepts
     const allTags = useMemo(() => {
@@ -258,6 +261,12 @@ const HomePage: React.FC = () => {
 
     const handleShowDetails = useCallback(
         (concept: Concept) => {
+            // Save scroll position before opening modal
+            sessionStorage.setItem('scrollPosition', window.scrollY.toString())
+
+            // Set selected concept in state
+            setSelectedConcept(concept)
+
             // Build the return path based on current location
             let fromPath = '/'
             if (tagName) {
@@ -266,30 +275,47 @@ const HomePage: React.FC = () => {
                 fromPath = `/category/${categoryName}`
             }
 
-            // Navigate to canonical concept URL, preserving filter params
+            // Update URL without navigation (using pushState to avoid scroll)
             const params = new URLSearchParams(searchParams)
             if (fromPath !== '/') {
                 params.set('from', fromPath)
             }
             const queryString = params.toString()
-            navigate(`/concept/${concept.id}${queryString ? `?${queryString}` : ''}`)
+            window.history.pushState(
+                {},
+                '',
+                `/concept/${concept.id}${queryString ? `?${queryString}` : ''}`
+            )
         },
-        [navigate, tagName, categoryName, searchParams]
+        [tagName, categoryName, searchParams]
     )
 
     const handleCloseDetails = useCallback(() => {
+        // Clear selected concept
+        setSelectedConcept(null)
+
         // Check for 'from' param to know where to return
         const fromPath = searchParams.get('from')
         if (fromPath) {
-            navigate(fromPath)
+            // Return to the original path (tag or category page)
+            window.history.pushState({}, '', fromPath)
         } else {
             // Return to home with current filters preserved (excluding 'from')
             const params = new URLSearchParams(searchParams)
             params.delete('from')
             const queryString = params.toString()
-            navigate(`/${queryString ? `?${queryString}` : ''}`)
+            window.history.pushState({}, '', `/${queryString ? `?${queryString}` : ''}`)
         }
-    }, [navigate, searchParams])
+
+        // Restore scroll position after closing modal
+        requestAnimationFrame(() => {
+            const savedPosition = sessionStorage.getItem('scrollPosition')
+            if (savedPosition) {
+                window.scrollTo(0, parseInt(savedPosition, 10))
+                sessionStorage.removeItem('scrollPosition')
+            }
+        })
+    }, [searchParams])
 
     const handleTagClick = useCallback(
         (tag: string) => {
