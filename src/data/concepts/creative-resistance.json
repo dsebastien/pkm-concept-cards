@@ -1,0 +1,61 @@
+{
+    "id": "creative-resistance",
+    "name": "Creative Resistance",
+    "summary": "The internal psychological force that prevents us from starting or completing creative work.",
+    "explanation": "Creative resistance, described by Steven Pressfield as 'The Resistance' in The War of Art, is the invisible psychological force that prevents us from doing our creative work. It manifests as procrastination, self-doubt, distraction, perfectionism, fear, and rationalization. Resistance is strongest when: the work is important to you, it requires vulnerability or risk, it involves growth or change, or when you're close to a breakthrough. Resistance is not lack of discipline or laziness - it's a force that emerges specifically around meaningful creative work. It's impersonal and universal: everyone experiences it, professionals and amateurs alike. Key characteristics of resistance: it's self-generated (comes from within), it's universal (affects everyone), it's insidious (disguises itself as rational), it's implacable (never goes away), and it's most powerful at the finish line. Overcoming resistance requires: recognizing it when it appears (awareness is the first step), treating creative work as non-negotiable (like a job you can't skip), developing routines that bypass decision-making, working despite fear rather than waiting for it to disappear, and understanding that showing up is the victory (the work itself defeats resistance). For knowledge workers and creators, understanding resistance helps you: recognize self-sabotage patterns, stop waiting for perfect conditions, and develop consistent creative practices that work regardless of feelings.",
+    "tags": [
+        "creativity",
+        "procrastination",
+        "psychology",
+        "creative-processes",
+        "productivity",
+        "obstacles"
+    ],
+    "category": "Psychology & Mental Models",
+    "icon": "FaShieldAlt",
+    "featured": false,
+    "aliases": [
+        "The Resistance",
+        "Creative block",
+        "Creative procrastination",
+        "Creative fear"
+    ],
+    "relatedConcepts": [
+        "writers-block",
+        "procrastination",
+        "perfectionism",
+        "activation-energy",
+        "resistance-to-starting",
+        "creative-momentum",
+        "fear-of-failure",
+        "impostor-syndrome",
+        "motivation-through-action"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "The War of Art by Steven Pressfield",
+            "url": "https://www.amazon.com/dp/1936891026?tag=dsebastien00-20"
+        },
+        {
+            "title": "Do the Work by Steven Pressfield",
+            "url": "https://www.amazon.com/dp/1936719010?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

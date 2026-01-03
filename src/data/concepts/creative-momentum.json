@@ -1,0 +1,54 @@
+{
+    "id": "creative-momentum",
+    "name": "Creative Momentum",
+    "summary": "The principle that creativity builds on itself - once you start creating, it becomes easier to continue.",
+    "explanation": "Creative momentum is the observation that creativity feeds on itself: the more you create, the easier it becomes to keep creating. When you're regularly producing creative work, ideas flow more freely, execution feels smoother, and resistance diminishes. Conversely, when you stop creating, starting again becomes progressively harder. This happens because: regular creative practice keeps your mind in a generative mode, each piece of work sparks ideas for the next, the act of creating develops skills that make future work easier, and overcoming resistance becomes habitual. Momentum is fragile - a few days away can break it, requiring effort to rebuild. Protecting creative momentum means: creating regularly even when you don't feel like it (consistency over intensity), finishing and shipping work rather than endless refinement (completion generates momentum), starting new projects while energy from finishing is high, and avoiding extended gaps that require restarting from scratch. Many creators maintain daily creative practices specifically to preserve momentum. Small consistent actions maintain momentum more effectively than sporadic intense efforts. Understanding creative momentum helps you: prioritize regular creative practice, recognize that 'waiting for inspiration' breaks momentum, and value the compound effects of consistent creative work.",
+    "tags": [
+        "creativity",
+        "productivity",
+        "habits",
+        "momentum",
+        "creative-processes"
+    ],
+    "category": "Psychology & Mental Models",
+    "icon": "FaRocket",
+    "featured": false,
+    "aliases": [
+        "Creative flow continuity",
+        "Momentum of creation",
+        "Creative inertia"
+    ],
+    "relatedConcepts": [
+        "flow-state",
+        "creative-resistance",
+        "writers-block",
+        "task-momentum",
+        "shipping",
+        "motivation-through-action",
+        "activation-energy",
+        "starting-ritual"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "The War of Art by Steven Pressfield",
+            "url": "https://www.amazon.com/dp/1936891026?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

@@ -1,0 +1,56 @@
+{
+    "id": "incubation-period",
+    "name": "Incubation Period",
+    "summary": "The rest and background processing time needed for creative ideas to develop and mature.",
+    "explanation": "The incubation period is a crucial phase in the creative process where ideas develop through unconscious mental processing rather than active work. After gathering information and thinking about a problem, stepping away allows your mind to work on it in the background. During incubation, your brain: makes unexpected connections between concepts, processes information you've absorbed, reorganizes ideas in novel ways, and allows solutions to emerge without forced effort. Incubation explains why breakthrough ideas often come during rest, exercise, showers, or sleep - moments when you're not actively working on the problem. The incubation period is most effective when: you've already done substantial conscious work on the problem (loaded your mind with relevant information), you fully disengage from the problem (not just taking a break while still thinking about it), and you engage in different activities that occupy your conscious mind. For knowledge workers and creators, honoring incubation means: not expecting immediate solutions to complex problems, planning rest periods as productive phases of work, capturing insights when they emerge during non-work time, and trusting the process of stepping away. Understanding incubation helps you: recognize rest as essential for creative work, resist the urge to force solutions through continuous effort, and value diverse activities that support unconscious processing.",
+    "tags": [
+        "creativity",
+        "problem-solving",
+        "rest",
+        "insights",
+        "creative-processes",
+        "psychology"
+    ],
+    "category": "Psychology & Mental Models",
+    "icon": "FaSeedling",
+    "featured": false,
+    "aliases": [
+        "Incubation phase",
+        "Creative incubation",
+        "Idea gestation",
+        "Unconscious processing"
+    ],
+    "relatedConcepts": [
+        "scatter-focus",
+        "default-mode-network",
+        "aha-moment",
+        "types-of-rest",
+        "serendipity",
+        "walking-meetings",
+        "creative-momentum",
+        "seasonal-creativity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Incubation (psychology) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Incubation_(psychology)",
+            "type": "website"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

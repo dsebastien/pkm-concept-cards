@@ -1,0 +1,51 @@
+{
+    "id": "binge-working",
+    "name": "Binge Working",
+    "summary": "Working in intense concentrated bursts followed by periods of rest or reduced activity.",
+    "explanation": "Binge working is a work pattern characterized by intense, concentrated periods of high output followed by periods of rest, recovery, or significantly reduced activity. Similar to binge-watching, it involves immersing yourself completely in work for extended stretches (hours, days, or weeks), then stepping back. This pattern is common among creative professionals, entrepreneurs, and knowledge workers during: project deadlines, creative breakthroughs when ideas are flowing, intense learning phases, or periods following long breaks. Binge working has both benefits and risks. Benefits include: deep immersion enabling complex problem-solving, riding waves of inspiration and energy, and producing significant output in compressed time. Risks include: burnout if recovery periods are insufficient, neglecting other life areas during binges, difficulty maintaining consistent momentum, and potential quality issues from fatigue. Sustainable binge working requires: planning recovery periods as seriously as work periods, setting clear boundaries for when binges end, monitoring for burnout signals, and balancing binges with regular sustainable work patterns. Some people work best this way naturally; others find it depleting. Understanding your relationship with binge working helps you: leverage it strategically when appropriate, recognize when you're binging unsustainably, and plan adequate recovery to prevent burnout.",
+    "tags": [
+        "productivity",
+        "work-patterns",
+        "burnout",
+        "deep-work",
+        "cycles",
+        "energy-management"
+    ],
+    "category": "Productivity",
+    "icon": "FaBolt",
+    "featured": false,
+    "aliases": [
+        "Sprint working",
+        "Burst working",
+        "Intense work periods"
+    ],
+    "relatedConcepts": [
+        "deep-work",
+        "burnout",
+        "feast-or-famine-cycle",
+        "types-of-rest",
+        "energy-management",
+        "work-cycles",
+        "flow-state",
+        "ultradian-rhythms",
+        "seasonal-creativity"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}
