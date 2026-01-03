@@ -1,3 +1,8 @@
+## [9.6.0](https://github.com/dsebastien/concept-cards/compare/9.5.0...9.6.0) (2026-01-03)
+
+### Features
+
+* **all:** added dev concepts (scm, git, ...) ([251ce2f](https://github.com/dsebastien/concept-cards/commit/251ce2fd9ab4d8443d4355188d6a675ea48c1559))
 ## [9.5.0](https://github.com/dsebastien/concept-cards/compare/9.4.0...9.5.0) (2026-01-03)
 
 ### Features
