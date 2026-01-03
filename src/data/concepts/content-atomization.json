@@ -1,0 +1,41 @@
+{
+    "id": "content-atomization",
+    "name": "Content Atomization",
+    "summary": "Breaking down long-form content into smaller, standalone pieces that each deliver value independently.",
+    "explanation": "Content Atomization is the practice of decomposing comprehensive content into atomic, self-contained pieces. A long article becomes multiple tweets, LinkedIn posts, or short videos—each complete on its own. This mirrors the atomic notes principle: every piece should be independently valuable and understandable. Atomization serves multiple purposes: it creates a content library for distribution, makes ideas more digestible, enables testing which concepts resonate, and provides building blocks for future content. The key is ensuring each atom stands alone—not just excerpts, but complete micro-ideas. For creators, atomization turns one substantial piece into weeks of distribution material while maintaining coherence. It's particularly effective for educational content where complex ideas benefit from focused exploration.",
+    "tags": [
+        "content-creation",
+        "writing",
+        "strategies",
+        "content-marketing",
+        "distribution"
+    ],
+    "category": "Writing & Content Creation",
+    "icon": "FaAtom",
+    "featured": false,
+    "aliases": [
+        "Content Breakdown",
+        "Atomic Content",
+        "Content Chunking"
+    ],
+    "relatedConcepts": [
+        "atomic-notes",
+        "atomic-essays",
+        "content-repurposing",
+        "pillar-pieces",
+        "progressive-summarization"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

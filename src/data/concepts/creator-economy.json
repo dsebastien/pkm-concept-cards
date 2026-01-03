@@ -1,0 +1,52 @@
+{
+    "id": "creator-economy",
+    "name": "Creator Economy",
+    "summary": "An economic model where individuals monetize their skills, knowledge, and creativity directly through digital platforms.",
+    "explanation": "The Creator Economy represents a fundamental shift in how people earn income—bypassing traditional gatekeepers to build direct relationships with audiences and monetize expertise, creativity, or entertainment. Enabled by platforms (YouTube, Substack, Patreon, Twitter/X), tools (Stripe, Gumroad), and distribution channels (social media, podcasts), creators can now earn from dozens to millions of followers. Revenue models include: subscriptions, digital products, courses, coaching, sponsorships, affiliate marketing, and NFTs. The creator economy democratizes entrepreneurship—anyone with valuable knowledge or engaging content can build an audience and business. Challenges include income volatility, algorithm dependence, and burnout from constant content demands. For knowledge workers, it represents an opportunity to build personal brands, share expertise, and create income streams beyond traditional employment. Success requires treating creation as a business: understanding your niche, delivering consistent value, and building sustainable systems.",
+    "tags": [
+        "businesses",
+        "content-creation",
+        "entrepreneurship",
+        "monetization",
+        "platforms"
+    ],
+    "category": "Business & Economics",
+    "icon": "FaUsers",
+    "featured": false,
+    "aliases": [
+        "Passion Economy",
+        "Solo Creator Business",
+        "Independent Creator"
+    ],
+    "relatedConcepts": [
+        "thousand-true-fans",
+        "minimum-viable-audience",
+        "personal-branding",
+        "value-ladder",
+        "building-in-public",
+        "content-marketing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "The Passion Economy by Adam Davidson",
+            "url": "https://www.amazon.com/dp/0525533346?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Creator economy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Creator_economy",
+            "type": "website"
+        },
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

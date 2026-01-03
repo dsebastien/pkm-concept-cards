@@ -1,0 +1,55 @@
+{
+    "id": "headline-writing",
+    "name": "Headline Writing",
+    "summary": "Crafting compelling titles that capture attention, communicate value, and drive engagement.",
+    "explanation": "Headline Writing is the art and science of creating titles that stop scrolling and compel reading. Your headline is often the only chance to convert a browser into a reader—if it fails, your content goes unread. Effective headlines balance curiosity with clarity, promise specific value, and speak to the reader's interests or pain points. Common formulas include: How-to ('How to X without Y'), Numbers ('7 Ways to...'), Questions ('Are You Making This Mistake?'), and Curiosity Gaps ('The Secret to X'). Great headlines are specific rather than vague, use power words that evoke emotion, and often include a clear benefit. Test different headlines—small wording changes dramatically impact click-through rates. For knowledge workers and creators, mastering headlines multiplies content impact without changing the content itself.",
+    "tags": [
+        "writing",
+        "content-creation",
+        "copywriting",
+        "marketing",
+        "communication"
+    ],
+    "category": "Writing & Content Creation",
+    "icon": "FaHeading",
+    "featured": false,
+    "aliases": [
+        "Title Writing",
+        "Headline Copywriting",
+        "Click-worthy Headlines"
+    ],
+    "relatedConcepts": [
+        "copywriting",
+        "curiosity-gap",
+        "call-to-action",
+        "click-through-rate",
+        "audience-awareness"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Everybody Writes by Ann Handley",
+            "url": "https://www.amazon.com/dp/1118905555?tag=dsebastien00-20"
+        },
+        {
+            "title": "The Copywriter's Handbook by Robert W. Bly",
+            "url": "https://www.amazon.com/dp/1250238013?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Headline - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Headline",
+            "type": "website"
+        },
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "content-batching",
+    "name": "Content Batching",
+    "summary": "Creating multiple pieces of content in dedicated production sessions to improve efficiency and consistency.",
+    "explanation": "Content Batching is the practice of producing multiple pieces of content in single, focused sessions rather than one-at-a-time. Instead of writing one article per day, you might batch-write five articles in one day. This approach leverages context: when you're in 'writing mode,' your brain is primed for that work, making subsequent pieces faster and easier. Batching also enables consistency—you can create weeks of content in advance, protecting against low-motivation days or busy periods. Common batching workflows include: script-writing multiple videos, designing a month of graphics, recording several podcast episodes, or drafting weekly newsletters. The key is staying in one mode (writing, recording, editing) rather than switching between tasks. For creators, batching separates creation from distribution, allowing scheduled publishing even when you're not actively creating. This reduces stress and maintains audience consistency.",
+    "tags": [
+        "content-creation",
+        "productivity",
+        "time-management",
+        "workflows",
+        "efficiency"
+    ],
+    "category": "Writing & Content Creation",
+    "icon": "FaLayerGroup",
+    "featured": false,
+    "aliases": [
+        "Batch Content Creation",
+        "Content Production Batching",
+        "Bulk Content Creation"
+    ],
+    "relatedConcepts": [
+        "task-batching",
+        "content-calendar",
+        "content-workflow",
+        "deep-work",
+        "time-blocking"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://obsidianstarterkit.com",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

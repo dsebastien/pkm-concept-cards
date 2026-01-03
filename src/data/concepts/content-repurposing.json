@@ -1,0 +1,71 @@
+{
+    "id": "content-repurposing",
+    "name": "Content Repurposing",
+    "summary": "Transforming one piece of content into multiple formats for different platforms and audiences.",
+    "explanation": "Content Repurposing is the practice of taking a single piece of content and adapting it into different formats to reach wider audiences and maximize its value. A blog post becomes a Twitter thread, YouTube video, podcast episode, infographic, and newsletter. This approach multiplies your content's reach without creating from scratch each time. The core message remains consistent, but the format adapts to platform strengths and audience preferences. Repurposing is efficient—you research once but distribute many times. It also reinforces key ideas through repetition across channels. For creators, repurposing turns one hour of creation into weeks of content. The key is understanding each platform's unique characteristics and adapting accordingly, not just copy-pasting.",
+    "tags": [
+        "content-creation",
+        "strategies",
+        "productivity",
+        "marketing",
+        "distribution"
+    ],
+    "category": "Writing & Content Creation",
+    "icon": "FaRecycle",
+    "featured": false,
+    "aliases": [
+        "Content Recycling",
+        "Content Adaptation",
+        "Content Reuse"
+    ],
+    "relatedConcepts": [
+        "content-atomization",
+        "content-distribution",
+        "pillar-pieces",
+        "atomic-essays",
+        "content-batching"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://obsidianstarterkit.com",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

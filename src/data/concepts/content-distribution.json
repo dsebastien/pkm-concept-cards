@@ -1,0 +1,51 @@
+{
+    "id": "content-distribution",
+    "name": "Content Distribution",
+    "summary": "The process of sharing and promoting content across multiple channels to reach target audiences.",
+    "explanation": "Content Distribution is how you get your content in front of your audience. Creating great content is only half the equation—distribution determines who sees it. Distribution channels include: owned (your website, email list), earned (shares, mentions, PR), and paid (ads, sponsored posts). Effective distribution requires understanding where your audience spends time and tailoring content format and messaging for each platform. A common mistake is creating once and posting the same thing everywhere—each platform has unique norms, optimal formats, and audience expectations. Smart distribution involves strategic timing, platform-specific adaptation, and consistent presence. For creators, distribution often matters more than production quality—mediocre content with great distribution outperforms great content with poor distribution. The goal is systematic, repeatable distribution that compounds over time.",
+    "tags": [
+        "content-creation",
+        "marketing",
+        "strategies",
+        "growth",
+        "social-media"
+    ],
+    "category": "Writing & Content Creation",
+    "icon": "FaShareAlt",
+    "featured": false,
+    "aliases": [
+        "Content Promotion",
+        "Content Amplification",
+        "Content Syndication"
+    ],
+    "relatedConcepts": [
+        "content-repurposing",
+        "content-marketing",
+        "social-media-marketing",
+        "audience-acquisition-flywheel",
+        "distribution-channels"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "Traction by Gabriel Weinberg and Justin Mares",
+            "url": "https://www.amazon.com/dp/1591848369?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Content marketing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Content_marketing",
+            "type": "website"
+        },
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

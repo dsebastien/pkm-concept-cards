@@ -1,0 +1,76 @@
+{
+    "id": "content-calendar",
+    "name": "Content Calendar",
+    "summary": "A schedule for planning and organizing content publication across channels and timeframes.",
+    "explanation": "A Content Calendar is a scheduling tool that organizes what content you'll publish, when, and where. It provides visibility into your content pipeline, prevents last-minute scrambling, and ensures consistent publishing. Good content calendars include: publication dates, content titles/topics, formats (blog, video, podcast), distribution channels, status (idea, draft, scheduled, published), and who's responsible. They help you plan around key dates, maintain content diversity, batch similar tasks, and identify gaps in coverage. For solo creators, even a simple spreadsheet calendar reduces decision fatigue and maintains momentum. For teams, calendars coordinate efforts and prevent duplicates. The calendar should be flexible—life happens—but provides structure to prevent reactive, inconsistent publishing.",
+    "tags": [
+        "content-creation",
+        "planning",
+        "organization",
+        "productivity",
+        "time-management"
+    ],
+    "category": "Writing & Content Creation",
+    "icon": "FaCalendarAlt",
+    "featured": false,
+    "aliases": [
+        "Editorial Calendar",
+        "Publishing Schedule",
+        "Content Schedule"
+    ],
+    "relatedConcepts": [
+        "content-workflow",
+        "content-batching",
+        "content-pillars",
+        "time-blocking",
+        "batching-strategies"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://obsidianstarterkit.com",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

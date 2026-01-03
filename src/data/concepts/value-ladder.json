@@ -1,0 +1,50 @@
+{
+    "id": "value-ladder",
+    "name": "Value Ladder",
+    "summary": "A progression of offers that increase in value and price, guiding customers from low-commitment entry points to premium offerings.",
+    "explanation": "The Value Ladder is a strategic framework for structuring products and services in ascending tiers of value and price. It typically starts with free or low-cost entry points (lead magnets, free content) that build trust and demonstrate value. As customers ascend, offerings become more valuable, personalized, and expensive: ebooks, courses, group coaching, one-on-one consulting, done-for-you services. Each rung serves different customer needs and commitment levels while increasing your revenue per customer. The ladder works because it meets people where they are—some can only afford $10, others will pay $10,000 for the right solution. For creators and knowledge workers, the value ladder transforms content into a business model: free content builds audience, low-ticket products convert followers, high-ticket offerings maximize lifetime value. The key is ensuring each level delivers genuine value that naturally creates desire for the next level.",
+    "tags": [
+        "businesses",
+        "marketing",
+        "monetization",
+        "strategies",
+        "sales"
+    ],
+    "category": "Business & Economics",
+    "icon": "FaChartLine",
+    "featured": false,
+    "aliases": [
+        "Product Ladder",
+        "Ascension Model",
+        "Customer Journey Ladder"
+    ],
+    "relatedConcepts": [
+        "creator-economy",
+        "sales-funnel",
+        "customer-journey",
+        "upselling",
+        "freemium-model"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [
+        {
+            "title": "DotCom Secrets by Russell Brunson",
+            "url": "https://www.amazon.com/dp/1401960464?tag=dsebastien00-20"
+        },
+        {
+            "title": "$100M Offers by Alex Hormozi",
+            "url": "https://www.amazon.com/dp/1737475715?tag=dsebastien00-20"
+        }
+    ],
+    "references": [
+        {
+            "title": "Value ladder - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Value_ladder",
+            "type": "website"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}

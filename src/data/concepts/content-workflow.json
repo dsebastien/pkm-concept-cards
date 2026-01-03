@@ -1,0 +1,76 @@
+{
+    "id": "content-workflow",
+    "name": "Content Workflow",
+    "summary": "A systematic process for creating, reviewing, approving, and publishing content efficiently and consistently.",
+    "explanation": "A Content Workflow defines the repeatable steps content moves through from idea to publication. Typical stages include: ideation (capturing ideas), planning (adding to calendar), drafting (first version), editing (refining), review (quality check), approval (final sign-off), publishing (going live), and distribution (promoting). Well-defined workflows prevent bottlenecks, ensure quality standards, clarify responsibilities (especially for teams), and make content production predictable rather than chaotic. For solo creators, even simple workflows reduce decision fatigue—you know exactly what step comes next. For teams, workflows coordinate handoffs and maintain consistency. Good workflows also include feedback loops: analyzing performance to inform future content. The workflow should match your scale—a solo blogger needs simplicity; a content team needs structure. Tools like Trello, Notion, or Airtable can visualize and track workflow stages.",
+    "tags": [
+        "content-creation",
+        "processes",
+        "productivity",
+        "organization",
+        "workflows"
+    ],
+    "category": "Writing & Content Creation",
+    "icon": "FaStream",
+    "featured": false,
+    "aliases": [
+        "Content Production Process",
+        "Editorial Workflow",
+        "Content Pipeline"
+    ],
+    "relatedConcepts": [
+        "content-calendar",
+        "content-batching",
+        "writing-process",
+        "workflows",
+        "content-marketing"
+    ],
+    "relatedNotes": [],
+    "articles": [],
+    "books": [],
+    "references": [
+        {
+            "title": "AI Ghostwriter Guide",
+            "url": "https://store.dsebastien.net/l/ai-ghostwriter-guide",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Kit",
+            "url": "https://obsidianstarterkit.com",
+            "type": "other"
+        },
+        {
+            "title": "Obsidian Starter Course",
+            "url": "https://store.dsebastien.net/l/obsidian-starter-course",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Management for Beginners",
+            "url": "https://knowledge-management-for-beginners.com",
+            "type": "other"
+        },
+        {
+            "title": "Knowii Community",
+            "url": "https://store.dsebastien.net/l/knowii",
+            "type": "other"
+        },
+        {
+            "title": "Knowledge Worker Kit",
+            "url": "https://store.dsebastien.net/l/knowledge-worker-kit",
+            "type": "other"
+        },
+        {
+            "title": "Personal Knowledge Management Coaching",
+            "url": "https://store.dsebastien.net/l/pkm-coaching",
+            "type": "other"
+        },
+        {
+            "title": "DeveloPassion Newsletter",
+            "url": "https://dsebastien.net/newsletter",
+            "type": "other"
+        }
+    ],
+    "tutorials": [],
+    "datePublished": "2026-01-03",
+    "dateModified": "2026-01-03"
+}
